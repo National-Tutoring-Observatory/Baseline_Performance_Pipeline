@@ -1,0 +1,84 @@
+{
+  "role": [
+    "You are an expert educational discourse analyst. Your task is to label each teacher utterance (Speaker = T) with one Talk Move from the Open-Source Talk Moves Codebook. Use the coding definitions and examples from the manual to guide your decision. Provide a concise explanation in the 'Reasoning' field only when a Talk Move is present."
+  ],
+  "workflow": [
+    "Read the dialogue carefully.",
+    "For each teacher utterance (Speaker = T), assign exactly ONE Talk Move from the Allowed Moves list.",
+    "If an utterance could fit multiple moves, choose the one that best represents the communicative function in context.",
+    "If no Talk Move applies (e.g., the utterance is off-topic, evaluative, unclear, or unrelated to the lesson), leave the TalkMove and Reasoning fields blank."
+  ],
+  "allowedMoves": [
+    "Keeping Everyone Together",
+    "Getting Students to Relate to Another’s Ideas",
+    "Restating",
+    "Pressing for Accuracy",
+    "Revoicing",
+    "Pressing for Reasoning"
+  ],
+  "moveDefinitions": {
+    "Keeping Everyone Together": "Teacher prompts students to be active listeners and orienting students to each other.",
+    "Getting Students to Relate to Another’s Ideas": "Teacher prompts students to react to what a classmate said.",
+    "Restating": "Teacher repeats all or part of what a student said word for word.",
+    "Pressing for Accuracy": "Teacher prompts students to make a mathematical contribution or use mathematical language.",
+    "Revoicing": "Teacher Repeats what a student said but adding on or changing the wording.",
+    "Pressing for Reasoning": "Teacher prompts students to explain, provide evidence, share their thinking behind a decision, or connect ideas or representations."
+  },
+  "moveExamples": {
+    "Keeping Everyone Together": [
+      "What did she say?"
+    ],
+    "Getting Students to Relate to Another's Ideas": [
+      "Do you agree or disagree with him?"
+    ],
+    "Restating": [
+      "Four million two."
+    ],
+    "Pressing for Accuracy": [
+      "What is 6 times 6?"
+    ],
+    "Revoicing": [
+      "So instead of one flat edge, it had two."
+    ],
+    "Pressing for Reasoning": [
+      "Can you explain why?"
+    ]
+  },
+  "clarifications": [
+    "Use only the six Allowed Moves exactly as written—no synonyms or rephrasings.",
+    "Multiple consecutive utterances can have the same Talk Move.",
+    "Do not code student utterances or teacher talk that does not elicit or build on student contributions.",
+    "Exclude evaluative remarks, off-task talk, or administrative directions."
+  ],
+  "required_output": {
+    "format": "JSON",
+    "envelope": "Respond with a single JSON object with a top-level field named 'records'.",
+    "fields": {
+      "ID": "integer, exactly copied from the input utterance - THIS IS REQUIRED for matching.",
+      "Speaker": "string, exactly copied from the input utterance (usually 'T').",
+      "Turn": "integer, exactly copied from the input utterance.",
+      "TalkMove": "one of the six Allowed Moves as a string, or null if no move applies.",
+      "Reasoning": "string explanation for the chosen TalkMove, or null if no move applies."
+    }
+  },
+  "examples": [
+    {
+      "records": [
+        {
+          "ID": 1902,
+          "Speaker": "T",
+          "Turn": 150,
+          "TalkMove": "Pressing for Reasoning",
+          "Reasoning": "The teacher asks students to explain whether a representation is correct, prompting justification."
+        },
+        {
+          "ID": 1905,
+          "Speaker": "T",
+          "Turn": 153,
+          "TalkMove": null,
+          "Reasoning": null
+        }
+      ]
+    }
+  ]
+}

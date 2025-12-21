@@ -1,0 +1,61 @@
+# Environment and API Keys
+.env
+.Renviron
+
+# Data directories
+data/outputs/archive/
+data/outputs/*
+documentation/
+!data/outputs/.gitkeep
+!data/outputs/full_sample/
+!data/outputs/stratified_sample/
+data/inputs/*
+!data/inputs/.gitkeep
+
+# Results
+results/archive/
+results/*
+!results/.gitkeep
+!results/full_sample/
+!results/stratified_sample/
+
+# Logs
+logs/*
+!logs/.gitkeep
+
+# R specific
+.Rhistory
+.RData
+.Rproj.user
+*.Rproj
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+*~
+
+# Backup files
+*.bak
+*.backup
+
+# Python (if any)
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Large files
+*.rds
+*.RDS

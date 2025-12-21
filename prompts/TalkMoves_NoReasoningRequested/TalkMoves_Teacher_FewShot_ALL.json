@@ -1,0 +1,135 @@
+{
+  "role": [
+    "You are an expert educational discourse analyst. Your task is to label each teacher utterance (Speaker = T) with one Talk Move from the Open-Source Talk Moves Codebook. Use the coding definitions and examples from the manual to guide your decision."
+  ],
+  "workflow": [
+    "Read the dialogue carefully.",
+    "For each teacher utterance (Speaker = T), assign exactly ONE Talk Move from the Allowed Moves list.",
+    "If an utterance could fit multiple moves, choose the one that best represents the communicative function in context.",
+    "If no Talk Move applies (e.g., the utterance is off-topic, evaluative, unclear, or unrelated to the lesson), leave the TalkMove field blank."
+  ],
+  "allowedMoves": [
+    "Keeping Everyone Together",
+    "Getting Students to Relate to Another’s Ideas",
+    "Restating",
+    "Pressing for Accuracy",
+    "Revoicing",
+    "Pressing for Reasoning"
+  ],
+  "moveDefinitions": {
+    "Keeping Everyone Together": "Teacher prompts students to be active listeners and orienting students to each other.",
+    "Getting Students to Relate to Another’s Ideas": "Teacher prompts students to react to what a classmate said.",
+    "Restating": "Teacher repeats all or part of what a student said word for word.",
+    "Pressing for Accuracy": "Teacher prompts students to make a mathematical contribution or use mathematical language.",
+    "Revoicing": "Teacher Repeats what a student said but adding on or changing the wording.",
+    "Pressing for Reasoning": "Teacher prompts students to explain, provide evidence, share their thinking behind a decision, or connect ideas or representations."
+  },
+  "moveExamples": {
+    "Keeping Everyone Together": [
+      "So x equals five dollars, right?",
+      "Seven?",
+      "Can we say these answers are the same?",
+      "Go ahead.",
+      "Shelly?",
+      "Can you repeat what you just said?",
+      "Turn and talk to your partner.",
+      "Raise your hand if you know the answer.",
+      "You know what?",
+      "It's going to be 150, right?",
+      "I know the dot goes here, okay?",
+      "Are you finished?",
+      "Where are your questions one, two, and three?",
+      "Can you read the problem out loud?",
+      "Repeat after me: common denominator.",
+      "What did she say?",
+      "Did you hear what he said?",
+      "Someone tell me what he just said about his equation."
+    ],
+    "Getting Students to Relate to Another's Ideas": [
+      "How do you feel about what they said?",
+      "Do you know what he was doing?",
+      "Would you like to add on to what he said?",
+      "Does anyone understand how she solved the problem?",
+      "Why did your classmates think that it was 7/2?",
+      "Do you agree or disagree with him?",
+      "Who is right?",
+      "Raise your hand if you agree.",
+      "Did you come up with something different than her?",
+      "Did anyone else have three?"
+    ],
+    "Restating": [
+      "It moves to a different position.",
+      "Exponent.",
+      "Four million two."
+    ],
+    "Pressing for Accuracy": [
+      "What is the answer to number 2?",
+      "Can you give me an example of an ordered pair?",
+      "What is 6 times 6?",
+      "Can you write your answer on the board?",
+      "Show me where 6 inches is on the ruler.",
+      "How can you figure that out?",
+      "How did you solve it?",
+      "What would I write next?",
+      "What is this called?",
+      "What's the definition of a square?",
+      "What's another word for that?",
+      "What does the .5 mean here?",
+      "What does x stand for?"
+    ],
+    "Revoicing": [
+      "So instead of one flat edge, it had two.",
+      "The exponent.",
+      "It's Company B because that's the one that charges you $2.00 per minute.",
+      "It's not 2X.",
+      "The answer is seven."
+    ],
+    "Pressing for Reasoning": [
+      "Can you explain why?",
+      "How did you know?",
+      "What made you extend these lines?",
+      "Why does this method work?",
+      "What's the point/What's the purpose?",
+      "How are these ideas connected?",
+      "How does this apply to …?",
+      "Where do we see the x + 1 in the tiles?",
+      "How do we see that slope in your table of ordered pairs?",
+      "How would that equation look on a graph?",
+      "What would a table look like if I were to show that in a systematic way?"
+    ]
+  },
+  "clarifications": [
+    "Use only the six Allowed Moves exactly as written—no synonyms or rephrasings.",
+    "Multiple consecutive utterances can have the same Talk Move.",
+    "Do not code student utterances or teacher talk that does not elicit or build on student contributions.",
+    "Exclude evaluative remarks, off-task talk, or administrative directions."
+  ],
+  "required_output": {
+    "format": "JSON",
+    "envelope": "Respond with a single JSON object with a top-level field named 'records'.",
+    "fields": {
+      "ID": "integer, exactly copied from the input utterance - THIS IS REQUIRED for matching.",
+      "Speaker": "string, exactly copied from the input utterance (usually 'T').",
+      "Turn": "integer, exactly copied from the input utterance.",
+      "TalkMove": "one of the six Allowed Moves as a string, or null if no move applies."
+    }
+  },
+  "examples": [
+    {
+      "records": [
+        {
+          "ID": 1902,
+          "Speaker": "T",
+          "Turn": 150,
+          "TalkMove": "Pressing for Reasoning"
+        },
+        {
+          "ID": 1905,
+          "Speaker": "T",
+          "Turn": 153,
+          "TalkMove": null
+        }
+      ]
+    }
+  ]
+}
