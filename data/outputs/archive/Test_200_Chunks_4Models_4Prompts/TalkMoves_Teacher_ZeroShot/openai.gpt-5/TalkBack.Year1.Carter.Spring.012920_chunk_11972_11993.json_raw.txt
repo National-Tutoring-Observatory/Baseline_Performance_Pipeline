@@ -1,0 +1,137 @@
+{
+  "records": [
+    {
+      "ID": 11974,
+      "Speaker": "T",
+      "Turn": 66,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11975,
+      "Speaker": "T",
+      "Turn": 66,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher paraphrases the student’s idea that using 6 × 4 is a more efficient approach than counting individual squares."
+    },
+    {
+      "ID": 11976,
+      "Speaker": "T",
+      "Turn": 66,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11977,
+      "Speaker": "T",
+      "Turn": 66,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11978,
+      "Speaker": "T",
+      "Turn": 67,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11979,
+      "Speaker": "T",
+      "Turn": 67,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts students to explain their thinking, modeling it after Titus’s explanation."
+    },
+    {
+      "ID": 11980,
+      "Speaker": "T",
+      "Turn": 67,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11981,
+      "Speaker": "T",
+      "Turn": 67,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11982,
+      "Speaker": "T",
+      "Turn": 68,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11983,
+      "Speaker": "T",
+      "Turn": 68,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11984,
+      "Speaker": "T",
+      "Turn": 68,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to propose a strategy for multiplying fractions without area models, eliciting their method."
+    },
+    {
+      "ID": 11985,
+      "Speaker": "T",
+      "Turn": 68,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11986,
+      "Speaker": "T",
+      "Turn": 69,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher invites students to share conjectures about the algorithm, prompting their reasoning."
+    },
+    {
+      "ID": 11987,
+      "Speaker": "T",
+      "Turn": 69,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks what they think the algorithm would be, soliciting their reasoning."
+    },
+    {
+      "ID": 11988,
+      "Speaker": "T",
+      "Turn": 69,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11989,
+      "Speaker": "T",
+      "Turn": 69,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher again asks students to state the algorithm, eliciting their thinking."
+    },
+    {
+      "ID": 11990,
+      "Speaker": "T",
+      "Turn": 69,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11992,
+      "Speaker": "T",
+      "Turn": 71,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher directs students to recall and use the precise meaning of the mathematical term 'algorithm.'"
+    },
+    {
+      "ID": 11993,
+      "Speaker": "T",
+      "Turn": 71,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

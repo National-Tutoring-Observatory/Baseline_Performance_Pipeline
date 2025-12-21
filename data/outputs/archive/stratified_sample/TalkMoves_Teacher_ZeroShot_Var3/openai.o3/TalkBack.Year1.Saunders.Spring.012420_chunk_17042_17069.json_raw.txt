@@ -1,0 +1,158 @@
+{
+  "records": [
+    {
+      "ID": 17042,
+      "Speaker": "T",
+      "Turn": 78,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17044,
+      "Speaker": "T",
+      "Turn": 80,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17045,
+      "Speaker": "T",
+      "Turn": 80,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17046,
+      "Speaker": "T",
+      "Turn": 80,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17048,
+      "Speaker": "T",
+      "Turn": 82,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "By noting the student's uncertainty ('You don’t sound very convinced'), the teacher implicitly asks the student to justify or elaborate on their answer."
+    },
+    {
+      "ID": 17050,
+      "Speaker": "T",
+      "Turn": 84,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student’s word 'Positive' exactly as the student just said it."
+    },
+    {
+      "ID": 17051,
+      "Speaker": "T",
+      "Turn": 84,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher restates the student’s idea (‘It’s positive’) and adds an explanation about the parabola opening, thus rephrasing and extending the student’s contribution."
+    },
+    {
+      "ID": 17053,
+      "Speaker": "T",
+      "Turn": 86,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher echoes the student’s answer 'Up' and elaborates with personal commentary, rephrasing and adding to the idea."
+    },
+    {
+      "ID": 17054,
+      "Speaker": "T",
+      "Turn": 87,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to determine whether the graph has a minimum or maximum, prompting them to connect the direction of opening to the concept of extrema."
+    },
+    {
+      "ID": 17056,
+      "Speaker": "T",
+      "Turn": 88,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher echoes the student’s response 'A minimum' by saying 'A minimum value,' restating it almost verbatim."
+    },
+    {
+      "ID": 17057,
+      "Speaker": "T",
+      "Turn": 88,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks what the minimum value means in the context of the story, prompting students to interpret and explain its significance."
+    },
+    {
+      "ID": 17058,
+      "Speaker": "T",
+      "Turn": 88,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher explicitly directs students to 'Interpret the minimum value for this story,' asking for an explanation of its meaning."
+    },
+    {
+      "ID": 17059,
+      "Speaker": "T",
+      "Turn": 88,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17060,
+      "Speaker": "T",
+      "Turn": 89,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17061,
+      "Speaker": "T",
+      "Turn": 89,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17062,
+      "Speaker": "T",
+      "Turn": 89,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17063,
+      "Speaker": "T",
+      "Turn": 89,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17064,
+      "Speaker": "T",
+      "Turn": 89,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks students to specify which axis represents the year, pushing for a precise identification."
+    },
+    {
+      "ID": 17065,
+      "Speaker": "T",
+      "Turn": 89,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The follow-up question ('Is my year ... Y or ... X?') continues to demand the exact, correct placement of the variable."
+    },
+    {
+      "ID": 17067,
+      "Speaker": "T",
+      "Turn": 90,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17068,
+      "Speaker": "T",
+      "Turn": 90,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to explain the method for finding the x-value of the minimum from standard form, prompting them to articulate their reasoning process."
+    },
+    {
+      "ID": 17069,
+      "Speaker": "T",
+      "Turn": 91,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

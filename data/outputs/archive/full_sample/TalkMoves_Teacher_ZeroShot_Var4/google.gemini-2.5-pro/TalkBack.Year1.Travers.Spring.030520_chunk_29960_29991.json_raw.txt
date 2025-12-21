@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 29960,
+      "Speaker": "T",
+      "Turn": 29960,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 29962,
+      "Speaker": "T",
+      "Turn": 29962,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to explain if their work makes sense, prompting for justification."
+    },
+    {
+      "ID": 29964,
+      "Speaker": "T",
+      "Turn": 29964,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to connect their drawing to the problem, prompting for an explanation."
+    },
+    {
+      "ID": 29966,
+      "Speaker": "T",
+      "Turn": 29966,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 29967,
+      "Speaker": "T",
+      "Turn": 29967,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to evaluate their work, prompting them to share their thinking about its correctness."
+    },
+    {
+      "ID": 29968,
+      "Speaker": "T",
+      "Turn": 29968,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to contribute the next mathematical step in the problem."
+    },
+    {
+      "ID": 29971,
+      "Speaker": "T",
+      "Turn": 29971,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts students to share their thinking on how to proceed with the problem."
+    },
+    {
+      "ID": 29972,
+      "Speaker": "T",
+      "Turn": 29972,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 29973,
+      "Speaker": "T",
+      "Turn": 29973,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 29974,
+      "Speaker": "T",
+      "Turn": 29974,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats a student's idea while adding more precise mathematical language ('three pieces', '1/3 of a car')."
+    },
+    {
+      "ID": 29976,
+      "Speaker": "T",
+      "Turn": 29976,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts students to share their thinking on how to solve the problem."
+    },
+    {
+      "ID": 29979,
+      "Speaker": "T",
+      "Turn": 29979,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 29980,
+      "Speaker": "T",
+      "Turn": 29980,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts students to explain what is needed for a complete answer by referencing the success criteria."
+    },
+    {
+      "ID": 29981,
+      "Speaker": "T",
+      "Turn": 29981,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 29982,
+      "Speaker": "T",
+      "Turn": 29982,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 29983,
+      "Speaker": "T",
+      "Turn": 29983,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts students to reason about whether their work meets the stated criteria."
+    },
+    {
+      "ID": 29986,
+      "Speaker": "T",
+      "Turn": 29986,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 29987,
+      "Speaker": "T",
+      "Turn": 29987,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to provide a specific, accurate number for the mathematical equation."
+    },
+    {
+      "ID": 29989,
+      "Speaker": "T",
+      "Turn": 29989,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 29991,
+      "Speaker": "T",
+      "Turn": 29991,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's contribution ('Five') word for word."
+    }
+  ]
+}

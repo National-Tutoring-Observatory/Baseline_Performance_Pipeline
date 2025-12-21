@@ -1,0 +1,154 @@
+{
+  "records": [
+    {
+      "ID": 20179,
+      "Turn": 103,
+      "Speaker": "T",
+      "Sentence": "We just stuck that in",
+      "TalkMove": null
+    },
+    {
+      "ID": 20180,
+      "Turn": 103,
+      "Speaker": "T",
+      "Sentence": "Now if I do a negative times a negative times a negative I end up with a",
+      "TalkMove": "Pressing for Accuracy"
+    },
+    {
+      "ID": 20181,
+      "Turn": 103,
+      "Speaker": "S",
+      "Sentence": "Negative"
+    },
+    {
+      "ID": 20182,
+      "Turn": 104,
+      "Speaker": "T",
+      "Sentence": "a negative x3",
+      "TalkMove": "Revoicing"
+    },
+    {
+      "ID": 20183,
+      "Turn": 104,
+      "Speaker": "T",
+      "Sentence": "Notice how that has changed from this by putting that in",
+      "TalkMove": null
+    },
+    {
+      "ID": 20184,
+      "Turn": 104,
+      "Speaker": "T",
+      "Sentence": "A negative times a negative here gives me the positive 7x there",
+      "TalkMove": null
+    },
+    {
+      "ID": 20185,
+      "Turn": 104,
+      "Speaker": "T",
+      "Sentence": "Now I look at this and I ask myself Is there any way I can rewrite that to look like that",
+      "TalkMove": null
+    },
+    {
+      "ID": 20186,
+      "Turn": 104,
+      "Speaker": "T",
+      "Sentence": "It turns out notice how the signs are just simply the opposite right here",
+      "TalkMove": null
+    },
+    {
+      "ID": 20187,
+      "Turn": 104,
+      "Speaker": "T",
+      "Sentence": "I can rewrite this by taking that negative sign out to be like factoring a negative one",
+      "TalkMove": null
+    },
+    {
+      "ID": 20188,
+      "Turn": 104,
+      "Speaker": "T",
+      "Sentence": "This was my original f so its the opposite of f or the negative f",
+      "TalkMove": null
+    },
+    {
+      "ID": 20189,
+      "Turn": 104,
+      "Speaker": "T",
+      "Sentence": "Its an odd function its symmetrical about the origin",
+      "TalkMove": null
+    },
+    {
+      "ID": 20190,
+      "Turn": 105,
+      "Speaker": "T",
+      "Sentence": "How does it look for these other functions",
+      "TalkMove": null
+    },
+    {
+      "ID": 20191,
+      "Turn": 105,
+      "Speaker": "T",
+      "Sentence": "Again first step in the place of x I just put a parentheses and then I go and I stick in a negative x somewhere right here",
+      "TalkMove": null
+    },
+    {
+      "ID": 20192,
+      "Turn": 105,
+      "Speaker": "T",
+      "Sentence": "If I multiply a negative times itself four times what do I end up with",
+      "TalkMove": "Pressing for Accuracy"
+    },
+    {
+      "ID": 20193,
+      "Turn": 105,
+      "Speaker": "S",
+      "Sentence": "Positive"
+    },
+    {
+      "ID": 20194,
+      "Turn": 106,
+      "Speaker": "T",
+      "Sentence": "That ones two times so how does that compare with what I started with here",
+      "TalkMove": "Pressing for Reasoning"
+    },
+    {
+      "ID": 20195,
+      "Turn": 107,
+      "Speaker": "S",
+      "Sentence": "Its the exact same"
+    },
+    {
+      "ID": 20196,
+      "Turn": 108,
+      "Speaker": "T",
+      "Sentence": "Its the exact same thing",
+      "TalkMove": "Revoicing"
+    },
+    {
+      "ID": 20197,
+      "Turn": 109,
+      "Speaker": "S",
+      "Sentence": "Yes"
+    },
+    {
+      "ID": 20198,
+      "Turn": 110,
+      "Speaker": "T",
+      "Sentence": "so that one is an even function it reflects right over the yaxis",
+      "TalkMove": null
+    },
+    {
+      "ID": 20199,
+      "Turn": 110,
+      "Speaker": "T",
+      "Sentence": "Then the last one that were looking at the answer is going to be neither",
+      "TalkMove": null
+    },
+    {
+      "ID": 20200,
+      "Turn": 110,
+      "Speaker": "T",
+      "Sentence": "When I plug this in and I multiply it by itself three times its still a negative x3",
+      "TalkMove": null
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "records": [
+    {
+      "ID": 22339,
+      "Speaker": "T",
+      "Turn": 10,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22341,
+      "Speaker": "T",
+      "Turn": 12,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Teacher designates a subset of students to read aloud, orienting the whole class to listen to them."
+    },
+    {
+      "ID": 22342,
+      "Speaker": "T",
+      "Turn": 12,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22343,
+      "Speaker": "T",
+      "Turn": 12,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22345,
+      "Speaker": "T",
+      "Turn": 14,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22346,
+      "Speaker": "T",
+      "Turn": 14,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Teacher asks all students to think about the statement, prompting collective attention."
+    },
+    {
+      "ID": 22347,
+      "Speaker": "T",
+      "Turn": 14,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Continues to prompt the whole class to engage mentally with the material."
+    },
+    {
+      "ID": 22348,
+      "Speaker": "T",
+      "Turn": 14,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Instructs everyone to reread the objective, maintaining shared focus."
+    },
+    {
+      "ID": 22349,
+      "Speaker": "T",
+      "Turn": 14,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Asks students to interpret what the objective is asking them to do, eliciting their thinking."
+    },
+    {
+      "ID": 22350,
+      "Speaker": "T",
+      "Turn": 14,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Invites students to restate the objective in their own words, prompting explanation."
+    },
+    {
+      "ID": 22351,
+      "Speaker": "T",
+      "Turn": 14,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Requests the precise learning objective, encouraging correct articulation of content."
+    },
+    {
+      "ID": 22352,
+      "Speaker": "T",
+      "Turn": 14,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Again asks students to explain what the objective requires them to do."
+    },
+    {
+      "ID": 22353,
+      "Speaker": "T",
+      "Turn": 14,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Selects a specific student to speak, coordinating classroom participation."
+    },
+    {
+      "ID": 22355,
+      "Speaker": "T",
+      "Turn": 16,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22356,
+      "Speaker": "T",
+      "Turn": 16,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Prompts the chosen student to share with the class, maintaining collective focus."
+    },
+    {
+      "ID": 22358,
+      "Speaker": "T",
+      "Turn": 18,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22359,
+      "Speaker": "T",
+      "Turn": 18,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22360,
+      "Speaker": "T",
+      "Turn": 18,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher restates and refines the student’s idea, clarifying that a multiplication rule will be used for common denominators."
+    }
+  ]
+}

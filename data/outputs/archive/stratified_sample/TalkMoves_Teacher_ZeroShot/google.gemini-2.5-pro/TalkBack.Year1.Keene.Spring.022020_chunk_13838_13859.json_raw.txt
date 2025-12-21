@@ -1,0 +1,124 @@
+{
+  "records": [
+    {
+      "ID": 13838,
+      "Turn": 61,
+      "Speaker": "T",
+      "Sentence": "Eloise what did you and your partner notice",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 13840,
+      "Turn": 63,
+      "Speaker": "T",
+      "Sentence": "True I agree",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 13841,
+      "Turn": 63,
+      "Speaker": "T",
+      "Sentence": "Did anybody notice anything different",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 13842,
+      "Turn": 63,
+      "Speaker": "T",
+      "Sentence": "Parker",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 13844,
+      "Turn": 65,
+      "Speaker": "T",
+      "Sentence": "What Parker is saying is he noticed that three is a factor of 15",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's idea ('three times five you get 15') but rephrases it using the mathematical term 'factor'."
+    },
+    {
+      "ID": 13845,
+      "Turn": 65,
+      "Speaker": "T",
+      "Sentence": "Factor means that I can multiply two numbers to get the answer of 15",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 13846,
+      "Turn": 65,
+      "Speaker": "T",
+      "Sentence": "This is something with fractions well do a lot",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 13847,
+      "Turn": 65,
+      "Speaker": "T",
+      "Sentence": "If you didnt notice that right away because maybe times tables arent your jam you can think and list the factors",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 13848,
+      "Turn": 65,
+      "Speaker": "T",
+      "Sentence": "What times what equals three",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 13850,
+      "Turn": 67,
+      "Speaker": "T",
+      "Sentence": "One time what",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to provide a more complete and mathematically precise answer after the student offered an incomplete contribution ('One')."
+    },
+    {
+      "ID": 13852,
+      "Turn": 69,
+      "Speaker": "T",
+      "Sentence": "One times two is two",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 13854,
+      "Turn": 71,
+      "Speaker": "T",
+      "Sentence": "One times three okay",
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's correct contribution ('One times three') word for word to affirm it and make it public."
+    },
+    {
+      "ID": 13855,
+      "Turn": 71,
+      "Speaker": "T",
+      "Sentence": "I can also list the factors for 15 so one times what equals 15",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 13856,
+      "Turn": 71,
+      "Speaker": "T",
+      "Sentence": "Okay does two times anything equal 15",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 13858,
+      "Turn": 73,
+      "Speaker": "T",
+      "Sentence": "What about three",
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

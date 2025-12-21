@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 22262,
+      "Speaker": "T",
+      "Turn": 22262,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22263,
+      "Speaker": "T",
+      "Turn": 22263,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22264,
+      "Speaker": "T",
+      "Turn": 22264,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22265,
+      "Speaker": "T",
+      "Turn": 22265,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts a student to provide the correct next step in solving the inequality."
+    },
+    {
+      "ID": 22267,
+      "Speaker": "T",
+      "Turn": 22267,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's idea (divide by three) and adds a clarifying phrase ('so we do that first')."
+    },
+    {
+      "ID": 22269,
+      "Speaker": "T",
+      "Turn": 22269,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students for the next specific mathematical step in the procedure."
+    },
+    {
+      "ID": 22271,
+      "Speaker": "T",
+      "Turn": 22271,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's idea ('Get rid of the radical') and rephrases it with more precise mathematical language ('we're going to square both sides')."
+    },
+    {
+      "ID": 22272,
+      "Speaker": "T",
+      "Turn": 22272,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts for a specific, correct numerical value to continue the calculation."
+    },
+    {
+      "ID": 22274,
+      "Speaker": "T",
+      "Turn": 22274,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22275,
+      "Speaker": "T",
+      "Turn": 22275,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher uses a verbal cue to prompt students for the next mathematical step."
+    },
+    {
+      "ID": 22277,
+      "Speaker": "T",
+      "Turn": 22277,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's suggested step ('Add one') and then explains the result of that action."
+    },
+    {
+      "ID": 22279,
+      "Speaker": "T",
+      "Turn": 22279,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks a hypothetical question to probe students' understanding of the conditions under which an inequality sign would flip."
+    },
+    {
+      "ID": 22280,
+      "Speaker": "T",
+      "Turn": 22280,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher continues to press for the reasoning behind the inequality rule by asking how the original problem could be changed to cause the sign to flip."
+    },
+    {
+      "ID": 22282,
+      "Speaker": "T",
+      "Turn": 22282,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher confirms a student's correct idea and rephrases it as a general rule, explaining the consequence of dividing by a negative."
+    },
+    {
+      "ID": 22283,
+      "Speaker": "T",
+      "Turn": 22283,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher expands on the student's contribution by stating the complete mathematical rule for when an inequality sign is switched."
+    },
+    {
+      "ID": 22284,
+      "Speaker": "T",
+      "Turn": 22284,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22285,
+      "Speaker": "T",
+      "Turn": 22285,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students for a specific numerical value to complete the inequality."
+    },
+    {
+      "ID": 22286,
+      "Speaker": "T",
+      "Turn": 22286,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to evaluate the validity of combining the two inequalities, prompting them to check if the result is logical."
+    },
+    {
+      "ID": 22287,
+      "Speaker": "T",
+      "Turn": 22287,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to explain how two different conditions can be simultaneously true and how to represent that synthesis, prompting for a connection of ideas."
+    },
+    {
+      "ID": 22288,
+      "Speaker": "T",
+      "Turn": 22288,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher simplifies the previous question, prompting students for the specific numerical bounds for the variable X."
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "records": [
+    {
+      "ID": 9125,
+      "Turn": 17,
+      "Speaker": "T",
+      "Sentence": "Im just curious",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9126,
+      "Turn": 17,
+      "Speaker": "T",
+      "Sentence": "I like that you came up with something good job but why would you want to do that",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to explain the purpose or rationale behind their idea by asking 'why would you want to do that'."
+    },
+    {
+      "ID": 9128,
+      "Turn": 19,
+      "Speaker": "T",
+      "Sentence

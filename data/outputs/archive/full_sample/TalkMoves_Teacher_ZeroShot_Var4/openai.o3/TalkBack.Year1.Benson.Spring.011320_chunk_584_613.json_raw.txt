@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 584,
+      "Speaker": "T",
+      "Turn": 584,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 585,
+      "Speaker": "T",
+      "Turn": 585,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher asks Caleb to describe what he did, prompting him to explain his thinking."
+    },
+    {
+      "ID": 587,
+      "Speaker": "T",
+      "Turn": 587,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher explicitly asks the student to justify the action (“Why did you do that?”)."
+    },
+    {
+      "ID": 591,
+      "Speaker": "T",
+      "Turn": 591,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "By noting the student has another example, the teacher prompts the student to share additional reasoning or work."
+    },
+    {
+      "ID": 595,
+      "Speaker": "T",
+      "Turn": 595,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 596,
+      "Speaker": "T",
+      "Turn": 596,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks if anyone reduced the fraction, requesting a specific mathematical form."
+    },
+    {
+      "ID": 599,
+      "Speaker": "T",
+      "Turn": 599,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 600,
+      "Speaker": "T",
+      "Turn": 600,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 601,
+      "Speaker": "T",
+      "Turn": 601,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 602,
+      "Speaker": "T",
+      "Turn": 602,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 603,
+      "Speaker": "T",
+      "Turn": 603,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 604,
+      "Speaker": "T",
+      "Turn": 604,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 605,
+      "Speaker": "T",
+      "Turn": 605,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 606,
+      "Speaker": "T",
+      "Turn": 606,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 607,
+      "Speaker": "T",
+      "Turn": 607,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 608,
+      "Speaker": "T",
+      "Turn": 608,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher again asks if anyone simplified the fraction, seeking a precise mathematical answer."
+    },
+    {
+      "ID": 609,
+      "Speaker": "T",
+      "Turn": 609,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for a smaller equivalent portion of 6/100, prompting a correct mathematical representation."
+    },
+    {
+      "ID": 610,
+      "Speaker": "T",
+      "Turn": 610,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Invites Sophie to share her thinking about the problem."
+    },
+    {
+      "ID": 612,
+      "Speaker": "T",
+      "Turn": 612,
+      "TalkMove": "Restating",
+      "Reasoning": "Teacher repeats the simplified fraction (6/10) exactly as stated."
+    },
+    {
+      "ID": 613,
+      "Speaker": "T",
+      "Turn": 613,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher prompts students to connect place value understanding to the problem."
+    }
+  ]
+}

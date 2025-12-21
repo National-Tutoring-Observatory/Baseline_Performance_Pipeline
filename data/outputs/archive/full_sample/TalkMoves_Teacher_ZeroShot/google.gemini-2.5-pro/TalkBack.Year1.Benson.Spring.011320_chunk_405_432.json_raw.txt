@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 405,
+      "Speaker": "T",
+      "Turn": 405,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 406,
+      "Speaker": "T",
+      "Turn": 406,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 407,
+      "Speaker": "T",
+      "Turn": 407,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 409,
+      "Speaker": "T",
+      "Turn": 409,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to explain the process used to arrive at an answer."
+    },
+    {
+      "ID": 410,
+      "Speaker": "T",
+      "Turn": 410,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher rephrases the previous question, again asking the student to share their thinking."
+    },
+    {
+      "ID": 412,
+      "Speaker": "T",
+      "Turn": 412,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's contribution ('added') verbatim to confirm understanding."
+    },
+    {
+      "ID": 414,
+      "Speaker": "T",
+      "Turn": 414,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's idea ('added') but adds clarifying language ('on the top')."
+    },
+    {
+      "ID": 415,
+      "Speaker": "T",
+      "Turn": 415,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts the student to explain the next step in their process."
+    },
+    {
+      "ID": 417,
+      "Speaker": "T",
+      "Turn": 417,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's contribution ('counted by 5') verbatim."
+    },
+    {
+      "ID": 418,
+      "Speaker": "T",
+      "Turn": 418,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher explicitly asks one student to listen to and repeat what another student said."
+    },
+    {
+      "ID": 419,
+      "Speaker": "T",
+      "Turn": 419,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher follows up by asking a student to articulate another student's method, ensuring active listening."
+    },
+    {
+      "ID": 421,
+      "Speaker": "T",
+      "Turn": 421,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student for a more specific and complete contribution about another student's idea."
+    },
+    {
+      "ID": 423,
+      "Speaker": "T",
+      "Turn": 423,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 424,
+      "Speaker": "T",
+      "Turn": 424,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher directs a student to repeat their idea for another student to ensure everyone is following the conversation."
+    },
+    {
+      "ID": 425,
+      "Speaker": "T",
+      "Turn": 425,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's words verbatim for the benefit of another student."
+    },
+    {
+      "ID": 426,
+      "Speaker": "T",
+      "Turn": 426,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher asks a student if another student's explanation makes sense to them, prompting a reaction."
+    },
+    {
+      "ID": 427,
+      "Speaker": "T",
+      "Turn": 427,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher summarizes a student's multi-step process into a concise statement."
+    },
+    {
+      "ID": 429,
+      "Speaker": "T",
+      "Turn": 429,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 430,
+      "Speaker": "T",
+      "Turn": 430,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher asks another student to react to the idea currently being discussed."
+    },
+    {
+      "ID": 432,
+      "Speaker": "T",
+      "Turn": 432,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to generalize a mathematical strategy and justify if it always works."
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "records": [
+    {
+      "ID": 1044,
+      "Speaker": "T",
+      "Turn": 1,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1045,
+      "Speaker": "T",
+      "Turn": 1,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1048,
+      "Speaker": "T",
+      "Turn": 3,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1049,
+      "Speaker": "T",
+      "Turn": 3,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1050,
+      "Speaker": "T",
+      "Turn": 3,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1053,
+      "Speaker": "T",
+      "Turn": 5,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks students to identify the unknown quantity in the problem, prompting a precise mathematical contribution."
+    },
+    {
+      "ID": 1054,
+      "Speaker": "T",
+      "Turn": 5,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher directs a student to state what needs to be found, focusing on accurate identification of the target quantity."
+    },
+    {
+      "ID": 1056,
+      "Speaker": "T",
+      "Turn": 7,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for known information from the problem, eliciting specific given quantities."
+    },
+    {
+      "ID": 1057,
+      "Speaker": "T",
+      "Turn": 7,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to list the known pieces, focusing on accurate extraction of data."
+    },
+    {
+      "ID": 1058,
+      "Speaker": "T",
+      "Turn": 7,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1060,
+      "Speaker": "T",
+      "Turn": 9,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for a number sentence to represent the situation, prompting use of mathematical notation."
+    },
+    {
+      "ID": 1062,
+      "Speaker": "T",
+      "Turn": 11,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the specific quantity Kennedy has, eliciting a precise numerical answer."
+    },
+    {
+      "ID": 1064,
+      "Speaker": "T",
+      "Turn": 13,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to connect the number 5 to its referent in context, ensuring precise interpretation."
+    },
+    {
+      "ID": 1065,
+      "Speaker": "T",
+      "Turn": 15,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks students to state what the 7 represents, focusing on accurate mapping between numbers and context."
+    }
+  ]
+}

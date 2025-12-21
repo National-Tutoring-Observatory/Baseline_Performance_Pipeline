@@ -1,0 +1,256 @@
+{
+  "records": [
+    {
+      "ID": 1232,
+      "Speaker": "T",
+      "Turn": 102,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1233,
+      "Speaker": "T",
+      "Turn": 102,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1235,
+      "Speaker": "T",
+      "Turn": 104,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1236,
+      "Speaker": "T",
+      "Turn": 104,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher checks that everyone understands, orienting the whole class to be on the same page."
+    },
+    {
+      "ID": 1238,
+      "Speaker": "T",
+      "Turn": 106,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1239,
+      "Speaker": "T",
+      "Turn": 106,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1241,
+      "Speaker": "T",
+      "Turn": 108,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1242,
+      "Speaker": "T",
+      "Turn": 108,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Prompts a student to read aloud to the class, orienting listeners to each other."
+    },
+    {
+      "ID": 1243,
+      "Speaker": "T",
+      "Turn": 108,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1247,
+      "Speaker": "T",
+      "Turn": 110,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1248,
+      "Speaker": "T",
+      "Turn": 110,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks for the exact value Charice ran, prompting a mathematical contribution."
+    },
+    {
+      "ID": 1250,
+      "Speaker": "T",
+      "Turn": 112,
+      "TalkMove": "Restating",
+      "Reasoning": "Repeats the student's answer '7/8' to the class."
+    },
+    {
+      "ID": 1251,
+      "Speaker": "T",
+      "Turn": 112,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Restates the student’s '7/8' as a full statement, adding wording."
+    },
+    {
+      "ID": 1252,
+      "Speaker": "T",
+      "Turn": 112,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks students to specify the quantity to determine."
+    },
+    {
+      "ID": 1253,
+      "Speaker": "T",
+      "Turn": 112,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1255,
+      "Speaker": "T",
+      "Turn": 114,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Asks students how to find the answer, eliciting method/strategy."
+    },
+    {
+      "ID": 1256,
+      "Speaker": "T",
+      "Turn": 114,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Prompts citing given information as evidence to figure it out."
+    },
+    {
+      "ID": 1259,
+      "Speaker": "T",
+      "Turn": 116,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Urges students to read carefully, orienting the class’ attention."
+    },
+    {
+      "ID": 1260,
+      "Speaker": "T",
+      "Turn": 116,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Directs precise phrasing/numerical detail ('she ran 3/8')."
+    },
+    {
+      "ID": 1262,
+      "Speaker": "T",
+      "Turn": 118,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1263,
+      "Speaker": "T",
+      "Turn": 118,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Prompts selection of the correct operation."
+    },
+    {
+      "ID": 1266,
+      "Speaker": "T",
+      "Turn": 121,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Identifies who voiced 'adding,' orienting attention to classmates."
+    },
+    {
+      "ID": 1268,
+      "Speaker": "T",
+      "Turn": 123,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Asks Eric to justify why they would add."
+    },
+    {
+      "ID": 1270,
+      "Speaker": "T",
+      "Turn": 125,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1271,
+      "Speaker": "T",
+      "Turn": 125,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1272,
+      "Speaker": "T",
+      "Turn": 125,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Restates students’ idea ('add') and connects it to the situation, adding wording."
+    },
+    {
+      "ID": 1273,
+      "Speaker": "T",
+      "Turn": 125,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks for the unit/whole being counted."
+    },
+    {
+      "ID": 1275,
+      "Speaker": "T",
+      "Turn": 127,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1277,
+      "Speaker": "T",
+      "Turn": 129,
+      "TalkMove": "Restating",
+      "Reasoning": "Repeats the student’s answer 'Miles'."
+    },
+    {
+      "ID": 1278,
+      "Speaker": "T",
+      "Turn": 129,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Rephrases 'Miles' as 'A mile,' slightly changing wording."
+    },
+    {
+      "ID": 1279,
+      "Speaker": "T",
+      "Turn": 129,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1280,
+      "Speaker": "T",
+      "Turn": 129,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1281,
+      "Speaker": "T",
+      "Turn": 129,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1284,
+      "Speaker": "T",
+      "Turn": 131,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1285,
+      "Speaker": "T",
+      "Turn": 131,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1286,
+      "Speaker": "T",
+      "Turn": 131,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

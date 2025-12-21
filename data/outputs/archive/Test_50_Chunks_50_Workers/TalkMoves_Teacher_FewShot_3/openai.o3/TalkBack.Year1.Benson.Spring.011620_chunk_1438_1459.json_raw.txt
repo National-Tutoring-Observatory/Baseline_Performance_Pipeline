@@ -1,0 +1,39 @@
+{
+  "records": [
+    {
+      "ID": 1455,
+      "Speaker": "T",
+      "Turn": 1,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1456,
+      "Speaker": "T",
+      "Turn": 1,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks students to recall and state the definition of a mixed number, prompting a precise mathematical contribution."
+    },
+    {
+      "ID": 1457,
+      "Speaker": "T",
+      "Turn": 1,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "By highlighting the comparison between a mixed number and an improper fraction, the teacher continues to press students for the exact mathematical distinctions."
+    },
+    {
+      "ID": 1458,
+      "Speaker": "T",
+      "Turn": 1,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1459,
+      "Speaker": "T",
+      "Turn": 2,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

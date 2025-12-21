@@ -1,0 +1,154 @@
+{
+  "records": [
+    {
+      "ID": 24736,
+      "Turn": 144,
+      "Speaker": "T",
+      "Sentence": "3 12",
+      "TalkMove": null
+    },
+    {
+      "ID": 24737,
+      "Turn": 144,
+      "Speaker": "T",
+      "Sentence": "We started with the smallest piece of data",
+      "TalkMove": null
+    },
+    {
+      "ID": 24738,
+      "Turn": 144,
+      "Speaker": "T",
+      "Sentence": "It was 3 12",
+      "TalkMove": null
+    },
+    {
+      "ID": 24739,
+      "Turn": 144,
+      "Speaker": "T",
+      "Sentence": "Then we have 3 34",
+      "TalkMove": null
+    },
+    {
+      "ID": 24740,
+      "Turn": 144,
+      "Speaker": "T",
+      "Sentence": "How many times do you see 3 34",
+      "TalkMove": "Pressing for Accuracy"
+    },
+    {
+      "ID": 24741,
+      "Turn": 145,
+      "Speaker": "S",
+      "Sentence": "Four"
+    },
+    {
+      "ID": 24742,
+      "Turn": 146,
+      "Speaker": "T",
+      "Sentence": "One two three four",
+      "TalkMove": null
+    },
+    {
+      "ID": 24743,
+      "Turn": 146,
+      "Speaker": "T",
+      "Sentence": "You should write down 3 34 how many times",
+      "TalkMove": "Keeping Everyone Together"
+    },
+    {
+      "ID": 24744,
+      "Turn": 147,
+      "Speaker": "S",
+      "Sentence": "Four"
+    },
+    {
+      "ID": 24745,
+      "Turn": 148,
+      "Speaker": "T",
+      "Sentence": "Four times",
+      "TalkMove": "Revoicing"
+    },
+    {
+      "ID": 24746,
+      "Turn": 148,
+      "Speaker": "T",
+      "Sentence": "Right now my friends we have written down 3 12 3 34 3 34 3 34 3 34",
+      "TalkMove": "Keeping Everyone Together"
+    },
+    {
+      "ID": 24747,
+      "Turn": 148,
+      "Speaker": "T",
+      "Sentence": "Will you please look at your shoulder partners whiteboard and make sure that were all in the same place",
+      "TalkMove": "Keeping Everyone Together"
+    },
+    {
+      "ID": 24748,
+      "Turn": 148,
+      "Speaker": "T",
+      "Sentence": "Give your shoulder partner a tip if they need to catch up with us on something",
+      "TalkMove": "Keeping Everyone Together"
+    },
+    {
+      "ID": 24749,
+      "Turn": 148,
+      "Speaker": "T",
+      "Sentence": "Next",
+      "TalkMove": null
+    },
+    {
+      "ID": 24750,
+      "Turn": 148,
+      "Speaker": "T",
+      "Sentence": "Whats our next biggest measurements",
+      "TalkMove": "Pressing for Accuracy"
+    },
+    {
+      "ID": 24751,
+      "Turn": 149,
+      "Speaker": "S",
+      "Sentence": "4 12"
+    },
+    {
+      "ID": 24752,
+      "Turn": 150,
+      "Speaker": "T",
+      "Sentence": "Four inches",
+      "TalkMove": "Revoicing"
+    },
+    {
+      "ID": 24753,
+      "Turn": 150,
+      "Speaker": "T",
+      "Sentence": "How many times do we have four inches",
+      "TalkMove": "Pressing for Accuracy"
+    },
+    {
+      "ID": 24754,
+      "Turn": 151,
+      "Speaker": "S",
+      "Sentence": "Three times"
+    },
+    {
+      "ID": 24755,
+      "Turn": 152,
+      "Speaker": "T",
+      "Sentence": "One two three",
+      "TalkMove": null
+    },
+    {
+      "ID": 24756,
+      "Turn": 152,
+      "Speaker": "T",
+      "Sentence": "Please write four three times in your set of data",
+      "TalkMove": null
+    },
+    {
+      "ID": 24757,
+      "Turn": 152,
+      "Speaker": "T",
+      "Sentence": "All right then",
+      "TalkMove": null
+    }
+  ]
+}

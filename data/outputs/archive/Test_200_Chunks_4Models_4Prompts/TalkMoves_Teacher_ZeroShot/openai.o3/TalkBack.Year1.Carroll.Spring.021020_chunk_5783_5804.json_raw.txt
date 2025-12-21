@@ -1,0 +1,109 @@
+{
+  "records": [
+    {
+      "ID": 5783,
+      "Speaker": "T",
+      "Turn": 123,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5784,
+      "Speaker": "T",
+      "Turn": 123,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5785,
+      "Speaker": "T",
+      "Turn": 123,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5786,
+      "Speaker": "T",
+      "Turn": 123,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks, \"What are we on,\" prompting students to state the exact current number in the game."
+    },
+    {
+      "ID": 5787,
+      "Speaker": "T",
+      "Turn": 123,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5788,
+      "Speaker": "T",
+      "Turn": 123,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5791,
+      "Speaker": "T",
+      "Turn": 126,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5792,
+      "Speaker": "T",
+      "Turn": 126,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5794,
+      "Speaker": "T",
+      "Turn": 128,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5796,
+      "Speaker": "T",
+      "Turn": 130,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5797,
+      "Speaker": "T",
+      "Turn": 130,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "By asking \"24 is what friends?\" the teacher is prompting students to supply the precise correct term (buzz/bizz) for the number 24."
+    },
+    {
+      "ID": 5799,
+      "Speaker": "T",
+      "Turn": 132,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5800,
+      "Speaker": "T",
+      "Turn": 132,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The incomplete question \"25 would be\" signals the teacher wants students to give the accurate classification of the next number."
+    },
+    {
+      "ID": 5803,
+      "Speaker": "T",
+      "Turn": 134,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5804,
+      "Speaker": "T",
+      "Turn": 134,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asking \"What can go into 27\" presses students to supply the correct factors of 27."
+    }
+  ]
+}

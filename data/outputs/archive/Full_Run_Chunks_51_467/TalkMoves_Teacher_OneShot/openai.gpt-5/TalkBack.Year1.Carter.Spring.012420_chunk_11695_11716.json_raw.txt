@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 11695,
+      "Speaker": "T",
+      "Turn": 239,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11696,
+      "Speaker": "T",
+      "Turn": 239,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks whether they should fold in half, prompting students to identify the correct procedure."
+    },
+    {
+      "ID": 11698,
+      "Speaker": "T",
+      "Turn": 241,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's response ('No') word for word."
+    },
+    {
+      "ID": 11699,
+      "Speaker": "T",
+      "Turn": 241,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks for the rationale behind not folding in half by prompting recall of how much was eaten."
+    },
+    {
+      "ID": 11701,
+      "Speaker": "T",
+      "Turn": 243,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for a specific quantity of parts to fold into, eliciting precise mathematical information."
+    },
+    {
+      "ID": 11702,
+      "Speaker": "T",
+      "Turn": 243,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11703,
+      "Speaker": "T",
+      "Turn": 243,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher reformulates the student’s '2/3' into procedural wording ('Two folded into three')."
+    },
+    {
+      "ID": 11704,
+      "Speaker": "T",
+      "Turn": 243,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11705,
+      "Speaker": "T",
+      "Turn": 244,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11706,
+      "Speaker": "T",
+      "Turn": 245,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11707,
+      "Speaker": "T",
+      "Turn": 245,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11708,
+      "Speaker": "T",
+      "Turn": 245,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11709,
+      "Speaker": "T",
+      "Turn": 245,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11710,
+      "Speaker": "T",
+      "Turn": 245,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11711,
+      "Speaker": "T",
+      "Turn": 245,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11712,
+      "Speaker": "T",
+      "Turn": 245,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11713,
+      "Speaker": "T",
+      "Turn": 245,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11714,
+      "Speaker": "T",
+      "Turn": 246,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11715,
+      "Speaker": "T",
+      "Turn": 247,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks if the representation matches 'half of the pizza,' eliciting a correctness judgment."
+    },
+    {
+      "ID": 11716,
+      "Speaker": "T",
+      "Turn": 247,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher checks whether students will shade the correct number of parts, focusing on procedural accuracy."
+    }
+  ]
+}

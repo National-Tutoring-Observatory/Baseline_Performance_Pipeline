@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 29374,
+      "Speaker": "T",
+      "Turn": 29374,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases a student's idea about calculating volume into more formal mathematical language, likely adding on to or clarifying what the student said."
+    },
+    {
+      "ID": 29376,
+      "Speaker": "T",
+      "Turn": 29376,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher continues to rephrase a student's idea, completing the formula for volume by adding the third dimension."
+    },
+    {
+      "ID": 29378,
+      "Speaker": "T",
+      "Turn": 29378,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 29379,
+      "Speaker": "T",
+      "Turn": 29379,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 29380,
+      "Speaker": "T",
+      "Turn": 29380,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks a student to explain their method or thinking for how to find the volume."
+    },
+    {
+      "ID": 29382,
+      "Speaker": "T",
+      "Turn": 29382,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to generalize a method and consider if it will always work, pressing for deeper justification."
+    },
+    {
+      "ID": 29384,
+      "Speaker": "T",
+      "Turn": 29384,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 29385,
+      "Speaker": "T",
+      "Turn": 29385,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 29387,
+      "Speaker": "T",
+      "Turn": 29387,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 29388,
+      "Speaker": "T",
+      "Turn": 29388,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 29389,
+      "Speaker": "T",
+      "Turn": 29389,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 29390,
+      "Speaker": "T",
+      "Turn": 29390,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 29391,
+      "Speaker": "T",
+      "Turn": 29391,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 29392,
+      "Speaker": "T",
+      "Turn": 29392,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 29393,
+      "Speaker": "T",
+      "Turn": 29393,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 29394,
+      "Speaker": "T",
+      "Turn": 29394,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 29395,
+      "Speaker": "T",
+      "Turn": 29395,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to think about whether a known strategy can be applied to a new, different problem."
+    },
+    {
+      "ID": 29396,
+      "Speaker": "T",
+      "Turn": 29396,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 29397,
+      "Speaker": "T",
+      "Turn": 29397,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher repeats the question, pressing students to consider if a known strategy applies to a new problem."
+    },
+    {
+      "ID": 29398,
+      "Speaker": "T",
+      "Turn": 29398,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

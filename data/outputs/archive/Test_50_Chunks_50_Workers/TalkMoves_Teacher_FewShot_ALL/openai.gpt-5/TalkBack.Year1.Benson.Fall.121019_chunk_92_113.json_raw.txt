@@ -1,0 +1,137 @@
+{
+  "records": [
+    {
+      "ID": 92,
+      "Speaker": "T",
+      "Turn": 48,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 94,
+      "Speaker": "T",
+      "Turn": 50,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher paraphrases the student's difficulty, suggesting the pattern caused confusion and checking for confirmation."
+    },
+    {
+      "ID": 96,
+      "Speaker": "T",
+      "Turn": 52,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 97,
+      "Speaker": "T",
+      "Turn": 52,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 98,
+      "Speaker": "T",
+      "Turn": 52,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 99,
+      "Speaker": "T",
+      "Turn": 52,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 100,
+      "Speaker": "T",
+      "Turn": 52,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 101,
+      "Speaker": "T",
+      "Turn": 53,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to explain what is different about the current problem compared to previous work."
+    },
+    {
+      "ID": 102,
+      "Speaker": "T",
+      "Turn": 53,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher invites a specific student to explain what is different about the problem."
+    },
+    {
+      "ID": 103,
+      "Speaker": "T",
+      "Turn": 53,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 104,
+      "Speaker": "T",
+      "Turn": 53,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts students again to articulate what is different, connecting to prior unit work."
+    },
+    {
+      "ID": 106,
+      "Speaker": "T",
+      "Turn": 55,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's contribution word for word: 'We're doing a two-digit number times a two-digit number.'"
+    },
+    {
+      "ID": 107,
+      "Speaker": "T",
+      "Turn": 55,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks students to specify the kind of problems they have been doing, prompting precise mathematical description."
+    },
+    {
+      "ID": 108,
+      "Speaker": "T",
+      "Turn": 56,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 109,
+      "Speaker": "T",
+      "Turn": 56,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 110,
+      "Speaker": "T",
+      "Turn": 56,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 111,
+      "Speaker": "T",
+      "Turn": 57,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 112,
+      "Speaker": "T",
+      "Turn": 58,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 113,
+      "Speaker": "T",
+      "Turn": 59,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

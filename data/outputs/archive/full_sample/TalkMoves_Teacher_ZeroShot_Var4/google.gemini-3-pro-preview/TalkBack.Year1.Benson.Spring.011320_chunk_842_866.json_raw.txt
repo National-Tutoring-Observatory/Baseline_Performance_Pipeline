@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 842,
+      "Speaker": "T",
+      "Turn": 842,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to explain their strategy or method for solving the problem ('tell me what you would do to try to figure out')."
+    },
+    {
+      "ID": 843,
+      "Speaker": "T",
+      "Turn": 843,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 844,
+      "Speaker": "T",
+      "Turn": 844,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 845,
+      "Speaker": "T",
+      "Turn": 845,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 846,
+      "Speaker": "T",
+      "Turn": 846,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 847,
+      "Speaker": "T",
+      "Turn": 847,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts the student to articulate their plan for solving the problem ('How are you going to figure out...')."
+    },
+    {
+      "ID": 848,
+      "Speaker": "T",
+      "Turn": 848,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks an open-ended question to elicit the student's thinking process ('what are you thinking')."
+    },
+    {
+      "ID": 850,
+      "Speaker": "T",
+      "Turn": 850,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher reformulates the student's idea to verify understanding and add clarity ('so youre trying to find something that would take two pieces...')."
+    },
+    {
+      "ID": 851,
+      "Speaker": "T",
+      "Turn": 851,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 853,
+      "Speaker": "T",
+      "Turn": 853,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher checks if other students were listening to the speaker ('Do you hear that')."
+    },
+    {
+      "ID": 854,
+      "Speaker": "T",
+      "Turn": 854,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher checks if other students understood what the speaker said."
+    },
+    {
+      "ID": 855,
+      "Speaker": "T",
+      "Turn": 855,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher asks a student to repeat what another student said ('what did you hear Alice say')."
+    },
+    {
+      "ID": 857,
+      "Speaker": "T",
+      "Turn": 857,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher redirects the student back to reporting on their classmate's contribution rather than giving their own opinion ('but what did she say')."
+    },
+    {
+      "ID": 858,
+      "Speaker": "T",
+      "Turn": 858,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher continues to prompt the student to report on the specific strategy mentioned by the classmate."
+    },
+    {
+      "ID": 859,
+      "Speaker": "T",
+      "Turn": 859,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to explain the underlying logic or relationship between the fractions ('How do you know what one of the thirds is...')."
+    },
+    {
+      "ID": 861,
+      "Speaker": "T",
+      "Turn": 861,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher explicitly asks a student to repeat what a classmate said."
+    },
+    {
+      "ID": 863,
+      "Speaker": "T",
+      "Turn": 863,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats and validates the student's correct answer, likely adding mathematical precision with the word 'equivalent'."
+    },
+    {
+      "ID": 864,
+      "Speaker": "T",
+      "Turn": 864,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 865,
+      "Speaker": "T",
+      "Turn": 865,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 866,
+      "Speaker": "T",
+      "Turn": 866,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

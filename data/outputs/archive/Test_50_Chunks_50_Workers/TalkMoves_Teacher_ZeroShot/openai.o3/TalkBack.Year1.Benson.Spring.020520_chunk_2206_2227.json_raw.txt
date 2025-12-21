@@ -1,0 +1,116 @@
+{
+  "records": [
+    {
+      "ID": 2206,
+      "Speaker": "T",
+      "Turn": 182
+    },
+    {
+      "ID": 2208,
+      "Speaker": "T",
+      "Turn": 184,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher repeats the student’s numerical answer and adds contextual wording, clarifying the statement."
+    },
+    {
+      "ID": 2209,
+      "Speaker": "T",
+      "Turn": 185,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Teacher asks the whole class to raise hands to signal whether they followed the steps, checking collective understanding."
+    },
+    {
+      "ID": 2210,
+      "Speaker": "T",
+      "Turn": 185
+    },
+    {
+      "ID": 2211,
+      "Speaker": "T",
+      "Turn": 185
+    },
+    {
+      "ID": 2212,
+      "Speaker": "T",
+      "Turn": 185
+    },
+    {
+      "ID": 2213,
+      "Speaker": "T",
+      "Turn": 185
+    },
+    {
+      "ID": 2214,
+      "Speaker": "T",
+      "Turn": 185
+    },
+    {
+      "ID": 2215,
+      "Speaker": "T",
+      "Turn": 185,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks what mathematical operation corresponds to the word “and,” prompting precise mathematical language."
+    },
+    {
+      "ID": 2217,
+      "Speaker": "T",
+      "Turn": 187,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher restates the student’s answer 'addition' as 'You’re adding,' echoing and slightly rephrasing it."
+    },
+    {
+      "ID": 2218,
+      "Speaker": "T",
+      "Turn": 187,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher again repeats the idea—‘You’re going to add’—reinforcing the student’s contribution with slight wording change."
+    },
+    {
+      "ID": 2219,
+      "Speaker": "T",
+      "Turn": 187
+    },
+    {
+      "ID": 2220,
+      "Speaker": "T",
+      "Turn": 187
+    },
+    {
+      "ID": 2221,
+      "Speaker": "T",
+      "Turn": 187
+    },
+    {
+      "ID": 2222,
+      "Speaker": "T",
+      "Turn": 187
+    },
+    {
+      "ID": 2223,
+      "Speaker": "T",
+      "Turn": 187
+    },
+    {
+      "ID": 2224,
+      "Speaker": "T",
+      "Turn": 187
+    },
+    {
+      "ID": 2225,
+      "Speaker": "T",
+      "Turn": 187,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher tells students they will have to explain how to solve problem #2, prompting them to articulate their thinking."
+    },
+    {
+      "ID": 2226,
+      "Speaker": "T",
+      "Turn": 187
+    },
+    {
+      "ID": 2227,
+      "Speaker": "T",
+      "Turn": 187
+    }
+  ]
+}

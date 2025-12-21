@@ -1,0 +1,172 @@
+{
+  "records": [
+    {
+      "ID": 12697,
+      "Turn": 97,
+      "Speaker": "T",
+      "Sentence": "Go",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12698,
+      "Turn": 97,
+      "Speaker": "T",
+      "Sentence": "I see a mixture but I mostly see whole numbers",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12699,
+      "Turn": 97,
+      "Speaker": "T",
+      "Sentence": "Lennox explain your thinking",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher explicitly asks a student to explain their thinking process."
+    },
+    {
+      "ID": 12700,
+      "Turn": 97,
+      "Speaker": "T",
+      "Sentence": "Why do you think its a whole first",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student for the reason behind their answer."
+    },
+    {
+      "ID": 12701,
+      "Turn": 97,
+      "Speaker": "S",
+      "Sentence": "I thin its a whole mainly because"
+    },
+    {
+      "ID": 12702,
+      "Turn": 98,
+      "Speaker": "T",
+      "Sentence": "So the question was one 10 and 100",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12703,
+      "Turn": 98,
+      "Speaker": "T",
+      "Sentence": "Are they whole numbers or decimals",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12704,
+      "Turn": 98,
+      "Speaker": "T",
+      "Sentence": "You say whole numbers so why",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher revoices the student's position and then asks for justification with 'why'."
+    },
+    {
+      "ID": 12705,
+      "Turn": 99,
+      "Speaker": "S",
+      "Sentence": "Because there is no decimal"
+    },
+    {
+      "ID": 12706,
+      "Turn": 100,
+      "Speaker": "T",
+      "Sentence": "Okay do we see decimal points",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher takes the student's idea ('there is no decimal') and rephrases it as a question to the class, focusing on the specific feature of a decimal point."
+    },
+    {
+      "ID": 12707,
+      "Turn": 101,
+      "Speaker": "S",
+      "Sentence": "No"
+    },
+    {
+      "ID": 12708,
+      "Turn": 102,
+      "Speaker": "T",
+      "Sentence": "No thats a good clue",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12709,
+      "Turn": 102,
+      "Speaker": "T",
+      "Sentence": "That was a decimal it probably would need that decimal point",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12710,
+      "Turn": 102,
+      "Speaker": "T",
+      "Sentence": "What did we say a decimal was",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to recall a specific mathematical definition."
+    },
+    {
+      "ID": 12711,
+      "Turn": 102,
+      "Speaker": "T",
+      "Sentence": "Remember what Bailey said",
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher explicitly directs students to recall and consider a specific classmate's previous contribution."
+    },
+    {
+      "ID": 12712,
+      "Turn": 102,
+      "Speaker": "T",
+      "Sentence": "Julissa",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12713,
+      "Turn": 103,
+      "Speaker": "T",
+      "Sentence": "Thats true but lets think about what Bailey said",
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher redirects the conversation back to a specific student's idea, prompting others to engage with it."
+    },
+    {
+      "ID": 12714,
+      "Turn": 103,
+      "Speaker": "T",
+      "Sentence": "Dylan",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12715,
+      "Turn": 104,
+      "Speaker": "S",
+      "Sentence": "Its a quarter of a dollar"
+    },
+    {
+      "ID": 12716,
+      "Turn": 105,
+      "Speaker": "T",
+      "Sentence": "Thats what Josie said",
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher connects a student's current contribution to a previous contribution from another student."
+    },
+    {
+      "ID": 12717,
+      "Turn": 105,
+      "Speaker": "T",
+      "Sentence": "Remember boys and girls at the beginning of the lesson when we had a fourth is a fraction and 25 cents is a decimal and I asked how are they the same",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher orients the entire class to a shared prior experience to ensure everyone is working from the same context."
+    },
+    {
+      "ID": 12718,
+      "Turn": 105,
+      "Speaker": "T",
+      "Sentence": "Talk with your neighbors",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher gives a directive for all students to engage with each other, structuring participation for the whole group."
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "records": [
+    {
+      "ID": 21224,
+      "Speaker": "T",
+      "Turn": 290
+    },
+    {
+      "ID": 21230,
+      "Speaker": "T",
+      "Turn": 294
+    },
+    {
+      "ID": 21231,
+      "Speaker": "T",
+      "Turn": 294,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher asks whether the student consulted a peer (“Cole”) first, prompting the student to engage with a classmate’s thinking."
+    },
+    {
+      "ID": 21234,
+      "Speaker": "T",
+      "Turn": 296
+    },
+    {
+      "ID": 21235,
+      "Speaker": "T",
+      "Turn": 296,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks, “What can I do to simplify that?” prompting students to explain the reasoning or steps needed for simplification."
+    },
+    {
+      "ID": 21236,
+      "Speaker": "T",
+      "Turn": 298,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student’s proposed answer (“25”) almost verbatim, signaled by the brief restatement 'So 25'."
+    },
+    {
+      "ID": 21240,
+      "Speaker": "T",
+      "Turn": 302,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "By asking whether the suggested step will make the expression simpler, the teacher presses the student to justify and evaluate their method."
+    },
+    {
+      "ID": 21242,
+      "Speaker": "T",
+      "Turn": 304,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher echoes the student’s reply ('Not really') exactly, signaling acknowledgment and ensuring shared understanding."
+    },
+    {
+      "ID": 21243,
+      "Speaker": "T",
+      "Turn": 304
+    }
+  ]
+}

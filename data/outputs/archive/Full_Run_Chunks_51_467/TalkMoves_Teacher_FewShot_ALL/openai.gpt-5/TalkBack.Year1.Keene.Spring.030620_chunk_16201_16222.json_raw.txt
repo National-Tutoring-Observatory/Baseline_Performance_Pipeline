@@ -1,0 +1,130 @@
+{
+  "records": [
+    {
+      "ID": 16201,
+      "Speaker": "T",
+      "Turn": 137,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16202,
+      "Speaker": "T",
+      "Turn": 137,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks Sage to explain his choice, prompting justification of his position."
+    },
+    {
+      "ID": 16204,
+      "Speaker": "T",
+      "Turn": 139,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks the student to specify which option they mean, pushing for precision."
+    },
+    {
+      "ID": 16207,
+      "Speaker": "T",
+      "Turn": 141,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16208,
+      "Speaker": "T",
+      "Turn": 141,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher reframes the student's idea, linking ‘fraction of’ to multiplication."
+    },
+    {
+      "ID": 16209,
+      "Speaker": "T",
+      "Turn": 141,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher summarizes the student's contribution and connects it to multiplication."
+    },
+    {
+      "ID": 16210,
+      "Speaker": "T",
+      "Turn": 141,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16211,
+      "Speaker": "T",
+      "Turn": 141,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks whether the situation involves equal parts, focusing on the defining feature of division."
+    },
+    {
+      "ID": 16212,
+      "Speaker": "T",
+      "Turn": 142,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16213,
+      "Speaker": "T",
+      "Turn": 142,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher orients the class to listen and give think time to the student speaking."
+    },
+    {
+      "ID": 16214,
+      "Speaker": "T",
+      "Turn": 142,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher checks for the equal-parts criterion to clarify whether division applies."
+    },
+    {
+      "ID": 16216,
+      "Speaker": "T",
+      "Turn": 144,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16217,
+      "Speaker": "T",
+      "Turn": 144,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16218,
+      "Speaker": "T",
+      "Turn": 144,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16219,
+      "Speaker": "T",
+      "Turn": 144,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16220,
+      "Speaker": "T",
+      "Turn": 144,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16221,
+      "Speaker": "T",
+      "Turn": 144,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16222,
+      "Speaker": "T",
+      "Turn": 144,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher invites the student to share their thinking."
+    }
+  ]
+}

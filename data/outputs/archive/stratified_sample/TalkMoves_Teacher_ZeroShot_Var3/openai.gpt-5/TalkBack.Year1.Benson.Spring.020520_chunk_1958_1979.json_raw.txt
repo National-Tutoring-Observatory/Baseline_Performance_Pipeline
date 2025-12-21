@@ -1,0 +1,102 @@
+{
+  "records": [
+    {
+      "ID": 1959,
+      "Speaker": "T",
+      "Turn": 46,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks how students are finding the cost, prompting them to explain their approach."
+    },
+    {
+      "ID": 1960,
+      "Speaker": "T",
+      "Turn": 46,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher requests the specific math the student did, eliciting a mathematical contribution."
+    },
+    {
+      "ID": 1961,
+      "Speaker": "T",
+      "Turn": 46,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks Landon what math he used to figure the cost, prompting a mathematical contribution."
+    },
+    {
+      "ID": 1964,
+      "Speaker": "T",
+      "Turn": 48,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks where the two numbers came from, prompting justification and connection to the context."
+    },
+    {
+      "ID": 1967,
+      "Speaker": "T",
+      "Turn": 50,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks why the student multiplied by 3, eliciting the rationale behind the step."
+    },
+    {
+      "ID": 1969,
+      "Speaker": "T",
+      "Turn": 52,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1970,
+      "Speaker": "T",
+      "Turn": 52,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher emphasizes the 'cost per performer' condition, directing attention to the correct mathematical interpretation."
+    },
+    {
+      "ID": 1971,
+      "Speaker": "T",
+      "Turn": 52,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1972,
+      "Speaker": "T",
+      "Turn": 52,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1974,
+      "Speaker": "T",
+      "Turn": 54,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1975,
+      "Speaker": "T",
+      "Turn": 54,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher paraphrases Landon’s method, adding clarifying wording about the two hours at $30/hour."
+    },
+    {
+      "ID": 1976,
+      "Speaker": "T",
+      "Turn": 54,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher restates the student’s next step, explicitly linking multiplying by 3 to three performers."
+    },
+    {
+      "ID": 1977,
+      "Speaker": "T",
+      "Turn": 54,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher invites others to share if they solved it differently, prompting reactions to a classmate’s method."
+    },
+    {
+      "ID": 1978,
+      "Speaker": "T",
+      "Turn": 54,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks Grady how he did his work, prompting explanation of his approach."
+    }
+  ]
+}

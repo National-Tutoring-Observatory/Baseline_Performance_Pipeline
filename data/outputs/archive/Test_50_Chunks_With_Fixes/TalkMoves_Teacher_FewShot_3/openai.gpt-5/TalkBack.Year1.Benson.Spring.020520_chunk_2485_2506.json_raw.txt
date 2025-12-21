@@ -1,0 +1,95 @@
+{
+  "records": [
+    {
+      "ID": 2485,
+      "Speaker": "T",
+      "Turn": 333,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Prompts the student to explain how they determined the unknown."
+    },
+    {
+      "ID": 2487,
+      "Speaker": "T",
+      "Turn": 335,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Asks for the source of the 312, prompting justification of the value."
+    },
+    {
+      "ID": 2489,
+      "Speaker": "T",
+      "Turn": 337,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Requests a precise reference (which problem), pressing for specific mathematical context."
+    },
+    {
+      "ID": 2491,
+      "Speaker": "T",
+      "Turn": 339,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Revoices the student's reference to problem 2 by adding that it provided the burrito cost."
+    },
+    {
+      "ID": 2492,
+      "Speaker": "T",
+      "Turn": 339,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Asks why times three was used, prompting explanation of the choice."
+    },
+    {
+      "ID": 2494,
+      "Speaker": "T",
+      "Turn": 341,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2496,
+      "Speaker": "T",
+      "Turn": 343,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Invites an explanation of the steps taken ('how did he go'), prompting a description of process."
+    },
+    {
+      "ID": 2497,
+      "Speaker": "T",
+      "Turn": 343,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Prompts the student to compute a specific product (300 × 3)."
+    },
+    {
+      "ID": 2499,
+      "Speaker": "T",
+      "Turn": 345,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Prompts the student to compute a specific product (10 × 3)."
+    },
+    {
+      "ID": 2501,
+      "Speaker": "T",
+      "Turn": 347,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Prompts the student to compute a specific product (2 × 3)."
+    },
+    {
+      "ID": 2503,
+      "Speaker": "T",
+      "Turn": 349,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Prompts the student to sum partial results to determine the total."
+    },
+    {
+      "ID": 2505,
+      "Speaker": "T",
+      "Turn": 351,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Encourages the student to connect the current problem to a previously solved one and reflect on strategy."
+    },
+    {
+      "ID": 2506,
+      "Speaker": "T",
+      "Turn": 351,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

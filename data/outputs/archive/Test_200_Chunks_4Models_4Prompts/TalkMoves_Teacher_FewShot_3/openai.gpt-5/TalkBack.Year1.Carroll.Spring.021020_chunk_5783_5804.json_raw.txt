@@ -1,0 +1,101 @@
+{
+  "records": [
+    {
+      "ID": 5783,
+      "Turn": 123,
+      "Speaker": "T",
+      "TalkMove": "None"
+    },
+    {
+      "ID": 5784,
+      "Turn": 123,
+      "Speaker": "T",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Prompts students to turn and watch, orienting them as active listeners."
+    },
+    {
+      "ID": 5785,
+      "Turn": 123,
+      "Speaker": "T",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Directs a student to pay attention, orienting listening to the lesson."
+    },
+    {
+      "ID": 5786,
+      "Turn": 123,
+      "Speaker": "T",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Asks which item they are on to orient the class to the same task."
+    },
+    {
+      "ID": 5787,
+      "Turn": 123,
+      "Speaker": "T",
+      "TalkMove": "None"
+    },
+    {
+      "ID": 5788,
+      "Turn": 123,
+      "Speaker": "T",
+      "TalkMove": "None"
+    },
+    {
+      "ID": 5791,
+      "Turn": 126,
+      "Speaker": "T",
+      "TalkMove": "None"
+    },
+    {
+      "ID": 5792,
+      "Turn": 126,
+      "Speaker": "T",
+      "TalkMove": "None"
+    },
+    {
+      "ID": 5794,
+      "Turn": 128,
+      "Speaker": "T",
+      "TalkMove": "None"
+    },
+    {
+      "ID": 5796,
+      "Turn": 130,
+      "Speaker": "T",
+      "TalkMove": "None"
+    },
+    {
+      "ID": 5797,
+      "Turn": 130,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Prompts students to provide the correct mathematical classification/term for 24."
+    },
+    {
+      "ID": 5799,
+      "Turn": 132,
+      "Speaker": "T",
+      "TalkMove": "None"
+    },
+    {
+      "ID": 5800,
+      "Turn": 132,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks students to supply the classification for 25."
+    },
+    {
+      "ID": 5803,
+      "Turn": 134,
+      "Speaker": "T",
+      "TalkMove": "Restating",
+      "Reasoning": "Repeats the student’s word 'Bizz' verbatim."
+    },
+    {
+      "ID": 5804,
+      "Turn": 134,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks for numbers that divide 27, prompting a mathematical contribution."
+    }
+  ]
+}

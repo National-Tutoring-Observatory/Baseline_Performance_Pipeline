@@ -1,0 +1,130 @@
+{
+  "records": [
+    {
+      "ID": 16201,
+      "Speaker": "T",
+      "Turn": 137,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16202,
+      "Speaker": "T",
+      "Turn": 137,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Asks Sage to explain the reason behind their chosen position."
+    },
+    {
+      "ID": 16204,
+      "Speaker": "T",
+      "Turn": 139,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Requests clarification of the ambiguous reference 'this one' to specify the option."
+    },
+    {
+      "ID": 16207,
+      "Speaker": "T",
+      "Turn": 141,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16208,
+      "Speaker": "T",
+      "Turn": 141,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Builds on the student's 'fraction of' language and reframes it as signaling multiplication."
+    },
+    {
+      "ID": 16209,
+      "Speaker": "T",
+      "Turn": 141,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Restates the student's idea as supporting multiplication, adjusting the wording."
+    },
+    {
+      "ID": 16210,
+      "Speaker": "T",
+      "Turn": 141,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16211,
+      "Speaker": "T",
+      "Turn": 141,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Prompts students to evaluate the situation using the definition of division (equal parts)."
+    },
+    {
+      "ID": 16212,
+      "Speaker": "T",
+      "Turn": 142,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16213,
+      "Speaker": "T",
+      "Turn": 142,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Orients the class to give a peer think time and attend to the discussion."
+    },
+    {
+      "ID": 16214,
+      "Speaker": "T",
+      "Turn": 142,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Asks again whether the situation involves dividing into equal parts to elicit justification."
+    },
+    {
+      "ID": 16216,
+      "Speaker": "T",
+      "Turn": 144,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16217,
+      "Speaker": "T",
+      "Turn": 144,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16218,
+      "Speaker": "T",
+      "Turn": 144,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16219,
+      "Speaker": "T",
+      "Turn": 144,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16220,
+      "Speaker": "T",
+      "Turn": 144,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16221,
+      "Speaker": "T",
+      "Turn": 144,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks Lea to state her position/side, making her mathematical choice explicit."
+    },
+    {
+      "ID": 16222,
+      "Speaker": "T",
+      "Turn": 144,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Invites Lea to share her thinking about the choice."
+    }
+  ]
+}

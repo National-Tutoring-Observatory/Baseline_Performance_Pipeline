@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 29960,
+      "Speaker": "T",
+      "Turn": 29960,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 29962,
+      "Speaker": "T",
+      "Turn": 29962,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to make sense of the problem's state ('one leftover'), prompting them to connect an observation to the logic of the solution."
+    },
+    {
+      "ID": 29964,
+      "Speaker": "T",
+      "Turn": 29964,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts students to connect two different representations: the drawing and the algorithm/problem."
+    },
+    {
+      "ID": 29966,
+      "Speaker": "T",
+      "Turn": 29966,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 29967,
+      "Speaker": "T",
+      "Turn": 29967,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to evaluate the correctness of their work, which requires them to justify their process."
+    },
+    {
+      "ID": 29968,
+      "Speaker": "T",
+      "Turn": 29968,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students for a specific mathematical contribution regarding how to handle the remainder in the problem."
+    },
+    {
+      "ID": 29971,
+      "Speaker": "T",
+      "Turn": 29971,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts students to share their thinking and make a decision about how to proceed with the problem."
+    },
+    {
+      "ID": 29972,
+      "Speaker": "T",
+      "Turn": 29972,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 29973,
+      "Speaker": "T",
+      "Turn": 29973,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher orients the class to a specific student's contribution, preparing them to listen to that student's idea."
+    },
+    {
+      "ID": 29974,
+      "Speaker": "T",
+      "Turn": 29974,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats a student's idea but rephrases it as a question for the whole class to consider, clarifying and adding to it."
+    },
+    {
+      "ID": 29976,
+      "Speaker": "T",
+      "Turn": 29976,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts students to explain their thinking and decide on the next step in the problem."
+    },
+    {
+      "ID": 29979,
+      "Speaker": "T",
+      "Turn": 29979,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 29980,
+      "Speaker": "T",
+      "Turn": 29980,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts students to reason about their work by checking it against the established success criteria."
+    },
+    {
+      "ID": 29981,
+      "Speaker": "T",
+      "Turn": 29981,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 29982,
+      "Speaker": "T",
+      "Turn": 29982,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 29983,
+      "Speaker": "T",
+      "Turn": 29983,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to evaluate their work against a specific criterion, prompting them to justify their process."
+    },
+    {
+      "ID": 29986,
+      "Speaker": "T",
+      "Turn": 29986,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 29987,
+      "Speaker": "T",
+      "Turn": 29987,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to provide a specific, correct number to complete the number model."
+    },
+    {
+      "ID": 29989,
+      "Speaker": "T",
+      "Turn": 29989,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher continues to prompt students for a specific, correct mathematical contribution to complete the number model."
+    },
+    {
+      "ID": 29991,
+      "Speaker": "T",
+      "Turn": 29991,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats a student's contribution verbatim to confirm the answer and keep it in the public space."
+    }
+  ]
+}

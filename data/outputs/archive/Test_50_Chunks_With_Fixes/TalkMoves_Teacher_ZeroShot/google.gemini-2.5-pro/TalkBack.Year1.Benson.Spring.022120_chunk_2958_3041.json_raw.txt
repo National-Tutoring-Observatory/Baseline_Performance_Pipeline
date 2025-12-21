@@ -1,0 +1,646 @@
+{
+  "records": [
+    {
+      "ID": 2958,
+      "Turn": 69,
+      "Speaker": "T",
+      "Sentence": "You knew the basic fact of 9 5 is 45",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher begins a multi-part turn by rephrasing a student's strategy to check for understanding."
+    },
+    {
+      "ID": 2959,
+      "Turn": 69,
+      "Speaker": "T",
+      "Sentence": "You took g to equal 50",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher continues to rephrase the student's strategy, adding mathematical language ('g to equal 50')."
+    },
+    {
+      "ID": 2960,
+      "Turn": 69,
+      "Speaker": "T",
+      "Sentence": "Is that what Im understanding",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher concludes the rephrasing of the student's idea by explicitly asking for confirmation."
+    },
+    {
+      "ID": 2961,
+      "Turn": 70,
+      "Speaker": "S",
+      "Sentence": "Yes"
+    },
+    {
+      "ID": 2962,
+      "Turn": 71,
+      "Speaker": "T",
+      "Sentence": "Did anyone do it differently",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2963,
+      "Turn": 71,
+      "Speaker": "T",
+      "Sentence": "Anyone write a division problem",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to provide a specific mathematical representation (a division problem)."
+    },
+    {
+      "ID": 2964,
+      "Turn": 71,
+      "Speaker": "T",
+      "Sentence": "Ally",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2965,
+      "Turn": 72,
+      "Speaker": "S",
+      "Sentence": "I did the house and I did 450 divided by 9 equals 50"
+    },
+    {
+      "ID": 2966,
+      "Turn": 73,
+      "Speaker": "T",
+      "Sentence": "All right",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2967,
+      "Turn": 73,
+      "Speaker": "T",
+      "Sentence": "Do you see that",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher directs the rest of the class to pay attention to the strategy a student has just shared."
+    },
+    {
+      "ID": 2968,
+      "Turn": 73,
+      "Speaker": "T",
+      "Sentence": "Not many people are familiar with that little symbol we call it the house",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2969,
+      "Turn": 73,
+      "Speaker": "T",
+      "Sentence": "I call it the house",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2970,
+      "Turn": 73,
+      "Speaker": "T",
+      "Sentence": "Its not really called house",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2971,
+      "Turn": 73,
+      "Speaker": "T",
+      "Sentence": "Its called the division symbol",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2972,
+      "Turn": 73,
+      "Speaker": "T",
+      "Sentence": "When my sister and I were growing up thats what we used",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2973,
+      "Turn": 73,
+      "Speaker": "T",
+      "Sentence": "That was it",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2974,
+      "Turn": 73,
+      "Speaker": "T",
+      "Sentence": "Thats how we learned division",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2975,
+      "Turn": 73,
+      "Speaker": "T",
+      "Sentence": "We have this little symbol here or this little symbol here",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2976,
+      "Turn": 73,
+      "Speaker": "T",
+      "Sentence": "There was no symbol of the slash",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2977,
+      "Turn": 73,
+      "Speaker": "T",
+      "Sentence": "We learned later fractions and division are very similar but we didnt do problems that looked like that",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2978,
+      "Turn": 73,
+      "Speaker": "T",
+      "Sentence": "Ally you knew you had to figure out 9 times something would give you 450",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases the student's division strategy as a missing factor multiplication problem, adding a new interpretation."
+    },
+    {
+      "ID": 2979,
+      "Turn": 73,
+      "Speaker": "T",
+      "Sentence": "What did you think of",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts the student to explain the thinking behind their strategy."
+    },
+    {
+      "ID": 2980,
+      "Turn": 74,
+      "Speaker": "S",
+      "Sentence": "I thought of basic fact"
+    },
+    {
+      "ID": 2981,
+      "Turn": 75,
+      "Speaker": "T",
+      "Sentence": "You thought of your basic fact",
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's contribution nearly word for word."
+    },
+    {
+      "ID": 2982,
+      "Turn": 75,
+      "Speaker": "T",
+      "Sentence": "Can I ask you a question",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2983,
+      "Turn": 75,
+      "Speaker": "T",
+      "Sentence": "Where did you write your 50",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to be more precise about their mathematical representation."
+    },
+    {
+      "ID": 2984,
+      "Turn": 76,
+      "Speaker": "S",
+      "Sentence": "On my  house"
+    },
+    {
+      "ID": 2985,
+      "Turn": 77,
+      "Speaker": "T",
+      "Sentence": "Did you put your five above the four above the five or above the zero",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher presses for more specific details about the placement of numbers in the student's written work."
+    },
+    {
+      "ID": 2986,
+      "Turn": 78,
+      "Speaker": "S",
+      "Sentence": "Above the five"
+    },
+    {
+      "ID": 2987,
+      "Turn": 79,
+      "Speaker": "T",
+      "Sentence": "You put it above the five",
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's response word for word."
+    },
+    {
+      "ID": 2988,
+      "Turn": 79,
+      "Speaker": "T",
+      "Sentence": "Do you know why you did that",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to explain the reasoning behind their action."
+    },
+    {
+      "ID": 2989,
+      "Turn": 80,
+      "Speaker": "S",
+      "Sentence": "Because that"
+    },
+    {
+      "ID": 2990,
+      "Turn": 81,
+      "Speaker": "T",
+      "Sentence": "Youre still going to think of numbers in their place values when you use this symbol",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2991,
+      "Turn": 81,
+      "Speaker": "T",
+      "Sentence": "Its really interesting to think about this symbol",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2992,
+      "Turn": 81,
+      "Speaker": "T",
+      "Sentence": "How many 9s are in 45",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2993,
+      "Turn": 81,
+      "Speaker": "T",
+      "Sentence": "There are five of them but were not talking about 45 are we",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2994,
+      "Turn": 81,
+      "Speaker": "T",
+      "Sentence": "What number are we dividing",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2995,
+      "Turn": 82,
+      "Speaker": "S",
+      "Sentence": "nan"
+    },
+    {
+      "ID": 2996,
+      "Turn": 83,
+      "Speaker": "T",
+      "Sentence": "450 so there actually 50 9s in 450",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2997,
+      "Turn": 83,
+      "Speaker": "T",
+      "Sentence": "This is your tense column",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2998,
+      "Turn": 83,
+      "Speaker": "T",
+      "Sentence": "You would want to put your 5 because its worth 5 10s above the tens column",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2999,
+      "Turn": 83,
+      "Speaker": "T",
+      "Sentence": "Well get to that when we start doing big division",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3000,
+      "Turn": 83,
+      "Speaker": "T",
+      "Sentence": "Its coming soon",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3001,
+      "Turn": 83,
+      "Speaker": "T",
+      "Sentence": "Are you so excited",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3002,
+      "Turn": 84,
+      "Speaker": "S",
+      "Sentence": "Yes"
+    },
+    {
+      "ID": 3003,
+      "Turn": 85,
+      "Speaker": "T",
+      "Sentence": "Super excited",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3004,
+      "Turn": 85,
+      "Speaker": "T",
+      "Sentence": "Think how smart youre going to be",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3005,
+      "Turn": 85,
+      "Speaker": "T",
+      "Sentence": "All right Im going to put up a blank page real quick and were going to do two practice problems before you start",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3006,
+      "Turn": 86,
+      "Speaker": "S",
+      "Sentence": "When do we start"
+    },
+    {
+      "ID": 3007,
+      "Turn": 87,
+      "Speaker": "T",
+      "Sentence": "I need a  sheet",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3008,
+      "Turn": 87,
+      "Speaker": "T",
+      "Sentence": "Hold on",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3009,
+      "Turn": 87,
+      "Speaker": "T",
+      "Sentence": "The area of that rectangle is 200 square feet",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3010,
+      "Turn": 87,
+      "Speaker": "T",
+      "Sentence": "The length of this side is 50 feet",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3011,
+      "Turn": 87,
+      "Speaker": "T",
+      "Sentence": "If you would like to draw this on your board youre welcome to but your attention needs to be on the problem that were working on together",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher directs students to focus their attention on the shared problem."
+    },
+    {
+      "ID": 3012,
+      "Turn": 87,
+      "Speaker": "T",
+      "Sentence": "I have questions for you that are specific",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3013,
+      "Turn": 87,
+      "Speaker": "T",
+      "Sentence": "What does area",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher begins a question asking for the definition of a mathematical term."
+    },
+    {
+      "ID": 3014,
+      "Turn": 88,
+      "Speaker": "T",
+      "Sentence": "mean",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher completes the question asking for the definition of a mathematical term."
+    },
+    {
+      "ID": 3015,
+      "Turn": 88,
+      "Speaker": "T",
+      "Sentence": "Jaden what does area mean",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a specific student to provide the definition of a mathematical term."
+    },
+    {
+      "ID": 3016,
+      "Turn": 88,
+      "Speaker": "S",
+      "Sentence": "The inside of the rectangle"
+    },
+    {
+      "ID": 3017,
+      "Turn": 89,
+      "Speaker": "T",
+      "Sentence": "Yes the surface area inside the rectangle all this space in here",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's idea ('inside the rectangle') but adds more precise mathematical language ('surface area')."
+    },
+    {
+      "ID": 3018,
+      "Turn": 89,
+      "Speaker": "T",
+      "Sentence": "Youre absolutely right",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3019,
+      "Turn": 89,
+      "Speaker": "T",
+      "Sentence": "Youre right its inside the shape",
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's idea ('inside the rectangle') using very similar wording ('inside the shape')."
+    },
+    {
+      "ID": 3020,
+      "Turn": 89,
+      "Speaker": "T",
+      "Sentence": "Weve only really learned the area of rectangles",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3021,
+      "Turn": 89,
+      "Speaker": "T",
+      "Sentence": "For us were going to focus on squares and rectangles",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3022,
+      "Turn": 89,
+      "Speaker": "T",
+      "Sentence": "How do I know the opposite sides measurement",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to provide the reasoning for how to determine a measurement, implying a geometric property."
+    },
+    {
+      "ID": 3023,
+      "Turn": 89,
+      "Speaker": "T",
+      "Sentence": "If I know this side was 50 how do I know the measurement of this side",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher rephrases the question, prompting students to apply a rule or property to explain their thinking."
+    },
+    {
+      "ID": 3024,
+      "Turn": 89,
+      "Speaker": "T",
+      "Sentence": "Jaden",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3025,
+      "Turn": 90,
+      "Speaker": "S",
+      "Sentence": "The measurement of that side is  its 50 because the top side 50 and the bottom side has to be 50"
+    },
+    {
+      "ID": 3026,
+      "Turn": 91,
+      "Speaker": "T",
+      "Sentence": "Can we assume a rule that opposite sides of rectangles are equal",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher takes the student's specific example and rephrases it as a general mathematical rule, asking for confirmation."
+    },
+    {
+      "ID": 3027,
+      "Turn": 92,
+      "Speaker": "S",
+      "Sentence": "Yes"
+    },
+    {
+      "ID": 3028,
+      "Turn": 93,
+      "Speaker": "T",
+      "Sentence": "Thats a rule of a rectangle a property of a rectangle",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3029,
+      "Turn": 93,
+      "Speaker": "T",
+      "Sentence": "Whatever I find over here should be the same thing over there right",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3030,
+      "Turn": 93,
+      "Speaker": "T",
+      "Sentence": "Give me a problem an equation that I could write to help me solve the missing side",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to provide a specific mathematical contribution in the form of an equation."
+    },
+    {
+      "ID": 3031,
+      "Turn": 93,
+      "Speaker": "T",
+      "Sentence": "Theo give me an equation I can use",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher repeats the prompt for an equation to a specific student."
+    },
+    {
+      "ID": 3032,
+      "Turn": 94,
+      "Speaker": "S",
+      "Sentence": "You could use"
+    },
+    {
+      "ID": 3033,
+      "Turn": 95,
+      "Speaker": "T",
+      "Sentence": "Do you want me to write the formula up there for area to help you remember",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3034,
+      "Turn": 96,
+      "Speaker": "S",
+      "Sentence": "you could have a equals"
+    },
+    {
+      "ID": 3035,
+      "Turn": 97,
+      "Speaker": "T",
+      "Sentence": "You just use this part and this part what parts missing",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher guides a student toward creating a correct equation by pointing out the missing component."
+    },
+    {
+      "ID": 3036,
+      "Turn": 98,
+      "Speaker": "S",
+      "Sentence": "nan"
+    },
+    {
+      "ID": 3037,
+      "Turn": 99,
+      "Speaker": "T",
+      "Sentence": "There you go",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3038,
+      "Turn": 99,
+      "Speaker": "T",
+      "Sentence": "Basically Theo we just wrote it in reverse",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases the student's contribution, adding the idea that it is a 'reverse' form of the standard formula."
+    },
+    {
+      "ID": 3039,
+      "Turn": 99,
+      "Speaker": "T",
+      "Sentence": "We did area equals the length times the width",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher continues to rephrase the student's idea by connecting it to the standard area formula."
+    },
+    {
+      "ID": 3040,
+      "Turn": 99,
+      "Speaker": "T",
+      "Sentence": "Remember when we multiply its okay if we do that",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3041,
+      "Turn": 99,
+      "Speaker": "T",
+      "Sentence": "Kennedy what should I be thinking of as my basic fact",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts a student to share their thinking by connecting the current problem to prior knowledge ('basic fact')."
+    }
+  ]
+}

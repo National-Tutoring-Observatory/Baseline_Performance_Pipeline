@@ -1,0 +1,74 @@
+{
+  "records": [
+    {
+      "ID": 4099,
+      "Speaker": "T",
+      "Turn": 140,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4100,
+      "Speaker": "T",
+      "Turn": 140,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4101,
+      "Speaker": "T",
+      "Turn": 140,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4103,
+      "Speaker": "T",
+      "Turn": 142,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks students to specify which direction the inequality symbol (alligator mouth) should face, prompting a precise mathematical contribution."
+    },
+    {
+      "ID": 4105,
+      "Speaker": "T",
+      "Turn": 144,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher restates the student’s brief answer \"One\" with more complete mathematical language \"one and two tenths,\" adjusting wording while maintaining the idea."
+    },
+    {
+      "ID": 4106,
+      "Speaker": "T",
+      "Turn": 144,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher asks \"How do you know?\" to elicit the student’s explanation and justification."
+    },
+    {
+      "ID": 4107,
+      "Speaker": "T",
+      "Turn": 144,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4110,
+      "Speaker": "T",
+      "Turn": 147,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4111,
+      "Speaker": "T",
+      "Turn": 147,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher directs students to order the numbers from largest to smallest, prompting a specific mathematical output."
+    },
+    {
+      "ID": 4115,
+      "Speaker": "T",
+      "Turn": 151,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

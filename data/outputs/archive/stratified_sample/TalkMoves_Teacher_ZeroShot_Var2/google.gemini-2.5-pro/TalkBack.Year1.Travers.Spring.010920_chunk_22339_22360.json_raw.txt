@@ -1,0 +1,130 @@
+{
+  "records": [
+    {
+      "ID": 22339,
+      "Turn": 10,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22341,
+      "Turn": 12,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22342,
+      "Turn": 12,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22343,
+      "Turn": 12,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22345,
+      "Turn": 14,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22346,
+      "Turn": 14,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22347,
+      "Turn": 14,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22348,
+      "Turn": 14,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22349,
+      "Turn": 14,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts students to explain their understanding of the lesson objective."
+    },
+    {
+      "ID": 22350,
+      "Turn": 14,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to share their thinking by explaining the objective in their own words."
+    },
+    {
+      "ID": 22351,
+      "Turn": 14,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher repeats the prompt for a student to explain the learning objective, pressing for their thinking."
+    },
+    {
+      "ID": 22352,
+      "Turn": 14,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher again asks students to explain the meaning of the objective, pressing for their thinking."
+    },
+    {
+      "ID": 22353,
+      "Turn": 14,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher nominates a specific student to provide the explanation that was previously requested."
+    },
+    {
+      "ID": 22355,
+      "Turn": 16,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22356,
+      "Turn": 16,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts the nominated student to begin sharing their explanation."
+    },
+    {
+      "ID": 22358,
+      "Turn": 18,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22359,
+      "Turn": 18,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22360,
+      "Turn": 18,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's idea about multiplication but refines the language to be more precise ('using a multiplication rule to help us with common denominators')."
+    }
+  ]
+}

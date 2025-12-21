@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 24876,
+      "Speaker": "T",
+      "Turn": 24876,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24877,
+      "Speaker": "T",
+      "Turn": 24877,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks what the bottom axis represents, eliciting precise identification of the variable."
+    },
+    {
+      "ID": 24880,
+      "Speaker": "T",
+      "Turn": 24880,
+      "TalkMove": "Restating",
+      "Reasoning": "Repeats the student’s answer 'Length' word-for-word."
+    },
+    {
+      "ID": 24881,
+      "Speaker": "T",
+      "Turn": 24881,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Requests the unit, prompting precise mathematical specification."
+    },
+    {
+      "ID": 24883,
+      "Speaker": "T",
+      "Turn": 24883,
+      "TalkMove": "Restating",
+      "Reasoning": "Echoes the student response 'In inches' word-for-word."
+    },
+    {
+      "ID": 24884,
+      "Speaker": "T",
+      "Turn": 24884,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24885,
+      "Speaker": "T",
+      "Turn": 24885,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24886,
+      "Speaker": "T",
+      "Turn": 24886,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24887,
+      "Speaker": "T",
+      "Turn": 24887,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24888,
+      "Speaker": "T",
+      "Turn": 24888,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24889,
+      "Speaker": "T",
+      "Turn": 24889,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks for the count of data points at four inches, prompting a specific mathematical value."
+    },
+    {
+      "ID": 24891,
+      "Speaker": "T",
+      "Turn": 24891,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Reiterates the question to elicit the exact count."
+    },
+    {
+      "ID": 24892,
+      "Speaker": "T",
+      "Turn": 24892,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Encourages all students to respond, orienting the whole group to participate together."
+    },
+    {
+      "ID": 24893,
+      "Speaker": "T",
+      "Turn": 24893,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24894,
+      "Speaker": "T",
+      "Turn": 24894,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24896,
+      "Speaker": "T",
+      "Turn": 24896,
+      "TalkMove": "Restating",
+      "Reasoning": "Repeats the student’s choral response 'Three' word-for-word."
+    },
+    {
+      "ID": 24897,
+      "Speaker": "T",
+      "Turn": 24897,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Paraphrases the student’s 'three' and connects it to the representation (Xs), adding explanation about how each X is one data point."
+    },
+    {
+      "ID": 24899,
+      "Speaker": "T",
+      "Turn": 24899,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24900,
+      "Speaker": "T",
+      "Turn": 24900,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24901,
+      "Speaker": "T",
+      "Turn": 24901,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

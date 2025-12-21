@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 5225,
+      "Speaker": "T",
+      "Turn": 5225,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a specific question prompting students to identify a mathematical component (the coordinate)."
+    },
+    {
+      "ID": 5226,
+      "Speaker": "T",
+      "Turn": 5226,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a specific question prompting students to identify the first coordinate."
+    },
+    {
+      "ID": 5228,
+      "Speaker": "T",
+      "Turn": 5228,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher calls on a specific student (Gabriel) to answer the previous question, ensuring engagement."
+    },
+    {
+      "ID": 5230,
+      "Speaker": "T",
+      "Turn": 5230,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's idea ('thats where they meet') and validates it before pivoting."
+    },
+    {
+      "ID": 5231,
+      "Speaker": "T",
+      "Turn": 5231,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher corrects/clarifies ('Thats the origin but...') and then prompts for specific mathematical knowledge about coordinate order."
+    },
+    {
+      "ID": 5232,
+      "Speaker": "T",
+      "Turn": 5232,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to choose between specific mathematical terms (x or y)."
+    },
+    {
+      "ID": 5234,
+      "Speaker": "T",
+      "Turn": 5234,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's correct answer ('The x')."
+    },
+    {
+      "ID": 5235,
+      "Speaker": "T",
+      "Turn": 5235,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the answer ('The x') and adds clarification ('coordinate is first')."
+    },
+    {
+      "ID": 5236,
+      "Speaker": "T",
+      "Turn": 5236,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 5237,
+      "Speaker": "T",
+      "Turn": 5237,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the definition of a mathematical term ('Double')."
+    },
+    {
+      "ID": 5238,
+      "Speaker": "T",
+      "Turn": 5238,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher calls on a specific student (Lincoln) to answer the question."
+    },
+    {
+      "ID": 5240,
+      "Speaker": "T",
+      "Turn": 5240,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's answer ('Multiply it by two')."
+    },
+    {
+      "ID": 5241,
+      "Speaker": "T",
+      "Turn": 5241,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the concept but expands on it ('Just the x just the first number...')."
+    },
+    {
+      "ID": 5242,
+      "Speaker": "T",
+      "Turn": 5242,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases the previous idea ('Shes gonna multiply it by two')."
+    },
+    {
+      "ID": 5245,
+      "Speaker": "T",
+      "Turn": 5245,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher affirms a student contribution ('Yes') and rephrases/adds on ('and youd leave the second one the same')."
+    },
+    {
+      "ID": 5246,
+      "Speaker": "T",
+      "Turn": 5246,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher continues to rephrase the procedure ('The yaxis is all gonna stay the same')."
+    },
+    {
+      "ID": 5247,
+      "Speaker": "T",
+      "Turn": 5247,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts students to connect the current task to a previous representation/activity ('remember in the sailboat we did that')."
+    },
+    {
+      "ID": 5248,
+      "Speaker": "T",
+      "Turn": 5248,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher explains the connection to the previous activity, reinforcing the logic behind changing axes."
+    },
+    {
+      "ID": 5249,
+      "Speaker": "T",
+      "Turn": 5249,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 5250,
+      "Speaker": "T",
+      "Turn": 5250,
+      "TalkMove": "None",
+      "Reasoning": null
+    }
+  ]
+}

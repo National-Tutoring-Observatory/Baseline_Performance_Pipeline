@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 45,
+      "Speaker": "T",
+      "Turn": 45,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher presents a mathematical expression to prompt a precise computation."
+    },
+    {
+      "ID": 48,
+      "Speaker": "T",
+      "Turn": 48,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 49,
+      "Speaker": "T",
+      "Turn": 49,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks students to specify the basic fact, prompting precise mathematical language."
+    },
+    {
+      "ID": 50,
+      "Speaker": "T",
+      "Turn": 50,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 51,
+      "Speaker": "T",
+      "Turn": 51,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 52,
+      "Speaker": "T",
+      "Turn": 52,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher paraphrases the student's contribution ('56') and adds framing about their thinking."
+    },
+    {
+      "ID": 53,
+      "Speaker": "T",
+      "Turn": 53,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher presents another expression to elicit a specific computation."
+    },
+    {
+      "ID": 55,
+      "Speaker": "T",
+      "Turn": 55,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks Clayton to explain his thinking ('Why'), prompting justification."
+    },
+    {
+      "ID": 56,
+      "Speaker": "T",
+      "Turn": 56,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks for justification about why the answer is not 80."
+    },
+    {
+      "ID": 58,
+      "Speaker": "T",
+      "Turn": 58,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 59,
+      "Speaker": "T",
+      "Turn": 59,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher restates the idea that there's a basic fact involved, adding concise wording."
+    },
+    {
+      "ID": 60,
+      "Speaker": "T",
+      "Turn": 60,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher reformulates a student’s idea about added zeros."
+    },
+    {
+      "ID": 61,
+      "Speaker": "T",
+      "Turn": 61,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher introduces an expression to prompt a specific mathematical computation."
+    },
+    {
+      "ID": 63,
+      "Speaker": "T",
+      "Turn": 63,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher presents an expression to elicit a precise computation."
+    },
+    {
+      "ID": 65,
+      "Speaker": "T",
+      "Turn": 65,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher poses an expression to prompt accurate calculation and attention to place value."
+    },
+    {
+      "ID": 68,
+      "Speaker": "T",
+      "Turn": 68,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks for an explanation distinguishing 48,000 from 4,800."
+    },
+    {
+      "ID": 69,
+      "Speaker": "T",
+      "Turn": 69,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts Matt to justify his thinking ('why not')."
+    },
+    {
+      "ID": 71,
+      "Speaker": "T",
+      "Turn": 71,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher reformulates the idea by highlighting the number of added zeros relative to the basic fact."
+    },
+    {
+      "ID": 72,
+      "Speaker": "T",
+      "Turn": 72,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher presents an expression to prompt precise computation."
+    },
+    {
+      "ID": 77,
+      "Speaker": "T",
+      "Turn": 77,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student’s reported answer ('24000') to highlight it for the class."
+    }
+  ]
+}

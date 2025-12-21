@@ -1,0 +1,150 @@
+{
+  "records": [
+    {
+      "ID": 953,
+      "Speaker": "T",
+      "Turn": 266,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 954,
+      "Speaker": "T",
+      "Turn": 266,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 955,
+      "Speaker": "T",
+      "Turn": 266,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to use the definition of a fraction (half) to determine the whole."
+    },
+    {
+      "ID": 956,
+      "Speaker": "S",
+      "Turn": 267
+    },
+    {
+      "ID": 957,
+      "Speaker": "T",
+      "Turn": 268,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students for a specific mathematical contribution based on combining the manipulatives."
+    },
+    {
+      "ID": 958,
+      "Speaker": "S",
+      "Turn": 269
+    },
+    {
+      "ID": 959,
+      "Speaker": "T",
+      "Turn": 270,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's answer verbatim."
+    },
+    {
+      "ID": 960,
+      "Speaker": "T",
+      "Turn": 270,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases the students' contributions using more formal mathematical language to summarize the concept (half + half = whole)."
+    },
+    {
+      "ID": 961,
+      "Speaker": "T",
+      "Turn": 270,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 962,
+      "Speaker": "T",
+      "Turn": 270,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to explain the process or strategy needed to solve the problem."
+    },
+    {
+      "ID": 963,
+      "Speaker": "T",
+      "Turn": 270,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks a specific student to share the steps they took to solve the problem, prompting for their reasoning."
+    },
+    {
+      "ID": 964,
+      "Speaker": "S",
+      "Turn": 271
+    },
+    {
+      "ID": 965,
+      "Speaker": "T",
+      "Turn": 272,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher attempts to clarify and rephrase the student's confusing contribution into a more coherent mathematical step."
+    },
+    {
+      "ID": 966,
+      "Speaker": "T",
+      "Turn": 272,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher interprets and rephrases the student's idea ('half of 25') into a concrete action with the manipulatives ('split that dark green into two equal parts')."
+    },
+    {
+      "ID": 967,
+      "Speaker": "T",
+      "Turn": 272,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to identify the specific manipulative that fits, asking for a precise mathematical contribution."
+    },
+    {
+      "ID": 968,
+      "Speaker": "T",
+      "Turn": 272,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher continues to prompt for a specific manipulative, providing another option to guide students to the correct answer."
+    },
+    {
+      "ID": 969,
+      "Speaker": "T",
+      "Turn": 272,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher continues to prompt for a specific manipulative, providing a third option to guide students to the correct answer."
+    },
+    {
+      "ID": 970,
+      "Speaker": "T",
+      "Turn": 272,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "After providing options, the teacher asks again for the specific, correct answer."
+    },
+    {
+      "ID": 971,
+      "Speaker": "T",
+      "Turn": 272,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 972,
+      "Speaker": "S",
+      "Turn": 273
+    },
+    {
+      "ID": 973,
+      "Speaker": "T",
+      "Turn": 274,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's one-word answer in a full sentence with a tag question to confirm and validate it."
+    },
+    {
+      "ID": 974,
+      "Speaker": "T",
+      "Turn": 274,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher expands on the student's answer to make the mathematical relationship between the pieces explicit for the class."
+    }
+  ]
+}

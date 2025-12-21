@@ -1,0 +1,39 @@
+{
+  "records": [
+    {
+      "ID": 1455,
+      "Speaker": "T",
+      "Turn": 1,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1456,
+      "Speaker": "T",
+      "Turn": 1,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks students to provide a mathematical definition, prompting them to use accurate language."
+    },
+    {
+      "ID": 1457,
+      "Speaker": "T",
+      "Turn": 1,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher refines the question, prompting students to make a specific mathematical comparison."
+    },
+    {
+      "ID": 1458,
+      "Speaker": "T",
+      "Turn": 1,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1459,
+      "Speaker": "T",
+      "Turn": 2,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

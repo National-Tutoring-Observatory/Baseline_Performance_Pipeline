@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 9696,
+      "Speaker": "T",
+      "Turn": 9696,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9697,
+      "Speaker": "T",
+      "Turn": 9697,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9698,
+      "Speaker": "T",
+      "Turn": 9698,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9699,
+      "Speaker": "T",
+      "Turn": 9699,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9700,
+      "Speaker": "T",
+      "Turn": 9700,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9701,
+      "Speaker": "T",
+      "Turn": 9701,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9703,
+      "Speaker": "T",
+      "Turn": 9703,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9704,
+      "Speaker": "T",
+      "Turn": 9704,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks how to find 1/5 of 10, prompting the student to explain the method."
+    },
+    {
+      "ID": 9705,
+      "Speaker": "T",
+      "Turn": 9705,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "By asking 'what do I do,' the teacher elicits the next steps and the student’s explanation."
+    },
+    {
+      "ID": 9707,
+      "Speaker": "T",
+      "Turn": 9707,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the specific number of groups to make from 10, prompting a precise mathematical answer."
+    },
+    {
+      "ID": 9708,
+      "Speaker": "T",
+      "Turn": 9708,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9709,
+      "Speaker": "T",
+      "Turn": 9709,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher repeats the request for the exact number of groups, seeking a specific numerical answer."
+    },
+    {
+      "ID": 9710,
+      "Speaker": "T",
+      "Turn": 9710,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Invites the class to 'flash' their answer, prompting a collective mathematical contribution."
+    },
+    {
+      "ID": 9711,
+      "Speaker": "T",
+      "Turn": 9711,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9712,
+      "Speaker": "T",
+      "Turn": 9712,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Asks 'Why five groups?' to elicit justification for the numerical choice."
+    },
+    {
+      "ID": 9714,
+      "Speaker": "T",
+      "Turn": 9714,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9716,
+      "Speaker": "T",
+      "Turn": 9716,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Requests a specific mathematical fact about fifths (how many parts make a fifth)."
+    },
+    {
+      "ID": 9718,
+      "Speaker": "T",
+      "Turn": 9718,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student’s response 'Two' verbatim."
+    },
+    {
+      "ID": 9719,
+      "Speaker": "T",
+      "Turn": 9719,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Builds on the student’s 'two' by incorporating it into the calculation ('let’s add two more...')."
+    },
+    {
+      "ID": 9720,
+      "Speaker": "T",
+      "Turn": 9720,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Asks how to find 1/4 of 12, prompting students to explain the method."
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "records": [
+    {
+      "ID": 1094,
+      "Speaker": "T",
+      "Turn": 34,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts a specific mathematical action (adding 30), seeking a precise mathematical contribution."
+    },
+    {
+      "ID": 1095,
+      "Speaker": "T",
+      "Turn": 34,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1096,
+      "Speaker": "T",
+      "Turn": 34,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1097,
+      "Speaker": "T",
+      "Turn": 34,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the numerical answer, prompting a specific mathematical result."
+    },
+    {
+      "ID": 1099,
+      "Speaker": "T",
+      "Turn": 36,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1100,
+      "Speaker": "T",
+      "Turn": 36,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks what 600 represents, prompting students to connect the number to the context/representation."
+    },
+    {
+      "ID": 1102,
+      "Speaker": "T",
+      "Turn": 38,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher requests more specificity, pushing for precise mathematical language about the quantity."
+    },
+    {
+      "ID": 1105,
+      "Speaker": "T",
+      "Turn": 41,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher paraphrases the student's idea about what 600 represents to clarify and refine it."
+    },
+    {
+      "ID": 1107,
+      "Speaker": "T",
+      "Turn": 43,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher echoes and modifies the student’s wording by linking the number 600 to 'ball of string.'"
+    },
+    {
+      "ID": 1109,
+      "Speaker": "T",
+      "Turn": 45,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the unit of measure, prompting precise mathematical language."
+    },
+    {
+      "ID": 1110,
+      "Speaker": "T",
+      "Turn": 45,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher reiterates the request for the measurement unit, emphasizing correct mathematical terminology."
+    },
+    {
+      "ID": 1112,
+      "Speaker": "T",
+      "Turn": 47,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts completion of the phrase with the correct unit and object, pushing for precise language."
+    },
+    {
+      "ID": 1114,
+      "Speaker": "T",
+      "Turn": 49,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher restates the final answer with units and context, consolidating the student’s contribution."
+    },
+    {
+      "ID": 1115,
+      "Speaker": "T",
+      "Turn": 49,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

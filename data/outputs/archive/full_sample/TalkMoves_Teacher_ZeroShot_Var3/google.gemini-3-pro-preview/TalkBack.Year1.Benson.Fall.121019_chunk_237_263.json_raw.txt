@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 237,
+      "Speaker": "T",
+      "Turn": 237,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a specific question about the correctness of the student's work ('did she actually do it right'), prompting the class to evaluate the mathematical accuracy."
+    },
+    {
+      "ID": 239,
+      "Speaker": "T",
+      "Turn": 239,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 240,
+      "Speaker": "T",
+      "Turn": 240,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 241,
+      "Speaker": "T",
+      "Turn": 241,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 242,
+      "Speaker": "T",
+      "Turn": 242,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a specific mathematical question ('How many extra zeros are in the problem') that requires a precise answer."
+    },
+    {
+      "ID": 244,
+      "Speaker": "T",
+      "Turn": 244,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 245,
+      "Speaker": "T",
+      "Turn": 245,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher highlights a common error made by the group ('Every single person except for You missed that') and checks in with a specific student ('right Pat'), orienting the class to the shared experience of the problem."
+    },
+    {
+      "ID": 246,
+      "Speaker": "T",
+      "Turn": 246,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 247,
+      "Speaker": "T",
+      "Turn": 247,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 248,
+      "Speaker": "T",
+      "Turn": 248,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher makes a statement comparing two numbers ('2400 is not very close to 240 is it') which implicitly prompts students to think about magnitude and the significance of place value errors."
+    },
+    {
+      "ID": 250,
+      "Speaker": "T",
+      "Turn": 250,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 251,
+      "Speaker": "T",
+      "Turn": 251,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 252,
+      "Speaker": "T",
+      "Turn": 252,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 253,
+      "Speaker": "T",
+      "Turn": 253,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 254,
+      "Speaker": "T",
+      "Turn": 254,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 256,
+      "Speaker": "T",
+      "Turn": 256,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 258,
+      "Speaker": "T",
+      "Turn": 258,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 259,
+      "Speaker": "T",
+      "Turn": 259,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 260,
+      "Speaker": "T",
+      "Turn": 260,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 263,
+      "Speaker": "T",
+      "Turn": 263,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher compares the correct answer to an incorrect one ('2610 is very different than 500something'), prompting students to reflect on the reasonableness of their answers."
+    }
+  ]
+}

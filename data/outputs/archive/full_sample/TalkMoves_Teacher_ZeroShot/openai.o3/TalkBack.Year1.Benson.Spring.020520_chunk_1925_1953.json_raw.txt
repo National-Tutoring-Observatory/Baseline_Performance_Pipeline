@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 1925,
+      "Speaker": "T",
+      "Turn": 1925,
+      "TalkMove": "Restating",
+      "Reasoning": "Teacher repeats the student’s answer (“nine hundredths”) almost word-for-word."
+    },
+    {
+      "ID": 1927,
+      "Speaker": "T",
+      "Turn": 1927,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher checks that the written notation (0 19) matches what the student intended."
+    },
+    {
+      "ID": 1929,
+      "Speaker": "T",
+      "Turn": 1929,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks the student to specify the missing element (“Without the what?”) to get the precise notation."
+    },
+    {
+      "ID": 1931,
+      "Speaker": "T",
+      "Turn": 1931,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1933,
+      "Speaker": "T",
+      "Turn": 1933,
+      "TalkMove": "Restating",
+      "Reasoning": "Teacher restates the student’s written number (“You wrote 109”)."
+    },
+    {
+      "ID": 1934,
+      "Speaker": "T",
+      "Turn": 1934,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks how to correct the mistaken notation, prompting a more accurate answer."
+    },
+    {
+      "ID": 1935,
+      "Speaker": "T",
+      "Turn": 1935,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1937,
+      "Speaker": "T",
+      "Turn": 1937,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher asks the student to locate and explain their mistake."
+    },
+    {
+      "ID": 1938,
+      "Speaker": "T",
+      "Turn": 1938,
+      "TalkMove": "Restating",
+      "Reasoning": "Teacher repeats the student’s answer (“eight and two tenths”)."
+    },
+    {
+      "ID": 1939,
+      "Speaker": "T",
+      "Turn": 1939,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher requests a student’s exact written answer to the problem."
+    },
+    {
+      "ID": 1941,
+      "Speaker": "T",
+      "Turn": 1941,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1942,
+      "Speaker": "T",
+      "Turn": 1942,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Teacher announces the next (last) item so the whole class knows where they are in the task."
+    },
+    {
+      "ID": 1943,
+      "Speaker": "T",
+      "Turn": 1943,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks another student to state the exact answer they wrote."
+    },
+    {
+      "ID": 1945,
+      "Speaker": "T",
+      "Turn": 1945,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "Teacher invites the class to indicate agreement or disagreement with a peer’s answer."
+    },
+    {
+      "ID": 1947,
+      "Speaker": "T",
+      "Turn": 1947,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher asks students to explain why the number is not 458, seeking justification."
+    },
+    {
+      "ID": 1948,
+      "Speaker": "T",
+      "Turn": 1948,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1950,
+      "Speaker": "T",
+      "Turn": 1950,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1951,
+      "Speaker": "T",
+      "Turn": 1951,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1952,
+      "Speaker": "T",
+      "Turn": 1952,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1953,
+      "Speaker": "T",
+      "Turn": 1953,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

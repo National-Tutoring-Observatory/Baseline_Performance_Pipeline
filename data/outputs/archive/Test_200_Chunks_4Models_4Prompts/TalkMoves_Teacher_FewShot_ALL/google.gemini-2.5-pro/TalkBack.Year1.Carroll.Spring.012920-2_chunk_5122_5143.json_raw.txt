@@ -1,0 +1,150 @@
+{
+  "records": [
+    {
+      "ID": 5122,
+      "Speaker": "T",
+      "Turn": 223,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts the student to reason about the magnitude of a number by comparing it to a benchmark fraction."
+    },
+    {
+      "ID": 5123,
+      "Speaker": "T",
+      "Turn": 223,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher continues to prompt the student to reason about the magnitude of a number by offering the alternative comparison."
+    },
+    {
+      "ID": 5124,
+      "Speaker": "S",
+      "Turn": 224
+    },
+    {
+      "ID": 5125,
+      "Speaker": "T",
+      "Turn": 225,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5126,
+      "Speaker": "T",
+      "Turn": 225,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's idea ('Bigger than a half') while adding the specific fraction being discussed ('11/15'), thus clarifying the student's contribution."
+    },
+    {
+      "ID": 5127,
+      "Speaker": "S",
+      "Turn": 226
+    },
+    {
+      "ID": 5128,
+      "Speaker": "T",
+      "Turn": 227,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases the student's statement ('nowhere near the answer') to be more mathematically precise ('nowhere near zero')."
+    },
+    {
+      "ID": 5129,
+      "Speaker": "T",
+      "Turn": 227,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5130,
+      "Speaker": "S",
+      "Turn": 228
+    },
+    {
+      "ID": 5131,
+      "Speaker": "T",
+      "Turn": 229,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5132,
+      "Speaker": "S",
+      "Turn": 230
+    },
+    {
+      "ID": 5133,
+      "Speaker": "T",
+      "Turn": 231,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases the student's idea ('not as big as a half') using more formal mathematical language ('less than 1/2')."
+    },
+    {
+      "ID": 5134,
+      "Speaker": "T",
+      "Turn": 231,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5135,
+      "Speaker": "T",
+      "Turn": 231,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher directs all students to engage in the same activity ('I want everyone writing') to ensure the group moves forward together."
+    },
+    {
+      "ID": 5136,
+      "Speaker": "T",
+      "Turn": 232,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5137,
+      "Speaker": "T",
+      "Turn": 232,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5138,
+      "Speaker": "T",
+      "Turn": 232,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5139,
+      "Speaker": "T",
+      "Turn": 232,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5140,
+      "Speaker": "T",
+      "Turn": 232,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5141,
+      "Speaker": "T",
+      "Turn": 234,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher directs specific students to join the whole-class activity, orienting them to the group task."
+    },
+    {
+      "ID": 5142,
+      "Speaker": "T",
+      "Turn": 234,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5143,
+      "Speaker": "T",
+      "Turn": 234,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

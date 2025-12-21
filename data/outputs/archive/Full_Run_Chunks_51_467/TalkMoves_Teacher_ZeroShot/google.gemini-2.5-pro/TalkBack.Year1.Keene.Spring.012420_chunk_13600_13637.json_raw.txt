@@ -1,0 +1,236 @@
+{
+  "records": [
+    {
+      "ID": 13600,
+      "Turn": 190,
+      "Speaker": "T",
+      "Sentence": "Youre looking here and helping them out",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher is directing students to pay attention to a classmate's work and provide help, orienting them to each other."
+    },
+    {
+      "ID": 13601,
+      "Turn": 190,
+      "Speaker": "T",
+      "Sentence": "Who can help Jen out",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher is asking the class to orient to a specific student's need for help."
+    },
+    {
+      "ID": 13602,
+      "Turn": 190,
+      "Speaker": "T",
+      "Sentence": "What coordinates is she supposed to be plotting",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher is prompting students for a specific and correct mathematical contribution (the coordinates)."
+    },
+    {
+      "ID": 13603,
+      "Turn": 190,
+      "Speaker": "T",
+      "Sentence": "Call on someone Jen you can choose someone to help you",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 13605,
+      "Turn": 192,
+      "Speaker": "T",
+      "Sentence": "No",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 13606,
+      "Turn": 192,
+      "Speaker": "T",
+      "Sentence": "Hannah just did the 2 4",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 13609,
+      "Turn": 194,
+      "Speaker": "T",
+      "Sentence": "Plot the points 10 2",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 13610,
+      "Turn": 194,
+      "Speaker": "T",
+      "Sentence": "Friends if your numbers up here make sure you know which coordinate youre plotting based on looking at your own book",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher is giving a general instruction to the whole class to ensure they are all following along and prepared for their turn."
+    },
+    {
+      "ID": 13611,
+      "Turn": 194,
+      "Speaker": "T",
+      "Sentence": "Ethans next please push this thing to make it go away",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 13612,
+      "Turn": 194,
+      "Speaker": "T",
+      "Sentence": "Again youll have to be really careful about pushing that button",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 13613,
+      "Turn": 194,
+      "Speaker": "T",
+      "Sentence": "Next person be standing ready to take this so we can speed this up a little bit",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 13614,
+      "Turn": 194,
+      "Speaker": "T",
+      "Sentence": "Next person hello",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 13615,
+      "Turn": 194,
+      "Speaker": "T",
+      "Sentence": "Joel just went",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 13616,
+      "Turn": 194,
+      "Speaker": "T",
+      "Sentence": "Whose turn is it next",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 13618,
+      "Turn": 196,
+      "Speaker": "T",
+      "Sentence": "Hang on",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 13620,
+      "Turn": 198,
+      "Speaker": "T",
+      "Sentence": "You should be able to",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 13621,
+      "Turn": 198,
+      "Speaker": "T",
+      "Sentence": "All right friends",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 13622,
+      "Turn": 198,
+      "Speaker": "T",
+      "Sentence": "What do you think",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 13623,
+      "Turn": 198,
+      "Speaker": "T",
+      "Sentence": "This look like your sailboat",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher asks students to compare their individual work to the public representation, ensuring the group is on the same page."
+    },
+    {
+      "ID": 13626,
+      "Turn": 201,
+      "Speaker": "T",
+      "Sentence": "Now show me yes or no was your conjecture correct",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 13628,
+      "Turn": 203,
+      "Speaker": "T",
+      "Sentence": "Think why",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts students to prepare an explanation for their answer."
+    },
+    {
+      "ID": 13629,
+      "Turn": 203,
+      "Speaker": "T",
+      "Sentence": "Why was your conjecture correct",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher explicitly asks students to provide the reasoning behind their conclusion."
+    },
+    {
+      "ID": 13630,
+      "Turn": 203,
+      "Speaker": "T",
+      "Sentence": "Okay thank you",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 13631,
+      "Turn": 203,
+      "Speaker": "T",
+      "Sentence": "Why was your conjecture correct",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher repeats the prompt for students to explain their thinking."
+    },
+    {
+      "ID": 13632,
+      "Turn": 203,
+      "Speaker": "T",
+      "Sentence": "Share with your partner",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher is directing students to orient to each other to engage in a discussion."
+    },
+    {
+      "ID": 13633,
+      "Turn": 203,
+      "Speaker": "T",
+      "Sentence": "Why was you conjecture correct",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher provides the specific question students should discuss with their partner, which prompts for an explanation."
+    },
+    {
+      "ID": 13634,
+      "Turn": 204,
+      "Speaker": "T",
+      "Sentence": "What were you trying to go",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 13636,
+      "Turn": 206,
+      "Speaker": "T",
+      "Sentence": "That you have to go to not there so go here to the table score entry  some sort and then okay you have to go here and choose that day and then thatll open it up because you have to first say what day youre doing it",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 13637,
+      "Turn": 206,
+      "Speaker": "T",
+      "Sentence": "Now you can click on the conjecture",
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

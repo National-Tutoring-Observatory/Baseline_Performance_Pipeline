@@ -1,0 +1,122 @@
+{
+  "records": [
+    {
+      "ID": 953,
+      "Speaker": "T",
+      "Turn": 266
+    },
+    {
+      "ID": 954,
+      "Speaker": "T",
+      "Turn": 266
+    },
+    {
+      "ID": 955,
+      "Speaker": "T",
+      "Turn": 266,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks how many pieces make the whole when one piece is half, prompting a specific mathematical value."
+    },
+    {
+      "ID": 957,
+      "Speaker": "T",
+      "Turn": 268,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Prompts students to name the resulting color when two halves are combined, requiring a correct label."
+    },
+    {
+      "ID": 959,
+      "Speaker": "T",
+      "Turn": 270,
+      "TalkMove": "Restating",
+      "Reasoning": "Repeats the student's answer 'one pink' verbatim."
+    },
+    {
+      "ID": 960,
+      "Speaker": "T",
+      "Turn": 270,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Restates and formalizes the idea that two halves make a whole, connecting halves to one whole pink."
+    },
+    {
+      "ID": 961,
+      "Speaker": "T",
+      "Turn": 270
+    },
+    {
+      "ID": 962,
+      "Speaker": "T",
+      "Turn": 270,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Asks students to describe the process to find the value for 55 given that dark green is 25."
+    },
+    {
+      "ID": 963,
+      "Speaker": "T",
+      "Turn": 270,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Invites Maddox to explain the method used to determine 55 from 25."
+    },
+    {
+      "ID": 965,
+      "Speaker": "T",
+      "Turn": 272,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Paraphrases and clarifies the student's idea as needing 'another 15.'"
+    },
+    {
+      "ID": 966,
+      "Speaker": "T",
+      "Turn": 272,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Elaborates Maddox's strategy: split the dark green into two equal parts and find pieces that fit."
+    },
+    {
+      "ID": 967,
+      "Speaker": "T",
+      "Turn": 272,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Requests the specific color that represents the half of dark green."
+    },
+    {
+      "ID": 968,
+      "Speaker": "T",
+      "Turn": 272,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Continues prompting for the correct color label."
+    },
+    {
+      "ID": 969,
+      "Speaker": "T",
+      "Turn": 272,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Continues prompting for the correct color label."
+    },
+    {
+      "ID": 970,
+      "Speaker": "T",
+      "Turn": 272,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks explicitly for the correct color."
+    },
+    {
+      "ID": 971,
+      "Speaker": "T",
+      "Turn": 272
+    },
+    {
+      "ID": 973,
+      "Speaker": "T",
+      "Turn": 274,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Restates the student's answer 'purple' with confirmation."
+    },
+    {
+      "ID": 974,
+      "Speaker": "T",
+      "Turn": 274,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Builds on the student's contribution to state the relationship that two purples equal one dark green."
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 19478,
+      "Speaker": "T",
+      "Turn": 19478,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher directs a specific student to read the title, orienting the class to the task."
+    },
+    {
+      "ID": 19479,
+      "Speaker": "T",
+      "Turn": 19479,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher gives a directive to focus attention on the title."
+    },
+    {
+      "ID": 19481,
+      "Speaker": "T",
+      "Turn": 19481,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher directs another student to read the function, keeping the class focused on the text."
+    },
+    {
+      "ID": 19483,
+      "Speaker": "T",
+      "Turn": 19483,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19484,
+      "Speaker": "T",
+      "Turn": 19484,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19485,
+      "Speaker": "T",
+      "Turn": 19485,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher reads part of the function aloud to orient students to the specific problem."
+    },
+    {
+      "ID": 19487,
+      "Speaker": "T",
+      "Turn": 19487,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher ensures everyone is on the correct page."
+    },
+    {
+      "ID": 19489,
+      "Speaker": "T",
+      "Turn": 19489,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19490,
+      "Speaker": "T",
+      "Turn": 19490,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a specific mathematical question about the x-intercepts, prompting for a factual answer."
+    },
+    {
+      "ID": 19492,
+      "Speaker": "T",
+      "Turn": 19492,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks a student to describe what is happening at a specific point on the graph, prompting for an explanation of the behavior."
+    },
+    {
+      "ID": 19493,
+      "Speaker": "T",
+      "Turn": 19493,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher repeats the question, pressing the student to explain the behavior at x=2."
+    },
+    {
+      "ID": 19495,
+      "Speaker": "T",
+      "Turn": 19495,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases a student's idea (implied previous turn) about the graph's behavior, clarifying that it goes from decreasing to increasing."
+    },
+    {
+      "ID": 19496,
+      "Speaker": "T",
+      "Turn": 19496,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher asks another student (Caitlin) to add on to what was just said."
+    },
+    {
+      "ID": 19497,
+      "Speaker": "T",
+      "Turn": 19497,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks specifically what happens when x equals two, looking for further description or explanation of the graph's features."
+    },
+    {
+      "ID": 19499,
+      "Speaker": "T",
+      "Turn": 19499,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats a student's contribution ('The graph will get thinner') to verify or amplify it."
+    },
+    {
+      "ID": 19500,
+      "Speaker": "T",
+      "Turn": 19500,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher calls on a specific student (Aiden) to contribute."
+    },
+    {
+      "ID": 19502,
+      "Speaker": "T",
+      "Turn": 19502,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats and refines a student's answer, confirming it hits a local minimum and is a turning point."
+    },
+    {
+      "ID": 19503,
+      "Speaker": "T",
+      "Turn": 19503,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts students to connect the current observation to a previously established concept ('what have we said right from the beginning')."
+    },
+    {
+      "ID": 19504,
+      "Speaker": "T",
+      "Turn": 19504,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to recall how they described this specific behavior, pressing for the conceptual vocabulary."
+    },
+    {
+      "ID": 19506,
+      "Speaker": "T",
+      "Turn": 19506,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher connects the visual behavior ('bouncing') to the mathematical concept ('multiplicity'), explaining the reasoning behind the term."
+    }
+  ]
+}

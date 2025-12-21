@@ -1,0 +1,364 @@
+{
+  "records": [
+    {
+      "ID": 18955,
+      "Turn": 66,
+      "Speaker": "T",
+      "Sentence": "Eight",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18957,
+      "Turn": 68,
+      "Speaker": "T",
+      "Sentence": "Nine",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18959,
+      "Turn": 70,
+      "Speaker": "T",
+      "Sentence": "10",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18961,
+      "Turn": 72,
+      "Speaker": "T",
+      "Sentence": "20",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18963,
+      "Turn": 74,
+      "Speaker": "T",
+      "Sentence": "Those are the factors of my constant",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18964,
+      "Turn": 74,
+      "Speaker": "T",
+      "Sentence": "coefficient",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18965,
+      "Turn": 74,
+      "Speaker": "T",
+      "Sentence": "What are the factors of one",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18966,
+      "Turn": 74,
+      "Speaker": "T",
+      "Sentence": "Thankfully thats a little bit easier",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18967,
+      "Turn": 74,
+      "Speaker": "T",
+      "Sentence": "with the two in the denominator",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18968,
+      "Turn": 74,
+      "Speaker": "T",
+      "Sentence": "We can also have positive and negative values of each of these",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18969,
+      "Turn": 74,
+      "Speaker": "T",
+      "Sentence": "How many different factors do we have",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18971,
+      "Turn": 76,
+      "Speaker": "T",
+      "Sentence": "12 factors",
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's contribution verbatim."
+    },
+    {
+      "ID": 18972,
+      "Turn": 76,
+      "Speaker": "T",
+      "Sentence": "You have an issue",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18973,
+      "Turn": 77,
+      "Speaker": "T",
+      "Sentence": "Not of 20",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18974,
+      "Turn": 77,
+      "Speaker": "T",
+      "Sentence": "Were thinking of what multiplies to 20",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18975,
+      "Turn": 77,
+      "Speaker": "T",
+      "Sentence": "This makes a great multiplechoice question or part A maybe on another three questions",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18976,
+      "Turn": 77,
+      "Speaker": "T",
+      "Sentence": "Weve already figured out all the possibilities here",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18977,
+      "Turn": 77,
+      "Speaker": "T",
+      "Sentence": "Now were going to figure out what do we do with that information",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18978,
+      "Turn": 77,
+      "Speaker": "T",
+      "Sentence": "Im going to test my first one a positive one",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18979,
+      "Turn": 77,
+      "Speaker": "T",
+      "Sentence": "Then Im going to test my next one a 1",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18980,
+      "Turn": 77,
+      "Speaker": "T",
+      "Sentence": "If none of them have a zero remainder then Im going to keep going until I find something that has a zero remainder",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18981,
+      "Turn": 78,
+      "Speaker": "T",
+      "Sentence": "Guys",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18982,
+      "Turn": 78,
+      "Speaker": "T",
+      "Sentence": "We find out that 1 is not a factor but 1 is",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18983,
+      "Turn": 78,
+      "Speaker": "T",
+      "Sentence": "What does that mean in terms of the factor itself",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to explain the implication of a mathematical result, prompting them to connect ideas."
+    },
+    {
+      "ID": 18984,
+      "Turn": 78,
+      "Speaker": "T",
+      "Sentence": "Remember its the K Im sorry XK",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18985,
+      "Turn": 78,
+      "Speaker": "T",
+      "Sentence": "Its X",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18986,
+      "Turn": 78,
+      "Speaker": "T",
+      "Sentence": "Because Ive done synthetic division I now know the next factor and I can apply my math to factoring skills to that quadratic",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18987,
+      "Turn": 78,
+      "Speaker": "T",
+      "Sentence": "Come up with those factors",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18988,
+      "Turn": 78,
+      "Speaker": "T",
+      "Sentence": "Theyre all linear binomial I am done factoring",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18989,
+      "Turn": 78,
+      "Speaker": "T",
+      "Sentence": "The solutions the zero product property",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18990,
+      "Turn": 78,
+      "Speaker": "T",
+      "Sentence": "Im setting X1 0 and solving for X X4 0 X50",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18991,
+      "Turn": 78,
+      "Speaker": "T",
+      "Sentence": "I come up with my final solution set",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18993,
+      "Turn": 79,
+      "Speaker": "T",
+      "Sentence": "Notice over here when we set this up if I was to write this I have 1 1 2 2",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18994,
+      "Turn": 79,
+      "Speaker": "T",
+      "Sentence": "I test until I find one that works",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18995,
+      "Turn": 79,
+      "Speaker": "T",
+      "Sentence": "Once I find one that works I now know that Ive got a factor",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18996,
+      "Turn": 79,
+      "Speaker": "T",
+      "Sentence": "This tells me the next factor that goes with it",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18998,
+      "Turn": 81,
+      "Speaker": "T",
+      "Sentence": "Probably not 12 because how many numbers would have worked",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts a student to explain their thinking by asking a question that requires them to justify why testing all 12 factors might not be necessary."
+    },
+    {
+      "ID": 19000,
+      "Turn": 83,
+      "Speaker": "T",
+      "Sentence": "Three of them wouldve worked in this case",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's answer ('Three') and rephrases it into a complete sentence that clarifies its meaning within the context of the problem."
+    },
+    {
+      "ID": 19001,
+      "Turn": 83,
+      "Speaker": "T",
+      "Sentence": "It wouldve worked for 1 for 4 and for 5",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19002,
+      "Turn": 83,
+      "Speaker": "T",
+      "Sentence": "You could have had to do Nine before you found one",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19003,
+      "Turn": 83,
+      "Speaker": "T",
+      "Sentence": "This is the rational root theorem",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19004,
+      "Turn": 83,
+      "Speaker": "T",
+      "Sentence": "We didnt get to that yesterday",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19005,
+      "Turn": 83,
+      "Speaker": "T",
+      "Sentence": "We had a delayed start so we didnt quite have enough time to get to this part of it",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19006,
+      "Turn": 83,
+      "Speaker": "T",
+      "Sentence": "Were going to practice this with the extra practice in the journal",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19007,
+      "Turn": 83,
+      "Speaker": "T",
+      "Sentence": "Were going to start here on problem one and we want to try and work through as much of these",
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

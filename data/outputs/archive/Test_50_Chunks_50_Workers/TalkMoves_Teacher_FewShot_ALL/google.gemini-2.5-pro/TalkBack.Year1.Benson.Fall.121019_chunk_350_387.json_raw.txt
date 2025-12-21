@@ -1,0 +1,188 @@
+{
+  "records": [
+    {
+      "ID": 350,
+      "Turn": 173,
+      "Speaker": "T",
+      "Sentence": "nan",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 351,
+      "Turn": 173,
+      "Speaker": "T",
+      "Sentence": "I need to multiply that times the value of this digit right here which is",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 353,
+      "Turn": 175,
+      "Speaker": "T",
+      "Sentence": "10 Im done here",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 354,
+      "Turn": 175,
+      "Speaker": "T",
+      "Sentence": "Now Im going to take this value of this digit which was what",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 356,
+      "Turn": 177,
+      "Speaker": "T",
+      "Sentence": "30 and I have to multiply it here whats the value of this digit",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 358,
+      "Turn": 179,
+      "Speaker": "T",
+      "Sentence": "Seven Im done with Uh uh I need to take the value of this digit what was that",
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's answer 'Seven' verbatim before moving on."
+    },
+    {
+      "ID": 361,
+      "Turn": 182,
+      "Speaker": "T",
+      "Sentence": "Its worth 10",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 362,
+      "Turn": 182,
+      "Speaker": "T",
+      "Sentence": "I need to multiply here",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 363,
+      "Turn": 182,
+      "Speaker": "T",
+      "Sentence": "Whats this digit worth",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 366,
+      "Turn": 185,
+      "Speaker": "T",
+      "Sentence": "I need to do this last one",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 367,
+      "Turn": 185,
+      "Speaker": "T",
+      "Sentence": "The value of this times this is",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 369,
+      "Turn": 187,
+      "Speaker": "T",
+      "Sentence": "I can multiplytwodigitstimestwodigits",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 370,
+      "Turn": 187,
+      "Speaker": "T",
+      "Sentence": "Okay",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 371,
+      "Turn": 187,
+      "Speaker": "T",
+      "Sentence": "Once you get all your facts sorted out then you could find the answers to them and you add them all together",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 372,
+      "Turn": 187,
+      "Speaker": "T",
+      "Sentence": "What is 3 times 1",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 374,
+      "Turn": 189,
+      "Speaker": "T",
+      "Sentence": "3 times 1 is 3 and I have two extra zeros on the end of that 73",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 375,
+      "Turn": 189,
+      "Speaker": "T",
+      "Sentence": "What is 3 times 7",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 378,
+      "Turn": 192,
+      "Speaker": "T",
+      "Sentence": "Along with an extra zero",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher adds on to the student's implied answer (21) to make it mathematically correct in the context of the problem (30 x 7 = 210)."
+    },
+    {
+      "ID": 379,
+      "Turn": 192,
+      "Speaker": "T",
+      "Sentence": "10 times 4",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 381,
+      "Turn": 194,
+      "Speaker": "T",
+      "Sentence": "7 times 4",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 383,
+      "Turn": 196,
+      "Speaker": "T",
+      "Sentence": "Add them all together making sure all of your columns are appropriately lined up",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to be precise in their mathematical procedure by ensuring their columns are lined up correctly."
+    },
+    {
+      "ID": 384,
+      "Turn": 196,
+      "Speaker": "T",
+      "Sentence": "I have a feeling youre going to get a very common answer with your",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 386,
+      "Turn": 198,
+      "Speaker": "T",
+      "Sentence": "again",
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "records": [
+    {
+      "ID": 10640,
+      "Speaker": "T",
+      "Turn": 57,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10641,
+      "Speaker": "T",
+      "Turn": 57,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10642,
+      "Speaker": "T",
+      "Turn": 57,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10643,
+      "Speaker": "T",
+      "Turn": 57,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10645,
+      "Speaker": "T",
+      "Turn": 59,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10646,
+      "Speaker": "T",
+      "Turn": 60,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10647,
+      "Speaker": "T",
+      "Turn": 60,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10648,
+      "Speaker": "T",
+      "Turn": 61,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to share the strategies they used, prompting them to explain their thinking."
+    },
+    {
+      "ID": 10649,
+      "Speaker": "T",
+      "Turn": 61,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "By requesting \"one strategy,\" the teacher is pressing students to articulate and justify a specific method."
+    },
+    {
+      "ID": 10650,
+      "Speaker": "T",
+      "Turn": 62,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher narrows the question to \"problem one,\" prompting students to give an accurate, problem-specific response."
+    },
+    {
+      "ID": 10651,
+      "Speaker": "T",
+      "Turn": 62,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10652,
+      "Speaker": "T",
+      "Turn": 62,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10653,
+      "Speaker": "T",
+      "Turn": 62,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10654,
+      "Speaker": "T",
+      "Turn": 62,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher explicitly asks for the student's strategy, encouraging the student to explain their reasoning."
+    },
+    {
+      "ID": 10655,
+      "Speaker": "T",
+      "Turn": 63,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Invites the student to continue and elaborate on their explanation."
+    },
+    {
+      "ID": 10656,
+      "Speaker": "T",
+      "Turn": 64,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher asks one student to evaluate another student's thinking, prompting a connection to a peer’s idea."
+    },
+    {
+      "ID": 10657,
+      "Speaker": "T",
+      "Turn": 64,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher restates the student’s idea and extends it by linking to a prior classroom representation."
+    },
+    {
+      "ID": 10658,
+      "Speaker": "T",
+      "Turn": 64,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10659,
+      "Speaker": "T",
+      "Turn": 64,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10660,
+      "Speaker": "T",
+      "Turn": 64,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "By asking for a different strategy, the teacher encourages students to compare their ideas with the previously shared one."
+    },
+    {
+      "ID": 10661,
+      "Speaker": "T",
+      "Turn": 64,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "Calling on a specific student for \"another strategy\" prompts contribution that builds on or contrasts with prior ideas."
+    }
+  ]
+}

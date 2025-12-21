@@ -1,0 +1,137 @@
+{
+  "records": [
+    {
+      "ID": 21678,
+      "Speaker": "T",
+      "Turn": 1,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21679,
+      "Speaker": "T",
+      "Turn": 2,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks Joanne to state the first procedural step, seeking a specific mathematical action."
+    },
+    {
+      "ID": 21681,
+      "Speaker": "T",
+      "Turn": 3,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's response word for word."
+    },
+    {
+      "ID": 21682,
+      "Speaker": "T",
+      "Turn": 3,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the first step for this example, eliciting a precise procedural move."
+    },
+    {
+      "ID": 21684,
+      "Speaker": "T",
+      "Turn": 5,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher echoes the student's contribution 'Isolate the radical.'"
+    },
+    {
+      "ID": 21685,
+      "Speaker": "T",
+      "Turn": 5,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts for the specific operation needed to isolate the radical."
+    },
+    {
+      "ID": 21687,
+      "Speaker": "T",
+      "Turn": 7,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21688,
+      "Speaker": "T",
+      "Turn": 7,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher paraphrases and extends the student's 'divide by two' by applying it to both sides and simplifying."
+    },
+    {
+      "ID": 21689,
+      "Speaker": "T",
+      "Turn": 7,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the next step, seeking a specific procedural statement."
+    },
+    {
+      "ID": 21691,
+      "Speaker": "T",
+      "Turn": 9,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student’s suggestion 'Get rid of the plus one.'"
+    },
+    {
+      "ID": 21692,
+      "Speaker": "T",
+      "Turn": 9,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21694,
+      "Speaker": "T",
+      "Turn": 11,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats Jill’s idea about getting rid of the radical."
+    },
+    {
+      "ID": 21695,
+      "Speaker": "T",
+      "Turn": 11,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks for the justification/condition under which the radical can be removed."
+    },
+    {
+      "ID": 21697,
+      "Speaker": "T",
+      "Turn": 13,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher paraphrases the student’s criterion in their own words."
+    },
+    {
+      "ID": 21698,
+      "Speaker": "T",
+      "Turn": 13,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to explain how to proceed with removing the radical."
+    },
+    {
+      "ID": 21699,
+      "Speaker": "T",
+      "Turn": 13,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21702,
+      "Speaker": "T",
+      "Turn": 15,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases the student’s suggestion to multiply it by itself."
+    },
+    {
+      "ID": 21703,
+      "Speaker": "T",
+      "Turn": 15,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21704,
+      "Speaker": "T",
+      "Turn": 15,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

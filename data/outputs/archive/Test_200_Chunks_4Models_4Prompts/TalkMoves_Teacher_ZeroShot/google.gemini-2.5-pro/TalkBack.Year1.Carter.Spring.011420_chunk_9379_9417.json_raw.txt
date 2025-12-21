@@ -1,0 +1,81 @@
+{
+  "records": [
+    {
+      "ID": 9379,
+      "Speaker": "T",
+      "Turn": 94,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9380,
+      "Speaker": "T",
+      "Turn": 94,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to explain the logic behind a mathematical strategy."
+    },
+    {
+      "ID": 9381,
+      "Speaker": "T",
+      "Turn": 94,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to use specific mathematical vocabulary."
+    },
+    {
+      "ID": 9382,
+      "Speaker": "S",
+      "Turn": 95,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9383,
+      "Speaker": "S",
+      "Turn": 95,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9384,
+      "Speaker": "T",
+      "Turn": 96,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher explicitly directs a student to use specific mathematical terms in their explanation."
+    },
+    {
+      "ID": 9385,
+      "Speaker": "S",
+      "Turn": 97,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9386,
+      "Speaker": "T",
+      "Turn": 98,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9387,
+      "Speaker": "S",
+      "Turn": 99,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9388,
+      "Speaker": "T",
+      "Turn": 100,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher asks the class to respond to what a previous student has said."
+    },
+    {
+      "ID": 9389,
+      "Speaker": "T",
+      "Turn": 100,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks a follow-up question to push students to explain the next step in the process."
+    },
+    {
+      "

@@ -1,0 +1,88 @@
+{
+  "records": [
+    {
+      "ID": 9571,
+      "Speaker": "T",
+      "Turn": 29,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9572,
+      "Speaker": "T",
+      "Turn": 29,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9573,
+      "Speaker": "T",
+      "Turn": 30,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9575,
+      "Speaker": "T",
+      "Turn": 31,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9576,
+      "Speaker": "T",
+      "Turn": 32,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks what it should be, prompting the student to state the correct mathematical form/value."
+    },
+    {
+      "ID": 9578,
+      "Speaker": "T",
+      "Turn": 33,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher offers an alternative exponent and asks if that is correct, pressing the student to choose the accurate form."
+    },
+    {
+      "ID": 9580,
+      "Speaker": "T",
+      "Turn": 35,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9582,
+      "Speaker": "T",
+      "Turn": 37,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9584,
+      "Speaker": "T",
+      "Turn": 39,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's answer ('10 to the 0') while framing it as the conclusion."
+    },
+    {
+      "ID": 9586,
+      "Speaker": "T",
+      "Turn": 41,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "By asking 'do you see why,' the teacher prompts the student to articulate the reasoning behind the answer."
+    },
+    {
+      "ID": 9591,
+      "Speaker": "T",
+      "Turn": 44,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9592,
+      "Speaker": "T",
+      "Turn": 44,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 29960,
+      "Speaker": "T",
+      "Turn": 29960,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 29962,
+      "Speaker": "T",
+      "Turn": 29962,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to consider whether the explanation (“there’s one left over”) makes sense, prompting them to justify or clarify their thinking."
+    },
+    {
+      "ID": 29964,
+      "Speaker": "T",
+      "Turn": 29964,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to connect their drawing to the algorithm/problem, eliciting an explanation of how the representation matches the mathematics."
+    },
+    {
+      "ID": 29966,
+      "Speaker": "T",
+      "Turn": 29966,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 29967,
+      "Speaker": "T",
+      "Turn": 29967,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks whether the class completed the work correctly, focusing on the correctness of their solution."
+    },
+    {
+      "ID": 29968,
+      "Speaker": "T",
+      "Turn": 29968,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts students to decide how to handle the leftover car, asking them to explain their next mathematical step."
+    },
+    {
+      "ID": 29971,
+      "Speaker": "T",
+      "Turn": 29971,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Re-asks students for their ideas on what to do, encouraging them to articulate and justify a solution strategy."
+    },
+    {
+      "ID": 29972,
+      "Speaker": "T",
+      "Turn": 29972,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 29973,
+      "Speaker": "T",
+      "Turn": 29973,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher references a student’s idea (“I heard Logan say…”) to draw classmates’ attention to it, orienting the group to listen."
+    },
+    {
+      "ID": 29974,
+      "Speaker": "T",
+      "Turn": 29974,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher restates Logan’s suggestion in her own words, clarifying it for the class."
+    },
+    {
+      "ID": 29976,
+      "Speaker": "T",
+      "Turn": 29976,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Again asks students to decide on an action, soliciting their reasoning for the next step."
+    },
+    {
+      "ID": 29979,
+      "Speaker": "T",
+      "Turn": 29979,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 29980,
+      "Speaker": "T",
+      "Turn": 29980,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks what needs to be shown to meet criteria, focusing on the specific elements required for a correct solution."
+    },
+    {
+      "ID": 29981,
+      "Speaker": "T",
+      "Turn": 29981,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 29982,
+      "Speaker": "T",
+      "Turn": 29982,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 29983,
+      "Speaker": "T",
+      "Turn": 29983,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher checks whether the required drawing has been completed, prompting students to verify their work."
+    },
+    {
+      "ID": 29986,
+      "Speaker": "T",
+      "Turn": 29986,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 29987,
+      "Speaker": "T",
+      "Turn": 29987,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks students to supply the correct divisor for the number model, focusing on precise mathematical content."
+    },
+    {
+      "ID": 29989,
+      "Speaker": "T",
+      "Turn": 29989,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Prompts students to provide the correct result of the division equation."
+    },
+    {
+      "ID": 29991,
+      "Speaker": "T",
+      "Turn": 29991,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

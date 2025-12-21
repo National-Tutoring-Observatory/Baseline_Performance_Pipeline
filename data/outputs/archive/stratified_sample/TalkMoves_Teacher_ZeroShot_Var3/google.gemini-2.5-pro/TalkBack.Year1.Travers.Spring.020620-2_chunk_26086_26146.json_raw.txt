@@ -1,0 +1,428 @@
+{
+  "records": [
+    {
+      "ID": 26086,
+      "Turn": 3,
+      "Speaker": "T",
+      "Sentence": "Were there any questions or wonderings about the mental math",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26087,
+      "Turn": 3,
+      "Speaker": "T",
+      "Sentence": "Elijah",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26089,
+      "Turn": 5,
+      "Speaker": "T",
+      "Sentence": "Excellent",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26091,
+      "Turn": 7,
+      "Speaker": "T",
+      "Sentence": "Okay",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26092,
+      "Turn": 7,
+      "Speaker": "T",
+      "Sentence": "The second green one Elijah and was your partner Ava",
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the part of the student's contribution that is the focus of the confusion ('the second green one')."
+    },
+    {
+      "ID": 26094,
+      "Turn": 9,
+      "Speaker": "T",
+      "Sentence": "Okay",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26095,
+      "Turn": 9,
+      "Speaker": "T",
+      "Sentence": "Would you ask your classmates if theres someone that could help us with our understanding of this",
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher prompts a student to ask the class for help with his specific point of confusion, setting up an interaction where other students will have to relate to his idea."
+    },
+    {
+      "ID": 26098,
+      "Turn": 12,
+      "Speaker": "T",
+      "Sentence": "You guys have a great tool on your name tag",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26099,
+      "Turn": 12,
+      "Speaker": "T",
+      "Sentence": "You can look at where the decimal is on your name tag and the place just to the right is the 10s",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26100,
+      "Turn": 12,
+      "Speaker": "T",
+      "Sentence": "The place just to the right of that is the 100s",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26101,
+      "Turn": 12,
+      "Speaker": "T",
+      "Sentence": "You would have 03",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26102,
+      "Turn": 12,
+      "Speaker": "T",
+      "Sentence": "Thanks for asking because we know remember what we said the other day",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26103,
+      "Turn": 12,
+      "Speaker": "T",
+      "Sentence": "What do good math students do",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26104,
+      "Turn": 13,
+      "Speaker": "T",
+      "Sentence": "Ask questions revise their thinking",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26105,
+      "Turn": 13,
+      "Speaker": "T",
+      "Sentence": "Awesome job",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26106,
+      "Turn": 13,
+      "Speaker": "T",
+      "Sentence": "Okay",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26107,
+      "Turn": 13,
+      "Speaker": "T",
+      "Sentence": "Was there another question for mental math William",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26109,
+      "Turn": 15,
+      "Speaker": "T",
+      "Sentence": "Are you looking at this one right here",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26110,
+      "Turn": 15,
+      "Speaker": "T",
+      "Sentence": "For 2300s",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26111,
+      "Turn": 15,
+      "Speaker": "T",
+      "Sentence": "Ask your classmate what should she have for 2300s",
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher prompts a student to ask the class for help with her specific point of confusion, setting up an interaction where other students will relate to her idea."
+    },
+    {
+      "ID": 26112,
+      "Turn": 15,
+      "Speaker": "T",
+      "Sentence": "Have a classmate help you",
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher reinforces the prompt for the student to seek help from classmates, orienting students to each other as resources for a specific problem."
+    },
+    {
+      "ID": 26113,
+      "Turn": 17,
+      "Speaker": "T",
+      "Sentence": "023 or zero and twentythree hundredths",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher provides the formal mathematical language ('zero and twenty-three hundredths') for the numerical representation, likely rephrasing or building on a student's less formal contribution."
+    },
+    {
+      "ID": 26114,
+      "Turn": 17,
+      "Speaker": "T",
+      "Sentence": "So the three would be in the hundredths place",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26115,
+      "Turn": 17,
+      "Speaker": "T",
+      "Sentence": "Okay",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26116,
+      "Turn": 18,
+      "Speaker": "T",
+      "Sentence": "All right",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26117,
+      "Turn": 18,
+      "Speaker": "T",
+      "Sentence": "My friends so right now you may erase your whiteboard",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26118,
+      "Turn": 18,
+      "Speaker": "T",
+      "Sentence": "I would like for you to please come to the carpet",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26119,
+      "Turn": 18,
+      "Speaker": "T",
+      "Sentence": "You are going to face the easel and you dont need to bring anything",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26120,
+      "Turn": 18,
+      "Speaker": "T",
+      "Sentence": "Okay",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26121,
+      "Turn": 18,
+      "Speaker": "T",
+      "Sentence": "This is the easel",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26122,
+      "Turn": 18,
+      "Speaker": "T",
+      "Sentence": "Yes",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26123,
+      "Turn": 18,
+      "Speaker": "T",
+      "Sentence": "If you have a microphone if I asked you to bring the recorder please bring it",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26124,
+      "Turn": 19,
+      "Speaker": "T",
+      "Sentence": "All right",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26125,
+      "Turn": 19,
+      "Speaker": "T",
+      "Sentence": "Thank you for coming so quickly and showing me youre ready",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26126,
+      "Turn": 19,
+      "Speaker": "T",
+      "Sentence": "So everybodys sitting in place where they can see the easel",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26127,
+      "Turn": 19,
+      "Speaker": "T",
+      "Sentence": "Can you see it over there Suzanna",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26129,
+      "Turn": 20,
+      "Speaker": "T",
+      "Sentence": "Okay",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26130,
+      "Turn": 20,
+      "Speaker": "T",
+      "Sentence": "All right",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26131,
+      "Turn": 20,
+      "Speaker": "T",
+      "Sentence": "So friends were going to talk about what our goals are today in our lesson",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26132,
+      "Turn": 20,
+      "Speaker": "T",
+      "Sentence": "Please read this with me",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher asks the entire class to read the learning goal together, ensuring everyone is focused on the same task and starting point."
+    },
+    {
+      "ID": 26133,
+      "Turn": 20,
+      "Speaker": "T",
+      "Sentence": "Ready",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "This is a cue word that is part of the larger move to get all students to read the goal together."
+    },
+    {
+      "ID": 26134,
+      "Turn": 20,
+      "Speaker": "T",
+      "Sentence": "Go",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "This is the action word that initiates the collective reading, ensuring all students start at the same time."
+    },
+    {
+      "ID": 26136,
+      "Turn": 22,
+      "Speaker": "T",
+      "Sentence": "Its almost like a tongue twister isnt it",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26137,
+      "Turn": 22,
+      "Speaker": "T",
+      "Sentence": "What I want us to talk about is what does this mean Solve multistep multiplication number stories",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to explain the meaning of the learning goal, prompting them to share their thinking and understanding of the key concepts."
+    },
+    {
+      "ID": 26138,
+      "Turn": 22,
+      "Speaker": "T",
+      "Sentence": "You can put your hands down",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26139,
+      "Turn": 22,
+      "Speaker": "T",
+      "Sentence": "What I want you to do is high five a partner so I know who youre talking with here at the carpet",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher instructs students to physically identify a partner, ensuring everyone is included and oriented for the upcoming partner talk."
+    },
+    {
+      "ID": 26140,
+      "Turn": 22,
+      "Speaker": "T",
+      "Sentence": "Show me that you have a partner to talk with at the carpet",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher repeats the instruction to find a partner, reinforcing the goal of getting everyone paired up and ready for the discussion."
+    },
+    {
+      "ID": 26141,
+      "Turn": 22,
+      "Speaker": "T",
+      "Sentence": "Abby you might just turn around",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26142,
+      "Turn": 22,
+      "Speaker": "T",
+      "Sentence": "Henrys right there",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26143,
+      "Turn": 23,
+      "Speaker": "T",
+      "Sentence": "I love how Ethan came up and he just",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26144,
+      "Turn": 24,
+      "Speaker": "T",
+      "Sentence": "I know",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26145,
+      "Turn": 24,
+      "Speaker": "T",
+      "Sentence": "What a great classmate",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26146,
+      "Turn": 25,
+      "Speaker": "T",
+      "Sentence": "Perfect",
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

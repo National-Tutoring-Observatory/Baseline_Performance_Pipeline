@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 2288,
+      "Speaker": "T",
+      "Turn": 2288,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2289,
+      "Speaker": "T",
+      "Turn": 2289,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2290,
+      "Speaker": "T",
+      "Turn": 2290,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2291,
+      "Speaker": "T",
+      "Turn": 2291,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to describe the steps they took, soliciting a mathematical contribution."
+    },
+    {
+      "ID": 2293,
+      "Speaker": "T",
+      "Turn": 2293,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks 'Why', prompting the student to provide a justification for their action."
+    },
+    {
+      "ID": 2295,
+      "Speaker": "T",
+      "Turn": 2295,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's premise or calculation step to verify or broadcast it to the class."
+    },
+    {
+      "ID": 2297,
+      "Speaker": "T",
+      "Turn": 2297,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2301,
+      "Speaker": "T",
+      "Turn": 2301,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher restates the student's estimated cost, summarizing the contribution."
+    },
+    {
+      "ID": 2302,
+      "Speaker": "T",
+      "Turn": 2302,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the next step in the procedure, prompting a mathematical contribution."
+    },
+    {
+      "ID": 2305,
+      "Speaker": "T",
+      "Turn": 2305,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher uses 'So' to rephrase and summarize the student's logic regarding the package quantities."
+    },
+    {
+      "ID": 2307,
+      "Speaker": "T",
+      "Turn": 2307,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts with 'Because', asking the student to explain the thinking behind the previous step."
+    },
+    {
+      "ID": 2309,
+      "Speaker": "T",
+      "Turn": 2309,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases the student's conclusion about the number of packages needed."
+    },
+    {
+      "ID": 2312,
+      "Speaker": "T",
+      "Turn": 2312,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's final calculation for the sandwiches."
+    },
+    {
+      "ID": 2313,
+      "Speaker": "T",
+      "Turn": 2313,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2314,
+      "Speaker": "T",
+      "Turn": 2314,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2315,
+      "Speaker": "T",
+      "Turn": 2315,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2318,
+      "Speaker": "T",
+      "Turn": 2318,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2319,
+      "Speaker": "T",
+      "Turn": 2319,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2320,
+      "Speaker": "T",
+      "Turn": 2320,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2321,
+      "Speaker": "T",
+      "Turn": 2321,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher solicits a different method from the class, prompting for a new mathematical contribution."
+    }
+  ]
+}

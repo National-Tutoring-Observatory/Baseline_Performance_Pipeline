@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 17018,
+      "Speaker": "T",
+      "Turn": 17018,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17019,
+      "Speaker": "T",
+      "Turn": 17019,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17021,
+      "Speaker": "T",
+      "Turn": 17021,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17023,
+      "Speaker": "T",
+      "Turn": 17023,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17026,
+      "Speaker": "T",
+      "Turn": 17026,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17029,
+      "Speaker": "T",
+      "Turn": 17029,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17030,
+      "Speaker": "T",
+      "Turn": 17030,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks for the specific meaning of the variable 'P,' prompting students to supply the correct mathematical term."
+    },
+    {
+      "ID": 17032,
+      "Speaker": "T",
+      "Turn": 17032,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17033,
+      "Speaker": "T",
+      "Turn": 17033,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks for the definition of the variable 'T,' eliciting the precise mathematical label."
+    },
+    {
+      "ID": 17035,
+      "Speaker": "T",
+      "Turn": 17035,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17037,
+      "Speaker": "T",
+      "Turn": 17037,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks students to identify what is being input and output, soliciting correct identification of variables."
+    },
+    {
+      "ID": 17038,
+      "Speaker": "T",
+      "Turn": 17038,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher narrows the question to the specific input, pushing students to state the correct value placed on the x-axis."
+    },
+    {
+      "ID": 17040,
+      "Speaker": "T",
+      "Turn": 17040,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17042,
+      "Speaker": "T",
+      "Turn": 17042,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17044,
+      "Speaker": "T",
+      "Turn": 17044,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17045,
+      "Speaker": "T",
+      "Turn": 17045,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17046,
+      "Speaker": "T",
+      "Turn": 17046,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks whether the 'A' value is positive, negative, or zero, seeking a precise mathematical classification."
+    },
+    {
+      "ID": 17048,
+      "Speaker": "T",
+      "Turn": 17048,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "By noting students sound unconvinced, the teacher implicitly prompts them to justify or elaborate on their answer."
+    },
+    {
+      "ID": 17050,
+      "Speaker": "T",
+      "Turn": 17050,
+      "TalkMove": "Restating",
+      "Reasoning": "Teacher repeats the student’s one-word answer 'Positive' exactly as stated."
+    },
+    {
+      "ID": 17051,
+      "Speaker": "T",
+      "Turn": 17051,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher restates the student’s idea ('It’s positive') and extends it by explaining what that implies about the parabola."
+    }
+  ]
+}

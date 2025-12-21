@@ -1,0 +1,74 @@
+{
+  "records": [
+    {
+      "ID": 6165,
+      "Turn": 27,
+      "Speaker": "T",
+      "Sentence": "Lucas",
+      "TalkMove": null
+    },
+    {
+      "ID": 6167,
+      "Turn": 29,
+      "Speaker": "T",
+      "Sentence": "The word several",
+      "TalkMove": "Restating"
+    },
+    {
+      "ID": 6169,
+      "Turn": 31,
+      "Speaker": "T",
+      "Sentence": "Okay Amelia",
+      "TalkMove": null
+    },
+    {
+      "ID": 6171,
+      "Turn": 33,
+      "Speaker": "T",
+      "Sentence": "How many more",
+      "TalkMove": "Restating"
+    },
+    {
+      "ID": 6177,
+      "Turn": 36,
+      "Speaker": "T",
+      "Sentence": "How many more",
+      "TalkMove": "Restating"
+    },
+    {
+      "ID": 6178,
+      "Turn": 36,
+      "Speaker": "T",
+      "Sentence": "Yes it must like your team today",
+      "TalkMove": null
+    },
+    {
+      "ID": 6180,
+      "Turn": 38,
+      "Speaker": "T",
+      "Sentence": "Im going to pick from a different team",
+      "TalkMove": null
+    },
+    {
+      "ID": 6183,
+      "Turn": 40,
+      "Speaker": "T",
+      "Sentence": "Everlyne",
+      "TalkMove": null
+    },
+    {
+      "ID": 6185,
+      "Turn": 42,
+      "Speaker": "T",
+      "Sentence": "Okay Harper",
+      "TalkMove": null
+    },
+    {
+      "ID": 6186,
+      "Turn": 42,
+      "Speaker": "T",
+      "Sentence": "What did your team say",
+      "TalkMove": "Pressing for Accuracy"
+    }
+  ]
+}

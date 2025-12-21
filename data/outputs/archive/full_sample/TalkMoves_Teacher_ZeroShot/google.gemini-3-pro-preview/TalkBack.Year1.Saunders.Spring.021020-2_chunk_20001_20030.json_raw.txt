@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 20001,
+      "Speaker": "T",
+      "Turn": 20001,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20003,
+      "Speaker": "T",
+      "Turn": 20003,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a specific question about the behavior of a linear equation's graph, prompting students to recall a mathematical fact."
+    },
+    {
+      "ID": 20005,
+      "Speaker": "T",
+      "Turn": 20005,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20006,
+      "Speaker": "T",
+      "Turn": 20006,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a question prompting students to identify the behavior of a quadratic function."
+    },
+    {
+      "ID": 20007,
+      "Speaker": "T",
+      "Turn": 20007,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20008,
+      "Speaker": "T",
+      "Turn": 20008,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20010,
+      "Speaker": "T",
+      "Turn": 20010,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20011,
+      "Speaker": "T",
+      "Turn": 20011,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20012,
+      "Speaker": "T",
+      "Turn": 20012,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20014,
+      "Speaker": "T",
+      "Turn": 20014,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20015,
+      "Speaker": "T",
+      "Turn": 20015,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks the student to identify a specific mathematical property (the degree) of the equation they are working on."
+    },
+    {
+      "ID": 20017,
+      "Speaker": "T",
+      "Turn": 20017,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's answer ('Three') to confirm it before moving on."
+    },
+    {
+      "ID": 20018,
+      "Speaker": "T",
+      "Turn": 20018,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a closed question requiring the student to classify the number as odd or even."
+    },
+    {
+      "ID": 20020,
+      "Speaker": "T",
+      "Turn": 20020,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks the student to determine the end behavior based on the degree, looking for a specific correct answer."
+    },
+    {
+      "ID": 20022,
+      "Speaker": "T",
+      "Turn": 20022,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks 'How do I know...', prompting the student to explain the rule or evidence used to determine the direction of the graph."
+    },
+    {
+      "ID": 20024,
+      "Speaker": "T",
+      "Turn": 20024,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20026,
+      "Speaker": "T",
+      "Turn": 20026,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's answer ('Positive') to confirm correctness."
+    },
+    {
+      "ID": 20027,
+      "Speaker": "T",
+      "Turn": 20027,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20028,
+      "Speaker": "T",
+      "Turn": 20028,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks the student to choose between two visual representations of the graph's behavior."
+    },
+    {
+      "ID": 20030,
+      "Speaker": "T",
+      "Turn": 20030,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher confirms the student's choice by repeating the description of the graph's movement."
+    }
+  ]
+}

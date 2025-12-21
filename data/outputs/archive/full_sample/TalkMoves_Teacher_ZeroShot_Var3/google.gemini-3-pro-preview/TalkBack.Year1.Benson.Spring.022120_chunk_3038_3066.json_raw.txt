@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 3038,
+      "Speaker": "T",
+      "Turn": 3038,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 3039,
+      "Speaker": "T",
+      "Turn": 3039,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 3040,
+      "Speaker": "T",
+      "Turn": 3040,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 3041,
+      "Speaker": "T",
+      "Turn": 3041,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a specific student to identify the 'basic fact' needed to solve the problem, prompting for a specific mathematical component."
+    },
+    {
+      "ID": 3042,
+      "Speaker": "T",
+      "Turn": 3042,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 3043,
+      "Speaker": "T",
+      "Turn": 3043,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 3044,
+      "Speaker": "T",
+      "Turn": 3044,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher redirects the question to another student, asking them to identify the 'basic fact' needed."
+    },
+    {
+      "ID": 3046,
+      "Speaker": "T",
+      "Turn": 3046,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to complete the mathematical sentence 'Five times something gives me...'."
+    },
+    {
+      "ID": 3048,
+      "Speaker": "T",
+      "Turn": 3048,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher reiterates the prompt for the 'basic fact'."
+    },
+    {
+      "ID": 3049,
+      "Speaker": "T",
+      "Turn": 3049,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 3051,
+      "Speaker": "T",
+      "Turn": 3051,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's answer ('20') to confirm it."
+    },
+    {
+      "ID": 3052,
+      "Speaker": "T",
+      "Turn": 3052,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher sets up the equation again ('5 times something gives me 20') to prompt for the missing factor."
+    },
+    {
+      "ID": 3053,
+      "Speaker": "T",
+      "Turn": 3053,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks directly for the answer ('What is it')."
+    },
+    {
+      "ID": 3055,
+      "Speaker": "T",
+      "Turn": 3055,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's answer ('Four') and expands slightly ('my missing link is four')."
+    },
+    {
+      "ID": 3056,
+      "Speaker": "T",
+      "Turn": 3056,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher checks in with the whole class to ensure they are following the logic ('Does that make sense to you all...')."
+    },
+    {
+      "ID": 3058,
+      "Speaker": "T",
+      "Turn": 3058,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 3060,
+      "Speaker": "T",
+      "Turn": 3060,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a specific question about the value of a representation ('Are these worth 50')."
+    },
+    {
+      "ID": 3061,
+      "Speaker": "T",
+      "Turn": 3061,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher repeats the question about the value ('Is this worth 50')."
+    },
+    {
+      "ID": 3064,
+      "Speaker": "T",
+      "Turn": 3064,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 3066,
+      "Speaker": "T",
+      "Turn": 3066,
+      "TalkMove": "None",
+      "Reasoning": null
+    }
+  ]
+}

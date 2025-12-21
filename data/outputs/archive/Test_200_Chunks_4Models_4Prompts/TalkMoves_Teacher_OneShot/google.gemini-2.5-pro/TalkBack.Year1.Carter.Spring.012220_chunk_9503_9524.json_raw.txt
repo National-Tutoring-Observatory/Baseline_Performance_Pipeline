@@ -1,0 +1,123 @@
+{
+  "records": [
+    {
+      "ID": 9503,
+      "Turn": 4,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9504,
+      "Turn": 4,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9505,
+      "Turn": 4,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to explain the reasoning behind their use of parentheses."
+    },
+    {
+      "ID": 9506,
+      "Turn": 4,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9507,
+      "Turn": 4,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9508,
+      "Turn": 4,
+      "Speaker": "T",
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher directs a student's attention to another student's work and asks them to consider the reasoning behind it."
+    },
+    {
+      "ID": 9509,
+      "Turn": 4,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to explain the reasoning behind another student's use of parentheses."
+    },
+    {
+      "ID": 9511,
+      "Turn": 5,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher articulates and clarifies the student's incomplete thought about why another student used parentheses."
+    },
+    {
+      "ID": 9512,
+      "Turn": 5,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher directs the student to another's work and asks for an explanation of the mathematical notation used."
+    },
+    {
+      "ID": 9514,
+      "Turn": 7,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases the student's idea about multiplication to introduce the more precise concept of grouping ('keep this together')."
+    },
+    {
+      "ID": 9516,
+      "Turn": 9,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases the student's informal language ('keep things together') with more formal mathematical terminology ('group things')."
+    },
+    {
+      "ID": 9517,
+      "Turn": 9,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to connect the concept of grouping to their own work and explain their intention."
+    },
+    {
+      "ID": 9519,
+      "Turn": 11,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9520,
+      "Turn": 11,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9521,
+      "Turn": 11,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9522,
+      "Turn": 11,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9523,
+      "Turn": 11,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to use correct mathematical language to name a number."
+    }
+  ]
+}

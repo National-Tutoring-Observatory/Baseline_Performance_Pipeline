@@ -1,0 +1,198 @@
+{
+  "records": [
+    {
+      "ID": 19134,
+      "Turn": 32,
+      "Speaker": "S",
+      "Sentence": "Is it worth learning"
+    },
+    {
+      "ID": 19135,
+      "Turn": 33,
+      "Speaker": "T",
+      "Sentence": "Yes it would be worth learning",
+      "TalkMove": null
+    },
+    {
+      "ID": 19136,
+      "Turn": 34,
+      "Speaker": "S",
+      "Sentence": "What the freak is that"
+    },
+    {
+      "ID": 19137,
+      "Turn": 35,
+      "Speaker": "T",
+      "Sentence": "Weve already had it in 34",
+      "TalkMove": null
+    },
+    {
+      "ID": 19138,
+      "Turn": 35,
+      "Speaker": "T",
+      "Sentence": "It would both the sum and the difference so theres two formulas when it comes to cubes",
+      "TalkMove": null
+    },
+    {
+      "ID": 19139,
+      "Turn": 36,
+      "Speaker": "S",
+      "Sentence": "Then its factored"
+    },
+    {
+      "ID": 19140,
+      "Turn": 37,
+      "Speaker": "T",
+      "Sentence": "Remember when its squared only the difference of squares can be factored",
+      "TalkMove": null
+    },
+    {
+      "ID": 19141,
+      "Turn": 37,
+      "Speaker": "S",
+      "Sentence": "The sum of squares cant be factored so there are three patterns along those lines the sums and the differences"
+    },
+    {
+      "ID": 19142,
+      "Turn": 38,
+      "Speaker": "S",
+      "Sentence": "Can you solve Is there a way to solve the sum of two cubes"
+    },
+    {
+      "ID": 19143,
+      "Turn": 39,
+      "Speaker": "T",
+      "Sentence": "Yes",
+      "TalkMove": null
+    },
+    {
+      "ID": 19144,
+      "Turn": 40,
+      "Speaker": "S",
+      "Sentence": "Using rational roots"
+    },
+    {
+      "ID": 19145,
+      "Turn": 41,
+      "Speaker": "T",
+      "Sentence": "Yes",
+      "TalkMove": null
+    },
+    {
+      "ID": 19146,
+      "Turn": 41,
+      "Speaker": "T",
+      "Sentence": "This will work for everything",
+      "TalkMove": null
+    },
+    {
+      "ID": 19147,
+      "Turn": 42,
+      "Speaker": "S",
+      "Sentence": "Not too shabby"
+    },
+    {
+      "ID": 19148,
+      "Turn": 43,
+      "Speaker": "T",
+      "Sentence": "Since were setting this ratio if my leading coefficient is 1 its fairly simple",
+      "TalkMove": null
+    },
+    {
+      "ID": 19149,
+      "Turn": 43,
+      "Speaker": "T",
+      "Sentence": "Fairly straightforward",
+      "TalkMove": null
+    },
+    {
+      "ID": 19150,
+      "Turn": 43,
+      "Speaker": "T",
+      "Sentence": "If my leading coefficient is something other than 1 then Im going to really increase the number of options for what the factors could be",
+      "TalkMove": null
+    },
+    {
+      "ID": 19151,
+      "Turn": 43,
+      "Speaker": "T",
+      "Sentence": "Our first example is with a 1",
+      "TalkMove": null
+    },
+    {
+      "ID": 19152,
+      "Turn": 43,
+      "Speaker": "T",
+      "Sentence": "It simplifies the number of fractions of possible factors",
+      "TalkMove": null
+    },
+    {
+      "ID": 19153,
+      "Turn": 43,
+      "Speaker": "T",
+      "Sentence": "Then the second example well have something other than 1 for the leading coefficient and I just havent picked that one yet",
+      "TalkMove": null
+    },
+    {
+      "ID": 19154,
+      "Turn": 44,
+      "Speaker": "T",
+      "Sentence": "The only thing right now we have for this toolkit is just what I gave you",
+      "TalkMove": null
+    },
+    {
+      "ID": 19155,
+      "Turn": 44,
+      "Speaker": "T",
+      "Sentence": "Now it might be interesting to note on here as a way of studying and looking for patterns is to whether or not were modifying X or were modifying the whole function",
+      "TalkMove": null
+    },
+    {
+      "ID": 19156,
+      "Turn": 44,
+      "Speaker": "T",
+      "Sentence": "For example when I look at this am I modifying X or the whole function",
+      "TalkMove": "Pressing for Accuracy"
+    },
+    {
+      "ID": 19157,
+      "Turn": 44,
+      "Speaker": "S",
+      "Sentence": "Youre modifying X"
+    },
+    {
+      "ID": 19158,
+      "Turn": 45,
+      "Speaker": "T",
+      "Sentence": "Im modifying X",
+      "TalkMove": "Restating"
+    },
+    {
+      "ID": 19159,
+      "Turn": 46,
+      "Speaker": "S",
+      "Sentence": "Thats the whole function"
+    },
+    {
+      "ID": 19160,
+      "Turn": 47,
+      "Speaker": "T",
+      "Sentence": "Thats how the whole function is going to look like",
+      "TalkMove": "Revoicing"
+    },
+    {
+      "ID": 19161,
+      "Turn": 47,
+      "Speaker": "T",
+      "Sentence": "I just copied that function and Im adding something to it",
+      "TalkMove": null
+    },
+    {
+      "ID": 19162,
+      "Turn": 47,
+      "Speaker": "T",
+      "Sentence": "What happens here",
+      "TalkMove": "Pressing for Reasoning"
+    }
+  ]
+}

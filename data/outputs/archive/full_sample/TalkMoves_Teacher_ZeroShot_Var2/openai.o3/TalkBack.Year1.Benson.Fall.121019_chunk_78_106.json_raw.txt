@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 78,
+      "Speaker": "T",
+      "Turn": 78,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher poses a multiplication expression, prompting students to produce the correct numerical answer."
+    },
+    {
+      "ID": 81,
+      "Speaker": "T",
+      "Turn": 81,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher repeats a student-offered answer (8100) in her own words, prefacing it with “I hear …”."
+    },
+    {
+      "ID": 82,
+      "Speaker": "T",
+      "Turn": 82,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "After restating two different student answers, the teacher asks, “Who’s correct?” inviting students to compare classmates’ ideas."
+    },
+    {
+      "ID": 84,
+      "Speaker": "T",
+      "Turn": 84,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "A simple ‘Why’ requests justification for the selected answer."
+    },
+    {
+      "ID": 85,
+      "Speaker": "T",
+      "Turn": 85,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher asks students to explain why 81 000 is not the correct product."
+    },
+    {
+      "ID": 87,
+      "Speaker": "T",
+      "Turn": 87,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 88,
+      "Speaker": "T",
+      "Turn": 88,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks for a specific numerical detail: the exact number of zeros to append."
+    },
+    {
+      "ID": 91,
+      "Speaker": "T",
+      "Turn": 91,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "By asking a student to ‘revise your thinking,’ the teacher prompts reflection and explanation of any change."
+    },
+    {
+      "ID": 92,
+      "Speaker": "T",
+      "Turn": 92,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 94,
+      "Speaker": "T",
+      "Turn": 94,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 96,
+      "Speaker": "T",
+      "Turn": 96,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 97,
+      "Speaker": "T",
+      "Turn": 97,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 98,
+      "Speaker": "T",
+      "Turn": 98,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 99,
+      "Speaker": "T",
+      "Turn": 99,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 100,
+      "Speaker": "T",
+      "Turn": 100,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 101,
+      "Speaker": "T",
+      "Turn": 101,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher asks students to articulate how the new problem differs from prior ones, eliciting explanation."
+    },
+    {
+      "ID": 102,
+      "Speaker": "T",
+      "Turn": 102,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Again requests that a specific student describe the difference, seeking explanatory thinking."
+    },
+    {
+      "ID": 103,
+      "Speaker": "T",
+      "Turn": 103,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher repeats what appears to be a student’s response ('It’s multiplication') in her own words."
+    },
+    {
+      "ID": 104,
+      "Speaker": "T",
+      "Turn": 104,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher challenges the initial answer by asking for a more precise distinction, pushing students to refine reasoning."
+    },
+    {
+      "ID": 106,
+      "Speaker": "T",
+      "Turn": 106,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher restates (likely) a student’s idea, articulating the clarified difference: 'two-digit number times a two-digit number.'"
+    }
+  ]
+}

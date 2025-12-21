@@ -1,0 +1,116 @@
+{
+  "records": [
+    {
+      "ID": 27152,
+      "Speaker": "T",
+      "Turn": 116,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 27154,
+      "Speaker": "T",
+      "Turn": 118,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks the student to specify exactly which item (“this one?”), prompting a precise identification."
+    },
+    {
+      "ID": 27156,
+      "Speaker": "T",
+      "Turn": 120,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks students to quantify the portion of the wedge inside the angle, requesting a specific measurement."
+    },
+    {
+      "ID": 27159,
+      "Speaker": "T",
+      "Turn": 123,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student’s contribution (“412”) almost verbatim."
+    },
+    {
+      "ID": 27161,
+      "Speaker": "T",
+      "Turn": 125,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to explain how they determined that 4/12 would fit, soliciting the reasoning behind the answer."
+    },
+    {
+      "ID": 27162,
+      "Speaker": "T",
+      "Turn": 125,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "By asking “Who said that?” the teacher orients the class to the speaker, encouraging attention to the contributor."
+    },
+    {
+      "ID": 27163,
+      "Speaker": "T",
+      "Turn": 125,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Naming the student (“Yes Alyssa”) identifies the next speaker and directs classmates’ attention to her."
+    },
+    {
+      "ID": 27165,
+      "Speaker": "T",
+      "Turn": 127,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 27166,
+      "Speaker": "T",
+      "Turn": 128,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The prompt “Tell us more” invites the student to elaborate on her thinking."
+    },
+    {
+      "ID": 27167,
+      "Speaker": "T",
+      "Turn": 128,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 27168,
+      "Speaker": "T",
+      "Turn": 128,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Asking “What does it mean to measure an angle?” prompts students to articulate the underlying concept."
+    },
+    {
+      "ID": 27169,
+      "Speaker": "T",
+      "Turn": 128,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 27170,
+      "Speaker": "T",
+      "Turn": 128,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 27171,
+      "Speaker": "T",
+      "Turn": 128,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 27172,
+      "Speaker": "T",
+      "Turn": 129,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "By asking students to raise their hands, the teacher involves the whole class and ensures collective engagement."
+    },
+    {
+      "ID": 27173,
+      "Speaker": "T",
+      "Turn": 129,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

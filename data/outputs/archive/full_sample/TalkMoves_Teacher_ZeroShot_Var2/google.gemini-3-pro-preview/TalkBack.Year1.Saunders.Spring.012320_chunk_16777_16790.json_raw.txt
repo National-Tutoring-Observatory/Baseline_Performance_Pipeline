@@ -1,0 +1,67 @@
+{
+  "records": [
+    {
+      "ID": 16777,
+      "Speaker": "T",
+      "Turn": 16777,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16778,
+      "Speaker": "T",
+      "Turn": 16778,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a specific procedural question ('If I know X how do I find Y') that prompts students to recall a mathematical method."
+    },
+    {
+      "ID": 16779,
+      "Speaker": "T",
+      "Turn": 16779,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16780,
+      "Speaker": "T",
+      "Turn": 16780,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16781,
+      "Speaker": "T",
+      "Turn": 16781,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16783,
+      "Speaker": "T",
+      "Turn": 16783,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16784,
+      "Speaker": "T",
+      "Turn": 16784,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks 'What did I do wrong', prompting students to analyze the work, identify the error, and explain the correct procedure or logic."
+    },
+    {
+      "ID": 16785,
+      "Speaker": "T",
+      "Turn": 16785,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16790,
+      "Speaker": "T",
+      "Turn": 16790,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

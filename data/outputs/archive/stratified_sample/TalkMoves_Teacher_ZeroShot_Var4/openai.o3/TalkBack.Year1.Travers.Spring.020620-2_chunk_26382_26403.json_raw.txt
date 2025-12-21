@@ -1,0 +1,123 @@
+{
+  "records": [
+    {
+      "ID": 26382,
+      "Speaker": "T",
+      "Turn": 107,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26383,
+      "Speaker": "T",
+      "Turn": 107,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26384,
+      "Speaker": "T",
+      "Turn": 108,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher invites the class to engage in discussion with “Let’s talk about this,” orienting all students to participate."
+    },
+    {
+      "ID": 26385,
+      "Speaker": "T",
+      "Turn": 108,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Asks students to explain the meaning of the information, seeking their interpretation."
+    },
+    {
+      "ID": 26386,
+      "Speaker": "T",
+      "Turn": 108,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Requests a specific factual detail: the exact number of jugglers."
+    },
+    {
+      "ID": 26388,
+      "Speaker": "T",
+      "Turn": 110,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Encourages participation from all students by saying “I want to hear all of your voices.”"
+    },
+    {
+      "ID": 26389,
+      "Speaker": "T",
+      "Turn": 110,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Again asks for the precise number of jugglers to ensure correctness."
+    },
+    {
+      "ID": 26391,
+      "Speaker": "T",
+      "Turn": 112,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26392,
+      "Speaker": "T",
+      "Turn": 112,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Queries the exact number of hours the jugglers perform."
+    },
+    {
+      "ID": 26394,
+      "Speaker": "T",
+      "Turn": 114,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks for the exact cost per performer, focusing on a specific numerical detail."
+    },
+    {
+      "ID": 26396,
+      "Speaker": "T",
+      "Turn": 116,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Invites the whole class to think collectively with “Let’s think about that,” maintaining shared focus."
+    },
+    {
+      "ID": 26397,
+      "Speaker": "T",
+      "Turn": 116,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Restates the student’s idea of “30 an hour” while adding context about the three people, modifying wording."
+    },
+    {
+      "ID": 26399,
+      "Speaker": "T",
+      "Turn": 118,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Follows up by asking for the exact number of people, refining the quantitative detail."
+    },
+    {
+      "ID": 26400,
+      "Speaker": "T",
+      "Turn": 118,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Restates and extends the quantities (three people, two hours, $30 per hour) to clarify the situation."
+    },
+    {
+      "ID": 26401,
+      "Speaker": "T",
+      "Turn": 118,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Directs the class’s collective attention to the problem with “This is what we have to figure out.”"
+    },
+    {
+      "ID": 26402,
+      "Speaker": "T",
+      "Turn": 118,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26403,
+      "Speaker": "T",
+      "Turn": 118,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

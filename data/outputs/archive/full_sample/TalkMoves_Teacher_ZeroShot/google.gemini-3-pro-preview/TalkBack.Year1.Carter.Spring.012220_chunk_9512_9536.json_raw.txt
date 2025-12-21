@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 9512,
+      "Speaker": "T",
+      "Turn": 9512,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to explain the purpose behind a specific mathematical representation (parentheses) used by another person."
+    },
+    {
+      "ID": 9514,
+      "Speaker": "T",
+      "Turn": 9514,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a specific question about the function of a mathematical symbol ('so what do parentheses do')."
+    },
+    {
+      "ID": 9516,
+      "Speaker": "T",
+      "Turn": 9516,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher confirms the function of the symbol and prompts for agreement on this mathematical fact."
+    },
+    {
+      "ID": 9517,
+      "Speaker": "T",
+      "Turn": 9517,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student about their intent behind grouping specific items, prompting them to explain their thinking."
+    },
+    {
+      "ID": 9519,
+      "Speaker": "T",
+      "Turn": 9519,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9520,
+      "Speaker": "T",
+      "Turn": 9520,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9521,
+      "Speaker": "T",
+      "Turn": 9521,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9522,
+      "Speaker": "T",
+      "Turn": 9522,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9523,
+      "Speaker": "T",
+      "Turn": 9523,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the students to correctly articulate or read a number."
+    },
+    {
+      "ID": 9525,
+      "Speaker": "T",
+      "Turn": 9525,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9526,
+      "Speaker": "T",
+      "Turn": 9526,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher challenges a student's answer ('Why are you saying... is that 70'), prompting them to check the accuracy of the value."
+    },
+    {
+      "ID": 9527,
+      "Speaker": "T",
+      "Turn": 9527,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a hypothetical question to prompt the student to identify the correct place value name."
+    },
+    {
+      "ID": 9528,
+      "Speaker": "T",
+      "Turn": 9528,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher uses a fill-in-the-blank prompt to get the student to state the specific unit or place value."
+    },
+    {
+      "ID": 9529,
+      "Speaker": "T",
+      "Turn": 9529,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9530,
+      "Speaker": "T",
+      "Turn": 9530,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9531,
+      "Speaker": "T",
+      "Turn": 9531,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher directs students to engage with their partners."
+    },
+    {
+      "ID": 9532,
+      "Speaker": "T",
+      "Turn": 9532,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts for a specific factor to complete a multiplication expression."
+    },
+    {
+      "ID": 9533,
+      "Speaker": "T",
+      "Turn": 9533,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher orients the class to look at what a specific student has written."
+    },
+    {
+      "ID": 9534,
+      "Speaker": "T",
+      "Turn": 9534,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks students to identify a specific mathematical symbol or value written on the board."
+    },
+    {
+      "ID": 9536,
+      "Speaker": "T",
+      "Turn": 9536,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the mathematical expression that was likely said or written by a student."
+    }
+  ]
+}

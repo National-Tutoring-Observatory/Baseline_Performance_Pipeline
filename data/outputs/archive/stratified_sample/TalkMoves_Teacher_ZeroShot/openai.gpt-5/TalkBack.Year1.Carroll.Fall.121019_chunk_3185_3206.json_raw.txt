@@ -1,0 +1,53 @@
+{
+  "records": [
+    {
+      "ID": 3195,
+      "Speaker": "T",
+      "Turn": 1,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3197,
+      "Speaker": "T",
+      "Turn": 3,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3199,
+      "Speaker": "T",
+      "Turn": 5,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3200,
+      "Speaker": "T",
+      "Turn": 5,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher orients the class to focus on the same item (square A), keeping everyone on the same representation."
+    },
+    {
+      "ID": 3201,
+      "Speaker": "T",
+      "Turn": 5,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks what square A represents, prompting a specific mathematical identification."
+    },
+    {
+      "ID": 3204,
+      "Speaker": "T",
+      "Turn": 8,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3205,
+      "Speaker": "T",
+      "Turn": 9,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

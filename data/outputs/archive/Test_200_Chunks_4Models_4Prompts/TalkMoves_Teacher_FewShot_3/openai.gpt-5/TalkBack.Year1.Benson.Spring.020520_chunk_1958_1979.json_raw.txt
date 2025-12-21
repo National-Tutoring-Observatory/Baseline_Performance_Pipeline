@@ -1,0 +1,97 @@
+{
+  "records": [
+    {
+      "ID": 1959,
+      "Turn": 46,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Asks how they are finding the cost, prompting explanation of strategy."
+    },
+    {
+      "ID": 1960,
+      "Turn": 46,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Prompts the student to share the specific math they did."
+    },
+    {
+      "ID": 1961,
+      "Turn": 46,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks a named student to state the math used to figure the cost."
+    },
+    {
+      "ID": 1964,
+      "Turn": 48,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Asks where the numbers came from, prompting justification and connection to context."
+    },
+    {
+      "ID": 1967,
+      "Turn": 50,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Asks why they multiplied by 3, requesting justification."
+    },
+    {
+      "ID": 1969,
+      "Turn": 52,
+      "Speaker": "T",
+      "TalkMove": "None"
+    },
+    {
+      "ID": 1970,
+      "Turn": 52,
+      "Speaker": "T",
+      "TalkMove": "None"
+    },
+    {
+      "ID": 1971,
+      "Turn": 52,
+      "Speaker": "T",
+      "TalkMove": "None"
+    },
+    {
+      "ID": 1972,
+      "Turn": 52,
+      "Speaker": "T",
+      "TalkMove": "None"
+    },
+    {
+      "ID": 1974,
+      "Turn": 54,
+      "Speaker": "T",
+      "TalkMove": "None"
+    },
+    {
+      "ID": 1975,
+      "Turn": 54,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "Summarizes and clarifies Landon’s method in the teacher’s own words."
+    },
+    {
+      "ID": 1976,
+      "Turn": 54,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "Adds on to the summary, restating the multiplication by 3 and its reason."
+    },
+    {
+      "ID": 1977,
+      "Turn": 54,
+      "Speaker": "T",
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "Invites others to share different approaches in response to Landon’s idea."
+    },
+    {
+      "ID": 1978,
+      "Turn": 54,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Prompts Grady to explain his method."
+    }
+  ]
+}

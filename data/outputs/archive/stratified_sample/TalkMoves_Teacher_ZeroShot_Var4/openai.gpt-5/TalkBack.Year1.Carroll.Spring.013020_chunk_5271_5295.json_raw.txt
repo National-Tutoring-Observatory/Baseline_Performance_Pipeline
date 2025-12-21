@@ -1,0 +1,95 @@
+{
+  "records": [
+    {
+      "ID": 5271,
+      "Speaker": "T",
+      "Turn": 43,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher paraphrases a student's idea about 'doubling it,' restating the proposal in her own words."
+    },
+    {
+      "ID": 5272,
+      "Speaker": "T",
+      "Turn": 43,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to predict what will happen to the trapezoid, prompting them to explain their thinking."
+    },
+    {
+      "ID": 5273,
+      "Speaker": "T",
+      "Turn": 43,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks students to specify whether it becomes wider, taller, or both, seeking a precise mathematical description."
+    },
+    {
+      "ID": 5274,
+      "Speaker": "T",
+      "Turn": 43,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks what happens if the x-axis is doubled, inviting students to think through the mathematical effect."
+    },
+    {
+      "ID": 5277,
+      "Speaker": "T",
+      "Turn": 46,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5283,
+      "Speaker": "T",
+      "Turn": 51,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5284,
+      "Speaker": "T",
+      "Turn": 51,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5285,
+      "Speaker": "T",
+      "Turn": 51,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5290,
+      "Speaker": "T",
+      "Turn": 55,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher invites Maya to share what she wrote, eliciting her thinking."
+    },
+    {
+      "ID": 5291,
+      "Speaker": "T",
+      "Turn": 55,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks for Maya's thoughts, prompting explanation."
+    },
+    {
+      "ID": 5292,
+      "Speaker": "T",
+      "Turn": 55,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher paraphrases Maya’s claim that it will get wider."
+    },
+    {
+      "ID": 5293,
+      "Speaker": "T",
+      "Turn": 55,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5294,
+      "Speaker": "T",
+      "Turn": 55,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher asks if anyone agrees with Maya, prompting students to respond to a classmate’s idea."
+    }
+  ]
+}

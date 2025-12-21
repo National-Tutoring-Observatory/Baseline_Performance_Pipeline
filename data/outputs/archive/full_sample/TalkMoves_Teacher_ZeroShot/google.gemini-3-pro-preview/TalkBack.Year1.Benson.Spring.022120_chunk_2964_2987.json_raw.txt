@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 2964,
+      "Speaker": "T",
+      "Turn": 2964,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2966,
+      "Speaker": "T",
+      "Turn": 2966,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2967,
+      "Speaker": "T",
+      "Turn": 2967,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher is checking for attention and ensuring students are looking at the specific symbol being discussed."
+    },
+    {
+      "ID": 2968,
+      "Speaker": "T",
+      "Turn": 2968,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2969,
+      "Speaker": "T",
+      "Turn": 2969,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2970,
+      "Speaker": "T",
+      "Turn": 2970,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2971,
+      "Speaker": "T",
+      "Turn": 2971,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2972,
+      "Speaker": "T",
+      "Turn": 2972,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2973,
+      "Speaker": "T",
+      "Turn": 2973,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2974,
+      "Speaker": "T",
+      "Turn": 2974,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2975,
+      "Speaker": "T",
+      "Turn": 2975,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2976,
+      "Speaker": "T",
+      "Turn": 2976,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2977,
+      "Speaker": "T",
+      "Turn": 2977,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2978,
+      "Speaker": "T",
+      "Turn": 2978,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases the student's likely thought process ('you knew you had to figure out 9 times something...') to clarify the mathematical thinking involved."
+    },
+    {
+      "ID": 2979,
+      "Speaker": "T",
+      "Turn": 2979,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to explain their thinking process ('What did you think of')."
+    },
+    {
+      "ID": 2981,
+      "Speaker": "T",
+      "Turn": 2981,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats and clarifies the student's strategy ('You thought of your basic fact')."
+    },
+    {
+      "ID": 2982,
+      "Speaker": "T",
+      "Turn": 2982,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2983,
+      "Speaker": "T",
+      "Turn": 2983,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a specific question about the placement of digits in the division algorithm, focusing on procedural precision."
+    },
+    {
+      "ID": 2985,
+      "Speaker": "T",
+      "Turn": 2985,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to specify the exact location of the digit, ensuring correct notation."
+    },
+    {
+      "ID": 2987,
+      "Speaker": "T",
+      "Turn": 2987,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's answer word-for-word (implied student response was 'above the five') to confirm the correct placement."
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "records": [
+    {
+      "ID": 16357,
+      "Speaker": "T",
+      "Turn": 22,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16358,
+      "Speaker": "T",
+      "Turn": 22,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks how to find the other value, prompting students to describe the method."
+    },
+    {
+      "ID": 16359,
+      "Speaker": "T",
+      "Turn": 22,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16360,
+      "Speaker": "T",
+      "Turn": 23,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16361,
+      "Speaker": "T",
+      "Turn": 23,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16362,
+      "Speaker": "T",
+      "Turn": 23,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16363,
+      "Speaker": "T",
+      "Turn": 23,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16364,
+      "Speaker": "T",
+      "Turn": 23,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks how students would carry out multiplying 2 × 3 × 4, eliciting a mathematical procedure."
+    },
+    {
+      "ID": 16365,
+      "Speaker": "T",
+      "Turn": 23,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The prompt directly asks students to compute 2 × 3 × 4."
+    },
+    {
+      "ID": 16366,
+      "Speaker": "T",
+      "Turn": 23,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks whether the order of multiplying matters, inviting justification about properties."
+    },
+    {
+      "ID": 16368,
+      "Speaker": "T",
+      "Turn": 25,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16369,
+      "Speaker": "T",
+      "Turn": 25,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16370,
+      "Speaker": "T",
+      "Turn": 25,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the numerical answer to the problem."
+    },
+    {
+      "ID": 16371,
+      "Speaker": "T",
+      "Turn": 25,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks students to compute a specific multiplication fact (2 × 3)."
+    },
+    {
+      "ID": 16373,
+      "Speaker": "T",
+      "Turn": 27,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to carry out the next step of the computation (multiply by 4)."
+    },
+    {
+      "ID": 16374,
+      "Speaker": "T",
+      "Turn": 29,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16375,
+      "Speaker": "T",
+      "Turn": 29,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher paraphrases Trish’s comment to clarify what she was asking about multiplying each term."
+    },
+    {
+      "ID": 16376,
+      "Speaker": "T",
+      "Turn": 30,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16377,
+      "Speaker": "T",
+      "Turn": 30,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

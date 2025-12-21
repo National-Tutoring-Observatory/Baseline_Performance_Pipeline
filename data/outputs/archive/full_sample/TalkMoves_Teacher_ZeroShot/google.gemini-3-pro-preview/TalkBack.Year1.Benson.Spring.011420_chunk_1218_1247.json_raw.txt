@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 1218,
+      "Speaker": "T",
+      "Turn": 1218,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1219,
+      "Speaker": "T",
+      "Turn": 1219,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to explain the process ('talk through how we know') for determining what goes into the number model, which prompts them to share their thinking and justification."
+    },
+    {
+      "ID": 1220,
+      "Speaker": "T",
+      "Turn": 1220,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a specific question about the components of the number model ('What are we going to add together'), prompting for a specific mathematical contribution."
+    },
+    {
+      "ID": 1221,
+      "Speaker": "T",
+      "Turn": 1221,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher directs a question to a specific student (Xander) asking for the specific values or items to be added in the model."
+    },
+    {
+      "ID": 1223,
+      "Speaker": "T",
+      "Turn": 1223,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to explain the meaning behind a specific number ('tell me what 23 represents'), prompting them to connect the value to the context of the problem."
+    },
+    {
+      "ID": 1225,
+      "Speaker": "T",
+      "Turn": 1225,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's idea ('thats Ryans can of paint') to confirm and clarify the meaning of the representation."
+    },
+    {
+      "ID": 1226,
+      "Speaker": "T",
+      "Turn": 1226,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks for the meaning of another part of the model ('what is each of these 13 represents'), prompting the student to connect the representation to the problem context."
+    },
+    {
+      "ID": 1228,
+      "Speaker": "T",
+      "Turn": 1228,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats and expands on the student's answer ('Sister one sister two and sister three') to clarify the connection between the fractions and the people in the problem."
+    },
+    {
+      "ID": 1229,
+      "Speaker": "T",
+      "Turn": 1229,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a yes/no question about the form of the answer ('Is your number going to be an improper fraction'), prompting for a specific mathematical classification."
+    },
+    {
+      "ID": 1230,
+      "Speaker": "T",
+      "Turn": 1230,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for a definition ('What does an improper fraction mean'), prompting the student to use mathematical language to define a term."
+    },
+    {
+      "ID": 1232,
+      "Speaker": "T",
+      "Turn": 1232,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases the student's definition ('Its more than a whole right') to confirm understanding."
+    },
+    {
+      "ID": 1233,
+      "Speaker": "T",
+      "Turn": 1233,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher expands on the previous definition, adding more formal mathematical language ('numerator will be larger than our denominator') to clarify the concept."
+    },
+    {
+      "ID": 1235,
+      "Speaker": "T",
+      "Turn": 1235,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1236,
+      "Speaker": "T",
+      "Turn": 1236,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher checks in with the whole class ('Everyone understand how to get to where you need to be') to ensure they are following along before moving on."
+    },
+    {
+      "ID": 1238,
+      "Speaker": "T",
+      "Turn": 1238,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1239,
+      "Speaker": "T",
+      "Turn": 1239,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher performs a quick check ('Are you good') to ensure students are ready to proceed."
+    },
+    {
+      "ID": 1241,
+      "Speaker": "T",
+      "Turn": 1241,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1242,
+      "Speaker": "T",
+      "Turn": 1242,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher asks a specific student to read aloud to the class, orienting everyone to the new problem text."
+    },
+    {
+      "ID": 1243,
+      "Speaker": "T",
+      "Turn": 1243,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1247,
+      "Speaker": "T",
+      "Turn": 1247,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "records": [
+    {
+      "ID": 9571,
+      "Speaker": "T",
+      "Turn": 29,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9572,
+      "Speaker": "T",
+      "Turn": 29,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9573,
+      "Speaker": "T",
+      "Turn": 30,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9575,
+      "Speaker": "T",
+      "Turn": 31,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9576,
+      "Speaker": "T",
+      "Turn": 32,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks the student what the expression should be, prompting them to provide the precise mathematical form."
+    },
+    {
+      "ID": 9578,
+      "Speaker": "T",
+      "Turn": 33,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher follows up by asking whether the term should be written in a different order, pushing the student to state the exact correct notation."
+    },
+    {
+      "ID": 9580,
+      "Speaker": "T",
+      "Turn": 35,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9582,
+      "Speaker": "T",
+      "Turn": 37,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9584,
+      "Speaker": "T",
+      "Turn": 39,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9586,
+      "Speaker": "T",
+      "Turn": 41,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "After confirming correctness, the teacher asks, 'do you see why?', prompting the student to articulate their reasoning."
+    },
+    {
+      "ID": 9591,
+      "Speaker": "T",
+      "Turn": 44,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9592,
+      "Speaker": "T",
+      "Turn": 44,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

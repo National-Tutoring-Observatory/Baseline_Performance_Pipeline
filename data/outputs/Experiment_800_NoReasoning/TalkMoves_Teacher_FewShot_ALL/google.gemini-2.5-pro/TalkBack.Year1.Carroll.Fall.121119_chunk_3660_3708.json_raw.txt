@@ -1,0 +1,337 @@
+{
+  "records": [
+    {
+      "ID": 3660,
+      "Turn": 52,
+      "Speaker": "T",
+      "Sentence": "Okay",
+      "TalkMove": null
+    },
+    {
+      "ID": 3661,
+      "Turn": 52,
+      "Speaker": "T",
+      "Sentence": "While Anne is doing this problem the next problem is Ill write it down",
+      "TalkMove": null
+    },
+    {
+      "ID": 3662,
+      "Turn": 53,
+      "Speaker": "T",
+      "Sentence": "Okay timer already started",
+      "TalkMove": null
+    },
+    {
+      "ID": 3663,
+      "Turn": 53,
+      "Speaker": "T",
+      "Sentence": "Heres problem two",
+      "TalkMove": null
+    },
+    {
+      "ID": 3664,
+      "Turn": 54,
+      "Speaker": "T",
+      "Sentence": "Yes we need a new captain please pick a new captain",
+      "TalkMove": null
+    },
+    {
+      "ID": 3665,
+      "Turn": 55,
+      "Speaker": "S",
+      "Sentence": "I vote Diane"
+    },
+    {
+      "ID": 3666,
+      "Turn": 56,
+      "Speaker": "T",
+      "Sentence": "Three nine five one",
+      "TalkMove": null
+    },
+    {
+      "ID": 3667,
+      "Turn": 57,
+      "Speaker": "T",
+      "Sentence": "Ill solve this",
+      "TalkMove": null
+    },
+    {
+      "ID": 3668,
+      "Turn": 57,
+      "Speaker": "T",
+      "Sentence": "Okay Anne earned two points for her team",
+      "TalkMove": null
+    },
+    {
+      "ID": 3669,
+      "Turn": 58,
+      "Speaker": "S",
+      "Sentence": "Yay"
+    },
+    {
+      "ID": 3670,
+      "Turn": 59,
+      "Speaker": "T",
+      "Sentence": "Team three right now is in the lead",
+      "TalkMove": null
+    },
+    {
+      "ID": 3671,
+      "Turn": 60,
+      "Speaker": "T",
+      "Sentence": "division",
+      "TalkMove": null
+    },
+    {
+      "ID": 3672,
+      "Turn": 61,
+      "Speaker": "T",
+      "Sentence": "You have 30 seconds",
+      "TalkMove": null
+    },
+    {
+      "ID": 3673,
+      "Turn": 62,
+      "Speaker": "T",
+      "Sentence": "all over that",
+      "TalkMove": null
+    },
+    {
+      "ID": 3674,
+      "Turn": 63,
+      "Speaker": "T",
+      "Sentence": "Okay",
+      "TalkMove": null
+    },
+    {
+      "ID": 3675,
+      "Turn": 63,
+      "Speaker": "T",
+      "Sentence": "Captains please stand up",
+      "TalkMove": null
+    },
+    {
+      "ID": 3676,
+      "Turn": 63,
+      "Speaker": "T",
+      "Sentence": "Captains please stand up",
+      "TalkMove": null
+    },
+    {
+      "ID": 3677,
+      "Turn": 64,
+      "Speaker": "S",
+      "Sentence": "Diane please stand"
+    },
+    {
+      "ID": 3678,
+      "Turn": 65,
+      "Speaker": "T",
+      "Sentence": "If you want a point captains please stand up",
+      "TalkMove": null
+    },
+    {
+      "ID": 3679,
+      "Turn": 65,
+      "Speaker": "T",
+      "Sentence": "It needs to somebody",
+      "TalkMove": null
+    },
+    {
+      "ID": 3680,
+      "Turn": 65,
+      "Speaker": "T",
+      "Sentence": "Okay this time were going to start with team two",
+      "TalkMove": null
+    },
+    {
+      "ID": 3681,
+      "Turn": 66,
+      "Speaker": "T",
+      "Sentence": "Okay so no point there",
+      "TalkMove": null
+    },
+    {
+      "ID": 3682,
+      "Turn": 66,
+      "Speaker": "T",
+      "Sentence": "Team three what do you have whats your answer",
+      "TalkMove": "Pressing for Accuracy"
+    },
+    {
+      "ID": 3683,
+      "Turn": 67,
+      "Speaker": "S",
+      "Sentence": "Apparently now I cannot say it because Im figuring out I thought that was a nine and a four so"
+    },
+    {
+      "ID": 3684,
+      "Turn": 68,
+      "Speaker": "S",
+      "Sentence": "Same yes"
+    },
+    {
+      "ID": 3685,
+      "Turn": 69,
+      "Speaker": "T",
+      "Sentence": "Okay",
+      "TalkMove": null
+    },
+    {
+      "ID": 3686,
+      "Turn": 69,
+      "Speaker": "T",
+      "Sentence": "captain what do you have",
+      "TalkMove": "Pressing for Accuracy"
+    },
+    {
+      "ID": 3687,
+      "Turn": 70,
+      "Speaker": "S",
+      "Sentence": "146 remainder 1"
+    },
+    {
+      "ID": 3688,
+      "Turn": 71,
+      "Speaker": "T",
+      "Sentence": "Okay",
+      "TalkMove": null
+    },
+    {
+      "ID": 3689,
+      "Turn": 71,
+      "Speaker": "T",
+      "Sentence": "Now what do you guys have",
+      "TalkMove": "Pressing for Accuracy"
+    },
+    {
+      "ID": 3690,
+      "Turn": 72,
+      "Speaker": "S",
+      "Sentence": "We dont have an answer"
+    },
+    {
+      "ID": 3691,
+      "Turn": 73,
+      "Speaker": "T",
+      "Sentence": "Okay",
+      "TalkMove": null
+    },
+    {
+      "ID": 3692,
+      "Turn": 73,
+      "Speaker": "T",
+      "Sentence": "Diane say it now",
+      "TalkMove": "Keeping Everyone Together"
+    },
+    {
+      "ID": 3693,
+      "Turn": 73,
+      "Speaker": "T",
+      "Sentence": "Okay Ella you have a chance to earn two points for your team by coming up here and solving it",
+      "TalkMove": "Pressing for Accuracy"
+    },
+    {
+      "ID": 3694,
+      "Turn": 73,
+      "Speaker": "T",
+      "Sentence": "No one earned a point",
+      "TalkMove": null
+    },
+    {
+      "ID": 3695,
+      "Turn": 74,
+      "Speaker": "T",
+      "Sentence": "Ella you want to try",
+      "TalkMove": "Keeping Everyone Together"
+    },
+    {
+      "ID": 3696,
+      "Turn": 75,
+      "Speaker": "S",
+      "Sentence": "She said she cant do it I can go up and I can do it"
+    },
+    {
+      "ID": 3697,
+      "Turn": 76,
+      "Speaker": "T",
+      "Sentence": "No",
+      "TalkMove": null
+    },
+    {
+      "ID": 3698,
+      "Turn": 77,
+      "Speaker": "T",
+      "Sentence": "Okay I am going to charge people that are talking right now",
+      "TalkMove": null
+    },
+    {
+      "ID": 3699,
+      "Turn": 78,
+      "Speaker": "S",
+      "Sentence": "Ms Carroll I think  an answer"
+    },
+    {
+      "ID": 3700,
+      "Turn": 79,
+      "Speaker": "T",
+      "Sentence": "Okay Im going to try one more person and then Im going to do it if this person Leah do you want to try to earn two points for your team",
+      "TalkMove": "Keeping Everyone Together"
+    },
+    {
+      "ID": 3701,
+      "Turn": 79,
+      "Speaker": "T",
+      "Sentence": "Leah",
+      "TalkMove": "Keeping Everyone Together"
+    },
+    {
+      "ID": 3702,
+      "Turn": 80,
+      "Speaker": "S",
+      "Sentence": "Can I try"
+    },
+    {
+      "ID": 3703,
+      "Turn": 81,
+      "Speaker": "T",
+      "Sentence": "No",
+      "TalkMove": null
+    },
+    {
+      "ID": 3704,
+      "Turn": 81,
+      "Speaker": "T",
+      "Sentence": "All right",
+      "TalkMove": null
+    },
+    {
+      "ID": 3705,
+      "Turn": 81,
+      "Speaker": "T",
+      "Sentence": "Heres how you do it",
+      "TalkMove": null
+    },
+    {
+      "ID": 3706,
+      "Turn": 81,
+      "Speaker": "T",
+      "Sentence": "Please watch",
+      "TalkMove": "Keeping Everyone Together"
+    },
+    {
+      "ID": 3707,
+      "Turn": 81,
+      "Speaker": "T",
+      "Sentence": "Oh Luke thats a dollar Chloe thats a dollar",
+      "TalkMove": null
+    },
+    {
+      "ID": 3708,
+      "Turn": 81,
+      "Speaker": "T",
+      "Sentence": "Guys put their name on the list because what happens if you dont give me a dollar right this second then Okay",
+      "TalkMove": null
+    }
+  ]
+}

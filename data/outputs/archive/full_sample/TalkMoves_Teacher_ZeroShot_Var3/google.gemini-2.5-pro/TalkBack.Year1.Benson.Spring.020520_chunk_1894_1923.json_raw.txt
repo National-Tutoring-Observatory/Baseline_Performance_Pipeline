@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 1894,
+      "Speaker": "T",
+      "Turn": 1894,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1895,
+      "Speaker": "T",
+      "Turn": 1895,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a student to provide the correct mathematical representation for 'five tenths'."
+    },
+    {
+      "ID": 1897,
+      "Speaker": "T",
+      "Turn": 1897,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1898,
+      "Speaker": "T",
+      "Turn": 1898,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts a student to provide the correct mathematical representation for 'nine tenths'."
+    },
+    {
+      "ID": 1900,
+      "Speaker": "T",
+      "Turn": 1900,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts a student to provide the correct mathematical representation for 'seven tenths'."
+    },
+    {
+      "ID": 1902,
+      "Speaker": "T",
+      "Turn": 1902,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a clarifying question to ensure the student's answer is mathematically complete and accurate."
+    },
+    {
+      "ID": 1904,
+      "Speaker": "T",
+      "Turn": 1904,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the class to evaluate the correctness of a student's representation, prompting them to think about why it might or might not be correct."
+    },
+    {
+      "ID": 1905,
+      "Speaker": "T",
+      "Turn": 1905,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher poses a specific representation and asks students to evaluate its validity, thereby pressing them to reason about decimal notation."
+    },
+    {
+      "ID": 1907,
+      "Speaker": "T",
+      "Turn": 1907,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts a student to provide the correct mathematical representation for '23 hundredths'."
+    },
+    {
+      "ID": 1909,
+      "Speaker": "T",
+      "Turn": 1909,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1910,
+      "Speaker": "T",
+      "Turn": 1910,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher poses a new problem to the class, prompting them to provide the correct mathematical representation."
+    },
+    {
+      "ID": 1911,
+      "Speaker": "T",
+      "Turn": 1911,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a specific student to share their answer, which is a mathematical contribution."
+    },
+    {
+      "ID": 1913,
+      "Speaker": "T",
+      "Turn": 1913,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher introduces a common incorrect answer to prompt students to compare it with the correct one and reason about the difference in place value."
+    },
+    {
+      "ID": 1914,
+      "Speaker": "T",
+      "Turn": 1914,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher begins to pose a hypothetical scenario about an incorrect representation to a specific student, prompting them to explain the meaning of that representation."
+    },
+    {
+      "ID": 1916,
+      "Speaker": "T",
+      "Turn": 1916,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1918,
+      "Speaker": "T",
+      "Turn": 1918,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats and clarifies a student's contribution, confirming their understanding that the student was agreeing with a previous answer."
+    },
+    {
+      "ID": 1919,
+      "Speaker": "T",
+      "Turn": 1919,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1920,
+      "Speaker": "T",
+      "Turn": 1920,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a specific student to share their answer, which is a mathematical contribution."
+    },
+    {
+      "ID": 1922,
+      "Speaker": "T",
+      "Turn": 1922,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1923,
+      "Speaker": "T",
+      "Turn": 1923,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts a specific student to provide the mathematical representation for 'one and 19 hundredths'."
+    }
+  ]
+}

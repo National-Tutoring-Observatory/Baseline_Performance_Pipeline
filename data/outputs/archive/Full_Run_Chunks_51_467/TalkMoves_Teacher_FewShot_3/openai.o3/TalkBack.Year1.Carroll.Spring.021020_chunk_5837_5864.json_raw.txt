@@ -1,0 +1,88 @@
+{
+  "records": [
+    {
+      "ID": 5837,
+      "Speaker": "T",
+      "Turn": 159,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5838,
+      "Speaker": "T",
+      "Turn": 159,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5841,
+      "Speaker": "T",
+      "Turn": 161,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to state the precise next number ('three'), focusing on giving the correct value."
+    },
+    {
+      "ID": 5847,
+      "Speaker": "T",
+      "Turn": 166,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5849,
+      "Speaker": "T",
+      "Turn": 168,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for a specific piece of factual information—identifying the current leader."
+    },
+    {
+      "ID": 5851,
+      "Speaker": "T",
+      "Turn": 170,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher requests the exact number from the student, aiming for a precise response."
+    },
+    {
+      "ID": 5853,
+      "Speaker": "T",
+      "Turn": 172,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5857,
+      "Speaker": "T",
+      "Turn": 174,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher again seeks the specific identification of the leader, prompting an accurate response."
+    },
+    {
+      "ID": 5858,
+      "Speaker": "T",
+      "Turn": 174,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the student’s exact number, requesting a precise piece of information."
+    },
+    {
+      "ID": 5861,
+      "Speaker": "T",
+      "Turn": 177,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student’s prior contribution ('buzz') almost verbatim, reflecting it back to the class."
+    },
+    {
+      "ID": 5862,
+      "Speaker": "T",
+      "Turn": 178,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5863,
+      "Speaker": "T",
+      "Turn": 178,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

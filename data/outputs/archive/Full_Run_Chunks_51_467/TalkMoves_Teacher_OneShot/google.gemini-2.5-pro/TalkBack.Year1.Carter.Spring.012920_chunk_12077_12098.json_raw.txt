@@ -1,0 +1,130 @@
+{
+  "records": [
+    {
+      "ID": 12077,
+      "Turn": 101,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12081,
+      "Turn": 102,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's idea about multiplying denominators but refines the language from 'the next part of your product' to the more precise 'the denominator of your the product'."
+    },
+    {
+      "ID": 12082,
+      "Turn": 102,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12083,
+      "Turn": 102,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12084,
+      "Turn": 102,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12085,
+      "Turn": 102,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12086,
+      "Turn": 103,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12087,
+      "Turn": 103,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12088,
+      "Turn": 103,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12089,
+      "Turn": 103,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12090,
+      "Turn": 103,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12092,
+      "Turn": 104,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12093,
+      "Turn": 104,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12094,
+      "Turn": 104,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12095,
+      "Turn": 104,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher repeats the student's phrase and asks 'the new what part of the product?' to prompt the student to use more specific mathematical terminology."
+    },
+    {
+      "ID": 12096,
+      "Turn": 104,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12097,
+      "Turn": 105,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12098,
+      "Turn": 105,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

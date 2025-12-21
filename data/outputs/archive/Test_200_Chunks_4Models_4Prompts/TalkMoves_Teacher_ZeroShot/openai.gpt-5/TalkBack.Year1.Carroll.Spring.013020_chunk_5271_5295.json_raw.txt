@@ -1,0 +1,95 @@
+{
+  "records": [
+    {
+      "ID": 5271,
+      "Speaker": "T",
+      "Turn": 43,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher paraphrases a student's idea ('double it') to orient the class to that contribution."
+    },
+    {
+      "ID": 5272,
+      "Speaker": "T",
+      "Turn": 43,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks for a specific mathematical prediction about the trapezoid's change."
+    },
+    {
+      "ID": 5273,
+      "Speaker": "T",
+      "Turn": 43,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Prompts students to choose among precise mathematical options (wider, taller, or both)."
+    },
+    {
+      "ID": 5274,
+      "Speaker": "T",
+      "Turn": 43,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks what happens to the trapezoid when the x-axis is doubled, seeking a mathematical description."
+    },
+    {
+      "ID": 5277,
+      "Speaker": "T",
+      "Turn": 46,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5283,
+      "Speaker": "T",
+      "Turn": 51,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5284,
+      "Speaker": "T",
+      "Turn": 51,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5285,
+      "Speaker": "T",
+      "Turn": 51,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5290,
+      "Speaker": "T",
+      "Turn": 55,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Invites the student to share what they wrote, prompting them to articulate their thinking."
+    },
+    {
+      "ID": 5291,
+      "Speaker": "T",
+      "Turn": 55,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Asks for the student's thoughts, eliciting their reasoning."
+    },
+    {
+      "ID": 5292,
+      "Speaker": "T",
+      "Turn": 55,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Paraphrases the student's idea ('you think it's gonna get wider') to clarify it for the class."
+    },
+    {
+      "ID": 5293,
+      "Speaker": "T",
+      "Turn": 55,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5294,
+      "Speaker": "T",
+      "Turn": 55,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "Prompts peers to respond to Maya’s idea by indicating agreement."
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 1720,
+      "Speaker": "T",
+      "Turn": 1720,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1721,
+      "Speaker": "T",
+      "Turn": 1721,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1722,
+      "Speaker": "T",
+      "Turn": 1722,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts a student to provide the next step in the mathematical procedure."
+    },
+    {
+      "ID": 1724,
+      "Speaker": "T",
+      "Turn": 1724,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1725,
+      "Speaker": "T",
+      "Turn": 1725,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to identify the remaining mathematical components of the problem."
+    },
+    {
+      "ID": 1727,
+      "Speaker": "T",
+      "Turn": 1727,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases a likely student contribution ('the fractions') into a complete sentence describing the next step in the process."
+    },
+    {
+      "ID": 1728,
+      "Speaker": "T",
+      "Turn": 1728,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a question to prompt students to contribute the next step in the calculation."
+    },
+    {
+      "ID": 1730,
+      "Speaker": "T",
+      "Turn": 1730,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to provide a specific numerical answer to a calculation."
+    },
+    {
+      "ID": 1732,
+      "Speaker": "T",
+      "Turn": 1732,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's correct answer."
+    },
+    {
+      "ID": 1733,
+      "Speaker": "T",
+      "Turn": 1733,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher summarizes a strategy, explicitly attributing part of the idea to a student ('like Elizabeths said') and incorporating it into a formal method."
+    },
+    {
+      "ID": 1734,
+      "Speaker": "T",
+      "Turn": 1734,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1736,
+      "Speaker": "T",
+      "Turn": 1736,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1738,
+      "Speaker": "T",
+      "Turn": 1738,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to provide a specific mathematical fact needed for the problem."
+    },
+    {
+      "ID": 1740,
+      "Speaker": "T",
+      "Turn": 1740,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's answer ('Five-fifths') and adds conceptual language ('is one whole tub') to clarify its meaning."
+    },
+    {
+      "ID": 1741,
+      "Speaker": "T",
+      "Turn": 1741,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1742,
+      "Speaker": "T",
+      "Turn": 1742,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1743,
+      "Speaker": "T",
+      "Turn": 1743,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to provide a specific mathematical fact needed for the problem."
+    },
+    {
+      "ID": 1745,
+      "Speaker": "T",
+      "Turn": 1745,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to provide a specific number to continue the calculation."
+    },
+    {
+      "ID": 1747,
+      "Speaker": "T",
+      "Turn": 1747,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to confirm a proposed mathematical calculation."
+    },
+    {
+      "ID": 1749,
+      "Speaker": "T",
+      "Turn": 1749,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

@@ -1,0 +1,150 @@
+{
+  "records": [
+    {
+      "ID": 1958,
+      "Turn": 45,
+      "Speaker": "S",
+      "Sentence": "Oh pretty"
+    },
+    {
+      "ID": 1959,
+      "Turn": 46,
+      "Speaker": "T",
+      "Sentence": "All right how are you finding out the cost to hire jugglers",
+      "TalkMove": "Pressing for Accuracy"
+    },
+    {
+      "ID": 1960,
+      "Turn": 46,
+      "Speaker": "T",
+      "Sentence": "Tell me some math that you did there",
+      "TalkMove": "Pressing for Accuracy"
+    },
+    {
+      "ID": 1961,
+      "Turn": 46,
+      "Speaker": "T",
+      "Sentence": "Landon what math did you do to figure out how much jugglers cost",
+      "TalkMove": "Pressing for Accuracy"
+    },
+    {
+      "ID": 1962,
+      "Turn": 47,
+      "Speaker": "S",
+      "Sentence": "I did 3 x 30"
+    },
+    {
+      "ID": 1963,
+      "Turn": 47,
+      "Speaker": "S",
+      "Sentence": "Sorry I did 2 x 30 and I got 60"
+    },
+    {
+      "ID": 1964,
+      "Turn": 48,
+      "Speaker": "T",
+      "Sentence": "Can you tell me where you go those two numbers",
+      "TalkMove": "Pressing for Reasoning"
+    },
+    {
+      "ID": 1965,
+      "Turn": 49,
+      "Speaker": "S",
+      "Sentence": "I got 2 x 30 because two hours of entertainment x the cost per performer and then I did that I got 60"
+    },
+    {
+      "ID": 1966,
+      "Turn": 49,
+      "Speaker": "S",
+      "Sentence": "I did that x 3 which I got 180"
+    },
+    {
+      "ID": 1967,
+      "Turn": 50,
+      "Speaker": "T",
+      "Sentence": "Why did you do that x 3",
+      "TalkMove": "Pressing for Reasoning"
+    },
+    {
+      "ID": 1968,
+      "Turn": 51,
+      "Speaker": "S",
+      "Sentence": "Because there is three performers"
+    },
+    {
+      "ID": 1969,
+      "Turn": 52,
+      "Speaker": "T",
+      "Sentence": "Okay",
+      "TalkMove": null
+    },
+    {
+      "ID": 1970,
+      "Turn": 52,
+      "Speaker": "T",
+      "Sentence": "In our message remember that it said dont forget thats the cost per performer",
+      "TalkMove": null
+    },
+    {
+      "ID": 1971,
+      "Turn": 52,
+      "Speaker": "T",
+      "Sentence": "Good job remembering that you needed to do that for every performer",
+      "TalkMove": null
+    },
+    {
+      "ID": 1972,
+      "Turn": 52,
+      "Speaker": "T",
+      "Sentence": "There were follow me",
+      "TalkMove": null
+    },
+    {
+      "ID": 1973,
+      "Turn": 53,
+      "Speaker": "S",
+      "Sentence": "follow me call me"
+    },
+    {
+      "ID": 1974,
+      "Turn": 54,
+      "Speaker": "T",
+      "Sentence": "Okay",
+      "TalkMove": null
+    },
+    {
+      "ID": 1975,
+      "Turn": 54,
+      "Speaker": "T",
+      "Sentence": "Landon said he did 2 x 30 because it was two hours of entertainment at 30 an hour and he got 60",
+      "TalkMove": "Revoicing"
+    },
+    {
+      "ID": 1976,
+      "Turn": 54,
+      "Speaker": "T",
+      "Sentence": "Then he multiplied that x 3 because there were three performers",
+      "TalkMove": "Revoicing"
+    },
+    {
+      "ID": 1977,
+      "Turn": 54,
+      "Speaker": "T",
+      "Sentence": "Did anyone do that in a different way",
+      "TalkMove": "Getting Students to Relate to Another’s Ideas"
+    },
+    {
+      "ID": 1978,
+      "Turn": 54,
+      "Speaker": "T",
+      "Sentence": "Grady how did you do yours",
+      "TalkMove": "Pressing for Accuracy"
+    },
+    {
+      "ID": 1979,
+      "Turn": 55,
+      "Speaker": "S",
+      "Sentence": "First I did 3 x 30 then I did 90 x 2"
+    }
+  ]
+}

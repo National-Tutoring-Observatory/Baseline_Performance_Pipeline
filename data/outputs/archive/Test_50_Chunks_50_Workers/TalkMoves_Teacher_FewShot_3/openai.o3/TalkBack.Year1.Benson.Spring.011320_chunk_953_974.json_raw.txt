@@ -1,0 +1,130 @@
+{
+  "records": [
+    {
+      "ID": 953,
+      "Speaker": "T",
+      "Turn": 266,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 954,
+      "Speaker": "T",
+      "Turn": 266,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 955,
+      "Speaker": "T",
+      "Turn": 266,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the specific number of yellow halves needed to make a whole, prompting a precise mathematical contribution."
+    },
+    {
+      "ID": 957,
+      "Speaker": "T",
+      "Turn": 268,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "After acknowledging ‘two,’ the teacher asks what color two halves equal, requiring a correct, specific answer."
+    },
+    {
+      "ID": 959,
+      "Speaker": "T",
+      "Turn": 270,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher echoes the student’s response (‘one pink’) with slightly altered wording to affirm and clarify it."
+    },
+    {
+      "ID": 960,
+      "Speaker": "T",
+      "Turn": 270,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher restates and elaborates on the student’s idea that two halves make one whole, clarifying the mathematical relationship."
+    },
+    {
+      "ID": 961,
+      "Speaker": "T",
+      "Turn": 270,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 962,
+      "Speaker": "T",
+      "Turn": 270,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher asks students to explain the process needed to determine the value of 55, requesting their reasoning steps."
+    },
+    {
+      "ID": 963,
+      "Speaker": "T",
+      "Turn": 270,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher explicitly asks Maddox to describe what he did to find 55, prompting him to share his thinking."
+    },
+    {
+      "ID": 965,
+      "Speaker": "T",
+      "Turn": 272,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher restates the student’s idea (‘another 15’) in her own words to confirm understanding."
+    },
+    {
+      "ID": 966,
+      "Speaker": "T",
+      "Turn": 272,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher paraphrases and expands on Maddox’s strategy about splitting the dark green into equal parts, clarifying for the class."
+    },
+    {
+      "ID": 967,
+      "Speaker": "T",
+      "Turn": 272,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks a direct question seeking the precise color that fits, aiming for a correct factual response."
+    },
+    {
+      "ID": 968,
+      "Speaker": "T",
+      "Turn": 272,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Another question seeking the accurate color piece, prompting a correct answer."
+    },
+    {
+      "ID": 969,
+      "Speaker": "T",
+      "Turn": 272,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Continues to probe for the exact color needed, requesting a specific factual contribution."
+    },
+    {
+      "ID": 970,
+      "Speaker": "T",
+      "Turn": 272,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Final prompt asking students to name the correct color, demanding an accurate response."
+    },
+    {
+      "ID": 971,
+      "Speaker": "T",
+      "Turn": 272,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 973,
+      "Speaker": "T",
+      "Turn": 274,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher restates the student’s answer (‘It was a purple’) to confirm and clarify for the class."
+    },
+    {
+      "ID": 974,
+      "Speaker": "T",
+      "Turn": 274,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher summarizes the conclusion that two purple pieces equal one dark green, rephrasing the student-generated idea."
+    }
+  ]
+}

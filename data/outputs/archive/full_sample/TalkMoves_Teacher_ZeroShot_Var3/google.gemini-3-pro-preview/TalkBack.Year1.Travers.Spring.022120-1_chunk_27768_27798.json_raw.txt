@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 27768,
+      "Speaker": "T",
+      "Turn": 27768,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 27769,
+      "Speaker": "T",
+      "Turn": 27769,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 27770,
+      "Speaker": "T",
+      "Turn": 27770,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 27771,
+      "Speaker": "T",
+      "Turn": 27771,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 27772,
+      "Speaker": "T",
+      "Turn": 27772,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 27774,
+      "Speaker": "T",
+      "Turn": 27774,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher completes the previous thought, prompting for the specific mathematical term '10' in the context of powers."
+    },
+    {
+      "ID": 27775,
+      "Speaker": "T",
+      "Turn": 27775,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks students to check if they used the specific mathematical format (powers of 10) required for the answer."
+    },
+    {
+      "ID": 27777,
+      "Speaker": "T",
+      "Turn": 27777,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher explicitly directs students to use specific mathematical language (powers of 10 or exponents) in their rule."
+    },
+    {
+      "ID": 27778,
+      "Speaker": "T",
+      "Turn": 27778,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks a student to explain the goal of the problem ('what is this problem asking us to do'), prompting for understanding of the task."
+    },
+    {
+      "ID": 27780,
+      "Speaker": "T",
+      "Turn": 27780,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases the student's likely response or the task goal, clarifying that they need to 'figure out the rule'."
+    },
+    {
+      "ID": 27781,
+      "Speaker": "T",
+      "Turn": 27781,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to identify relevant information to start the problem, prompting them to connect given data to the solution process."
+    },
+    {
+      "ID": 27783,
+      "Speaker": "T",
+      "Turn": 27783,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to explain the meaning of the 'first part of the rule,' prompting for interpretation."
+    },
+    {
+      "ID": 27785,
+      "Speaker": "T",
+      "Turn": 27785,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for a specific factual conversion (meters to centimeters)."
+    },
+    {
+      "ID": 27787,
+      "Speaker": "T",
+      "Turn": 27787,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher calls on the whole 'Class' to ensure collective attention and response."
+    },
+    {
+      "ID": 27789,
+      "Speaker": "T",
+      "Turn": 27789,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher confirms the previous answer ('100') and immediately prompts for the next calculation in the sequence."
+    },
+    {
+      "ID": 27791,
+      "Speaker": "T",
+      "Turn": 27791,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher uses the phrase 'Help me out' to invite collective participation and keep the group focused."
+    },
+    {
+      "ID": 27792,
+      "Speaker": "T",
+      "Turn": 27792,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts for the next value in the pattern sequence."
+    },
+    {
+      "ID": 27794,
+      "Speaker": "T",
+      "Turn": 27794,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts for the next value in the pattern sequence."
+    },
+    {
+      "ID": 27796,
+      "Speaker": "T",
+      "Turn": 27796,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts for the next value in the pattern sequence."
+    },
+    {
+      "ID": 27798,
+      "Speaker": "T",
+      "Turn": 27798,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to identify the underlying rule or pattern based on the sequence just generated."
+    }
+  ]
+}

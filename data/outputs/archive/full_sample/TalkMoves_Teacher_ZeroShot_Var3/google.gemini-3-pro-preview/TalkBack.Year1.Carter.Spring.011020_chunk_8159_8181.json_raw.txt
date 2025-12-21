@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 8159,
+      "Speaker": "T",
+      "Turn": 8159,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 8160,
+      "Speaker": "T",
+      "Turn": 8160,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 8161,
+      "Speaker": "T",
+      "Turn": 8161,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks a specific student to explain the process of how they arrived at their answer ('how you got zero')."
+    },
+    {
+      "ID": 8163,
+      "Speaker": "T",
+      "Turn": 8163,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks for a different way of explaining the concept, prompting students to share alternative thinking or justification."
+    },
+    {
+      "ID": 8164,
+      "Speaker": "T",
+      "Turn": 8164,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "This is a continuation of the previous turn, clarifying that the explanation should be about 'how they knew their answer,' which is a request for justification."
+    },
+    {
+      "ID": 8165,
+      "Speaker": "T",
+      "Turn": 8165,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 8167,
+      "Speaker": "T",
+      "Turn": 8167,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 8168,
+      "Speaker": "T",
+      "Turn": 8168,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher solicits additional explanations or methods for the same problem."
+    },
+    {
+      "ID": 8169,
+      "Speaker": "T",
+      "Turn": 8169,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 8170,
+      "Speaker": "T",
+      "Turn": 8170,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 8171,
+      "Speaker": "T",
+      "Turn": 8171,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 8172,
+      "Speaker": "T",
+      "Turn": 8172,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher states a mathematical problem ('One and a half minus onethird') for the students to solve."
+    },
+    {
+      "ID": 8173,
+      "Speaker": "T",
+      "Turn": 8173,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 8174,
+      "Speaker": "T",
+      "Turn": 8174,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 8175,
+      "Speaker": "T",
+      "Turn": 8175,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 8176,
+      "Speaker": "T",
+      "Turn": 8176,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 8177,
+      "Speaker": "T",
+      "Turn": 8177,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 8179,
+      "Speaker": "T",
+      "Turn": 8179,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 8180,
+      "Speaker": "T",
+      "Turn": 8180,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 8181,
+      "Speaker": "T",
+      "Turn": 8181,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher explicitly asks a student to 'explain your thinking.'"
+    }
+  ]
+}

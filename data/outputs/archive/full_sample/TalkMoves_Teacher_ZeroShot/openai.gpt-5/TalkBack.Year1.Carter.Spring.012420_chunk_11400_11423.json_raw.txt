@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 11400,
+      "Speaker": "T",
+      "Turn": 11400,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "By expressing not understanding, the teacher prompts the student to clarify and explain their thinking."
+    },
+    {
+      "ID": 11401,
+      "Speaker": "T",
+      "Turn": 11401,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to write it out to show their thinking, requesting an explanation via representation."
+    },
+    {
+      "ID": 11402,
+      "Speaker": "T",
+      "Turn": 11402,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher requests a visual of the student's thinking, prompting evidence/representation to explain."
+    },
+    {
+      "ID": 11403,
+      "Speaker": "T",
+      "Turn": 11403,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11404,
+      "Speaker": "T",
+      "Turn": 11404,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11406,
+      "Speaker": "T",
+      "Turn": 11406,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11407,
+      "Speaker": "T",
+      "Turn": 11407,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher invites the student to go through their solution, prompting explanation of the process."
+    },
+    {
+      "ID": 11408,
+      "Speaker": "T",
+      "Turn": 11408,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher paraphrases the student's expressed order (12 then 25 of 12), reframing their idea."
+    },
+    {
+      "ID": 11409,
+      "Speaker": "T",
+      "Turn": 11409,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks whether it matters, prompting the student to justify or explain the concept."
+    },
+    {
+      "ID": 11410,
+      "Speaker": "T",
+      "Turn": 11410,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for a specific computation (2 × 3), prompting a mathematical contribution."
+    },
+    {
+      "ID": 11412,
+      "Speaker": "T",
+      "Turn": 11412,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for a specific computation (3 × 2), prompting a mathematical contribution."
+    },
+    {
+      "ID": 11414,
+      "Speaker": "T",
+      "Turn": 11414,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11415,
+      "Speaker": "T",
+      "Turn": 11415,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks whether the phrasing/order affects the result, inviting justification."
+    },
+    {
+      "ID": 11416,
+      "Speaker": "T",
+      "Turn": 11416,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks if order matters, prompting explanation about commutativity."
+    },
+    {
+      "ID": 11418,
+      "Speaker": "T",
+      "Turn": 11418,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11419,
+      "Speaker": "T",
+      "Turn": 11419,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11420,
+      "Speaker": "T",
+      "Turn": 11420,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11421,
+      "Speaker": "T",
+      "Turn": 11421,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11422,
+      "Speaker": "T",
+      "Turn": 11422,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11423,
+      "Speaker": "T",
+      "Turn": 11423,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher echoes the student’s claim (“Yes I’m right”) with altered framing, capturing the student’s idea."
+    }
+  ]
+}

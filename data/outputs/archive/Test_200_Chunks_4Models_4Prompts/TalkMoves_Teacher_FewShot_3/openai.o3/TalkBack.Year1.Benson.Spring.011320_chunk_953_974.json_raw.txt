@@ -1,0 +1,94 @@
+{
+  "codes": [
+    {
+      "ID": 953,
+      "TalkMove": "None",
+      "Reasoning": ""
+    },
+    {
+      "ID": 954,
+      "TalkMove": "None",
+      "Reasoning": ""
+    },
+    {
+      "ID": 955,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks for the exact number of pieces needed to make the whole, prompting a specific mathematical answer."
+    },
+    {
+      "ID": 957,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher restates the student’s answer ('two of them') and extends it by posing a follow-up question about color."
+    },
+    {
+      "ID": 959,
+      "TalkMove": "Restating",
+      "Reasoning": "Teacher repeats the student’s response ('one pink') almost verbatim."
+    },
+    {
+      "ID": 960,
+      "TalkMove": "None",
+      "Reasoning": ""
+    },
+    {
+      "ID": 961,
+      "TalkMove": "None",
+      "Reasoning": ""
+    },
+    {
+      "ID": 962,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher asks students to explain the process needed to determine the value for 55, requesting justification."
+    },
+    {
+      "ID": 963,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher asks a student to describe what was done to find 55, eliciting the reasoning behind the calculation."
+    },
+    {
+      "ID": 965,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher echoes the student’s idea ('another 15') while confirming understanding."
+    },
+    {
+      "ID": 966,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher paraphrases and elaborates on Maddox’s explanation about splitting the dark green into two equal parts."
+    },
+    {
+      "ID": 967,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks whether the fitting piece was purple, seeking a precise identification."
+    },
+    {
+      "ID": 968,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher checks if the piece was dark blue, requesting an exact answer."
+    },
+    {
+      "ID": 969,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher queries if the piece was light green, prompting a specific response."
+    },
+    {
+      "ID": 970,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks 'What was it?' to obtain the exact color of the piece."
+    },
+    {
+      "ID": 971,
+      "TalkMove": "None",
+      "Reasoning": ""
+    },
+    {
+      "ID": 973,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher repeats and confirms the student’s answer that the piece was purple."
+    },
+    {
+      "ID": 974,
+      "TalkMove": "None",
+      "Reasoning": ""
+    }
+  ]
+}

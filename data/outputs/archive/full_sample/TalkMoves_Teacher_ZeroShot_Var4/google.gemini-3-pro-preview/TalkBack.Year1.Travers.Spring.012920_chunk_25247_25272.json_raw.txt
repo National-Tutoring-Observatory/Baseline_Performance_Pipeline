@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 25247,
+      "Speaker": "T",
+      "Turn": 25247,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 25249,
+      "Speaker": "T",
+      "Turn": 25249,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 25251,
+      "Speaker": "T",
+      "Turn": 25251,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks students to identify a specific data point (count of students with head size 50.5) from their dataset."
+    },
+    {
+      "ID": 25253,
+      "Speaker": "T",
+      "Turn": 25253,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 25254,
+      "Speaker": "T",
+      "Turn": 25254,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 25255,
+      "Speaker": "T",
+      "Turn": 25255,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 25256,
+      "Speaker": "T",
+      "Turn": 25256,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 25257,
+      "Speaker": "T",
+      "Turn": 25257,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts a specific student to identify the next value or category in the sequence."
+    },
+    {
+      "ID": 25258,
+      "Speaker": "T",
+      "Turn": 25258,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks students to determine if a specific value (51) exists in the dataset."
+    },
+    {
+      "ID": 25259,
+      "Speaker": "T",
+      "Turn": 25259,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 25260,
+      "Speaker": "T",
+      "Turn": 25260,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 25262,
+      "Speaker": "T",
+      "Turn": 25262,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 25264,
+      "Speaker": "T",
+      "Turn": 25264,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 25265,
+      "Speaker": "T",
+      "Turn": 25265,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 25266,
+      "Speaker": "T",
+      "Turn": 25266,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 25267,
+      "Speaker": "T",
+      "Turn": 25267,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 25268,
+      "Speaker": "T",
+      "Turn": 25268,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher states the next category, implicitly prompting students to provide the count for that value."
+    },
+    {
+      "ID": 25269,
+      "Speaker": "T",
+      "Turn": 25269,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher repeats the category value, prompting for the corresponding data count."
+    },
+    {
+      "ID": 25271,
+      "Speaker": "T",
+      "Turn": 25271,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 25272,
+      "Speaker": "T",
+      "Turn": 25272,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 21989,
+      "Speaker": "T",
+      "Turn": 21989,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21991,
+      "Speaker": "T",
+      "Turn": 21991,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21992,
+      "Speaker": "T",
+      "Turn": 21992,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's idea to 'square both sides' and adds on the result of that action."
+    },
+    {
+      "ID": 21993,
+      "Speaker": "T",
+      "Turn": 21993,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21994,
+      "Speaker": "T",
+      "Turn": 21994,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21995,
+      "Speaker": "T",
+      "Turn": 21995,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21996,
+      "Speaker": "T",
+      "Turn": 21996,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21998,
+      "Speaker": "T",
+      "Turn": 21998,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher confirms the student's idea to 'factor' and adds on the implication that everything must be moved to one side."
+    },
+    {
+      "ID": 21999,
+      "Speaker": "T",
+      "Turn": 21999,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22001,
+      "Speaker": "T",
+      "Turn": 22001,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks 'Why' to prompt students to explain the thinking behind a specific procedural choice."
+    },
+    {
+      "ID": 22003,
+      "Speaker": "T",
+      "Turn": 22003,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases a student's reasoning for moving terms in the equation to keep the leading coefficient positive."
+    },
+    {
+      "ID": 22004,
+      "Speaker": "T",
+      "Turn": 22004,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22005,
+      "Speaker": "T",
+      "Turn": 22005,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22007,
+      "Speaker": "T",
+      "Turn": 22007,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to provide the specific mathematical values (the factors) to complete their contribution."
+    },
+    {
+      "ID": 22009,
+      "Speaker": "T",
+      "Turn": 22009,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22010,
+      "Speaker": "T",
+      "Turn": 22010,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22011,
+      "Speaker": "T",
+      "Turn": 22011,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22012,
+      "Speaker": "T",
+      "Turn": 22012,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22013,
+      "Speaker": "T",
+      "Turn": 22013,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22014,
+      "Speaker": "T",
+      "Turn": 22014,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "records": [
+    {
+      "ID": 8997,
+      "Turn": 225,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to recall the thinking process behind a previously learned method ('the rainbow')."
+    },
+    {
+      "ID": 8998,
+      "Turn": 225,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher elaborates on the previous question, asking the student to explain the process of using the method to ensure all numbers are paired."
+    },
+    {
+      "ID": 9000,
+      "Turn": 227,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9001,
+      "Turn": 227,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9002,
+      "Turn": 227,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9003,
+      "Turn": 228,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to make a specific mathematical contribution by checking if 1 is a factor of 12."
+    },
+    {
+      "ID": 9004,
+      "Turn": 228,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9005,
+      "Turn": 228,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student for a specific number to complete the factor pair."
+    },
+    {
+      "ID": 9007,
+      "Turn": 230,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher repeats the prompt for a specific number to complete the factor pair."
+    },
+    {
+      "ID": 9008,
+      "Turn": 230,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher provides a mathematical rule and asks the student to apply it, prompting them to connect ideas."
+    },
+    {
+      "ID": 9010,
+      "Turn": 232,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9011,
+      "Turn": 232,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to make a specific mathematical contribution by checking if 2 is a factor of 12."
+    },
+    {
+      "ID": 9013,
+      "Turn": 234,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student for a specific number to complete the factor pair."
+    },
+    {
+      "ID": 9014,
+      "Turn": 234,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher provides a hint based on a mathematical property ('Its an even number') to guide the student's thinking process."
+    },
+    {
+      "ID": 9015,
+      "Turn": 234,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher re-prompts the student to provide the specific number for the factor pair."
+    },
+    {
+      "ID": 9017,
+      "Turn": 236,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9018,
+      "Turn": 236,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

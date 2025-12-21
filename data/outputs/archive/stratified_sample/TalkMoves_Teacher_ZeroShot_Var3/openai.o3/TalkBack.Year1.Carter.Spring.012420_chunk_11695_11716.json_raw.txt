@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 11695,
+      "Speaker": "T",
+      "Turn": 239,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11696,
+      "Speaker": "T",
+      "Turn": 239,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to decide if they should fold the piece in half as before, prompting them to reflect on and justify the procedure."
+    },
+    {
+      "ID": 11698,
+      "Speaker": "T",
+      "Turn": 241,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student’s response (“No”) exactly."
+    },
+    {
+      "ID": 11699,
+      "Speaker": "T",
+      "Turn": 241,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher follows up with a ‘because’ question, asking students to justify why they should not fold in half."
+    },
+    {
+      "ID": 11701,
+      "Speaker": "T",
+      "Turn": 243,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the exact number of parts needed, prompting a precise mathematical answer."
+    },
+    {
+      "ID": 11702,
+      "Speaker": "T",
+      "Turn": 243,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "By saying “Show me,” the teacher asks students to demonstrate their thinking/representation, encouraging them to provide evidence."
+    },
+    {
+      "ID": 11703,
+      "Speaker": "T",
+      "Turn": 243,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher restates a student’s idea (“Two folded into three”) in her own words to clarify it for the class."
+    },
+    {
+      "ID": 11704,
+      "Speaker": "T",
+      "Turn": 243,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11705,
+      "Speaker": "T",
+      "Turn": 244,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11706,
+      "Speaker": "T",
+      "Turn": 245,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11707,
+      "Speaker": "T",
+      "Turn": 245,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher checks if all students have three equal parts, ensuring the class is on the same page."
+    },
+    {
+      "ID": 11708,
+      "Speaker": "T",
+      "Turn": 245,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher gauges students’ readiness to proceed by asking who understands how to shade, orienting the whole class."
+    },
+    {
+      "ID": 11709,
+      "Speaker": "T",
+      "Turn": 245,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11710,
+      "Speaker": "T",
+      "Turn": 245,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11711,
+      "Speaker": "T",
+      "Turn": 245,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11712,
+      "Speaker": "T",
+      "Turn": 245,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11713,
+      "Speaker": "T",
+      "Turn": 245,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11714,
+      "Speaker": "T",
+      "Turn": 246,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher asks students whether their work matches the displayed example, ensuring collective progress."
+    },
+    {
+      "ID": 11715,
+      "Speaker": "T",
+      "Turn": 247,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to evaluate whether the representation shows half of the pizza, prompting justification."
+    },
+    {
+      "ID": 11716,
+      "Speaker": "T",
+      "Turn": 247,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher checks if students will shade all three parts, requiring a precise understanding of which sections should be shaded."
+    }
+  ]
+}

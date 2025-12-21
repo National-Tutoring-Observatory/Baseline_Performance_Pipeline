@@ -1,0 +1,186 @@
+{
+  "records": [
+    {
+      "ID": 24002,
+      "Speaker": "T",
+      "Turn": 150,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Asks the student to explain the process that produced the answer \"six.\""
+    },
+    {
+      "ID": 24004,
+      "Speaker": "T",
+      "Turn": 152,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Prompts the student to use (and therefore explain with) a visual representation."
+    },
+    {
+      "ID": 24005,
+      "Speaker": "T",
+      "Turn": 152,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24006,
+      "Speaker": "T",
+      "Turn": 152,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Encourages the student to think about how the picture could support their explanation."
+    },
+    {
+      "ID": 24007,
+      "Speaker": "T",
+      "Turn": 152,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24008,
+      "Speaker": "T",
+      "Turn": 152,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Explicitly asks the student to describe the steps that led to the answer."
+    },
+    {
+      "ID": 24009,
+      "Speaker": "T",
+      "Turn": 153,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24010,
+      "Speaker": "T",
+      "Turn": 153,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24011,
+      "Speaker": "T",
+      "Turn": 153,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24012,
+      "Speaker": "T",
+      "Turn": 153,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24013,
+      "Speaker": "T",
+      "Turn": 153,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24014,
+      "Speaker": "T",
+      "Turn": 153,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Requests the precise numerical value for 1/5 of 15."
+    },
+    {
+      "ID": 24016,
+      "Speaker": "T",
+      "Turn": 154,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks what the second group of dots represents numerically."
+    },
+    {
+      "ID": 24019,
+      "Speaker": "T",
+      "Turn": 157,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Checks whether the student (and class) understands the explanation."
+    },
+    {
+      "ID": 24020,
+      "Speaker": "T",
+      "Turn": 157,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24021,
+      "Speaker": "T",
+      "Turn": 157,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24022,
+      "Speaker": "T",
+      "Turn": 157,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24023,
+      "Speaker": "T",
+      "Turn": 157,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Prompts the class to supply the exact value for 1/5 of 15."
+    },
+    {
+      "ID": 24024,
+      "Speaker": "T",
+      "Turn": 157,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Invites the whole class to chime in, ensuring collective participation."
+    },
+    {
+      "ID": 24027,
+      "Speaker": "T",
+      "Turn": 160,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks for the specific numerical result of 2/5 of 15."
+    },
+    {
+      "ID": 24029,
+      "Speaker": "T",
+      "Turn": 162,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24030,
+      "Speaker": "T",
+      "Turn": 163,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24031,
+      "Speaker": "T",
+      "Turn": 163,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24032,
+      "Speaker": "T",
+      "Turn": 163,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24034,
+      "Speaker": "T",
+      "Turn": 164,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24035,
+      "Speaker": "T",
+      "Turn": 164,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Restates and summarizes Caleb’s contribution (finding 2/5 and 3/5 of 15) for the whole class."
+    }
+  ]
+}

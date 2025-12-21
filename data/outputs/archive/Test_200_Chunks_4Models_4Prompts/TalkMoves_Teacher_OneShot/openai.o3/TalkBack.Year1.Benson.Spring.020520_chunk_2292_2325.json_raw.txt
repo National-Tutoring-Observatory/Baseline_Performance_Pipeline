@@ -1,0 +1,137 @@
+{
+  "records": [
+    {
+      "ID": 2293,
+      "Speaker": "T",
+      "Turn": 221,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks \"Why,\" prompting the student to explain the reason behind multiplying by 8."
+    },
+    {
+      "ID": 2295,
+      "Speaker": "T",
+      "Turn": 223,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher restates the student's idea, clarifying that there are eight burritos in each package."
+    },
+    {
+      "ID": 2297,
+      "Speaker": "T",
+      "Turn": 225,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2301,
+      "Speaker": "T",
+      "Turn": 227,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher summarizes the student's calculation, restating the estimate of 240 burritos."
+    },
+    {
+      "ID": 2302,
+      "Speaker": "T",
+      "Turn": 227,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks what the student did next, prompting the student to explain the subsequent steps."
+    },
+    {
+      "ID": 2305,
+      "Speaker": "T",
+      "Turn": 229,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher restates the student's multiplication context (18 sandwiches per package, $6 each)."
+    },
+    {
+      "ID": 2307,
+      "Speaker": "T",
+      "Turn": 231,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "By saying \"Because,\" the teacher prompts the student to explain why they multiplied by 5."
+    },
+    {
+      "ID": 2309,
+      "Speaker": "T",
+      "Turn": 233,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases the student's explanation, clarifying the need for 18 packages of five sandwiches."
+    },
+    {
+      "ID": 2312,
+      "Speaker": "T",
+      "Turn": 235,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher restates the student's result: an estimated cost of about 600 for sandwiches."
+    },
+    {
+      "ID": 2313,
+      "Speaker": "T",
+      "Turn": 235,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2314,
+      "Speaker": "T",
+      "Turn": 235,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2315,
+      "Speaker": "T",
+      "Turn": 235,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2318,
+      "Speaker": "T",
+      "Turn": 238,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2319,
+      "Speaker": "T",
+      "Turn": 238,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2320,
+      "Speaker": "T",
+      "Turn": 238,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2321,
+      "Speaker": "T",
+      "Turn": 238,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher invites students to share different methods of estimating, explicitly encouraging comparison with the method just discussed."
+    },
+    {
+      "ID": 2322,
+      "Speaker": "T",
+      "Turn": 238,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher asks how Lillian’s estimate differs from the previous one, prompting comparison between student ideas."
+    },
+    {
+      "ID": 2324,
+      "Speaker": "T",
+      "Turn": 240,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student’s multiplication \"5 x 8\" exactly as stated."
+    },
+    {
+      "ID": 2325,
+      "Speaker": "T",
+      "Turn": 240,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks \"Where did you get five,\" prompting the student to justify the origin of that number."
+    }
+  ]
+}

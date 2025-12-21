@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 10293,
+      "Speaker": "T",
+      "Turn": 10293,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10294,
+      "Speaker": "T",
+      "Turn": 10294,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10295,
+      "Speaker": "T",
+      "Turn": 10295,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the exact value of 1/4 of 20, prompting a specific numerical answer."
+    },
+    {
+      "ID": 10298,
+      "Speaker": "T",
+      "Turn": 10298,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher begins the calculation and expects students to supply the correct quotient."
+    },
+    {
+      "ID": 10301,
+      "Speaker": "T",
+      "Turn": 10301,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10302,
+      "Speaker": "T",
+      "Turn": 10302,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10303,
+      "Speaker": "T",
+      "Turn": 10303,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10304,
+      "Speaker": "T",
+      "Turn": 10304,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks for the number of fourths, eliciting a precise count from students."
+    },
+    {
+      "ID": 10306,
+      "Speaker": "T",
+      "Turn": 10306,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher prompts students to complete the multiplication fact accurately."
+    },
+    {
+      "ID": 10308,
+      "Speaker": "T",
+      "Turn": 10308,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10309,
+      "Speaker": "T",
+      "Turn": 10309,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10311,
+      "Speaker": "T",
+      "Turn": 10311,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10312,
+      "Speaker": "T",
+      "Turn": 10312,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10314,
+      "Speaker": "T",
+      "Turn": 10314,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10315,
+      "Speaker": "T",
+      "Turn": 10315,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to \"talk me through this,\" requesting an explanation of their thought process."
+    },
+    {
+      "ID": 10316,
+      "Speaker": "T",
+      "Turn": 10316,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher sets up a partial statement and expects students to provide the correct numerical result."
+    },
+    {
+      "ID": 10318,
+      "Speaker": "T",
+      "Turn": 10318,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10319,
+      "Speaker": "T",
+      "Turn": 10319,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher prompts students to determine the result of multiplying the unit fraction amount by three."
+    },
+    {
+      "ID": 10321,
+      "Speaker": "T",
+      "Turn": 10321,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher restates the student's answer (12) and adds clarification (\"because you have fourths\"), paraphrasing and extending the student's idea."
+    },
+    {
+      "ID": 10322,
+      "Speaker": "T",
+      "Turn": 10322,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

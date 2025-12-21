@@ -1,0 +1,164 @@
+{
+  "records": [
+    {
+      "ID": 27558,
+      "Turn": 23,
+      "Speaker": "T",
+      "Sentence": "Ill give you some reminders",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 27559,
+      "Turn": 23,
+      "Speaker": "T",
+      "Sentence": "Wave at me if your teammate four",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 27560,
+      "Turn": 23,
+      "Speaker": "T",
+      "Sentence": "Youre speaking first",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 27561,
+      "Turn": 23,
+      "Speaker": "T",
+      "Sentence": "Ready go",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 27562,
+      "Turn": 23,
+      "Speaker": "T",
+      "Sentence": "If you dont have a four do a three",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 27563,
+      "Turn": 23,
+      "Speaker": "T",
+      "Sentence": "Can you all hear him",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher checks if students are able to hear their classmate, prompting them to be active listeners."
+    },
+    {
+      "ID": 27565,
+      "Turn": 25,
+      "Speaker": "T",
+      "Sentence": "No so start again because youre speaking to your whole group",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher instructs a student to speak louder to ensure the entire group can hear and participate in the discussion."
+    },
+    {
+      "ID": 27566,
+      "Turn": 26,
+      "Speaker": "T",
+      "Sentence": "Speak up",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher gives a direct command to ensure the student's contribution is audible to their peers."
+    },
+    {
+      "ID": 27568,
+      "Turn": 28,
+      "Speaker": "T",
+      "Sentence": "For division",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to extend their explanation to another mathematical case, thus contributing more mathematical information."
+    },
+    {
+      "ID": 27571,
+      "Turn": 30,
+      "Speaker": "T",
+      "Sentence": "Somebodys comment",
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher invites other students to respond to the idea just shared by a classmate."
+    },
+    {
+      "ID": 27572,
+      "Turn": 30,
+      "Speaker": "T",
+      "Sentence": "Look over here on the board",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 27573,
+      "Turn": 30,
+      "Speaker": "T",
+      "Sentence": "What could we respond",
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher explicitly asks the class to formulate a response to what a classmate said."
+    },
+    {
+      "ID": 27575,
+      "Turn": 32,
+      "Speaker": "T",
+      "Sentence": "How far do you move the decimal to the right",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher pushes for a more precise mathematical statement by asking for a specific detail about the procedure."
+    },
+    {
+      "ID": 27576,
+      "Turn": 32,
+      "Speaker": "T",
+      "Sentence": "How do you know how far or where to move the decimal",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to explain the thinking or rule behind their procedure by using the phrase 'How do you know'."
+    },
+    {
+      "ID": 27577,
+      "Turn": 32,
+      "Speaker": "T",
+      "Sentence": "How do you know",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher repeats and emphasizes the prompt for students to provide the justification for their method."
+    },
+    {
+      "ID": 27578,
+      "Turn": 32,
+      "Speaker": "T",
+      "Sentence": "All right ladies and gentlemen thank you for your amazing participation",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 27579,
+      "Turn": 32,
+      "Speaker": "T",
+      "Sentence": "I saw lots of groups where kids were agreeing",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 27580,
+      "Turn": 32,
+      "Speaker": "T",
+      "Sentence": "I saw a couple of places where kids are adding on to their thinking",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 27581,
+      "Turn": 32,
+      "Speaker": "T",
+      "Sentence": "Would you please stand up and bring your whiteboard and marker to the carpet",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 27582,
+      "Turn": 32,
+      "Speaker": "T",
+      "Sentence": "Do not erase it yet",
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

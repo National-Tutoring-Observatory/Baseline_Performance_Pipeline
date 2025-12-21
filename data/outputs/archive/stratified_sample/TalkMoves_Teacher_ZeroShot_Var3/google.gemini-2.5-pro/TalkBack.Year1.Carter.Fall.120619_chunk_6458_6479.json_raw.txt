@@ -1,0 +1,25 @@
+{
+  "records": [
+    {
+      "ID": 6477,
+      "Turn": 1,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 6478,
+      "Turn": 1,
+      "Speaker": "T",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher directs all students to focus their attention on the upcoming question, prompting them to be active listeners."
+    },
+    {
+      "ID": 6479,
+      "Turn": 1,
+      "Speaker": "T",
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats a question that a student previously asked, making it a public object for discussion."
+    }
+  ]
+}

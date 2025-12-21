@@ -1,0 +1,81 @@
+{
+  "records": [
+    {
+      "ID": 8705,
+      "Speaker": "T",
+      "Turn": 104,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8709,
+      "Speaker": "T",
+      "Turn": 107,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to confirm that a result is not 36, checking correctness."
+    },
+    {
+      "ID": 8710,
+      "Speaker": "T",
+      "Turn": 107,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8711,
+      "Speaker": "T",
+      "Turn": 107,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8712,
+      "Speaker": "T",
+      "Turn": 107,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks whether 5 is a factor (“goes in”), eliciting a correctness check."
+    },
+    {
+      "ID": 8714,
+      "Speaker": "T",
+      "Turn": 109,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher revisits a proposed factor (4) and prompts students to check its applicability."
+    },
+    {
+      "ID": 8718,
+      "Speaker": "T",
+      "Turn": 112,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student’s earlier suggestion “Six” word for word."
+    },
+    {
+      "ID": 8720,
+      "Speaker": "T",
+      "Turn": 114,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the missing factor in “six times what is 36,” prompting a specific mathematical fact."
+    },
+    {
+      "ID": 8722,
+      "Speaker": "T",
+      "Turn": 116,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8724,
+      "Speaker": "T",
+      "Turn": 118,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8725,
+      "Speaker": "T",
+      "Turn": 118,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher seeks confirmation of the correct factor pairing and its placement in the factor rainbow using a tag question (“right”)."
+    }
+  ]
+}

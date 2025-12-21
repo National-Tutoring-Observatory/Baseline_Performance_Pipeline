@@ -1,0 +1,148 @@
+{
+  "records": [
+    {
+      "ID": 24736,
+      "Turn": 144,
+      "Speaker": "T",
+      "Sentence": "3 12",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24737,
+      "Turn": 144,
+      "Speaker": "T",
+      "Sentence": "We started with the smallest piece of data",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24738,
+      "Turn": 144,
+      "Speaker": "T",
+      "Sentence": "It was 3 12",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24739,
+      "Turn": 144,
+      "Speaker": "T",
+      "Sentence": "Then we have 3 34",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24740,
+      "Turn": 144,
+      "Speaker": "T",
+      "Sentence": "How many times do you see 3 34",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to make a mathematical contribution by asking them to count the occurrences of a data point."
+    },
+    {
+      "ID": 24742,
+      "Turn": 146,
+      "Speaker": "T",
+      "Sentence": "One two three four",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24743,
+      "Turn": 146,
+      "Speaker": "T",
+      "Sentence": "You should write down 3 34 how many times",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to make a specific mathematical contribution to ensure everyone has the correct information."
+    },
+    {
+      "ID": 24745,
+      "Turn": 148,
+      "Speaker": "T",
+      "Sentence": "Four times",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's answer 'Four' and adds the word 'times', making the contribution more complete."
+    },
+    {
+      "ID": 24746,
+      "Turn": 148,
+      "Speaker": "T",
+      "Sentence": "Right now my friends we have written down 3 12 3 34 3 34 3 34 3 34",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24747,
+      "Turn": 148,
+      "Speaker": "T",
+      "Sentence": "Will you please look at your shoulder partners whiteboard and make sure that were all in the same place",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher prompts students to orient to each other by checking their partner's work to ensure the whole class is at the same stage."
+    },
+    {
+      "ID": 24748,
+      "Turn": 148,
+      "Speaker": "T",
+      "Sentence": "Give your shoulder partner a tip if they need to catch up with us on something",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher continues to orient students to each other by asking them to provide help to a partner, ensuring the group progresses together."
+    },
+    {
+      "ID": 24749,
+      "Turn": 148,
+      "Speaker": "T",
+      "Sentence": "Next",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24750,
+      "Turn": 148,
+      "Speaker": "T",
+      "Sentence": "Whats our next biggest measurements",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to make a mathematical contribution by asking them to identify the next data point in the sequence."
+    },
+    {
+      "ID": 24752,
+      "Turn": 150,
+      "Speaker": "T",
+      "Sentence": "Four inches",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's contribution ('4 12') but rephrases it as 'Four inches' for clarity."
+    },
+    {
+      "ID": 24753,
+      "Turn": 150,
+      "Speaker": "T",
+      "Sentence": "How many times do we have four inches",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to make a mathematical contribution by asking them to count the occurrences of the new data point."
+    },
+    {
+      "ID": 24755,
+      "Turn": 152,
+      "Speaker": "T",
+      "Sentence": "One two three",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24756,
+      "Turn": 152,
+      "Speaker": "T",
+      "Sentence": "Please write four three times in your set of data",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24757,
+      "Turn": 152,
+      "Speaker": "T",
+      "Sentence": "All right then",
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

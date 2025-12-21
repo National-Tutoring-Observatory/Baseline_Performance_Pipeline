@@ -1,0 +1,51 @@
+[
+  {
+    "ID": 21256,
+    "Speaker": "T",
+    "Turn": 310,
+    "TalkMove": null,
+    "Reasoning": null
+  },
+  {
+    "ID": 21259,
+    "Speaker": "T",
+    "Turn": 312,
+    "TalkMove": null,
+    "Reasoning": null
+  },
+  {
+    "ID": 21270,
+    "Speaker": "T",
+    "Turn": 318,
+    "TalkMove": "Pressing for Reasoning",
+    "Reasoning": "The teacher asks the student to explain the reason for a situation they described."
+  },
+  {
+    "ID": 21273,
+    "Speaker": "T",
+    "Turn": 321,
+    "TalkMove": null,
+    "Reasoning": null
+  },
+  {
+    "ID": 21274,
+    "Speaker": "T",
+    "Turn": 321,
+    "TalkMove": null,
+    "Reasoning": null
+  },
+  {
+    "ID": 21275,
+    "Speaker": "T",
+    "Turn": 321,
+    "TalkMove": "Pressing for Accuracy",
+    "Reasoning": "The teacher prompts the student to provide a specific mathematical representation."
+  },
+  {
+    "ID": 21276,
+    "Speaker": "T",
+    "Turn": 321,
+    "TalkMove": "Pressing for Accuracy",
+    "Reasoning": "The teacher repeats the prompt for a specific mathematical representation, focusing the student's attention."
+  }
+]

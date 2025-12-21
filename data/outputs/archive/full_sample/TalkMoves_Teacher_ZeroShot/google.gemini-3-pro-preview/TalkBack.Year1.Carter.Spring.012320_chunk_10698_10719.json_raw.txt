@@ -1,0 +1,25 @@
+{
+  "records": [
+    {
+      "ID": 10701,
+      "Speaker": "T",
+      "Turn": 10701,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats and likely refines a mathematical idea ('Multiplying by 15') that was just contributed by a student, validating it with 'Very clear'."
+    },
+    {
+      "ID": 10705,
+      "Speaker": "T",
+      "Turn": 10705,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to recall and state a specific mathematical definition or rule learned earlier."
+    },
+    {
+      "ID": 10707,
+      "Speaker": "T",
+      "Turn": 10707,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher repeats the prompt asking students to identify the specific division rule."
+    }
+  ]
+}

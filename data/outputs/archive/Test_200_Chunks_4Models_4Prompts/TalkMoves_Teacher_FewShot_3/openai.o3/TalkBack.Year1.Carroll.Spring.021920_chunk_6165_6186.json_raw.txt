@@ -1,0 +1,64 @@
+{
+  "annotations": [
+    {
+      "ID": 6165,
+      "Turn": 27,
+      "TalkMove": "None",
+      "Reasoning": ""
+    },
+    {
+      "ID": 6167,
+      "Turn": 29,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher highlights the vague term 'several' to prompt the student to specify a more precise quantity."
+    },
+    {
+      "ID": 6169,
+      "Turn": 31,
+      "TalkMove": "None",
+      "Reasoning": ""
+    },
+    {
+      "ID": 6171,
+      "Turn": 33,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "By asking 'How many more,' the teacher presses the student to provide an exact numerical answer rather than a vague description."
+    },
+    {
+      "ID": 6177,
+      "Turn": 36,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher repeats the prompt 'How many more' to continue urging the student toward a precise answer."
+    },
+    {
+      "ID": 6178,
+      "Turn": 36,
+      "TalkMove": "None",
+      "Reasoning": ""
+    },
+    {
+      "ID": 6180,
+      "Turn": 38,
+      "TalkMove": "None",
+      "Reasoning": ""
+    },
+    {
+      "ID": 6183,
+      "Turn": 40,
+      "TalkMove": "None",
+      "Reasoning": ""
+    },
+    {
+      "ID": 6185,
+      "Turn": 42,
+      "TalkMove": "None",
+      "Reasoning": ""
+    },
+    {
+      "ID": 6186,
+      "Turn": 42,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks, 'What did your team say,' prompting the student to share and explain their group's thinking."
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 1248,
+      "Speaker": "T",
+      "Turn": 1248,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the specific distance Charice ran, prompting a precise mathematical value."
+    },
+    {
+      "ID": 1250,
+      "Speaker": "T",
+      "Turn": 1250,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher seeks confirmation of the fraction, focusing on accurate mathematical language."
+    },
+    {
+      "ID": 1251,
+      "Speaker": "T",
+      "Turn": 1251,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher restates the student's idea as a full sentence, clarifying the information given."
+    },
+    {
+      "ID": 1252,
+      "Speaker": "T",
+      "Turn": 1252,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks students to identify the unknown the problem is asking for."
+    },
+    {
+      "ID": 1253,
+      "Speaker": "T",
+      "Turn": 1253,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher restates the target of the problem (how much Ally ran) and checks alignment with a student's understanding."
+    },
+    {
+      "ID": 1255,
+      "Speaker": "T",
+      "Turn": 1255,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to explain the method for finding the answer."
+    },
+    {
+      "ID": 1256,
+      "Speaker": "T",
+      "Turn": 1256,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts students to cite given information and connect it to solving the problem."
+    },
+    {
+      "ID": 1259,
+      "Speaker": "T",
+      "Turn": 1259,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1260,
+      "Speaker": "T",
+      "Turn": 1260,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1262,
+      "Speaker": "T",
+      "Turn": 1262,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher summarizes the known quantities from the problem, clarifying the setup."
+    },
+    {
+      "ID": 1263,
+      "Speaker": "T",
+      "Turn": 1263,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks students to choose the correct operation to use."
+    },
+    {
+      "ID": 1266,
+      "Speaker": "T",
+      "Turn": 1266,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher orients the class to identify which student contributed the idea, coordinating participation."
+    },
+    {
+      "ID": 1268,
+      "Speaker": "T",
+      "Turn": 1268,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks a student to justify why addition is appropriate."
+    },
+    {
+      "ID": 1270,
+      "Speaker": "T",
+      "Turn": 1270,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1271,
+      "Speaker": "T",
+      "Turn": 1271,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1272,
+      "Speaker": "T",
+      "Turn": 1272,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher acknowledges and restates students’ suggestion to add, elaborating on the context."
+    },
+    {
+      "ID": 1273,
+      "Speaker": "T",
+      "Turn": 1273,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to specify the unit/whole being counted."
+    },
+    {
+      "ID": 1275,
+      "Speaker": "T",
+      "Turn": 1275,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher calls on a student, orienting the class to that speaker’s contribution."
+    },
+    {
+      "ID": 1277,
+      "Speaker": "T",
+      "Turn": 1277,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's one-word answer verbatim."
+    },
+    {
+      "ID": 1278,
+      "Speaker": "T",
+      "Turn": 1278,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases the student's answer to a more precise singular form."
+    }
+  ]
+}

@@ -1,0 +1,256 @@
+{
+  "records": [
+    {
+      "ID": 1232,
+      "Turn": 102,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1233,
+      "Turn": 102,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1235,
+      "Turn": 104,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1236,
+      "Turn": 104,
+      "Speaker": "T",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher checks for whole-class understanding to ensure everyone is ready to proceed."
+    },
+    {
+      "ID": 1238,
+      "Turn": 106,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1239,
+      "Turn": 106,
+      "Speaker": "T",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher checks for understanding to ensure students are ready to move on."
+    },
+    {
+      "ID": 1241,
+      "Turn": 108,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1242,
+      "Turn": 108,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1243,
+      "Turn": 108,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1247,
+      "Turn": 110,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1248,
+      "Turn": 110,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1250,
+      "Turn": 112,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1251,
+      "Turn": 112,
+      "Speaker": "T",
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the key information a student provided ('78') and puts it back into the context of the problem."
+    },
+    {
+      "ID": 1252,
+      "Turn": 112,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1253,
+      "Turn": 112,
+      "Speaker": "T",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher orients a specific student to the goal of the problem to ensure he is following the discussion."
+    },
+    {
+      "ID": 1255,
+      "Turn": 114,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to explain the process or method for solving the problem."
+    },
+    {
+      "ID": 1256,
+      "Turn": 114,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts a student to provide the evidence from the text that will help them solve the problem."
+    },
+    {
+      "ID": 1259,
+      "Turn": 116,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to be more careful and precise in reading the information from the problem."
+    },
+    {
+      "ID": 1260,
+      "Turn": 116,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher interrupts a student's inaccurate reading of the problem to prompt them to state the mathematical information correctly."
+    },
+    {
+      "ID": 1262,
+      "Turn": 118,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher summarizes and synthesizes the key information that students have identified, reformulating it to clarify the problem's setup."
+    },
+    {
+      "ID": 1263,
+      "Turn": 118,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to make a decision about the correct mathematical operation, which requires reasoning about the problem's context."
+    },
+    {
+      "ID": 1266,
+      "Turn": 121,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1268,
+      "Turn": 123,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks a student 'why' to elicit the thinking behind their choice of operation."
+    },
+    {
+      "ID": 1270,
+      "Turn": 125,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1271,
+      "Turn": 125,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1272,
+      "Turn": 125,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's correct idea ('add') and elaborates on the reasoning, adding clarification about why it's correct in this specific context."
+    },
+    {
+      "ID": 1273,
+      "Turn": 125,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to identify the 'whole,' pressing for the use of precise mathematical language or units."
+    },
+    {
+      "ID": 1275,
+      "Turn": 127,
+      "Speaker": "T",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher asks a student to repeat their answer to ensure their contribution is heard by the class."
+    },
+    {
+      "ID": 1277,
+      "Turn": 129,
+      "Speaker": "T",
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's one-word answer ('Miles') verbatim."
+    },
+    {
+      "ID": 1278,
+      "Turn": 129,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher refines the student's contribution from the plural 'Miles' to the singular 'A mile' to clarify the concept of the 'whole'."
+    },
+    {
+      "ID": 1279,
+      "Turn": 129,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher takes the student's idea ('Miles') and adds mathematical meaning by connecting it to the concept of 'the whole'."
+    },
+    {
+      "ID": 1280,
+      "Turn": 129,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1281,
+      "Turn": 129,
+      "Speaker": "T",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher checks in with a specific student to see if he is ready to proceed independently."
+    },
+    {
+      "ID": 1284,
+      "Turn": 131,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1285,
+      "Turn": 131,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1286,
+      "Turn": 131,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

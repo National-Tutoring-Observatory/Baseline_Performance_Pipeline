@@ -1,0 +1,132 @@
+{
+  "records": [
+    {
+      "ID": 24614,
+      "Turn": 88,
+      "Speaker": "T",
+      "Sentence": "In order from the",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24616,
+      "Turn": 90,
+      "Speaker": "T",
+      "Sentence": "To the",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24618,
+      "Turn": 92,
+      "Speaker": "T",
+      "Sentence": "We have one and a half to two inches two and a half inches and three inches",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24619,
+      "Turn": 92,
+      "Speaker": "T",
+      "Sentence": "This is the line plot that represents the data",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24620,
+      "Turn": 92,
+      "Speaker": "T",
+      "Sentence": "The line plot shows measurement data in Whats the interval",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to make a mathematical contribution by identifying a specific value (the interval) from the line plot."
+    },
+    {
+      "ID": 24622,
+      "Turn": 94,
+      "Speaker": "T",
+      "Sentence": "Half an inch interval",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's contribution ('Half an inch') and adds the mathematical term 'interval' to make the statement more precise."
+    },
+    {
+      "ID": 24623,
+      "Turn": 94,
+      "Speaker": "T",
+      "Sentence": "I want you to think right now what are some questions you could I want you to ask a question about this set of data",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24624,
+      "Turn": 94,
+      "Speaker": "T",
+      "Sentence": "Thats tricky isnt it",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24626,
+      "Turn": 96,
+      "Speaker": "T",
+      "Sentence": "Lets look at this line plot and lets think to ourselves What question could we ask about this set of data",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24627,
+      "Turn": 96,
+      "Speaker": "T",
+      "Sentence": "You want to start",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24630,
+      "Turn": 98,
+      "Speaker": "T",
+      "Sentence": "Thats a question you have",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24631,
+      "Turn": 98,
+      "Speaker": "T",
+      "Sentence": "Okay",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24632,
+      "Turn": 98,
+      "Speaker": "T",
+      "Sentence": "I have a question for you guys",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24633,
+      "Turn": 98,
+      "Speaker": "T",
+      "Sentence": "How many insects were measured",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to make a mathematical contribution by asking for a specific quantity that can be found in the data."
+    },
+    {
+      "ID": 24634,
+      "Turn": 98,
+      "Speaker": "T",
+      "Sentence": "Lets take partners you were just talking with",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24635,
+      "Turn": 98,
+      "Speaker": "T",
+      "Sentence": "How many insects were measured",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher repeats the question to focus students on the task of making a specific mathematical contribution from the data."
+    }
+  ]
+}

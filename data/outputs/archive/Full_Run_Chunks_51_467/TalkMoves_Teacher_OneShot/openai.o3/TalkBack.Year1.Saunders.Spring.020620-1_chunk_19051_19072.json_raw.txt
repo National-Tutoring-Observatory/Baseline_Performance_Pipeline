@@ -1,0 +1,123 @@
+{
+  "records": [
+    {
+      "ID": 19051,
+      "Speaker": "T",
+      "Turn": 1,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19052,
+      "Speaker": "T",
+      "Turn": 1,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19053,
+      "Speaker": "T",
+      "Turn": 2,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19054,
+      "Speaker": "T",
+      "Turn": 2,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19055,
+      "Speaker": "T",
+      "Turn": 2,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks students to specify precisely whether X or the whole function was modified, eliciting an exact mathematical choice."
+    },
+    {
+      "ID": 19057,
+      "Speaker": "T",
+      "Turn": 3,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "By asking the open question “What do you think?” the teacher invites the whole class to engage and signals that everyone should consider the prompt."
+    },
+    {
+      "ID": 19058,
+      "Speaker": "T",
+      "Turn": 3,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher seeks a specific description of what was done, prompting students to state the mathematical action accurately."
+    },
+    {
+      "ID": 19059,
+      "Speaker": "T",
+      "Turn": 3,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Again prompts students to name exactly what was modified, pushing for a precise mathematical statement."
+    },
+    {
+      "ID": 19061,
+      "Speaker": "T",
+      "Turn": 5,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher restates the student’s brief answer 'X' by rephrasing it as 'We modified X' to confirm and clarify the contribution."
+    },
+    {
+      "ID": 19062,
+      "Speaker": "T",
+      "Turn": 5,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19063,
+      "Speaker": "T",
+      "Turn": 5,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19064,
+      "Speaker": "T",
+      "Turn": 5,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks students to determine precisely whether X alone or the whole function is modified in the new example."
+    },
+    {
+      "ID": 19066,
+      "Speaker": "T",
+      "Turn": 7,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19067,
+      "Speaker": "T",
+      "Turn": 7,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19068,
+      "Speaker": "T",
+      "Turn": 7,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher echoes the student’s statement ('We modify the whole function') to confirm and emphasize the idea."
+    },
+    {
+      "ID": 19069,
+      "Speaker": "T",
+      "Turn": 7,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19071,
+      "Speaker": "T",
+      "Turn": 9,
+      "TalkMove": "Revoicing",
+      "Reasoning": "By saying 'Modify X, you think?', the teacher repeats the student’s suggestion while seeking confirmation."
+    }
+  ]
+}

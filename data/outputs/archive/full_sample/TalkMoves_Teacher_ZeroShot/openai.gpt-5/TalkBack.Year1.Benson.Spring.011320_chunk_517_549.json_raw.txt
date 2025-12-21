@@ -1,0 +1,124 @@
+{
+  "records": [
+    {
+      "ID": 517,
+      "Speaker": "T",
+      "Turn": 517
+    },
+    {
+      "ID": 518,
+      "Speaker": "T",
+      "Turn": 518
+    },
+    {
+      "ID": 519,
+      "Speaker": "T",
+      "Turn": 519
+    },
+    {
+      "ID": 520,
+      "Speaker": "T",
+      "Turn": 520
+    },
+    {
+      "ID": 521,
+      "Speaker": "T",
+      "Turn": 521,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher paraphrases the student's method, adding detail about multiplying by 2 and 4."
+    },
+    {
+      "ID": 522,
+      "Speaker": "T",
+      "Turn": 522
+    },
+    {
+      "ID": 523,
+      "Speaker": "T",
+      "Turn": 523,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher invites a mathematical contribution by asking who worked on a specific problem."
+    },
+    {
+      "ID": 524,
+      "Speaker": "T",
+      "Turn": 524
+    },
+    {
+      "ID": 526,
+      "Speaker": "T",
+      "Turn": 526,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to state precisely what they did."
+    },
+    {
+      "ID": 529,
+      "Speaker": "T",
+      "Turn": 529,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher restates the student's action in different words to confirm understanding."
+    },
+    {
+      "ID": 531,
+      "Speaker": "T",
+      "Turn": 531,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to explain how they obtained their result."
+    },
+    {
+      "ID": 535,
+      "Speaker": "T",
+      "Turn": 535,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher requests an explanation of the student's thinking."
+    },
+    {
+      "ID": 537,
+      "Speaker": "T",
+      "Turn": 537
+    },
+    {
+      "ID": 538,
+      "Speaker": "T",
+      "Turn": 538,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks whether a student worked on a specific mathematical case, prompting a precise response."
+    },
+    {
+      "ID": 541,
+      "Speaker": "T",
+      "Turn": 541,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to explain."
+    },
+    {
+      "ID": 543,
+      "Speaker": "T",
+      "Turn": 543,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts for the correct mathematical term for the strategy described."
+    },
+    {
+      "ID": 545,
+      "Speaker": "T",
+      "Turn": 545
+    },
+    {
+      "ID": 547,
+      "Speaker": "T",
+      "Turn": 547
+    },
+    {
+      "ID": 548,
+      "Speaker": "T",
+      "Turn": 548,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks students to name the mathematical objects, seeking precise terminology."
+    },
+    {
+      "ID": 549,
+      "Speaker": "T",
+      "Turn": 549
+    }
+  ]
+}

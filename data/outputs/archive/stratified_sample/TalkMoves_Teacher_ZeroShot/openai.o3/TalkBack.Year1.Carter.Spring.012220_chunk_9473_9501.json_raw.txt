@@ -1,0 +1,67 @@
+{
+  "records": [
+    {
+      "ID": 9490,
+      "Speaker": "T",
+      "Turn": 1
+    },
+    {
+      "ID": 9491,
+      "Speaker": "T",
+      "Turn": 1
+    },
+    {
+      "ID": 9492,
+      "Speaker": "T",
+      "Turn": 2
+    },
+    {
+      "ID": 9493,
+      "Speaker": "T",
+      "Turn": 2
+    },
+    {
+      "ID": 9494,
+      "Speaker": "T",
+      "Turn": 2,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Teacher directs students to talk with a shoulder partner, orienting them toward each other and encouraging active listening."
+    },
+    {
+      "ID": 9495,
+      "Speaker": "T",
+      "Turn": 2,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "Teacher asks students to try what their partner did, prompting them to connect to a peer’s approach."
+    },
+    {
+      "ID": 9496,
+      "Speaker": "T",
+      "Turn": 2
+    },
+    {
+      "ID": 9497,
+      "Speaker": "T",
+      "Turn": 2,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher prompts the class to read the number aloud, requiring correct mathematical language."
+    },
+    {
+      "ID": 9499,
+      "Speaker": "T",
+      "Turn": 3,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher tells students to ‘break it in parts,’ prompting them to produce the expanded form accurately."
+    },
+    {
+      "ID": 9500,
+      "Speaker": "T",
+      "Turn": 4
+    },
+    {
+      "ID": 9501,
+      "Speaker": "T",
+      "Turn": 4
+    }
+  ]
+}

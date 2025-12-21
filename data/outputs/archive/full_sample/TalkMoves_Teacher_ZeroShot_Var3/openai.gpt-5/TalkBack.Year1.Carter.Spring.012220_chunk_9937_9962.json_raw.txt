@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 9937,
+      "Speaker": "T",
+      "Turn": 9937,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 9938,
+      "Speaker": "T",
+      "Turn": 9938,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's answer ('five') with slight added wording to share it with the class."
+    },
+    {
+      "ID": 9939,
+      "Speaker": "T",
+      "Turn": 9939,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks Eli to explain how he arrived at the answer."
+    },
+    {
+      "ID": 9943,
+      "Speaker": "T",
+      "Turn": 9943,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 9944,
+      "Speaker": "T",
+      "Turn": 9944,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts consideration of using division, invoking mathematical language and method."
+    },
+    {
+      "ID": 9946,
+      "Speaker": "T",
+      "Turn": 9946,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 9947,
+      "Speaker": "T",
+      "Turn": 9947,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks a student who used division to explain their thinking."
+    },
+    {
+      "ID": 9949,
+      "Speaker": "T",
+      "Turn": 9949,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 9950,
+      "Speaker": "T",
+      "Turn": 9950,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 9951,
+      "Speaker": "T",
+      "Turn": 9951,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 9952,
+      "Speaker": "T",
+      "Turn": 9952,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the value (computational result) of seven-tenths of the quantity."
+    },
+    {
+      "ID": 9953,
+      "Speaker": "T",
+      "Turn": 9953,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 9954,
+      "Speaker": "T",
+      "Turn": 9954,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher directs students to discuss with a partner why the answer is 35, prompting justification."
+    },
+    {
+      "ID": 9955,
+      "Speaker": "T",
+      "Turn": 9955,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 9956,
+      "Speaker": "T",
+      "Turn": 9956,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 9957,
+      "Speaker": "T",
+      "Turn": 9957,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 9959,
+      "Speaker": "T",
+      "Turn": 9959,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher orients a student back to attending to the class discussion."
+    },
+    {
+      "ID": 9960,
+      "Speaker": "T",
+      "Turn": 9960,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 9961,
+      "Speaker": "T",
+      "Turn": 9961,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to describe the process, prompting explanation of steps."
+    },
+    {
+      "ID": 9962,
+      "Speaker": "T",
+      "Turn": 9962,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks for the steps to directly find seven-tenths of 50, prompting explanation of method."
+    }
+  ]
+}

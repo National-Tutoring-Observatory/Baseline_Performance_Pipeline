@@ -1,0 +1,102 @@
+{
+  "records": [
+    {
+      "ID": 1959,
+      "Speaker": "T",
+      "Turn": 46,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks how students are finding the cost, prompting them to explain their method."
+    },
+    {
+      "ID": 1960,
+      "Speaker": "T",
+      "Turn": 46,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher requests the specific math done, prompting use of mathematical steps or language."
+    },
+    {
+      "ID": 1961,
+      "Speaker": "T",
+      "Turn": 46,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks Landon what math he did to determine the cost, eliciting a mathematical contribution."
+    },
+    {
+      "ID": 1964,
+      "Speaker": "T",
+      "Turn": 48,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks where the two numbers came from, prompting justification of the choice of values."
+    },
+    {
+      "ID": 1967,
+      "Speaker": "T",
+      "Turn": 50,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks why he multiplied by 3, requesting the reasoning behind that step."
+    },
+    {
+      "ID": 1969,
+      "Speaker": "T",
+      "Turn": 52,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1970,
+      "Speaker": "T",
+      "Turn": 52,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1971,
+      "Speaker": "T",
+      "Turn": 52,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1972,
+      "Speaker": "T",
+      "Turn": 52,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1974,
+      "Speaker": "T",
+      "Turn": 54,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1975,
+      "Speaker": "T",
+      "Turn": 54,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher paraphrases Landon’s method, repeating his idea with added clarification."
+    },
+    {
+      "ID": 1976,
+      "Speaker": "T",
+      "Turn": 54,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher restates the next step in Landon’s solution, summarizing with modified wording."
+    },
+    {
+      "ID": 1977,
+      "Speaker": "T",
+      "Turn": 54,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher invites others to share different approaches in response to Landon’s method."
+    },
+    {
+      "ID": 1978,
+      "Speaker": "T",
+      "Turn": 54,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks Grady how he did his, eliciting an explanation of his method."
+    }
+  ]
+}

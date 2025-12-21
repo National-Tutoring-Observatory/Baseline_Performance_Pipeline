@@ -1,0 +1,242 @@
+{
+  "records": [
+    {
+      "ID": 21975,
+      "Speaker": "T",
+      "Turn": 158,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's mathematical result but changes the wording from 'get you' to 'I've got a'."
+    },
+    {
+      "ID": 21976,
+      "Speaker": "T",
+      "Turn": 158,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21978,
+      "Speaker": "T",
+      "Turn": 160,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's suggested action ('Divide by two') and adds a clarification of its effect ('that gets rid of that')."
+    },
+    {
+      "ID": 21980,
+      "Speaker": "T",
+      "Turn": 162,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases the student's procedural description using more formal mathematical language ('isolate the radical')."
+    },
+    {
+      "ID": 21981,
+      "Speaker": "T",
+      "Turn": 162,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to explain the process required to achieve a goal, prompting them to share their thinking."
+    },
+    {
+      "ID": 21982,
+      "Speaker": "T",
+      "Turn": 162,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21983,
+      "Speaker": "T",
+      "Turn": 162,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21984,
+      "Speaker": "T",
+      "Turn": 162,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21985,
+      "Speaker": "T",
+      "Turn": 162,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21986,
+      "Speaker": "T",
+      "Turn": 162,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to be careful with their mathematical notation to ensure it is written correctly."
+    },
+    {
+      "ID": 21987,
+      "Speaker": "T",
+      "Turn": 162,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21988,
+      "Speaker": "T",
+      "Turn": 162,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21989,
+      "Speaker": "T",
+      "Turn": 162,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a student to provide the next step in the mathematical procedure."
+    },
+    {
+      "ID": 21991,
+      "Speaker": "T",
+      "Turn": 166,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21992,
+      "Speaker": "T",
+      "Turn": 166,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's implied answer ('square both sides') and adds the mathematical result."
+    },
+    {
+      "ID": 21993,
+      "Speaker": "T",
+      "Turn": 166,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21994,
+      "Speaker": "T",
+      "Turn": 166,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21995,
+      "Speaker": "T",
+      "Turn": 166,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21996,
+      "Speaker": "T",
+      "Turn": 166,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to provide the next step in the mathematical process."
+    },
+    {
+      "ID": 21998,
+      "Speaker": "T",
+      "Turn": 168,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher confirms the student's idea ('factor') and then elaborates on what that step entails."
+    },
+    {
+      "ID": 21999,
+      "Speaker": "T",
+      "Turn": 168,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to make a strategic choice between two options, prompting them to think about the decision."
+    },
+    {
+      "ID": 22001,
+      "Speaker": "T",
+      "Turn": 170,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher explicitly asks 'Why' to prompt a student to provide the reasoning behind their strategic choice."
+    },
+    {
+      "ID": 22003,
+      "Speaker": "T",
+      "Turn": 172,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher confirms the student's reasoning and rephrases it slightly ('have a positive one with the x2')."
+    },
+    {
+      "ID": 22004,
+      "Speaker": "T",
+      "Turn": 172,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22005,
+      "Speaker": "T",
+      "Turn": 172,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a direct question that requires a specific mathematical contribution."
+    },
+    {
+      "ID": 22007,
+      "Speaker": "T",
+      "Turn": 174,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to provide the specific mathematical answer after the student confirmed one exists."
+    },
+    {
+      "ID": 22009,
+      "Speaker": "T",
+      "Turn": 176,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22010,
+      "Speaker": "T",
+      "Turn": 176,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22011,
+      "Speaker": "T",
+      "Turn": 176,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22012,
+      "Speaker": "T",
+      "Turn": 176,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22013,
+      "Speaker": "T",
+      "Turn": 176,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22014,
+      "Speaker": "T",
+      "Turn": 176,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22015,
+      "Speaker": "T",
+      "Turn": 176,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22016,
+      "Speaker": "T",
+      "Turn": 176,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

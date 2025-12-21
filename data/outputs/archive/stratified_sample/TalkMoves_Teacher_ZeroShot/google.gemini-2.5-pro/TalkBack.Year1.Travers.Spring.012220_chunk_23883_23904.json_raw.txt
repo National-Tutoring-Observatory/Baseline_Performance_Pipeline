@@ -1,0 +1,108 @@
+{
+  "records": [
+    {
+      "ID": 23883,
+      "Turn": 103,
+      "Speaker": "T",
+      "Sentence": "Thank you my dear",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23884,
+      "Turn": 103,
+      "Speaker": "T",
+      "Sentence": "Jayden would you stay standing for me",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23885,
+      "Turn": 103,
+      "Speaker": "T",
+      "Sentence": "Im so excited fifth graders to show you all this different thinking because I will tell you there are so many ways to think about fraction of problems",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23886,
+      "Turn": 103,
+      "Speaker": "T",
+      "Sentence": "What way I think about it might be different than how some of you think about it",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23887,
+      "Turn": 103,
+      "Speaker": "T",
+      "Sentence": "Jayden would you start as our first teacher to share how did you think about what is one fifth of 15",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks a student to share their thinking process ('how did you think about...') for solving the problem."
+    },
+    {
+      "ID": 23890,
+      "Turn": 105,
+      "Speaker": "T",
+      "Sentence": "Fifth graders I would like for you to use our math language chart and talk to Jayden about how he thought",
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher directs the class to engage with and discuss the thinking of a specific student (Jayden)."
+    },
+    {
+      "ID": 23891,
+      "Turn": 105,
+      "Speaker": "T",
+      "Sentence": "Jayden call on someone",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23894,
+      "Turn": 108,
+      "Speaker": "T",
+      "Sentence": "Was your thinking similar",
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher prompts a student to compare their own thinking process with that of a classmate who just presented."
+    },
+    {
+      "ID": 23900,
+      "Turn": 110,
+      "Speaker": "T",
+      "Sentence": "Please give Jayden a golf clap",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23901,
+      "Turn": 111,
+      "Speaker": "T",
+      "Sentence": "Excellent",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23902,
+      "Turn": 111,
+      "Speaker": "T",
+      "Sentence": "Who else",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23903,
+      "Turn": 111,
+      "Speaker": "T",
+      "Sentence": "Ryan your turn next",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23904,
+      "Turn": 111,
+      "Speaker": "T",
+      "Sentence": "Go on down",
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

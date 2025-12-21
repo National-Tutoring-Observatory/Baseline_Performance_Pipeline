@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 237,
+      "Speaker": "T",
+      "Turn": 237,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks the class to evaluate the correctness of a student's work ('did she actually do it right')."
+    },
+    {
+      "ID": 239,
+      "Speaker": "T",
+      "Turn": 239,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 240,
+      "Speaker": "T",
+      "Turn": 240,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 241,
+      "Speaker": "T",
+      "Turn": 241,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher explains the student's process, connecting the action of adding zeros to the correctness of the result, effectively modeling the reasoning for the class."
+    },
+    {
+      "ID": 242,
+      "Speaker": "T",
+      "Turn": 242,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a specific mathematical question about the number of zeros in the problem."
+    },
+    {
+      "ID": 244,
+      "Speaker": "T",
+      "Turn": 244,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher explains the mathematical logic behind the zeros (8x3=24, plus extra 10s), connecting the calculation to the place value structure."
+    },
+    {
+      "ID": 245,
+      "Speaker": "T",
+      "Turn": 245,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher draws the whole class's attention to a common error ('Every single person except for You missed that'), orienting them to the shared learning experience."
+    },
+    {
+      "ID": 246,
+      "Speaker": "T",
+      "Turn": 246,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 247,
+      "Speaker": "T",
+      "Turn": 247,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 248,
+      "Speaker": "T",
+      "Turn": 248,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts students to compare two values (2400 vs 240) to understand the magnitude of the difference caused by the error."
+    },
+    {
+      "ID": 250,
+      "Speaker": "T",
+      "Turn": 250,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher explains the consequence of the error on the final product, connecting the procedural step to the final outcome."
+    },
+    {
+      "ID": 251,
+      "Speaker": "T",
+      "Turn": 251,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 252,
+      "Speaker": "T",
+      "Turn": 252,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 253,
+      "Speaker": "T",
+      "Turn": 253,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 254,
+      "Speaker": "T",
+      "Turn": 254,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 256,
+      "Speaker": "T",
+      "Turn": 256,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 258,
+      "Speaker": "T",
+      "Turn": 258,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 259,
+      "Speaker": "T",
+      "Turn": 259,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 260,
+      "Speaker": "T",
+      "Turn": 260,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 263,
+      "Speaker": "T",
+      "Turn": 263,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks a rhetorical question prompting students to compare the magnitude of two numbers to highlight the significance of accuracy."
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "records": [
+    {
+      "ID": 1911,
+      "Speaker": "T",
+      "Turn": 14,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks Conrad to state the answer he obtained, prompting a specific mathematical contribution."
+    },
+    {
+      "ID": 1913,
+      "Speaker": "T",
+      "Turn": 16,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher seeks to know if anyone wrote a particular numerical representation (\"03\"), requesting an exact mathematical answer."
+    },
+    {
+      "ID": 1914,
+      "Speaker": "T",
+      "Turn": 16,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1916,
+      "Speaker": "T",
+      "Turn": 18,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1918,
+      "Speaker": "T",
+      "Turn": 20,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher restates the student’s clarification ('Conrad was right') to ensure shared understanding."
+    },
+    {
+      "ID": 1919,
+      "Speaker": "T",
+      "Turn": 20,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1920,
+      "Speaker": "T",
+      "Turn": 20,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks Ruth to state what she wrote, requesting her exact numerical answer."
+    },
+    {
+      "ID": 1922,
+      "Speaker": "T",
+      "Turn": 22,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1923,
+      "Speaker": "T",
+      "Turn": 22,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher calls on Charlie to share the precise number he wrote."
+    },
+    {
+      "ID": 1925,
+      "Speaker": "T",
+      "Turn": 24,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats Charlie’s response ('You wrote nine hundredths') to confirm and clarify it for the class."
+    },
+    {
+      "ID": 1927,
+      "Speaker": "T",
+      "Turn": 26,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher restates the student’s answer ('0 19') while checking its accuracy."
+    },
+    {
+      "ID": 1929,
+      "Speaker": "T",
+      "Turn": 28,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the exact word the student omitted, prompting precise clarification."
+    },
+    {
+      "ID": 1931,
+      "Speaker": "T",
+      "Turn": 30,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student’s clarification ('Without this one') to confirm understanding."
+    },
+    {
+      "ID": 1933,
+      "Speaker": "T",
+      "Turn": 32,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher restates the student’s written number ('You wrote 109') to verify it with the student."
+    },
+    {
+      "ID": 1934,
+      "Speaker": "T",
+      "Turn": 32,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks, 'How can we fix this?' prompting students to explain how to correct the mathematical error."
+    },
+    {
+      "ID": 1935,
+      "Speaker": "T",
+      "Turn": 32,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1937,
+      "Speaker": "T",
+      "Turn": 34,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks if the student sees where the mistake was, prompting reflection on their reasoning."
+    },
+    {
+      "ID": 1938,
+      "Speaker": "T",
+      "Turn": 34,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

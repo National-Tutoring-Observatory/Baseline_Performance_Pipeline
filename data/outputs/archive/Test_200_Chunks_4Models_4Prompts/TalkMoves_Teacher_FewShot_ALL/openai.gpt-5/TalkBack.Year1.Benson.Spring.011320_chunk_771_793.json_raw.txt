@@ -1,0 +1,116 @@
+{
+  "records": [
+    {
+      "ID": 771,
+      "Speaker": "T",
+      "Turn": 185,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 772,
+      "Speaker": "T",
+      "Turn": 185,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 773,
+      "Speaker": "T",
+      "Turn": 186,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the value of the whole given that light green is one fourth, prompting a specific mathematical answer."
+    },
+    {
+      "ID": 774,
+      "Speaker": "T",
+      "Turn": 186,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts for the number of parts needed to make the whole, seeking a precise mathematical quantity."
+    },
+    {
+      "ID": 776,
+      "Speaker": "T",
+      "Turn": 188,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's point about the numerator being one and adds explanation about the denominator."
+    },
+    {
+      "ID": 778,
+      "Speaker": "T",
+      "Turn": 190,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher restates the student's 'Four' with added wording ('of them'), maintaining the idea while changing phrasing."
+    },
+    {
+      "ID": 779,
+      "Speaker": "T",
+      "Turn": 190,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the exact number of light greens to take out, prompting a specific numerical response."
+    },
+    {
+      "ID": 781,
+      "Speaker": "T",
+      "Turn": 192,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's answer 'Four' verbatim."
+    },
+    {
+      "ID": 782,
+      "Speaker": "T",
+      "Turn": 192,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to explain what was just demonstrated, prompting description of the representation."
+    },
+    {
+      "ID": 783,
+      "Speaker": "T",
+      "Turn": 192,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks what was added together, prompting the student to connect parts of the representation."
+    },
+    {
+      "ID": 785,
+      "Speaker": "T",
+      "Turn": 194,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 786,
+      "Speaker": "T",
+      "Turn": 194,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 787,
+      "Speaker": "T",
+      "Turn": 194,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the value of a specific piece, soliciting a precise mathematical identification."
+    },
+    {
+      "ID": 789,
+      "Speaker": "T",
+      "Turn": 196,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "By prompting 'Onefourth plus', the teacher cues the student to supply the next term in a mathematical expression."
+    },
+    {
+      "ID": 791,
+      "Speaker": "T",
+      "Turn": 198,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher checks whether the representation forms a whole, seeking a correct yes/no determination."
+    },
+    {
+      "ID": 792,
+      "Speaker": "T",
+      "Turn": 198,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the exact value of the expression, prompting a specific mathematical statement."
+    }
+  ]
+}

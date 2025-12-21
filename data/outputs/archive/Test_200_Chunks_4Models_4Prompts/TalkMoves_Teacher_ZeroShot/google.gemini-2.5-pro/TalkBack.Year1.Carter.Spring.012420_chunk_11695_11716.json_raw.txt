@@ -1,0 +1,127 @@
+{
+  "records": [
+    {
+      "ID": 11695,
+      "Speaker": "T",
+      "Turn": 239,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases the mathematical task ('2/3 of the half') to focus the students' attention on the next step of the problem."
+    },
+    {
+      "ID": 11696,
+      "Speaker": "T",
+      "Turn": 239,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to consider whether a previous method is appropriate for the current step, prompting them to think about the reasoning behind their procedure."
+    },
+    {
+      "ID": 11697,
+      "Speaker": "S",
+      "Turn": 240,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11698,
+      "Speaker": "T",
+      "Turn": 241,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's one-word answer verbatim."
+    },
+    {
+      "ID": 11699,
+      "Speaker": "T",
+      "Turn": 241,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher explicitly asks for the reason behind the 'No' answer, prompting students to explain their thinking."
+    },
+    {
+      "ID": 11700,
+      "Speaker": "S",
+      "Turn": 242,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11701,
+      "Speaker": "T",
+      "Turn": 243,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for a specific number of parts, pressing students to be precise in their mathematical representation of the fraction."
+    },
+    {
+      "ID": 11702,
+      "Speaker": "T",
+      "Turn": 243,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11703,
+      "Speaker": "T",
+      "Turn": 243,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher verbalizes a student's action or idea ('Two folded into three'), possibly an incorrect one, to make it a public object for discussion and clarification."
+    },
+    {
+      "ID": 11704,
+      "Speaker": "T",
+      "Turn": 243,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher clarifies the correct procedure, emphasizing the need for 'three equal parts' to ensure an accurate mathematical representation."
+    },
+    {
+      "ID": 11705,
+      "Speaker": "T",
+      "Turn": 244,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher repeats the key phrase 'equal parts' to emphasize a critical component of an accurate fractional representation."
+    },
+    {
+      "ID": 11706,
+      "Speaker": "T",
+      "Turn": 245,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11707,
+      "Speaker": "T",
+      "Turn": 245,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11708,
+      "Speaker": "T",
+      "Turn": 245,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11709,
+      "Speaker": "T",
+      "Turn": 245,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11710,
+      "Speaker": "T",
+      "Turn": 245,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11711,
+      "Speaker": "T",
+      "Turn": 245,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases the problem's context to guide students' actions, ensuring they understand what they are supposed to be representing."
+    },
+    {
+      "ID": 11712,
+      "Speaker": "T",
+      "Turn": 245,
+      "TalkMove": "Pressing for Accuracy",
+      

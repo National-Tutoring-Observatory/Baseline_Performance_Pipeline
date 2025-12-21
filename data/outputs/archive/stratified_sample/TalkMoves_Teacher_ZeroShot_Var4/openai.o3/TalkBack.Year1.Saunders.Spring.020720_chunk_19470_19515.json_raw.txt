@@ -1,0 +1,263 @@
+{
+  "records": [
+    {
+      "ID": 19470,
+      "Speaker": "T",
+      "Turn": 36,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19471,
+      "Speaker": "T",
+      "Turn": 36,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19472,
+      "Speaker": "T",
+      "Turn": 36,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19473,
+      "Speaker": "T",
+      "Turn": 36,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19474,
+      "Speaker": "T",
+      "Turn": 36,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19475,
+      "Speaker": "T",
+      "Turn": 36,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19476,
+      "Speaker": "T",
+      "Turn": 36,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19477,
+      "Speaker": "T",
+      "Turn": 36,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19478,
+      "Speaker": "T",
+      "Turn": 36,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks a student to read the exact title, prompting the student to provide the precise wording from the text."
+    },
+    {
+      "ID": 19479,
+      "Speaker": "T",
+      "Turn": 36,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19481,
+      "Speaker": "T",
+      "Turn": 37,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher requests the student to read the function exactly, asking for a specific mathematical statement."
+    },
+    {
+      "ID": 19483,
+      "Speaker": "T",
+      "Turn": 39,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19484,
+      "Speaker": "T",
+      "Turn": 40,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19485,
+      "Speaker": "T",
+      "Turn": 41,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19487,
+      "Speaker": "T",
+      "Turn": 43,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19489,
+      "Speaker": "T",
+      "Turn": 45,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19490,
+      "Speaker": "T",
+      "Turn": 45,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks students to state the exact x-intercepts, requesting specific mathematical information."
+    },
+    {
+      "ID": 19492,
+      "Speaker": "T",
+      "Turn": 47,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Prompts student to describe what occurs at x = 2, seeking an explanation of the graph’s behavior."
+    },
+    {
+      "ID": 19493,
+      "Speaker": "T",
+      "Turn": 47,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Repeats the question to elicit an explanation of the phenomenon at x = 2."
+    },
+    {
+      "ID": 19495,
+      "Speaker": "T",
+      "Turn": 49,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher restates the student’s idea ('It starts increasing') and elaborates ('so it goes from decreasing to increasing')."
+    },
+    {
+      "ID": 19496,
+      "Speaker": "T",
+      "Turn": 49,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Invites another student to add further explanation, prompting additional reasoning."
+    },
+    {
+      "ID": 19497,
+      "Speaker": "T",
+      "Turn": 49,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Again asks what happens at x = 2, eliciting explanation of the graph’s behavior."
+    },
+    {
+      "ID": 19499,
+      "Speaker": "T",
+      "Turn": 51,
+      "TalkMove": "Restating",
+      "Reasoning": "Teacher repeats the student’s statement verbatim: 'The graph will get thinner.'"
+    },
+    {
+      "ID": 19500,
+      "Speaker": "T",
+      "Turn": 51,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19502,
+      "Speaker": "T",
+      "Turn": 53,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher echoes the student’s answer ('It hits a local minimum') and adds clarification ('and it’s a turning point')."
+    },
+    {
+      "ID": 19503,
+      "Speaker": "T",
+      "Turn": 53,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Asks for additional properties that are true, encouraging students to elaborate on their reasoning."
+    },
+    {
+      "ID": 19504,
+      "Speaker": "T",
+      "Turn": 53,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Requests students to describe what is happening at the indicated point, prompting explanation."
+    },
+    {
+      "ID": 19506,
+      "Speaker": "T",
+      "Turn": 55,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher rephrases a previously introduced student idea ('it’s bouncing') and connects it to the formal term 'multiplicity.'"
+    },
+    {
+      "ID": 19507,
+      "Speaker": "T",
+      "Turn": 55,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Directs teams to discuss the meaning of multiplicity, prompting them to articulate and justify the concept."
+    },
+    {
+      "ID": 19508,
+      "Speaker": "T",
+      "Turn": 56,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Asks what there are multiples of, seeking students’ explanation of the term multiplicity."
+    },
+    {
+      "ID": 19509,
+      "Speaker": "T",
+      "Turn": 56,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19510,
+      "Speaker": "T",
+      "Turn": 56,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19511,
+      "Speaker": "T",
+      "Turn": 56,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19512,
+      "Speaker": "T",
+      "Turn": 56,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19513,
+      "Speaker": "T",
+      "Turn": 56,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19514,
+      "Speaker": "T",
+      "Turn": 56,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19515,
+      "Speaker": "T",
+      "Turn": 56,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Asks students to explain what happens when the multiplicity is an even number, prompting conceptual reasoning."
+    }
+  ]
+}

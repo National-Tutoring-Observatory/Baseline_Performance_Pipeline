@@ -1,0 +1,130 @@
+{
+  "records": [
+    {
+      "ID": 8785,
+      "Speaker": "T",
+      "Turn": 148,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the first item in order, prompting a specific mathematical contribution."
+    },
+    {
+      "ID": 8786,
+      "Speaker": "T",
+      "Turn": 148,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8787,
+      "Speaker": "T",
+      "Turn": 148,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8788,
+      "Speaker": "T",
+      "Turn": 148,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher poses a yes/no mathematical claim about 1 being a factor of every number."
+    },
+    {
+      "ID": 8790,
+      "Speaker": "T",
+      "Turn": 150,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8791,
+      "Speaker": "T",
+      "Turn": 150,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the next number, eliciting a concrete mathematical contribution."
+    },
+    {
+      "ID": 8792,
+      "Speaker": "T",
+      "Turn": 150,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks how students know 2 is next, prompting justification."
+    },
+    {
+      "ID": 8793,
+      "Speaker": "T",
+      "Turn": 150,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "A follow-up request for how they know, asking for explanation."
+    },
+    {
+      "ID": 8794,
+      "Speaker": "T",
+      "Turn": 150,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Encourages students to think about their reasoning."
+    },
+    {
+      "ID": 8795,
+      "Speaker": "T",
+      "Turn": 150,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Directs students to talk with partners and assigns roles, orienting them to each other."
+    },
+    {
+      "ID": 8796,
+      "Speaker": "T",
+      "Turn": 150,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8798,
+      "Speaker": "T",
+      "Turn": 152,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8799,
+      "Speaker": "T",
+      "Turn": 152,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8800,
+      "Speaker": "T",
+      "Turn": 152,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Requests evidence that 2 is a factor of 36."
+    },
+    {
+      "ID": 8801,
+      "Speaker": "T",
+      "Turn": 152,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8803,
+      "Speaker": "T",
+      "Turn": 154,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "References a classmate’s prior contribution to orient the class to each other's ideas."
+    },
+    {
+      "ID": 8804,
+      "Speaker": "T",
+      "Turn": 154,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "Invites students to provide a different explanation in response to a peer’s idea."
+    },
+    {
+      "ID": 8805,
+      "Speaker": "T",
+      "Turn": 154,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 2538,
+      "Turn": 16,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2540,
+      "Turn": 18,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2541,
+      "Turn": 18,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2543,
+      "Turn": 20,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to reconsider their incorrect answer by focusing on a specific mathematical detail (the number of zeros)."
+    },
+    {
+      "ID": 2545,
+      "Turn": 22,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher repeats the student's correct sub-step ('Two') and adds 'so' to prompt the student to use that information to revise their final answer."
+    },
+    {
+      "ID": 2547,
+      "Turn": 24,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2548,
+      "Turn": 24,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2549,
+      "Turn": 24,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2551,
+      "Turn": 26,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2552,
+      "Turn": 26,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2553,
+      "Turn": 26,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2555,
+      "Turn": 28,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher redirects the student to provide a specific mathematical representation (the equation) as requested, rather than their process."
+    },
+    {
+      "ID": 2557,
+      "Turn": 30,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2558,
+      "Turn": 30,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher points out a specific requirement from the directions (using a variable) that the student missed, pressing for a more accurate mathematical contribution."
+    },
+    {
+      "ID": 2559,
+      "Turn": 30,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Following up on the previous statement, the teacher prompts the student to select a variable to correct their equation."
+    },
+    {
+      "ID": 2561,
+      "Turn": 32,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2562,
+      "Turn": 32,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks the student to clarify the specific mathematical notation they used, pressing for precision in their representation."
+    },
+    {
+      "ID": 2564,
+      "Turn": 34,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2565,
+      "Turn": 34,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2566,
+      "Turn": 34,
+      "Speaker": "T",
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher asks the rest of the class to compare their own approach to the one just discussed, prompting them to relate their ideas to a classmate's."
+    }
+  ]
+}

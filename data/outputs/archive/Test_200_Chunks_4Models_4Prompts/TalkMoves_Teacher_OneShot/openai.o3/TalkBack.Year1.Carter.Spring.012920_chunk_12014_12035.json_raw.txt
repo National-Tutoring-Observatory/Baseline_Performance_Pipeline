@@ -1,0 +1,137 @@
+{
+  "records": [
+    {
+      "ID": 12014,
+      "Speaker": "T",
+      "Turn": 79,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to analyze, prompting them to think deeply and explain their understanding."
+    },
+    {
+      "ID": 12015,
+      "Speaker": "T",
+      "Turn": 80,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher checks whether the rule works in all instances, focusing on mathematical correctness."
+    },
+    {
+      "ID": 12017,
+      "Speaker": "T",
+      "Turn": 82,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12018,
+      "Speaker": "T",
+      "Turn": 82,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12019,
+      "Speaker": "T",
+      "Turn": 82,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12020,
+      "Speaker": "T",
+      "Turn": 82,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12021,
+      "Speaker": "T",
+      "Turn": 82,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12022,
+      "Speaker": "T",
+      "Turn": 82,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12023,
+      "Speaker": "T",
+      "Turn": 82,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12024,
+      "Speaker": "T",
+      "Turn": 82,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12026,
+      "Speaker": "T",
+      "Turn": 84,
+      "TalkMove": "Restating",
+      "Reasoning": "Teacher repeats the student’s contribution (“Denominator”) word-for-word."
+    },
+    {
+      "ID": 12027,
+      "Speaker": "T",
+      "Turn": 84,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12028,
+      "Speaker": "T",
+      "Turn": 84,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12030,
+      "Speaker": "T",
+      "Turn": 86,
+      "TalkMove": "Restating",
+      "Reasoning": "Teacher restates the student’s word (“Algorithm”) exactly."
+    },
+    {
+      "ID": 12031,
+      "Speaker": "T",
+      "Turn": 86,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12032,
+      "Speaker": "T",
+      "Turn": 86,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12033,
+      "Speaker": "T",
+      "Turn": 86,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks whether a common denominator is needed, focusing students on precise mathematical requirements."
+    },
+    {
+      "ID": 12034,
+      "Speaker": "T",
+      "Turn": 86,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Again checks if the rule involves a common denominator, probing for correct mathematical application."
+    },
+    {
+      "ID": 12035,
+      "Speaker": "T",
+      "Turn": 86,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

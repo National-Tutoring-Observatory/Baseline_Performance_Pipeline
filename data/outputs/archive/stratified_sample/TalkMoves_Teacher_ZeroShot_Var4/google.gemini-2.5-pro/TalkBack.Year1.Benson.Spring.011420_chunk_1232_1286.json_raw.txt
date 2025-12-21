@@ -1,0 +1,256 @@
+{
+  "records": [
+    {
+      "ID": 1232,
+      "Turn": 102,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1233,
+      "Turn": 102,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1235,
+      "Turn": 104,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1236,
+      "Turn": 104,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1238,
+      "Turn": 106,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1239,
+      "Turn": 106,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1241,
+      "Turn": 108,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1242,
+      "Turn": 108,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1243,
+      "Turn": 108,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1247,
+      "Turn": 110,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1248,
+      "Turn": 110,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1250,
+      "Turn": 112,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's answer ('78') and adds 'right?' to re-present it to the class for confirmation."
+    },
+    {
+      "ID": 1251,
+      "Turn": 112,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1252,
+      "Turn": 112,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1253,
+      "Turn": 112,
+      "Speaker": "T",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher orients a specific student (Eric) to the current step in the problem-solving process to ensure he is following along."
+    },
+    {
+      "ID": 1255,
+      "Turn": 114,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts students to explain their thinking on how to solve the problem."
+    },
+    {
+      "ID": 1256,
+      "Turn": 114,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts a student to provide evidence from the problem to help figure out the solution."
+    },
+    {
+      "ID": 1259,
+      "Turn": 116,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to be more careful in their reading to ensure their contribution is accurate."
+    },
+    {
+      "ID": 1260,
+      "Turn": 116,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to correct their inaccurate reading of the problem text."
+    },
+    {
+      "ID": 1262,
+      "Turn": 118,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher summarizes and synthesizes information that students have contributed about the problem."
+    },
+    {
+      "ID": 1263,
+      "Turn": 118,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to make a decision about the correct mathematical operation, which is a key step in their reasoning."
+    },
+    {
+      "ID": 1266,
+      "Turn": 121,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1268,
+      "Turn": 123,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks a student to explain the thinking behind their answer ('why are we going to add')."
+    },
+    {
+      "ID": 1270,
+      "Turn": 125,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1271,
+      "Turn": 125,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1272,
+      "Turn": 125,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's idea ('Youre going to add') and adds clarification, validating the student's contribution."
+    },
+    {
+      "ID": 1273,
+      "Turn": 125,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to identify a specific mathematical component of the problem ('the whole')."
+    },
+    {
+      "ID": 1275,
+      "Turn": 127,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1277,
+      "Turn": 129,
+      "Speaker": "T",
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's answer ('Miles') word for word."
+    },
+    {
+      "ID": 1278,
+      "Turn": 129,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's idea ('Miles') but changes the wording to 'A mile' to make it more specific."
+    },
+    {
+      "ID": 1279,
+      "Turn": 129,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher takes the student's idea ('mile') and adds mathematical language to it by connecting it to the concept of 'the whole'."
+    },
+    {
+      "ID": 1280,
+      "Turn": 129,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1281,
+      "Turn": 129,
+      "Speaker": "T",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher checks in with a specific student (Beckett) to ensure he is following along and ready to proceed."
+    },
+    {
+      "ID": 1284,
+      "Turn": 131,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1285,
+      "Turn": 131,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1286,
+      "Turn": 131,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

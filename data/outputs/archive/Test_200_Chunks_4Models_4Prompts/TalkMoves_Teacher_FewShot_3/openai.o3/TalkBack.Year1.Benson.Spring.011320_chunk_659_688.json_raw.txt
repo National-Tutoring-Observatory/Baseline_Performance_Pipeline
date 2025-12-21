@@ -1,0 +1,29 @@
+{
+  "labels": [
+    {"ID": 659, "TalkMove": "None"},
+    {"ID": 660, "TalkMove": "None"},
+    {"ID": 661, "TalkMove": "None"},
+    {"ID": 662, "TalkMove": "None"},
+    {"ID": 663, "TalkMove": "None"},
+    {"ID": 664, "TalkMove": "None"},
+    {"ID": 665, "TalkMove": "None"},
+    {"ID": 667, "TalkMove": "Restating", "Reasoning": "The teacher repeats the student’s words (“The tenths”) exactly, restating the contribution for the class."},
+    {"ID": 668, "TalkMove": "None"},
+    {"ID": 670, "TalkMove": "None"},
+    {"ID": 671, "TalkMove": "Keeping Everyone Together", "Reasoning": "Teacher checks that all students have the required purple pieces, ensuring the whole class is prepared to continue."},
+    {"ID": 673, "TalkMove": "Pressing for Accuracy", "Reasoning": "Teacher asks for the exact number of quarter-pieces needed to make a whole, prompting a precise mathematical response."},
+    {"ID": 674, "TalkMove": "Keeping Everyone Together", "Reasoning": "Asking students to “Show me on your fingers” invites every student to participate simultaneously and stay engaged."},
+    {"ID": 675, "TalkMove": "None"},
+    {"ID": 676, "TalkMove": "None"},
+    {"ID": 677, "TalkMove": "Pressing for Accuracy", "Reasoning": "Teacher asks whether the new fraction piece is more or less than the previous one, requesting a correct comparative statement."},
+    {"ID": 679, "TalkMove": "Pressing for Reasoning", "Reasoning": "Teacher follows up with “why is it less,” explicitly prompting students to justify their answer."},
+    {"ID": 680, "TalkMove": "Pressing for Reasoning", "Reasoning": "Teacher directs a student to explain why 1/4 is less than 1/3, asking for the reasoning behind the claim."},
+    {"ID": 682, "TalkMove": "Revoicing", "Reasoning": "Teacher rephrases and elaborates on the student’s idea, clarifying that space is missing and the pieces are not equal."},
+    {"ID": 683, "TalkMove": "None"},
+    {"ID": 684, "TalkMove": "Pressing for Accuracy", "Reasoning": "Teacher asks, “What would the whole be?” seeking a precise identification of the piece representing the whole."},
+    {"ID": 685, "TalkMove": "Pressing for Accuracy", "Reasoning": "Teacher further probes which piece would complete the whole, continuing to solicit an exact mathematical response."},
+    {"ID": 686, "TalkMove": "None"},
+    {"ID": 687, "TalkMove": "None"},
+    {"ID": 688, "TalkMove": "Pressing for Accuracy", "Reasoning": "Teacher asks whether an orange piece would work as the whole, prompting students to confirm or correct this choice."}
+  ]
+}

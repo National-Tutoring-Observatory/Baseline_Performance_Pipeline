@@ -1,0 +1,102 @@
+{
+  "records": [
+    {
+      "ID": 6272,
+      "Speaker": "T",
+      "Turn": 77,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 6274,
+      "Speaker": "T",
+      "Turn": 79,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 6275,
+      "Speaker": "T",
+      "Turn": 79,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 6276,
+      "Speaker": "T",
+      "Turn": 80,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 6278,
+      "Speaker": "T",
+      "Turn": 81,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 6280,
+      "Speaker": "T",
+      "Turn": 83,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 6281,
+      "Speaker": "T",
+      "Turn": 83,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to make a specific mathematical contribution by naming their strategy, rather than providing a full explanation."
+    },
+    {
+      "ID": 6284,
+      "Speaker": "T",
+      "Turn": 85,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 6285,
+      "Speaker": "T",
+      "Turn": 86,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 6286,
+      "Speaker": "T",
+      "Turn": 87,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts the student to provide evidence by showing their work, which is a way of asking them to share their thinking."
+    },
+    {
+      "ID": 6288,
+      "Speaker": "T",
+      "Turn": 89,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to use precise mathematical language ('long division', 'traditional division') instead of the student's vague term ('the division thing')."
+    },
+    {
+      "ID": 6289,
+      "Speaker": "T",
+      "Turn": 89,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Continuing the previous utterance, the teacher offers another specific mathematical term to help the student accurately name their strategy."
+    },
+    {
+      "ID": 6292,
+      "Speaker": "T",
+      "Turn": 91,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 6293,
+      "Speaker": "T",
+      "Turn": 91,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

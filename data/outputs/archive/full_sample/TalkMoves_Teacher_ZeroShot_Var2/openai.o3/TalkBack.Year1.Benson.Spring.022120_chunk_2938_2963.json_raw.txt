@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 2938,
+      "Speaker": "T",
+      "Turn": 2938,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2939,
+      "Speaker": "T",
+      "Turn": 2939,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2940,
+      "Speaker": "T",
+      "Turn": 2940,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2941,
+      "Speaker": "T",
+      "Turn": 2941,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher asks Sophia to explain how she solved the problem, explicitly requesting her thinking."
+    },
+    {
+      "ID": 2942,
+      "Speaker": "T",
+      "Turn": 2942,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher restates part of Sophia’s strategy (including zeros) in her own words."
+    },
+    {
+      "ID": 2943,
+      "Speaker": "T",
+      "Turn": 2943,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "Teacher invites classmates to add on to or contrast with Sophia’s method."
+    },
+    {
+      "ID": 2945,
+      "Speaker": "T",
+      "Turn": 2945,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "Teacher prompts peers to consider and possibly disagree with Sophia’s approach."
+    },
+    {
+      "ID": 2946,
+      "Speaker": "T",
+      "Turn": 2946,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "Teacher seeks alternative methods from other students, connecting their work to Sophia’s."
+    },
+    {
+      "ID": 2947,
+      "Speaker": "T",
+      "Turn": 2947,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher asks Hannah to describe what she did, eliciting her reasoning."
+    },
+    {
+      "ID": 2949,
+      "Speaker": "T",
+      "Turn": 2949,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher restates Hannah’s action (“left it at that”) to confirm understanding."
+    },
+    {
+      "ID": 2951,
+      "Speaker": "T",
+      "Turn": 2951,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher directs student to correctly place a term on the opposite side of the equal sign, focusing on mathematical precision."
+    },
+    {
+      "ID": 2952,
+      "Speaker": "T",
+      "Turn": 2952,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks whether the student actually wrote the expression, pressing for explicit mathematical representation."
+    },
+    {
+      "ID": 2953,
+      "Speaker": "T",
+      "Turn": 2953,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher checks if an equation—not just mental work—was written, emphasizing formal mathematical form."
+    },
+    {
+      "ID": 2954,
+      "Speaker": "T",
+      "Turn": 2954,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher probes whether the student merely thought it through or documented it, seeking clarity on representation."
+    },
+    {
+      "ID": 2956,
+      "Speaker": "T",
+      "Turn": 2956,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher requests the exact equation the student wrote, prompting precise mathematical language."
+    },
+    {
+      "ID": 2958,
+      "Speaker": "T",
+      "Turn": 2958,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher paraphrases the student’s recall of the basic multiplication fact."
+    },
+    {
+      "ID": 2959,
+      "Speaker": "T",
+      "Turn": 2959,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher restates the student’s assignment of g = 50 to confirm understanding."
+    },
+    {
+      "ID": 2960,
+      "Speaker": "T",
+      "Turn": 2960,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher summarizes the student’s idea and seeks confirmation (‘Is that what I’m understanding?’)."
+    },
+    {
+      "ID": 2962,
+      "Speaker": "T",
+      "Turn": 2962,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "Teacher invites others to share differing methods, connecting their reasoning to the discussion."
+    },
+    {
+      "ID": 2963,
+      "Speaker": "T",
+      "Turn": 2963,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "Teacher asks if anyone approached the problem with division, prompting students to compare methods."
+    }
+  ]
+}

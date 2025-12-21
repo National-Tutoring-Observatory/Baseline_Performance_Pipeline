@@ -1,0 +1,55 @@
+{
+  "records": [
+    {
+      "ID": 771,
+      "Turn": 185,
+      "Speaker": "T",
+      "Sentence": "So take up your light greens",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 772,
+      "Turn": 185,
+      "Speaker": "T",
+      "Sentence": "Josh tell me what does number two say",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 773,
+      "Turn": 186,
+      "Speaker": "T",
+      "Sentence": "If light green is one fourth what is the whole",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 774,
+      "Turn": 186,
+      "Speaker": "T",
+      "Sentence": "Aaron that tells me that light green needs how many totals to make the whole",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts the student to explain their thinking by connecting the fraction 'one-fourth' to the number of parts needed to constitute a whole."
+    },
+    {
+      "ID": 776,
+      "Turn": 188,
+      "Speaker": "T",
+      "Sentence": "One and my denominator tells me how many to get to the whole thing",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's idea about the numerator ('One') and then adds on by explaining the function of the denominator to further the explanation."
+    },
+    {
+      "ID": 778,
+      "Turn": 190,
+      "Speaker": "T",
+      "Sentence": "Four of them",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's answer ('Four') but adds 'of them' to clarify what the number refers to, thus modifying the student's contribution."
+    },
+    {
+      "ID": 779,
+      "Turn": 190,
+      "Speaker": "T",
+      "Sentence": "So how

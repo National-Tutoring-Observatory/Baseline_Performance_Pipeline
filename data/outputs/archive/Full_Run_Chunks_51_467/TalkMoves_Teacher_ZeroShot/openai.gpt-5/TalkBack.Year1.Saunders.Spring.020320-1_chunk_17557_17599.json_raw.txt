@@ -1,0 +1,130 @@
+{
+  "records": [
+    {
+      "ID": 17557,
+      "Speaker": "T",
+      "Turn": 107
+    },
+    {
+      "ID": 17565,
+      "Speaker": "T",
+      "Turn": 113
+    },
+    {
+      "ID": 17566,
+      "Speaker": "T",
+      "Turn": 113
+    },
+    {
+      "ID": 17567,
+      "Speaker": "T",
+      "Turn": 113
+    },
+    {
+      "ID": 17573,
+      "Speaker": "T",
+      "Turn": 116
+    },
+    {
+      "ID": 17574,
+      "Speaker": "T",
+      "Turn": 116
+    },
+    {
+      "ID": 17575,
+      "Speaker": "T",
+      "Turn": 116
+    },
+    {
+      "ID": 17576,
+      "Speaker": "T",
+      "Turn": 117
+    },
+    {
+      "ID": 17577,
+      "Speaker": "T",
+      "Turn": 117
+    },
+    {
+      "ID": 17578,
+      "Speaker": "T",
+      "Turn": 117
+    },
+    {
+      "ID": 17580,
+      "Speaker": "T",
+      "Turn": 119
+    },
+    {
+      "ID": 17581,
+      "Speaker": "T",
+      "Turn": 119
+    },
+    {
+      "ID": 17582,
+      "Speaker": "T",
+      "Turn": 119
+    },
+    {
+      "ID": 17584,
+      "Speaker": "T",
+      "Turn": 121
+    },
+    {
+      "ID": 17585,
+      "Speaker": "T",
+      "Turn": 122
+    },
+    {
+      "ID": 17586,
+      "Speaker": "T",
+      "Turn": 122
+    },
+    {
+      "ID": 17587,
+      "Speaker": "T",
+      "Turn": 122,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher paraphrases the student's question (“in terms of putting the exponent”), rewording it to check understanding."
+    },
+    {
+      "ID": 17588,
+      "Speaker": "T",
+      "Turn": 122,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "By asking “How do you write that,” the teacher prompts the student to state the correct mathematical notation/representation."
+    },
+    {
+      "ID": 17589,
+      "Speaker": "T",
+      "Turn": 122
+    },
+    {
+      "ID": 17591,
+      "Speaker": "T",
+      "Turn": 123
+    },
+    {
+      "ID": 17592,
+      "Speaker": "T",
+      "Turn": 123,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student’s result about the x-intercepts (“two and negative one”) to confirm and highlight the idea."
+    },
+    {
+      "ID": 17593,
+      "Speaker": "T",
+      "Turn": 123
+    },
+    {
+      "ID": 17598,
+      "Speaker": "T",
+      "Turn": 127
+    },
+    {
+      "ID": 17599,
+      "Speaker": "T",
+      "Turn": 127
+    }
+  ]
+}

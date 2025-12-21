@@ -1,0 +1,214 @@
+{
+  "records": [
+    {
+      "ID": 8946,
+      "Turn": 207,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8947,
+      "Turn": 207,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8948,
+      "Turn": 207,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8949,
+      "Turn": 207,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to provide a physical representation of a mathematical concept."
+    },
+    {
+      "ID": 8950,
+      "Turn": 207,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8951,
+      "Turn": 207,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher interprets a student's non-verbal gesture and puts it into words, clarifying the mathematical idea of skip-counting to represent multiples."
+    },
+    {
+      "ID": 8952,
+      "Turn": 208,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8953,
+      "Turn": 208,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8954,
+      "Turn": 208,
+      "Speaker": "T",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher asks a student to share their gesture with the rest of the class, orienting all students to one student's idea."
+    },
+    {
+      "ID": 8955,
+      "Turn": 208,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher interprets and explains a student's gesture to the class, adding language to clarify the student's non-verbal contribution."
+    },
+    {
+      "ID": 8956,
+      "Turn": 208,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher continues to add verbal explanation to the student's gesture, clarifying that multiples form a list."
+    },
+    {
+      "ID": 8957,
+      "Turn": 208,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8958,
+      "Turn": 208,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8959,
+      "Turn": 208,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8960,
+      "Turn": 208,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8961,
+      "Turn": 208,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8962,
+      "Turn": 208,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to apply a mathematical property (closed set) to the concept of multiples."
+    },
+    {
+      "ID": 8964,
+      "Turn": 209,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's 'No' and adds the mathematical explanation for why it's correct."
+    },
+    {
+      "ID": 8965,
+      "Turn": 209,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher further clarifies the concept of infinity in the context of multiples, building on the previous statement."
+    },
+    {
+      "ID": 8966,
+      "Turn": 209,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8967,
+      "Turn": 209,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8968,
+      "Turn": 209,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8969,
+      "Turn": 209,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to provide a specific mathematical contribution, the list of factors for 12."
+    },
+    {
+      "ID": 8970,
+      "Turn": 209,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to explain the process for finding factors, prompting them to share the thinking behind the concept."
+    },
+    {
+      "ID": 8971,
+      "Turn": 209,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8973,
+      "Turn": 211,
+      "Speaker": "T",
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats part of the student's contribution ('One' from '1 x 12') verbatim."
+    },
+    {
+      "ID": 8974,
+      "Turn": 211,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to make the next mathematical contribution in the process of finding factors."
+    },
+    {
+      "ID": 8976,
+      "Turn": 213,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher confirms the student's correct answer and adds the specific mathematical justification that was missing."
+    },
+    {
+      "ID": 8978,
+      "Turn": 215,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher clarifies the implication of the student's response, rephrasing it to confirm that 2 is a factor."
+    },
+    {
+      "ID": 8979,
+      "Turn": 215,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students for the next step in the sequence of finding factors, essentially asking 'Is 3 a factor?'."
+    }
+  ]
+}

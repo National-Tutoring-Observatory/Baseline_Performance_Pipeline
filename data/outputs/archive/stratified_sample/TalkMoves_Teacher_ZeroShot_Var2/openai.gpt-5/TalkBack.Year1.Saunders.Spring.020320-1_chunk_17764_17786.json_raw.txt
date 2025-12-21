@@ -1,0 +1,102 @@
+{
+  "records": [
+    {
+      "ID": 17764,
+      "Speaker": "T",
+      "Turn": 235,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17769,
+      "Speaker": "T",
+      "Turn": 238,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17770,
+      "Speaker": "T",
+      "Turn": 238,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17771,
+      "Speaker": "T",
+      "Turn": 238,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17772,
+      "Speaker": "T",
+      "Turn": 238,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks “what’s happening right there,” prompting students to explain the observed behavior on the graph."
+    },
+    {
+      "ID": 17773,
+      "Speaker": "T",
+      "Turn": 238,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to provide a specific mathematical value using precise language: the x-intercept."
+    },
+    {
+      "ID": 17775,
+      "Speaker": "T",
+      "Turn": 240,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher elicits a specific mathematical value by asking for the y-intercept."
+    },
+    {
+      "ID": 17777,
+      "Speaker": "T",
+      "Turn": 242,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17778,
+      "Speaker": "T",
+      "Turn": 242,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher requests a precise mathematical quantity: the y-intercept."
+    },
+    {
+      "ID": 17781,
+      "Speaker": "T",
+      "Turn": 244,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17783,
+      "Speaker": "T",
+      "Turn": 246,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17784,
+      "Speaker": "T",
+      "Turn": 246,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17785,
+      "Speaker": "T",
+      "Turn": 246,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17786,
+      "Speaker": "T",
+      "Turn": 246,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "By asking “what makes those different,” the teacher prompts students to compare and explain differences among the cubics, connecting ideas to the representations."
+    }
+  ]
+}

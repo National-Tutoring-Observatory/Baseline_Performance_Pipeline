@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 11683,
+      "Speaker": "T",
+      "Turn": 11683,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 11684,
+      "Speaker": "T",
+      "Turn": 11684,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher is calling the class back to attention to orient them to the next part of the lesson."
+    },
+    {
+      "ID": 11685,
+      "Speaker": "T",
+      "Turn": 11685,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 11686,
+      "Speaker": "T",
+      "Turn": 11686,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to explain the meaning of a representation ('What does this represent')."
+    },
+    {
+      "ID": 11687,
+      "Speaker": "T",
+      "Turn": 11687,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher repeats the question asking for the meaning behind the representation."
+    },
+    {
+      "ID": 11688,
+      "Speaker": "T",
+      "Turn": 11688,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 11690,
+      "Speaker": "T",
+      "Turn": 11690,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 11691,
+      "Speaker": "T",
+      "Turn": 11691,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher asks the class to connect their own thinking to what the previous student (Britny) just said."
+    },
+    {
+      "ID": 11692,
+      "Speaker": "T",
+      "Turn": 11692,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 11693,
+      "Speaker": "T",
+      "Turn": 11693,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 11694,
+      "Speaker": "T",
+      "Turn": 11694,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 11695,
+      "Speaker": "T",
+      "Turn": 11695,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 11696,
+      "Speaker": "T",
+      "Turn": 11696,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to think about the process ('are we going to just fold this in half') and implicitly justify why or why not based on the problem context."
+    },
+    {
+      "ID": 11698,
+      "Speaker": "T",
+      "Turn": 11698,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 11699,
+      "Speaker": "T",
+      "Turn": 11699,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to recall a specific quantity from the problem ('how much did she eat')."
+    },
+    {
+      "ID": 11701,
+      "Speaker": "T",
+      "Turn": 11701,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for a specific numerical procedure ('How many parts do we have to fold this into')."
+    },
+    {
+      "ID": 11702,
+      "Speaker": "T",
+      "Turn": 11702,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks students to demonstrate the mathematical action ('Show me')."
+    },
+    {
+      "ID": 11703,
+      "Speaker": "T",
+      "Turn": 11703,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's idea ('Two folded into three') but likely refines or amplifies it for the class."
+    },
+    {
+      "ID": 11704,
+      "Speaker": "T",
+      "Turn": 11704,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases the previous idea to emphasize precision ('fold it into three equal parts')."
+    },
+    {
+      "ID": 11705,
+      "Speaker": "T",
+      "Turn": 11705,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the specific phrase 'equal parts' for emphasis."
+    }
+  ]
+}

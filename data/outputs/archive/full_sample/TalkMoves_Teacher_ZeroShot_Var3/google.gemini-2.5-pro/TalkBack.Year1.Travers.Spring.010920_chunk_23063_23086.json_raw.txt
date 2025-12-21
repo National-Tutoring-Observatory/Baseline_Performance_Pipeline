@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 23063,
+      "Speaker": "T",
+      "Turn": 23063,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases a student's action (multiplying) into a statement about the current state of the problem."
+    },
+    {
+      "ID": 23064,
+      "Speaker": "T",
+      "Turn": 23064,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher addresses the whole class ('My friends') and directs their collective attention to a specific part of the problem."
+    },
+    {
+      "ID": 23065,
+      "Speaker": "T",
+      "Turn": 23065,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to provide a specific, accurate mathematical value."
+    },
+    {
+      "ID": 23067,
+      "Speaker": "T",
+      "Turn": 23067,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's correct answer to confirm it for the class."
+    },
+    {
+      "ID": 23068,
+      "Speaker": "T",
+      "Turn": 23068,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23069,
+      "Speaker": "T",
+      "Turn": 23069,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to provide the equivalent fraction, pressing for a specific mathematical contribution."
+    },
+    {
+      "ID": 23071,
+      "Speaker": "T",
+      "Turn": 23071,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's correct answer to confirm it for the class."
+    },
+    {
+      "ID": 23072,
+      "Speaker": "T",
+      "Turn": 23072,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23073,
+      "Speaker": "T",
+      "Turn": 23073,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23074,
+      "Speaker": "T",
+      "Turn": 23074,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23075,
+      "Speaker": "T",
+      "Turn": 23075,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23076,
+      "Speaker": "T",
+      "Turn": 23076,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23077,
+      "Speaker": "T",
+      "Turn": 23077,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23078,
+      "Speaker": "T",
+      "Turn": 23078,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher summarizes and rephrases the key mathematical equivalences the class has just established, making the collective knowledge public."
+    },
+    {
+      "ID": 23079,
+      "Speaker": "T",
+      "Turn": 23079,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23080,
+      "Speaker": "T",
+      "Turn": 23080,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks the whole class for the answer to a specific calculation, pressing for a correct mathematical contribution."
+    },
+    {
+      "ID": 23082,
+      "Speaker": "T",
+      "Turn": 23082,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher uses a fill-in-the-blank prompt to elicit a specific, accurate mathematical answer."
+    },
+    {
+      "ID": 23084,
+      "Speaker": "T",
+      "Turn": 23084,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23085,
+      "Speaker": "T",
+      "Turn": 23085,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23086,
+      "Speaker": "T",
+      "Turn": 23086,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a direct question to elicit a specific, previously established mathematical equivalent."
+    }
+  ]
+}

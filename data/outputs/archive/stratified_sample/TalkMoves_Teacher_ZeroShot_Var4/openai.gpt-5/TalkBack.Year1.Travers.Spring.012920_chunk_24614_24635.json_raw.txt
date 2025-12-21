@@ -1,0 +1,116 @@
+{
+  "records": [
+    {
+      "ID": 24614,
+      "Speaker": "T",
+      "Turn": 88,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24616,
+      "Speaker": "T",
+      "Turn": 90,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24618,
+      "Speaker": "T",
+      "Turn": 92,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24619,
+      "Speaker": "T",
+      "Turn": 92,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24620,
+      "Speaker": "T",
+      "Turn": 92,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the interval on the line plot, prompting a precise mathematical term."
+    },
+    {
+      "ID": 24622,
+      "Speaker": "T",
+      "Turn": 94,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's answer ('half an inch') and adds 'interval,' adjusting the wording."
+    },
+    {
+      "ID": 24623,
+      "Speaker": "T",
+      "Turn": 94,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts students to think and generate a question about the dataset, encouraging reasoning."
+    },
+    {
+      "ID": 24624,
+      "Speaker": "T",
+      "Turn": 94,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24626,
+      "Speaker": "T",
+      "Turn": 96,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks what question could be asked about the line plot, inviting students’ analytical thinking."
+    },
+    {
+      "ID": 24627,
+      "Speaker": "T",
+      "Turn": 96,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24630,
+      "Speaker": "T",
+      "Turn": 98,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher paraphrases the student's contribution as a question they have."
+    },
+    {
+      "ID": 24631,
+      "Speaker": "T",
+      "Turn": 98,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24632,
+      "Speaker": "T",
+      "Turn": 98,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24633,
+      "Speaker": "T",
+      "Turn": 98,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher requests the exact number of insects measured, prompting a specific mathematical contribution."
+    },
+    {
+      "ID": 24634,
+      "Speaker": "T",
+      "Turn": 98,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24635,
+      "Speaker": "T",
+      "Turn": 98,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher repeats the request for the count of insects, again prompting a precise answer."
+    }
+  ]
+}

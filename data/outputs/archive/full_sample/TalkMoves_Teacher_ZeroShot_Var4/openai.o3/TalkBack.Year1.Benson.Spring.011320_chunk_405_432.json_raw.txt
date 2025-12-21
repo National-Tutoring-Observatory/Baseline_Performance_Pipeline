@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 405,
+      "Speaker": "T",
+      "Turn": 405,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 406,
+      "Speaker": "T",
+      "Turn": 406,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 407,
+      "Speaker": "T",
+      "Turn": 407,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks Liam to share the answer he obtained, prompting a mathematical contribution."
+    },
+    {
+      "ID": 409,
+      "Speaker": "T",
+      "Turn": 409,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher inquires about the method used, requesting an explanation of the strategy."
+    },
+    {
+      "ID": 410,
+      "Speaker": "T",
+      "Turn": 410,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Asks the student to describe the process followed, eliciting underlying reasoning."
+    },
+    {
+      "ID": 412,
+      "Speaker": "T",
+      "Turn": 412,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher repeats the student’s idea (adding) with a pronoun change, rephrasing the contribution."
+    },
+    {
+      "ID": 414,
+      "Speaker": "T",
+      "Turn": 414,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Paraphrases and extends the student’s statement by specifying ‘on the top,’ clarifying the idea."
+    },
+    {
+      "ID": 415,
+      "Speaker": "T",
+      "Turn": 415,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Requests the student to explain the operation applied to the denominator, probing for strategy."
+    },
+    {
+      "ID": 417,
+      "Speaker": "T",
+      "Turn": 417,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher restates the student’s action (‘counted by 5’) in her own words."
+    },
+    {
+      "ID": 418,
+      "Speaker": "T",
+      "Turn": 418,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Invites Bryce to restate Liam’s idea, ensuring peers are listening and understand."
+    },
+    {
+      "ID": 419,
+      "Speaker": "T",
+      "Turn": 419,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "Prompts Bryce to describe what Liam did, explicitly focusing on a classmate’s method."
+    },
+    {
+      "ID": 421,
+      "Speaker": "T",
+      "Turn": 421,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks for the precise quantity that was added, seeking specific mathematical detail."
+    },
+    {
+      "ID": 423,
+      "Speaker": "T",
+      "Turn": 423,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 424,
+      "Speaker": "T",
+      "Turn": 424,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Requests Liam to repeat his explanation so Bryce can hear it, ensuring shared understanding."
+    },
+    {
+      "ID": 425,
+      "Speaker": "T",
+      "Turn": 425,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher rephrases the student’s explanation in first person to convey the method again."
+    },
+    {
+      "ID": 426,
+      "Speaker": "T",
+      "Turn": 426,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Checks whether Bryce understands Liam’s method, orienting students to each other’s ideas."
+    },
+    {
+      "ID": 427,
+      "Speaker": "T",
+      "Turn": 427,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Sucinctly restates the strategy (‘adding ones… counting by fives’), clarifying the student’s idea."
+    },
+    {
+      "ID": 429,
+      "Speaker": "T",
+      "Turn": 429,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Verifies that the explanation makes sense to the student, maintaining collective understanding."
+    },
+    {
+      "ID": 430,
+      "Speaker": "T",
+      "Turn": 430,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Checks with another student (Katie) for comprehension, ensuring the class is following."
+    },
+    {
+      "ID": 432,
+      "Speaker": "T",
+      "Turn": 432,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Asks whether the method generalizes to all fractions, prompting students to justify or refute."
+    }
+  ]
+}

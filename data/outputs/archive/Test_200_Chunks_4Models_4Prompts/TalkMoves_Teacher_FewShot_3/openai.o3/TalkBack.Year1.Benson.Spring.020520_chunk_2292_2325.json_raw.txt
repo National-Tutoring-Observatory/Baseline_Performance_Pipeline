@@ -1,0 +1,113 @@
+{
+  "Annotations": [
+    {
+      "ID": 2293,
+      "Turn": 221,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the open prompt \"Why,\" pushing the student to justify their previous statement."
+    },
+    {
+      "ID": 2295,
+      "Turn": 223,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher restates the student’s idea in her own words to clarify: \"There are eight burritos in a package, okay.\""
+    },
+    {
+      "ID": 2297,
+      "Turn": 225,
+      "TalkMove": "None"
+    },
+    {
+      "ID": 2301,
+      "Turn": 227,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student’s computed result, adding context (\"Burritos cost about 240 approximately\")."
+    },
+    {
+      "ID": 2302,
+      "Turn": 227,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "By asking \"What did you do next,\" the teacher presses the student to articulate the subsequent step in their thinking."
+    },
+    {
+      "ID": 2305,
+      "Turn": 229,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher paraphrases the student’s multiplication set-up to ensure shared understanding."
+    },
+    {
+      "ID": 2307,
+      "Turn": 231,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Saying \"Because?\" prompts the student to elaborate on the reason behind their calculation."
+    },
+    {
+      "ID": 2309,
+      "Turn": 233,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher reformulates the student’s explanation, clarifying the quantities involved."
+    },
+    {
+      "ID": 2312,
+      "Turn": 235,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher echoes the student’s rounded total—\"It’s about 600 for sandwiches\"—to confirm to the class."
+    },
+    {
+      "ID": 2313,
+      "Turn": 235,
+      "TalkMove": "None"
+    },
+    {
+      "ID": 2314,
+      "Turn": 235,
+      "TalkMove": "None"
+    },
+    {
+      "ID": 2315,
+      "Turn": 235,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "By asking \"Can you see that?\" the teacher checks that all students are following the shared visual reference."
+    },
+    {
+      "ID": 2318,
+      "Turn": 238,
+      "TalkMove": "None"
+    },
+    {
+      "ID": 2319,
+      "Turn": 238,
+      "TalkMove": "None"
+    },
+    {
+      "ID": 2320,
+      "Turn": 238,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Stating \"We’re done with our estimate\" signals a transition and ensures the class is synchronized."
+    },
+    {
+      "ID": 2321,
+      "Turn": 238,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher invites students to share alternative methods, prompting them to consider different classmates’ approaches."
+    },
+    {
+      "ID": 2322,
+      "Turn": 238,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "By asking Lillian how her estimate was different, the teacher directs attention to comparing one student’s idea to the class’s."
+    },
+    {
+      "ID": 2324,
+      "Turn": 240,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student’s multiplication expression verbatim: \"5 x 8.\""
+    },
+    {
+      "ID": 2325,
+      "Turn": 240,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher probes the student’s thinking by asking, \"Where did you get five?\""
+    }
+  ]
+}

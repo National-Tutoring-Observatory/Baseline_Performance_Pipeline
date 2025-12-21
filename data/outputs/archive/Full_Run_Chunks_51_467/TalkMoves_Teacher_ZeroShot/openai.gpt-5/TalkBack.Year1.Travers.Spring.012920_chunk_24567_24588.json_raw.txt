@@ -1,0 +1,82 @@
+{
+  "records": [
+    {
+      "ID": 24572,
+      "Speaker": "T",
+      "Turn": 68,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher reformulates the student's vague notion of a 'pattern' into a more specific idea, beginning to articulate that each number might share a consistent feature."
+    },
+    {
+      "ID": 24574,
+      "Speaker": "T",
+      "Turn": 70,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher adds wording to clarify the student's idea, specifying the concept of equal spacing as part of the pattern."
+    },
+    {
+      "ID": 24576,
+      "Speaker": "T",
+      "Turn": 72
+    },
+    {
+      "ID": 24577,
+      "Speaker": "T",
+      "Turn": 72,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher invites a student to share with the class, orienting the group to listen to peers."
+    },
+    {
+      "ID": 24578,
+      "Speaker": "T",
+      "Turn": 72
+    },
+    {
+      "ID": 24579,
+      "Speaker": "T",
+      "Turn": 72,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher restates a group's idea about having the same interval or space, adjusting the phrasing for the whole class."
+    },
+    {
+      "ID": 24580,
+      "Speaker": "T",
+      "Turn": 72,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks for an explanation of the concept and its importance, prompting justification."
+    },
+    {
+      "ID": 24582,
+      "Speaker": "T",
+      "Turn": 74,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher paraphrases the student's mention of 'inches' as the need for a unit of measurement, connecting it to the data set."
+    },
+    {
+      "ID": 24583,
+      "Speaker": "T",
+      "Turn": 74
+    },
+    {
+      "ID": 24584,
+      "Speaker": "T",
+      "Turn": 74,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher facilitates turn-taking by having a student call on the next speaker, orienting peers to each other."
+    },
+    {
+      "ID": 24587,
+      "Speaker": "T",
+      "Turn": 77,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to specify what 'them' refers to, pushing for precise mathematical language."
+    },
+    {
+      "ID": 24588,
+      "Speaker": "T",
+      "Turn": 77,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats and slightly modifies the student's phrase about 'difference between,' attempting to clarify the idea."
+    }
+  ]
+}

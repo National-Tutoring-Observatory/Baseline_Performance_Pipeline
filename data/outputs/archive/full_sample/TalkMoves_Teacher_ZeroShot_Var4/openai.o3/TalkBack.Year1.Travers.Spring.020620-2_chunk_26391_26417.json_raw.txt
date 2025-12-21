@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 26391,
+      "Speaker": "T",
+      "Turn": 26391,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26392,
+      "Speaker": "T",
+      "Turn": 26392,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks for the precise number of hours the jugglers perform, eliciting a specific mathematical fact."
+    },
+    {
+      "ID": 26394,
+      "Speaker": "T",
+      "Turn": 26394,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher requests the exact cost per performer, prompting a numeric answer."
+    },
+    {
+      "ID": 26396,
+      "Speaker": "T",
+      "Turn": 26396,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26397,
+      "Speaker": "T",
+      "Turn": 26397,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher restates a student’s contribution (“$30 an hour for three people”) while clarifying the information."
+    },
+    {
+      "ID": 26399,
+      "Speaker": "T",
+      "Turn": 26399,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher presses for the specific quantity of people involved."
+    },
+    {
+      "ID": 26400,
+      "Speaker": "T",
+      "Turn": 26400,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher summarizes and rephrases the numerical details previously offered by students."
+    },
+    {
+      "ID": 26401,
+      "Speaker": "T",
+      "Turn": 26401,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26402,
+      "Speaker": "T",
+      "Turn": 26402,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26403,
+      "Speaker": "T",
+      "Turn": 26403,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26404,
+      "Speaker": "T",
+      "Turn": 26404,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher requests the exact number of tap-dance performers."
+    },
+    {
+      "ID": 26406,
+      "Speaker": "T",
+      "Turn": 26406,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26408,
+      "Speaker": "T",
+      "Turn": 26408,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks for the precise number of hours for the tap dancers."
+    },
+    {
+      "ID": 26410,
+      "Speaker": "T",
+      "Turn": 26410,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher prompts students for the exact hourly pay rate of the tap dancers."
+    },
+    {
+      "ID": 26412,
+      "Speaker": "T",
+      "Turn": 26412,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26413,
+      "Speaker": "T",
+      "Turn": 26413,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26414,
+      "Speaker": "T",
+      "Turn": 26414,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26415,
+      "Speaker": "T",
+      "Turn": 26415,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher instructs students to discuss and articulate what the problem is asking, prompting them to interpret and explain."
+    },
+    {
+      "ID": 26416,
+      "Speaker": "T",
+      "Turn": 26416,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26417,
+      "Speaker": "T",
+      "Turn": 26417,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher again asks students to state what the problem is asking, eliciting their reasoning about the task."
+    }
+  ]
+}

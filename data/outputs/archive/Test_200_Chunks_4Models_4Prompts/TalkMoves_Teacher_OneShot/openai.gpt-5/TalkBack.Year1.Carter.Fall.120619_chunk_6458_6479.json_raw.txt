@@ -1,0 +1,25 @@
+{
+  "records": [
+    {
+      "ID": 6477,
+      "Speaker": "T",
+      "Turn": 1,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 6478,
+      "Speaker": "T",
+      "Turn": 1,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher prompts the class to consider a question posed by other students, inviting reaction to peers’ ideas."
+    },
+    {
+      "ID": 6479,
+      "Speaker": "T",
+      "Turn": 1,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher quotes a student’s question word for word to bring it to the class."
+    }
+  ]
+}

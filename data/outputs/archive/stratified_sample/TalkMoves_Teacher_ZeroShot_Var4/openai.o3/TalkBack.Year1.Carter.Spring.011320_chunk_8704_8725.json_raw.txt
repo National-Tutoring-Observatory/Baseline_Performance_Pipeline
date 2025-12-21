@@ -1,0 +1,81 @@
+{
+  "records": [
+    {
+      "ID": 8705,
+      "Speaker": "T",
+      "Turn": 104,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8709,
+      "Speaker": "T",
+      "Turn": 107,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks students to confirm that the result is not 36, prompting them to check correctness."
+    },
+    {
+      "ID": 8710,
+      "Speaker": "T",
+      "Turn": 107,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8711,
+      "Speaker": "T",
+      "Turn": 107,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8712,
+      "Speaker": "T",
+      "Turn": 107,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks whether 5 is a factor of 36, prompting students to produce a correct mathematical fact."
+    },
+    {
+      "ID": 8714,
+      "Speaker": "T",
+      "Turn": 109,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher checks whether 4 is an appropriate factor, pushing students to verify its correctness."
+    },
+    {
+      "ID": 8718,
+      "Speaker": "T",
+      "Turn": 112,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8720,
+      "Speaker": "T",
+      "Turn": 114,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the missing factor that multiplies with 6 to make 36, prompting an exact numerical answer."
+    },
+    {
+      "ID": 8722,
+      "Speaker": "T",
+      "Turn": 116,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8724,
+      "Speaker": "T",
+      "Turn": 118,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8725,
+      "Speaker": "T",
+      "Turn": 118,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

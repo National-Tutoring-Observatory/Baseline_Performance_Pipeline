@@ -1,0 +1,102 @@
+{
+  "records": [
+    {
+      "ID": 1094,
+      "Speaker": "T",
+      "Turn": 34,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher checks whether any student added 30, prompting them to confirm the specific numerical operation they used."
+    },
+    {
+      "ID": 1095,
+      "Speaker": "T",
+      "Turn": 34,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1096,
+      "Speaker": "T",
+      "Turn": 34,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1097,
+      "Speaker": "T",
+      "Turn": 34,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "By asking for the answer, the teacher presses students to state the exact numerical result."
+    },
+    {
+      "ID": 1099,
+      "Speaker": "T",
+      "Turn": 36,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1100,
+      "Speaker": "T",
+      "Turn": 36,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to clarify what the number 600 stands for, demanding precise identification of its meaning."
+    },
+    {
+      "ID": 1102,
+      "Speaker": "T",
+      "Turn": 38,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "‘More specific, please’ asks the student to state the idea with greater precision."
+    },
+    {
+      "ID": 1105,
+      "Speaker": "T",
+      "Turn": 41,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher restates the student’s contribution (“600 represents … ball of string”) in her own words to clarify for the class."
+    },
+    {
+      "ID": 1107,
+      "Speaker": "T",
+      "Turn": 43,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher again repeats the key elements of the student’s statement, adjusting the phrasing."
+    },
+    {
+      "ID": 1109,
+      "Speaker": "T",
+      "Turn": 45,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the unit of measure, prompting students to specify precise mathematical information."
+    },
+    {
+      "ID": 1110,
+      "Speaker": "T",
+      "Turn": 45,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The follow-up question requests the specific measurement tool/unit, pushing for accurate terminology."
+    },
+    {
+      "ID": 1112,
+      "Speaker": "T",
+      "Turn": 47,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher echoes the student’s answer (“Feet”) and elaborates (“in the…”), rephrasing it for clarity."
+    },
+    {
+      "ID": 1114,
+      "Speaker": "T",
+      "Turn": 49,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher summarizes and rephrases the student’s idea, explicitly stating ‘600 feet in the larger ball of string’ for the class."
+    },
+    {
+      "ID": 1115,
+      "Speaker": "T",
+      "Turn": 49,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

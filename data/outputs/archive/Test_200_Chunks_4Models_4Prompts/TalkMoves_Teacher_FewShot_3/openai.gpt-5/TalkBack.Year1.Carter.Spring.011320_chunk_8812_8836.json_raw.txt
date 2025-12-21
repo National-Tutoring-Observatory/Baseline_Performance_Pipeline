@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 8812,
+      "Turn": 156,
+      "Speaker": "T",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Directs turn-taking and partner orientation to keep the class coordinated and engaged with each other."
+    },
+    {
+      "ID": 8813,
+      "Turn": 156,
+      "Speaker": "T",
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 8814,
+      "Turn": 157,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Introduces a new number (37) to test the claim about factors, prompting precise mathematical determination."
+    },
+    {
+      "ID": 8815,
+      "Turn": 157,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks whether 3 is a factor of 37 using mathematical language."
+    },
+    {
+      "ID": 8816,
+      "Turn": 157,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Requests justification for why 3 is not a factor."
+    },
+    {
+      "ID": 8817,
+      "Turn": 157,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Asks students to explain the distinction between 36 and 37 regarding 3 being a factor."
+    },
+    {
+      "ID": 8819,
+      "Turn": 159,
+      "Speaker": "T",
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 8820,
+      "Turn": 159,
+      "Speaker": "T",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Calls the class back to attention, orienting listeners to the speaker."
+    },
+    {
+      "ID": 8821,
+      "Turn": 159,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Prompts students to provide evidence for 3 being a factor of 36."
+    },
+    {
+      "ID": 8822,
+      "Turn": 159,
+      "Speaker": "T",
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 8824,
+      "Turn": 161,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Prompts the student to specify the quantity being split, pushing for precise mathematical language."
+    },
+    {
+      "ID": 8826,
+      "Turn": 163,
+      "Speaker": "T",
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 8827,
+      "Turn": 163,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "Restates the student's idea using division language to clarify ('36 divided by 3 would be even groups')."
+    },
+    {
+      "ID": 8828,
+      "Turn": 163,
+      "Speaker": "T",
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 8829,
+      "Turn": 163,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Requests another way to prove the claim, prompting additional justification."
+    },
+    {
+      "ID": 8831,
+      "Turn": 165,
+      "Speaker": "T",
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 8832,
+      "Turn": 165,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Asks another student for an additional proof, eliciting reasoning."
+    },
+    {
+      "ID": 8834,
+      "Turn": 167,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "Repeats the student's claim to focus the discussion ('36 is an even and odd number')."
+    },
+    {
+      "ID": 8835,
+      "Turn": 167,
+      "Speaker": "T",
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 8836,
+      "Turn": 167,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Prompts the student to explain the claim, seeking a justification."
+    }
+  ]
+}

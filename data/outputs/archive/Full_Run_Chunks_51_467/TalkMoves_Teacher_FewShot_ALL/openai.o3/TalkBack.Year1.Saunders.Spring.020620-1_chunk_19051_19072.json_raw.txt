@@ -1,0 +1,123 @@
+{
+  "records": [
+    {
+      "ID": 19051,
+      "Speaker": "T",
+      "Turn": 1,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19052,
+      "Speaker": "T",
+      "Turn": 1,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19053,
+      "Speaker": "T",
+      "Turn": 2,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19054,
+      "Speaker": "T",
+      "Turn": 2,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19055,
+      "Speaker": "T",
+      "Turn": 2,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks students to specify whether X or the whole function was modified, prompting a precise mathematical choice."
+    },
+    {
+      "ID": 19057,
+      "Speaker": "T",
+      "Turn": 3,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "After a student’s answer, the teacher invites others to share what they think, encouraging response to a peer’s idea."
+    },
+    {
+      "ID": 19058,
+      "Speaker": "T",
+      "Turn": 3,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher again asks for the specific action taken, pushing students to state it accurately."
+    },
+    {
+      "ID": 19059,
+      "Speaker": "T",
+      "Turn": 3,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Repeated prompt for the precise element that was modified."
+    },
+    {
+      "ID": 19061,
+      "Speaker": "T",
+      "Turn": 5,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher restates the student’s one-word answer 'X' by expanding it into a full sentence, clarifying the idea."
+    },
+    {
+      "ID": 19062,
+      "Speaker": "T",
+      "Turn": 5,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19063,
+      "Speaker": "T",
+      "Turn": 5,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19064,
+      "Speaker": "T",
+      "Turn": 5,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks students to decide precisely which component is being modified in the new case."
+    },
+    {
+      "ID": 19066,
+      "Speaker": "T",
+      "Turn": 7,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19067,
+      "Speaker": "T",
+      "Turn": 7,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19068,
+      "Speaker": "T",
+      "Turn": 7,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher repeats the student’s prior statement 'We modify the whole function' with slight wording change, confirming and clarifying."
+    },
+    {
+      "ID": 19069,
+      "Speaker": "T",
+      "Turn": 7,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19071,
+      "Speaker": "T",
+      "Turn": 9,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher echoes the student’s answer 'Modifies X' in question form, restating while checking understanding."
+    }
+  ]
+}

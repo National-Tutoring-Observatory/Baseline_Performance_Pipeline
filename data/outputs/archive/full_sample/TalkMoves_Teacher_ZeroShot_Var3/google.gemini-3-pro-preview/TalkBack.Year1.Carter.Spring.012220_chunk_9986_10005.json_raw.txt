@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 9986,
+      "Speaker": "T",
+      "Turn": 9986,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 9987,
+      "Speaker": "T",
+      "Turn": 9987,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 9988,
+      "Speaker": "T",
+      "Turn": 9988,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 9989,
+      "Speaker": "T",
+      "Turn": 9989,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to generalize their thinking by considering if the method works for any whole number, prompting them to connect ideas."
+    },
+    {
+      "ID": 9990,
+      "Speaker": "T",
+      "Turn": 9990,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats and elaborates on the mathematical process (finding 1/4 then multiplying) likely stated or implied by previous context, clarifying the method."
+    },
+    {
+      "ID": 9991,
+      "Speaker": "T",
+      "Turn": 9991,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher continues to rephrase the mathematical idea, generalizing the specific example to a broader concept."
+    },
+    {
+      "ID": 9992,
+      "Speaker": "T",
+      "Turn": 9992,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 9993,
+      "Speaker": "T",
+      "Turn": 9993,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher instructs students to write a specific mathematical representation (an expression) to model a problem."
+    },
+    {
+      "ID": 9994,
+      "Speaker": "T",
+      "Turn": 9994,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher clarifies the task constraints, ensuring students understand they are not solving but representing the math accurately."
+    },
+    {
+      "ID": 9995,
+      "Speaker": "T",
+      "Turn": 9995,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 9996,
+      "Speaker": "T",
+      "Turn": 9996,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher reiterates the specific mathematical task required (writing the expression)."
+    },
+    {
+      "ID": 9997,
+      "Speaker": "T",
+      "Turn": 9997,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher provides the word problem data necessary for the students to generate the accurate mathematical expression."
+    },
+    {
+      "ID": 9998,
+      "Speaker": "T",
+      "Turn": 9998,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to produce the mathematical artifact (the expression)."
+    },
+    {
+      "ID": 9999,
+      "Speaker": "T",
+      "Turn": 9999,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher repeats the problem statement to ensure students have the correct information to write the expression."
+    },
+    {
+      "ID": 10000,
+      "Speaker": "T",
+      "Turn": 10000,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher again prompts for the specific mathematical output."
+    },
+    {
+      "ID": 10001,
+      "Speaker": "T",
+      "Turn": 10001,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks 'How would I solve that problem,' which prompts students to explain the method or thinking behind the solution."
+    },
+    {
+      "ID": 10002,
+      "Speaker": "T",
+      "Turn": 10002,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher clarifies terminology, equating 'number model' with 'expression' to ensure precise mathematical language use."
+    },
+    {
+      "ID": 10003,
+      "Speaker": "T",
+      "Turn": 10003,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 10004,
+      "Speaker": "T",
+      "Turn": 10004,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 10005,
+      "Speaker": "T",
+      "Turn": 10005,
+      "TalkMove": "None",
+      "Reasoning": null
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "records": [
+    {
+      "ID": 17764,
+      "Turn": 235,
+      "Speaker": "T",
+      "Sentence": "I thought",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17769,
+      "Turn": 238,
+      "Speaker": "T",
+      "Sentence": "So thats  another degree",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17770,
+      "Turn": 238,
+      "Speaker": "T",
+      "Sentence": "That has three directions",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17771,
+      "Turn": 238,
+      "Speaker": "T",
+      "Sentence": "So looking at these we got three cubics",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17772,
+      "Turn": 238,
+      "Speaker": "T",
+      "Sentence": "Now whats happening right there",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17773,
+      "Turn": 238,
+      "Speaker": "T",
+      "Sentence": "The Xintercept is",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to provide a specific mathematical value (the x-intercept)."
+    },
+    {
+      "ID": 17775,
+      "Turn": 240,
+      "Speaker": "T",
+      "Sentence": "The Yintercept is",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to provide a specific mathematical value (the y-intercept)."
+    },
+    {
+      "ID": 17777,
+      "Turn": 242,
+      "Speaker": "T",
+      "Sentence": "How about over here",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17778,
+      "Turn": 242,
+      "Speaker": "T",
+      "Sentence": "What is the Yintercept",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to provide a specific mathematical value (the y-intercept)."
+    },
+    {
+      "ID": 17781,
+      "Turn": 244,
+      "Speaker": "T",
+      "Sentence": "Actually  two",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17783,
+      "Turn": 246,
+      "Speaker": "T",
+      "Sentence": "Right",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17784,
+      "Turn": 246,
+      "Speaker": "T",
+      "Sentence": "One two",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17785,
+      "Turn": 246,
+      "Speaker": "T",
+      "Sentence": "The Yintercept",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17786,
+      "Turn": 246,
+      "Speaker": "T",
+      "Sentence": "would have to be true when I look at that cubic that cubic and that cubic what makes those  different",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to explain the differences between three graphs, prompting them to share their thinking and connect ideas."
+    }
+  ]
+}

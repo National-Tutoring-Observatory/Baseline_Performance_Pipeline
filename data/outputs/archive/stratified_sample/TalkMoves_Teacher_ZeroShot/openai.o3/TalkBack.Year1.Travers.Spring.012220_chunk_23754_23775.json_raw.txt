@@ -1,0 +1,109 @@
+{
+  "records": [
+    {
+      "ID": 23754,
+      "Speaker": "T",
+      "Turn": 49,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher begins a sentence about the denominator, prompting the student to supply the precise mathematical description."
+    },
+    {
+      "ID": 23756,
+      "Speaker": "T",
+      "Turn": 51,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23758,
+      "Speaker": "T",
+      "Turn": 53,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to elaborate (\"Tell me more about the…\"), prompting explanation of their thinking."
+    },
+    {
+      "ID": 23760,
+      "Speaker": "T",
+      "Turn": 55,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student’s previous words \"The number\" verbatim, echoing part of the student’s response."
+    },
+    {
+      "ID": 23762,
+      "Speaker": "T",
+      "Turn": 57,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher extends the student’s incomplete phrase by adding clarification (\"of pieces in the whole\"), rephrasing and elaborating the idea."
+    },
+    {
+      "ID": 23764,
+      "Speaker": "T",
+      "Turn": 59,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23765,
+      "Speaker": "T",
+      "Turn": 59,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23766,
+      "Speaker": "T",
+      "Turn": 59,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23767,
+      "Speaker": "T",
+      "Turn": 59,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23770,
+      "Speaker": "T",
+      "Turn": 62,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher restates the student’s idea in her own words to clarify it for the class."
+    },
+    {
+      "ID": 23771,
+      "Speaker": "T",
+      "Turn": 62,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher asks the class, \"What do we think about that?\" inviting students to respond to a peer’s statement."
+    },
+    {
+      "ID": 23772,
+      "Speaker": "T",
+      "Turn": 62,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher repeats the focal idea so all students can follow the discussion."
+    },
+    {
+      "ID": 23773,
+      "Speaker": "T",
+      "Turn": 62,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Prompting students for \"Hand signals\" ensures collective engagement and shared attention."
+    },
+    {
+      "ID": 23774,
+      "Speaker": "T",
+      "Turn": 62,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23775,
+      "Speaker": "T",
+      "Turn": 64,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher seeks the specific term that must always be 'one' in a unit fraction, prompting students to supply the exact mathematical detail."
+    }
+  ]
+}

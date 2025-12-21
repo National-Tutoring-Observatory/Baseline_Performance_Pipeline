@@ -1,0 +1,130 @@
+{
+  "records": [
+    {
+      "ID": 15792,
+      "Speaker": "T",
+      "Turn": 21,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher restates the student’s prior answer, paraphrasing the positions of the digits."
+    },
+    {
+      "ID": 15793,
+      "Speaker": "T",
+      "Turn": 21,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks whether there is actually a one in the hundredths place, prompting the class to verify the exact value."
+    },
+    {
+      "ID": 15795,
+      "Speaker": "T",
+      "Turn": 23,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks students to specify the exact place value of the digit 1."
+    },
+    {
+      "ID": 15797,
+      "Speaker": "T",
+      "Turn": 25,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15798,
+      "Speaker": "T",
+      "Turn": 25,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15799,
+      "Speaker": "T",
+      "Turn": 25,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15800,
+      "Speaker": "T",
+      "Turn": 25,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15801,
+      "Speaker": "T",
+      "Turn": 25,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15802,
+      "Speaker": "T",
+      "Turn": 25,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15803,
+      "Speaker": "T",
+      "Turn": 25,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15805,
+      "Speaker": "T",
+      "Turn": 27,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15806,
+      "Speaker": "T",
+      "Turn": 27,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15808,
+      "Speaker": "T",
+      "Turn": 29,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15809,
+      "Speaker": "T",
+      "Turn": 29,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15810,
+      "Speaker": "T",
+      "Turn": 29,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15811,
+      "Speaker": "T",
+      "Turn": 29,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15812,
+      "Speaker": "T",
+      "Turn": 29,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15813,
+      "Speaker": "T",
+      "Turn": 29,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

@@ -1,0 +1,164 @@
+{
+  "records": [
+    {
+      "ID": 5296,
+      "Turn": 57,
+      "Speaker": "T",
+      "Sentence": "Anybody have something different",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5297,
+      "Turn": 57,
+      "Speaker": "T",
+      "Sentence": "Grayson what do you think",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5299,
+      "Turn": 59,
+      "Speaker": "T",
+      "Sentence": "Okay",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5300,
+      "Turn": 59,
+      "Speaker": "T",
+      "Sentence": "Ruby what did you say",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5303,
+      "Turn": 61,
+      "Speaker": "T",
+      "Sentence": "Are you agreeing with Maya",
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher asks a student to explicitly state whether their idea aligns with a classmate's idea."
+    },
+    {
+      "ID": 5305,
+      "Turn": 63,
+      "Speaker": "T",
+      "Sentence": "Okay",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5309,
+      "Turn": 66,
+      "Speaker": "T",
+      "Sentence": "Hey AJ wants to say something",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher orients the class's attention to a student who is about to contribute."
+    },
+    {
+      "ID": 5314,
+      "Turn": 68,
+      "Speaker": "T",
+      "Sentence": "Okay and do you think its going to get bigger this way or this way or both",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher presses the student to clarify their use of the term 'bigger' by asking for a more precise description of the transformation."
+    },
+    {
+      "ID": 5316,
+      "Turn": 70,
+      "Speaker": "T",
+      "Sentence": "Okay",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5318,
+      "Turn": 72,
+      "Speaker": "T",
+      "Sentence": "Excuse me",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5323,
+      "Turn": 74,
+      "Speaker": "T",
+      "Sentence": "Okay Willow",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5327,
+      "Turn": 76,
+      "Speaker": "T",
+      "Sentence": "All right",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5328,
+      "Turn": 76,
+      "Speaker": "T",
+      "Sentence": "So lets turn to page 142 and number two Selena says what",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5331,
+      "Turn": 79,
+      "Speaker": "T",
+      "Sentence": "I cant hear Selena",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher prompts the student to speak louder so that everyone in the class can hear and follow along."
+    },
+    {
+      "ID": 5333,
+      "Turn": 81,
+      "Speaker": "T",
+      "Sentence": "Okay so youre gonna use Amys rules doubling the xaxis and write down the new coordinates",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's reading of the instructions while adding clarifying mathematical language ('doubling the xaxis')."
+    },
+    {
+      "ID": 5334,
+      "Turn": 81,
+      "Speaker": "T",
+      "Sentence": "Fill out the table",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5335,
+      "Turn": 81,
+      "Speaker": "T",
+      "Sentence": "This table right here doubling the Xaxis",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5336,
+      "Turn": 81,
+      "Speaker": "T",
+      "Sentence": "0 x 2 is",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5337,
+      "Turn": 81,
+      "Speaker": "T",
+      "Sentence": "Its about one stays the same",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5338,
+      "Turn": 81,
+      "Speaker": "T",
+      "Sentence": "Were on page one 142",
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

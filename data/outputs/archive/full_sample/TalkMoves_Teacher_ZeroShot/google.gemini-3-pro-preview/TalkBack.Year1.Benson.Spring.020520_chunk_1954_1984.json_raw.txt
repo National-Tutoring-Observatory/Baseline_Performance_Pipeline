@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 1954,
+      "Speaker": "T",
+      "Turn": 1954,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1955,
+      "Speaker": "T",
+      "Turn": 1955,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1956,
+      "Speaker": "T",
+      "Turn": 1956,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1959,
+      "Speaker": "T",
+      "Turn": 1959,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to explain their method or process for finding the cost."
+    },
+    {
+      "ID": 1960,
+      "Speaker": "T",
+      "Turn": 1960,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher explicitly asks for the mathematical operations or calculations performed."
+    },
+    {
+      "ID": 1961,
+      "Speaker": "T",
+      "Turn": 1961,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a specific student to state the math steps they took to solve the problem."
+    },
+    {
+      "ID": 1964,
+      "Speaker": "T",
+      "Turn": 1964,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to explain the source of the numbers used, prompting them to connect the calculation to the problem context."
+    },
+    {
+      "ID": 1967,
+      "Speaker": "T",
+      "Turn": 1967,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks 'Why', prompting the student to justify a specific step in their calculation."
+    },
+    {
+      "ID": 1969,
+      "Speaker": "T",
+      "Turn": 1969,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1970,
+      "Speaker": "T",
+      "Turn": 1970,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1971,
+      "Speaker": "T",
+      "Turn": 1971,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1972,
+      "Speaker": "T",
+      "Turn": 1972,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1974,
+      "Speaker": "T",
+      "Turn": 1974,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1975,
+      "Speaker": "T",
+      "Turn": 1975,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's strategy and explicates the reasoning ('because...') to the class."
+    },
+    {
+      "ID": 1976,
+      "Speaker": "T",
+      "Turn": 1976,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher continues to summarize the student's steps and reasoning for the class."
+    },
+    {
+      "ID": 1977,
+      "Speaker": "T",
+      "Turn": 1977,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1978,
+      "Speaker": "T",
+      "Turn": 1978,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks a student to explain their specific method for solving the problem."
+    },
+    {
+      "ID": 1980,
+      "Speaker": "T",
+      "Turn": 1980,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher reformulates and verifies the student's calculation steps ('So you did...')."
+    },
+    {
+      "ID": 1982,
+      "Speaker": "T",
+      "Turn": 1982,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's result and adds the reasoning ('because...') to clarify the step."
+    },
+    {
+      "ID": 1984,
+      "Speaker": "T",
+      "Turn": 1984,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 965,
+      "Speaker": "T",
+      "Turn": 965,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher paraphrases a student’s idea that another one-fifth is needed and checks for agreement."
+    },
+    {
+      "ID": 966,
+      "Speaker": "T",
+      "Turn": 966,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher restates and elaborates Maddox’s idea about splitting the dark green into equal parts to guide the task."
+    },
+    {
+      "ID": 967,
+      "Speaker": "T",
+      "Turn": 967,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks students to identify the correct piece (by color), prompting a precise answer."
+    },
+    {
+      "ID": 968,
+      "Speaker": "T",
+      "Turn": 968,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher continues to press for the correct identification of the piece."
+    },
+    {
+      "ID": 969,
+      "Speaker": "T",
+      "Turn": 969,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to specify which piece it was, seeking a correct, precise response."
+    },
+    {
+      "ID": 970,
+      "Speaker": "T",
+      "Turn": 970,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the exact piece, prompting a clear mathematical contribution."
+    },
+    {
+      "ID": 971,
+      "Speaker": "T",
+      "Turn": 971,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 973,
+      "Speaker": "T",
+      "Turn": 973,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher restates the student’s identification (“purple”) and checks for confirmation."
+    },
+    {
+      "ID": 974,
+      "Speaker": "T",
+      "Turn": 974,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher paraphrases the conclusion that two purple pieces equal one dark green."
+    },
+    {
+      "ID": 975,
+      "Speaker": "T",
+      "Turn": 975,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks students to express the value as a fraction, prompting use of mathematical language."
+    },
+    {
+      "ID": 976,
+      "Speaker": "T",
+      "Turn": 976,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats Maddox’s claim (“1/5”) verbatim."
+    },
+    {
+      "ID": 977,
+      "Speaker": "T",
+      "Turn": 977,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 978,
+      "Speaker": "T",
+      "Turn": 978,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 979,
+      "Speaker": "T",
+      "Turn": 979,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 980,
+      "Speaker": "T",
+      "Turn": 980,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 981,
+      "Speaker": "T",
+      "Turn": 981,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher checks whether the amount represents the whole, prompting a correct evaluation."
+    },
+    {
+      "ID": 982,
+      "Speaker": "T",
+      "Turn": 982,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks students to identify the whole, eliciting a precise mathematical description."
+    },
+    {
+      "ID": 984,
+      "Speaker": "T",
+      "Turn": 984,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 985,
+      "Speaker": "T",
+      "Turn": 985,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to name the whole shape."
+    },
+    {
+      "ID": 988,
+      "Speaker": "T",
+      "Turn": 988,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the answer (“one yellow”) word for word."
+    }
+  ]
+}

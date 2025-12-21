@@ -1,0 +1,25 @@
+{
+  "records": [
+    {
+      "ID": 6477,
+      "Turn": 1,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 6478,
+      "Turn": 1,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 6479,
+      "Turn": 1,
+      "Speaker": "T",
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats a question that came from students ('They said...') to make it the focus of the class discussion."
+    }
+  ]
+}

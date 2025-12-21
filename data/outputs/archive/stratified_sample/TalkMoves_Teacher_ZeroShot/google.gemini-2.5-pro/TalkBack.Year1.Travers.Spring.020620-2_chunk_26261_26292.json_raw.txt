@@ -1,0 +1,212 @@
+{
+  "records": [
+    {
+      "ID": 26261,
+      "Turn": 61,
+      "Speaker": "T",
+      "Sentence": "Two",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26262,
+      "Turn": 61,
+      "Speaker": "T",
+      "Sentence": "One",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26263,
+      "Turn": 61,
+      "Speaker": "T",
+      "Sentence": "High five",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26264,
+      "Turn": 61,
+      "Speaker": "T",
+      "Sentence": "Are we able  Leo",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26266,
+      "Turn": 62,
+      "Speaker": "T",
+      "Sentence": "The question really is what is it",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26267,
+      "Turn": 62,
+      "Speaker": "T",
+      "Sentence": "Right",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26268,
+      "Turn": 62,
+      "Speaker": "T",
+      "Sentence": "What are we talking about",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to be more specific about the context of the numbers, which is the mathematical unit."
+    },
+    {
+      "ID": 26269,
+      "Turn": 62,
+      "Speaker": "T",
+      "Sentence": "Were talking about money balloons miles inches",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26270,
+      "Turn": 62,
+      "Speaker": "T",
+      "Sentence": "You will have a word like dollars or whats another one William",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts a student to provide a specific example of a mathematical unit."
+    },
+    {
+      "ID": 26272,
+      "Turn": 64,
+      "Speaker": "T",
+      "Sentence": "Inches centimeters",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's contribution ('Inches') and adds another example ('centimeters'), thereby adding to the student's idea."
+    },
+    {
+      "ID": 26273,
+      "Turn": 64,
+      "Speaker": "T",
+      "Sentence": "You need to have that unit",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26275,
+      "Turn": 66,
+      "Speaker": "T",
+      "Sentence": "Awesome",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26276,
+      "Turn": 66,
+      "Speaker": "T",
+      "Sentence": "Okay",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26277,
+      "Turn": 66,
+      "Speaker": "T",
+      "Sentence": "Heres your job",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26278,
+      "Turn": 66,
+      "Speaker": "T",
+      "Sentence": "You are going to walk back to your desks but on the way back to your desks I want you to think to yourself What are the three parts to all of my answers today",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26279,
+      "Turn": 66,
+      "Speaker": "T",
+      "Sentence": "Were going to say single number model with",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to complete the sentence with a specific mathematical term ('parentheses')."
+    },
+    {
+      "ID": 26281,
+      "Turn": 68,
+      "Speaker": "T",
+      "Sentence": "Parentheses",
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's contribution ('Parentheses') verbatim."
+    },
+    {
+      "ID": 26282,
+      "Turn": 69,
+      "Speaker": "T",
+      "Sentence": "We need an",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to provide the next required term ('estimate')."
+    },
+    {
+      "ID": 26284,
+      "Turn": 71,
+      "Speaker": "T",
+      "Sentence": "And we need",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to provide the final required term ('units')."
+    },
+    {
+      "ID": 26286,
+      "Turn": 73,
+      "Speaker": "T",
+      "Sentence": "Okay",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26287,
+      "Turn": 73,
+      "Speaker": "T",
+      "Sentence": "On your way back tell yourself What are the three parts we need in our answer today",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26288,
+      "Turn": 73,
+      "Speaker": "T",
+      "Sentence": "Ready",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26289,
+      "Turn": 73,
+      "Speaker": "T",
+      "Sentence": "Back to your seats",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26290,
+      "Turn": 73,
+      "Speaker": "T",
+      "Sentence": "Go",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26291,
+      "Turn": 73,
+      "Speaker": "T",
+      "Sentence": "Tell yourself What are the three parts for our success criteria today",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26292,
+      "Turn": 74,
+      "Speaker": "T",
+      "Sentence": "you have  ready for me",
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "records": [
+    {
+      "ID": 21721,
+      "Speaker": "T",
+      "Turn": 25,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student’s 'minus one' and extends it to the consequence for x, paraphrasing the idea."
+    },
+    {
+      "ID": 21724,
+      "Speaker": "T",
+      "Turn": 28,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats 'Three' and frames it as the answer, rephrasing the student’s contribution."
+    },
+    {
+      "ID": 21725,
+      "Speaker": "T",
+      "Turn": 28,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks Nadia to state the next procedural step, prompting a mathematical contribution."
+    },
+    {
+      "ID": 21727,
+      "Speaker": "T",
+      "Turn": 30
+    },
+    {
+      "ID": 21730,
+      "Speaker": "T",
+      "Turn": 33
+    },
+    {
+      "ID": 21731,
+      "Speaker": "T",
+      "Turn": 33
+    },
+    {
+      "ID": 21733,
+      "Speaker": "T",
+      "Turn": 35,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Paraphrases the student's suggestion about substituting back as 'check our answer.'"
+    },
+    {
+      "ID": 21734,
+      "Speaker": "T",
+      "Turn": 35,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Builds on the student's idea by specifying substituting 3 and checking if it holds true."
+    },
+    {
+      "ID": 21735,
+      "Speaker": "T",
+      "Turn": 35,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Prompts whether the left side equals 4, asking for a specific mathematical check."
+    },
+    {
+      "ID": 21736,
+      "Speaker": "T",
+      "Turn": 35
+    },
+    {
+      "ID": 21737,
+      "Speaker": "T",
+      "Turn": 35
+    },
+    {
+      "ID": 21738,
+      "Speaker": "T",
+      "Turn": 35
+    },
+    {
+      "ID": 21739,
+      "Speaker": "T",
+      "Turn": 35,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks what to do first in solving the equation, eliciting the first mathematical step."
+    },
+    {
+      "ID": 21740,
+      "Speaker": "T",
+      "Turn": 35
+    },
+    {
+      "ID": 21741,
+      "Speaker": "T",
+      "Turn": 35,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks Joel to recall step one, prompting a precise mathematical action."
+    }
+  ]
+}

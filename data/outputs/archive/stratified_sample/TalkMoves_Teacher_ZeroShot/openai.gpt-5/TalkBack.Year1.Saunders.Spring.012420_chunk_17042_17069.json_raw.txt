@@ -1,0 +1,158 @@
+{
+  "records": [
+    {
+      "ID": 17042,
+      "Speaker": "T",
+      "Turn": 78,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17044,
+      "Speaker": "T",
+      "Turn": 80,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases the student's 'The profit' by adding detail to clarify the idea."
+    },
+    {
+      "ID": 17045,
+      "Speaker": "T",
+      "Turn": 80,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17046,
+      "Speaker": "T",
+      "Turn": 80,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the class to classify the sign of the parameter a (positive, negative, or zero)."
+    },
+    {
+      "ID": 17048,
+      "Speaker": "T",
+      "Turn": 82,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17050,
+      "Speaker": "T",
+      "Turn": 84,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's answer word-for-word ('Positive')."
+    },
+    {
+      "ID": 17051,
+      "Speaker": "T",
+      "Turn": 84,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks students to state whether the parabola opens up or down based on a positive a."
+    },
+    {
+      "ID": 17053,
+      "Speaker": "T",
+      "Turn": 86,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's 'Up' and adds commentary."
+    },
+    {
+      "ID": 17054,
+      "Speaker": "T",
+      "Turn": 87,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks students to identify whether the graph has a minimum or a maximum."
+    },
+    {
+      "ID": 17056,
+      "Speaker": "T",
+      "Turn": 88,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's 'A minimum' by adding 'value.'"
+    },
+    {
+      "ID": 17057,
+      "Speaker": "T",
+      "Turn": 88,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to explain the meaning of the minimum in the context of the story."
+    },
+    {
+      "ID": 17058,
+      "Speaker": "T",
+      "Turn": 88,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts an interpretation of the minimum value, eliciting explanation."
+    },
+    {
+      "ID": 17059,
+      "Speaker": "T",
+      "Turn": 88,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17060,
+      "Speaker": "T",
+      "Turn": 89,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17061,
+      "Speaker": "T",
+      "Turn": 89,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17062,
+      "Speaker": "T",
+      "Turn": 89,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17063,
+      "Speaker": "T",
+      "Turn": 89,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17064,
+      "Speaker": "T",
+      "Turn": 89,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks which axis represents the year."
+    },
+    {
+      "ID": 17065,
+      "Speaker": "T",
+      "Turn": 89,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher presses for the correct axis (X or Y) for the year."
+    },
+    {
+      "ID": 17067,
+      "Speaker": "T",
+      "Turn": 90,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher restates the student's 'X' by incorporating it into a fuller statement."
+    },
+    {
+      "ID": 17068,
+      "Speaker": "T",
+      "Turn": 90,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks how to find the x-value of the minimum from standard form, eliciting method/justification."
+    },
+    {
+      "ID": 17069,
+      "Speaker": "T",
+      "Turn": 91,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

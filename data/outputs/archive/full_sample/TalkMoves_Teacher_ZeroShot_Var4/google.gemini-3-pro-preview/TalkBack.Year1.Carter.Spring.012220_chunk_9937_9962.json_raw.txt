@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 9937,
+      "Speaker": "T",
+      "Turn": 9937,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9938,
+      "Speaker": "T",
+      "Turn": 9938,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9939,
+      "Speaker": "T",
+      "Turn": 9939,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to explain the method used to arrive at the answer ('How did you get five')."
+    },
+    {
+      "ID": 9943,
+      "Speaker": "T",
+      "Turn": 9943,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9944,
+      "Speaker": "T",
+      "Turn": 9944,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the students to consider and use a specific mathematical operation (division) to solve the problem."
+    },
+    {
+      "ID": 9946,
+      "Speaker": "T",
+      "Turn": 9946,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9947,
+      "Speaker": "T",
+      "Turn": 9947,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher explicitly asks a student to 'explain their thinking' regarding the division method."
+    },
+    {
+      "ID": 9949,
+      "Speaker": "T",
+      "Turn": 9949,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9950,
+      "Speaker": "T",
+      "Turn": 9950,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9951,
+      "Speaker": "T",
+      "Turn": 9951,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9952,
+      "Speaker": "T",
+      "Turn": 9952,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for a specific calculation result ('What is 710' [7/10])."
+    },
+    {
+      "ID": 9953,
+      "Speaker": "T",
+      "Turn": 9953,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9954,
+      "Speaker": "T",
+      "Turn": 9954,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts students to discuss the justification for the answer ('talk with your partner about why its 35')."
+    },
+    {
+      "ID": 9955,
+      "Speaker": "T",
+      "Turn": 9955,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9956,
+      "Speaker": "T",
+      "Turn": 9956,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9957,
+      "Speaker": "T",
+      "Turn": 9957,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9959,
+      "Speaker": "T",
+      "Turn": 9959,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9960,
+      "Speaker": "T",
+      "Turn": 9960,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9961,
+      "Speaker": "T",
+      "Turn": 9961,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to articulate the general steps or strategy ('the process') for solving the problem."
+    },
+    {
+      "ID": 9962,
+      "Speaker": "T",
+      "Turn": 9962,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher reiterates the request for students to explain the process/strategy used to solve the problem."
+    }
+  ]
+}

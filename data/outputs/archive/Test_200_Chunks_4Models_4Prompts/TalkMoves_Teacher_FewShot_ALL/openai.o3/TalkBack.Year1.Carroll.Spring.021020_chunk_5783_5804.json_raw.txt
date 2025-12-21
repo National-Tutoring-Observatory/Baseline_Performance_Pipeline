@@ -1,0 +1,109 @@
+{
+  "records": [
+    {
+      "ID": 5783,
+      "Speaker": "T",
+      "Turn": 123,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Teacher addresses a student’s off-task behavior to ensure attention to the class activity, orienting the student to participate with the group."
+    },
+    {
+      "ID": 5784,
+      "Speaker": "T",
+      "Turn": 123,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher reminds students to turn around and watch, prompting them to be active listeners during the class activity."
+    },
+    {
+      "ID": 5785,
+      "Speaker": "T",
+      "Turn": 123,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "By directing Jackson to pay attention, the teacher is orienting the student toward the shared classroom discussion."
+    },
+    {
+      "ID": 5786,
+      "Speaker": "T",
+      "Turn": 123,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the specific item/number they are on, prompting students to supply the correct factual information."
+    },
+    {
+      "ID": 5787,
+      "Speaker": "T",
+      "Turn": 123,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5788,
+      "Speaker": "T",
+      "Turn": 123,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher’s question about moving others serves to maintain collective attention and focus from all students."
+    },
+    {
+      "ID": 5791,
+      "Speaker": "T",
+      "Turn": 126,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5792,
+      "Speaker": "T",
+      "Turn": 126,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5794,
+      "Speaker": "T",
+      "Turn": 128,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5796,
+      "Speaker": "T",
+      "Turn": 130,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5797,
+      "Speaker": "T",
+      "Turn": 130,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks students to state whether 24 is ‘bizz’ or ‘buzz,’ prompting the precise mathematical classification."
+    },
+    {
+      "ID": 5799,
+      "Speaker": "T",
+      "Turn": 132,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5800,
+      "Speaker": "T",
+      "Turn": 132,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher begins a statement (‘25 would be …’) expecting students to supply the exact correct term."
+    },
+    {
+      "ID": 5803,
+      "Speaker": "T",
+      "Turn": 134,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student’s word ‘Bizz’ exactly, mirroring the student’s contribution."
+    },
+    {
+      "ID": 5804,
+      "Speaker": "T",
+      "Turn": 134,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks which numbers divide 27, prompting students to provide justification (factors) for the classification."
+    }
+  ]
+}

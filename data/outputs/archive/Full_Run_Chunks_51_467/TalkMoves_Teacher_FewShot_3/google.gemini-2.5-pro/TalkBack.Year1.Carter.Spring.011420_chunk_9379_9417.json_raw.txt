@@ -1,0 +1,268 @@
+{
+  "records": [
+    {
+      "ID": 9379,
+      "Turn": 94,
+      "Speaker": "T",
+      "Sentence": "Then we have there two fractions",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9380,
+      "Turn": 94,
+      "Speaker": "T",
+      "Sentence": "Why does this strategy work",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to explain why a mathematical strategy is effective."
+    },
+    {
+      "ID": 9381,
+      "Turn": 94,
+      "Speaker": "T",
+      "Sentence": "factors and multiples",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to use specific mathematical vocabulary in their explanation."
+    },
+    {
+      "ID": 9384,
+      "Turn": 96,
+      "Speaker": "T",
+      "Sentence": "Use the word factors and multiples you know that theyre both",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher explicitly directs a student to use specific mathematical terms."
+    },
+    {
+      "ID": 9386,
+      "Turn": 98,
+      "Speaker": "T",
+      "Sentence": "There you go",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9388,
+      "Turn": 100,
+      "Speaker": "T",
+      "Sentence": "What do you guys think",
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher asks the class to respond to a student's contribution."
+    },
+    {
+      "ID": 9389,
+      "Turn": 100,
+      "Speaker": "T",
+      "Sentence": "Now are you done once you know that the common denominator is 50",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a question to check for understanding of the next step in a mathematical procedure."
+    },
+    {
+      "ID": 9391,
+      "Turn": 102,
+      "Speaker": "T",
+      "Sentence": "No",
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's one-word answer."
+    },
+    {
+      "ID": 9392,
+      "Turn": 102,
+      "Speaker": "T",
+      "Sentence": "You know the new denominator what do you have to do to find the numerator",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students for the next step in the mathematical procedure."
+    },
+    {
+      "ID": 9393,
+      "Turn": 102,
+      "Speaker": "T",
+      "Sentence": "Show me a",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9394,
+      "Turn": 102,
+      "Speaker": "T",
+      "Sentence": "How are you going to know what to multiply it by",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to explain the thinking process for finding a multiplier."
+    },
+    {
+      "ID": 9395,
+      "Turn": 102,
+      "Speaker": "T",
+      "Sentence": "Lets talk about the one thats onefourth and twothirds because thats a nice small number",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9396,
+      "Turn": 102,
+      "Speaker": "T",
+      "Sentence": "What did I multiply 4 by to get the product of 12",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a direct question to elicit a specific mathematical fact."
+    },
+    {
+      "ID": 9397,
+      "Turn": 102,
+      "Speaker": "T",
+      "Sentence": "Really like the way people are showing me",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9398,
+      "Turn": 102,
+      "Speaker": "T",
+      "Sentence": "I multiplied the denominator by three",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9399,
+      "Turn": 102,
+      "Speaker": "T",
+      "Sentence": "What do I multiply the numerator by",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students for the next step in the mathematical procedure."
+    },
+    {
+      "ID": 9400,
+      "Turn": 102,
+      "Speaker": "T",
+      "Sentence": "Three",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9401,
+      "Turn": 102,
+      "Speaker": "T",
+      "Sentence": "Why did I multiply the denominator three by to get the product of 12",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a question that functions as a prompt for a specific mathematical fact (the number 4), despite the word 'Why'."
+    },
+    {
+      "ID": 9402,
+      "Turn": 102,
+      "Speaker": "T",
+      "Sentence": "What do I need to do to the numerator",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students for the next step in the mathematical procedure."
+    },
+    {
+      "ID": 9403,
+      "Turn": 102,
+      "Speaker": "T",
+      "Sentence": "Multiply by",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher provides a verbal scaffold to prompt students for a specific mathematical contribution."
+    },
+    {
+      "ID": 9405,
+      "Turn": 104,
+      "Speaker": "T",
+      "Sentence": "Four",
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's one-word answer."
+    },
+    {
+      "ID": 9406,
+      "Turn": 104,
+      "Speaker": "T",
+      "Sentence": "I get what to do with this I need more practice fabulous",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9407,
+      "Turn": 104,
+      "Speaker": "T",
+      "Sentence": "I am going to have you use sage and scribe",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9408,
+      "Turn": 104,
+      "Speaker": "T",
+      "Sentence": "You are going to be on page 157 could you please turn to that and  Liza I want you want you to be on 156",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9409,
+      "Turn": 104,
+      "Speaker": "T",
+      "Sentence": "Were going to skip the parts at the top where we summarize I feel weve summarized all through the lesson",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9410,
+      "Turn": 104,
+      "Speaker": "T",
+      "Sentence": "Go to the middle part  read these directions together",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9411,
+      "Turn": 105,
+      "Speaker": "T",
+      "Sentence": "Used any of these strategies on common denominators rewrite each fraction using their common denominators then solve",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9412,
+      "Turn": 106,
+      "Speaker": "T",
+      "Sentence": "Look at the first example",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9413,
+      "Turn": 106,
+      "Speaker": "T",
+      "Sentence": "Were on 1a",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9414,
+      "Turn": 106,
+      "Speaker": "T",
+      "Sentence": "See how we have twoninth and fivesixth",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9415,
+      "Turn": 106,
+      "Speaker": "T",
+      "Sentence": "They found the common denominator of 18 so did they use the quick common denominator method",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to analyze an example and provide reasoning about the mathematical method used."
+    },
+    {
+      "ID": 9416,
+      "Turn": 106,
+      "Speaker": "T",
+      "Sentence": "No",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9417,
+      "Turn": 106,
+      "Speaker": "T",
+      "Sentence": "They probably generated some fractions",
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

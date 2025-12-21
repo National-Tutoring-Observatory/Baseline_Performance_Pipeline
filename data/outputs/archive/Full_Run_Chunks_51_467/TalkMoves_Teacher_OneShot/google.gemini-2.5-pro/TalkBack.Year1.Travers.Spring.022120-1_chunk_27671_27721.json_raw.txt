@@ -1,0 +1,361 @@
+{
+  "records": [
+    {
+      "ID": 27671,
+      "Turn": 67,
+      "Speaker": "S",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 27672,
+      "Turn": 68,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 27673,
+      "Turn": 68,
+      "Speaker": "T",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher directs all students to check their own work, ensuring they are all engaged in the same activity."
+    },
+    {
+      "ID": 27674,
+      "Turn": 68,
+      "Speaker": "T",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher prompts students to check their own work, keeping the class together on the task."
+    },
+    {
+      "ID": 27675,
+      "Turn": 69,
+      "Speaker": "S",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 27676,
+      "Turn": 70,
+      "Speaker": "T",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher reminds the class of the current task, ensuring all students are focused on the same activity."
+    },
+    {
+      "ID": 27677,
+      "Turn": 70,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 27678,
+      "Turn": 70,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 27679,
+      "Turn": 70,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 27680,
+      "Turn": 70,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 27681,
+      "Turn": 71,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students for a specific mathematical decision (the direction of decimal movement)."
+    },
+    {
+      "ID": 27682,
+      "Turn": 71,
+      "Speaker": "S",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 27683,
+      "Turn": 72,
+      "Speaker": "T",
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's one-word answer verbatim."
+    },
+    {
+      "ID": 27684,
+      "Turn": 72,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students for a specific, correct numerical value related to the mathematical procedure."
+    },
+    {
+      "ID": 27685,
+      "Turn": 73,
+      "Speaker": "S",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 27686,
+      "Turn": 74,
+      "Speaker": "T",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher directs all students to check their work, ensuring the class stays together."
+    },
+    {
+      "ID": 27687,
+      "Turn": 74,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 27688,
+      "Turn": 74,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 27689,
+      "Turn": 75,
+      "Speaker": "T",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher directs all students to check their work, keeping them focused on the same task."
+    },
+    {
+      "ID": 27690,
+      "Turn": 75,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 27691,
+      "Turn": 75,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 27692,
+      "Turn": 75,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 27693,
+      "Turn": 75,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 27694,
+      "Turn": 75,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 27695,
+      "Turn": 75,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 27696,
+      "Turn": 75,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 27697,
+      "Turn": 75,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 27698,
+      "Turn": 75,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 27699,
+      "Turn": 75,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to make a specific mathematical choice about the direction of the decimal shift."
+    },
+    {
+      "ID": 27700,
+      "Turn": 76,
+      "Speaker": "S",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 27701,
+      "Turn": 77,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's idea but adds a preposition ('To the left' instead of 'Left'), slightly rephrasing it."
+    },
+    {
+      "ID": 27702,
+      "Turn": 77,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 27703,
+      "Turn": 77,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students for a specific, correct numerical value related to the mathematical procedure."
+    },
+    {
+      "ID": 27704,
+      "Turn": 77,
+      "Speaker": "T",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher prompts the entire class to respond together, ensuring collective participation."
+    },
+    {
+      "ID": 27705,
+      "Turn": 78,
+      "Speaker": "S",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 27706,
+      "Turn": 79,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 27707,
+      "Turn": 79,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 27708,
+      "Turn": 79,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 27709,
+      "Turn": 79,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 27710,
+      "Turn": 79,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 27711,
+      "Turn": 79,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to provide the final, correct answer to the problem."
+    },
+    {
+      "ID": 27712,
+      "Turn": 79,
+      "Speaker": "T",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher instructs the class to perform an action together (reading the answer), ensuring collective engagement."
+    },
+    {
+      "ID": 27713,
+      "Turn": 79,
+      "Speaker": "T",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher uses a cue word to prepare the entire class to respond in unison, keeping them together."
+    },
+    {
+      "ID": 27714,
+      "Turn": 79,
+      "Speaker": "T",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher gives the signal for the entire class to respond simultaneously, ensuring they act as a group."
+    },
+    {
+      "ID": 27715,
+      "Turn": 80,
+      "Speaker": "S",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 27716,
+      "Turn": 81,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 27717,
+      "Turn": 81,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 27718,
+      "Turn": 81,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 27719,
+      "Turn": 81,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 27720,
+      "Turn": 81,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 27721,
+      "Turn": 81,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

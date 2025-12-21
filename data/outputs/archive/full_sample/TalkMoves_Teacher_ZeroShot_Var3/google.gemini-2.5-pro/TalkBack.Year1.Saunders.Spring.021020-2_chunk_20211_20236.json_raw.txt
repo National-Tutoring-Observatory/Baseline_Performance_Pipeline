@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 20211,
+      "Speaker": "T",
+      "Turn": 20211,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 20212,
+      "Speaker": "T",
+      "Turn": 20212,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 20213,
+      "Speaker": "T",
+      "Turn": 20213,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 20214,
+      "Speaker": "T",
+      "Turn": 20214,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 20215,
+      "Speaker": "T",
+      "Turn": 20215,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 20216,
+      "Speaker": "T",
+      "Turn": 20216,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 20217,
+      "Speaker": "T",
+      "Turn": 20217,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 20220,
+      "Speaker": "T",
+      "Turn": 20220,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 20222,
+      "Speaker": "T",
+      "Turn": 20222,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts students to explain the meaning of a mathematical concept to their partner."
+    },
+    {
+      "ID": 20223,
+      "Speaker": "T",
+      "Turn": 20223,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to interpret and explain what a mathematical question is asking for."
+    },
+    {
+      "ID": 20224,
+      "Speaker": "T",
+      "Turn": 20224,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 20225,
+      "Speaker": "T",
+      "Turn": 20225,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to describe what the output of a mathematical model will look like, prompting them to share their thinking."
+    },
+    {
+      "ID": 20226,
+      "Speaker": "T",
+      "Turn": 20226,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher uses a fill-in-the-blank prompt to elicit a specific mathematical term from the students."
+    },
+    {
+      "ID": 20228,
+      "Speaker": "T",
+      "Turn": 20228,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats a student's one-word contribution."
+    },
+    {
+      "ID": 20231,
+      "Speaker": "T",
+      "Turn": 20231,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases the goal of the task, clarifying that finding a 'model' means finding an 'equation,' thereby adding precision to the students' developing ideas."
+    },
+    {
+      "ID": 20232,
+      "Speaker": "T",
+      "Turn": 20232,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 20233,
+      "Speaker": "T",
+      "Turn": 20233,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 20234,
+      "Speaker": "T",
+      "Turn": 20234,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 20235,
+      "Speaker": "T",
+      "Turn": 20235,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 20236,
+      "Speaker": "T",
+      "Turn": 20236,
+      "TalkMove": "None",
+      "Reasoning": null
+    }
+  ]
+}

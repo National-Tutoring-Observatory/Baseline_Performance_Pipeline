@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 792,
+      "Speaker": "T",
+      "Turn": 792,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the value, prompting a precise mathematical answer."
+    },
+    {
+      "ID": 794,
+      "Speaker": "T",
+      "Turn": 794,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 795,
+      "Speaker": "T",
+      "Turn": 795,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 796,
+      "Speaker": "T",
+      "Turn": 796,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 797,
+      "Speaker": "T",
+      "Turn": 797,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 798,
+      "Speaker": "T",
+      "Turn": 798,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 799,
+      "Speaker": "T",
+      "Turn": 799,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Asks students to pause and hold their thoughts, orienting the class to stay together before sharing."
+    },
+    {
+      "ID": 800,
+      "Speaker": "T",
+      "Turn": 800,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 801,
+      "Speaker": "T",
+      "Turn": 801,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 802,
+      "Speaker": "T",
+      "Turn": 802,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 803,
+      "Speaker": "T",
+      "Turn": 803,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Requests which piece is equivalent to the whole, eliciting a specific mathematical identification."
+    },
+    {
+      "ID": 805,
+      "Speaker": "T",
+      "Turn": 805,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks for the color to precisely identify the mathematical piece used."
+    },
+    {
+      "ID": 807,
+      "Speaker": "T",
+      "Turn": 807,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Repeats the student's answer ('orange') and adds mathematical context about its fractional value."
+    },
+    {
+      "ID": 808,
+      "Speaker": "T",
+      "Turn": 808,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 809,
+      "Speaker": "T",
+      "Turn": 809,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 810,
+      "Speaker": "T",
+      "Turn": 810,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 812,
+      "Speaker": "T",
+      "Turn": 812,
+      "TalkMove": "Restating",
+      "Reasoning": "Echoes a student's suggestion ('two light blues') to the class."
+    },
+    {
+      "ID": 813,
+      "Speaker": "T",
+      "Turn": 813,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Invites the class to test whether the suggestion works, seeking evidence."
+    },
+    {
+      "ID": 814,
+      "Speaker": "T",
+      "Turn": 814,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 815,
+      "Speaker": "T",
+      "Turn": 815,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Directs the class’s attention to a peer’s approach, orienting students to each other’s thinking."
+    }
+  ]
+}

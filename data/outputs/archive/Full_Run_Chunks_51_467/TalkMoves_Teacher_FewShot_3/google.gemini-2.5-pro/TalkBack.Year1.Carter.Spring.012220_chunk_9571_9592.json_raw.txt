@@ -1,0 +1,88 @@
+{
+  "records": [
+    {
+      "ID": 9571,
+      "Speaker": "T",
+      "Turn": 29,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9572,
+      "Speaker": "T",
+      "Turn": 29,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9573,
+      "Speaker": "T",
+      "Turn": 30,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9575,
+      "Speaker": "T",
+      "Turn": 31,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9576,
+      "Speaker": "T",
+      "Turn": 32,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks the student to provide the correct mathematical expression for a given value."
+    },
+    {
+      "ID": 9578,
+      "Speaker": "T",
+      "Turn": 33,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher offers a specific alternative to guide the student toward the correct mathematical notation."
+    },
+    {
+      "ID": 9580,
+      "Speaker": "T",
+      "Turn": 35,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher provides the reasoning for the correct notation and asks the student to confirm their understanding."
+    },
+    {
+      "ID": 9582,
+      "Speaker": "T",
+      "Turn": 37,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher states a mathematical fact to guide the student toward using the correct exponential notation."
+    },
+    {
+      "ID": 9584,
+      "Speaker": "T",
+      "Turn": 39,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's correct answer, adding words ('Yes so it should be') to confirm and emphasize the correct mathematical notation."
+    },
+    {
+      "ID": 9586,
+      "Speaker": "T",
+      "Turn": 41,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher explicitly asks the student if they understand the reasoning behind the correct answer."
+    },
+    {
+      "ID": 9591,
+      "Speaker": "T",
+      "Turn": 44,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9592,
+      "Speaker": "T",
+      "Turn": 44,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

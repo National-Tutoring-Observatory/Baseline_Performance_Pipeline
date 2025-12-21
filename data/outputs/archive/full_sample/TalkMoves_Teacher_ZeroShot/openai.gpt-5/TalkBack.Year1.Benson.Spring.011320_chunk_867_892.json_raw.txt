@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 867,
+      "Speaker": "T",
+      "Turn": 867,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 868,
+      "Speaker": "T",
+      "Turn": 868,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 869,
+      "Speaker": "T",
+      "Turn": 869,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks Sophie to specify which two pieces she used, prompting a precise mathematical identification."
+    },
+    {
+      "ID": 871,
+      "Speaker": "T",
+      "Turn": 871,
+      "TalkMove": "Restating",
+      "Reasoning": "Repeats the student's answer word-for-word: 'Two light greens.'"
+    },
+    {
+      "ID": 872,
+      "Speaker": "T",
+      "Turn": 872,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 873,
+      "Speaker": "T",
+      "Turn": 873,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 874,
+      "Speaker": "T",
+      "Turn": 874,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 875,
+      "Speaker": "T",
+      "Turn": 875,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 876,
+      "Speaker": "T",
+      "Turn": 876,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Prompts students to state the fractional value of a piece using mathematical language."
+    },
+    {
+      "ID": 877,
+      "Speaker": "T",
+      "Turn": 877,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Clarifies the context (a full circle) to elicit the correct fractional value."
+    },
+    {
+      "ID": 879,
+      "Speaker": "T",
+      "Turn": 879,
+      "TalkMove": "Restating",
+      "Reasoning": "Repeats Alice’s contribution verbatim to share it with the class."
+    },
+    {
+      "ID": 880,
+      "Speaker": "T",
+      "Turn": 880,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "Invites Jen to agree or disagree with Alice’s idea."
+    },
+    {
+      "ID": 881,
+      "Speaker": "T",
+      "Turn": 881,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 883,
+      "Speaker": "T",
+      "Turn": 883,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Asks for justification for the agreement."
+    },
+    {
+      "ID": 884,
+      "Speaker": "T",
+      "Turn": 884,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Requests the precise fractional value of the light blue piece."
+    },
+    {
+      "ID": 886,
+      "Speaker": "T",
+      "Turn": 886,
+      "TalkMove": "Restating",
+      "Reasoning": "Echoes the student's response 'Two thirds.'"
+    },
+    {
+      "ID": 887,
+      "Speaker": "T",
+      "Turn": 887,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Summarizes and connects the class’s finding—two light greens equal the light blue, which is two-thirds—adding wording."
+    },
+    {
+      "ID": 888,
+      "Speaker": "T",
+      "Turn": 888,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Prompts students to explain why Alice's claim of one-third makes sense."
+    },
+    {
+      "ID": 890,
+      "Speaker": "T",
+      "Turn": 890,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Paraphrases the student's idea to clarify for the class ('one is half of two-thirds')."
+    },
+    {
+      "ID": 892,
+      "Speaker": "T",
+      "Turn": 892,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Restates the justification in the teacher’s own words, connecting to 'half of two is one.'"
+    }
+  ]
+}

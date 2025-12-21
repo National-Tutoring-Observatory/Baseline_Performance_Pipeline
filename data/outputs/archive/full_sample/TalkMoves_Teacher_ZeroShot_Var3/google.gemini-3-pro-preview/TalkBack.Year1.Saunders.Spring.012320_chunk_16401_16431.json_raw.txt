@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 16401,
+      "Speaker": "T",
+      "Turn": 16401,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 16402,
+      "Speaker": "T",
+      "Turn": 16402,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a specific question prompting students to recall or state a mathematical definition/formula."
+    },
+    {
+      "ID": 16403,
+      "Speaker": "T",
+      "Turn": 16403,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 16404,
+      "Speaker": "T",
+      "Turn": 16404,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 16405,
+      "Speaker": "T",
+      "Turn": 16405,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases what a student likely asked or said ('is what youre saying') to clarify the mathematical question about finding x-intercepts or the vertex."
+    },
+    {
+      "ID": 16408,
+      "Speaker": "T",
+      "Turn": 16408,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher directs the whole class to perform a specific action to ensure everyone is 'on track' and working together."
+    },
+    {
+      "ID": 16409,
+      "Speaker": "T",
+      "Turn": 16409,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 16412,
+      "Speaker": "T",
+      "Turn": 16412,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 16413,
+      "Speaker": "T",
+      "Turn": 16413,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for a specific mathematical result (the equation)."
+    },
+    {
+      "ID": 16414,
+      "Speaker": "T",
+      "Turn": 16414,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to state the specific equation they derived."
+    },
+    {
+      "ID": 16416,
+      "Speaker": "T",
+      "Turn": 16416,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks the student to verify a specific calculation (the x value)."
+    },
+    {
+      "ID": 16418,
+      "Speaker": "T",
+      "Turn": 16418,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher addresses the whole class ('Ladies and gentlemen') to manage the pacing and ensure everyone finishes up together."
+    },
+    {
+      "ID": 16419,
+      "Speaker": "T",
+      "Turn": 16419,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 16420,
+      "Speaker": "T",
+      "Turn": 16420,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for a specific numerical value related to the problem context."
+    },
+    {
+      "ID": 16422,
+      "Speaker": "T",
+      "Turn": 16422,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 16424,
+      "Speaker": "T",
+      "Turn": 16424,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to distinguish between two possible trajectories, prompting them to think about the shape/behavior of the graph."
+    },
+    {
+      "ID": 16426,
+      "Speaker": "T",
+      "Turn": 16426,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for specific values."
+    },
+    {
+      "ID": 16427,
+      "Speaker": "T",
+      "Turn": 16427,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 16429,
+      "Speaker": "T",
+      "Turn": 16429,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 16431,
+      "Speaker": "T",
+      "Turn": 16431,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher addresses the group ('All right coaches') to coordinate the end of the activity and ensure everyone is checking answers."
+    }
+  ]
+}

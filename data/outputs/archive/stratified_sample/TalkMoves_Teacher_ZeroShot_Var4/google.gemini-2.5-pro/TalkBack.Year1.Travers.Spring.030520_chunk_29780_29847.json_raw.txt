@@ -1,0 +1,508 @@
+{
+  "records": [
+    {
+      "ID": 29780,
+      "Turn": 12,
+      "Speaker": "T",
+      "Sentence": "Everybody sit down and think",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 29781,
+      "Turn": 12,
+      "Speaker": "T",
+      "Sentence": "What is a remainder",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to provide a mathematical definition."
+    },
+    {
+      "ID": 29782,
+      "Turn": 12,
+      "Speaker": "T",
+      "Sentence": "Dont talk",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 29783,
+      "Turn": 12,
+      "Speaker": "T",
+      "Sentence": "Just think",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 29784,
+      "Turn": 12,
+      "Speaker": "T",
+      "Sentence": "Jot down on your whiteboard what do you know about remainder itself",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 29785,
+      "Turn": 12,
+      "Speaker": "T",
+      "Sentence": "What is a remainder",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher repeats the prompt for students to provide a mathematical definition."
+    },
+    {
+      "ID": 29786,
+      "Turn": 13,
+      "Speaker": "T",
+      "Sentence": "Please stand up",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 29787,
+      "Turn": 13,
+      "Speaker": "T",
+      "Sentence": "Without talking I want you to stand up and face your shoulder partner at your desks",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 29788,
+      "Turn": 13,
+      "Speaker": "T",
+      "Sentence": "Stand up and face your shoulder partner",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 29789,
+      "Turn": 13,
+      "Speaker": "T",
+      "Sentence": "That means youre going to be standing and turning your body to see your shoulder partner",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 29790,
+      "Turn": 13,
+      "Speaker": "T",
+      "Sentence": "stand up",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 29791,
+      "Turn": 13,
+      "Speaker": "T",
+      "Sentence": "Thats why Im doing this so I can help you find your shoulder partner",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 29792,
+      "Turn": 13,
+      "Speaker": "T",
+      "Sentence": "If you have the shortest hair I want you to share first",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 29793,
+      "Turn": 13,
+      "Speaker": "T",
+      "Sentence": "What is a remainder",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher provides the prompt for the partner discussion, asking for a mathematical definition."
+    },
+    {
+      "ID": 29794,
+      "Turn": 13,
+      "Speaker": "T",
+      "Sentence": "When that person is done the other person will share",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 29795,
+      "Turn": 13,
+      "Speaker": "T",
+      "Sentence": "Ready",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 29796,
+      "Turn": 13,
+      "Speaker": "T",
+      "Sentence": "Go",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 29798,
+      "Turn": 14,
+      "Speaker": "T",
+      "Sentence": "You should be talking with your partners",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 29799,
+      "Turn": 14,
+      "Speaker": "T",
+      "Sentence": "Both partners have shared",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 29800,
+      "Turn": 14,
+      "Speaker": "T",
+      "Sentence": "Can you add anything to it",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to add more detail to their partner's mathematical contribution."
+    },
+    {
+      "ID": 29801,
+      "Turn": 14,
+      "Speaker": "T",
+      "Sentence": "Can you add anything",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher repeats the prompt for students to add more detail to their partner's mathematical contribution."
+    },
+    {
+      "ID": 29802,
+      "Turn": 15,
+      "Speaker": "T",
+      "Sentence": "Okay",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 29803,
+      "Turn": 15,
+      "Speaker": "T",
+      "Sentence": "Ladies and gentlemen please close your conversation",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 29804,
+      "Turn": 15,
+      "Speaker": "T",
+      "Sentence": "Thank your partner",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 29805,
+      "Turn": 15,
+      "Speaker": "T",
+      "Sentence": "Check the definition that you have on your whiteboard right now",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 29806,
+      "Turn": 15,
+      "Speaker": "T",
+      "Sentence": "Check",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 29807,
+      "Turn": 15,
+      "Speaker": "T",
+      "Sentence": "Look at the definition you have on your whiteboard right now",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 29808,
+      "Turn": 15,
+      "Speaker": "T",
+      "Sentence": "These are a couple things I saw",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 29809,
+      "Turn": 15,
+      "Speaker": "T",
+      "Sentence": "A remainder is the leftover from a division problem",
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher reads a student's idea from their whiteboard to share with the class."
+    },
+    {
+      "ID": 29810,
+      "Turn": 15,
+      "Speaker": "T",
+      "Sentence": "If I read something that you agree with will you stand up",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 29811,
+      "Turn": 15,
+      "Speaker": "T",
+      "Sentence": "Were going to stand up if you agree stay seated if you dont agree",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 29812,
+      "Turn": 15,
+      "Speaker": "T",
+      "Sentence": "Ready",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 29813,
+      "Turn": 15,
+      "Speaker": "T",
+      "Sentence": "A remainder is the leftover from a division problem",
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats a student's idea for the class to evaluate."
+    },
+    {
+      "ID": 29814,
+      "Turn": 15,
+      "Speaker": "T",
+      "Sentence": "Do you agree",
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher prompts students to react to and evaluate a classmate's idea."
+    },
+    {
+      "ID": 29815,
+      "Turn": 15,
+      "Speaker": "T",
+      "Sentence": "Touchdown",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 29816,
+      "Turn": 15,
+      "Speaker": "T",
+      "Sentence": "Sit down",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 29817,
+      "Turn": 15,
+      "Speaker": "T",
+      "Sentence": "The remainder is a number that is leftover and cannot fit in the divisor evenly",
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher reads another student's idea from their whiteboard to share with the class."
+    },
+    {
+      "ID": 29818,
+      "Turn": 15,
+      "Speaker": "T",
+      "Sentence": "Touchdown",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 29819,
+      "Turn": 15,
+      "Speaker": "T",
+      "Sentence": "Sit down",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 29820,
+      "Turn": 15,
+      "Speaker": "T",
+      "Sentence": "A remainder is what is left after you do a division problem",
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher reads another student's idea from their whiteboard to share with the class."
+    },
+    {
+      "ID": 29821,
+      "Turn": 15,
+      "Speaker": "T",
+      "Sentence": "Touchdown",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 29822,
+      "Turn": 15,
+      "Speaker": "T",
+      "Sentence": "A remainder is the leftover number it cannot be greater than the divisor",
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher reads another student's idea from their whiteboard to share with the class."
+    },
+    {
+      "ID": 29823,
+      "Turn": 15,
+      "Speaker": "T",
+      "Sentence": "Excellent",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 29824,
+      "Turn": 15,
+      "Speaker": "T",
+      "Sentence": "Thank you",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 29825,
+      "Turn": 15,
+      "Speaker": "T",
+      "Sentence": "Please sit down",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 29826,
+      "Turn": 15,
+      "Speaker": "T",
+      "Sentence": "You may erase your board",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 29827,
+      "Turn": 15,
+      "Speaker": "T",
+      "Sentence": "What were some of the things you heard that were common among the definitions",
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher prompts students to compare and find commonalities among the multiple student ideas that were just shared."
+    },
+    {
+      "ID": 29828,
+      "Turn": 15,
+      "Speaker": "T",
+      "Sentence": "This time I will take some hands",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 29829,
+      "Turn": 15,
+      "Speaker": "T",
+      "Sentence": "What were some things you heard about what is a remainder that youre like Ive heard that a couple times or I think this is whats true about remainders",
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher rephrases the prompt for students to synthesize and relate the different definitions they have heard."
+    },
+    {
+      "ID": 29830,
+      "Turn": 15,
+      "Speaker": "T",
+      "Sentence": "Logan start us please",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 29833,
+      "Turn": 16,
+      "Speaker": "T",
+      "Sentence": "Thank you",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 29834,
+      "Turn": 16,
+      "Speaker": "T",
+      "Sentence": "Liza",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 29836,
+      "Turn": 18,
+      "Speaker": "T",
+      "Sentence": "What is it",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks the student for clarification of an imprecise phrase."
+    },
+    {
+      "ID": 29838,
+      "Turn": 20,
+      "Speaker": "T",
+      "Sentence": "Any more times evenly",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher completes the student's sentence, adding mathematical language to make the idea more precise."
+    },
+    {
+      "ID": 29839,
+      "Turn": 20,
+      "Speaker": "T",
+      "Sentence": "Right",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 29840,
+      "Turn": 20,
+      "Speaker": "T",
+      "Sentence": "After you do a division problem its whats left from a quotient",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher synthesizes and rephrases the collective student ideas about remainders into more formal mathematical language."
+    },
+    {
+      "ID": 29841,
+      "Turn": 20,
+      "Speaker": "T",
+      "Sentence": "So A little extra amount that cant go into the divisor evenly",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher continues to synthesize and rephrase the collective student ideas, clarifying the definition for the class."
+    },
+    {
+      "ID": 29842,
+      "Turn": 20,
+      "Speaker": "T",
+      "Sentence": "Thank you so much",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 29843,
+      "Turn": 20,
+      "Speaker": "T",
+      "Sentence": "You may put your hands down",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 29844,
+      "Turn": 20,
+      "Speaker": "T",
+      "Sentence": "Ms Dover lets look at the next board",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 29845,
+      "Turn": 21,
+      "Speaker": "T",
+      "Sentence": "Okay",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 29846,
+      "Turn": 21,
+      "Speaker": "T",
+      "Sentence": "I want to hear all of your voices and I want you to really pay attention to whats in blue because this is the success criteria",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher prompts students to be active listeners and orients them to the important information for the task."
+    },
+    {
+      "ID": 29847,
+      "Turn": 21,
+      "Speaker": "T",
+      "Sentence": "Youre going to think yourself This is what I need to do in my problems today",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher orients all students to a common mental focus and purpose for the upcoming activity."
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 22662,
+      "Speaker": "T",
+      "Turn": 22662,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22663,
+      "Speaker": "T",
+      "Turn": 22663,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22664,
+      "Speaker": "T",
+      "Turn": 22664,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22665,
+      "Speaker": "T",
+      "Turn": 22665,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22666,
+      "Speaker": "T",
+      "Turn": 22666,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22667,
+      "Speaker": "T",
+      "Turn": 22667,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22668,
+      "Speaker": "T",
+      "Turn": 22668,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22669,
+      "Speaker": "T",
+      "Turn": 22669,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22673,
+      "Speaker": "T",
+      "Turn": 22673,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's answer ('Three fourths') to verify or amplify it."
+    },
+    {
+      "ID": 22674,
+      "Speaker": "T",
+      "Turn": 22674,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher confirms the student's contribution ('Thats what you had'), effectively revoicing the intent."
+    },
+    {
+      "ID": 22675,
+      "Speaker": "T",
+      "Turn": 22675,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22676,
+      "Speaker": "T",
+      "Turn": 22676,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher directs the class's attention to a specific student's contribution ('I want you to hear a vocabulary word that I heard Noah say')."
+    },
+    {
+      "ID": 22677,
+      "Speaker": "T",
+      "Turn": 22677,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats and rephrases what Noah said ('He said he converted one half to')."
+    },
+    {
+      "ID": 22679,
+      "Speaker": "T",
+      "Turn": 22679,
+      "TalkMove": "Revoicing",
+      "Reasoning": "This is a continuation of the revoicing of Noah's idea."
+    },
+    {
+      "ID": 22681,
+      "Speaker": "T",
+      "Turn": 22681,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher completes the revoicing of the student's idea, highlighting the term 'equivalent fraction'."
+    },
+    {
+      "ID": 22682,
+      "Speaker": "T",
+      "Turn": 22682,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks the students to repeat the specific mathematical term ('Say Equivalent fraction')."
+    },
+    {
+      "ID": 22684,
+      "Speaker": "T",
+      "Turn": 22684,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks for the definition or meaning behind the term ('What does that mean')."
+    },
+    {
+      "ID": 22685,
+      "Speaker": "T",
+      "Turn": 22685,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher repeats the request for explanation ('What is an equivalent fraction mean')."
+    },
+    {
+      "ID": 22686,
+      "Speaker": "T",
+      "Turn": 22686,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks for the thinking process or evidence ('How did you know')."
+    },
+    {
+      "ID": 22687,
+      "Speaker": "T",
+      "Turn": 22687,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher invites the student to elaborate on their thinking ('Do you want to tell us a little bit more about that Noah')."
+    }
+  ]
+}

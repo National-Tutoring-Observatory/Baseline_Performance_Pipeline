@@ -1,0 +1,74 @@
+{
+  "records": [
+    {
+      "ID": 21824,
+      "Speaker": "T",
+      "Turn": 76,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks Brittany to state the first procedural step, prompting a specific mathematical contribution."
+    },
+    {
+      "ID": 21826,
+      "Speaker": "T",
+      "Turn": 78,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student’s phrase \"Isolate the,\" mirroring the student’s wording."
+    },
+    {
+      "ID": 21827,
+      "Speaker": "T",
+      "Turn": 78,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the next specific procedural step, eliciting a precise mathematical action."
+    },
+    {
+      "ID": 21829,
+      "Speaker": "T",
+      "Turn": 80,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher restates the student’s idea (“Get rid of the radical”) and extends it by specifying how (raise to a power)."
+    },
+    {
+      "ID": 21831,
+      "Speaker": "T",
+      "Turn": 82,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher echoes the student’s answer (“A second power”) and adds the resulting equation, refining the student’s statement."
+    },
+    {
+      "ID": 21835,
+      "Speaker": "T",
+      "Turn": 85,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the corrected solution \"x9\" exactly as the student stated."
+    },
+    {
+      "ID": 21836,
+      "Speaker": "T",
+      "Turn": 85,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the exact value of √9, prompting a precise numerical answer."
+    },
+    {
+      "ID": 21838,
+      "Speaker": "T",
+      "Turn": 87,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student’s answer \"Three\" verbatim."
+    },
+    {
+      "ID": 21839,
+      "Speaker": "T",
+      "Turn": 87,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21840,
+      "Speaker": "T",
+      "Turn": 87,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

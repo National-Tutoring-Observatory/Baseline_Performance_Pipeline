@@ -1,0 +1,489 @@
+[
+  {
+    "records": [
+      {
+        "ID": 2958,
+        "Speaker": "T",
+        "Turn": 69,
+        "TalkMove": "Revoicing",
+        "Reasoning": "The teacher is summarizing and rephrasing a student's strategy to confirm understanding."
+      },
+      {
+        "ID": 2959,
+        "Speaker": "T",
+        "Turn": 69,
+        "TalkMove": "Revoicing",
+        "Reasoning": "The teacher continues to summarize and rephrase a student's strategy to confirm understanding."
+      },
+      {
+        "ID": 2960,
+        "Speaker": "T",
+        "Turn": 69,
+        "TalkMove": "Revoicing",
+        "Reasoning": "The teacher completes the summary of the student's strategy and asks for confirmation, a key part of the revoicing move."
+      },
+      {
+        "ID": 2962,
+        "Speaker": "T",
+        "Turn": 71,
+        "TalkMove": null,
+        "Reasoning": null
+      },
+      {
+        "ID": 2963,
+        "Speaker": "T",
+        "Turn": 71,
+        "TalkMove": null,
+        "Reasoning": null
+      },
+      {
+        "ID": 2964,
+        "Speaker": "T",
+        "Turn": 71,
+        "TalkMove": null,
+        "Reasoning": null
+      },
+      {
+        "ID": 2966,
+        "Speaker": "T",
+        "Turn": 73,
+        "TalkMove": null,
+        "Reasoning": null
+      },
+      {
+        "ID": 2967,
+        "Speaker": "T",
+        "Turn": 73,
+        "TalkMove": "Keeping Everyone Together",
+        "Reasoning": "The teacher directs the class's attention to the contribution made by a student."
+      },
+      {
+        "ID": 2968,
+        "Speaker": "T",
+        "Turn": 73,
+        "TalkMove": null,
+        "Reasoning": null
+      },
+      {
+        "ID": 2969,
+        "Speaker": "T",
+        "Turn": 73,
+        "TalkMove": null,
+        "Reasoning": null
+      },
+      {
+        "ID": 2970,
+        "Speaker": "T",
+        "Turn": 73,
+        "TalkMove": null,
+        "Reasoning": null
+      },
+      {
+        "ID": 2971,
+        "Speaker": "T",
+        "Turn": 73,
+        "TalkMove": null,
+        "Reasoning": null
+      },
+      {
+        "ID": 2972,
+        "Speaker": "T",
+        "Turn": 73,
+        "TalkMove": null,
+        "Reasoning": null
+      },
+      {
+        "ID": 2973,
+        "Speaker": "T",
+        "Turn": 73,
+        "TalkMove": null,
+        "Reasoning": null
+      },
+      {
+        "ID": 2974,
+        "Speaker": "T",
+        "Turn": 73,
+        "TalkMove": null,
+        "Reasoning": null
+      },
+      {
+        "ID": 2975,
+        "Speaker": "T",
+        "Turn": 73,
+        "TalkMove": null,
+        "Reasoning": null
+      },
+      {
+        "ID": 2976,
+        "Speaker": "T",
+        "Turn": 73,
+        "TalkMove": null,
+        "Reasoning": null
+      },
+      {
+        "ID": 2977,
+        "Speaker": "T",
+        "Turn": 73,
+        "TalkMove": null,
+        "Reasoning": null
+      },
+      {
+        "ID": 2978,
+        "Speaker": "T",
+        "Turn": 73,
+        "TalkMove": "Revoicing",
+        "Reasoning": "The teacher rephrases the student's task to set up a question about their thinking."
+      },
+      {
+        "ID": 2979,
+        "Speaker": "T",
+        "Turn": 73,
+        "TalkMove": "Pressing for Reasoning",
+        "Reasoning": "The teacher asks the student to share the thinking behind their strategy."
+      },
+      {
+        "ID": 2981,
+        "Speaker": "T",
+        "Turn": 75,
+        "TalkMove": "Restating",
+        "Reasoning": "The teacher repeats the student's exact phrase 'thought of basic fact' to acknowledge their contribution."
+      },
+      {
+        "ID": 2982,
+        "Speaker": "T",
+        "Turn": 75,
+        "TalkMove": null,
+        "Reasoning": null
+      },
+      {
+        "ID": 2983,
+        "Speaker": "T",
+        "Turn": 75,
+        "TalkMove": "Pressing for Accuracy",
+        "Reasoning": "The teacher asks for a specific detail about how the student wrote their answer, pressing for precision in their mathematical representation."
+      },
+      {
+        "ID": 2985,
+        "Speaker": "T",
+        "Turn": 77,
+        "TalkMove": "Pressing for Accuracy",
+        "Reasoning": "The teacher presses for more specific detail about the placement of a digit, which is crucial for accuracy in the standard algorithm."
+      },
+      {
+        "ID": 2987,
+        "Speaker": "T",
+        "Turn": 79,
+        "TalkMove": "Restating",
+        "Reasoning": "The teacher repeats the student's answer 'above the five' verbatim."
+      },
+      {
+        "ID": 2988,
+        "Speaker": "T",
+        "Turn": 79,
+        "TalkMove": "Pressing for Reasoning",
+        "Reasoning": "The teacher asks the student to explain the thinking or rule behind their action."
+      },
+      {
+        "ID": 2990,
+        "Speaker": "T",
+        "Turn": 81,
+        "TalkMove": null,
+        "Reasoning": null
+      },
+      {
+        "ID": 2991,
+        "Speaker": "T",
+        "Turn": 81,
+        "TalkMove": null,
+        "Reasoning": null
+      },
+      {
+        "ID": 2992,
+        "Speaker": "T",
+        "Turn": 81,
+        "TalkMove": null,
+        "Reasoning": null
+      },
+      {
+        "ID": 2993,
+        "Speaker": "T",
+        "Turn": 81,
+        "TalkMove": null,
+        "Reasoning": null
+      },
+      {
+        "ID": 2994,
+        "Speaker": "T",
+        "Turn": 81,
+        "TalkMove": null,
+        "Reasoning": null
+      },
+      {
+        "ID": 2996,
+        "Speaker": "T",
+        "Turn": 83,
+        "TalkMove": null,
+        "Reasoning": null
+      },
+      {
+        "ID": 2997,
+        "Speaker": "T",
+        "Turn": 83,
+        "TalkMove": null,
+        "Reasoning": null
+      },
+      {
+        "ID": 2998,
+        "Speaker": "T",
+        "Turn": 83,
+        "TalkMove": null,
+        "Reasoning": null
+      },
+      {
+        "ID": 2999,
+        "Speaker": "T",
+        "Turn": 83,
+        "TalkMove": null,
+        "Reasoning": null
+      },
+      {
+        "ID": 3000,
+        "Speaker": "T",
+        "Turn": 83,
+        "TalkMove": null,
+        "Reasoning": null
+      },
+      {
+        "ID": 3001,
+        "Speaker": "T",
+        "Turn": 83,
+        "TalkMove": null,
+        "Reasoning": null
+      },
+      {
+        "ID": 3003,
+        "Speaker": "T",
+        "Turn": 85,
+        "TalkMove": null,
+        "Reasoning": null
+      },
+      {
+        "ID": 3004,
+        "Speaker": "T",
+        "Turn": 85,
+        "TalkMove": null,
+        "Reasoning": null
+      },
+      {
+        "ID": 3005,
+        "Speaker": "T",
+        "Turn": 85,
+        "TalkMove": null,
+        "Reasoning": null
+      },
+      {
+        "ID": 3007,
+        "Speaker": "T",
+        "Turn": 87,
+        "TalkMove": null,
+        "Reasoning": null
+      },
+      {
+        "ID": 3008,
+        "Speaker": "T",
+        "Turn": 87,
+        "TalkMove": null,
+        "Reasoning": null
+      },
+      {
+        "ID": 3009,
+        "Speaker": "T",
+        "Turn": 87,
+        "TalkMove": null,
+        "Reasoning": null
+      },
+      {
+        "ID": 3010,
+        "Speaker": "T",
+        "Turn": 87,
+        "TalkMove": null,
+        "Reasoning": null
+      },
+      {
+        "ID": 3011,
+        "Speaker": "T",
+        "Turn": 87,
+        "TalkMove": "Keeping Everyone Together",
+        "Reasoning": "The teacher explicitly directs students to focus their attention on the shared problem."
+      },
+      {
+        "ID": 3012,
+        "Speaker": "T",
+        "Turn": 87,
+        "TalkMove": null,
+        "Reasoning": null
+      },
+      {
+        "ID": 3013,
+        "Speaker": "T",
+        "Turn": 88,
+        "TalkMove": "Pressing for Accuracy",
+        "Reasoning": "The teacher asks for the definition of a mathematical term, pressing for correct use of language."
+      },
+      {
+        "ID": 3014,
+        "Speaker": "T",
+        "Turn": 88,
+        "TalkMove": "Pressing for Accuracy",
+        "Reasoning": "The teacher asks for the definition of a mathematical term, pressing for correct use of language."
+      },
+      {
+        "ID": 3015,
+        "Speaker": "T",
+        "Turn": 88,
+        "TalkMove": "Pressing for Accuracy",
+        "Reasoning": "The teacher asks a specific student for the definition of a mathematical term, pressing for correct use of language."
+      },
+      {
+        "ID": 3017,
+        "Speaker": "T",
+        "Turn": 89,
+        "TalkMove": "Revoicing",
+        "Reasoning": "The teacher repeats the student's idea ('inside the rectangle') while adding more precise mathematical language ('surface area')."
+      },
+      {
+        "ID": 3018,
+        "Speaker": "T",
+        "Turn": 89,
+        "TalkMove": null,
+        "Reasoning": null
+      },
+      {
+        "ID": 3019,
+        "Speaker": "T",
+        "Turn": 89,
+        "TalkMove": "Restating",
+        "Reasoning": "The teacher repeats the core of the student's idea ('inside the shape') after an evaluative comment."
+      },
+      {
+        "ID": 3020,
+        "Speaker": "T",
+        "Turn": 89,
+        "TalkMove": null,
+        "Reasoning": null
+      },
+      {
+        "ID": 3021,
+        "Speaker": "T",
+        "Turn": 89,
+        "TalkMove": null,
+        "Reasoning": null
+      },
+      {
+        "ID": 3022,
+        "Speaker": "T",
+        "Turn": 89,
+        "TalkMove": "Pressing for Reasoning",
+        "Reasoning": "The teacher asks students to explain how they can determine a value, prompting them to provide a rule or property."
+      },
+      {
+        "ID": 3023,
+        "Speaker": "T",
+        "Turn": 89,
+        "TalkMove": "Pressing for Reasoning",
+        "Reasoning": "The teacher rephrases the question to be more concrete, still asking for the reasoning behind finding the measurement."
+      },
+      {
+        "ID": 3024,
+        "Speaker": "T",
+        "Turn": 89,
+        "TalkMove": null,
+        "Reasoning": null
+      },
+      {
+        "ID": 3026,
+        "Speaker": "T",
+        "Turn": 91,
+        "TalkMove": "Revoicing",
+        "Reasoning": "The teacher takes the student's specific example and rephrases it as a general mathematical rule, adding on to the student's idea."
+      },
+      {
+        "ID": 3028,
+        "Speaker": "T",
+        "Turn": 93,
+        "TalkMove": null,
+        "Reasoning": null
+      },
+      {
+        "ID": 3029,
+        "Speaker": "T",
+        "Turn": 93,
+        "TalkMove": "Revoicing",
+        "Reasoning": "The teacher rephrases the property of a rectangle in simpler terms to check for class understanding."
+      },
+      {
+        "ID": 3030,
+        "Speaker": "T",
+        "Turn": 93,
+        "TalkMove": "Pressing for Accuracy",
+        "Reasoning": "The teacher prompts students to provide a specific mathematical representation (an equation)."
+      },
+      {
+        "ID": 3031,
+        "Speaker": "T",
+        "Turn": 93,
+        "TalkMove": "Pressing for Accuracy",
+        "Reasoning": "The teacher repeats the prompt for an equation to a specific student."
+      },
+      {
+        "ID": 3033,
+        "Speaker": "T",
+        "Turn": 95,
+        "TalkMove": null,
+        "Reasoning": null
+      },
+      {
+        "ID": 3035,
+        "Speaker": "T",
+        "Turn": 97,
+        "TalkMove": "Pressing for Accuracy",
+        "Reasoning": "The teacher prompts the student to complete their mathematical statement, pressing for a more accurate and complete contribution."
+      },
+      {
+        "ID": 3037,
+        "Speaker": "T",
+        "Turn": 99,
+        "TalkMove": null,
+        "Reasoning": null
+      },
+      {
+        "ID": 3038,
+        "Speaker": "T",
+        "Turn": 99,
+        "TalkMove": "Revoicing",
+        "Reasoning": "The teacher interprets and rephrases the student's contribution to clarify how it relates to the standard formula."
+      },
+      {
+        "ID": 3039,
+        "Speaker": "T",
+        "Turn": 99,
+        "TalkMove": "Revoicing",
+        "Reasoning": "The teacher continues to rephrase the student's idea in the form of the standard area formula."
+      },
+      {
+        "ID": 3040,
+        "Speaker": "T",
+        "Turn": 99,
+        "TalkMove": null,
+        "Reasoning": null
+      },
+      {
+        "ID": 3041,
+        "Speaker": "T",
+        "Turn": 99,
+        "TalkMove": "Pressing for Reasoning",
+        "Reasoning": "The teacher asks a student to identify the underlying mathematical concept or thought process needed to solve the problem."
+      }
+    ]
+  }
+]

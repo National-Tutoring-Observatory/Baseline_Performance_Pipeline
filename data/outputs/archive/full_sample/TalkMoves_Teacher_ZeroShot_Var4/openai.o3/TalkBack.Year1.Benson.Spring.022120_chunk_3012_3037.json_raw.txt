@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 3012,
+      "Speaker": "T",
+      "Turn": 3012,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3013,
+      "Speaker": "T",
+      "Turn": 3013,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the mathematical definition of area, prompting precise mathematical language."
+    },
+    {
+      "ID": 3014,
+      "Speaker": "T",
+      "Turn": 3014,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3015,
+      "Speaker": "T",
+      "Turn": 3015,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Again requests a precise definition of area from a specific student."
+    },
+    {
+      "ID": 3017,
+      "Speaker": "T",
+      "Turn": 3017,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher restates and elaborates on the student’s idea of area being the inside surface of the rectangle."
+    },
+    {
+      "ID": 3018,
+      "Speaker": "T",
+      "Turn": 3018,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3019,
+      "Speaker": "T",
+      "Turn": 3019,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Restates the student’s idea (area is inside the shape) using slightly different wording."
+    },
+    {
+      "ID": 3020,
+      "Speaker": "T",
+      "Turn": 3020,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3021,
+      "Speaker": "T",
+      "Turn": 3021,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3022,
+      "Speaker": "T",
+      "Turn": 3022,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Asks students to explain how they know the measurement of the opposite side, seeking underlying reasoning."
+    },
+    {
+      "ID": 3023,
+      "Speaker": "T",
+      "Turn": 3023,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Continues to probe how students would determine the other side’s length from a given side."
+    },
+    {
+      "ID": 3024,
+      "Speaker": "T",
+      "Turn": 3024,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3026,
+      "Speaker": "T",
+      "Turn": 3026,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Prompts students to state a precise geometric rule about rectangles."
+    },
+    {
+      "ID": 3028,
+      "Speaker": "T",
+      "Turn": 3028,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3029,
+      "Speaker": "T",
+      "Turn": 3029,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Checks that students recognize equal opposite sides by seeking confirmation (‘right?’)."
+    },
+    {
+      "ID": 3030,
+      "Speaker": "T",
+      "Turn": 3030,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Requests a specific mathematical equation to find the missing side."
+    },
+    {
+      "ID": 3031,
+      "Speaker": "T",
+      "Turn": 3031,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Calls on a student to supply the required equation, again seeking a precise mathematical statement."
+    },
+    {
+      "ID": 3033,
+      "Speaker": "T",
+      "Turn": 3033,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3035,
+      "Speaker": "T",
+      "Turn": 3035,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Asks students to identify which part of the formula is missing, prompting them to think through the structure of the equation."
+    },
+    {
+      "ID": 3037,
+      "Speaker": "T",
+      "Turn": 3037,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

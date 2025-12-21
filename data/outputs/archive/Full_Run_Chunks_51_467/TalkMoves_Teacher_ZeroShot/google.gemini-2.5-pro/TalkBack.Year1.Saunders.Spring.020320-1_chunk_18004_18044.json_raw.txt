@@ -1,0 +1,260 @@
+{
+  "records": [
+    {
+      "ID": 18004,
+      "Turn": 335,
+      "Speaker": "T",
+      "Sentence": "What times two is going to give me six",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18005,
+      "Turn": 336,
+      "Speaker": "T",
+      "Sentence": "Then notice its as if thats X and thats X",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18007,
+      "Turn": 338,
+      "Speaker": "T",
+      "Sentence": "No",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18008,
+      "Turn": 338,
+      "Speaker": "T",
+      "Sentence": "No they dont cancel",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18009,
+      "Turn": 338,
+      "Speaker": "T",
+      "Sentence": "Its as if this is X2  5X  6",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18011,
+      "Turn": 340,
+      "Speaker": "T",
+      "Sentence": "What are the factors of six that add up to five",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18013,
+      "Turn": 342,
+      "Speaker": "T",
+      "Sentence": "Thatll multiply to that then theyll add to that so now if I understand that X is really P3",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18015,
+      "Turn": 344,
+      "Speaker": "T",
+      "Sentence": "Thats whats missing right here is to be able to see that this could be written as a quadratic that I know how to factor because these P3s are here and I can think about them as if they were Xs and I know how to factor that but really the Xs are P3 so I end up rewriting it in this form",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18016,
+      "Turn": 344,
+      "Speaker": "T",
+      "Sentence": "Here again theres something new to recognize",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18017,
+      "Turn": 344,
+      "Speaker": "T",
+      "Sentence": "Ive got to be able to look at something like this and go Thats a quadratic",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18018,
+      "Turn": 344,
+      "Speaker": "T",
+      "Sentence": "Yes Joel",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18020,
+      "Turn": 345,
+      "Speaker": "T",
+      "Sentence": "Right because my X2 here is really P3",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18022,
+      "Turn": 347,
+      "Speaker": "T",
+      "Sentence": "Yes",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18023,
+      "Turn": 347,
+      "Speaker": "T",
+      "Sentence": "Yes you just copy that down yes because we already factored that out",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18024,
+      "Turn": 347,
+      "Speaker": "T",
+      "Sentence": "Then of course I should I ask myself can this be factored",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18025,
+      "Turn": 347,
+      "Speaker": "T",
+      "Sentence": "Can that be factored",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18026,
+      "Turn": 347,
+      "Speaker": "T",
+      "Sentence": "Theres another new skill is being able to look at something a little more complex and recognize that I can factor it similarly as I did with quadratics",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18027,
+      "Turn": 347,
+      "Speaker": "T",
+      "Sentence": "Pete",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18029,
+      "Turn": 349,
+      "Speaker": "T",
+      "Sentence": "All right",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18030,
+      "Turn": 349,
+      "Speaker": "T",
+      "Sentence": "Well get there",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18031,
+      "Turn": 349,
+      "Speaker": "T",
+      "Sentence": "From Exploration 2",
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats part of the student's utterance ('...after Exploration 2') verbatim to focus the conversation on that specific point."
+    },
+    {
+      "ID": 18032,
+      "Turn": 349,
+      "Speaker": "T",
+      "Sentence": "Did you put it in the calculator and find the zeros",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts the student to share the process they used to solve the problem, which is a form of sharing their thinking."
+    },
+    {
+      "ID": 18034,
+      "Turn": 351,
+      "Speaker": "T",
+      "Sentence": "Yes that was the instruction use your graph and calculator to find the X intercepts write your factor form that way",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18035,
+      "Turn": 351,
+      "Speaker": "T",
+      "Sentence": "Yes it was a little bit shorter way of doing it",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18036,
+      "Turn": 351,
+      "Speaker": "T",
+      "Sentence": "The factors theorem hallway partners your turn to read about the factor theorem",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18037,
+      "Turn": 351,
+      "Speaker": "T",
+      "Sentence": "Read it slow enough that youre understanding it as you read it as well",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18038,
+      "Turn": 351,
+      "Speaker": "T",
+      "Sentence": "Hallway partner you go ahead and do the reading",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18039,
+      "Turn": 352,
+      "Speaker": "T",
+      "Sentence": "Lets make sure were getting the big idea here",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18040,
+      "Turn": 352,
+      "Speaker": "T",
+      "Sentence": "If I can take something like that purple sheet that you worked on you did some divisions",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18041,
+      "Turn": 352,
+      "Speaker": "T",
+      "Sentence": "If I can divide it by something and my remainder is zero then this has to be a factor of it",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18042,
+      "Turn": 352,
+      "Speaker": "T",
+      "Sentence": "Its almost like saying if I have 12   3  4 and whats my remainder",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18043,
+      "Turn": 352,
+      "Speaker": "T",
+      "Sentence": "12   3  4 with a remainder of",
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

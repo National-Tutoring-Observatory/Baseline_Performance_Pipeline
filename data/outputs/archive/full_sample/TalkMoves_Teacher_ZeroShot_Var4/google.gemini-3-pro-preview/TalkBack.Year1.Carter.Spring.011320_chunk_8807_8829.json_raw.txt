@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 8807,
+      "Speaker": "T",
+      "Turn": 8807,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8808,
+      "Speaker": "T",
+      "Turn": 8808,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher highlights student engagement ('I see people nodding') to orient the class to the shared thinking."
+    },
+    {
+      "ID": 8809,
+      "Speaker": "T",
+      "Turn": 8809,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for a specific mathematical fact ('whats the next factor of 36')."
+    },
+    {
+      "ID": 8810,
+      "Speaker": "T",
+      "Turn": 8810,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8811,
+      "Speaker": "T",
+      "Turn": 8811,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's answer (implied '3') and adds context ('is a factor of 36')."
+    },
+    {
+      "ID": 8812,
+      "Speaker": "T",
+      "Turn": 8812,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8813,
+      "Speaker": "T",
+      "Turn": 8813,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8814,
+      "Speaker": "T",
+      "Turn": 8814,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher poses a hypothetical ('what if the number was 37') to prompt students to extend their thinking."
+    },
+    {
+      "ID": 8815,
+      "Speaker": "T",
+      "Turn": 8815,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a specific yes/no mathematical question to check understanding."
+    },
+    {
+      "ID": 8816,
+      "Speaker": "T",
+      "Turn": 8816,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks 'Why not', prompting the student to explain the logic behind their answer."
+    },
+    {
+      "ID": 8817,
+      "Speaker": "T",
+      "Turn": 8817,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks for the underlying mathematical distinction between the two numbers ('What makes 3 a factor of 36 but not 37')."
+    },
+    {
+      "ID": 8819,
+      "Speaker": "T",
+      "Turn": 8819,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8820,
+      "Speaker": "T",
+      "Turn": 8820,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8821,
+      "Speaker": "T",
+      "Turn": 8821,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to explain their knowledge ('How do you know that 3 is a factor of 36')."
+    },
+    {
+      "ID": 8822,
+      "Speaker": "T",
+      "Turn": 8822,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8824,
+      "Speaker": "T",
+      "Turn": 8824,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to clarify a specific part of their explanation ('You can split what into three groups equally')."
+    },
+    {
+      "ID": 8826,
+      "Speaker": "T",
+      "Turn": 8826,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases the student's idea about splitting into groups as 'dividing it' to formalize the language."
+    },
+    {
+      "ID": 8827,
+      "Speaker": "T",
+      "Turn": 8827,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher expands on the student's idea by stating the full equation ('36 divided by 3 would be even groups')."
+    },
+    {
+      "ID": 8828,
+      "Speaker": "T",
+      "Turn": 8828,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8829,
+      "Speaker": "T",
+      "Turn": 8829,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks for an alternative method or proof ('Whats another way to prove that')."
+    }
+  ]
+}

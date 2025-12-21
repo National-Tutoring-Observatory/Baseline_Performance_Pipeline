@@ -1,0 +1,116 @@
+{
+  "records": [
+    {
+      "ID": 3125,
+      "Speaker": "T",
+      "Turn": 136,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher proposes an interpretation of the student's reference to check understanding."
+    },
+    {
+      "ID": 3127,
+      "Speaker": "T",
+      "Turn": 138,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher reframes the student's topic by specifying a prior area problem to clarify context."
+    },
+    {
+      "ID": 3129,
+      "Speaker": "T",
+      "Turn": 140,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher paraphrases the student's focus by identifying the new drawing with area 250."
+    },
+    {
+      "ID": 3130,
+      "Speaker": "T",
+      "Turn": 140,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to clearly articulate their specific question."
+    },
+    {
+      "ID": 3132,
+      "Speaker": "T",
+      "Turn": 142,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3133,
+      "Speaker": "T",
+      "Turn": 143,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3134,
+      "Speaker": "T",
+      "Turn": 143,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3135,
+      "Speaker": "T",
+      "Turn": 143,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases the student's question as asking about 200 ÷ 50 to verify understanding."
+    },
+    {
+      "ID": 3138,
+      "Speaker": "T",
+      "Turn": 145,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "By asking 'Why 100?', the teacher prompts the student to justify their choice."
+    },
+    {
+      "ID": 3140,
+      "Speaker": "T",
+      "Turn": 147,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3141,
+      "Speaker": "T",
+      "Turn": 148,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3142,
+      "Speaker": "T",
+      "Turn": 148,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3143,
+      "Speaker": "T",
+      "Turn": 148,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3144,
+      "Speaker": "T",
+      "Turn": 148,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3145,
+      "Speaker": "T",
+      "Turn": 148,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3146,
+      "Speaker": "T",
+      "Turn": 148,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

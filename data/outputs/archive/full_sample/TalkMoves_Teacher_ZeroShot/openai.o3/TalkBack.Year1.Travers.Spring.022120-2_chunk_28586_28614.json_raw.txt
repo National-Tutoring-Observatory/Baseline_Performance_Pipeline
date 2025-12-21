@@ -1,0 +1,130 @@
+{
+  "records": [
+    {
+      "ID": 28586,
+      "Speaker": "T",
+      "Turn": 28586
+    },
+    {
+      "ID": 28587,
+      "Speaker": "T",
+      "Turn": 28587,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks whether the operation should be addition or multiplication, urging students to name the correct mathematical operation."
+    },
+    {
+      "ID": 28589,
+      "Speaker": "T",
+      "Turn": 28589,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The question “Are you sure about that?” prompts the student to justify or reconsider their thinking."
+    },
+    {
+      "ID": 28591,
+      "Speaker": "T",
+      "Turn": 28591
+    },
+    {
+      "ID": 28592,
+      "Speaker": "T",
+      "Turn": 28592,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Asks students to specify what information or resources are needed, prompting explanation."
+    },
+    {
+      "ID": 28593,
+      "Speaker": "T",
+      "Turn": 28593,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Requests an explanation for choosing addition rather than multiplication."
+    },
+    {
+      "ID": 28595,
+      "Speaker": "T",
+      "Turn": 28595
+    },
+    {
+      "ID": 28596,
+      "Speaker": "T",
+      "Turn": 28596,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks for the exact cost of the footballs, eliciting a precise numerical answer."
+    },
+    {
+      "ID": 28597,
+      "Speaker": "T",
+      "Turn": 28597,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Requests the cost of the other item, seeking specific quantitative information."
+    },
+    {
+      "ID": 28599,
+      "Speaker": "T",
+      "Turn": 28599
+    },
+    {
+      "ID": 28600,
+      "Speaker": "T",
+      "Turn": 28600
+    },
+    {
+      "ID": 28602,
+      "Speaker": "T",
+      "Turn": 28602,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Invites students to summarize known information, encouraging them to articulate their understanding."
+    },
+    {
+      "ID": 28603,
+      "Speaker": "T",
+      "Turn": 28603,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Again asks for the specific cost of the footballs, seeking an exact figure."
+    },
+    {
+      "ID": 28605,
+      "Speaker": "T",
+      "Turn": 28605,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Requests the exact number of boys, prompting a precise numerical response."
+    },
+    {
+      "ID": 28607,
+      "Speaker": "T",
+      "Turn": 28607,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher restates the computation (eight boys times 3) to confirm and clarify the student’s idea."
+    },
+    {
+      "ID": 28608,
+      "Speaker": "T",
+      "Turn": 28608
+    },
+    {
+      "ID": 28609,
+      "Speaker": "T",
+      "Turn": 28609
+    },
+    {
+      "ID": 28611,
+      "Speaker": "T",
+      "Turn": 28611,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher repeats and highlights the student’s calculations (3×8 and 11×3), rephrasing them while affirming their work."
+    },
+    {
+      "ID": 28612,
+      "Speaker": "T",
+      "Turn": 28612,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Asks what should be done with the two amounts, pushing students to articulate the next mathematical step."
+    },
+    {
+      "ID": 28614,
+      "Speaker": "T",
+      "Turn": 28614,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Suggests using 'D' for dollars, prompting precise mathematical notation."
+    }
+  ]
+}

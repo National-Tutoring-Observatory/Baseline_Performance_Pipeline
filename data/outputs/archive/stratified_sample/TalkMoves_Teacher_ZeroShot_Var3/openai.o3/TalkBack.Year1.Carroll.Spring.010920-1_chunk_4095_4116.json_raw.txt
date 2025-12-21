@@ -1,0 +1,74 @@
+{
+  "records": [
+    {
+      "ID": 4099,
+      "Speaker": "T",
+      "Turn": 140,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4100,
+      "Speaker": "T",
+      "Turn": 140,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4101,
+      "Speaker": "T",
+      "Turn": 140,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4103,
+      "Speaker": "T",
+      "Turn": 142,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks students to specify the correct direction of the inequality sign, prompting a precise mathematical answer."
+    },
+    {
+      "ID": 4105,
+      "Speaker": "T",
+      "Turn": 144,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher restates and elaborates on the student’s brief answer ('One') by articulating it as the more precise 'One and two tenths.'"
+    },
+    {
+      "ID": 4106,
+      "Speaker": "T",
+      "Turn": 144,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks 'How do you know?', prompting the student to explain their thinking."
+    },
+    {
+      "ID": 4107,
+      "Speaker": "T",
+      "Turn": 144,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher supplies and rephrases the reasoning ('Because there’s a whole number') that the student is expected to give, restating the idea in her own words."
+    },
+    {
+      "ID": 4110,
+      "Speaker": "T",
+      "Turn": 147,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4111,
+      "Speaker": "T",
+      "Turn": 147,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher directs students to order the numbers from largest to smallest, prompting them to produce a specific correct mathematical arrangement."
+    },
+    {
+      "ID": 4115,
+      "Speaker": "T",
+      "Turn": 151,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

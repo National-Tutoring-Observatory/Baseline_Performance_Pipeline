@@ -1,0 +1,116 @@
+{
+  "records": [
+    {
+      "ID": 22240,
+      "Speaker": "T",
+      "Turn": 22240
+    },
+    {
+      "ID": 22241,
+      "Speaker": "T",
+      "Turn": 22241
+    },
+    {
+      "ID": 22242,
+      "Speaker": "T",
+      "Turn": 22242
+    },
+    {
+      "ID": 22243,
+      "Speaker": "T",
+      "Turn": 22243
+    },
+    {
+      "ID": 22244,
+      "Speaker": "T",
+      "Turn": 22244
+    },
+    {
+      "ID": 22245,
+      "Speaker": "T",
+      "Turn": 22245,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks what to do when solving inequalities with radicals/rational exponents, prompting students to articulate the method."
+    },
+    {
+      "ID": 22246,
+      "Speaker": "T",
+      "Turn": 22246
+    },
+    {
+      "ID": 22247,
+      "Speaker": "T",
+      "Turn": 22247
+    },
+    {
+      "ID": 22248,
+      "Speaker": "T",
+      "Turn": 22248
+    },
+    {
+      "ID": 22249,
+      "Speaker": "T",
+      "Turn": 22249
+    },
+    {
+      "ID": 22250,
+      "Speaker": "T",
+      "Turn": 22250
+    },
+    {
+      "ID": 22251,
+      "Speaker": "T",
+      "Turn": 22251,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks whether one can take the square root of a negative number, eliciting a correct mathematical fact."
+    },
+    {
+      "ID": 22253,
+      "Speaker": "T",
+      "Turn": 22253
+    },
+    {
+      "ID": 22254,
+      "Speaker": "T",
+      "Turn": 22254
+    },
+    {
+      "ID": 22255,
+      "Speaker": "T",
+      "Turn": 22255
+    },
+    {
+      "ID": 22256,
+      "Speaker": "T",
+      "Turn": 22256
+    },
+    {
+      "ID": 22257,
+      "Speaker": "T",
+      "Turn": 22257,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks if zero is allowed under the radical, prompting precision about domain constraints."
+    },
+    {
+      "ID": 22258,
+      "Speaker": "T",
+      "Turn": 22258,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks if it can equal zero, pressing for the precise inequality (≥0 versus >0)."
+    },
+    {
+      "ID": 22259,
+      "Speaker": "T",
+      "Turn": 22259,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher seeks confirmation of the mathematical acceptability, pressing for a precise yes/no on the condition."
+    },
+    {
+      "ID": 22261,
+      "Speaker": "T",
+      "Turn": 22261,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher affirms students’ 'Yes' and restates the idea by adding justification about taking the square root of zero."
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "records": [
+    {
+      "ID": 7219,
+      "Turn": 139,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 7220,
+      "Turn": 140,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 7228,
+      "Turn": 141,
+      "Speaker": "T",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher makes the class's non-verbal agreement with a student's idea public, orienting students to each other's thinking."
+    },
+    {
+      "ID": 7229,
+      "Turn": 141,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 7230,
+      "Turn": 141,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 7231,
+      "Turn": 141,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 7233,
+      "Turn": 143,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 7236,
+      "Turn": 145,
+      "Speaker": "T",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher highlights the non-verbal agreement of the class, orienting students to their peers' reactions."
+    },
+    {
+      "ID": 7237,
+      "Turn": 145,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher confirms a student's critique and directs the class to make their future contributions more complete."
+    },
+    {
+      "ID": 7238,
+      "Turn": 145,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher clarifies the expectation for a complete mathematical explanation, even in a null case."
+    },
+    {
+      "ID": 7239,
+      "Turn": 145,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher models the specific language students should use to make their contribution more complete and accurate."
+    },
+    {
+      "ID": 7240,
+      "Turn": 145,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher continues modeling the expected language and explains its function in ensuring a complete answer."
+    }
+  ]
+}

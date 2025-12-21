@@ -1,0 +1,123 @@
+{
+  "records": [
+    {
+      "ID": 2261,
+      "Speaker": "T",
+      "Turn": 203,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher tells students to perform subtraction, prompting the correct mathematical operation."
+    },
+    {
+      "ID": 2263,
+      "Speaker": "T",
+      "Turn": 205,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher checks whether subtracting a larger number from a smaller one is valid, focusing on mathematical correctness."
+    },
+    {
+      "ID": 2265,
+      "Speaker": "T",
+      "Turn": 207,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2266,
+      "Speaker": "T",
+      "Turn": 207,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher reminds students to include the dollar sign, ensuring correct mathematical notation."
+    },
+    {
+      "ID": 2267,
+      "Speaker": "T",
+      "Turn": 208,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2268,
+      "Speaker": "T",
+      "Turn": 208,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher tells students to label the value with a dollar sign, emphasizing proper units."
+    },
+    {
+      "ID": 2269,
+      "Speaker": "T",
+      "Turn": 208,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2270,
+      "Speaker": "T",
+      "Turn": 208,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Directs students to \"make your box,\" prompting the correct representation for the problem."
+    },
+    {
+      "ID": 2271,
+      "Speaker": "T",
+      "Turn": 209,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts students to explain how they solved the problem."
+    },
+    {
+      "ID": 2272,
+      "Speaker": "T",
+      "Turn": 209,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher asks struggling students to listen carefully to classmates’ explanations, orienting everyone to each other’s ideas."
+    },
+    {
+      "ID": 2273,
+      "Speaker": "T",
+      "Turn": 209,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Requests that students explain why they chose specific numbers, asking for justification."
+    },
+    {
+      "ID": 2274,
+      "Speaker": "T",
+      "Turn": 209,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Again asks students to explain why they used 13 × 3, seeking the reasoning behind the calculation."
+    },
+    {
+      "ID": 2275,
+      "Speaker": "T",
+      "Turn": 209,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2276,
+      "Speaker": "T",
+      "Turn": 209,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2277,
+      "Speaker": "T",
+      "Turn": 209,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2279,
+      "Speaker": "T",
+      "Turn": 211,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2281,
+      "Speaker": "T",
+      "Turn": 213,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to present the number model and then talk through estimates and the solution process."
+    }
+  ]
+}

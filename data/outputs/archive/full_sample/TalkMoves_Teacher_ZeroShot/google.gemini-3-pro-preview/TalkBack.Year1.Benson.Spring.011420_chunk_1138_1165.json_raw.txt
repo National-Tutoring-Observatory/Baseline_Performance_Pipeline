@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 1138,
+      "Speaker": "T",
+      "Turn": 1138,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1139,
+      "Speaker": "T",
+      "Turn": 1139,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1140,
+      "Speaker": "T",
+      "Turn": 1140,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1141,
+      "Speaker": "T",
+      "Turn": 1141,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a specific mathematical question ('How much did the girls eat together') prompting students for a calculated answer."
+    },
+    {
+      "ID": 1143,
+      "Speaker": "T",
+      "Turn": 1143,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher asks the student to repeat what they said, which functions as a request to restate or clarify their contribution."
+    },
+    {
+      "ID": 1145,
+      "Speaker": "T",
+      "Turn": 1145,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's idea ('So you said that together they ate 2/3...') and elaborates on the reasoning ('because each of them ate...')."
+    },
+    {
+      "ID": 1146,
+      "Speaker": "T",
+      "Turn": 1146,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher continues to rephrase the student's method ('Each of them ate 1/3 so you added them together')."
+    },
+    {
+      "ID": 1147,
+      "Speaker": "T",
+      "Turn": 1147,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks for an alternative explanation or method ('Can anyone else explain that in a different way')."
+    },
+    {
+      "ID": 1148,
+      "Speaker": "T",
+      "Turn": 1148,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher calls on a specific student ('Mason') to share their thinking with the group."
+    },
+    {
+      "ID": 1151,
+      "Speaker": "T",
+      "Turn": 1151,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases Mason's contribution ('You did the same math basically but thought of it as...')."
+    },
+    {
+      "ID": 1152,
+      "Speaker": "T",
+      "Turn": 1152,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher checks for a specific common misconception/answer ('Did anyone happen to view 2/6 as their answer')."
+    },
+    {
+      "ID": 1153,
+      "Speaker": "T",
+      "Turn": 1153,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts students to reflect on a specific answer ('I want you to think about that for a minute')."
+    },
+    {
+      "ID": 1154,
+      "Speaker": "T",
+      "Turn": 1154,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a definitional question about fraction notation ('What does the bottom number of a fraction mean')."
+    },
+    {
+      "ID": 1155,
+      "Speaker": "T",
+      "Turn": 1155,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher calls on a student ('Liam') to answer the question."
+    },
+    {
+      "ID": 1157,
+      "Speaker": "T",
+      "Turn": 1157,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats and verifies the student's definition ('So you think that the bottom number shows you how many are in the whole')."
+    },
+    {
+      "ID": 1159,
+      "Speaker": "T",
+      "Turn": 1159,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher asks another student to build upon the previous student's idea ('add on to that or help clarify that a little bit Wes')."
+    },
+    {
+      "ID": 1161,
+      "Speaker": "T",
+      "Turn": 1161,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases the student's explanation for clarity ('How many pieces there are total in that whole thing thats being split up')."
+    },
+    {
+      "ID": 1162,
+      "Speaker": "T",
+      "Turn": 1162,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher restates the definition again to solidify the concept ('Our bottom number should tell us how many total pieces there are in the whole')."
+    },
+    {
+      "ID": 1163,
+      "Speaker": "T",
+      "Turn": 1163,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher directs a question specifically to a student ('Leo I have a question for you')."
+    },
+    {
+      "ID": 1165,
+      "Speaker": "T",
+      "Turn": 1165,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a specific factual question to check understanding of the problem context ('Were there six pieces in the whole')."
+    }
+  ]
+}

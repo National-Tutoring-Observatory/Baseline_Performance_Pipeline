@@ -1,0 +1,130 @@
+{
+  "records": [
+    {
+      "ID": 16201,
+      "Speaker": "T",
+      "Turn": 137,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16202,
+      "Speaker": "T",
+      "Turn": 137,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher asks Sage to explain the reasoning behind their position."
+    },
+    {
+      "ID": 16204,
+      "Speaker": "T",
+      "Turn": 139,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher seeks clarification about which specific option the student is referring to."
+    },
+    {
+      "ID": 16207,
+      "Speaker": "T",
+      "Turn": 141,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16208,
+      "Speaker": "T",
+      "Turn": 141,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16209,
+      "Speaker": "T",
+      "Turn": 141,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher restates the student's idea, connecting it to multiplication."
+    },
+    {
+      "ID": 16210,
+      "Speaker": "T",
+      "Turn": 141,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16211,
+      "Speaker": "T",
+      "Turn": 141,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher asks if the situation involves dividing into equal parts, prompting conceptual analysis."
+    },
+    {
+      "ID": 16212,
+      "Speaker": "T",
+      "Turn": 142,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16213,
+      "Speaker": "T",
+      "Turn": 142,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16214,
+      "Speaker": "T",
+      "Turn": 142,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher repeats the question about equal parts to elicit students' reasoning."
+    },
+    {
+      "ID": 16216,
+      "Speaker": "T",
+      "Turn": 144,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16217,
+      "Speaker": "T",
+      "Turn": 144,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16218,
+      "Speaker": "T",
+      "Turn": 144,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16219,
+      "Speaker": "T",
+      "Turn": 144,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16220,
+      "Speaker": "T",
+      "Turn": 144,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16221,
+      "Speaker": "T",
+      "Turn": 144,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16222,
+      "Speaker": "T",
+      "Turn": 144,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher invites Lea to share her thinking about the problem."
+    }
+  ]
+}

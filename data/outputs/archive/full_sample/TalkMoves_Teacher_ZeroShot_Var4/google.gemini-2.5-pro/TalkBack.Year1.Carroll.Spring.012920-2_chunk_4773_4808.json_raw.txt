@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 4773,
+      "Speaker": "T",
+      "Turn": 4773,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4777,
+      "Speaker": "T",
+      "Turn": 4777,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4778,
+      "Speaker": "T",
+      "Turn": 4778,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts a student to provide a specific mathematical contribution by asking what numbers would be added to form a number sentence."
+    },
+    {
+      "ID": 4780,
+      "Speaker": "T",
+      "Turn": 4780,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's idea of what to add and formalizes it into a complete number sentence with a variable, thus clarifying and adding to the student's contribution."
+    },
+    {
+      "ID": 4781,
+      "Speaker": "T",
+      "Turn": 4781,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4782,
+      "Speaker": "T",
+      "Turn": 4782,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4785,
+      "Speaker": "T",
+      "Turn": 4785,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts students to discuss and share their thinking about a strategy for solving the problem."
+    },
+    {
+      "ID": 4786,
+      "Speaker": "T",
+      "Turn": 4786,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher repeats the prompt for students to engage in discussion about their problem-solving strategies."
+    },
+    {
+      "ID": 4787,
+      "Speaker": "T",
+      "Turn": 4787,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts students to explain their thinking by asking them to figure out 'how' they will solve the problem."
+    },
+    {
+      "ID": 4792,
+      "Speaker": "T",
+      "Turn": 4792,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher directly asks a student to share their thinking or strategy."
+    },
+    {
+      "ID": 4796,
+      "Speaker": "T",
+      "Turn": 4796,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher repeats the direct question asking a student to share their thinking or strategy."
+    },
+    {
+      "ID": 4797,
+      "Speaker": "T",
+      "Turn": 4797,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher repeats the direct question asking a student to share their thinking or strategy."
+    },
+    {
+      "ID": 4798,
+      "Speaker": "T",
+      "Turn": 4798,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher repeats the direct question asking a student to share their thinking or strategy."
+    },
+    {
+      "ID": 4802,
+      "Speaker": "T",
+      "Turn": 4802,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4803,
+      "Speaker": "T",
+      "Turn": 4803,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4804,
+      "Speaker": "T",
+      "Turn": 4804,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats a student's idea that they overheard during group work, making it public for the whole class."
+    },
+    {
+      "ID": 4805,
+      "Speaker": "T",
+      "Turn": 4805,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4806,
+      "Speaker": "T",
+      "Turn": 4806,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4807,
+      "Speaker": "T",
+      "Turn": 4807,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4808,
+      "Speaker": "T",
+      "Turn": 4808,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats a strategy they overheard from students ('add the whole numbers first'), making a student's idea public."
+    }
+  ]
+}

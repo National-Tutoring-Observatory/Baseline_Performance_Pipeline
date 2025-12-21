@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 20001,
+      "Speaker": "T",
+      "Turn": 20001,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20003,
+      "Speaker": "T",
+      "Turn": 20003,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a question to elicit a specific mathematical property about the end behavior of linear equations."
+    },
+    {
+      "ID": 20005,
+      "Speaker": "T",
+      "Turn": 20005,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's implied answer (\"opposite\") and then elaborates on what that means for the graph of a line."
+    },
+    {
+      "ID": 20006,
+      "Speaker": "T",
+      "Turn": 20006,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a question to elicit a specific mathematical property about quadratic functions."
+    },
+    {
+      "ID": 20007,
+      "Speaker": "T",
+      "Turn": 20007,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher takes the student's contribution (\"parabola\") and rephrases it to connect it to the concept of end behavior."
+    },
+    {
+      "ID": 20008,
+      "Speaker": "T",
+      "Turn": 20008,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20010,
+      "Speaker": "T",
+      "Turn": 20010,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20011,
+      "Speaker": "T",
+      "Turn": 20011,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20012,
+      "Speaker": "T",
+      "Turn": 20012,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20014,
+      "Speaker": "T",
+      "Turn": 20014,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20015,
+      "Speaker": "T",
+      "Turn": 20015,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for a specific mathematical property (the degree) of the function."
+    },
+    {
+      "ID": 20017,
+      "Speaker": "T",
+      "Turn": 20017,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's answer (\"Three\") verbatim."
+    },
+    {
+      "ID": 20018,
+      "Speaker": "T",
+      "Turn": 20018,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a follow-up question to elicit a specific mathematical property (odd/even) related to the degree."
+    },
+    {
+      "ID": 20020,
+      "Speaker": "T",
+      "Turn": 20020,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a question to prompt the student to connect the degree's parity to the end behavior of the graph."
+    },
+    {
+      "ID": 20022,
+      "Speaker": "T",
+      "Turn": 20022,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks \"How do I know\" to prompt the student to explain the process or evidence used to determine the specific end behavior."
+    },
+    {
+      "ID": 20024,
+      "Speaker": "T",
+      "Turn": 20024,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20026,
+      "Speaker": "T",
+      "Turn": 20026,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's one-word answer (\"Positive\") verbatim."
+    },
+    {
+      "ID": 20027,
+      "Speaker": "T",
+      "Turn": 20027,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher clarifies the student's answer (\"Positive\") by explicitly naming the mathematical concept it refers to (\"that leading coefficient\")."
+    },
+    {
+      "ID": 20028,
+      "Speaker": "T",
+      "Turn": 20028,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a question with gestures to prompt the student to make the final conclusion about the graph's end behavior."
+    },
+    {
+      "ID": 20030,
+      "Speaker": "T",
+      "Turn": 20030,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher confirms and verbalizes the student's correct conclusion about the end behavior."
+    }
+  ]
+}

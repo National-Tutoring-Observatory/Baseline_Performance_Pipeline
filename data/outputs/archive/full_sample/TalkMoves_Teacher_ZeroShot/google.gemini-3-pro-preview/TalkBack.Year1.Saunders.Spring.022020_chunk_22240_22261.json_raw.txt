@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 22240,
+      "Speaker": "T",
+      "Turn": 22240,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22241,
+      "Speaker": "T",
+      "Turn": 22241,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22242,
+      "Speaker": "T",
+      "Turn": 22242,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22243,
+      "Speaker": "T",
+      "Turn": 22243,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22244,
+      "Speaker": "T",
+      "Turn": 22244,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22245,
+      "Speaker": "T",
+      "Turn": 22245,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22246,
+      "Speaker": "T",
+      "Turn": 22246,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22247,
+      "Speaker": "T",
+      "Turn": 22247,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22248,
+      "Speaker": "T",
+      "Turn": 22248,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22249,
+      "Speaker": "T",
+      "Turn": 22249,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22250,
+      "Speaker": "T",
+      "Turn": 22250,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22251,
+      "Speaker": "T",
+      "Turn": 22251,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a specific mathematical question ('can we take the square root of a negative number') that prompts students to recall a mathematical fact."
+    },
+    {
+      "ID": 22253,
+      "Speaker": "T",
+      "Turn": 22253,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22254,
+      "Speaker": "T",
+      "Turn": 22254,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22255,
+      "Speaker": "T",
+      "Turn": 22255,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22256,
+      "Speaker": "T",
+      "Turn": 22256,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22257,
+      "Speaker": "T",
+      "Turn": 22257,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a specific question about the validity of a mathematical operation ('Is it okay to have zero in the radical'), prompting a correct/incorrect response."
+    },
+    {
+      "ID": 22258,
+      "Speaker": "T",
+      "Turn": 22258,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher rephrases the previous question to prompt students to confirm if the value can equal zero."
+    },
+    {
+      "ID": 22259,
+      "Speaker": "T",
+      "Turn": 22259,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher continues to press for the correct mathematical rule regarding zero in the radical."
+    },
+    {
+      "ID": 22261,
+      "Speaker": "T",
+      "Turn": 22261,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher answers their own question but includes 'because when you take the square root to zero right', which prompts students to follow the logic/reasoning behind why it is allowed."
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 9622,
+      "Speaker": "T",
+      "Turn": 9622,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9623,
+      "Speaker": "T",
+      "Turn": 9623,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9624,
+      "Speaker": "T",
+      "Turn": 9624,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9625,
+      "Speaker": "T",
+      "Turn": 9625,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9627,
+      "Speaker": "T",
+      "Turn": 9627,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9628,
+      "Speaker": "T",
+      "Turn": 9628,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9629,
+      "Speaker": "T",
+      "Turn": 9629,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a specific question about the problem setup ('How many groups are we making'), prompting for a precise numerical answer."
+    },
+    {
+      "ID": 9631,
+      "Speaker": "T",
+      "Turn": 9631,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to perform a calculation ('10 [divided by] 5 is how many') to get a specific result."
+    },
+    {
+      "ID": 9633,
+      "Speaker": "T",
+      "Turn": 9633,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9634,
+      "Speaker": "T",
+      "Turn": 9634,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9636,
+      "Speaker": "T",
+      "Turn": 9636,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9637,
+      "Speaker": "T",
+      "Turn": 9637,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9638,
+      "Speaker": "T",
+      "Turn": 9638,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9640,
+      "Speaker": "T",
+      "Turn": 9640,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher leaves a sentence unfinished ('so 10 [divided by] 5 is'), prompting the student to supply the correct calculation result."
+    },
+    {
+      "ID": 9642,
+      "Speaker": "T",
+      "Turn": 9642,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9643,
+      "Speaker": "T",
+      "Turn": 9643,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9644,
+      "Speaker": "T",
+      "Turn": 9644,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher uses a fill-in-the-blank style prompt ('The groups are') to elicit a specific factual answer from the student."
+    },
+    {
+      "ID": 9645,
+      "Speaker": "T",
+      "Turn": 9645,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9646,
+      "Speaker": "T",
+      "Turn": 9646,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9647,
+      "Speaker": "T",
+      "Turn": 9647,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks the student to identify the correct value to place in a specific part of the table."
+    }
+  ]
+}

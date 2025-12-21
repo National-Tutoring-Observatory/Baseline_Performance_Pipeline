@@ -1,0 +1,68 @@
+{
+  "records": [
+    {
+      "ID": 18066,
+      "Turn": 365,
+      "Speaker": "T",
+      "Sentence": "I figured it wasnt going to be a direct solid yes",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18073,
+      "Turn": 369,
+      "Speaker": "T",
+      "Sentence": "You mean it doesnt",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher attempts to clarify the student's statement ('Its just the equation is a straight line') by rephrasing it as a question to confirm understanding."
+    },
+    {
+      "ID": 18075,
+      "Turn": 371,
+      "Speaker": "T",
+      "Sentence": "It has no min or max its got a point of inflection",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher takes the student's informal description ('It has no curve') and rephrases it using precise mathematical language ('no min or max', 'point of inflection')."
+    },
+    {
+      "ID": 18076,
+      "Turn": 371,
+      "Speaker": "T",
+      "Sentence": "Thats what thats called where it stops",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18078,
+      "Turn": 373,
+      "Speaker": "T",
+      "Sentence": "What",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18080,
+      "Turn": 375,
+      "Speaker": "T",
+      "Sentence": "I dont know if its for that one it could be any place",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18083,
+      "Turn": 378,
+      "Speaker": "T",
+      "Sentence": "Hes talking about if I have I cubic that does this where it does have mins and maxes it just has a point of inflection",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher interprets and rephrases what they believe a student's idea is, using more formal mathematical language to clarify it for the class."
+    },
+    {
+      "ID": 18086,
+      "Turn": 380,
+      "Speaker": "T",
+      "Sentence": "Ill have to look at that",
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

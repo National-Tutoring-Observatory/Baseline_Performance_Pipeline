@@ -1,0 +1,17 @@
+Prompt,Model,N,Accuracy,Kappa,Run_Name,Sample_Type,Analysis_Time
+TalkMoves_Teacher_ZeroShot,openai.o3,1101,0.5613079019073569,0.336933061514579,Test_50_Chunks_With_Fixes,experiment_800,2025-12-19T02:06:39Z
+TalkMoves_Teacher_FewShot_ALL,openai.o3,1100,0.5581818181818182,0.32709433392282866,Test_50_Chunks_With_Fixes,experiment_800,2025-12-19T02:06:39Z
+TalkMoves_Teacher_OneShot,openai.o3,1100,0.5545454545454546,0.32054255748285604,Test_50_Chunks_With_Fixes,experiment_800,2025-12-19T02:06:39Z
+TalkMoves_Teacher_FewShot_3,openai.o3,1101,0.5431425976385105,0.3142251082894355,Test_50_Chunks_With_Fixes,experiment_800,2025-12-19T02:06:39Z
+TalkMoves_Teacher_OneShot,anthropic.claude-4.5-sonnet,1099,0.5523202911737943,0.3096460440252134,Test_50_Chunks_With_Fixes,experiment_800,2025-12-19T02:06:39Z
+TalkMoves_Teacher_FewShot_ALL,anthropic.claude-4.5-sonnet,1099,0.5505004549590536,0.3063482044978905,Test_50_Chunks_With_Fixes,experiment_800,2025-12-19T02:06:39Z
+TalkMoves_Teacher_ZeroShot,anthropic.claude-4.5-sonnet,1099,0.5450409463148317,0.29624544704743266,Test_50_Chunks_With_Fixes,experiment_800,2025-12-19T02:06:39Z
+TalkMoves_Teacher_FewShot_3,anthropic.claude-4.5-sonnet,1099,0.5268425841674249,0.28878556663310623,Test_50_Chunks_With_Fixes,experiment_800,2025-12-19T02:06:39Z
+TalkMoves_Teacher_FewShot_3,openai.gpt-5,1100,0.5209090909090909,0.28331408818809634,Test_50_Chunks_With_Fixes,experiment_800,2025-12-19T02:06:39Z
+TalkMoves_Teacher_ZeroShot,openai.gpt-5,1101,0.5277020890099909,0.2797910775207061,Test_50_Chunks_With_Fixes,experiment_800,2025-12-19T02:06:39Z
+TalkMoves_Teacher_FewShot_ALL,openai.gpt-5,1101,0.5304268846503178,0.27819849202263225,Test_50_Chunks_With_Fixes,experiment_800,2025-12-19T02:06:39Z
+TalkMoves_Teacher_OneShot,google.gemini-2.5-pro,1020,0.5558823529411765,0.276840296363073,Test_50_Chunks_With_Fixes,experiment_800,2025-12-19T02:06:39Z
+TalkMoves_Teacher_OneShot,openai.gpt-5,1100,0.5227272727272727,0.2723025104618327,Test_50_Chunks_With_Fixes,experiment_800,2025-12-19T02:06:39Z
+TalkMoves_Teacher_FewShot_ALL,google.gemini-2.5-pro,1065,0.5577464788732395,0.26226578815777873,Test_50_Chunks_With_Fixes,experiment_800,2025-12-19T02:06:39Z
+TalkMoves_Teacher_ZeroShot,google.gemini-2.5-pro,1101,0.5413260672116258,0.25756416470710763,Test_50_Chunks_With_Fixes,experiment_800,2025-12-19T02:06:39Z
+TalkMoves_Teacher_FewShot_3,google.gemini-2.5-pro,1101,0.5231607629427792,0.23557541621647343,Test_50_Chunks_With_Fixes,experiment_800,2025-12-19T02:06:39Z

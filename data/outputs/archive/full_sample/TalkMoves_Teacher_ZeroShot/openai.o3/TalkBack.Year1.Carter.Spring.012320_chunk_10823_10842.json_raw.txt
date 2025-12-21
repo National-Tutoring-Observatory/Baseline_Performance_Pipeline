@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 10823,
+      "Speaker": "T",
+      "Turn": 10823,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher restates the student's approach (dividing the whole number by something) in her own words, signaling understanding and clarification."
+    },
+    {
+      "ID": 10824,
+      "Speaker": "T",
+      "Turn": 10824,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks the student to specify exactly what they will divide by, pushing for precise mathematical language."
+    },
+    {
+      "ID": 10825,
+      "Speaker": "T",
+      "Turn": 10825,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher probes for the precise component of the fraction to be used, demanding mathematical specificity."
+    },
+    {
+      "ID": 10826,
+      "Speaker": "T",
+      "Turn": 10826,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Repeated prompt for the exact part of the fraction, again stressing mathematical precision."
+    },
+    {
+      "ID": 10827,
+      "Speaker": "T",
+      "Turn": 10827,
+      "TalkMove": "Restating",
+      "Reasoning": "Teacher echoes the student-supplied answer ('the numerator') word for word."
+    },
+    {
+      "ID": 10828,
+      "Speaker": "T",
+      "Turn": 10828,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Teacher invites the class to undertake the next step together ('Let's try it'), orienting all students to the shared activity."
+    },
+    {
+      "ID": 10829,
+      "Speaker": "T",
+      "Turn": 10829,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10830,
+      "Speaker": "T",
+      "Turn": 10830,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher prompts students to supply the correct vocabulary term for what they are finding."
+    },
+    {
+      "ID": 10831,
+      "Speaker": "T",
+      "Turn": 10831,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10832,
+      "Speaker": "T",
+      "Turn": 10832,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10833,
+      "Speaker": "T",
+      "Turn": 10833,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10834,
+      "Speaker": "T",
+      "Turn": 10834,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10835,
+      "Speaker": "T",
+      "Turn": 10835,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10836,
+      "Speaker": "T",
+      "Turn": 10836,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10837,
+      "Speaker": "T",
+      "Turn": 10837,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher asks what to do after finding 1/5, eliciting the next step and the reasoning behind the procedure."
+    },
+    {
+      "ID": 10838,
+      "Speaker": "T",
+      "Turn": 10838,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Requesting 'Show me' pushes students to demonstrate and justify their thinking."
+    },
+    {
+      "ID": 10839,
+      "Speaker": "T",
+      "Turn": 10839,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher repeats the prompt for the subsequent action, seeking an explanation of the method."
+    },
+    {
+      "ID": 10840,
+      "Speaker": "T",
+      "Turn": 10840,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Partial prompt ('Multiply by …') cues students to supply the exact multiplier."
+    },
+    {
+      "ID": 10841,
+      "Speaker": "T",
+      "Turn": 10841,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher checks that the multiplier is the numerator, reinforcing precise terminology."
+    },
+    {
+      "ID": 10842,
+      "Speaker": "T",
+      "Turn": 10842,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

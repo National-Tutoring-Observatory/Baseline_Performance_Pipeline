@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 20831,
+      "Speaker": "T",
+      "Turn": 20831,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20833,
+      "Speaker": "T",
+      "Turn": 20833,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20835,
+      "Speaker": "T",
+      "Turn": 20835,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20836,
+      "Speaker": "T",
+      "Turn": 20836,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20837,
+      "Speaker": "T",
+      "Turn": 20837,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20838,
+      "Speaker": "T",
+      "Turn": 20838,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20839,
+      "Speaker": "T",
+      "Turn": 20839,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks students to make a mathematical contribution by identifying the correct first step in solving the equation."
+    },
+    {
+      "ID": 20841,
+      "Speaker": "T",
+      "Turn": 20841,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "After confirming the correct number to move, the teacher asks 'how do I do that?', prompting the student to explain the mathematical procedure or thinking."
+    },
+    {
+      "ID": 20843,
+      "Speaker": "T",
+      "Turn": 20843,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20844,
+      "Speaker": "T",
+      "Turn": 20844,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher takes an implied student contribution and rephrases it using more precise mathematical language: 'fourth root it'."
+    },
+    {
+      "ID": 20845,
+      "Speaker": "T",
+      "Turn": 20845,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher expands on the student's idea of 'fourth root it' by stating the full mathematical procedure, 'We're going to take the fourth root of both sides,' thereby clarifying the contribution for the class."
+    },
+    {
+      "ID": 20846,
+      "Speaker": "T",
+      "Turn": 20846,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20849,
+      "Speaker": "T",
+      "Turn": 20849,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a direct question, 'What does that equal?', to elicit a specific mathematical result from the students."
+    },
+    {
+      "ID": 20851,
+      "Speaker": "T",
+      "Turn": 20851,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's (implied) one-word answer, 'X', verbatim."
+    },
+    {
+      "ID": 20852,
+      "Speaker": "T",
+      "Turn": 20852,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20853,
+      "Speaker": "T",
+      "Turn": 20853,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20854,
+      "Speaker": "T",
+      "Turn": 20854,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20855,
+      "Speaker": "T",
+      "Turn": 20855,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20856,
+      "Speaker": "T",
+      "Turn": 20856,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20857,
+      "Speaker": "T",
+      "Turn": 20857,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to provide the result of a calculation by asking, 'you know what that is?'"
+    }
+  ]
+}

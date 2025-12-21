@@ -1,0 +1,137 @@
+{
+  "records": [
+    {
+      "ID": 92,
+      "Speaker": "T",
+      "Turn": 48,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 94,
+      "Speaker": "T",
+      "Turn": 50,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 96,
+      "Speaker": "T",
+      "Turn": 52,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 97,
+      "Speaker": "T",
+      "Turn": 52,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 98,
+      "Speaker": "T",
+      "Turn": 52,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 99,
+      "Speaker": "T",
+      "Turn": 52,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 100,
+      "Speaker": "T",
+      "Turn": 52,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 101,
+      "Speaker": "T",
+      "Turn": 53,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts students to explain the difference between the current problem and previous ones, asking them to connect ideas."
+    },
+    {
+      "ID": 102,
+      "Speaker": "T",
+      "Turn": 53,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher repeats the prompt for a specific student, asking them to explain what is different about the problem."
+    },
+    {
+      "ID": 103,
+      "Speaker": "T",
+      "Turn": 53,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's one-word contribution before asking for more clarification."
+    },
+    {
+      "ID": 104,
+      "Speaker": "T",
+      "Turn": 53,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher challenges an imprecise student answer and prompts for a more specific, accurate mathematical description of the difference."
+    },
+    {
+      "ID": 106,
+      "Speaker": "T",
+      "Turn": 55,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's contribution verbatim to highlight the key idea."
+    },
+    {
+      "ID": 107,
+      "Speaker": "T",
+      "Turn": 55,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks a follow-up question to prompt students to make a connection between what they are doing now and what they did previously."
+    },
+    {
+      "ID": 108,
+      "Speaker": "T",
+      "Turn": 56,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 109,
+      "Speaker": "T",
+      "Turn": 56,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 110,
+      "Speaker": "T",
+      "Turn": 56,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 111,
+      "Speaker": "T",
+      "Turn": 57,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 112,
+      "Speaker": "T",
+      "Turn": 58,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 113,
+      "Speaker": "T",
+      "Turn": 59,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

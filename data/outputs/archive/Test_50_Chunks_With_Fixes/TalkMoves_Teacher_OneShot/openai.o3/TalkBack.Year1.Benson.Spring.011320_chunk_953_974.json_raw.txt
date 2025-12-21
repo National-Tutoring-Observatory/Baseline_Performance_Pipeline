@@ -1,0 +1,130 @@
+{
+  "records": [
+    {
+      "ID": 953,
+      "Speaker": "T",
+      "Turn": 266,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 954,
+      "Speaker": "T",
+      "Turn": 266,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 955,
+      "Speaker": "T",
+      "Turn": 266,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks for the specific number of yellow halves needed to make a whole."
+    },
+    {
+      "ID": 957,
+      "Speaker": "T",
+      "Turn": 268,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher probes for the exact color that two yellow halves compose."
+    },
+    {
+      "ID": 959,
+      "Speaker": "T",
+      "Turn": 270,
+      "TalkMove": "Restating",
+      "Reasoning": "Teacher repeats the student’s response verbatim: “One pink.”"
+    },
+    {
+      "ID": 960,
+      "Speaker": "T",
+      "Turn": 270,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher paraphrases and extends the student’s idea, connecting halves to a whole pink piece."
+    },
+    {
+      "ID": 961,
+      "Speaker": "T",
+      "Turn": 270,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 962,
+      "Speaker": "T",
+      "Turn": 270,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher asks students to describe the process needed to determine the value of 55, eliciting an explanation."
+    },
+    {
+      "ID": 963,
+      "Speaker": "T",
+      "Turn": 270,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher prompts a specific student to explain how they determined 55 from 25."
+    },
+    {
+      "ID": 965,
+      "Speaker": "T",
+      "Turn": 272,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher rephrases the student’s idea that another 15 is needed."
+    },
+    {
+      "ID": 966,
+      "Speaker": "T",
+      "Turn": 272,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher summarizes and elaborates on Maddox’s explanation about splitting the dark green piece."
+    },
+    {
+      "ID": 967,
+      "Speaker": "T",
+      "Turn": 272,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher poses a specific option (“Was it purple?”) seeking the exact correct color."
+    },
+    {
+      "ID": 968,
+      "Speaker": "T",
+      "Turn": 272,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher offers another possible color, still probing for the correct answer."
+    },
+    {
+      "ID": 969,
+      "Speaker": "T",
+      "Turn": 272,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher continues to ask for the accurate color identification."
+    },
+    {
+      "ID": 970,
+      "Speaker": "T",
+      "Turn": 272,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "General question 'What was it?' seeks the precise color answer."
+    },
+    {
+      "ID": 971,
+      "Speaker": "T",
+      "Turn": 272,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 973,
+      "Speaker": "T",
+      "Turn": 274,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher restates the student’s answer, confirming it with a tag question."
+    },
+    {
+      "ID": 974,
+      "Speaker": "T",
+      "Turn": 274,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher paraphrases and extends the student’s idea, linking two purple pieces to one dark green."
+    }
+  ]
+}

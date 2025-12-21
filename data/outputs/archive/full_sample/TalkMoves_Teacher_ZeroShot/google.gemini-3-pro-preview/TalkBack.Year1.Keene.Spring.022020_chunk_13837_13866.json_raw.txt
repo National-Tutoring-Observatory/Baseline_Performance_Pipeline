@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 13837,
+      "Speaker": "T",
+      "Turn": 13837,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 13838,
+      "Speaker": "T",
+      "Turn": 13838,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to share what they noticed, which prompts for an explanation of their thinking or observation."
+    },
+    {
+      "ID": 13840,
+      "Speaker": "T",
+      "Turn": 13840,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 13841,
+      "Speaker": "T",
+      "Turn": 13841,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks if anyone noticed anything different, prompting students to share alternative observations or thinking."
+    },
+    {
+      "ID": 13842,
+      "Speaker": "T",
+      "Turn": 13842,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher calls on a specific student to share, managing the flow of conversation."
+    },
+    {
+      "ID": 13844,
+      "Speaker": "T",
+      "Turn": 13844,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats what Parker said ('he noticed that three is a factor of 15') but rephrases it slightly to clarify the mathematical idea."
+    },
+    {
+      "ID": 13845,
+      "Speaker": "T",
+      "Turn": 13845,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 13846,
+      "Speaker": "T",
+      "Turn": 13846,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 13847,
+      "Speaker": "T",
+      "Turn": 13847,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 13848,
+      "Speaker": "T",
+      "Turn": 13848,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a specific calculation question ('What times what equals three') to prompt a precise mathematical answer."
+    },
+    {
+      "ID": 13850,
+      "Speaker": "T",
+      "Turn": 13850,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts for a specific number to complete the multiplication fact."
+    },
+    {
+      "ID": 13852,
+      "Speaker": "T",
+      "Turn": 13852,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 13854,
+      "Speaker": "T",
+      "Turn": 13854,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's correct answer ('One times three') to confirm the fact."
+    },
+    {
+      "ID": 13855,
+      "Speaker": "T",
+      "Turn": 13855,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a specific calculation question ('one times what equals 15') to prompt a precise mathematical answer."
+    },
+    {
+      "ID": 13856,
+      "Speaker": "T",
+      "Turn": 13856,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a yes/no question about a specific multiplication fact to check for accuracy."
+    },
+    {
+      "ID": 13858,
+      "Speaker": "T",
+      "Turn": 13858,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to consider the next number ('What about three') to check if it is a factor."
+    },
+    {
+      "ID": 13860,
+      "Speaker": "T",
+      "Turn": 13860,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the specific factor pair for three ('Three times what')."
+    },
+    {
+      "ID": 13862,
+      "Speaker": "T",
+      "Turn": 13862,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to check the next number ('What about four') for accuracy."
+    },
+    {
+      "ID": 13864,
+      "Speaker": "T",
+      "Turn": 13864,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to check the next number ('Five') for accuracy."
+    },
+    {
+      "ID": 13866,
+      "Speaker": "T",
+      "Turn": 13866,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

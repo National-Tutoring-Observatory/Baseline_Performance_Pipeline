@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 405,
+      "Speaker": "T",
+      "Turn": 405,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 406,
+      "Speaker": "T",
+      "Turn": 406,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 407,
+      "Speaker": "T",
+      "Turn": 407,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks Liam to share what he came up with, prompting a mathematical contribution."
+    },
+    {
+      "ID": 409,
+      "Speaker": "T",
+      "Turn": 409,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks how he figured those out, eliciting explanation of method."
+    },
+    {
+      "ID": 410,
+      "Speaker": "T",
+      "Turn": 410,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks what he did, prompting explanation of the steps taken."
+    },
+    {
+      "ID": 412,
+      "Speaker": "T",
+      "Turn": 412,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher paraphrases the student’s idea by stating \"You added.\""
+    },
+    {
+      "ID": 414,
+      "Speaker": "T",
+      "Turn": 414,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher restates and specifies the action as \"added on the top.\""
+    },
+    {
+      "ID": 415,
+      "Speaker": "T",
+      "Turn": 415,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks what was done on the bottom, eliciting explanation of the denominator procedure."
+    },
+    {
+      "ID": 417,
+      "Speaker": "T",
+      "Turn": 417,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student’s method by stating \"You counted by 5.\""
+    },
+    {
+      "ID": 418,
+      "Speaker": "T",
+      "Turn": 418,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher asks Bryce to restate what Liam said, prompting engagement with a peer’s idea."
+    },
+    {
+      "ID": 419,
+      "Speaker": "T",
+      "Turn": 419,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks what he did to get specific results, eliciting explanation of the steps."
+    },
+    {
+      "ID": 421,
+      "Speaker": "T",
+      "Turn": 421,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "By asking \"He added what,\" the teacher presses for precise mathematical details."
+    },
+    {
+      "ID": 423,
+      "Speaker": "T",
+      "Turn": 423,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 424,
+      "Speaker": "T",
+      "Turn": 424,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher orients students to each other by asking Liam to address Bryce directly."
+    },
+    {
+      "ID": 425,
+      "Speaker": "T",
+      "Turn": 425,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student’s explanation, paraphrasing it in the student’s voice."
+    },
+    {
+      "ID": 426,
+      "Speaker": "T",
+      "Turn": 426,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher checks whether the explanation makes sense to maintain shared understanding."
+    },
+    {
+      "ID": 427,
+      "Speaker": "T",
+      "Turn": 427,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher summarizes and rephrases the method for the class."
+    },
+    {
+      "ID": 429,
+      "Speaker": "T",
+      "Turn": 429,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher checks Bryce’s understanding to keep the class aligned."
+    },
+    {
+      "ID": 430,
+      "Speaker": "T",
+      "Turn": 430,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher checks Katie’s understanding, orienting multiple students to the idea."
+    },
+    {
+      "ID": 432,
+      "Speaker": "T",
+      "Turn": 432,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks whether the approach works for all fractions, prompting generalization and justification."
+    }
+  ]
+}

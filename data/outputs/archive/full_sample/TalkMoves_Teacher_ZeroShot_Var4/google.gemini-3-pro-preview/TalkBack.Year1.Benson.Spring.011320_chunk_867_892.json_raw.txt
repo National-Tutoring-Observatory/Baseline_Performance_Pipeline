@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 867,
+      "Speaker": "T",
+      "Turn": 867,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 868,
+      "Speaker": "T",
+      "Turn": 868,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 869,
+      "Speaker": "T",
+      "Turn": 869,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a specific student to identify the exact pieces used to solve the problem."
+    },
+    {
+      "ID": 871,
+      "Speaker": "T",
+      "Turn": 871,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's answer ('Two light greens') word for word."
+    },
+    {
+      "ID": 872,
+      "Speaker": "T",
+      "Turn": 872,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher asks students to raise their hands to check if they obtained the same result as the previous speaker."
+    },
+    {
+      "ID": 873,
+      "Speaker": "T",
+      "Turn": 873,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 874,
+      "Speaker": "T",
+      "Turn": 874,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 875,
+      "Speaker": "T",
+      "Turn": 875,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher uses a 'thumbs up' check to ensure the whole class has successfully completed the task and is ready to move on."
+    },
+    {
+      "ID": 876,
+      "Speaker": "T",
+      "Turn": 876,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for a specific mathematical value ('what is one light green worth as a fraction')."
+    },
+    {
+      "ID": 877,
+      "Speaker": "T",
+      "Turn": 877,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher clarifies the conditions of the previous question to ensure the student provides the correct fractional value."
+    },
+    {
+      "ID": 879,
+      "Speaker": "T",
+      "Turn": 879,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats Alice's answer ('onethird') to the class."
+    },
+    {
+      "ID": 880,
+      "Speaker": "T",
+      "Turn": 880,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher explicitly asks another student (Jen) to evaluate Alice's answer by agreeing or disagreeing."
+    },
+    {
+      "ID": 881,
+      "Speaker": "T",
+      "Turn": 881,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "This is a continuation of the previous prompt, offering the student the option to ask a question about the peer's idea."
+    },
+    {
+      "ID": 883,
+      "Speaker": "T",
+      "Turn": 883,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to explain the justification ('Why') for their agreement."
+    },
+    {
+      "ID": 884,
+      "Speaker": "T",
+      "Turn": 884,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for a specific value ('What is your light blue worth') to help build the explanation."
+    },
+    {
+      "ID": 886,
+      "Speaker": "T",
+      "Turn": 886,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's answer ('Twothirds')."
+    },
+    {
+      "ID": 887,
+      "Speaker": "T",
+      "Turn": 887,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 888,
+      "Speaker": "T",
+      "Turn": 888,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks for an explanation of the logic behind Alice's answer ('Why is it that Alice says...')."
+    },
+    {
+      "ID": 890,
+      "Speaker": "T",
+      "Turn": 890,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases the student's explanation ('I hear you saying that...') to verify and clarify the reasoning."
+    },
+    {
+      "ID": 892,
+      "Speaker": "T",
+      "Turn": 892,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's justification ('because half of two is one') word for word."
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 30103,
+      "Speaker": "T",
+      "Turn": 30103,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases a student's likely numerical answer into a complete sentence, interpreting their contribution."
+    },
+    {
+      "ID": 30104,
+      "Speaker": "T",
+      "Turn": 30104,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 30106,
+      "Speaker": "T",
+      "Turn": 30106,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 30107,
+      "Speaker": "T",
+      "Turn": 30107,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats a student's likely numerical answer ('four') while adding the unit ('notebooks') to make it more complete."
+    },
+    {
+      "ID": 30108,
+      "Speaker": "T",
+      "Turn": 30108,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 30109,
+      "Speaker": "T",
+      "Turn": 30109,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases a student's idea using the mathematical term 'remainder'."
+    },
+    {
+      "ID": 30110,
+      "Speaker": "T",
+      "Turn": 30110,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to provide the specific numerical value for the remainder."
+    },
+    {
+      "ID": 30112,
+      "Speaker": "T",
+      "Turn": 30112,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats a student's answer ('two') while adding the units ('dollars leftover') for clarity."
+    },
+    {
+      "ID": 30113,
+      "Speaker": "T",
+      "Turn": 30113,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 30115,
+      "Speaker": "T",
+      "Turn": 30115,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher explicitly prompts the student to add the units to their answer ('two what?')."
+    },
+    {
+      "ID": 30117,
+      "Speaker": "T",
+      "Turn": 30117,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher confirms and rephrases the student's complete answer into a full sentence."
+    },
+    {
+      "ID": 30118,
+      "Speaker": "T",
+      "Turn": 30118,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 30120,
+      "Speaker": "T",
+      "Turn": 30120,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's one-word answer ('Four') verbatim."
+    },
+    {
+      "ID": 30121,
+      "Speaker": "T",
+      "Turn": 30121,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 30122,
+      "Speaker": "T",
+      "Turn": 30122,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 30123,
+      "Speaker": "T",
+      "Turn": 30123,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 30124,
+      "Speaker": "T",
+      "Turn": 30124,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 30125,
+      "Speaker": "T",
+      "Turn": 30125,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 30126,
+      "Speaker": "T",
+      "Turn": 30126,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 30127,
+      "Speaker": "T",
+      "Turn": 30127,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

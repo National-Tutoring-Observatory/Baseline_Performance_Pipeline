@@ -1,0 +1,124 @@
+{
+  "records": [
+    {
+      "ID": 2511,
+      "Speaker": "T",
+      "Turn": 2511
+    },
+    {
+      "ID": 2512,
+      "Speaker": "T",
+      "Turn": 2512
+    },
+    {
+      "ID": 2513,
+      "Speaker": "T",
+      "Turn": 2513
+    },
+    {
+      "ID": 2514,
+      "Speaker": "T",
+      "Turn": 2514
+    },
+    {
+      "ID": 2516,
+      "Speaker": "T",
+      "Turn": 2516
+    },
+    {
+      "ID": 2517,
+      "Speaker": "T",
+      "Turn": 2517,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks Eli to provide the result of 20 × 3, eliciting a mathematical answer."
+    },
+    {
+      "ID": 2519,
+      "Speaker": "T",
+      "Turn": 2519
+    },
+    {
+      "ID": 2520,
+      "Speaker": "T",
+      "Turn": 2520
+    },
+    {
+      "ID": 2521,
+      "Speaker": "T",
+      "Turn": 2521,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts Brooklyn to state the answer, requesting a mathematical result."
+    },
+    {
+      "ID": 2523,
+      "Speaker": "T",
+      "Turn": 2523
+    },
+    {
+      "ID": 2524,
+      "Speaker": "T",
+      "Turn": 2524,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher calls on Sean to address a specific problem, prompting a mathematical contribution."
+    },
+    {
+      "ID": 2525,
+      "Speaker": "T",
+      "Turn": 2525,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the value of 30 × 5, eliciting a precise computation."
+    },
+    {
+      "ID": 2527,
+      "Speaker": "T",
+      "Turn": 2527
+    },
+    {
+      "ID": 2528,
+      "Speaker": "T",
+      "Turn": 2528,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher invites Julian to respond to a particular problem, prompting a mathematical answer."
+    },
+    {
+      "ID": 2530,
+      "Speaker": "T",
+      "Turn": 2530
+    },
+    {
+      "ID": 2531,
+      "Speaker": "T",
+      "Turn": 2531,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts Kaylee to compute 50 × 5, seeking a correct numerical result."
+    },
+    {
+      "ID": 2533,
+      "Speaker": "T",
+      "Turn": 2533,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's answer '250' verbatim."
+    },
+    {
+      "ID": 2534,
+      "Speaker": "T",
+      "Turn": 2534,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks Nathan to compute 80 × 8, eliciting a specific numeric answer."
+    },
+    {
+      "ID": 2536,
+      "Speaker": "T",
+      "Turn": 2536,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's answer '640' verbatim."
+    },
+    {
+      "ID": 2537,
+      "Speaker": "T",
+      "Turn": 2537,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher directs attention to checking zeros, prompting students to ensure computational accuracy."
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "records": [
+    {
+      "ID": 5837,
+      "Speaker": "T",
+      "Turn": 159,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5838,
+      "Speaker": "T",
+      "Turn": 159,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5841,
+      "Speaker": "T",
+      "Turn": 161,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts a specific mathematical utterance ('three'), eliciting a precise numerical contribution."
+    },
+    {
+      "ID": 5847,
+      "Speaker": "T",
+      "Turn": 166,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5849,
+      "Speaker": "T",
+      "Turn": 168,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "By asking who the leader is, the teacher orients students to a peer's role and focuses attention on the speaker."
+    },
+    {
+      "ID": 5851,
+      "Speaker": "T",
+      "Turn": 170,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for a precise numerical value ('What's your number?'), prompting a specific mathematical contribution."
+    },
+    {
+      "ID": 5853,
+      "Speaker": "T",
+      "Turn": 172,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5857,
+      "Speaker": "T",
+      "Turn": 174,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher re-establishes who is leading to orient the group and maintain shared focus."
+    },
+    {
+      "ID": 5858,
+      "Speaker": "T",
+      "Turn": 174,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher solicits a specific number, prompting use of mathematical language."
+    },
+    {
+      "ID": 5861,
+      "Speaker": "T",
+      "Turn": 177,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5862,
+      "Speaker": "T",
+      "Turn": 178,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5863,
+      "Speaker": "T",
+      "Turn": 178,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

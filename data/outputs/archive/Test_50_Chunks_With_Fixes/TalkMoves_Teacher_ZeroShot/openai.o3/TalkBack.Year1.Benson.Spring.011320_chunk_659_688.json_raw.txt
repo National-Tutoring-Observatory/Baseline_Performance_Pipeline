@@ -1,0 +1,151 @@
+{
+  "records": [
+    {
+      "ID": 659,
+      "Speaker": "T",
+      "Turn": 138
+    },
+    {
+      "ID": 660,
+      "Speaker": "T",
+      "Turn": 138,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks students to state exactly which piece is equal, soliciting a specific mathematical fact."
+    },
+    {
+      "ID": 661,
+      "Speaker": "T",
+      "Turn": 138
+    },
+    {
+      "ID": 662,
+      "Speaker": "T",
+      "Turn": 139
+    },
+    {
+      "ID": 663,
+      "Speaker": "T",
+      "Turn": 139
+    },
+    {
+      "ID": 664,
+      "Speaker": "T",
+      "Turn": 139
+    },
+    {
+      "ID": 665,
+      "Speaker": "T",
+      "Turn": 139
+    },
+    {
+      "ID": 667,
+      "Speaker": "T",
+      "Turn": 140,
+      "TalkMove": "Restating",
+      "Reasoning": "Teacher repeats the student's exact words ('The tenths') verbatim."
+    },
+    {
+      "ID": 668,
+      "Speaker": "T",
+      "Turn": 140
+    },
+    {
+      "ID": 670,
+      "Speaker": "T",
+      "Turn": 142
+    },
+    {
+      "ID": 671,
+      "Speaker": "T",
+      "Turn": 142,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Teacher checks if all students have the required materials, ensuring the whole class is prepared to proceed."
+    },
+    {
+      "ID": 673,
+      "Speaker": "T",
+      "Turn": 144,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks students to determine the exact number of pieces needed to make a whole."
+    },
+    {
+      "ID": 674,
+      "Speaker": "T",
+      "Turn": 144
+    },
+    {
+      "ID": 675,
+      "Speaker": "T",
+      "Turn": 144
+    },
+    {
+      "ID": 676,
+      "Speaker": "T",
+      "Turn": 144
+    },
+    {
+      "ID": 677,
+      "Speaker": "T",
+      "Turn": 144,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks for a comparison ('more or less') requiring a specific, correct response."
+    },
+    {
+      "ID": 679,
+      "Speaker": "T",
+      "Turn": 146,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "After receiving an answer, the teacher asks 'why,' prompting the student to explain their reasoning."
+    },
+    {
+      "ID": 680,
+      "Speaker": "T",
+      "Turn": 146,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Directs a specific student to justify why one-fourth is less than one-third, encouraging explanation."
+    },
+    {
+      "ID": 682,
+      "Speaker": "T",
+      "Turn": 148,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher restates and elaborates on the student's idea about missing space, clarifying and extending it."
+    },
+    {
+      "ID": 683,
+      "Speaker": "T",
+      "Turn": 148
+    },
+    {
+      "ID": 684,
+      "Speaker": "T",
+      "Turn": 148,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks students to identify what the 'whole' would be, seeking a specific mathematical identification."
+    },
+    {
+      "ID": 685,
+      "Speaker": "T",
+      "Turn": 148,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Restates the question about which piece completes the whole, prompting a precise answer."
+    },
+    {
+      "ID": 686,
+      "Speaker": "T",
+      "Turn": 148
+    },
+    {
+      "ID": 687,
+      "Speaker": "T",
+      "Turn": 148
+    },
+    {
+      "ID": 688,
+      "Speaker": "T",
+      "Turn": 148,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher checks whether an orange piece correctly represents the whole, requesting confirmation."
+    }
+  ]
+}

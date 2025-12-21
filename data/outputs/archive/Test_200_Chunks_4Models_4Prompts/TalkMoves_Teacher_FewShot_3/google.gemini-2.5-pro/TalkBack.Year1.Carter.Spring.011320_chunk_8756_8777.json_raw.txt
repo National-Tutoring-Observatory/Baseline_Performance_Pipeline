@@ -1,0 +1,106 @@
+[
+  {
+    "ID": 8758,
+    "Turn": 133,
+    "Speaker": "T",
+    "Sentence": "There I heard it",
+    "TalkMove": "None",
+    "Reasoning": null
+  },
+  {
+    "ID": 8759,
+    "Turn": 133,
+    "Speaker": "T",
+    "Sentence": "Say it again louder",
+    "TalkMove": "None",
+    "Reasoning": null
+  },
+  {
+    "ID": 8761,
+    "Turn": 135,
+    "Speaker": "T",
+    "Sentence": "He was describing multiples repeated addition is another way of thinking about it repeated addition of multiples",
+    "TalkMove": "Revoicing",
+    "Reasoning": "The teacher repeats the student's term 'multiples' and connects it to another idea ('repeated addition'), thus rephrasing and adding to the student's contribution."
+  },
+  {
+    "ID": 8762,
+    "Turn": 135,
+    "Speaker": "T",
+    "Sentence": "Didnt you make that connection when you and your partner interacted",
+    "TalkMove": "Pressing for Reasoning",
+    "Reasoning": "The teacher prompts students to reflect on and connect their prior partner work to the current discussion, asking them to share their thinking process."
+  },
+  {
+    "ID": 8763,
+    "Turn": 135,
+    "Speaker": "T",
+    "Sentence": "Youre right Adam you have part of this but you have the wrong word attached with it all right",
+    "TalkMove": "None",
+    "Reasoning": null
+  },
+  {
+    "ID": 8764,
+    "Turn": 135,
+    "Speaker": "T",
+    "Sentence": "Multiples everybody say that multiples",
+    "TalkMove": "Pressing for Accuracy",
+    "Reasoning": "The teacher prompts the entire class to use the correct mathematical term 'multiples'."
+  },
+  {
+    "ID": 8766,
+    "Turn": 137,
+    "Speaker": "T",
+    "Sentence": "Thats that repeated addition",
+    "TalkMove": "Revoicing",
+    "Reasoning": "The teacher connects the class's choral response of 'multiples' back to the concept of 'repeated addition,' thereby adding meaning to the term."
+  },
+  {
+    "ID": 8767,
+    "Turn": 137,
+    "Speaker": "T",
+    "Sentence": "Factors are something else who would like to explain factor factor pair",
+    "TalkMove": "Pressing for Reasoning",
+    "Reasoning": "The teacher prompts students to explain the mathematical terms 'factor' and 'factor pair'."
+  },
+  {
+    "ID": 8768,
+    "Turn": 137,
+    "Speaker": "T",
+    "Sentence": "Noah",
+    "TalkMove": "None",
+    "Reasoning": null
+  },
+  {
+    "ID": 8770,
+    "Turn": 139,
+    "Speaker": "T",
+    "Sentence": "Then when you have both of them its a pair",
+    "TalkMove": "Revoicing",
+    "Reasoning": "The teacher repeats a part of the student's explanation about having two numbers and clarifies it by adding the term 'pair,' thus rephrasing the student's idea."
+  },
+  {
+    "ID": 8772,
+    "Turn": 141,
+    "Speaker": "T",
+    "Sentence": "Do you want to add to that",
+    "TalkMove": "Getting Students to Relate to Another’s Ideas",
+    "Reasoning": "The teacher prompts a student to build upon or add to what a previous student has just said."
+  },
+  {
+    "ID": 8774,
+    "Turn": 143,
+    "Speaker": "T",
+    "Sentence": "Im trying to process what youre saying say that again",
+    "TalkMove": "None",
+    "Reasoning": null
+  },
+  {
+    "ID": 8776,
+    "Turn": 145,
+    "Speaker": "T",
+    "Sentence": "Pick somebody thats doing this to respond to you",
+    "TalkMove": "Getting Students to Relate to Another’s Ideas",
+    "Reasoning": "The teacher explicitly instructs a student to select a classmate to respond to their idea, directly prompting students to engage with each other's contributions."
+  }
+]

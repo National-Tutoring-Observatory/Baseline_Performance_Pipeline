@@ -1,0 +1,137 @@
+{
+  "records": [
+    {
+      "ID": 92,
+      "Turn": 48,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 94,
+      "Turn": 50,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 96,
+      "Turn": 52,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 97,
+      "Turn": 52,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 98,
+      "Turn": 52,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 99,
+      "Turn": 52,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 100,
+      "Turn": 52,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 101,
+      "Turn": 53,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to compare the current problem to previous ones, prompting them to explain their thinking about the differences."
+    },
+    {
+      "ID": 102,
+      "Turn": 53,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher directs the question to a specific student, continuing to press for an explanation of the difference."
+    },
+    {
+      "ID": 103,
+      "Turn": 53,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 104,
+      "Turn": 53,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher challenges a simple answer ('It's multiplication') and pushes for a more specific explanation of what is different."
+    },
+    {
+      "ID": 106,
+      "Turn": 55,
+      "Speaker": "T",
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's contribution word for word."
+    },
+    {
+      "ID": 107,
+      "Turn": 55,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks a follow-up question that requires students to connect ideas by contrasting what they are doing now with what they were doing before."
+    },
+    {
+      "ID": 108,
+      "Turn": 56,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 109,
+      "Turn": 56,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 110,
+      "Turn": 56,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 111,
+      "Turn": 57,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 112,
+      "Turn": 58,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 113,
+      "Turn": 59,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

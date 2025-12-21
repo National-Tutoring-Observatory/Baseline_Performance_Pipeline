@@ -1,0 +1,158 @@
+{
+  "records": [
+    {
+      "ID": 17042,
+      "Turn": 78,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17044,
+      "Turn": 80,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's idea ('The profit') but rephrases it for clarity and completeness ('How much profit the company is making')."
+    },
+    {
+      "ID": 17045,
+      "Turn": 80,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17046,
+      "Turn": 80,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17048,
+      "Turn": 82,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17050,
+      "Turn": 84,
+      "Speaker": "T",
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's one-word answer ('Positive') verbatim."
+    },
+    {
+      "ID": 17051,
+      "Turn": 84,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17053,
+      "Turn": 86,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17054,
+      "Turn": 87,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17056,
+      "Turn": 88,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's contribution ('A minimum') but adds the word 'value' to make it more mathematically precise."
+    },
+    {
+      "ID": 17057,
+      "Turn": 88,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks a student to explain the meaning of a mathematical concept ('minimum value') in the context of the problem."
+    },
+    {
+      "ID": 17058,
+      "Turn": 88,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher explicitly asks students to 'interpret' a mathematical feature, which is a prompt for them to explain its meaning and significance."
+    },
+    {
+      "ID": 17059,
+      "Turn": 88,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17060,
+      "Turn": 89,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17061,
+      "Turn": 89,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17062,
+      "Turn": 89,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17063,
+      "Turn": 89,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17064,
+      "Turn": 89,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17065,
+      "Turn": 89,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17067,
+      "Turn": 90,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher takes the student's one-word answer ('X') and rephrases it as a complete conditional statement, clarifying its meaning in context."
+    },
+    {
+      "ID": 17068,
+      "Turn": 90,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks 'how' to find a value, prompting students to explain the mathematical procedure or thinking process involved."
+    },
+    {
+      "ID": 17069,
+      "Turn": 91,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

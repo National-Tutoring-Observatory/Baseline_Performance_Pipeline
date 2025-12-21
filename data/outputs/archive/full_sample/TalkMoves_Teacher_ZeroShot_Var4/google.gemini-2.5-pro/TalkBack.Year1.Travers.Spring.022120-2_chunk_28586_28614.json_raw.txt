@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 28586,
+      "Speaker": "T",
+      "Turn": 28586,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 28587,
+      "Speaker": "T",
+      "Turn": 28587,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to identify the correct mathematical operation for the problem."
+    },
+    {
+      "ID": 28589,
+      "Speaker": "T",
+      "Turn": 28589,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts the student to reconsider their answer and the thinking behind it."
+    },
+    {
+      "ID": 28591,
+      "Speaker": "T",
+      "Turn": 28591,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 28592,
+      "Speaker": "T",
+      "Turn": 28592,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to state the necessary mathematical operation."
+    },
+    {
+      "ID": 28593,
+      "Speaker": "T",
+      "Turn": 28593,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to explain why one operation is correct and another is not."
+    },
+    {
+      "ID": 28595,
+      "Speaker": "T",
+      "Turn": 28595,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 28596,
+      "Speaker": "T",
+      "Turn": 28596,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 28597,
+      "Speaker": "T",
+      "Turn": 28597,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 28599,
+      "Speaker": "T",
+      "Turn": 28599,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 28600,
+      "Speaker": "T",
+      "Turn": 28600,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 28602,
+      "Speaker": "T",
+      "Turn": 28602,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 28603,
+      "Speaker": "T",
+      "Turn": 28603,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 28605,
+      "Speaker": "T",
+      "Turn": 28605,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 28607,
+      "Speaker": "T",
+      "Turn": 28607,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 28608,
+      "Speaker": "T",
+      "Turn": 28608,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 28609,
+      "Speaker": "T",
+      "Turn": 28609,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 28611,
+      "Speaker": "T",
+      "Turn": 28611,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's mathematical contribution, summarizing it for the class."
+    },
+    {
+      "ID": 28612,
+      "Speaker": "T",
+      "Turn": 28612,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student for the next mathematical step in the problem."
+    },
+    {
+      "ID": 28614,
+      "Speaker": "T",
+      "Turn": 28614,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to use appropriate mathematical language or notation."
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 28360,
+      "Speaker": "T",
+      "Turn": 28360,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 28361,
+      "Speaker": "T",
+      "Turn": 28361,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 28362,
+      "Speaker": "T",
+      "Turn": 28362,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to describe what a mathematical concept would look like, prompting them to share their thinking."
+    },
+    {
+      "ID": 28363,
+      "Speaker": "T",
+      "Turn": 28363,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to choose between two specific mathematical terms, pressing for accurate language."
+    },
+    {
+      "ID": 28365,
+      "Speaker": "T",
+      "Turn": 28365,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats a student's one-word answer verbatim to confirm the contribution."
+    },
+    {
+      "ID": 28366,
+      "Speaker": "T",
+      "Turn": 28366,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 28368,
+      "Speaker": "T",
+      "Turn": 28368,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 28369,
+      "Speaker": "T",
+      "Turn": 28369,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 28375,
+      "Speaker": "T",
+      "Turn": 28375,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 28377,
+      "Speaker": "T",
+      "Turn": 28377,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 28378,
+      "Speaker": "T",
+      "Turn": 28378,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to describe what a mathematical concept would look like in a new problem, prompting them to share their thinking."
+    },
+    {
+      "ID": 28379,
+      "Speaker": "T",
+      "Turn": 28379,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 28380,
+      "Speaker": "T",
+      "Turn": 28380,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 28381,
+      "Speaker": "T",
+      "Turn": 28381,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 28382,
+      "Speaker": "T",
+      "Turn": 28382,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 28383,
+      "Speaker": "T",
+      "Turn": 28383,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats a key phrase from a student's contribution verbatim."
+    },
+    {
+      "ID": 28384,
+      "Speaker": "T",
+      "Turn": 28384,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher explicitly asks a student to share their thinking process."
+    },
+    {
+      "ID": 28386,
+      "Speaker": "T",
+      "Turn": 28386,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks a student to clarify the meaning of their statement, pressing them to explain their thinking."
+    },
+    {
+      "ID": 28389,
+      "Speaker": "T",
+      "Turn": 28389,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats a student's idea using different, more formal mathematical wording to check for understanding."
+    },
+    {
+      "ID": 28391,
+      "Speaker": "T",
+      "Turn": 28391,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases the student's idea into an equivalent mathematical statement, adding on to the original contribution."
+    }
+  ]
+}

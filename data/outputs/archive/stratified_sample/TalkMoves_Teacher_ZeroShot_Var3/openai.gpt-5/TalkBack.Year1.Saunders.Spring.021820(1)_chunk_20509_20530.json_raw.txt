@@ -1,0 +1,102 @@
+{
+  "records": [
+    {
+      "ID": 20509,
+      "Speaker": "T",
+      "Turn": 76,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20511,
+      "Speaker": "T",
+      "Turn": 78,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20512,
+      "Speaker": "T",
+      "Turn": 78,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20513,
+      "Speaker": "T",
+      "Turn": 79,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher orients students to the correct page to keep the class together."
+    },
+    {
+      "ID": 20515,
+      "Speaker": "T",
+      "Turn": 81,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher clarifies which resource to use (textbook), aligning the class."
+    },
+    {
+      "ID": 20516,
+      "Speaker": "T",
+      "Turn": 81,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher points students to a specific page in the textbook to keep everyone coordinated."
+    },
+    {
+      "ID": 20517,
+      "Speaker": "T",
+      "Turn": 82,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher reiterates the page number to ensure all students are on the same page."
+    },
+    {
+      "ID": 20518,
+      "Speaker": "T",
+      "Turn": 83,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20524,
+      "Speaker": "T",
+      "Turn": 88,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher sets up the plan to walk through examples, focusing the class’s attention."
+    },
+    {
+      "ID": 20525,
+      "Speaker": "T",
+      "Turn": 88,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20526,
+      "Speaker": "T",
+      "Turn": 88,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20527,
+      "Speaker": "T",
+      "Turn": 88,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the value of 2 cubed, prompting a precise mathematical answer."
+    },
+    {
+      "ID": 20529,
+      "Speaker": "T",
+      "Turn": 90,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student’s answer “Eight” verbatim."
+    },
+    {
+      "ID": 20530,
+      "Speaker": "T",
+      "Turn": 90,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "By stating “3^3,” the teacher prompts students to supply the correct value for three cubed."
+    }
+  ]
+}

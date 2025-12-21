@@ -1,0 +1,256 @@
+{
+  "records": [
+    {
+      "ID": 1232,
+      "Turn": 102,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1233,
+      "Turn": 102,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1235,
+      "Turn": 104,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1236,
+      "Turn": 104,
+      "Speaker": "T",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher checks if all students understand and are ready to proceed with the task."
+    },
+    {
+      "ID": 1238,
+      "Turn": 106,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1239,
+      "Turn": 106,
+      "Speaker": "T",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher checks in with a student to ensure they are ready before moving on."
+    },
+    {
+      "ID": 1241,
+      "Turn": 108,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1242,
+      "Turn": 108,
+      "Speaker": "T",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher directs the class's attention to a specific student who is asked to read aloud, ensuring the group is focused on the same task."
+    },
+    {
+      "ID": 1243,
+      "Turn": 108,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1247,
+      "Turn": 110,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1248,
+      "Turn": 110,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to make a mathematical contribution by recalling a specific number from the text."
+    },
+    {
+      "ID": 1250,
+      "Turn": 112,
+      "Speaker": "T",
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's answer '78' before confirming it."
+    },
+    {
+      "ID": 1251,
+      "Turn": 112,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's answer but adds context by putting it into a full sentence."
+    },
+    {
+      "ID": 1252,
+      "Turn": 112,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1253,
+      "Turn": 112,
+      "Speaker": "T",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher orients a specific student (Eric) to the conversation to ensure he is following the problem-solving steps."
+    },
+    {
+      "ID": 1255,
+      "Turn": 114,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts students to explain the process they would use to solve the problem."
+    },
+    {
+      "ID": 1256,
+      "Turn": 114,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts a student to provide evidence from the text to help solve the problem."
+    },
+    {
+      "ID": 1259,
+      "Turn": 116,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to be more precise by asking them to re-read a key part of the problem statement carefully."
+    },
+    {
+      "ID": 1260,
+      "Turn": 116,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher continues to press for accuracy by highlighting the specific phrase the student misread."
+    },
+    {
+      "ID": 1262,
+      "Turn": 118,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher summarizes and clarifies the information from the problem, incorporating the student's corrected reading."
+    },
+    {
+      "ID": 1263,
+      "Turn": 118,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to decide on the correct mathematical operation, prompting them to reason about the problem's structure."
+    },
+    {
+      "ID": 1266,
+      "Turn": 121,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1268,
+      "Turn": 123,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher explicitly asks a student to explain the thinking behind their decision to add."
+    },
+    {
+      "ID": 1270,
+      "Turn": 125,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1271,
+      "Turn": 125,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher takes the student's idea about 'clue words' and elaborates on it, adding nuance and clarification."
+    },
+    {
+      "ID": 1272,
+      "Turn": 125,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher continues to revoice the student's idea by confirming their reasoning and explicitly stating that adding is correct in this context."
+    },
+    {
+      "ID": 1273,
+      "Turn": 125,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to identify the specific mathematical unit ('the whole') being used in the problem."
+    },
+    {
+      "ID": 1275,
+      "Turn": 127,
+      "Speaker": "T",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher prompts a student to repeat their answer so it can be heard, ensuring the student's contribution is part of the public discourse."
+    },
+    {
+      "ID": 1277,
+      "Turn": 129,
+      "Speaker": "T",
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's answer 'Miles' word for word."
+    },
+    {
+      "ID": 1278,
+      "Turn": 129,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher slightly modifies the student's word 'Miles' to 'A mile,' clarifying the singular nature of the whole."
+    },
+    {
+      "ID": 1279,
+      "Turn": 129,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher builds on the student's contribution by further clarifying that 'one mile is the whole'."
+    },
+    {
+      "ID": 1280,
+      "Turn": 129,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1281,
+      "Turn": 129,
+      "Speaker": "T",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher checks in with a specific student to ensure they feel ready to proceed independently."
+    },
+    {
+      "ID": 1284,
+      "Turn": 131,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1285,
+      "Turn": 131,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1286,
+      "Turn": 131,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

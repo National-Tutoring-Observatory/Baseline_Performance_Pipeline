@@ -1,0 +1,165 @@
+{
+  "records": [
+    {
+      "ID": 18534,
+      "Speaker": "T",
+      "Turn": 123,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18535,
+      "Speaker": "T",
+      "Turn": 123,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks what factor can be taken out of the two terms, prompting a specific mathematical contribution."
+    },
+    {
+      "ID": 18537,
+      "Speaker": "T",
+      "Turn": 125,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's response verbatim ('x2')."
+    },
+    {
+      "ID": 18538,
+      "Speaker": "T",
+      "Turn": 125,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks students to state what remains in the parentheses, a precise mathematical result."
+    },
+    {
+      "ID": 18542,
+      "Speaker": "T",
+      "Turn": 128,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts identification of what factor could be taken out."
+    },
+    {
+      "ID": 18543,
+      "Speaker": "T",
+      "Turn": 129,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the remaining expression after factoring."
+    },
+    {
+      "ID": 18544,
+      "Speaker": "T",
+      "Turn": 130,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18545,
+      "Speaker": "T",
+      "Turn": 131,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18546,
+      "Speaker": "T",
+      "Turn": 131,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the common factor between the terms."
+    },
+    {
+      "ID": 18548,
+      "Speaker": "T",
+      "Turn": 132,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher restates and adjusts the student's contribution, changing 'x2' to 'an x'."
+    },
+    {
+      "ID": 18549,
+      "Speaker": "T",
+      "Turn": 132,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18550,
+      "Speaker": "T",
+      "Turn": 132,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18551,
+      "Speaker": "T",
+      "Turn": 132,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18552,
+      "Speaker": "T",
+      "Turn": 132,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18553,
+      "Speaker": "T",
+      "Turn": 132,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18554,
+      "Speaker": "T",
+      "Turn": 133,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18555,
+      "Speaker": "T",
+      "Turn": 133,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks what is left after taking out x2, soliciting a specific mathematical result."
+    },
+    {
+      "ID": 18558,
+      "Speaker": "T",
+      "Turn": 134,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18559,
+      "Speaker": "T",
+      "Turn": 134,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks students to decide if the factorization is complete (yes/no), a content-based check."
+    },
+    {
+      "ID": 18561,
+      "Speaker": "T",
+      "Turn": 136,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks what can be factored from the current expression."
+    },
+    {
+      "ID": 18562,
+      "Speaker": "T",
+      "Turn": 136,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18563,
+      "Speaker": "T",
+      "Turn": 136,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18564,
+      "Speaker": "T",
+      "Turn": 136,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

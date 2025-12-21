@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 23534,
+      "Speaker": "T",
+      "Turn": 23534,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23535,
+      "Speaker": "T",
+      "Turn": 23535,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23536,
+      "Speaker": "T",
+      "Turn": 23536,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23537,
+      "Speaker": "T",
+      "Turn": 23537,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the class to explain the method for solving the problem."
+    },
+    {
+      "ID": 23538,
+      "Speaker": "T",
+      "Turn": 23538,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23539,
+      "Speaker": "T",
+      "Turn": 23539,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23540,
+      "Speaker": "T",
+      "Turn": 23540,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts a student to explain their problem-solving process."
+    },
+    {
+      "ID": 23542,
+      "Speaker": "T",
+      "Turn": 23542,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23543,
+      "Speaker": "T",
+      "Turn": 23543,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher explicitly asks the student to explain what they are doing and why."
+    },
+    {
+      "ID": 23545,
+      "Speaker": "T",
+      "Turn": 23545,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher articulates what they perceive the student to be doing, voicing the student's action."
+    },
+    {
+      "ID": 23546,
+      "Speaker": "T",
+      "Turn": 23546,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher corrects the mathematical term from the previous utterance, changing the wording to accurately describe the student's action."
+    },
+    {
+      "ID": 23547,
+      "Speaker": "T",
+      "Turn": 23547,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the corrected description of the student's action, adding specificity for the class."
+    },
+    {
+      "ID": 23549,
+      "Speaker": "T",
+      "Turn": 23549,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher directs one student's attention to what another student is doing."
+    },
+    {
+      "ID": 23550,
+      "Speaker": "T",
+      "Turn": 23550,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher continues to orient one student to another's contribution."
+    },
+    {
+      "ID": 23551,
+      "Speaker": "T",
+      "Turn": 23551,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23552,
+      "Speaker": "T",
+      "Turn": 23552,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to explain the next step in their thinking process."
+    },
+    {
+      "ID": 23554,
+      "Speaker": "T",
+      "Turn": 23554,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher verbalizes the student's action for the rest of the class."
+    },
+    {
+      "ID": 23555,
+      "Speaker": "T",
+      "Turn": 23555,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to explain how their action helps achieve the mathematical goal."
+    },
+    {
+      "ID": 23556,
+      "Speaker": "T",
+      "Turn": 23556,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23557,
+      "Speaker": "T",
+      "Turn": 23557,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts the student to explain the next step in their method."
+    }
+  ]
+}

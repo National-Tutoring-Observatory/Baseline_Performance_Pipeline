@@ -1,0 +1,33 @@
+{
+  "records": [
+    {
+      "ID": 5550,
+      "Speaker": "T",
+      "Turn": 5550
+    },
+    {
+      "ID": 5557,
+      "Speaker": "T",
+      "Turn": 5557,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for identification of 'that,' prompting a precise mathematical description."
+    },
+    {
+      "ID": 5563,
+      "Speaker": "T",
+      "Turn": 5563,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher paraphrases a student’s idea by stating its implication ('you are ahead'), clarifying the meaning."
+    },
+    {
+      "ID": 5566,
+      "Speaker": "T",
+      "Turn": 5566
+    },
+    {
+      "ID": 5567,
+      "Speaker": "T",
+      "Turn": 5567
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "records": [
+    {
+      "ID": 2958,
+      "Turn": 69,
+      "Speaker": "T",
+      "Sentence": "You knew the basic fact of 9 5 is 45",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher begins a multi-part turn by rephrasing a student's strategy to check for understanding."
+    },
+    {
+      "ID": 2959,
+      "Turn": 69,
+      "Speaker": "T",
+      "Sentence": "You took g to equal 50",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher continues to rephrase the student's strategy, adding mathematical language ('g to equal 50')."
+    },
+    {
+      "ID": 2960,
+      "Turn": 69,
+      "Speaker": "T",
+      "Sentence": "Is that what Im understanding",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher concludes the rephrasing of the student's idea by explicitly asking for confirmation."
+    },
+    {
+      "ID": 2961,
+      "Turn": 70,
+      "Speaker": "

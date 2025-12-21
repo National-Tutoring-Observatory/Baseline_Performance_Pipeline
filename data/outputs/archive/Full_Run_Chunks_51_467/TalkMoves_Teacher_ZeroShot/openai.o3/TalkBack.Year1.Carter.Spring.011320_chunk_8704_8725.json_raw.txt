@@ -1,0 +1,81 @@
+{
+  "records": [
+    {
+      "ID": 8705,
+      "Speaker": "T",
+      "Turn": 104,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8709,
+      "Speaker": "T",
+      "Turn": 107,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher challenges the proposed answer, prompting students to verify whether the product actually equals 36."
+    },
+    {
+      "ID": 8710,
+      "Speaker": "T",
+      "Turn": 107,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8711,
+      "Speaker": "T",
+      "Turn": 107,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8712,
+      "Speaker": "T",
+      "Turn": 107,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks whether 5 divides 36, prompting students to check the correctness of that potential factor."
+    },
+    {
+      "ID": 8714,
+      "Speaker": "T",
+      "Turn": 109,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher directs attention back to the factor 4, urging students to confirm if it should be included."
+    },
+    {
+      "ID": 8718,
+      "Speaker": "T",
+      "Turn": 112,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8720,
+      "Speaker": "T",
+      "Turn": 114,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks for the exact multiplier that pairs with 6 to make 36, prompting a precise numerical response."
+    },
+    {
+      "ID": 8722,
+      "Speaker": "T",
+      "Turn": 116,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8724,
+      "Speaker": "T",
+      "Turn": 118,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8725,
+      "Speaker": "T",
+      "Turn": 118,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

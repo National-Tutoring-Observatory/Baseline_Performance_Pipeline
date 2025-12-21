@@ -1,0 +1,81 @@
+{
+  "records": [
+    {
+      "ID": 8705,
+      "Turn": 104,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to perform a specific mathematical operation (subtract four)."
+    },
+    {
+      "ID": 8709,
+      "Turn": 107,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher checks the correctness of a value (36), prompting accurate evaluation."
+    },
+    {
+      "ID": 8710,
+      "Turn": 107,
+      "Speaker": "T",
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 8711,
+      "Turn": 107,
+      "Speaker": "T",
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 8712,
+      "Turn": 107,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to test divisibility by 5."
+    },
+    {
+      "ID": 8714,
+      "Turn": 109,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts consideration of 4 as a factor, inviting a mathematical check."
+    },
+    {
+      "ID": 8718,
+      "Turn": 112,
+      "Speaker": "T",
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 8720,
+      "Turn": 114,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the missing factor in a multiplication to reach 36."
+    },
+    {
+      "ID": 8722,
+      "Turn": 116,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher restates the student's idea that 6 will be included since 6×6=36, using altered wording."
+    },
+    {
+      "ID": 8724,
+      "Turn": 118,
+      "Speaker": "T",
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 8725,
+      "Turn": 118,
+      "Speaker": "T",
+      "TalkMove": "None",
+      "Reasoning": null
+    }
+  ]
+}

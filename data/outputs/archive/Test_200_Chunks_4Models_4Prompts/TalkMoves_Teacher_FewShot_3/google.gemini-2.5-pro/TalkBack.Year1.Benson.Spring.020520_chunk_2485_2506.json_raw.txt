@@ -1,0 +1,106 @@
+[
+  {
+    "ID": 2485,
+    "Turn": 333,
+    "Speaker": "T",
+    "Sentence": "Tell me what you did for your unknown",
+    "TalkMove": "Pressing for Reasoning",
+    "Reasoning": "The teacher is asking the student to explain their process and share their thinking."
+  },
+  {
+    "ID": 2487,
+    "Turn": 335,
+    "Speaker": "T",
+    "Sentence": "Where did you get 312",
+    "TalkMove": "Pressing for Reasoning",
+    "Reasoning": "The teacher is asking the student to provide the source for a number they used, which is a form of asking for justification."
+  },
+  {
+    "ID": 2489,
+    "Turn": 337,
+    "Speaker": "T",
+    "Sentence": "From problem what",
+    "TalkMove": "Pressing for Accuracy",
+    "Reasoning": "The teacher is prompting the student to be more specific and precise about the source of their information."
+  },
+  {
+    "ID": 2491,
+    "Turn": 339,
+    "Speaker": "T",
+    "Sentence": "From problem number two we already found out how much burrito cost right",
+    "TalkMove": "Revoicing",
+    "Reasoning": "The teacher repeats the student's answer ('Number two') and adds clarifying information to make the student's contribution more complete."
+  },
+  {
+    "ID": 2492,
+    "Turn": 339,
+    "Speaker": "T",
+    "Sentence": "We knew 312 was the cost of burritos but then why did you use times three",
+    "TalkMove": "Pressing for Reasoning",
+    "Reasoning": "The teacher explicitly asks 'why' the student chose a particular mathematical operation, prompting for justification."
+  },
+  {
+    "ID": 2494,
+    "Turn": 341,
+    "Speaker": "T",
+    "Sentence": "Its 300 x 3",
+    "TalkMove": "None",
+    "Reasoning": null
+  },
+  {
+    "ID": 2496,
+    "Turn": 343,
+    "Speaker": "T",
+    "Sentence": "how did he go",
+    "TalkMove": "None",
+    "Reasoning": null
+  },
+  {
+    "ID": 2497,
+    "Turn": 343,
+    "Speaker": "T",
+    "Sentence": "Whats 300 x 3",
+    "TalkMove": "None",
+    "Reasoning": null
+  },
+  {
+    "ID": 2499,
+    "Turn": 345,
+    "Speaker": "T",
+    "Sentence": "Whats 10 x 3",
+    "TalkMove": "None",
+    "Reasoning": null
+  },
+  {
+    "ID": 2501,
+    "Turn": 347,
+    "Speaker": "T",
+    "Sentence": "What is 2 x 3",
+    "TalkMove": "None",
+    "Reasoning": null
+  },
+  {
+    "ID": 2503,
+    "Turn": 349,
+    "Speaker": "T",
+    "Sentence": "900  30  6 equals how much",
+    "TalkMove": "None",
+    "Reasoning": null
+  },
+  {
+    "ID": 2505,
+    "Turn": 351,
+    "Speaker": "T",
+    "Sentence": "Now can you remember that youve already done a problem and you know how to resolve it",
+    "TalkMove": "None",
+    "Reasoning": null
+  },
+  {
+    "ID": 2506,
+    "Turn": 351,
+    "Speaker": "T",
+    "Sentence": "Okay thank you Jasper for being the one to talk us through that",
+    "TalkMove": "None",
+    "Reasoning": null
+  }
+]

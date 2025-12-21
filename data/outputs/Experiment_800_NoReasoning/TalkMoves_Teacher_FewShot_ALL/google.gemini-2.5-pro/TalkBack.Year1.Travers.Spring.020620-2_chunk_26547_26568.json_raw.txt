@@ -1,0 +1,153 @@
+{
+  "records": [
+    {
+      "ID": 26547,
+      "Turn": 174,
+      "Speaker": "T",
+      "Sentence": "Friends I need your help",
+      "TalkMove": null
+    },
+    {
+      "ID": 26548,
+      "Turn": 174,
+      "Speaker": "T",
+      "Sentence": "How many performers",
+      "TalkMove": "Pressing for Accuracy"
+    },
+    {
+      "ID": 26549,
+      "Turn": 175,
+      "Speaker": "S",
+      "Sentence": "Three"
+    },
+    {
+      "ID": 26550,
+      "Turn": 176,
+      "Speaker": "T",
+      "Sentence": "How many hours",
+      "TalkMove": "Pressing for Accuracy"
+    },
+    {
+      "ID": 26551,
+      "Turn": 177,
+      "Speaker": "S",
+      "Sentence": "Two"
+    },
+    {
+      "ID": 26552,
+      "Turn": 178,
+      "Speaker": "T",
+      "Sentence": "How much money",
+      "TalkMove": "Pressing for Accuracy"
+    },
+    {
+      "ID": 26553,
+      "Turn": 179,
+      "Speaker": "S",
+      "Sentence": "Thirty per hour"
+    },
+    {
+      "ID": 26554,
+      "Turn": 180,
+      "Speaker": "T",
+      "Sentence": "Thirty per hour",
+      "TalkMove": "Restating"
+    },
+    {
+      "ID": 26555,
+      "Turn": 180,
+      "Speaker": "T",
+      "Sentence": "Okay",
+      "TalkMove": null
+    },
+    {
+      "ID": 26556,
+      "Turn": 180,
+      "Speaker": "T",
+      "Sentence": "That looks like this",
+      "TalkMove": null
+    },
+    {
+      "ID": 26557,
+      "Turn": 180,
+      "Speaker": "T",
+      "Sentence": "Three times two times what",
+      "TalkMove": "Pressing for Accuracy"
+    },
+    {
+      "ID": 26558,
+      "Turn": 180,
+      "Speaker": "T",
+      "Sentence": "3000",
+      "TalkMove": null
+    },
+    {
+      "ID": 26559,
+      "Turn": 180,
+      "Speaker": "T",
+      "Sentence": "Wow",
+      "TalkMove": null
+    },
+    {
+      "ID": 26560,
+      "Turn": 180,
+      "Speaker": "T",
+      "Sentence": "Equals",
+      "TalkMove": null
+    },
+    {
+      "ID": 26561,
+      "Turn": 180,
+      "Speaker": "T",
+      "Sentence": "Remember we need that letter",
+      "TalkMove": null
+    },
+    {
+      "ID": 26562,
+      "Turn": 180,
+      "Speaker": "T",
+      "Sentence": "The D represents what",
+      "TalkMove": "Pressing for Accuracy"
+    },
+    {
+      "ID": 26563,
+      "Turn": 181,
+      "Speaker": "S",
+      "Sentence": "Dollars"
+    },
+    {
+      "ID": 26564,
+      "Turn": 182,
+      "Speaker": "S",
+      "Sentence": "The dollar"
+    },
+    {
+      "ID": 26565,
+      "Turn": 183,
+      "Speaker": "T",
+      "Sentence": "Dollars in units",
+      "TalkMove": "Revoicing"
+    },
+    {
+      "ID": 26566,
+      "Turn": 183,
+      "Speaker": "T",
+      "Sentence": "Okay",
+      "TalkMove": null
+    },
+    {
+      "ID": 26567,
+      "Turn": 183,
+      "Speaker": "T",
+      "Sentence": "So check my success criteria so far fourth graders",
+      "TalkMove": null
+    },
+    {
+      "ID": 26568,
+      "Turn": 183,
+      "Speaker": "T",
+      "Sentence": "So far do I have a single that means one number model with parenthesis",
+      "TalkMove": "Keeping Everyone Together"
+    }
+  ]
+}

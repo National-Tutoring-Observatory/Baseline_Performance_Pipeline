@@ -1,0 +1,102 @@
+{
+  "records": [
+    {
+      "ID": 20417,
+      "Speaker": "T",
+      "Turn": 37,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20418,
+      "Speaker": "T",
+      "Turn": 38,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks how to use a part of the representation/property, eliciting an explanation of approach."
+    },
+    {
+      "ID": 20420,
+      "Speaker": "T",
+      "Turn": 40,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to state a precise mathematical fact about the zero exponent."
+    },
+    {
+      "ID": 20422,
+      "Speaker": "T",
+      "Turn": 42,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20424,
+      "Speaker": "T",
+      "Turn": 44,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student’s correction ('one'), slightly changing the wording by omitting 'oh'."
+    },
+    {
+      "ID": 20425,
+      "Speaker": "T",
+      "Turn": 44,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20429,
+      "Speaker": "T",
+      "Turn": 47,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks students to specify the correct given value (98 or 96), seeking precision."
+    },
+    {
+      "ID": 20431,
+      "Speaker": "T",
+      "Turn": 49,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20432,
+      "Speaker": "T",
+      "Turn": 49,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks how to rewrite the expression using a property, prompting students to connect and explain."
+    },
+    {
+      "ID": 20434,
+      "Speaker": "T",
+      "Turn": 51,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks whether 1024 is a multiple of 4, prompting a specific mathematical classification."
+    },
+    {
+      "ID": 20435,
+      "Speaker": "T",
+      "Turn": 51,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher requests the missing factor in 'four times what,' seeking a precise numerical answer."
+    },
+    {
+      "ID": 20436,
+      "Speaker": "T",
+      "Turn": 52,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts students to determine the simplification by relating the root operation to the expression."
+    },
+    {
+      "ID": 20437,
+      "Speaker": "T",
+      "Turn": 53,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20438,
+      "Speaker": "T",
+      "Turn": 53,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

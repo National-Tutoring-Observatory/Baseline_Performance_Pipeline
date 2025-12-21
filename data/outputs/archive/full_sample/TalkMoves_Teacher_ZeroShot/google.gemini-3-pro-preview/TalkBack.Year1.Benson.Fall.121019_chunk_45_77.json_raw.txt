@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 45,
+      "Speaker": "T",
+      "Turn": 45,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher poses a multiplication problem, prompting students to provide the correct calculated answer."
+    },
+    {
+      "ID": 48,
+      "Speaker": "T",
+      "Turn": 48,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 49,
+      "Speaker": "T",
+      "Turn": 49,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to identify the specific mathematical component ('what') associated with the basic facts strategy."
+    },
+    {
+      "ID": 50,
+      "Speaker": "T",
+      "Turn": 50,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 51,
+      "Speaker": "T",
+      "Turn": 51,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 52,
+      "Speaker": "T",
+      "Turn": 52,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's answer ('56') and adds an interpretation of the student's process ('thinking through')."
+    },
+    {
+      "ID": 53,
+      "Speaker": "T",
+      "Turn": 53,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher poses a new multiplication problem, prompting a mathematical contribution."
+    },
+    {
+      "ID": 55,
+      "Speaker": "T",
+      "Turn": 55,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks a student ('Clayton') to explain the 'Why' behind their answer."
+    },
+    {
+      "ID": 56,
+      "Speaker": "T",
+      "Turn": 56,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks for justification regarding why a specific incorrect or alternative answer ('80') is not correct."
+    },
+    {
+      "ID": 58,
+      "Speaker": "T",
+      "Turn": 58,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 59,
+      "Speaker": "T",
+      "Turn": 59,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats and summarizes the student's explanation about using a 'basic fact'."
+    },
+    {
+      "ID": 60,
+      "Speaker": "T",
+      "Turn": 60,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher continues to rephrase the student's reasoning regarding the 'two extra zeros'."
+    },
+    {
+      "ID": 61,
+      "Speaker": "T",
+      "Turn": 61,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher poses a new multiplication problem, prompting a mathematical contribution."
+    },
+    {
+      "ID": 63,
+      "Speaker": "T",
+      "Turn": 63,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher poses a new multiplication problem, prompting a mathematical contribution."
+    },
+    {
+      "ID": 65,
+      "Speaker": "T",
+      "Turn": 65,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher poses a new multiplication problem, prompting a mathematical contribution."
+    },
+    {
+      "ID": 68,
+      "Speaker": "T",
+      "Turn": 68,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to explain the difference between two answers, prompting justification for the place value."
+    },
+    {
+      "ID": 69,
+      "Speaker": "T",
+      "Turn": 69,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher directs a 'why not' question to a specific student, prompting an explanation."
+    },
+    {
+      "ID": 71,
+      "Speaker": "T",
+      "Turn": 71,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases the student's explanation about adding '4 extra zeros' to the basic fact."
+    },
+    {
+      "ID": 72,
+      "Speaker": "T",
+      "Turn": 72,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher poses a new multiplication problem, prompting a mathematical contribution."
+    },
+    {
+      "ID": 77,
+      "Speaker": "T",
+      "Turn": 77,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's answer ('24000') word for word."
+    }
+  ]
+}

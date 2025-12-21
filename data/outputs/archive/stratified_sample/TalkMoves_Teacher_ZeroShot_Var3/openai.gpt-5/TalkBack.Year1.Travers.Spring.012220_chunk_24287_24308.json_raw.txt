@@ -1,0 +1,88 @@
+{
+  "records": [
+    {
+      "ID": 24287,
+      "Speaker": "T",
+      "Turn": 282,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for a specific multiplication (‘what times this’), prompting a mathematical contribution."
+    },
+    {
+      "ID": 24290,
+      "Speaker": "T",
+      "Turn": 284,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24293,
+      "Speaker": "T",
+      "Turn": 287,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts the student to work through their thinking process."
+    },
+    {
+      "ID": 24294,
+      "Speaker": "T",
+      "Turn": 287,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher directs the student to recheck a specific answer for correctness."
+    },
+    {
+      "ID": 24300,
+      "Speaker": "T",
+      "Turn": 292,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24301,
+      "Speaker": "T",
+      "Turn": 293,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24302,
+      "Speaker": "T",
+      "Turn": 293,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24303,
+      "Speaker": "T",
+      "Turn": 294,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24304,
+      "Speaker": "T",
+      "Turn": 294,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24305,
+      "Speaker": "T",
+      "Turn": 294,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher paraphrases the student’s method by identifying the operation used (‘you did multiply four times two’)."
+    },
+    {
+      "ID": 24306,
+      "Speaker": "T",
+      "Turn": 294,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts the student to consider the fraction context and connect the number story to their work."
+    },
+    {
+      "ID": 24307,
+      "Speaker": "T",
+      "Turn": 294,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

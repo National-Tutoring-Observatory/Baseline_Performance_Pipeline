@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 10823,
+      "Speaker": "T",
+      "Turn": 10823,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10824,
+      "Speaker": "T",
+      "Turn": 10824,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10825,
+      "Speaker": "T",
+      "Turn": 10825,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to specify which part of the fraction they are using in their calculation, pushing for more precise mathematical language."
+    },
+    {
+      "ID": 10826,
+      "Speaker": "T",
+      "Turn": 10826,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher repeats the prompt for the student to identify a specific mathematical component of the fraction."
+    },
+    {
+      "ID": 10827,
+      "Speaker": "T",
+      "Turn": 10827,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's one-word contribution ('The numerator') to affirm and broadcast it."
+    },
+    {
+      "ID": 10828,
+      "Speaker": "T",
+      "Turn": 10828,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10829,
+      "Speaker": "T",
+      "Turn": 10829,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10830,
+      "Speaker": "T",
+      "Turn": 10830,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to recall and use a specific mathematical vocabulary word."
+    },
+    {
+      "ID": 10831,
+      "Speaker": "T",
+      "Turn": 10831,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases the purpose of the student's action (dividing) by connecting it to the specific mathematical concept of finding the 'unit fraction'."
+    },
+    {
+      "ID": 10832,
+      "Speaker": "T",
+      "Turn": 10832,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher further clarifies the concept of finding a 'unit fraction' by applying it to the specific numbers in the problem."
+    },
+    {
+      "ID": 10833,
+      "Speaker": "T",
+      "Turn": 10833,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher re-interprets the student's calculation by explicitly stating its mathematical purpose: finding the value of the unit fraction."
+    },
+    {
+      "ID": 10834,
+      "Speaker": "T",
+      "Turn": 10834,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10835,
+      "Speaker": "T",
+      "Turn": 10835,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10836,
+      "Speaker": "T",
+      "Turn": 10836,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10837,
+      "Speaker": "T",
+      "Turn": 10837,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to articulate the next step in their problem-solving process, prompting them to share their thinking."
+    },
+    {
+      "ID": 10838,
+      "Speaker": "T",
+      "Turn": 10838,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10839,
+      "Speaker": "T",
+      "Turn": 10839,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher repeats the question asking for the next step in the procedure, pressing the student to explain their thought process."
+    },
+    {
+      "ID": 10840,
+      "Speaker": "T",
+      "Turn": 10840,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the beginning of a student's contribution ('Multiply by') to hold it for consideration."
+    },
+    {
+      "ID": 10841,
+      "Speaker": "T",
+      "Turn": 10841,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher completes the student's partial thought ('Multiply by') by adding the specific mathematical term ('the numerator'), thus rephrasing and clarifying the student's idea."
+    },
+    {
+      "ID": 10842,
+      "Speaker": "T",
+      "Turn": 10842,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

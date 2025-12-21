@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 14655,
+      "Speaker": "T",
+      "Turn": 14655,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 14656,
+      "Speaker": "T",
+      "Turn": 14656,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 14657,
+      "Speaker": "T",
+      "Turn": 14657,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 14658,
+      "Speaker": "T",
+      "Turn": 14658,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 14660,
+      "Speaker": "T",
+      "Turn": 14660,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 14661,
+      "Speaker": "T",
+      "Turn": 14661,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks a student to explain how a mathematical strategy would be helpful, prompting them to share their thinking."
+    },
+    {
+      "ID": 14663,
+      "Speaker": "T",
+      "Turn": 14663,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's contribution but reframes it to clarify that the student gave a general answer rather than one specific to the problem."
+    },
+    {
+      "ID": 14664,
+      "Speaker": "T",
+      "Turn": 14664,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to move from a general idea to a specific application for the given problem, thus pressing for a more accurate and relevant mathematical contribution."
+    },
+    {
+      "ID": 14665,
+      "Speaker": "T",
+      "Turn": 14665,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to compare their estimate to a given answer and explain what they notice, prompting them to connect ideas and share their thinking."
+    },
+    {
+      "ID": 14666,
+      "Speaker": "T",
+      "Turn": 14666,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 14667,
+      "Speaker": "T",
+      "Turn": 14667,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 14669,
+      "Speaker": "T",
+      "Turn": 14669,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks a student to identify an error, which requires them to analyze the work and provide a reason for their conclusion."
+    },
+    {
+      "ID": 14670,
+      "Speaker": "T",
+      "Turn": 14670,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher redirects the student to the specific mathematical task of estimation, pressing them to use the correct mathematical process."
+    },
+    {
+      "ID": 14671,
+      "Speaker": "T",
+      "Turn": 14671,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to provide a specific mathematical value (the estimate)."
+    },
+    {
+      "ID": 14672,
+      "Speaker": "T",
+      "Turn": 14672,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a guiding question to help students use benchmarks (zero, half, or one) to make a more accurate estimation."
+    },
+    {
+      "ID": 14675,
+      "Speaker": "T",
+      "Turn": 14675,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats a student's one-word answer verbatim."
+    },
+    {
+      "ID": 14676,
+      "Speaker": "T",
+      "Turn": 14676,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher takes the student's likely answer and elaborates on it by adding comparative reasoning, thus revoicing the student's contribution with additional mathematical justification."
+    },
+    {
+      "ID": 14677,
+      "Speaker": "T",
+      "Turn": 14677,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 14678,
+      "Speaker": "T",
+      "Turn": 14678,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 14680,
+      "Speaker": "T",
+      "Turn": 14680,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

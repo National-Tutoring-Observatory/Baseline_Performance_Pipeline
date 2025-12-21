@@ -1,0 +1,130 @@
+{
+  "records": [
+    {
+      "ID": 5122,
+      "Speaker": "T",
+      "Turn": 223,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks students to decide if the value is bigger than 1/2, prompting a precise mathematical claim."
+    },
+    {
+      "ID": 5123,
+      "Speaker": "T",
+      "Turn": 223,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher follows up by asking if the value is less than 1/2, again seeking a precise comparative statement."
+    },
+    {
+      "ID": 5125,
+      "Speaker": "T",
+      "Turn": 225,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5126,
+      "Speaker": "T",
+      "Turn": 225,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher repeats the student's idea ('bigger than a half') while adding the specific fraction (11/15)."
+    },
+    {
+      "ID": 5128,
+      "Speaker": "T",
+      "Turn": 227,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher rephrases the student's comment by specifying that what is 'nowhere near the answer' is 'nowhere near zero.'"
+    },
+    {
+      "ID": 5129,
+      "Speaker": "T",
+      "Turn": 227,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5131,
+      "Speaker": "T",
+      "Turn": 229,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5133,
+      "Speaker": "T",
+      "Turn": 231,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher restates the student's idea ('not as big as a half') in new words ('less than 1/2')."
+    },
+    {
+      "ID": 5134,
+      "Speaker": "T",
+      "Turn": 231,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5135,
+      "Speaker": "T",
+      "Turn": 231,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5136,
+      "Speaker": "T",
+      "Turn": 232,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5137,
+      "Speaker": "T",
+      "Turn": 232,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5138,
+      "Speaker": "T",
+      "Turn": 232,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5139,
+      "Speaker": "T",
+      "Turn": 232,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5140,
+      "Speaker": "T",
+      "Turn": 232,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5141,
+      "Speaker": "T",
+      "Turn": 234,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5142,
+      "Speaker": "T",
+      "Turn": 234,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5143,
+      "Speaker": "T",
+      "Turn": 234,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

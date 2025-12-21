@@ -1,0 +1,85 @@
+{
+  "records": [
+    {
+      "ID": 4735,
+      "Speaker": "T",
+      "Turn": 50
+    },
+    {
+      "ID": 4736,
+      "Speaker": "T",
+      "Turn": 50,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the specific quantity needed, prompting a precise mathematical answer."
+    },
+    {
+      "ID": 4737,
+      "Speaker": "T",
+      "Turn": 51,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher requests a number model and an answer, prompting students to use mathematical representations and language."
+    },
+    {
+      "ID": 4738,
+      "Speaker": "T",
+      "Turn": 51,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher directs students to talk with their shoulder partner, orienting them to each other and active listening."
+    },
+    {
+      "ID": 4739,
+      "Speaker": "T",
+      "Turn": 51,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks which operation to use and what words give the hint, prompting justification based on the problem text."
+    },
+    {
+      "ID": 4748,
+      "Speaker": "T",
+      "Turn": 58
+    },
+    {
+      "ID": 4749,
+      "Speaker": "T",
+      "Turn": 58
+    },
+    {
+      "ID": 4750,
+      "Speaker": "T",
+      "Turn": 59,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to specify which operation, eliciting a precise mathematical choice."
+    },
+    {
+      "ID": 4751,
+      "Speaker": "T",
+      "Turn": 59,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks students to name the operation explicitly using mathematical language."
+    },
+    {
+      "ID": 4753,
+      "Speaker": "T",
+      "Turn": 60
+    },
+    {
+      "ID": 4754,
+      "Speaker": "T",
+      "Turn": 60,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's suggestion 'subtraction' to keep the idea in focus."
+    },
+    {
+      "ID": 4755,
+      "Speaker": "T",
+      "Turn": 60,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher invites students to share their thinking."
+    },
+    {
+      "ID": 4756,
+      "Speaker": "T",
+      "Turn": 60
+    }
+  ]
+}

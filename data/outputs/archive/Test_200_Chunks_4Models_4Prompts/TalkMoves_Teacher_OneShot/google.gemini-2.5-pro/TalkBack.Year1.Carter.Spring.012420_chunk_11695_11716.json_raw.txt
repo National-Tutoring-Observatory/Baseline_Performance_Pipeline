@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 11695,
+      "Turn": 239,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11696,
+      "Turn": 239,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts students to think about why the procedure might be different from a previous one, initiating a line of reasoning."
+    },
+    {
+      "ID": 11698,
+      "Turn": 241,
+      "Speaker": "T",
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's one-word answer verbatim, affirming it and making it public."
+    },
+    {
+      "ID": 11699,
+      "Turn": 241,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to provide the reason for their previous answer by connecting it to the details of the problem."
+    },
+    {
+      "ID": 11701,
+      "Turn": 243,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students for a specific, correct number required for the mathematical procedure."
+    },
+    {
+      "ID": 11702,
+      "Turn": 243,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11703,
+      "Turn": 243,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher verbalizes a student's likely action or mumbled words, preparing to clarify or build on it."
+    },
+    {
+      "ID": 11704,
+      "Turn": 243,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's idea of folding into three but adds the precise mathematical language 'equal parts' to refine the contribution."
+    },
+    {
+      "ID": 11705,
+      "Turn": 244,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher repeats and emphasizes a key mathematical term to stress its importance."
+    },
+    {
+      "ID": 11706,
+      "Turn": 245,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11707,
+      "Turn": 245,
+      "Speaker": "T",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher polls the class to check if they have completed the step correctly, ensuring the group is moving forward together."
+    },
+    {
+      "ID": 11708,
+      "Turn": 245,
+      "Speaker": "T",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher polls the class to gauge their readiness for the next step in the problem."
+    },
+    {
+      "ID": 11709,
+      "Turn": 245,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11710,
+      "Turn": 245,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11711,
+      "Turn": 245,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11712,
+      "Turn": 245,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11713,
+      "Turn": 245,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11714,
+      "Turn": 246,
+      "Speaker": "T",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher asks students to check their work against a model, ensuring the class is synchronized."
+    },
+    {
+      "ID": 11715,
+      "Turn": 247,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to interpret their drawing and connect it back to the problem's context."
+    },
+    {
+      "ID": 11716,
+      "Turn": 247,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks a question that requires students to reason about how to represent the fraction '2/3' in their drawing."
+    }
+  ]
+}

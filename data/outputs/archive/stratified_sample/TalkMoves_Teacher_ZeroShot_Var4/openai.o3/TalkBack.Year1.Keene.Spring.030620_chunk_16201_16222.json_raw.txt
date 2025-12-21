@@ -1,0 +1,130 @@
+{
+  "records": [
+    {
+      "ID": 16201,
+      "Speaker": "T",
+      "Turn": 137,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16202,
+      "Speaker": "T",
+      "Turn": 137,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher asks Sage to explain the reasoning behind their position ('why are you where you’re at')."
+    },
+    {
+      "ID": 16204,
+      "Speaker": "T",
+      "Turn": 139,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher requests clarification of which option (‘this one’) the student is referring to, seeking precision."
+    },
+    {
+      "ID": 16207,
+      "Speaker": "T",
+      "Turn": 141,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16208,
+      "Speaker": "T",
+      "Turn": 141,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher paraphrases the student’s idea about ‘fraction of’ to connect it to multiplication."
+    },
+    {
+      "ID": 16209,
+      "Speaker": "T",
+      "Turn": 141,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher restates and extends the student’s point by linking it explicitly to multiplication."
+    },
+    {
+      "ID": 16210,
+      "Speaker": "T",
+      "Turn": 141,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16211,
+      "Speaker": "T",
+      "Turn": 141,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher asks whether the situation involves dividing into equal parts, prompting students to justify operation choice."
+    },
+    {
+      "ID": 16212,
+      "Speaker": "T",
+      "Turn": 142,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16213,
+      "Speaker": "T",
+      "Turn": 142,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Teacher directs classmates to allow think time, orienting the class to listen respectfully."
+    },
+    {
+      "ID": 16214,
+      "Speaker": "T",
+      "Turn": 142,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher repeats the question about equal parts, pressing students to consider and explain."
+    },
+    {
+      "ID": 16216,
+      "Speaker": "T",
+      "Turn": 144,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16217,
+      "Speaker": "T",
+      "Turn": 144,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16218,
+      "Speaker": "T",
+      "Turn": 144,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16219,
+      "Speaker": "T",
+      "Turn": 144,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16220,
+      "Speaker": "T",
+      "Turn": 144,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16221,
+      "Speaker": "T",
+      "Turn": 144,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher asks Lea to state her stance (‘where are you at’), inviting her reasoning."
+    },
+    {
+      "ID": 16222,
+      "Speaker": "T",
+      "Turn": 144,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Follow-up prompt ‘What do you think’ explicitly requests the student’s explanation."
+    }
+  ]
+}

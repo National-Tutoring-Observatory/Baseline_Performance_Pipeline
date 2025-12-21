@@ -1,0 +1,130 @@
+{
+  "records": [
+    {
+      "ID": 9943,
+      "Speaker": "T",
+      "Turn": 146,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9944,
+      "Speaker": "T",
+      "Turn": 146,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to consider an alternative method (division) and implicitly explain how it would work."
+    },
+    {
+      "ID": 9946,
+      "Speaker": "T",
+      "Turn": 148,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9947,
+      "Speaker": "T",
+      "Turn": 148,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher explicitly asks a student who used division to \"explain their thinking,\" requesting justification."
+    },
+    {
+      "ID": 9949,
+      "Speaker": "T",
+      "Turn": 150,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9950,
+      "Speaker": "T",
+      "Turn": 150,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher summarizes the class’s prior finding so all students remain oriented to the shared result."
+    },
+    {
+      "ID": 9951,
+      "Speaker": "T",
+      "Turn": 150,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Again, the teacher restates the previously established result to ensure the whole class is on the same page."
+    },
+    {
+      "ID": 9952,
+      "Speaker": "T",
+      "Turn": 150,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the exact value of 7/10 (of 50), prompting a precise mathematical answer."
+    },
+    {
+      "ID": 9953,
+      "Speaker": "T",
+      "Turn": 150,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9954,
+      "Speaker": "T",
+      "Turn": 150,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher directs students to discuss why the answer is 35, asking them to articulate their reasoning."
+    },
+    {
+      "ID": 9955,
+      "Speaker": "T",
+      "Turn": 151,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9956,
+      "Speaker": "T",
+      "Turn": 151,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9957,
+      "Speaker": "T",
+      "Turn": 151,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9959,
+      "Speaker": "T",
+      "Turn": 153,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher redirects a student’s attention back to the discussion, prompting active listening."
+    },
+    {
+      "ID": 9960,
+      "Speaker": "T",
+      "Turn": 153,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9961,
+      "Speaker": "T",
+      "Turn": 153,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to describe the process they would use, requesting an explanation of their thinking."
+    },
+    {
+      "ID": 9962,
+      "Speaker": "T",
+      "Turn": 153,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The follow-up question again asks for the procedure to find 7/10 of 50, eliciting reasoning steps."
+    },
+    {
+      "ID": 9963,
+      "Speaker": "T",
+      "Turn": 153,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

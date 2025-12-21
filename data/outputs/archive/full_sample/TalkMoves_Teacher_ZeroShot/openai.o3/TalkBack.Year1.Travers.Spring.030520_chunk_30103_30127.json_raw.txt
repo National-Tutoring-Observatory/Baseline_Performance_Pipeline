@@ -1,0 +1,134 @@
+{
+  "records": [
+    {
+      "ID": 30103,
+      "Speaker": "T",
+      "Turn": 30103,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher restates the student’s idea and adds context—‘She’ll have’—to clarify the contribution."
+    },
+    {
+      "ID": 30104,
+      "Speaker": "T",
+      "Turn": 30104,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks for the specific number of notebooks, prompting a precise mathematical answer."
+    },
+    {
+      "ID": 30106,
+      "Speaker": "T",
+      "Turn": 30106,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Follow-up request seeking the exact quantity, pushing students to supply the numerical answer."
+    },
+    {
+      "ID": 30107,
+      "Speaker": "T",
+      "Turn": 30107,
+      "TalkMove": "Restating",
+      "Reasoning": "Teacher repeats the answer ‘four notebooks’ exactly as likely voiced by a student."
+    },
+    {
+      "ID": 30108,
+      "Speaker": "T",
+      "Turn": 30108
+    },
+    {
+      "ID": 30109,
+      "Speaker": "T",
+      "Turn": 30109,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher paraphrases what the student said, confirming and clarifying the idea about a remainder."
+    },
+    {
+      "ID": 30110,
+      "Speaker": "T",
+      "Turn": 30110,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks for the exact value of the remainder, focusing on a precise mathematical detail."
+    },
+    {
+      "ID": 30112,
+      "Speaker": "T",
+      "Turn": 30112,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher restates the student’s answer while adding the unit ‘dollars leftover’ for clarity."
+    },
+    {
+      "ID": 30113,
+      "Speaker": "T",
+      "Turn": 30113,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher invites Zoe to explain her work and share her thinking with the class."
+    },
+    {
+      "ID": 30115,
+      "Speaker": "T",
+      "Turn": 30115,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher requests the missing unit, prompting students to state ‘two dollars’ explicitly."
+    },
+    {
+      "ID": 30117,
+      "Speaker": "T",
+      "Turn": 30117,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher rephrases the answer, adding context (‘she’ll have leftover’) to clarify meaning."
+    },
+    {
+      "ID": 30118,
+      "Speaker": "T",
+      "Turn": 30118,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher again prompts for the precise number of notebooks that can be bought."
+    },
+    {
+      "ID": 30120,
+      "Speaker": "T",
+      "Turn": 30120,
+      "TalkMove": "Restating",
+      "Reasoning": "Teacher echoes the numeric answer ‘Four’ exactly as stated."
+    },
+    {
+      "ID": 30121,
+      "Speaker": "T",
+      "Turn": 30121
+    },
+    {
+      "ID": 30122,
+      "Speaker": "T",
+      "Turn": 30122
+    },
+    {
+      "ID": 30123,
+      "Speaker": "T",
+      "Turn": 30123
+    },
+    {
+      "ID": 30124,
+      "Speaker": "T",
+      "Turn": 30124,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher repeats ‘Two dollars leftover,’ reinforcing the precise answer with units."
+    },
+    {
+      "ID": 30125,
+      "Speaker": "T",
+      "Turn": 30125,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks again for the specific quantity of notebooks, focusing on an exact numerical response."
+    },
+    {
+      "ID": 30126,
+      "Speaker": "T",
+      "Turn": 30126,
+      "TalkMove": "Restating",
+      "Reasoning": "Teacher repeats the answer ‘four notebooks’ verbatim to affirm and clarify."
+    },
+    {
+      "ID": 30127,
+      "Speaker": "T",
+      "Turn": 30127
+    }
+  ]
+}

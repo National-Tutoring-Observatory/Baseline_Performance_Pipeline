@@ -1,0 +1,116 @@
+{
+  "records": [
+    {
+      "ID": 11905,
+      "Speaker": "T",
+      "Turn": 33,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11906,
+      "Speaker": "T",
+      "Turn": 33,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the exact dimensions that would give an area of 34 x 23, prompting a precise mathematical answer."
+    },
+    {
+      "ID": 11907,
+      "Speaker": "T",
+      "Turn": 33,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher calls on a specific student (“Lyla”), directing attention and participation."
+    },
+    {
+      "ID": 11910,
+      "Speaker": "T",
+      "Turn": 35,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher requests the specific dimensions of a rectangle, seeking a correct mathematical statement."
+    },
+    {
+      "ID": 11912,
+      "Speaker": "T",
+      "Turn": 37,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher invites the class to respond to a peer’s answer: “What do you guys think of that thinking?”"
+    },
+    {
+      "ID": 11913,
+      "Speaker": "T",
+      "Turn": 37,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11914,
+      "Speaker": "T",
+      "Turn": 37,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11915,
+      "Speaker": "T",
+      "Turn": 37,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11916,
+      "Speaker": "T",
+      "Turn": 37,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks how to mark number lines to create the rectangle, prompting students to explain their strategy."
+    },
+    {
+      "ID": 11917,
+      "Speaker": "T",
+      "Turn": 37,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Repeats the question while directing it to Zane, still seeking an explanation of how to mark the lines."
+    },
+    {
+      "ID": 11918,
+      "Speaker": "T",
+      "Turn": 37,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher elaborates the prompt, asking for reasoning about marking number lines based on the student’s work."
+    },
+    {
+      "ID": 11919,
+      "Speaker": "T",
+      "Turn": 37,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "Asks the class to comment on a peer’s thinking: “What do you guys say of his thinking?”"
+    },
+    {
+      "ID": 11920,
+      "Speaker": "T",
+      "Turn": 37,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks ‘why’ they would use tick marks, prompting justification."
+    },
+    {
+      "ID": 11922,
+      "Speaker": "T",
+      "Turn": 39,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher restates the student’s idea about tick marks in her own words, emphasizing clarity."
+    },
+    {
+      "ID": 11924,
+      "Speaker": "T",
+      "Turn": 41,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11925,
+      "Speaker": "T",
+      "Turn": 41,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "Teacher checks whether Zane saw the relevance of the peer’s idea, prompting him to connect to it."
+    }
+  ]
+}

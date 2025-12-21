@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 30103,
+      "Speaker": "T",
+      "Turn": 30103,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 30104,
+      "Speaker": "T",
+      "Turn": 30104,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a specific question prompting students to provide a numerical answer."
+    },
+    {
+      "ID": 30106,
+      "Speaker": "T",
+      "Turn": 30106,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher repeats the prompt for the specific quantity."
+    },
+    {
+      "ID": 30107,
+      "Speaker": "T",
+      "Turn": 30107,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 30108,
+      "Speaker": "T",
+      "Turn": 30108,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 30109,
+      "Speaker": "T",
+      "Turn": 30109,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats and summarizes what students are saying ('Im hearing you say...') to verify the idea."
+    },
+    {
+      "ID": 30110,
+      "Speaker": "T",
+      "Turn": 30110,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for a specific value ('Whats the remainder')."
+    },
+    {
+      "ID": 30112,
+      "Speaker": "T",
+      "Turn": 30112,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 30113,
+      "Speaker": "T",
+      "Turn": 30113,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher calls on a specific student to share their mathematical result."
+    },
+    {
+      "ID": 30115,
+      "Speaker": "T",
+      "Turn": 30115,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to provide the correct unit ('two what') for the answer."
+    },
+    {
+      "ID": 30117,
+      "Speaker": "T",
+      "Turn": 30117,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 30118,
+      "Speaker": "T",
+      "Turn": 30118,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks the students to state the final answer to the problem."
+    },
+    {
+      "ID": 30120,
+      "Speaker": "T",
+      "Turn": 30120,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 30121,
+      "Speaker": "T",
+      "Turn": 30121,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 30122,
+      "Speaker": "T",
+      "Turn": 30122,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 30123,
+      "Speaker": "T",
+      "Turn": 30123,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the students to use precise mathematical language by asking for the units ('Two what')."
+    },
+    {
+      "ID": 30124,
+      "Speaker": "T",
+      "Turn": 30124,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 30125,
+      "Speaker": "T",
+      "Turn": 30125,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the students again for the specific numerical answer."
+    },
+    {
+      "ID": 30126,
+      "Speaker": "T",
+      "Turn": 30126,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 30127,
+      "Speaker": "T",
+      "Turn": 30127,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

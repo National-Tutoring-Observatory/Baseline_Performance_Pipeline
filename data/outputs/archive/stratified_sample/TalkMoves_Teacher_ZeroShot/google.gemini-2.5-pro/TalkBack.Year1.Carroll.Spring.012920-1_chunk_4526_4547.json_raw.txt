@@ -1,0 +1,109 @@
+{
+  "records": [
+    {
+      "ID": 4526,
+      "Speaker": "T",
+      "Turn": 55,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher directs the class's attention to an upcoming student contribution, promoting active listening."
+    },
+    {
+      "ID": 4527,
+      "Speaker": "T",
+      "Turn": 56,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4530,
+      "Speaker": "T",
+      "Turn": 58,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts students to analyze a peer's explanation and identify the missing justification or 'why'."
+    },
+    {
+      "ID": 4531,
+      "Speaker": "T",
+      "Turn": 59,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher specifies that the previous student's explanation lacked justification, thereby emphasizing the need for reasoning."
+    },
+    {
+      "ID": 4532,
+      "Speaker": "T",
+      "Turn": 59,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher reinforces the importance of explaining the 'why' beyond just stating a correct procedure, pressing for explicit reasoning."
+    },
+    {
+      "ID": 4534,
+      "Speaker": "T",
+      "Turn": 61,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4536,
+      "Speaker": "T",
+      "Turn": 63,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4539,
+      "Speaker": "T",
+      "Turn": 65,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4540,
+      "Speaker": "T",
+      "Turn": 65,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4542,
+      "Speaker": "T",
+      "Turn": 67,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher sets a shared listening goal for the class, orienting them to analyze the next contribution for the presence of reasoning."
+    },
+    {
+      "ID": 4543,
+      "Speaker": "T",
+      "Turn": 67,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher models her own analysis of a student's contribution, explicitly pointing out the missing reasoning ('the why') to the class."
+    },
+    {
+      "ID": 4544,
+      "Speaker": "T",
+      "Turn": 67,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4545,
+      "Speaker": "T",
+      "Turn": 67,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4546,
+      "Speaker": "T",
+      "Turn": 69,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4547,
+      "Speaker": "T",
+      "Turn": 69,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts the class to think about and define the criteria for a high-quality explanation, which requires reasoning about mathematical communication."
+    }
+  ]
+}

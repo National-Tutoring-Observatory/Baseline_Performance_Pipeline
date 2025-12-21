@@ -1,0 +1,122 @@
+{
+  "records": [
+    {
+      "ID": 16330,
+      "Speaker": "T",
+      "Turn": 16330
+    },
+    {
+      "ID": 16331,
+      "Speaker": "T",
+      "Turn": 16331
+    },
+    {
+      "ID": 16332,
+      "Speaker": "T",
+      "Turn": 16332
+    },
+    {
+      "ID": 16333,
+      "Speaker": "T",
+      "Turn": 16333
+    },
+    {
+      "ID": 16334,
+      "Speaker": "T",
+      "Turn": 16334
+    },
+    {
+      "ID": 16335,
+      "Speaker": "T",
+      "Turn": 16335
+    },
+    {
+      "ID": 16336,
+      "Speaker": "T",
+      "Turn": 16336
+    },
+    {
+      "ID": 16337,
+      "Speaker": "T",
+      "Turn": 16337,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks students to supply the precise mathematical term."
+    },
+    {
+      "ID": 16338,
+      "Speaker": "T",
+      "Turn": 16338,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Requests an explanation for why the term has that name."
+    },
+    {
+      "ID": 16340,
+      "Speaker": "T",
+      "Turn": 16340,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Restates a student’s idea (‘it can tell us what the x-intercept is’) in her own words to clarify and highlight it."
+    },
+    {
+      "ID": 16341,
+      "Speaker": "T",
+      "Turn": 16341,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Prompts students to state the defining property of an x-intercept."
+    },
+    {
+      "ID": 16342,
+      "Speaker": "T",
+      "Turn": 16342,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Asks students to reason about what must be true of factors when their product is zero."
+    },
+    {
+      "ID": 16343,
+      "Speaker": "T",
+      "Turn": 16343,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Continues to press students to explain how a product can be zero."
+    },
+    {
+      "ID": 16344,
+      "Speaker": "T",
+      "Turn": 16344
+    },
+    {
+      "ID": 16345,
+      "Speaker": "T",
+      "Turn": 16345
+    },
+    {
+      "ID": 16346,
+      "Speaker": "T",
+      "Turn": 16346,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Asks what value would make the expression zero, prompting students to justify."
+    },
+    {
+      "ID": 16347,
+      "Speaker": "T",
+      "Turn": 16347
+    },
+    {
+      "ID": 16350,
+      "Speaker": "T",
+      "Turn": 16350,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Asks again what would make the expression zero, eliciting students’ reasoning."
+    },
+    {
+      "ID": 16353,
+      "Speaker": "T",
+      "Turn": 16353
+    },
+    {
+      "ID": 16354,
+      "Speaker": "T",
+      "Turn": 16354,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Requests an explanation of the method for finding the midpoint of two numbers."
+    }
+  ]
+}

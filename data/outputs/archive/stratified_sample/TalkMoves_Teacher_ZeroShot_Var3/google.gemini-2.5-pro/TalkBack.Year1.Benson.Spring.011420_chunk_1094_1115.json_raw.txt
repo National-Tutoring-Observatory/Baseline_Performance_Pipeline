@@ -1,0 +1,102 @@
+{
+  "records": [
+    {
+      "ID": 1094,
+      "Turn": 34,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1095,
+      "Turn": 34,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1096,
+      "Turn": 34,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1097,
+      "Turn": 34,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1099,
+      "Turn": 36,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1100,
+      "Turn": 36,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to specify the meaning of the numerical answer, pushing for a more complete mathematical contribution."
+    },
+    {
+      "ID": 1102,
+      "Turn": 38,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher explicitly asks the student to provide a more precise description than 'The larger ball of string'."
+    },
+    {
+      "ID": 1105,
+      "Turn": 41,
+      "Speaker": "T",
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats a student's prior contribution ('the ball of string') to bring it back into the conversation for further clarification."
+    },
+    {
+      "ID": 1107,
+      "Turn": 43,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1109,
+      "Turn": 45,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to provide the specific unit of measure, which is a key component of an accurate mathematical answer."
+    },
+    {
+      "ID": 1110,
+      "Turn": 45,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher rephrases the previous question to press the student for the unit of measure, an element of mathematical accuracy."
+    },
+    {
+      "ID": 1112,
+      "Turn": 47,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's word 'Feet' and adds 'in the' to scaffold the student toward a more complete and accurate phrase."
+    },
+    {
+      "ID": 1114,
+      "Turn": 49,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher synthesizes multiple student contributions ('600', 'feet', 'large ball') into a single, complete, and mathematically precise sentence."
+    },
+    {
+      "ID": 1115,
+      "Turn": 49,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

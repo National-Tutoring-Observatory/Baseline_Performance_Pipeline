@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 17380,
+      "Speaker": "T",
+      "Turn": 17380,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17382,
+      "Speaker": "T",
+      "Turn": 17382,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17383,
+      "Speaker": "T",
+      "Turn": 17383,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases a student's process, confirming how they arrived at their answer."
+    },
+    {
+      "ID": 17385,
+      "Speaker": "T",
+      "Turn": 17385,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17386,
+      "Speaker": "T",
+      "Turn": 17386,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17389,
+      "Speaker": "T",
+      "Turn": 17389,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17390,
+      "Speaker": "T",
+      "Turn": 17390,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17392,
+      "Speaker": "T",
+      "Turn": 17392,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17393,
+      "Speaker": "T",
+      "Turn": 17393,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17394,
+      "Speaker": "T",
+      "Turn": 17394,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17401,
+      "Speaker": "T",
+      "Turn": 17401,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17402,
+      "Speaker": "T",
+      "Turn": 17402,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17403,
+      "Speaker": "T",
+      "Turn": 17403,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher checks to ensure all students are looking at the same part of the page, orienting the class to the task."
+    },
+    {
+      "ID": 17404,
+      "Speaker": "T",
+      "Turn": 17404,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17405,
+      "Speaker": "T",
+      "Turn": 17405,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17406,
+      "Speaker": "T",
+      "Turn": 17406,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to provide a specific mathematical term."
+    },
+    {
+      "ID": 17407,
+      "Speaker": "T",
+      "Turn": 17407,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher rephrases a question to prompt students for a specific mathematical term used in class."
+    },
+    {
+      "ID": 17409,
+      "Speaker": "T",
+      "Turn": 17409,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts a student to explain why their answer ('intercept') is correct by asking for a more specific connection."
+    },
+    {
+      "ID": 17411,
+      "Speaker": "T",
+      "Turn": 17411,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's answer ('X-intercepts') verbatim to affirm and emphasize it."
+    },
+    {
+      "ID": 17412,
+      "Speaker": "T",
+      "Turn": 17412,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to provide another specific mathematical term for the same concept."
+    }
+  ]
+}

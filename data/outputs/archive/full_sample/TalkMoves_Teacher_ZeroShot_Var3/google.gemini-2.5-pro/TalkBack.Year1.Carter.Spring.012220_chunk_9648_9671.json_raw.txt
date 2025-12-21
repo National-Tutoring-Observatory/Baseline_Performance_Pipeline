@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 9648,
+      "Speaker": "T",
+      "Turn": 9648,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 9649,
+      "Speaker": "T",
+      "Turn": 9649,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 9650,
+      "Speaker": "T",
+      "Turn": 9650,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 9651,
+      "Speaker": "T",
+      "Turn": 9651,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to explain the process they used to arrive at their answer."
+    },
+    {
+      "ID": 9652,
+      "Speaker": "T",
+      "Turn": 9652,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 9654,
+      "Speaker": "T",
+      "Turn": 9654,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to justify their choice of a specific mathematical tool."
+    },
+    {
+      "ID": 9655,
+      "Speaker": "T",
+      "Turn": 9655,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher presses for justification by connecting the student's choice of tool to the specific numbers in the problem."
+    },
+    {
+      "ID": 9656,
+      "Speaker": "T",
+      "Turn": 9656,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher acknowledges a student's contribution but persists in asking for the justification behind their choice of representation."
+    },
+    {
+      "ID": 9657,
+      "Speaker": "T",
+      "Turn": 9657,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher models confusion to prompt the student to provide a clearer explanation of their thinking."
+    },
+    {
+      "ID": 9659,
+      "Speaker": "T",
+      "Turn": 9659,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 9660,
+      "Speaker": "T",
+      "Turn": 9660,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts the student to evaluate the necessity and appropriateness of their chosen strategy."
+    },
+    {
+      "ID": 9661,
+      "Speaker": "T",
+      "Turn": 9661,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 9662,
+      "Speaker": "T",
+      "Turn": 9662,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to describe a general method for solving the problem."
+    },
+    {
+      "ID": 9663,
+      "Speaker": "T",
+      "Turn": 9663,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher directs all students to engage in a partner discussion, ensuring everyone is participating in the same activity."
+    },
+    {
+      "ID": 9664,
+      "Speaker": "T",
+      "Turn": 9664,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks a student to articulate the mathematical rule they have been discussing."
+    },
+    {
+      "ID": 9665,
+      "Speaker": "T",
+      "Turn": 9665,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher explicitly asks the student to explain the process or mechanism behind the mathematical rule."
+    },
+    {
+      "ID": 9667,
+      "Speaker": "T",
+      "Turn": 9667,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to be more specific and precise in their mathematical explanation."
+    },
+    {
+      "ID": 9669,
+      "Speaker": "T",
+      "Turn": 9669,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 9670,
+      "Speaker": "T",
+      "Turn": 9670,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts the student to move from a specific case to a general principle, which requires explaining the underlying mathematical structure."
+    },
+    {
+      "ID": 9671,
+      "Speaker": "T",
+      "Turn": 9671,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher takes the student's logic for a specific case and reformulates it by applying it to a new example, thereby modeling how to generalize the rule."
+    }
+  ]
+}

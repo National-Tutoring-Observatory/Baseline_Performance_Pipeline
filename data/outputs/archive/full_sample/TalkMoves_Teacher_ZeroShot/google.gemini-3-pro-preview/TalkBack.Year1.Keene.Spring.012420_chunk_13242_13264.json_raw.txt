@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 13242,
+      "Speaker": "T",
+      "Turn": 13242,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 13243,
+      "Speaker": "T",
+      "Turn": 13243,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 13244,
+      "Speaker": "T",
+      "Turn": 13244,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher is prompting the student to identify the nature of the number '.25', leading towards correct mathematical terminology."
+    },
+    {
+      "ID": 13245,
+      "Speaker": "T",
+      "Turn": 13245,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher explicitly points out that saying 'point two five' is not using accurate math vocabulary and prompts for the correct way to say decimals."
+    },
+    {
+      "ID": 13246,
+      "Speaker": "T",
+      "Turn": 13246,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks specifically for the correct mathematical pronunciation of the decimal."
+    },
+    {
+      "ID": 13247,
+      "Speaker": "T",
+      "Turn": 13247,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher continues to prompt for the correct way to say '.25' using mathematical language."
+    },
+    {
+      "ID": 13248,
+      "Speaker": "T",
+      "Turn": 13248,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 13249,
+      "Speaker": "T",
+      "Turn": 13249,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher is organizing the class to respond in unison, ensuring everyone is participating."
+    },
+    {
+      "ID": 13251,
+      "Speaker": "T",
+      "Turn": 13251,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher is addressing students' attention and focus on the speaker/teacher to ensure they are following the lesson flow."
+    },
+    {
+      "ID": 13252,
+      "Speaker": "T",
+      "Turn": 13252,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher explains why students missed the cue, reinforcing the need to pay attention to keep the group together."
+    },
+    {
+      "ID": 13253,
+      "Speaker": "T",
+      "Turn": 13253,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 13254,
+      "Speaker": "T",
+      "Turn": 13254,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to compare values and determine which is closer, prompting them to justify a mathematical relationship."
+    },
+    {
+      "ID": 13255,
+      "Speaker": "T",
+      "Turn": 13255,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks 'What do you think', inviting students to share their thinking regarding the comparison."
+    },
+    {
+      "ID": 13257,
+      "Speaker": "T",
+      "Turn": 13257,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's answer ('2 5/10') and adds on the interpretation that it means it is closer to a half."
+    },
+    {
+      "ID": 13258,
+      "Speaker": "T",
+      "Turn": 13258,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 13259,
+      "Speaker": "T",
+      "Turn": 13259,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts students to think about a new value (1/4) in the context of the estimation task."
+    },
+    {
+      "ID": 13260,
+      "Speaker": "T",
+      "Turn": 13260,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to determine the proximity of 1/4 to benchmark numbers, requiring mathematical judgment."
+    },
+    {
+      "ID": 13261,
+      "Speaker": "T",
+      "Turn": 13261,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Continues the previous question, offering 'Half' as an option for evaluation."
+    },
+    {
+      "ID": 13262,
+      "Speaker": "T",
+      "Turn": 13262,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Continues the previous question, offering 'one' as an option for evaluation."
+    },
+    {
+      "ID": 13264,
+      "Speaker": "T",
+      "Turn": 13264,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+[
+  {
+    "ID": 3211,
+    "Turn": 14,
+    "Speaker": "T",
+    "Sentence": "No",
+    "TalkMove": "None",
+    "Reasoning": null
+  },
+  {
+    "ID": 3212,
+    "Turn": 14,
+    "Speaker": "T",
+    "Sentence": "We already did that",
+    "TalkMove": "None",
+    "Reasoning": null
+  },
+  {
+    "ID": 3215,
+    "Turn": 17,
+    "Speaker": "T",
+    "Sentence": "10 times as much as it would be",
+    "TalkMove": "Revoicing",
+    "Reasoning": "The teacher repeats the student's contribution ('10 times') and adds to it to form a more complete mathematical phrase."
+  },
+  {
+    "ID": 3217,
+    "Turn": 19,
+    "Speaker": "T",
+    "Sentence": "Worth in the place to its right",
+    "TalkMove": "None",
+    "Reasoning": null
+  },
+  {
+    "ID": 3220,
+    "Turn": 21,
+    "Speaker": "T",
+    "Sentence": "Not about",
+    "TalkMove": "Pressing for Accuracy",
+    "Reasoning": "The teacher corrects the student's use of the word 'about,' prompting for more precise mathematical language."
+  },
+  {
+    "ID": 3222,
+    "Turn": 23,
+    "Speaker": "T",
+    "Sentence": "Worth is not It isnt as is",
+    "TalkMove": "None",
+    "Reasoning": null
+  },
+  {
+    "ID": 3223,
+    "Turn": 23,
+    "Speaker": "T",
+    "Sentence": "Is worth onetenth times as much as it would be worth in the",
+    "TalkMove": "None",
+    "Reasoning": null
+  },
+  {
+    "ID": 3225,
+    "Turn": 25,
+    "Speaker": "T",
+    "Sentence": "place to its",
+    "TalkMove": "Revoicing",
+    "Reasoning": "The teacher repeats the student's word ('place') and adds on to it to scaffold the completion of the phrase."
+  },
+  {
+    "ID": 3227,
+    "Turn": 27,
+    "Speaker": "T",
+    "Sentence": "left",
+    "TalkMove": "Restating",
+    "Reasoning": "The teacher repeats the student's correct answer ('left') word for word."
+  },
+  {
+    "ID": 3228,
+    "Turn": 27,
+    "Speaker": "T",
+    "Sentence": "For your notes here is a place value chart with adjustments",
+    "TalkMove": "None",
+    "Reasoning": null
+  },
+  {
+    "ID": 3229,
+    "Turn": 27,
+    "Speaker": "T",
+    "Sentence": "If we think of a regular place chart when we go this way it gets bigger",
+    "TalkMove": "None",
+    "Reasoning": null
+  },
+  {
+    "ID": 3230,
+    "Turn": 27,
+    "Speaker": "T",
+    "Sentence": "Here we have our decimal point",
+    "TalkMove": "None",
+    "Reasoning": null
+  },
+  {
+    "ID": 3231,
+    "Turn": 27,
+    "Speaker": "T",
+    "Sentence": "When it goes this way it gets smaller",
+    "TalkMove": "None",
+    "Reasoning": null
+  },
+  {
+    "ID": 3232,
+    "Turn": 27,
+    "Speaker": "T",
+    "Sentence": "If you have 110 of the piece which is the first one its a bigger piece than 1100",
+    "TalkMove": "None",
+    "Reasoning": null
+  }
+]

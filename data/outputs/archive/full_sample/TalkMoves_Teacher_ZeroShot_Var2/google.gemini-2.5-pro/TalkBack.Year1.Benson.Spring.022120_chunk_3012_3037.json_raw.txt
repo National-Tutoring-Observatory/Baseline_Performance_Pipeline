@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 3012,
+      "Speaker": "T",
+      "Turn": 3012,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3013,
+      "Speaker": "T",
+      "Turn": 3013,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3014,
+      "Speaker": "T",
+      "Turn": 3014,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3015,
+      "Speaker": "T",
+      "Turn": 3015,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts a student to provide a specific mathematical definition."
+    },
+    {
+      "ID": 3017,
+      "Speaker": "T",
+      "Turn": 3017,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's idea about what area is, adding more precise mathematical language like 'surface area' and 'all this space in here'."
+    },
+    {
+      "ID": 3018,
+      "Speaker": "T",
+      "Turn": 3018,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3019,
+      "Speaker": "T",
+      "Turn": 3019,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3020,
+      "Speaker": "T",
+      "Turn": 3020,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3021,
+      "Speaker": "T",
+      "Turn": 3021,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3022,
+      "Speaker": "T",
+      "Turn": 3022,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to explain the thinking or rule that allows them to determine a side length."
+    },
+    {
+      "ID": 3023,
+      "Speaker": "T",
+      "Turn": 3023,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher provides a specific example to prompt students to explain the reasoning or property of rectangles they are using."
+    },
+    {
+      "ID": 3024,
+      "Speaker": "T",
+      "Turn": 3024,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3026,
+      "Speaker": "T",
+      "Turn": 3026,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher takes a student's idea and rephrases it as a formal mathematical rule for the class to consider."
+    },
+    {
+      "ID": 3028,
+      "Speaker": "T",
+      "Turn": 3028,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3029,
+      "Speaker": "T",
+      "Turn": 3029,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3030,
+      "Speaker": "T",
+      "Turn": 3030,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to provide a specific mathematical contribution in the form of an equation."
+    },
+    {
+      "ID": 3031,
+      "Speaker": "T",
+      "Turn": 3031,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher directs the prompt for an equation to a specific student."
+    },
+    {
+      "ID": 3033,
+      "Speaker": "T",
+      "Turn": 3033,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3035,
+      "Speaker": "T",
+      "Turn": 3035,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher points out an incomplete student contribution and prompts the student to provide the missing, correct part."
+    },
+    {
+      "ID": 3037,
+      "Speaker": "T",
+      "Turn": 3037,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

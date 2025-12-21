@@ -1,0 +1,473 @@
+{
+  "records": [
+    {
+      "ID": 15524,
+      "Speaker": "T",
+      "Turn": 199,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Asks the student to explain how the answer was obtained, eliciting the method."
+    },
+    {
+      "ID": 15526,
+      "Speaker": "T",
+      "Turn": 201,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Requests precision about what quantity was divided by three."
+    },
+    {
+      "ID": 15528,
+      "Speaker": "T",
+      "Turn": 203,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 15529,
+      "Speaker": "T",
+      "Turn": 203,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Prompts students to be active listeners to classmates."
+    },
+    {
+      "ID": 15530,
+      "Speaker": "T",
+      "Turn": 203,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Directs students to keep their attention on the speaker."
+    },
+    {
+      "ID": 15531,
+      "Speaker": "T",
+      "Turn": 203,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Reinforces how to attend to peers to maintain whole-class focus."
+    },
+    {
+      "ID": 15532,
+      "Speaker": "T",
+      "Turn": 203,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Invites the student to explain her thinking about the number six."
+    },
+    {
+      "ID": 15533,
+      "Speaker": "T",
+      "Turn": 203,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Asks what to write and why, prompting justification."
+    },
+    {
+      "ID": 15536,
+      "Speaker": "T",
+      "Turn": 206,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 15537,
+      "Speaker": "T",
+      "Turn": 206,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 15540,
+      "Speaker": "T",
+      "Turn": 208,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 15541,
+      "Speaker": "T",
+      "Turn": 208,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 15542,
+      "Speaker": "T",
+      "Turn": 208,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Summarizes Melanie’s method and frames it as the first step, adding to the student’s idea."
+    },
+    {
+      "ID": 15543,
+      "Speaker": "T",
+      "Turn": 208,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks for the specific value of one-third of six."
+    },
+    {
+      "ID": 15544,
+      "Speaker": "T",
+      "Turn": 208,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Prompts students to state what to do with the numerator."
+    },
+    {
+      "ID": 15545,
+      "Speaker": "T",
+      "Turn": 208,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks the student to state what the numerator indicates, using mathematical language."
+    },
+    {
+      "ID": 15546,
+      "Speaker": "T",
+      "Turn": 208,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Directs attention to a shared visual to keep the class oriented together."
+    },
+    {
+      "ID": 15547,
+      "Speaker": "T",
+      "Turn": 208,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks the student to read the relevant statement, eliciting precise wording."
+    },
+    {
+      "ID": 15549,
+      "Speaker": "T",
+      "Turn": 210,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 15550,
+      "Speaker": "T",
+      "Turn": 210,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 15551,
+      "Speaker": "T",
+      "Turn": 210,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Requests a specific count for two groups."
+    },
+    {
+      "ID": 15553,
+      "Speaker": "T",
+      "Turn": 212,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks for the number in two groups, seeking a precise answer."
+    },
+    {
+      "ID": 15555,
+      "Speaker": "T",
+      "Turn": 214,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Repeats the student’s answer and adds an explanation connecting to the numerator."
+    },
+    {
+      "ID": 15556,
+      "Speaker": "T",
+      "Turn": 214,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 15557,
+      "Speaker": "T",
+      "Turn": 214,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 15558,
+      "Speaker": "T",
+      "Turn": 214,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 15559,
+      "Speaker": "T",
+      "Turn": 214,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 15560,
+      "Speaker": "T",
+      "Turn": 215,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 15561,
+      "Speaker": "T",
+      "Turn": 216,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 15562,
+      "Speaker": "T",
+      "Turn": 217,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 15563,
+      "Speaker": "T",
+      "Turn": 217,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 15564,
+      "Speaker": "T",
+      "Turn": 217,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "Encourages students to compare solutions with a neighbor and see if they agree."
+    },
+    {
+      "ID": 15565,
+      "Speaker": "T",
+      "Turn": 218,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 15566,
+      "Speaker": "T",
+      "Turn": 219,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 15568,
+      "Speaker": "T",
+      "Turn": 221,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 15570,
+      "Speaker": "T",
+      "Turn": 223,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Requests eyes on the speaker to maintain whole-class attention."
+    },
+    {
+      "ID": 15571,
+      "Speaker": "T",
+      "Turn": 223,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Prompts a specific student to attend to the speaker."
+    },
+    {
+      "ID": 15572,
+      "Speaker": "T",
+      "Turn": 223,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 15573,
+      "Speaker": "T",
+      "Turn": 223,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 15574,
+      "Speaker": "T",
+      "Turn": 223,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 15575,
+      "Speaker": "T",
+      "Turn": 223,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 15576,
+      "Speaker": "T",
+      "Turn": 223,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 15577,
+      "Speaker": "T",
+      "Turn": 223,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 15578,
+      "Speaker": "T",
+      "Turn": 223,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 15579,
+      "Speaker": "T",
+      "Turn": 223,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Prepares to elicit the specific number of equal groups."
+    },
+    {
+      "ID": 15580,
+      "Speaker": "T",
+      "Turn": 223,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 15582,
+      "Speaker": "T",
+      "Turn": 225,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks for the number in one group, requiring a specific computation."
+    },
+    {
+      "ID": 15583,
+      "Speaker": "T",
+      "Turn": 225,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Asks the student to explain how she obtained the answer two."
+    },
+    {
+      "ID": 15584,
+      "Speaker": "T",
+      "Turn": 225,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 15585,
+      "Speaker": "T",
+      "Turn": 225,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Directs class attention back to the discussion."
+    },
+    {
+      "ID": 15586,
+      "Speaker": "T",
+      "Turn": 225,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Emphasizes whole-class engagement in answering."
+    },
+    {
+      "ID": 15587,
+      "Speaker": "T",
+      "Turn": 225,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Again prompts for an explanation of how the answer was found."
+    },
+    {
+      "ID": 15589,
+      "Speaker": "T",
+      "Turn": 227,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 15590,
+      "Speaker": "T",
+      "Turn": 227,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Offers an equivalent division strategy to restate the student’s multiplication reasoning."
+    },
+    {
+      "ID": 15591,
+      "Speaker": "T",
+      "Turn": 227,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "Prompts students to discuss Bree’s method with a partner."
+    },
+    {
+      "ID": 15592,
+      "Speaker": "T",
+      "Turn": 227,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks for the specific number in one group."
+    },
+    {
+      "ID": 15593,
+      "Speaker": "T",
+      "Turn": 227,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 15594,
+      "Speaker": "T",
+      "Turn": 228,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 15595,
+      "Speaker": "T",
+      "Turn": 228,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Prompts students to provide the numerator, using correct terminology."
+    },
+    {
+      "ID": 15596,
+      "Speaker": "T",
+      "Turn": 228,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 15598,
+      "Speaker": "T",
+      "Turn": 230,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Reminds students to keep eyes on the speaker to stay engaged."
+    },
+    {
+      "ID": 15599,
+      "Speaker": "T",
+      "Turn": 230,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Clarifies that the required response is the numerator, using precise math language."
+    },
+    {
+      "ID": 15600,
+      "Speaker": "T",
+      "Turn": 230,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Checks that the student can state the expected term ('numerator')."
+    },
+    {
+      "ID": 15602,
+      "Speaker": "T",
+      "Turn": 232,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks for the numerator when prompted, seeking a specific value."
+    },
+    {
+      "ID": 15604,
+      "Speaker": "T",
+      "Turn": 234,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Prompts the computation two times three."
+    },
+    {
+      "ID": 15606,
+      "Speaker": "T",
+      "Turn": 236,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 15607,
+      "Speaker": "T",
+      "Turn": 236,
+      "TalkMove": "None",
+      "Reasoning": null
+    }
+  ]
+}

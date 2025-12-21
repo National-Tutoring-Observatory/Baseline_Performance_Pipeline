@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 21678,
+      "Speaker": "T",
+      "Turn": 21678,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21679,
+      "Speaker": "T",
+      "Turn": 21679,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks student to state the first procedural step, requesting a specific mathematical action."
+    },
+    {
+      "ID": 21681,
+      "Speaker": "T",
+      "Turn": 21681,
+      "TalkMove": "Restating",
+      "Reasoning": "Teacher repeats the (presumed) student-provided step verbatim: “Isolate the radical on one side of the equation.”"
+    },
+    {
+      "ID": 21682,
+      "Speaker": "T",
+      "Turn": 21682,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Requests a precise mathematical step for the given example."
+    },
+    {
+      "ID": 21684,
+      "Speaker": "T",
+      "Turn": 21684,
+      "TalkMove": "Restating",
+      "Reasoning": "Echoes the student’s response: “Isolate the radical.”"
+    },
+    {
+      "ID": 21685,
+      "Speaker": "T",
+      "Turn": 21685,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Prompts students to specify the operation needed to isolate the radical (i.e., what to divide by)."
+    },
+    {
+      "ID": 21687,
+      "Speaker": "T",
+      "Turn": 21687,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21688,
+      "Speaker": "T",
+      "Turn": 21688,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21689,
+      "Speaker": "T",
+      "Turn": 21689,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks the student to state the second step, seeking a specific mathematical action."
+    },
+    {
+      "ID": 21691,
+      "Speaker": "T",
+      "Turn": 21691,
+      "TalkMove": "Restating",
+      "Reasoning": "Repeats the student’s answer, “Get rid of the plus one,” essentially verbatim."
+    },
+    {
+      "ID": 21692,
+      "Speaker": "T",
+      "Turn": 21692,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21694,
+      "Speaker": "T",
+      "Turn": 21694,
+      "TalkMove": "Restating",
+      "Reasoning": "Echoes the student’s contribution: “Get rid of the radical.”"
+    },
+    {
+      "ID": 21695,
+      "Speaker": "T",
+      "Turn": 21695,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Asks student to justify the condition under which the radical can be removed."
+    },
+    {
+      "ID": 21697,
+      "Speaker": "T",
+      "Turn": 21697,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher paraphrases the student’s reasoning, adding clarification about ‘nothing outside of the radical,’ to confirm understanding."
+    },
+    {
+      "ID": 21698,
+      "Speaker": "T",
+      "Turn": 21698,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Prompts students to explain the procedure for eliminating the radical."
+    },
+    {
+      "ID": 21699,
+      "Speaker": "T",
+      "Turn": 21699,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21702,
+      "Speaker": "T",
+      "Turn": 21702,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher restates/paraphrases the student’s suggestion about multiplying by itself, using first-person phrasing."
+    },
+    {
+      "ID": 21703,
+      "Speaker": "T",
+      "Turn": 21703,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Builds on/clarifies the student’s idea by elaborating the mathematical expression that would result."
+    },
+    {
+      "ID": 21704,
+      "Speaker": "T",
+      "Turn": 21704,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21706,
+      "Speaker": "T",
+      "Turn": 21706,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Asks students to evaluate whether the expression is fully simplified, prompting justification."
+    }
+  ]
+}

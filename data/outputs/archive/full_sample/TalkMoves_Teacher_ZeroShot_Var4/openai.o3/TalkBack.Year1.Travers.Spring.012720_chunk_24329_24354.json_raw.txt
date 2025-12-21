@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 24329,
+      "Speaker": "T",
+      "Turn": 24329,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24330,
+      "Speaker": "T",
+      "Turn": 24330,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24331,
+      "Speaker": "T",
+      "Turn": 24331,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher asks students to propose a way to change 6/12, prompting them to share a strategy."
+    },
+    {
+      "ID": 24332,
+      "Speaker": "T",
+      "Turn": 24332,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Again invites students to explain a method for rewriting 6/12."
+    },
+    {
+      "ID": 24333,
+      "Speaker": "T",
+      "Turn": 24333,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24334,
+      "Speaker": "T",
+      "Turn": 24334,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Asks the student to explain how they obtained 73/12, requesting justification."
+    },
+    {
+      "ID": 24336,
+      "Speaker": "T",
+      "Turn": 24336,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Prompts the student to describe the next step in their procedure."
+    },
+    {
+      "ID": 24338,
+      "Speaker": "T",
+      "Turn": 24338,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student’s numerical answer word-for-word."
+    },
+    {
+      "ID": 24339,
+      "Speaker": "T",
+      "Turn": 24339,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24340,
+      "Speaker": "T",
+      "Turn": 24340,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24341,
+      "Speaker": "T",
+      "Turn": 24341,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher paraphrases the student’s strategy, adding explanatory language for the class."
+    },
+    {
+      "ID": 24342,
+      "Speaker": "T",
+      "Turn": 24342,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Invites students to suggest an alternative method, seeking additional reasoning."
+    },
+    {
+      "ID": 24343,
+      "Speaker": "T",
+      "Turn": 24343,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24345,
+      "Speaker": "T",
+      "Turn": 24345,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Summarizes Alyssa’s idea by explaining her approach to the class."
+    },
+    {
+      "ID": 24348,
+      "Speaker": "T",
+      "Turn": 24348,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24349,
+      "Speaker": "T",
+      "Turn": 24349,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Poses a hypothetical adjustment and invites students to consider its effect, prompting explanation."
+    },
+    {
+      "ID": 24351,
+      "Speaker": "T",
+      "Turn": 24351,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24352,
+      "Speaker": "T",
+      "Turn": 24352,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks for confirmation of a specific numeric equivalence (5 + 12/12 = 6)."
+    },
+    {
+      "ID": 24353,
+      "Speaker": "T",
+      "Turn": 24353,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Directs Lindon to focus attention on the lesson, ensuring collective engagement."
+    },
+    {
+      "ID": 24354,
+      "Speaker": "T",
+      "Turn": 24354,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Requests the exact number of twelfths, prompting a specific mathematical calculation."
+    }
+  ]
+}

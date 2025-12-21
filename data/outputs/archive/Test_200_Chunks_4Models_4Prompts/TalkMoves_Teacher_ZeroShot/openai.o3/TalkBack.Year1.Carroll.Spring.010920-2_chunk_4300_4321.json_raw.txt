@@ -1,0 +1,81 @@
+{
+  "records": [
+    {
+      "ID": 4300,
+      "Speaker": "T",
+      "Turn": 46
+    },
+    {
+      "ID": 4309,
+      "Speaker": "T",
+      "Turn": 55
+    },
+    {
+      "ID": 4310,
+      "Speaker": "T",
+      "Turn": 55,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Teacher directs collective attention to the material by saying 'Let's look at this.'"
+    },
+    {
+      "ID": 4311,
+      "Speaker": "T",
+      "Turn": 55
+    },
+    {
+      "ID": 4312,
+      "Speaker": "T",
+      "Turn": 55
+    },
+    {
+      "ID": 4313,
+      "Speaker": "T",
+      "Turn": 55,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks students to determine which representation has more, prompting a precise mathematical comparison."
+    },
+    {
+      "ID": 4314,
+      "Speaker": "T",
+      "Turn": 55,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher paraphrases and elaborates on the student-identified representation by specifying it has 'three full rows.'"
+    },
+    {
+      "ID": 4315,
+      "Speaker": "T",
+      "Turn": 55,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Teacher checks whether students are following the visual explanation with 'Do you see it?'"
+    },
+    {
+      "ID": 4316,
+      "Speaker": "T",
+      "Turn": 55
+    },
+    {
+      "ID": 4317,
+      "Speaker": "T",
+      "Turn": 55
+    },
+    {
+      "ID": 4318,
+      "Speaker": "T",
+      "Turn": 55
+    },
+    {
+      "ID": 4319,
+      "Speaker": "T",
+      "Turn": 55,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher explicitly asks, 'Which one’s bigger?' requiring students to name the larger quantity."
+    },
+    {
+      "ID": 4320,
+      "Speaker": "T",
+      "Turn": 55,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Follow-up question narrows the comparison to 'the three or the two,' pushing students for a precise answer."
+    }
+  ]
+}

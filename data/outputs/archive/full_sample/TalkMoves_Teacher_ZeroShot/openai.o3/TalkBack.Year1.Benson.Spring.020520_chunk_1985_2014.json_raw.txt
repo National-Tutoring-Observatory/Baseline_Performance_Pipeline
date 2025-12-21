@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 1985,
+      "Speaker": "T",
+      "Turn": 1985,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher checks whether the student arrived at the correct numerical answer (180)."
+    },
+    {
+      "ID": 1987,
+      "Speaker": "T",
+      "Turn": 1987,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher asks if the order of multiplication matters, prompting students to explain the underlying concept."
+    },
+    {
+      "ID": 1989,
+      "Speaker": "T",
+      "Turn": 1989,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1990,
+      "Speaker": "T",
+      "Turn": 1990,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher verifies the correct factors being multiplied (three performers times two hours)."
+    },
+    {
+      "ID": 1992,
+      "Speaker": "T",
+      "Turn": 1992,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher asks whether the alternative expression would work, inviting justification."
+    },
+    {
+      "ID": 1993,
+      "Speaker": "T",
+      "Turn": 1993,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher requests the exact product of 3 × 2."
+    },
+    {
+      "ID": 1995,
+      "Speaker": "T",
+      "Turn": 1995,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks for the correct value of 6 × 30."
+    },
+    {
+      "ID": 1997,
+      "Speaker": "T",
+      "Turn": 1997,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1998,
+      "Speaker": "T",
+      "Turn": 1998,
+      "TalkMove": "Restating",
+      "Reasoning": "Teacher repeats the numerical expression exactly as it was stated (\"6 × 30\")."
+    },
+    {
+      "ID": 1999,
+      "Speaker": "T",
+      "Turn": 1999,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher requests the precise product of 6 × 3."
+    },
+    {
+      "ID": 2001,
+      "Speaker": "T",
+      "Turn": 2001,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2002,
+      "Speaker": "T",
+      "Turn": 2002,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2003,
+      "Speaker": "T",
+      "Turn": 2003,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2004,
+      "Speaker": "T",
+      "Turn": 2004,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher requests a specific 'number model' for tap dancers, prompting a precise mathematical representation."
+    },
+    {
+      "ID": 2006,
+      "Speaker": "T",
+      "Turn": 2006,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher asks the student to explain why they chose 33 × 2, eliciting their reasoning."
+    },
+    {
+      "ID": 2008,
+      "Speaker": "T",
+      "Turn": 2008,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2009,
+      "Speaker": "T",
+      "Turn": 2009,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2010,
+      "Speaker": "T",
+      "Turn": 2010,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks for the computed result of 33 × 2."
+    },
+    {
+      "ID": 2012,
+      "Speaker": "T",
+      "Turn": 2012,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2014,
+      "Speaker": "T",
+      "Turn": 2014,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

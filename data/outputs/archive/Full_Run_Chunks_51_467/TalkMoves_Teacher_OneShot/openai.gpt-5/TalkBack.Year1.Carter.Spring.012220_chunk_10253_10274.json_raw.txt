@@ -1,0 +1,123 @@
+{
+  "records": [
+    {
+      "ID": 10253,
+      "Speaker": "T",
+      "Turn": 249,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10255,
+      "Speaker": "T",
+      "Turn": 251,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10257,
+      "Speaker": "T",
+      "Turn": 253,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10258,
+      "Speaker": "T",
+      "Turn": 253,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to see/explain why the result is six, prompting justification."
+    },
+    {
+      "ID": 10259,
+      "Speaker": "T",
+      "Turn": 253,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher reframes the student’s idea using fraction language (1/4 is two; you have 3/4)."
+    },
+    {
+      "ID": 10261,
+      "Speaker": "T",
+      "Turn": 255,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10262,
+      "Speaker": "T",
+      "Turn": 255,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10263,
+      "Speaker": "T",
+      "Turn": 255,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10264,
+      "Speaker": "T",
+      "Turn": 255,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for a specific computation (“What’s 1/4 of eight?”)."
+    },
+    {
+      "ID": 10265,
+      "Speaker": "T",
+      "Turn": 256,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts the student to infer the result from having three of the same fraction."
+    },
+    {
+      "ID": 10267,
+      "Speaker": "T",
+      "Turn": 258,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher requests a specific value (“What’s 1/4 of 10?”)."
+    },
+    {
+      "ID": 10268,
+      "Speaker": "T",
+      "Turn": 258,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts a precise calculation (“Twenty divided by four is…”)."
+    },
+    {
+      "ID": 10270,
+      "Speaker": "T",
+      "Turn": 260,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student’s answer verbatim (“Five”)."
+    },
+    {
+      "ID": 10271,
+      "Speaker": "T",
+      "Turn": 260,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10272,
+      "Speaker": "T",
+      "Turn": 260,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10273,
+      "Speaker": "T",
+      "Turn": 260,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10274,
+      "Speaker": "T",
+      "Turn": 260,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for a specific computation (“What’s 1/4 of 16?”)."
+    }
+  ]
+}

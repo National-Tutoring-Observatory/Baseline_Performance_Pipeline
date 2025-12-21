@@ -1,0 +1,88 @@
+{
+  "records": [
+    {
+      "ID": 5837,
+      "Turn": 159,
+      "Speaker": "T",
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 5838,
+      "Turn": 159,
+      "Speaker": "T",
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 5841,
+      "Turn": 161,
+      "Speaker": "T",
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 5847,
+      "Turn": 166,
+      "Speaker": "T",
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 5849,
+      "Turn": 168,
+      "Speaker": "T",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher asks who the leader is to orient the class to a specific student and organize participation."
+    },
+    {
+      "ID": 5851,
+      "Turn": 170,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher requests a specific number from the leader, prompting a precise mathematical contribution."
+    },
+    {
+      "ID": 5853,
+      "Turn": 172,
+      "Speaker": "T",
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 5857,
+      "Turn": 174,
+      "Speaker": "T",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Again asks who the leader is to orient and organize the group's interaction."
+    },
+    {
+      "ID": 5858,
+      "Turn": 174,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Prompts the leader to state their number, eliciting a precise mathematical response."
+    },
+    {
+      "ID": 5861,
+      "Turn": 177,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher restates the rule ('buzz'), echoing and clarifying the student's idea in the teacher’s wording."
+    },
+    {
+      "ID": 5862,
+      "Turn": 178,
+      "Speaker": "T",
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 5863,
+      "Turn": 178,
+      "Speaker": "T",
+      "TalkMove": "None",
+      "Reasoning": null
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 29960,
+      "Speaker": "T",
+      "Turn": 29960,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 29962,
+      "Speaker": "T",
+      "Turn": 29962,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to evaluate whether the explanation makes sense, prompting justification."
+    },
+    {
+      "ID": 29964,
+      "Speaker": "T",
+      "Turn": 29964,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts students to connect the drawing to the algorithm/problem and justify its correctness."
+    },
+    {
+      "ID": 29966,
+      "Speaker": "T",
+      "Turn": 29966,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 29967,
+      "Speaker": "T",
+      "Turn": 29967,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to assess whether the solution is correct, inviting explanation."
+    },
+    {
+      "ID": 29968,
+      "Speaker": "T",
+      "Turn": 29968,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks what to do with the leftover, prompting students to propose and justify a strategy."
+    },
+    {
+      "ID": 29971,
+      "Speaker": "T",
+      "Turn": 29971,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher invites students to decide on a next step and explain their thinking."
+    },
+    {
+      "ID": 29972,
+      "Speaker": "T",
+      "Turn": 29972,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 29973,
+      "Speaker": "T",
+      "Turn": 29973,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher orients the class to Logan’s idea, prompting attention to a peer’s contribution."
+    },
+    {
+      "ID": 29974,
+      "Speaker": "T",
+      "Turn": 29974,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats Logan’s idea in her own words, slightly rephrasing it for the class."
+    },
+    {
+      "ID": 29976,
+      "Speaker": "T",
+      "Turn": 29976,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to propose a course of action and explain their thinking."
+    },
+    {
+      "ID": 29979,
+      "Speaker": "T",
+      "Turn": 29979,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 29980,
+      "Speaker": "T",
+      "Turn": 29980,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to specify what mathematical elements need to be shown to meet the criteria."
+    },
+    {
+      "ID": 29981,
+      "Speaker": "T",
+      "Turn": 29981,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 29982,
+      "Speaker": "T",
+      "Turn": 29982,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 29983,
+      "Speaker": "T",
+      "Turn": 29983,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for verification that the required representation (a picture) was included."
+    },
+    {
+      "ID": 29986,
+      "Speaker": "T",
+      "Turn": 29986,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 29987,
+      "Speaker": "T",
+      "Turn": 29987,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to supply the divisor, using precise mathematical language."
+    },
+    {
+      "ID": 29989,
+      "Speaker": "T",
+      "Turn": 29989,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher cues students to complete the number sentence by providing the result."
+    },
+    {
+      "ID": 29991,
+      "Speaker": "T",
+      "Turn": 29991,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 14655,
+      "Speaker": "T",
+      "Turn": 14655,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 14656,
+      "Speaker": "T",
+      "Turn": 14656,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 14657,
+      "Speaker": "T",
+      "Turn": 14657,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 14658,
+      "Speaker": "T",
+      "Turn": 14658,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 14660,
+      "Speaker": "T",
+      "Turn": 14660,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 14661,
+      "Speaker": "T",
+      "Turn": 14661,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks a student to explain how a mathematical strategy would be useful."
+    },
+    {
+      "ID": 14663,
+      "Speaker": "T",
+      "Turn": 14663,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases a student's general contribution and contrasts it with the specific question asked, thereby clarifying and redirecting the student's idea."
+    },
+    {
+      "ID": 14664,
+      "Speaker": "T",
+      "Turn": 14664,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to move from a general idea to a specific mathematical application for the problem at hand."
+    },
+    {
+      "ID": 14665,
+      "Speaker": "T",
+      "Turn": 14665,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to compare two mathematical results and explain what they notice, prompting them to share their thinking."
+    },
+    {
+      "ID": 14666,
+      "Speaker": "T",
+      "Turn": 14666,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 14667,
+      "Speaker": "T",
+      "Turn": 14667,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 14669,
+      "Speaker": "T",
+      "Turn": 14669,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks a student to identify and explain a mistake, prompting for justification."
+    },
+    {
+      "ID": 14670,
+      "Speaker": "T",
+      "Turn": 14670,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher clarifies the specific mathematical task required, pressing the student to perform the correct procedure."
+    },
+    {
+      "ID": 14671,
+      "Speaker": "T",
+      "Turn": 14671,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to provide a specific mathematical value based on estimation."
+    },
+    {
+      "ID": 14672,
+      "Speaker": "T",
+      "Turn": 14672,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher scaffolds the problem by asking a more focused question to guide students toward an accurate mathematical benchmark."
+    },
+    {
+      "ID": 14675,
+      "Speaker": "T",
+      "Turn": 14675,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's one-word answer verbatim."
+    },
+    {
+      "ID": 14676,
+      "Speaker": "T",
+      "Turn": 14676,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher questions a student's answer, pressing them to reconsider the mathematical accuracy of their statement."
+    },
+    {
+      "ID": 14677,
+      "Speaker": "T",
+      "Turn": 14677,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher provides a visualization strategy to help the student reason about the fraction's value."
+    },
+    {
+      "ID": 14678,
+      "Speaker": "T",
+      "Turn": 14678,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 14680,
+      "Speaker": "T",
+      "Turn": 14680,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

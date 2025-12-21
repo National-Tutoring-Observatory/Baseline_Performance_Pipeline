@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 1592,
+      "Speaker": "T",
+      "Turn": 1592,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1594,
+      "Speaker": "T",
+      "Turn": 1594,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1595,
+      "Speaker": "T",
+      "Turn": 1595,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1596,
+      "Speaker": "T",
+      "Turn": 1596,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1597,
+      "Speaker": "T",
+      "Turn": 1597,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1598,
+      "Speaker": "T",
+      "Turn": 1598,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1599,
+      "Speaker": "T",
+      "Turn": 1599,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1600,
+      "Speaker": "T",
+      "Turn": 1600,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's likely answer of 'Two' verbatim."
+    },
+    {
+      "ID": 1602,
+      "Speaker": "T",
+      "Turn": 1602,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher takes the student's contribution of 'two' and adds the more precise mathematical term 'ones'."
+    },
+    {
+      "ID": 1603,
+      "Speaker": "T",
+      "Turn": 1603,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the number 'Two' to confirm or emphasize it after a student contribution."
+    },
+    {
+      "ID": 1604,
+      "Speaker": "T",
+      "Turn": 1604,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students for the specific mathematical language used when reading a decimal point."
+    },
+    {
+      "ID": 1606,
+      "Speaker": "T",
+      "Turn": 1606,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's correct answer 'And' verbatim."
+    },
+    {
+      "ID": 1607,
+      "Speaker": "T",
+      "Turn": 1607,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1608,
+      "Speaker": "T",
+      "Turn": 1608,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students for the correct numerical value needed to accurately state the decimal."
+    },
+    {
+      "ID": 1611,
+      "Speaker": "T",
+      "Turn": 1611,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1612,
+      "Speaker": "T",
+      "Turn": 1612,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1613,
+      "Speaker": "T",
+      "Turn": 1613,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1614,
+      "Speaker": "T",
+      "Turn": 1614,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1615,
+      "Speaker": "T",
+      "Turn": 1615,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1616,
+      "Speaker": "T",
+      "Turn": 1616,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

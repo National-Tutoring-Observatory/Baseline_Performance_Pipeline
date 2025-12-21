@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 689,
+      "Speaker": "T",
+      "Turn": 689,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 690,
+      "Speaker": "T",
+      "Turn": 690,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 692,
+      "Speaker": "T",
+      "Turn": 692,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 693,
+      "Speaker": "T",
+      "Turn": 693,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 694,
+      "Speaker": "T",
+      "Turn": 694,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 695,
+      "Speaker": "T",
+      "Turn": 695,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a question to prompt students to find a specific, correct mathematical piece."
+    },
+    {
+      "ID": 697,
+      "Speaker": "T",
+      "Turn": 697,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher explicitly asks a student to provide proof for their claim."
+    },
+    {
+      "ID": 698,
+      "Speaker": "T",
+      "Turn": 698,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher reiterates the demand for proof, connecting it to the student's answer."
+    },
+    {
+      "ID": 699,
+      "Speaker": "T",
+      "Turn": 699,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher clarifies the specific mathematical condition that must be met, pressing for a precise answer."
+    },
+    {
+      "ID": 700,
+      "Speaker": "T",
+      "Turn": 700,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a guiding question to prompt students to make an accurate mathematical comparison."
+    },
+    {
+      "ID": 702,
+      "Speaker": "T",
+      "Turn": 702,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 703,
+      "Speaker": "T",
+      "Turn": 703,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 704,
+      "Speaker": "T",
+      "Turn": 704,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 705,
+      "Speaker": "T",
+      "Turn": 705,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 706,
+      "Speaker": "T",
+      "Turn": 706,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 707,
+      "Speaker": "T",
+      "Turn": 707,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 708,
+      "Speaker": "T",
+      "Turn": 708,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts a student to share their mathematical action, asking them to make a contribution."
+    },
+    {
+      "ID": 710,
+      "Speaker": "T",
+      "Turn": 710,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's contribution to confirm and make it public."
+    },
+    {
+      "ID": 711,
+      "Speaker": "T",
+      "Turn": 711,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 712,
+      "Speaker": "T",
+      "Turn": 712,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks a question that prompts students to reason about the mathematical definition of the 'whole' in the context of the current problem."
+    }
+  ]
+}

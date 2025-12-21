@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 22262,
+      "Speaker": "T",
+      "Turn": 22262,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22263,
+      "Speaker": "T",
+      "Turn": 22263,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22264,
+      "Speaker": "T",
+      "Turn": 22264,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22265,
+      "Speaker": "T",
+      "Turn": 22265,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a student to state the next mathematical step."
+    },
+    {
+      "ID": 22267,
+      "Speaker": "T",
+      "Turn": 22267,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher restates the student's idea (divide by three) and adds 'so we do that first.'"
+    },
+    {
+      "ID": 22269,
+      "Speaker": "T",
+      "Turn": 22269,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks what operation to apply to both sides, prompting a specific mathematical action."
+    },
+    {
+      "ID": 22271,
+      "Speaker": "T",
+      "Turn": 22271,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases the student’s suggestion to square both sides, adding the rationale of removing the radical."
+    },
+    {
+      "ID": 22272,
+      "Speaker": "T",
+      "Turn": 22272,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts for the value of 4 squared."
+    },
+    {
+      "ID": 22274,
+      "Speaker": "T",
+      "Turn": 22274,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22275,
+      "Speaker": "T",
+      "Turn": 22275,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22277,
+      "Speaker": "T",
+      "Turn": 22277,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22279,
+      "Speaker": "T",
+      "Turn": 22279,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks what would cause the inequality to switch, prompting justification."
+    },
+    {
+      "ID": 22280,
+      "Speaker": "T",
+      "Turn": 22280,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks how to change the original to produce a switch, eliciting the reasoning behind the condition."
+    },
+    {
+      "ID": 22282,
+      "Speaker": "T",
+      "Turn": 22282,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22283,
+      "Speaker": "T",
+      "Turn": 22283,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22284,
+      "Speaker": "T",
+      "Turn": 22284,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22285,
+      "Speaker": "T",
+      "Turn": 22285,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to specify the bound for x (the exact value for 'greater than or equal to')."
+    },
+    {
+      "ID": 22286,
+      "Speaker": "T",
+      "Turn": 22286,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts students to evaluate whether the combined conditions make sense."
+    },
+    {
+      "ID": 22287,
+      "Speaker": "T",
+      "Turn": 22287,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to assess the compatibility of two inequalities and to articulate how to represent the final answer."
+    },
+    {
+      "ID": 22288,
+      "Speaker": "T",
+      "Turn": 22288,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the specific interval endpoints."
+    }
+  ]
+}

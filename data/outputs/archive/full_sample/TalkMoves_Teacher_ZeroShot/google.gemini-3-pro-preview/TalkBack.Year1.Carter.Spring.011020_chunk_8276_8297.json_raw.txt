@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 8276,
+      "Speaker": "T",
+      "Turn": 8276,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8277,
+      "Speaker": "T",
+      "Turn": 8277,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8278,
+      "Speaker": "T",
+      "Turn": 8278,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8279,
+      "Speaker": "T",
+      "Turn": 8279,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8280,
+      "Speaker": "T",
+      "Turn": 8280,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks students to recall a specific saying or rule ('What was the little saying that we said'), prompting them to produce a specific piece of mathematical knowledge."
+    },
+    {
+      "ID": 8281,
+      "Speaker": "T",
+      "Turn": 8281,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher provides a sentence starter ('Whatever you') to prompt the students to complete the specific mathematical rule accurately."
+    },
+    {
+      "ID": 8283,
+      "Speaker": "T",
+      "Turn": 8283,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to connect the recalled rule to the current lesson ('How does that relate to todays work'), prompting them to explain the connection."
+    },
+    {
+      "ID": 8284,
+      "Speaker": "T",
+      "Turn": 8284,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher directs the whole class to repeat the rule in unison ('Lets say it again') to ensure everyone is following along."
+    },
+    {
+      "ID": 8286,
+      "Speaker": "T",
+      "Turn": 8286,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to consider the inverse of the rule, checking for precise understanding of the mathematical procedure."
+    },
+    {
+      "ID": 8287,
+      "Speaker": "T",
+      "Turn": 8287,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the rule the students presumably just said or implied ('Whatever you do to the bottom you do to the top') word for word."
+    },
+    {
+      "ID": 8288,
+      "Speaker": "T",
+      "Turn": 8288,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to connect the rule to the learning intention ('How does that relate to the days work...'), prompting an explanation of the relationship."
+    },
+    {
+      "ID": 8289,
+      "Speaker": "T",
+      "Turn": 8289,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher reiterates the request for students to explain the connection ('How do those relate')."
+    },
+    {
+      "ID": 8290,
+      "Speaker": "T",
+      "Turn": 8290,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8291,
+      "Speaker": "T",
+      "Turn": 8291,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8292,
+      "Speaker": "T",
+      "Turn": 8292,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8293,
+      "Speaker": "T",
+      "Turn": 8293,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher sets up a question asking how the specific rule relates to the problem scenario described previously."
+    },
+    {
+      "ID": 8294,
+      "Speaker": "T",
+      "Turn": 8294,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "This is the continuation of the previous utterance, completing the question 'How does this rule... relate'."
+    },
+    {
+      "ID": 8295,
+      "Speaker": "T",
+      "Turn": 8295,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher asks for a physical signal ('Stick your thumbs up') to check who is following the logic and ready to answer."
+    },
+    {
+      "ID": 8296,
+      "Speaker": "T",
+      "Turn": 8296,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the core question again ('How does that rule relate to this work today'), prompting students to explain the connection."
+    },
+    {
+      "ID": 8297,
+      "Speaker": "T",
+      "Turn": 8297,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

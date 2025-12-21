@@ -1,0 +1,124 @@
+{
+  "records": [
+    {
+      "ID": 78,
+      "Speaker": "T",
+      "Turn": 78
+    },
+    {
+      "ID": 81,
+      "Speaker": "T",
+      "Turn": 81,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats a student's answer ('8100') to the class, adding framing with 'I hear.'"
+    },
+    {
+      "ID": 82,
+      "Speaker": "T",
+      "Turn": 82,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher asks students to judge between classmates' answers, prompting reaction to others' ideas."
+    },
+    {
+      "ID": 84,
+      "Speaker": "T",
+      "Turn": 84,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Asking 'Why' seeks an explanation of the previous claim."
+    },
+    {
+      "ID": 85,
+      "Speaker": "T",
+      "Turn": 85,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks for an explanation of why 81,000 is not correct, prompting justification."
+    },
+    {
+      "ID": 87,
+      "Speaker": "T",
+      "Turn": 87,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher echoes the student's phrase 'two zeros' verbatim."
+    },
+    {
+      "ID": 88,
+      "Speaker": "T",
+      "Turn": 88,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asking 'how many zeros should I add' prompts a specific mathematical contribution."
+    },
+    {
+      "ID": 91,
+      "Speaker": "T",
+      "Turn": 91
+    },
+    {
+      "ID": 92,
+      "Speaker": "T",
+      "Turn": 92
+    },
+    {
+      "ID": 94,
+      "Speaker": "T",
+      "Turn": 94
+    },
+    {
+      "ID": 96,
+      "Speaker": "T",
+      "Turn": 96
+    },
+    {
+      "ID": 97,
+      "Speaker": "T",
+      "Turn": 97
+    },
+    {
+      "ID": 98,
+      "Speaker": "T",
+      "Turn": 98
+    },
+    {
+      "ID": 99,
+      "Speaker": "T",
+      "Turn": 99
+    },
+    {
+      "ID": 100,
+      "Speaker": "T",
+      "Turn": 100
+    },
+    {
+      "ID": 101,
+      "Speaker": "T",
+      "Turn": 101,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to explain how this problem differs from prior ones."
+    },
+    {
+      "ID": 102,
+      "Speaker": "T",
+      "Turn": 102,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher invites Jesse to explain what is different about the problem."
+    },
+    {
+      "ID": 103,
+      "Speaker": "T",
+      "Turn": 103,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's response 'It's multiplication' word-for-word."
+    },
+    {
+      "ID": 104,
+      "Speaker": "T",
+      "Turn": 104,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher presses for an explanation of what is different despite already working on multiplication."
+    },
+    {
+      "ID": 106,
+      "Speaker": "T",
+      "Turn": 106
+    }
+  ]
+}

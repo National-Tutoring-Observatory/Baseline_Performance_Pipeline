@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 8812,
+      "Turn": 156,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8813,
+      "Turn": 156,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8814,
+      "Turn": 157,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher introduces a counterexample to press the student to test the limits of their reasoning."
+    },
+    {
+      "ID": 8815,
+      "Turn": 157,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks a follow-up question as part of a press to get the student to explain their thinking."
+    },
+    {
+      "ID": 8816,
+      "Turn": 157,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks 'Why not?' to prompt the student to provide a justification for their answer."
+    },
+    {
+      "ID": 8817,
+      "Turn": 157,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to explain the underlying mathematical principle that distinguishes two cases."
+    },
+    {
+      "ID": 8819,
+      "Turn": 159,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8820,
+      "Turn": 159,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8821,
+      "Turn": 159,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks 'How do you know...' to prompt the student to provide evidence for their claim."
+    },
+    {
+      "ID": 8822,
+      "Turn": 159,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8824,
+      "Turn": 161,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to clarify the pronoun 'what' to be more precise in their mathematical explanation."
+    },
+    {
+      "ID": 8826,
+      "Turn": 163,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases the student's idea of 'split it equally' into the more mathematical term 'dividing it'."
+    },
+    {
+      "ID": 8827,
+      "Turn": 163,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher continues to rephrase and clarify the student's idea by making the numbers explicit."
+    },
+    {
+      "ID": 8828,
+      "Turn": 163,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8829,
+      "Turn": 163,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks for 'another way to prove' the idea, prompting for additional reasoning or methods."
+    },
+    {
+      "ID": 8831,
+      "Turn": 165,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8832,
+      "Turn": 165,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks for 'another way to prove' the idea, prompting for additional reasoning or methods."
+    },
+    {
+      "ID": 8834,
+      "Turn": 167,
+      "Speaker": "T",
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats a student's exact words to highlight a specific, problematic part of their statement."
+    },
+    {
+      "ID": 8835,
+      "Turn": 167,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8836,
+      "Turn": 167,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to 'Explain how,' directly prompting for a justification of their previous statement."
+    }
+  ]
+}

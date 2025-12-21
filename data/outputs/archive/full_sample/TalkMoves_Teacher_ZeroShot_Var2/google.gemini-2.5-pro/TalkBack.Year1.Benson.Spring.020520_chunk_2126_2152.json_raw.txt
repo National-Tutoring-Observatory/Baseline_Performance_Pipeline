@@ -1,0 +1,124 @@
+{
+  "records": [
+    {
+      "ID": 2126,
+      "Speaker": "T",
+      "Turn": 2126
+    },
+    {
+      "ID": 2127,
+      "Speaker": "T",
+      "Turn": 2127,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for a specific mathematical contribution, the result of a calculation."
+    },
+    {
+      "ID": 2129,
+      "Speaker": "T",
+      "Turn": 2129,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher simplifies the previous question to prompt for a basic multiplication fact."
+    },
+    {
+      "ID": 2131,
+      "Speaker": "T",
+      "Turn": 2131,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's likely answer ('24') and clarifies its place value ('24 tens') to build a more precise mathematical understanding."
+    },
+    {
+      "ID": 2132,
+      "Speaker": "T",
+      "Turn": 2132
+    },
+    {
+      "ID": 2133,
+      "Speaker": "T",
+      "Turn": 2133
+    },
+    {
+      "ID": 2134,
+      "Speaker": "T",
+      "Turn": 2134,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts a student to provide a specific numerical value from the problem."
+    },
+    {
+      "ID": 2136,
+      "Speaker": "T",
+      "Turn": 2136,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students for a specific numerical value needed for the calculation."
+    },
+    {
+      "ID": 2138,
+      "Speaker": "T",
+      "Turn": 2138,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students for a specific numerical value needed for the calculation."
+    },
+    {
+      "ID": 2140,
+      "Speaker": "T",
+      "Turn": 2140,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher takes the student's likely answer ('eight') and reframes it within the context of the mathematical operation ('Times eight')."
+    },
+    {
+      "ID": 2141,
+      "Speaker": "T",
+      "Turn": 2141
+    },
+    {
+      "ID": 2142,
+      "Speaker": "T",
+      "Turn": 2142
+    },
+    {
+      "ID": 2143,
+      "Speaker": "T",
+      "Turn": 2143
+    },
+    {
+      "ID": 2144,
+      "Speaker": "T",
+      "Turn": 2144
+    },
+    {
+      "ID": 2145,
+      "Speaker": "T",
+      "Turn": 2145,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for a specific mathematical contribution, the result of a calculation."
+    },
+    {
+      "ID": 2147,
+      "Speaker": "T",
+      "Turn": 2147
+    },
+    {
+      "ID": 2148,
+      "Speaker": "T",
+      "Turn": 2148
+    },
+    {
+      "ID": 2150,
+      "Speaker": "T",
+      "Turn": 2150,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's likely answer ('48') and clarifies its place value ('48 tens') to build a more precise mathematical understanding."
+    },
+    {
+      "ID": 2151,
+      "Speaker": "T",
+      "Turn": 2151
+    },
+    {
+      "ID": 2152,
+      "Speaker": "T",
+      "Turn": 2152,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to compare their calculated results and draw a conclusion, prompting them to use mathematical evidence."
+    }
+  ]
+}

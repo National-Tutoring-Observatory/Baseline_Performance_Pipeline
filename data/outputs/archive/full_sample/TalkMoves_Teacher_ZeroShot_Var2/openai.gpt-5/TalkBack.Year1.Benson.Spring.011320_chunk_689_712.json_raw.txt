@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 689,
+      "Speaker": "T",
+      "Turn": 689,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 690,
+      "Speaker": "T",
+      "Turn": 690,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a student to evaluate whether the setup works, prompting a determination of correctness."
+    },
+    {
+      "ID": 692,
+      "Speaker": "T",
+      "Turn": 692,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 693,
+      "Speaker": "T",
+      "Turn": 693,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 694,
+      "Speaker": "T",
+      "Turn": 694,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 695,
+      "Speaker": "T",
+      "Turn": 695,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks whether a single piece will work, eliciting a specific mathematical determination."
+    },
+    {
+      "ID": 697,
+      "Speaker": "T",
+      "Turn": 697,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher requests proof, prompting justification and evidence."
+    },
+    {
+      "ID": 698,
+      "Speaker": "T",
+      "Turn": 698,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to prove their yes claim, eliciting explanation/justification."
+    },
+    {
+      "ID": 699,
+      "Speaker": "T",
+      "Turn": 699,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 700,
+      "Speaker": "T",
+      "Turn": 700,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks if there is a piece between two sizes, prompting a precise mathematical identification."
+    },
+    {
+      "ID": 702,
+      "Speaker": "T",
+      "Turn": 702,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 703,
+      "Speaker": "T",
+      "Turn": 703,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 704,
+      "Speaker": "T",
+      "Turn": 704,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 705,
+      "Speaker": "T",
+      "Turn": 705,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 706,
+      "Speaker": "T",
+      "Turn": 706,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 707,
+      "Speaker": "T",
+      "Turn": 707,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 708,
+      "Speaker": "T",
+      "Turn": 708,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to share what they tried, prompting description of strategy or thinking."
+    },
+    {
+      "ID": 710,
+      "Speaker": "T",
+      "Turn": 710,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher restates the student's contribution (two greens) with adjusted wording to confirm understanding."
+    },
+    {
+      "ID": 711,
+      "Speaker": "T",
+      "Turn": 711,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 712,
+      "Speaker": "T",
+      "Turn": 712,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks students to consider whether the whole is a full circle, focusing on correct conceptual framing."
+    }
+  ]
+}

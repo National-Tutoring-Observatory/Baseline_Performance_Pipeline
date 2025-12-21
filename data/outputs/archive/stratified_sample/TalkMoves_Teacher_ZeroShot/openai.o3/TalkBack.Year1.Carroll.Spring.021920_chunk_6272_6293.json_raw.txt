@@ -1,0 +1,102 @@
+{
+  "records": [
+    {
+      "ID": 6272,
+      "Speaker": "T",
+      "Turn": 77,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks whether any student used a specific representation (drawing a picture), prompting them to provide that mathematical detail."
+    },
+    {
+      "ID": 6274,
+      "Speaker": "T",
+      "Turn": 79,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 6275,
+      "Speaker": "T",
+      "Turn": 79,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Requests information about alternative strategies, eliciting a precise mathematical contribution."
+    },
+    {
+      "ID": 6276,
+      "Speaker": "T",
+      "Turn": 80,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 6278,
+      "Speaker": "T",
+      "Turn": 81,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Questions the student to specify whether they used a different strategy, seeking clarification of their method."
+    },
+    {
+      "ID": 6280,
+      "Speaker": "T",
+      "Turn": 83,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Prompts the student to state the exact strategy they used."
+    },
+    {
+      "ID": 6281,
+      "Speaker": "T",
+      "Turn": 83,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Directs the student to focus on naming the strategy, emphasizing clarity and precision in describing their method."
+    },
+    {
+      "ID": 6284,
+      "Speaker": "T",
+      "Turn": 85,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 6285,
+      "Speaker": "T",
+      "Turn": 86,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 6286,
+      "Speaker": "T",
+      "Turn": 87,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks the student to present their work (‘show me’), prompting a concrete mathematical contribution."
+    },
+    {
+      "ID": 6288,
+      "Speaker": "T",
+      "Turn": 89,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Seeks precise identification of the division method, encouraging use of specific mathematical terminology."
+    },
+    {
+      "ID": 6289,
+      "Speaker": "T",
+      "Turn": 89,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Continues to clarify the exact method (partial quotients), pressing for correct mathematical language."
+    },
+    {
+      "ID": 6292,
+      "Speaker": "T",
+      "Turn": 91,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 6293,
+      "Speaker": "T",
+      "Turn": 91,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

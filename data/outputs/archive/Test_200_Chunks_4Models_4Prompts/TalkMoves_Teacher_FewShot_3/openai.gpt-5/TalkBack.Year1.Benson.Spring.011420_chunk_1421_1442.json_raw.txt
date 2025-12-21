@@ -1,0 +1,116 @@
+{
+  "records": [
+    {
+      "ID": 1422,
+      "Turn": 189,
+      "Speaker": "T",
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 1423,
+      "Turn": 189,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks for the exact number of eighths, prompting a specific mathematical quantity and unit."
+    },
+    {
+      "ID": 1425,
+      "Turn": 191,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "Paraphrases the student’s 'three' by counting out 'one two three' to model the idea."
+    },
+    {
+      "ID": 1426,
+      "Turn": 191,
+      "Speaker": "T",
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 1427,
+      "Turn": 191,
+      "Speaker": "T",
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 1428,
+      "Turn": 191,
+      "Speaker": "T",
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 1429,
+      "Turn": 191,
+      "Speaker": "T",
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 1430,
+      "Turn": 191,
+      "Speaker": "T",
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 1431,
+      "Turn": 191,
+      "Speaker": "T",
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 1432,
+      "Turn": 191,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Prompts students to determine whether the distance exceeds a mile, focusing on a correct classification."
+    },
+    {
+      "ID": 1434,
+      "Turn": 193,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Invites the student to explain their method for solving the problem."
+    },
+    {
+      "ID": 1435,
+      "Turn": 193,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Probes whether the student used a different approach, encouraging description of thinking."
+    },
+    {
+      "ID": 1437,
+      "Turn": 195,
+      "Speaker": "T",
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 1439,
+      "Turn": 197,
+      "Speaker": "T",
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 1440,
+      "Turn": 197,
+      "Speaker": "T",
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 1441,
+      "Turn": 197,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Asks the student to describe the steps they took to determine Ally’s distance."
+    }
+  ]
+}

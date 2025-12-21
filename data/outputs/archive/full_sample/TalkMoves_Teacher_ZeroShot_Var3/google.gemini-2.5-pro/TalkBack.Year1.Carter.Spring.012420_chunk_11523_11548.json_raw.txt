@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 11523,
+      "Speaker": "T",
+      "Turn": 11523,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 11525,
+      "Speaker": "T",
+      "Turn": 11525,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases a student's likely idea using more precise mathematical language, clarifying the relationship between the two units."
+    },
+    {
+      "ID": 11526,
+      "Speaker": "T",
+      "Turn": 11526,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases a student's likely incorrect idea into a specific mathematical statement to be examined."
+    },
+    {
+      "ID": 11527,
+      "Speaker": "T",
+      "Turn": 11527,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 11529,
+      "Speaker": "T",
+      "Turn": 11529,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases a student's idea, likely correcting the wording to use the term 'equivalent'."
+    },
+    {
+      "ID": 11530,
+      "Speaker": "T",
+      "Turn": 11530,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases a student's likely incorrect statement into a clear mathematical proposition to be examined."
+    },
+    {
+      "ID": 11531,
+      "Speaker": "T",
+      "Turn": 11531,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to provide a specific and accurate mathematical value to correct their previous statement."
+    },
+    {
+      "ID": 11533,
+      "Speaker": "T",
+      "Turn": 11533,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's correct answer and puts it into a complete, formal mathematical sentence."
+    },
+    {
+      "ID": 11534,
+      "Speaker": "T",
+      "Turn": 11534,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts the student to provide evidence or justification for their mathematical claim."
+    },
+    {
+      "ID": 11536,
+      "Speaker": "T",
+      "Turn": 11536,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts the student to provide a specific form of evidence (a drawing) for their claim."
+    },
+    {
+      "ID": 11537,
+      "Speaker": "T",
+      "Turn": 11537,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher explicitly asks the student to share their thought process."
+    },
+    {
+      "ID": 11539,
+      "Speaker": "T",
+      "Turn": 11539,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher prompts the rest of the class to evaluate and respond to a classmate's idea."
+    },
+    {
+      "ID": 11540,
+      "Speaker": "T",
+      "Turn": 11540,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher asks the class to state their position (agreement/disagreement) regarding a classmate's contribution."
+    },
+    {
+      "ID": 11542,
+      "Speaker": "T",
+      "Turn": 11542,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 11543,
+      "Speaker": "T",
+      "Turn": 11543,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 11544,
+      "Speaker": "T",
+      "Turn": 11544,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher prompts other students to share their thoughts on a classmate's contribution."
+    },
+    {
+      "ID": 11545,
+      "Speaker": "T",
+      "Turn": 11545,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher asks the class to evaluate the quality of a peer's drawing, prompting them to engage with their classmate's work."
+    },
+    {
+      "ID": 11546,
+      "Speaker": "T",
+      "Turn": 11546,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher asks the class to evaluate the clarity of a peer's explanation, prompting them to engage with their classmate's reasoning."
+    },
+    {
+      "ID": 11547,
+      "Speaker": "T",
+      "Turn": 11547,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 11548,
+      "Speaker": "T",
+      "Turn": 11548,
+      "TalkMove": "None",
+      "Reasoning": null
+    }
+  ]
+}

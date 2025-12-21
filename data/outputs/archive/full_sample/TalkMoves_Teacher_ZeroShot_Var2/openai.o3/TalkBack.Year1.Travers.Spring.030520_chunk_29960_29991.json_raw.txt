@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 29960,
+      "Speaker": "T",
+      "Turn": 29960,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 29962,
+      "Speaker": "T",
+      "Turn": 29962,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Asks students if the situation 'makes sense' given the leftover, prompting them to justify and explain their understanding."
+    },
+    {
+      "ID": 29964,
+      "Speaker": "T",
+      "Turn": 29964,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks whether the drawing correctly represents the algorithm/problem, pushing students to verify the mathematical accuracy of their representation."
+    },
+    {
+      "ID": 29966,
+      "Speaker": "T",
+      "Turn": 29966,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 29967,
+      "Speaker": "T",
+      "Turn": 29967,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Invites students to evaluate whether their solution is correct."
+    },
+    {
+      "ID": 29968,
+      "Speaker": "T",
+      "Turn": 29968,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Asks students to decide how to handle the remainder, requesting an explanation of their strategy."
+    },
+    {
+      "ID": 29971,
+      "Speaker": "T",
+      "Turn": 29971,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Prompts students to articulate their proposed action, seeking their thought process."
+    },
+    {
+      "ID": 29972,
+      "Speaker": "T",
+      "Turn": 29972,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 29973,
+      "Speaker": "T",
+      "Turn": 29973,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 29974,
+      "Speaker": "T",
+      "Turn": 29974,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Poses a hypothetical solution (breaking the car) and asks if that should be done, encouraging students to evaluate and justify the idea."
+    },
+    {
+      "ID": 29976,
+      "Speaker": "T",
+      "Turn": 29976,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Again elicits students’ thinking about the appropriate action for the leftover car."
+    },
+    {
+      "ID": 29979,
+      "Speaker": "T",
+      "Turn": 29979,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 29980,
+      "Speaker": "T",
+      "Turn": 29980,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks students to specify what must be shown to meet the success criteria, focusing on required mathematical work."
+    },
+    {
+      "ID": 29981,
+      "Speaker": "T",
+      "Turn": 29981,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 29982,
+      "Speaker": "T",
+      "Turn": 29982,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 29983,
+      "Speaker": "T",
+      "Turn": 29983,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Checks whether the previously stated criterion (drawing a picture) has been met, prompting students to verify completeness."
+    },
+    {
+      "ID": 29986,
+      "Speaker": "T",
+      "Turn": 29986,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 29987,
+      "Speaker": "T",
+      "Turn": 29987,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Requests the exact divisor to complete the number model, pushing for precise mathematical information."
+    },
+    {
+      "ID": 29989,
+      "Speaker": "T",
+      "Turn": 29989,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 29991,
+      "Speaker": "T",
+      "Turn": 29991,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 22262,
+      "Speaker": "T",
+      "Turn": 22262,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22263,
+      "Speaker": "T",
+      "Turn": 22263,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22264,
+      "Speaker": "T",
+      "Turn": 22264,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22265,
+      "Speaker": "T",
+      "Turn": 22265,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a student to identify the next procedural step in solving the inequality."
+    },
+    {
+      "ID": 22267,
+      "Speaker": "T",
+      "Turn": 22267,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's implied answer (divide by three) and confirms it is the first step."
+    },
+    {
+      "ID": 22269,
+      "Speaker": "T",
+      "Turn": 22269,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks students for the specific operation to perform on both sides of the equation."
+    },
+    {
+      "ID": 22271,
+      "Speaker": "T",
+      "Turn": 22271,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's implied answer (square both sides) and elaborates on the purpose (getting rid of the radical)."
+    },
+    {
+      "ID": 22272,
+      "Speaker": "T",
+      "Turn": 22272,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to perform a specific calculation (four squared)."
+    },
+    {
+      "ID": 22274,
+      "Speaker": "T",
+      "Turn": 22274,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher incorporates the student's calculation (16) into the full inequality statement."
+    },
+    {
+      "ID": 22275,
+      "Speaker": "T",
+      "Turn": 22275,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students for the next step in the procedure."
+    },
+    {
+      "ID": 22277,
+      "Speaker": "T",
+      "Turn": 22277,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's step (add one) and connects it to the resulting expression."
+    },
+    {
+      "ID": 22279,
+      "Speaker": "T",
+      "Turn": 22279,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to explain the mathematical condition or cause that would require the inequality symbol to switch."
+    },
+    {
+      "ID": 22280,
+      "Speaker": "T",
+      "Turn": 22280,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to apply their understanding of the rule to hypothetically modify the original problem."
+    },
+    {
+      "ID": 22282,
+      "Speaker": "T",
+      "Turn": 22282,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats and validates the student's explanation about dividing by a negative number."
+    },
+    {
+      "ID": 22283,
+      "Speaker": "T",
+      "Turn": 22283,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22284,
+      "Speaker": "T",
+      "Turn": 22284,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22285,
+      "Speaker": "T",
+      "Turn": 22285,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to provide the specific value for the domain constraint."
+    },
+    {
+      "ID": 22286,
+      "Speaker": "T",
+      "Turn": 22286,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22287,
+      "Speaker": "T",
+      "Turn": 22287,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks students how to correctly write the final answer in mathematical notation."
+    },
+    {
+      "ID": 22288,
+      "Speaker": "T",
+      "Turn": 22288,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to identify the specific boundary numbers for the solution."
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 27768,
+      "Speaker": "T",
+      "Turn": 27768,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 27769,
+      "Speaker": "T",
+      "Turn": 27769,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 27770,
+      "Speaker": "T",
+      "Turn": 27770,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 27771,
+      "Speaker": "T",
+      "Turn": 27771,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 27772,
+      "Speaker": "T",
+      "Turn": 27772,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 27774,
+      "Speaker": "T",
+      "Turn": 27774,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 27775,
+      "Speaker": "T",
+      "Turn": 27775,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 27777,
+      "Speaker": "T",
+      "Turn": 27777,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 27778,
+      "Speaker": "T",
+      "Turn": 27778,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a specific student to identify the task of the problem, prompting a factual contribution."
+    },
+    {
+      "ID": 27780,
+      "Speaker": "T",
+      "Turn": 27780,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases and confirms the student's response (implied from the previous turn) to establish the group's goal."
+    },
+    {
+      "ID": 27781,
+      "Speaker": "T",
+      "Turn": 27781,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks students to identify specific information given in the problem."
+    },
+    {
+      "ID": 27783,
+      "Speaker": "T",
+      "Turn": 27783,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher repeats the student's answer ('The first part of the rule') and then prompts the student to explain its meaning."
+    },
+    {
+      "ID": 27785,
+      "Speaker": "T",
+      "Turn": 27785,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for a specific factual recall regarding unit conversion."
+    },
+    {
+      "ID": 27787,
+      "Speaker": "T",
+      "Turn": 27787,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher calls 'Class' to orient the students' attention and elicit a choral response."
+    },
+    {
+      "ID": 27789,
+      "Speaker": "T",
+      "Turn": 27789,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher confirms the previous answer ('100') and prompts students to perform a calculation for the next value."
+    },
+    {
+      "ID": 27791,
+      "Speaker": "T",
+      "Turn": 27791,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher invites the whole class to participate in generating the sequence ('Help me out')."
+    },
+    {
+      "ID": 27792,
+      "Speaker": "T",
+      "Turn": 27792,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to provide the corresponding value for 'three meters'."
+    },
+    {
+      "ID": 27794,
+      "Speaker": "T",
+      "Turn": 27794,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to provide the corresponding value for 'four meters'."
+    },
+    {
+      "ID": 27796,
+      "Speaker": "T",
+      "Turn": 27796,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to provide the corresponding value for 'five meters'."
+    },
+    {
+      "ID": 27798,
+      "Speaker": "T",
+      "Turn": 27798,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks students to identify and state the mathematical rule or pattern derived from the sequence."
+    }
+  ]
+}

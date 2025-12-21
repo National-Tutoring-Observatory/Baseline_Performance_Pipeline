@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 266,
+      "Speaker": "T",
+      "Turn": 266,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 267,
+      "Speaker": "T",
+      "Turn": 267,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 269,
+      "Speaker": "T",
+      "Turn": 269,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 271,
+      "Speaker": "T",
+      "Turn": 271,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks students to signal whether they obtained the exact numerical answer (2610), prompting them to verify the correctness of their work."
+    },
+    {
+      "ID": 272,
+      "Speaker": "T",
+      "Turn": 272,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts students who were incorrect to think about what was needed to make their work correct, eliciting an explanation of their thinking."
+    },
+    {
+      "ID": 273,
+      "Speaker": "T",
+      "Turn": 273,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 274,
+      "Speaker": "T",
+      "Turn": 274,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 275,
+      "Speaker": "T",
+      "Turn": 275,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 276,
+      "Speaker": "T",
+      "Turn": 276,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 277,
+      "Speaker": "T",
+      "Turn": 277,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 278,
+      "Speaker": "T",
+      "Turn": 278,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 279,
+      "Speaker": "T",
+      "Turn": 279,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to describe what is different about the second factor, prompting conceptual explanation."
+    },
+    {
+      "ID": 280,
+      "Speaker": "T",
+      "Turn": 280,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 282,
+      "Speaker": "T",
+      "Turn": 282,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher restates and slightly rephrases the student's idea that 17 is not a multiple of 10."
+    },
+    {
+      "ID": 283,
+      "Speaker": "T",
+      "Turn": 283,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Again the teacher reiterates the student's contribution, clarifying that 17 is not a multiple of 10."
+    },
+    {
+      "ID": 285,
+      "Speaker": "T",
+      "Turn": 285,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 286,
+      "Speaker": "T",
+      "Turn": 286,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 287,
+      "Speaker": "T",
+      "Turn": 287,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the place-value worth of the digit 3 in 34, requiring an exact mathematical value."
+    },
+    {
+      "ID": 289,
+      "Speaker": "T",
+      "Turn": 289,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher immediately prompts for the value of the digit 4 in 34, again seeking a precise mathematical answer."
+    },
+    {
+      "ID": 291,
+      "Speaker": "T",
+      "Turn": 291,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks what the 1 in 17 is worth, eliciting the exact place-value contribution."
+    }
+  ]
+}

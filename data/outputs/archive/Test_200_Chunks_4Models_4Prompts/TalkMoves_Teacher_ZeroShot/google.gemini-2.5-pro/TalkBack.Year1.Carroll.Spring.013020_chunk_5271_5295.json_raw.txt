@@ -1,0 +1,95 @@
+{
+  "records": [
+    {
+      "ID": 5271,
+      "Speaker": "T",
+      "Turn": 43,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats a student's idea, possibly rephrasing it to clarify the proposed mathematical action for the class."
+    },
+    {
+      "ID": 5272,
+      "Speaker": "T",
+      "Turn": 43,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to predict the result of a transformation, prompting them to share their thinking about the consequences."
+    },
+    {
+      "ID": 5273,
+      "Speaker": "T",
+      "Turn": 43,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher provides specific options to scaffold the previous question, pushing students to reason about the effect of the transformation."
+    },
+    {
+      "ID": 5274,
+      "Speaker": "T",
+      "Turn": 43,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher reframes the question with more precise mathematical language ('double the x-axis') to guide students toward a more accurate contribution."
+    },
+    {
+      "ID": 5277,
+      "Speaker": "T",
+      "Turn": 46,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5283,
+      "Speaker": "T",
+      "Turn": 51,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5284,
+      "Speaker": "T",
+      "Turn": 51,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5285,
+      "Speaker": "T",
+      "Turn": 51,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5290,
+      "Speaker": "T",
+      "Turn": 55,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts a specific student to share what she has written, which is the product of her thinking."
+    },
+    {
+      "ID": 5291,
+      "Speaker": "T",
+      "Turn": 55,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher explicitly asks the student to share her 'thoughts,' directly prompting for her reasoning."
+    },
+    {
+      "ID": 5292,
+      "Speaker": "T",
+      "Turn": 55,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats and clarifies a student's contribution for the whole class to hear and consider."
+    },
+    {
+      "ID": 5293,
+      "Speaker": "T",
+      "Turn": 55,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5294,
+      "Speaker": "T",
+      "Turn": 55,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher asks other students to evaluate a classmate's idea and connect it to their own thinking."
+    }
+  ]
+}

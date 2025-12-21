@@ -1,0 +1,39 @@
+{
+  "records": [
+    {
+      "ID": 5550,
+      "Speaker": "T",
+      "Turn": 5550,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to extend their mathematical thinking by suggesting they modify their rule to be 'bigger than double,' encouraging a specific mathematical adjustment."
+    },
+    {
+      "ID": 5557,
+      "Speaker": "T",
+      "Turn": 5557,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks 'What is that,' prompting the student to identify or clarify a specific mathematical object or idea."
+    },
+    {
+      "ID": 5563,
+      "Speaker": "T",
+      "Turn": 5563,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 5566,
+      "Speaker": "T",
+      "Turn": 5566,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 5567,
+      "Speaker": "T",
+      "Turn": 5567,
+      "TalkMove": "None",
+      "Reasoning": null
+    }
+  ]
+}

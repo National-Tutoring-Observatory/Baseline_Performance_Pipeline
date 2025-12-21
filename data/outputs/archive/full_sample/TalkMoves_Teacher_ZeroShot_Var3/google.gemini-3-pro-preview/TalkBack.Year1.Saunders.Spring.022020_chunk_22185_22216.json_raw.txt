@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 22185,
+      "Speaker": "T",
+      "Turn": 22185,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a specific student (Joel) for the next procedural step in solving an equation with quadratic, constant, and linear terms."
+    },
+    {
+      "ID": 22187,
+      "Speaker": "T",
+      "Turn": 22187,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's answer ('Subtract the x over') to confirm the step."
+    },
+    {
+      "ID": 22189,
+      "Speaker": "T",
+      "Turn": 22189,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts for the next step in the procedure ('Then what do I do')."
+    },
+    {
+      "ID": 22192,
+      "Speaker": "T",
+      "Turn": 22192,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks 'What do you think', inviting a student to share their thought process or idea."
+    },
+    {
+      "ID": 22193,
+      "Speaker": "T",
+      "Turn": 22193,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher encourages a student to speak ('Go ahead'), managing the flow of conversation."
+    },
+    {
+      "ID": 22195,
+      "Speaker": "T",
+      "Turn": 22195,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 22196,
+      "Speaker": "T",
+      "Turn": 22196,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to complete the mathematical statement regarding what the equation equals after subtraction."
+    },
+    {
+      "ID": 22198,
+      "Speaker": "T",
+      "Turn": 22198,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a specific calculation question about factors of negative 30."
+    },
+    {
+      "ID": 22201,
+      "Speaker": "T",
+      "Turn": 22201,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's answer ('Five and six')."
+    },
+    {
+      "ID": 22202,
+      "Speaker": "T",
+      "Turn": 22202,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a follow-up question to determine the correct signs for the factors."
+    },
+    {
+      "ID": 22204,
+      "Speaker": "T",
+      "Turn": 22204,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's conclusion that six must be the negative factor."
+    },
+    {
+      "ID": 22205,
+      "Speaker": "T",
+      "Turn": 22205,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 22206,
+      "Speaker": "T",
+      "Turn": 22206,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks Joel again to recall the general procedure for handling these specific terms."
+    },
+    {
+      "ID": 22208,
+      "Speaker": "T",
+      "Turn": 22208,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher guides the student to identify the specific intermediate step ('set it equal to zero') before factoring."
+    },
+    {
+      "ID": 22210,
+      "Speaker": "T",
+      "Turn": 22210,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the correct answer provided by the student ('Set it equal to zero')."
+    },
+    {
+      "ID": 22211,
+      "Speaker": "T",
+      "Turn": 22211,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 22212,
+      "Speaker": "T",
+      "Turn": 22212,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the class to provide the final solutions ('my two possible solutions here are going to be')."
+    },
+    {
+      "ID": 22214,
+      "Speaker": "T",
+      "Turn": 22214,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 22215,
+      "Speaker": "T",
+      "Turn": 22215,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 22216,
+      "Speaker": "T",
+      "Turn": 22216,
+      "TalkMove": "None",
+      "Reasoning": null
+    }
+  ]
+}

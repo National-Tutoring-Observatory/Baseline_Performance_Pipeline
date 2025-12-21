@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 1954,
+      "Speaker": "T",
+      "Turn": 1954,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1955,
+      "Speaker": "T",
+      "Turn": 1955,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1956,
+      "Speaker": "T",
+      "Turn": 1956,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1959,
+      "Speaker": "T",
+      "Turn": 1959,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to explain the process they used to solve the problem."
+    },
+    {
+      "ID": 1960,
+      "Speaker": "T",
+      "Turn": 1960,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to share the specific mathematical steps they took, which is a prompt for their reasoning."
+    },
+    {
+      "ID": 1961,
+      "Speaker": "T",
+      "Turn": 1961,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks a specific student to explain the mathematical process they used to find the answer."
+    },
+    {
+      "ID": 1964,
+      "Speaker": "T",
+      "Turn": 1964,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to justify the numbers they used in their calculation, which is a form of providing evidence for their thinking."
+    },
+    {
+      "ID": 1967,
+      "Speaker": "T",
+      "Turn": 1967,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks 'why' a specific operation was performed, directly prompting the student to explain their reasoning."
+    },
+    {
+      "ID": 1969,
+      "Speaker": "T",
+      "Turn": 1969,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1970,
+      "Speaker": "T",
+      "Turn": 1970,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1971,
+      "Speaker": "T",
+      "Turn": 1971,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1972,
+      "Speaker": "T",
+      "Turn": 1972,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1974,
+      "Speaker": "T",
+      "Turn": 1974,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1975,
+      "Speaker": "T",
+      "Turn": 1975,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher summarizes and clarifies a student's contribution, rephrasing it for the whole class to understand."
+    },
+    {
+      "ID": 1976,
+      "Speaker": "T",
+      "Turn": 1976,
+      "TalkMove": "Revoicing",
+      "Reasoning": "This is a continuation of the previous utterance, where the teacher is summarizing and clarifying a student's multi-step reasoning for the class."
+    },
+    {
+      "ID": 1977,
+      "Speaker": "T",
+      "Turn": 1977,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "After summarizing one student's method, the teacher asks for alternative methods, prompting other students to compare their thinking to their classmate's."
+    },
+    {
+      "ID": 1978,
+      "Speaker": "T",
+      "Turn": 1978,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks a specific student to explain their alternative method, prompting them to share their thinking process."
+    },
+    {
+      "ID": 1980,
+      "Speaker": "T",
+      "Turn": 1980,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's idea while reformulating it into a clearer mathematical statement and pauses for the student to confirm or complete it."
+    },
+    {
+      "ID": 1982,
+      "Speaker": "T",
+      "Turn": 1982,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher continues to summarize and clarify the student's multi-step method, adding the reasoning behind the steps for the benefit of the class."
+    },
+    {
+      "ID": 1984,
+      "Speaker": "T",
+      "Turn": 1984,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

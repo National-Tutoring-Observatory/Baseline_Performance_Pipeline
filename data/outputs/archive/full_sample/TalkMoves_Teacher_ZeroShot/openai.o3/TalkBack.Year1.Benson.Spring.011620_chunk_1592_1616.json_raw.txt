@@ -1,0 +1,122 @@
+{
+  "records": [
+    {
+      "ID": 1592,
+      "Speaker": "T",
+      "Turn": 1592,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks Kennedy to read the number precisely as a decimal, prompting correct mathematical language."
+    },
+    {
+      "ID": 1594,
+      "Speaker": "T",
+      "Turn": 1594,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher checks whether the student-provided reading matches the written number, seeking confirmation of correctness."
+    },
+    {
+      "ID": 1595,
+      "Speaker": "T",
+      "Turn": 1595
+    },
+    {
+      "ID": 1596,
+      "Speaker": "T",
+      "Turn": 1596
+    },
+    {
+      "ID": 1597,
+      "Speaker": "T",
+      "Turn": 1597
+    },
+    {
+      "ID": 1598,
+      "Speaker": "T",
+      "Turn": 1598,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks Tucker to read the displayed number aloud, eliciting a precise numerical statement."
+    },
+    {
+      "ID": 1599,
+      "Speaker": "T",
+      "Turn": 1599
+    },
+    {
+      "ID": 1600,
+      "Speaker": "T",
+      "Turn": 1600,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student’s single-word response 'Two' exactly as spoken."
+    },
+    {
+      "ID": 1602,
+      "Speaker": "T",
+      "Turn": 1602,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher reformulates the student’s answer by adding clarification—changing 'Two' to 'Two ones.'"
+    },
+    {
+      "ID": 1603,
+      "Speaker": "T",
+      "Turn": 1603,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher again repeats the student’s response word-for-word."
+    },
+    {
+      "ID": 1604,
+      "Speaker": "T",
+      "Turn": 1604,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks what term should be used when encountering the decimal point, pressing for the correct mathematical terminology."
+    },
+    {
+      "ID": 1606,
+      "Speaker": "T",
+      "Turn": 1606
+    },
+    {
+      "ID": 1607,
+      "Speaker": "T",
+      "Turn": 1607
+    },
+    {
+      "ID": 1608,
+      "Speaker": "T",
+      "Turn": 1608,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the exact number of hundredths, prompting students to supply the precise decimal digits."
+    },
+    {
+      "ID": 1611,
+      "Speaker": "T",
+      "Turn": 1611
+    },
+    {
+      "ID": 1612,
+      "Speaker": "T",
+      "Turn": 1612
+    },
+    {
+      "ID": 1613,
+      "Speaker": "T",
+      "Turn": 1613
+    },
+    {
+      "ID": 1614,
+      "Speaker": "T",
+      "Turn": 1614
+    },
+    {
+      "ID": 1615,
+      "Speaker": "T",
+      "Turn": 1615,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher introduces a new number ('nine and 56 hundredths') and implicitly asks students to consider or convert it accurately."
+    },
+    {
+      "ID": 1616,
+      "Speaker": "T",
+      "Turn": 1616
+    }
+  ]
+}

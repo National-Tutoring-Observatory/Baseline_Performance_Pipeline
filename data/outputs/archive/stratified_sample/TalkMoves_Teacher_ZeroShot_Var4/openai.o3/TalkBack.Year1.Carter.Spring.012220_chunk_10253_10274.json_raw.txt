@@ -1,0 +1,123 @@
+{
+  "records": [
+    {
+      "ID": 10253,
+      "Speaker": "T",
+      "Turn": 249,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10255,
+      "Speaker": "T",
+      "Turn": 251,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10257,
+      "Speaker": "T",
+      "Turn": 253,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10258,
+      "Speaker": "T",
+      "Turn": 253,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to explain their understanding of why the answer is six, prompting for an explanation of reasoning."
+    },
+    {
+      "ID": 10259,
+      "Speaker": "T",
+      "Turn": 253,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10261,
+      "Speaker": "T",
+      "Turn": 255,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10262,
+      "Speaker": "T",
+      "Turn": 255,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10263,
+      "Speaker": "T",
+      "Turn": 255,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10264,
+      "Speaker": "T",
+      "Turn": 255,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks the student to compute a specific mathematical quantity (¼ of 8), prompting an accurate numerical answer."
+    },
+    {
+      "ID": 10265,
+      "Speaker": "T",
+      "Turn": 256,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10267,
+      "Speaker": "T",
+      "Turn": 258,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the value of ¼ of 10, requesting a precise calculation."
+    },
+    {
+      "ID": 10268,
+      "Speaker": "T",
+      "Turn": 258,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to compute 20 ÷ 4, seeking a correct numerical result."
+    },
+    {
+      "ID": 10270,
+      "Speaker": "T",
+      "Turn": 260,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student’s answer 'Five' verbatim, echoing the student’s response."
+    },
+    {
+      "ID": 10271,
+      "Speaker": "T",
+      "Turn": 260,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10272,
+      "Speaker": "T",
+      "Turn": 260,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10273,
+      "Speaker": "T",
+      "Turn": 260,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10274,
+      "Speaker": "T",
+      "Turn": 260,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks the student to calculate ¼ of 16, prompting a specific mathematical answer."
+    }
+  ]
+}

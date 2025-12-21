@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 19305,
+      "Speaker": "T",
+      "Turn": 19305,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 19306,
+      "Speaker": "T",
+      "Turn": 19306,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 19307,
+      "Speaker": "T",
+      "Turn": 19307,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to produce a specific mathematical value (the x-intercept)."
+    },
+    {
+      "ID": 19308,
+      "Speaker": "T",
+      "Turn": 19308,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher directs attention to the specific instruction 'solve', prompting the student to perform the correct mathematical procedure."
+    },
+    {
+      "ID": 19309,
+      "Speaker": "T",
+      "Turn": 19309,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher explains the meaning of 'solve' (finding values that make the equation true), connecting the procedure to the underlying concept."
+    },
+    {
+      "ID": 19312,
+      "Speaker": "T",
+      "Turn": 19312,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher explains the relationship between standard form and factors involving square roots, connecting different representations."
+    },
+    {
+      "ID": 19315,
+      "Speaker": "T",
+      "Turn": 19315,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts the student to consider the relationship between all four factors, encouraging a holistic view of the problem structure."
+    },
+    {
+      "ID": 19316,
+      "Speaker": "T",
+      "Turn": 19316,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks the student to visually compare their work to a specific form or model."
+    },
+    {
+      "ID": 19317,
+      "Speaker": "T",
+      "Turn": 19317,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 19318,
+      "Speaker": "T",
+      "Turn": 19318,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 19319,
+      "Speaker": "T",
+      "Turn": 19319,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts the student to categorize the problem by selecting from a specific set of strategies, requiring justification for the choice."
+    },
+    {
+      "ID": 19320,
+      "Speaker": "T",
+      "Turn": 19320,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher guides the student through a decision-making process (if/then logic) regarding which strategy to apply."
+    },
+    {
+      "ID": 19321,
+      "Speaker": "T",
+      "Turn": 19321,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher points out a specific structural feature (three terms) to guide the student toward the correct method."
+    },
+    {
+      "ID": 19322,
+      "Speaker": "T",
+      "Turn": 19322,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher narrows down the possibilities based on the previous observation, prompting the student to distinguish between two specific options."
+    },
+    {
+      "ID": 19323,
+      "Speaker": "T",
+      "Turn": 19323,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher corrects a specific notation error regarding 'W2'."
+    },
+    {
+      "ID": 19324,
+      "Speaker": "T",
+      "Turn": 19324,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher directs the student's attention to a specific part of the expression (the square) to ensure correct processing."
+    },
+    {
+      "ID": 19328,
+      "Speaker": "T",
+      "Turn": 19328,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 19329,
+      "Speaker": "T",
+      "Turn": 19329,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 19330,
+      "Speaker": "T",
+      "Turn": 19330,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher connects the current problems to the provided examples, encouraging the student to use the examples as a model for reasoning."
+    },
+    {
+      "ID": 19331,
+      "Speaker": "T",
+      "Turn": 19331,
+      "TalkMove": "None",
+      "Reasoning": null
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 21738,
+      "Speaker": "T",
+      "Turn": 21738,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 21739,
+      "Speaker": "T",
+      "Turn": 21739,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a specific student for the first procedural step in solving the equation."
+    },
+    {
+      "ID": 21740,
+      "Speaker": "T",
+      "Turn": 21740,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 21741,
+      "Speaker": "T",
+      "Turn": 21741,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a student to recall a specific step in the procedure."
+    },
+    {
+      "ID": 21743,
+      "Speaker": "T",
+      "Turn": 21743,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's answer ('Isolate the radical') to confirm the step."
+    },
+    {
+      "ID": 21744,
+      "Speaker": "T",
+      "Turn": 21744,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to evaluate if the action taken satisfies the goal of isolating the radical, prompting them to connect the step to the objective."
+    },
+    {
+      "ID": 21747,
+      "Speaker": "T",
+      "Turn": 21747,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 21748,
+      "Speaker": "T",
+      "Turn": 21748,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a specific student for the next procedural step."
+    },
+    {
+      "ID": 21749,
+      "Speaker": "T",
+      "Turn": 21749,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher rephrases the previous question, asking for the specific second step."
+    },
+    {
+      "ID": 21751,
+      "Speaker": "T",
+      "Turn": 21751,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's correct answer ('cube each side') word for word."
+    },
+    {
+      "ID": 21752,
+      "Speaker": "T",
+      "Turn": 21752,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the phrase 'cube each side' again to emphasize the step."
+    },
+    {
+      "ID": 21753,
+      "Speaker": "T",
+      "Turn": 21753,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for a specific calculation result (3 cubed)."
+    },
+    {
+      "ID": 21755,
+      "Speaker": "T",
+      "Turn": 21755,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks 'what happens here,' prompting students to explain the mathematical mechanism of the radical and exponent canceling out."
+    },
+    {
+      "ID": 21756,
+      "Speaker": "T",
+      "Turn": 21756,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 21757,
+      "Speaker": "T",
+      "Turn": 21757,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a student to identify the remaining procedural steps."
+    },
+    {
+      "ID": 21758,
+      "Speaker": "T",
+      "Turn": 21758,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher clarifies the previous question, asking specifically for the steps to isolate x."
+    },
+    {
+      "ID": 21760,
+      "Speaker": "T",
+      "Turn": 21760,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 21762,
+      "Speaker": "T",
+      "Turn": 21762,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to justify their choice of order of operations (adding nine before dividing)."
+    },
+    {
+      "ID": 21764,
+      "Speaker": "T",
+      "Turn": 21764,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for a specific calculation to demonstrate why the alternative method is less desirable."
+    },
+    {
+      "ID": 21766,
+      "Speaker": "T",
+      "Turn": 21766,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases the student's likely response about the result being messy or difficult ('we probably dont want to deal with that')."
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 1985,
+      "Speaker": "T",
+      "Turn": 1985,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a specific question about the result of a calculation to check for correctness."
+    },
+    {
+      "ID": 1987,
+      "Speaker": "T",
+      "Turn": 1987,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks a conceptual question about the properties of multiplication (order of operations/associative property), prompting students to think about the mathematical rules."
+    },
+    {
+      "ID": 1989,
+      "Speaker": "T",
+      "Turn": 1989,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 1990,
+      "Speaker": "T",
+      "Turn": 1990,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a specific question about the setup of the problem to verify the numbers being used."
+    },
+    {
+      "ID": 1992,
+      "Speaker": "T",
+      "Turn": 1992,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks if a specific method or setup would work, prompting students to evaluate the validity of the approach."
+    },
+    {
+      "ID": 1993,
+      "Speaker": "T",
+      "Turn": 1993,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the specific product of 3 x 2."
+    },
+    {
+      "ID": 1995,
+      "Speaker": "T",
+      "Turn": 1995,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the specific product of 6 x 30."
+    },
+    {
+      "ID": 1997,
+      "Speaker": "T",
+      "Turn": 1997,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 1998,
+      "Speaker": "T",
+      "Turn": 1998,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the multiplication problem '6 x 30' to focus attention on it."
+    },
+    {
+      "ID": 1999,
+      "Speaker": "T",
+      "Turn": 1999,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher simplifies the previous question to a basic fact (6 x 3) to help students solve the larger problem."
+    },
+    {
+      "ID": 2001,
+      "Speaker": "T",
+      "Turn": 2001,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 2002,
+      "Speaker": "T",
+      "Turn": 2002,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher summarizes where the class is in the problem-solving process to ensure everyone is following along."
+    },
+    {
+      "ID": 2003,
+      "Speaker": "T",
+      "Turn": 2003,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher explicitly states the next step in the activity, orienting the whole class to the new task."
+    },
+    {
+      "ID": 2004,
+      "Speaker": "T",
+      "Turn": 2004,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a specific student to provide a mathematical model (equation) for the problem."
+    },
+    {
+      "ID": 2006,
+      "Speaker": "T",
+      "Turn": 2006,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to explain the logic behind their choice of numbers ('why you did 33 x 2')."
+    },
+    {
+      "ID": 2008,
+      "Speaker": "T",
+      "Turn": 2008,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 2009,
+      "Speaker": "T",
+      "Turn": 2009,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 2010,
+      "Speaker": "T",
+      "Turn": 2010,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the specific result of the calculation 33 x 2."
+    },
+    {
+      "ID": 2012,
+      "Speaker": "T",
+      "Turn": 2012,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 2014,
+      "Speaker": "T",
+      "Turn": 2014,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher clarifies or rephrases the context of the numbers ('these are six tap dancers') likely based on student input or work."
+    }
+  ]
+}

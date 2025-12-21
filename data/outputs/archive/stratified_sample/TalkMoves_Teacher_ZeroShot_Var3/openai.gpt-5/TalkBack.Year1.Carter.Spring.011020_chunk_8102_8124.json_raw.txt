@@ -1,0 +1,109 @@
+{
+  "records": [
+    {
+      "ID": 8102,
+      "Speaker": "T",
+      "Turn": 33,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8103,
+      "Speaker": "T",
+      "Turn": 35,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher paraphrases the student's idea about the dog's size and seeks confirmation."
+    },
+    {
+      "ID": 8105,
+      "Speaker": "T",
+      "Turn": 37,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8106,
+      "Speaker": "T",
+      "Turn": 37,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher asks students to connect her experience with the student's (having pets want to sleep with them)."
+    },
+    {
+      "ID": 8108,
+      "Speaker": "T",
+      "Turn": 39,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8110,
+      "Speaker": "T",
+      "Turn": 41,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to supply the precise mathematical term describing the common denominator."
+    },
+    {
+      "ID": 8113,
+      "Speaker": "T",
+      "Turn": 44,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for another mathematical word (synonym), prompting precise language."
+    },
+    {
+      "ID": 8116,
+      "Speaker": "T",
+      "Turn": 47,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats students’ contributions ('same', 'equivalent') and combines them."
+    },
+    {
+      "ID": 8117,
+      "Speaker": "T",
+      "Turn": 47,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks whether a common denominator is required, eliciting a mathematical assertion."
+    },
+    {
+      "ID": 8118,
+      "Speaker": "T",
+      "Turn": 47,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8119,
+      "Speaker": "T",
+      "Turn": 47,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8120,
+      "Speaker": "T",
+      "Turn": 47,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8121,
+      "Speaker": "T",
+      "Turn": 47,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8122,
+      "Speaker": "T",
+      "Turn": 47,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8123,
+      "Speaker": "T",
+      "Turn": 47,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher directs the class to read together, coordinating collective participation."
+    }
+  ]
+}

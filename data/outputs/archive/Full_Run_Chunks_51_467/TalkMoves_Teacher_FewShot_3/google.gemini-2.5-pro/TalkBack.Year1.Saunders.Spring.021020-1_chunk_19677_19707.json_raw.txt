@@ -1,0 +1,188 @@
+{
+  "records": [
+    {
+      "ID": 19677,
+      "Turn": 51,
+      "Speaker": "T",
+      "Sentence": "One two three turning points",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19679,
+      "Turn": 53,
+      "Speaker": "T",
+      "Sentence": "Or local min and max this would be a local minimum and I have another local minimum",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19680,
+      "Turn": 53,
+      "Speaker": "T",
+      "Sentence": "In this location I have a minimum and in this location Ive got a minimum as well so we use that term local minimum then over here we have one two three four five",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19682,
+      "Turn": 55,
+      "Speaker": "T",
+      "Sentence": "Quintic 51 one two three four turning points and the reason it says at most was because remember something like this could actually look like that",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's term \"Quintic\" and adds on mathematical details about the number of turning points to elaborate on the student's contribution."
+    },
+    {
+      "ID": 19684,
+      "Turn": 57,
+      "Speaker": "T",
+      "Sentence": "And still be Quintic",
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's phrase \"still be Quintic\" almost verbatim."
+    },
+    {
+      "ID": 19686,
+      "Turn": 59,
+      "Speaker": "T",
+      "Sentence": "It could",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19687,
+      "Turn": 59,
+      "Speaker": "T",
+      "Sentence": "Yes and you have the right idea that its got to be an odd number because its going in different directions",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher validates the student's thinking and then rephrases and clarifies the mathematical concept the student was alluding to (odd degree polynomials having ends in different directions)."
+    },
+    {
+      "ID": 19689,
+      "Turn": 61,
+      "Speaker": "T",
+      "Sentence": "Thats why you could have any degree",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19690,
+      "Turn": 61,
+      "Speaker": "T",
+      "Sentence": "Thats the first part of these turning points of polynomial equations",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19691,
+      "Turn": 61,
+      "Speaker": "T",
+      "Sentence": "Brad could you read number two for us",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19693,
+      "Turn": 63,
+      "Speaker": "T",
+      "Sentence": "Okay so were talking about zeros",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19694,
+      "Turn": 63,
+      "Speaker": "T",
+      "Sentence": "Zeros means",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to provide the mathematical definition of \"zeros.\""
+    },
+    {
+      "ID": 19696,
+      "Turn": 65,
+      "Speaker": "T",
+      "Sentence": "X intercepts",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's answer \"X-intercept\" but modifies it to the plural \"X-intercepts\" to fit the context of the graph."
+    },
+    {
+      "ID": 19697,
+      "Turn": 65,
+      "Speaker": "T",
+      "Sentence": "I have one two three Xintercepts",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19698,
+      "Turn": 65,
+      "Speaker": "T",
+      "Sentence": "I have three minus one or two turning points",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19699,
+      "Turn": 65,
+      "Speaker": "T",
+      "Sentence": "So up here we were looking at the degree of the polynomial",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19700,
+      "Turn": 65,
+      "Speaker": "T",
+      "Sentence": "Here Im looking at the Xintercepts the zeros the roots the solution kind of thing and so I see one two three four Xintercepts and I have one two three one less",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19701,
+      "Turn": 65,
+      "Speaker": "T",
+      "Sentence": "One two three four five Xintercepts",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19702,
+      "Turn": 65,
+      "Speaker": "T",
+      "Sentence": "How many turning points we have for",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks students to apply a rule and state the correct number of turning points, pressing them for a specific mathematical contribution."
+    },
+    {
+      "ID": 19704,
+      "Turn": 67,
+      "Speaker": "T",
+      "Sentence": "It also depends though where this polynomial function is",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19705,
+      "Turn": 67,
+      "Speaker": "T",
+      "Sentence": "It could be that actually all my turns are up here and I only have one and thats why you see the word exactly for this particular one cause weve counted the number of Xintercept versus at most that particular number of turning points",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19706,
+      "Turn": 67,
+      "Speaker": "T",
+      "Sentence": "Whats in Italics right there also becomes important",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19707,
+      "Turn": 67,
+      "Speaker": "T",
+      "Sentence": "Any questions on this",
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

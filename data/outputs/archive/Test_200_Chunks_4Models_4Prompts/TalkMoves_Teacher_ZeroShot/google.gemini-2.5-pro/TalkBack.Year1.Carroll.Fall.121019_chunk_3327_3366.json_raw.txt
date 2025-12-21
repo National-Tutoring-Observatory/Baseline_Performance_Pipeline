@@ -1,0 +1,176 @@
+{
+  "records": [
+    {
+      "ID": 3327,
+      "Turn": 103,
+      "Speaker": "T",
+      "Sentence": "Yes thats your ones and then 16100",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3328,
+      "Turn": 103,
+      "Speaker": "T",
+      "Sentence": "You want to go to the hundredths place so youre",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3330,
+      "Turn": 105,
+      "Speaker": "T",
+      "Sentence": "No",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3333,
+      "Turn": 107,
+      "Speaker": "T",
+      "Sentence": "You only have one digit",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher states a mathematical rule to correct the student's representation."
+    },
+    {
+      "ID": 3334,
+      "Turn": 107,
+      "Speaker": "T",
+      "Sentence": "No you only have one digit per place",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher states a mathematical rule about place value to correct the student's error."
+    },
+    {
+      "ID": 3336,
+      "Turn": 109,
+      "Speaker": "T",
+      "Sentence": "You went all the way to the thousands",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher points out the student's specific mathematical error regarding place value."
+    },
+    {
+      "ID": 3339,
+      "Turn": 111,
+      "Speaker": "T",
+      "Sentence": "nan",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3340,
+      "Turn": 111,
+      "Speaker": "T",
+      "Sentence": "Whatever the last thing is thats where you go",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3341,
+      "Turn": 111,
+      "Speaker": "T",
+      "Sentence": "Shh",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3342,
+      "Turn": 111,
+      "Speaker": "T",
+      "Sentence": "Hey I need my hexagons not to be talking",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3345,
+      "Turn": 113,
+      "Speaker": "T",
+      "Sentence": "It should look 516",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3346,
+      "Turn": 113,
+      "Speaker": "T",
+      "Sentence": "Youre into the thousands",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher identifies the student's specific mathematical error regarding place value."
+    },
+    {
+      "ID": 3347,
+      "Turn": 113,
+      "Speaker": "T",
+      "Sentence": "We have 516",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3348,
+      "Turn": 113,
+      "Speaker": "T",
+      "Sentence": "We start with the hundredths",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3349,
+      "Turn": 113,
+      "Speaker": "T",
+      "Sentence": "516 we stop at the hundredths because it said five and 16100",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3350,
+      "Turn": 113,
+      "Speaker": "T",
+      "Sentence": "Whatever your last name is hundredths thats the last place you put a digit",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3352,
+      "Turn": 115,
+      "Speaker": "T",
+      "Sentence": "Thats where your Okay heres the next one",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3354,
+      "Turn": 117,
+      "Speaker": "T",
+      "Sentence": "Whats the value of the six",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to provide a specific mathematical value."
+    },
+    {
+      "ID": 3356,
+      "Turn": 119,
+      "Speaker": "T",
+      "Sentence": "6100 and that one",
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's contribution ('6100') word for word."
+    },
+    {
+      "ID": 3357,
+      "Turn": 119,
+      "Speaker": "T",
+      "Sentence": "The next one 810",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3358,
+      "Turn": 119,
+      "Speaker": "T",
+      "Sentence": "Write 810",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3361,
+      "Turn": 122,
+      "Speaker": "T",
+      "Sentence": "Okay thats a whole number",
+      "TalkMove":

@@ -1,0 +1,356 @@
+{
+  "records": [
+    {
+      "ID": 27672,
+      "Turn": 68,
+      "Speaker": "T",
+      "Sentence": "You got it",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 27673,
+      "Turn": 68,
+      "Speaker": "T",
+      "Sentence": "Please check your own whiteboard right now",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher directs all students to engage in the same activity of checking their work, ensuring the group stays on task together."
+    },
+    {
+      "ID": 27674,
+      "Turn": 68,
+      "Speaker": "T",
+      "Sentence": "Is this your new quotient",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher asks a question to the whole class to ensure they are all checking their work and have the correct answer."
+    },
+    {
+      "ID": 27676,
+      "Turn": 70,
+      "Speaker": "T",
+      "Sentence": "Were checking our own whiteboards right now",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher reminds the class of the current task, ensuring everyone is focused on checking their whiteboards."
+    },
+    {
+      "ID": 27677,
+      "Turn": 70,
+      "Speaker": "T",
+      "Sentence": "Heres your next problem",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 27678,
+      "Turn": 70,
+      "Speaker": "T",
+      "Sentence": "31102",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 27679,
+      "Turn": 70,
+      "Speaker": "T",
+      "Sentence": "Think to yourself",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 27680,
+      "Turn": 70,
+      "Speaker": "T",
+      "Sentence": "Will my decimal",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students for a specific mathematical detail (the direction the decimal will move)."
+    },
+    {
+      "ID": 27681,
+      "Turn": 71,
+      "Speaker": "T",
+      "Sentence": "be moving to the right or the left which way friends",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students for a specific mathematical detail (the direction the decimal will move)."
+    },
+    {
+      "ID": 27683,
+      "Turn": 72,
+      "Speaker": "T",
+      "Sentence": "Right",
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's one-word answer verbatim."
+    },
+    {
+      "ID": 27684,
+      "Turn": 72,
+      "Speaker": "T",
+      "Sentence": "How many place values",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students for a specific numerical value related to the mathematical procedure."
+    },
+    {
+      "ID": 27686,
+      "Turn": 74,
+      "Speaker": "T",
+      "Sentence": "Please check your board right now the answer is 310",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher directs all students to check their work against the correct answer, ensuring the whole class is on the same page."
+    },
+    {
+      "ID": 27687,
+      "Turn": 74,
+      "Speaker": "T",
+      "Sentence": "Your new product",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 27688,
+      "Turn": 74,
+      "Speaker": "T",
+      "Sentence": "15103",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 27689,
+      "Turn": 75,
+      "Speaker": "T",
+      "Sentence": "Check your own board please",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher instructs the entire class to check their individual work, maintaining a shared focus."
+    },
+    {
+      "ID": 27690,
+      "Turn": 75,
+      "Speaker": "T",
+      "Sentence": "Answer is 15000",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 27691,
+      "Turn": 75,
+      "Speaker": "T",
+      "Sentence": "Well just do a couple more to get our brains warmed up and ready for today",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 27692,
+      "Turn": 75,
+      "Speaker": "T",
+      "Sentence": "373 102",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 27693,
+      "Turn": 75,
+      "Speaker": "T",
+      "Sentence": "I wonder if weve already seen this problem today",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 27694,
+      "Turn": 75,
+      "Speaker": "T",
+      "Sentence": "Thats right got it",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 27695,
+      "Turn": 75,
+      "Speaker": "T",
+      "Sentence": "373102",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 27696,
+      "Turn": 75,
+      "Speaker": "T",
+      "Sentence": "May I show you a little strategy",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 27697,
+      "Turn": 75,
+      "Speaker": "T",
+      "Sentence": "Ms James probably shows you amazing strategies too",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 27698,
+      "Turn": 75,
+      "Speaker": "T",
+      "Sentence": "My friends are we going to be moving the decimal",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students for a specific mathematical detail (the direction of the decimal shift)."
+    },
+    {
+      "ID": 27699,
+      "Turn": 75,
+      "Speaker": "T",
+      "Sentence": "Are we shifting it to the left or to the right",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students for a specific mathematical detail (the direction of the decimal shift)."
+    },
+    {
+      "ID": 27701,
+      "Turn": 77,
+      "Speaker": "T",
+      "Sentence": "To the left",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's idea ('Left') but adds words ('To the left') to make it a more complete phrase."
+    },
+    {
+      "ID": 27702,
+      "Turn": 77,
+      "Speaker": "T",
+      "Sentence": "Im just gonna write that down because division means shift to the left were making our quotient smaller",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 27703,
+      "Turn": 77,
+      "Speaker": "T",
+      "Sentence": "How many places do I shift the decimal",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students for a specific numerical value needed for the mathematical procedure."
+    },
+    {
+      "ID": 27704,
+      "Turn": 77,
+      "Speaker": "T",
+      "Sentence": "Say it",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher encourages a choral response from the whole class to ensure everyone is participating."
+    },
+    {
+      "ID": 27706,
+      "Turn": 79,
+      "Speaker": "T",
+      "Sentence": "Have you tried the hops",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 27707,
+      "Turn": 79,
+      "Speaker": "T",
+      "Sentence": "This helps me one two",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 27708,
+      "Turn": 79,
+      "Speaker": "T",
+      "Sentence": "Thats where I know that I needed to shift it two places",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 27709,
+      "Turn": 79,
+      "Speaker": "T",
+      "Sentence": "Have you guys used the hops before",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 27710,
+      "Turn": 79,
+      "Speaker": "T",
+      "Sentence": "It helps me so much",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 27711,
+      "Turn": 79,
+      "Speaker": "T",
+      "Sentence": "What is our new answer",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks students to provide the final, correct answer to the problem."
+    },
+    {
+      "ID": 27712,
+      "Turn": 79,
+      "Speaker": "T",
+      "Sentence": "Lets read it together",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher instructs the class to read the answer together, ensuring shared participation."
+    },
+    {
+      "ID": 27713,
+      "Turn": 79,
+      "Speaker": "T",
+      "Sentence": "Ready",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 27714,
+      "Turn": 79,
+      "Speaker": "T",
+      "Sentence": "Go",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 27716,
+      "Turn": 81,
+      "Speaker": "T",
+      "Sentence": "You guys are amazing",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 27717,
+      "Turn": 81,
+      "Speaker": "T",
+      "Sentence": "Im going to give you two this time",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 27718,
+      "Turn": 81,
+      "Speaker": "T",
+      "Sentence": "Ready",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 27719,
+      "Turn": 81,
+      "Speaker": "T",
+      "Sentence": "One and two",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 27720,
+      "Turn": 81,
+      "Speaker": "T",
+      "Sentence": "I like using the hops",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 27721,
+      "Turn": 81,
+      "Speaker": "T",
+      "Sentence": "Its helpful to me",
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

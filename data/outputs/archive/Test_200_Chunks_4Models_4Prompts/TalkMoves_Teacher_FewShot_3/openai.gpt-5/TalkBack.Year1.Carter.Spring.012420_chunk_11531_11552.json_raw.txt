@@ -1,0 +1,123 @@
+{
+  "records": [
+    {
+      "ID": 11531,
+      "Turn": 173,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Requests a specific mathematical amount (how many eighths) to match 1/4."
+    },
+    {
+      "ID": 11533,
+      "Turn": 175,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "Restates the student’s answer as “two eighths is equivalent to one fourth,” adding mathematical language."
+    },
+    {
+      "ID": 11534,
+      "Turn": 175,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Asks how to prove the claim, prompting justification."
+    },
+    {
+      "ID": 11536,
+      "Turn": 177,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Requests a drawing as evidence to support the claim."
+    },
+    {
+      "ID": 11537,
+      "Turn": 177,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Prompts the student to explain their thinking."
+    },
+    {
+      "ID": 11539,
+      "Turn": 179,
+      "Speaker": "T",
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "Invites classmates to react to the presented idea."
+    },
+    {
+      "ID": 11540,
+      "Turn": 179,
+      "Speaker": "T",
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "Asks peers if they agree, prompting response to a classmate’s contribution."
+    },
+    {
+      "ID": 11542,
+      "Turn": 181,
+      "Speaker": "T",
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 11543,
+      "Turn": 181,
+      "Speaker": "T",
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 11544,
+      "Turn": 181,
+      "Speaker": "T",
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "Asks for student opinions about a peer’s contribution."
+    },
+    {
+      "ID": 11545,
+      "Turn": 181,
+      "Speaker": "T",
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "Prompts students to evaluate a classmate’s drawing."
+    },
+    {
+      "ID": 11546,
+      "Turn": 181,
+      "Speaker": "T",
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "Prompts students to evaluate a classmate’s explanation."
+    },
+    {
+      "ID": 11547,
+      "Turn": 181,
+      "Speaker": "T",
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 11548,
+      "Turn": 181,
+      "Speaker": "T",
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 11549,
+      "Turn": 182,
+      "Speaker": "T",
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 11550,
+      "Turn": 182,
+      "Speaker": "T",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Directs the class to a shared representation to support collective understanding."
+    },
+    {
+      "ID": 11551,
+      "Turn": 182,
+      "Speaker": "T",
+      "TalkMove": "None",
+      "Reasoning": null
+    }
+  ]
+}

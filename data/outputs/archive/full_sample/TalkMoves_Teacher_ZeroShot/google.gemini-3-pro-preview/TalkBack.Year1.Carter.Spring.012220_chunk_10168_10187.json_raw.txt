@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 10168,
+      "Speaker": "T",
+      "Turn": 10168,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher summarizes the student's process ('You divided this into three groups...') but adds clarification about finding 1/3 first and then having two of them."
+    },
+    {
+      "ID": 10169,
+      "Speaker": "T",
+      "Turn": 10169,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher continues to rephrase the student's logic, connecting the groups to the fraction 2/3 and the multiplication ('two times two is four')."
+    },
+    {
+      "ID": 10170,
+      "Speaker": "T",
+      "Turn": 10170,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10171,
+      "Speaker": "T",
+      "Turn": 10171,
+      "TalkMove": null,
+      "Reasoning": "This is a statement of fact/instruction setting up the next step, not a move eliciting student thinking."
+    },
+    {
+      "ID": 10172,
+      "Speaker": "T",
+      "Turn": 10172,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10173,
+      "Speaker": "T",
+      "Turn": 10173,
+      "TalkMove": null,
+      "Reasoning": "Teacher is counting out loud."
+    },
+    {
+      "ID": 10174,
+      "Speaker": "T",
+      "Turn": 10174,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a specific calculation question ('How many more do I need') to prompt a precise answer."
+    },
+    {
+      "ID": 10175,
+      "Speaker": "T",
+      "Turn": 10175,
+      "TalkMove": null,
+      "Reasoning": "Teacher answers their own question."
+    },
+    {
+      "ID": 10176,
+      "Speaker": "T",
+      "Turn": 10176,
+      "TalkMove": null,
+      "Reasoning": "Teacher is explaining/demonstrating."
+    },
+    {
+      "ID": 10177,
+      "Speaker": "T",
+      "Turn": 10177,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher checks for understanding ('Do you see that') to ensure the student is following the explanation."
+    },
+    {
+      "ID": 10178,
+      "Speaker": "T",
+      "Turn": 10178,
+      "TalkMove": null,
+      "Reasoning": "Teacher is counting."
+    },
+    {
+      "ID": 10179,
+      "Speaker": "T",
+      "Turn": 10179,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for a specific calculation ('Whats 1/3 of this')."
+    },
+    {
+      "ID": 10180,
+      "Speaker": "T",
+      "Turn": 10180,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to recall the definition of finding a third ('How many groups do we make that into')."
+    },
+    {
+      "ID": 10181,
+      "Speaker": "T",
+      "Turn": 10181,
+      "TalkMove": null,
+      "Reasoning": "Evaluative comment."
+    },
+    {
+      "ID": 10182,
+      "Speaker": "T",
+      "Turn": 10182,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's answer ('Three groups') to confirm it."
+    },
+    {
+      "ID": 10183,
+      "Speaker": "T",
+      "Turn": 10183,
+      "TalkMove": null,
+      "Reasoning": "Teacher is explaining."
+    },
+    {
+      "ID": 10184,
+      "Speaker": "T",
+      "Turn": 10184,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher describes what the student just did ('You just divided it into half') to clarify the action."
+    },
+    {
+      "ID": 10185,
+      "Speaker": "T",
+      "Turn": 10185,
+      "TalkMove": null,
+      "Reasoning": "Teacher is explaining."
+    },
+    {
+      "ID": 10186,
+      "Speaker": "T",
+      "Turn": 10186,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a calculation question ('1/3 plus 1/3 is how many thirds')."
+    },
+    {
+      "ID": 10187,
+      "Speaker": "T",
+      "Turn": 10187,
+      "TalkMove": null,
+      "Reasoning": "Teacher answers their own question."
+    }
+  ]
+}

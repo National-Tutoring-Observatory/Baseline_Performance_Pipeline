@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 2180,
+      "Speaker": "T",
+      "Turn": 2180,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2181,
+      "Speaker": "T",
+      "Turn": 2181,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks for the exact product of 66 × 8, prompting students to supply the correct numerical answer."
+    },
+    {
+      "ID": 2183,
+      "Speaker": "T",
+      "Turn": 2183,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher presses students to provide the precise value (‘How much?’) after requesting the multiplication."
+    },
+    {
+      "ID": 2185,
+      "Speaker": "T",
+      "Turn": 2185,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2186,
+      "Speaker": "T",
+      "Turn": 2186,
+      "TalkMove": "Restating",
+      "Reasoning": "Teacher repeats the student’s answer ‘528’ word-for-word so the whole class hears it."
+    },
+    {
+      "ID": 2187,
+      "Speaker": "T",
+      "Turn": 2187,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2188,
+      "Speaker": "T",
+      "Turn": 2188,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2189,
+      "Speaker": "T",
+      "Turn": 2189,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher asks students what they will start with, prompting them to articulate their plan or strategy."
+    },
+    {
+      "ID": 2190,
+      "Speaker": "T",
+      "Turn": 2190,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher requests an explanation of the steps needed to find the answer."
+    },
+    {
+      "ID": 2191,
+      "Speaker": "T",
+      "Turn": 2191,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2192,
+      "Speaker": "T",
+      "Turn": 2192,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Again asks how to determine the total difference, eliciting students’ reasoning about the procedure."
+    },
+    {
+      "ID": 2194,
+      "Speaker": "T",
+      "Turn": 2194,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher prompts students to state what value should be used first, seeking their justification."
+    },
+    {
+      "ID": 2196,
+      "Speaker": "T",
+      "Turn": 2196,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2198,
+      "Speaker": "T",
+      "Turn": 2198,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2199,
+      "Speaker": "T",
+      "Turn": 2199,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2201,
+      "Speaker": "T",
+      "Turn": 2201,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher seeks the exact numerical difference (‘How much more will it cost?’)."
+    },
+    {
+      "ID": 2202,
+      "Speaker": "T",
+      "Turn": 2202,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2204,
+      "Speaker": "T",
+      "Turn": 2204,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2206,
+      "Speaker": "T",
+      "Turn": 2206,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2208,
+      "Speaker": "T",
+      "Turn": 2208,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher repeats the student’s answer (‘326’) while elaborating that it is the additional cost for hiring tumblers, thereby rephrasing and extending the student’s idea."
+    }
+  ]
+}

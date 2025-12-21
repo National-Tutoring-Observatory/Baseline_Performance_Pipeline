@@ -1,0 +1,68 @@
+{
+  "records": [
+    {
+      "ID": 4099,
+      "Turn": 140,
+      "Speaker": "T",
+      "TalkMove": "None"
+    },
+    {
+      "ID": 4100,
+      "Turn": 140,
+      "Speaker": "T",
+      "TalkMove": "None"
+    },
+    {
+      "ID": 4101,
+      "Turn": 140,
+      "Speaker": "T",
+      "TalkMove": "None"
+    },
+    {
+      "ID": 4103,
+      "Turn": 142,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks which way the inequality (alligator mouth) should face, prompting a specific mathematical determination."
+    },
+    {
+      "ID": 4105,
+      "Turn": 144,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher restates the student's 'one' as 'one and two tenths,' adding precision to the student's contribution."
+    },
+    {
+      "ID": 4106,
+      "Turn": 144,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks 'How do you know?' to elicit the student's explanation."
+    },
+    {
+      "ID": 4107,
+      "Turn": 144,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "By proposing 'Because there's a whole number, right?' the teacher prompts students to confirm and articulate the justification."
+    },
+    {
+      "ID": 4110,
+      "Turn": 147,
+      "Speaker": "T",
+      "TalkMove": "None"
+    },
+    {
+      "ID": 4111,
+      "Turn": 147,
+      "Speaker": "T",
+      "TalkMove": "None"
+    },
+    {
+      "ID": 4115,
+      "Turn": 151,
+      "Speaker": "T",
+      "TalkMove": "None"
+    }
+  ]
+}

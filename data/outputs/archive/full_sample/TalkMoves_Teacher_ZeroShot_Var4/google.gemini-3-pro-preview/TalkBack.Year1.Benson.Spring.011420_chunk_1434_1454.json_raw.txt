@@ -1,0 +1,116 @@
+{
+  "records": [
+    {
+      "ID": 1434,
+      "Speaker": "T",
+      "Turn": 1434,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to explain their process for solving the problem."
+    },
+    {
+      "ID": 1435,
+      "Speaker": "T",
+      "Turn": 1435,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts the student to elaborate on their method, specifically asking if they used a different approach."
+    },
+    {
+      "ID": 1437,
+      "Speaker": "T",
+      "Turn": 1437,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's action ('drew a number line') but phrases it as a statement to verify or clarify what was done."
+    },
+    {
+      "ID": 1439,
+      "Speaker": "T",
+      "Turn": 1439,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1440,
+      "Speaker": "T",
+      "Turn": 1440,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1441,
+      "Speaker": "T",
+      "Turn": 1441,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to explain the steps they took to arrive at the answer ('figure out how far Ally ran')."
+    },
+    {
+      "ID": 1443,
+      "Speaker": "T",
+      "Turn": 1443,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases the student's method, summarizing that they used a number model instead of a picture."
+    },
+    {
+      "ID": 1444,
+      "Speaker": "T",
+      "Turn": 1444,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher addresses the whole class to check for alternative strategies ('Did anyone else draw a picture'), keeping the group focused on the methods used."
+    },
+    {
+      "ID": 1445,
+      "Speaker": "T",
+      "Turn": 1445,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to consider specific mathematical representations (squares or circles cut into tenths), checking for specific modeling strategies."
+    },
+    {
+      "ID": 1446,
+      "Speaker": "T",
+      "Turn": 1446,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1447,
+      "Speaker": "T",
+      "Turn": 1447,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1448,
+      "Speaker": "T",
+      "Turn": 1448,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1449,
+      "Speaker": "T",
+      "Turn": 1449,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1451,
+      "Speaker": "T",
+      "Turn": 1451,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1452,
+      "Speaker": "T",
+      "Turn": 1452,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1454,
+      "Speaker": "T",
+      "Turn": 1454,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

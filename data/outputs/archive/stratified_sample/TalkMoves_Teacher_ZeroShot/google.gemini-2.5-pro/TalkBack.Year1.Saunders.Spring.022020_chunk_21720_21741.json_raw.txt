@@ -1,0 +1,109 @@
+{
+  "records": [
+    {
+      "ID": 21721,
+      "Speaker": "T",
+      "Turn": 25,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's contribution ('minus one') and then adds on to it to move the problem forward ('so we end up with x equals')."
+    },
+    {
+      "ID": 21724,
+      "Speaker": "T",
+      "Turn": 28,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's answer ('Three') and then rephrases it in the context of the problem ('so weve got that as our answer then')."
+    },
+    {
+      "ID": 21725,
+      "Speaker": "T",
+      "Turn": 28,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts a student to provide the next mathematical step in the procedure."
+    },
+    {
+      "ID": 21727,
+      "Speaker": "T",
+      "Turn": 30,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases the student's statement 'Youre done' as 'Were good', changing the wording and framing it as a collective state."
+    },
+    {
+      "ID": 21730,
+      "Speaker": "T",
+      "Turn": 33,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's word 'No' verbatim."
+    },
+    {
+      "ID": 21731,
+      "Speaker": "T",
+      "Turn": 33,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21733,
+      "Speaker": "T",
+      "Turn": 35,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases the student's description of substituting a value back into the equation as 'check our answer'."
+    },
+    {
+      "ID": 21734,
+      "Speaker": "T",
+      "Turn": 35,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher continues to rephrase and elaborate on the student's idea of substitution by explaining the purpose of the action ('basically asking the question does it hold true')."
+    },
+    {
+      "ID": 21735,
+      "Speaker": "T",
+      "Turn": 35,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21736,
+      "Speaker": "T",
+      "Turn": 35,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21737,
+      "Speaker": "T",
+      "Turn": 35,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21738,
+      "Speaker": "T",
+      "Turn": 35,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21739,
+      "Speaker": "T",
+      "Turn": 35,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts a student to provide the first mathematical step for a new problem."
+    },
+    {
+      "ID": 21740,
+      "Speaker": "T",
+      "Turn": 35,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21741,
+      "Speaker": "T",
+      "Turn": 35,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher asks a student to recall a step in the process, which serves to check if the student is following along with the collective work."
+    }
+  ]
+}

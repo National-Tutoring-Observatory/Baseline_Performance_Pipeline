@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 1500,
+      "Speaker": "T",
+      "Turn": 1500,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a specific question about place value placement ('Where would I put onetenth'), prompting students for a precise mathematical answer."
+    },
+    {
+      "ID": 1501,
+      "Speaker": "T",
+      "Turn": 1501,
+      "TalkMove": null,
+      "Reasoning": "This appears to be the teacher thinking aloud or clarifying their own previous statement rather than eliciting a student response."
+    },
+    {
+      "ID": 1502,
+      "Speaker": "T",
+      "Turn": 1502,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher begins a question about placement ('Where do I put the'), prompting for a specific mathematical location/answer."
+    },
+    {
+      "ID": 1503,
+      "Speaker": "T",
+      "Turn": 1503,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a specific procedural question about where to place a digit given a specific value ('where do I put the two'), requiring a correct mathematical response."
+    },
+    {
+      "ID": 1504,
+      "Speaker": "T",
+      "Turn": 1504,
+      "TalkMove": null,
+      "Reasoning": "This is an evaluative comment/observation about student work strategies, not a move to elicit talk."
+    },
+    {
+      "ID": 1505,
+      "Speaker": "T",
+      "Turn": 1505,
+      "TalkMove": null,
+      "Reasoning": "Administrative/time management direction."
+    },
+    {
+      "ID": 1506,
+      "Speaker": "T",
+      "Turn": 1506,
+      "TalkMove": null,
+      "Reasoning": "Administrative/time management direction."
+    },
+    {
+      "ID": 1507,
+      "Speaker": "T",
+      "Turn": 1507,
+      "TalkMove": null,
+      "Reasoning": "Transition marker."
+    },
+    {
+      "ID": 1508,
+      "Speaker": "T",
+      "Turn": 1508,
+      "TalkMove": null,
+      "Reasoning": "Administrative direction."
+    },
+    {
+      "ID": 1509,
+      "Speaker": "T",
+      "Turn": 1509,
+      "TalkMove": null,
+      "Reasoning": "Administrative direction."
+    },
+    {
+      "ID": 1510,
+      "Speaker": "T",
+      "Turn": 1510,
+      "TalkMove": null,
+      "Reasoning": "Transition marker."
+    },
+    {
+      "ID": 1511,
+      "Speaker": "T",
+      "Turn": 1511,
+      "TalkMove": null,
+      "Reasoning": "This is a survey question about tool usage rather than a prompt for mathematical reasoning or accuracy."
+    },
+    {
+      "ID": 1512,
+      "Speaker": "T",
+      "Turn": 1512,
+      "TalkMove": null,
+      "Reasoning": "This is a management question checking who completed a task."
+    },
+    {
+      "ID": 1513,
+      "Speaker": "T",
+      "Turn": 1513,
+      "TalkMove": null,
+      "Reasoning": "The teacher is stating the problem or value to be discussed, not yet eliciting a response."
+    },
+    {
+      "ID": 1514,
+      "Speaker": "T",
+      "Turn": 1514,
+      "TalkMove": null,
+      "Reasoning": "Calling on a student."
+    },
+    {
+      "ID": 1515,
+      "Speaker": "T",
+      "Turn": 1515,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher explicitly asks the student to provide the correct decimal representation ('Tell me what I should have as my decimal')."
+    },
+    {
+      "ID": 1517,
+      "Speaker": "T",
+      "Turn": 1517,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats and slightly expands on the student's (implied) answer to clarify the starting point ('You start with zero whole ones')."
+    },
+    {
+      "ID": 1519,
+      "Speaker": "T",
+      "Turn": 1519,
+      "TalkMove": null,
+      "Reasoning": "Teacher is explaining/demonstrating, not eliciting student talk."
+    },
+    {
+      "ID": 1520,
+      "Speaker": "T",
+      "Turn": 1520,
+      "TalkMove": null,
+      "Reasoning": "Teacher is explaining/demonstrating equivalence."
+    },
+    {
+      "ID": 1521,
+      "Speaker": "T",
+      "Turn": 1521,
+      "TalkMove": null,
+      "Reasoning": "Transition marker."
+    }
+  ]
+}

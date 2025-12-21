@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 22262,
+      "Speaker": "T",
+      "Turn": 22262,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22263,
+      "Speaker": "T",
+      "Turn": 22263,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22264,
+      "Speaker": "T",
+      "Turn": 22264,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22265,
+      "Speaker": "T",
+      "Turn": 22265,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks Brittany to state the next mathematical step, seeking the correct procedure."
+    },
+    {
+      "ID": 22267,
+      "Speaker": "T",
+      "Turn": 22267,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22269,
+      "Speaker": "T",
+      "Turn": 22269,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks what operation should be applied to both sides, prompting a precise mathematical action."
+    },
+    {
+      "ID": 22271,
+      "Speaker": "T",
+      "Turn": 22271,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22272,
+      "Speaker": "T",
+      "Turn": 22272,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher solicits the exact value of 4 squared."
+    },
+    {
+      "ID": 22274,
+      "Speaker": "T",
+      "Turn": 22274,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22275,
+      "Speaker": "T",
+      "Turn": 22275,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22277,
+      "Speaker": "T",
+      "Turn": 22277,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22279,
+      "Speaker": "T",
+      "Turn": 22279,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher asks why the inequality symbol might switch, requesting an explanation."
+    },
+    {
+      "ID": 22280,
+      "Speaker": "T",
+      "Turn": 22280,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher probes how the original problem could be altered to cause the switch, seeking underlying reasoning."
+    },
+    {
+      "ID": 22282,
+      "Speaker": "T",
+      "Turn": 22282,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher restates the student’s idea about dividing by a negative and clarifies the consequence."
+    },
+    {
+      "ID": 22283,
+      "Speaker": "T",
+      "Turn": 22283,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher paraphrases and extends the student’s contribution about multiplying/dividing by negatives flipping the inequality."
+    },
+    {
+      "ID": 22284,
+      "Speaker": "T",
+      "Turn": 22284,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22285,
+      "Speaker": "T",
+      "Turn": 22285,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher pauses for students to state the correct inequality for x."
+    },
+    {
+      "ID": 22286,
+      "Speaker": "T",
+      "Turn": 22286,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher asks students to combine conditions and evaluate if the solution is sensible."
+    },
+    {
+      "ID": 22287,
+      "Speaker": "T",
+      "Turn": 22287,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher requests the precise written form of the final answer satisfying both inequalities."
+    },
+    {
+      "ID": 22288,
+      "Speaker": "T",
+      "Turn": 22288,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks students to identify the exact numerical bounds for x."
+    }
+  ]
+}

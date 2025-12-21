@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 18018,
+      "Speaker": "T",
+      "Turn": 18018,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18020,
+      "Speaker": "T",
+      "Turn": 18020,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher explains the underlying logic of the substitution ('because my X2 here is really P3'), connecting the representation to the mathematical structure."
+    },
+    {
+      "ID": 18022,
+      "Speaker": "T",
+      "Turn": 18022,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18023,
+      "Speaker": "T",
+      "Turn": 18023,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher provides the justification for a procedural step ('because we already factored that out'), linking the action to previous work."
+    },
+    {
+      "ID": 18024,
+      "Speaker": "T",
+      "Turn": 18024,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher models the self-questioning process ('can this be factored'), prompting students to consider the next logical step in the problem-solving process."
+    },
+    {
+      "ID": 18025,
+      "Speaker": "T",
+      "Turn": 18025,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a specific mathematical question ('Can that be factored') requiring a determination of fact."
+    },
+    {
+      "ID": 18026,
+      "Speaker": "T",
+      "Turn": 18026,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher connects the current complex problem to prior knowledge ('recognize that I can factor it similarly as I did with quadratics'), encouraging students to link concepts."
+    },
+    {
+      "ID": 18027,
+      "Speaker": "T",
+      "Turn": 18027,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18029,
+      "Speaker": "T",
+      "Turn": 18029,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18030,
+      "Speaker": "T",
+      "Turn": 18030,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18031,
+      "Speaker": "T",
+      "Turn": 18031,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18032,
+      "Speaker": "T",
+      "Turn": 18032,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks students to verify their work using a specific tool ('Did you put it in the calculator and find the zeros')."
+    },
+    {
+      "ID": 18034,
+      "Speaker": "T",
+      "Turn": 18034,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher reiterates the specific procedure required ('find the X intercepts write your factor form that way')."
+    },
+    {
+      "ID": 18035,
+      "Speaker": "T",
+      "Turn": 18035,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18036,
+      "Speaker": "T",
+      "Turn": 18036,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher organizes the class for a shared activity ('hallway partners your turn to read about the factor theorem')."
+    },
+    {
+      "ID": 18037,
+      "Speaker": "T",
+      "Turn": 18037,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18038,
+      "Speaker": "T",
+      "Turn": 18038,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher directs specific students to engage in the task ('Hallway partner you go ahead and do the reading')."
+    },
+    {
+      "ID": 18039,
+      "Speaker": "T",
+      "Turn": 18039,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher orients the class toward a common goal ('Lets make sure were getting the big idea here')."
+    },
+    {
+      "ID": 18040,
+      "Speaker": "T",
+      "Turn": 18040,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher reminds students of shared prior work ('that purple sheet that you worked on') to orient them to the current concept."
+    },
+    {
+      "ID": 18041,
+      "Speaker": "T",
+      "Turn": 18041,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher explains the logical implication of the mathematical operation ('If I can divide it... and my remainder is zero then this has to be a factor')."
+    }
+  ]
+}

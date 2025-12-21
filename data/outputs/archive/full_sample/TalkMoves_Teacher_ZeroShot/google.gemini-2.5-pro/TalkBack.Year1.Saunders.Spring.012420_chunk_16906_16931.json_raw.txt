@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 16906,
+      "Speaker": "T",
+      "Turn": 16906,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16908,
+      "Speaker": "T",
+      "Turn": 16908,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16909,
+      "Speaker": "T",
+      "Turn": 16909,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16911,
+      "Speaker": "T",
+      "Turn": 16911,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16913,
+      "Speaker": "T",
+      "Turn": 16913,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16914,
+      "Speaker": "T",
+      "Turn": 16914,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16915,
+      "Speaker": "T",
+      "Turn": 16915,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16916,
+      "Speaker": "T",
+      "Turn": 16916,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to apply a known concept (line of symmetry) to the current problem, prompting them to reason about its properties."
+    },
+    {
+      "ID": 16918,
+      "Speaker": "T",
+      "Turn": 16918,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to explain the procedure ('how do I find...') for calculating the center, pressing for the thinking behind the concept."
+    },
+    {
+      "ID": 16920,
+      "Speaker": "T",
+      "Turn": 16920,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher takes a presumed student contribution about how to find the center and rephrases it using more precise mathematical language ('average the root')."
+    },
+    {
+      "ID": 16921,
+      "Speaker": "T",
+      "Turn": 16921,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16922,
+      "Speaker": "T",
+      "Turn": 16922,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16923,
+      "Speaker": "T",
+      "Turn": 16923,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher poses a hypothetical question ('what if...') to prompt students to explain an alternative method."
+    },
+    {
+      "ID": 16924,
+      "Speaker": "T",
+      "Turn": 16924,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats a student's likely answer (the formula -b/2a) but rephrases it as 'the opposite of B over 2A' to add conceptual clarity."
+    },
+    {
+      "ID": 16925,
+      "Speaker": "T",
+      "Turn": 16925,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16926,
+      "Speaker": "T",
+      "Turn": 16926,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16927,
+      "Speaker": "T",
+      "Turn": 16927,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16928,
+      "Speaker": "T",
+      "Turn": 16928,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16929,
+      "Speaker": "T",
+      "Turn": 16929,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to explain the next step in a procedure ('what do we do then...'), prompting them to share their thinking."
+    },
+    {
+      "ID": 16931,
+      "Speaker": "T",
+      "Turn": 16931,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats a student's idea but adds more specific language ('plug that X value into the equation to find out what the vertex is') to clarify the process."
+    }
+  ]
+}

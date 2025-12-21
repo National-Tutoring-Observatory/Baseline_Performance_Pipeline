@@ -1,0 +1,116 @@
+{
+  "records": [
+    {
+      "ID": 771,
+      "Speaker": "T",
+      "Turn": 185,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 772,
+      "Speaker": "T",
+      "Turn": 185,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks Josh to state exactly what problem #2 says, eliciting a specific mathematical statement."
+    },
+    {
+      "ID": 773,
+      "Speaker": "T",
+      "Turn": 186,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Requests the specific value of the whole when one–fourth is known."
+    },
+    {
+      "ID": 774,
+      "Speaker": "T",
+      "Turn": 186,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Prompts Aaron to state the exact number of fourths that compose the whole."
+    },
+    {
+      "ID": 776,
+      "Speaker": "T",
+      "Turn": 188,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher restates the student’s comment (“That numerator says one”) while adding an explanation about the denominator."
+    },
+    {
+      "ID": 778,
+      "Speaker": "T",
+      "Turn": 190,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Echoes and slightly elaborates on the student’s answer of “Four,” confirming it as “Four of them.”"
+    },
+    {
+      "ID": 779,
+      "Speaker": "T",
+      "Turn": 190,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks for the exact number of light-green pieces to take out."
+    },
+    {
+      "ID": 781,
+      "Speaker": "T",
+      "Turn": 192,
+      "TalkMove": "Restating",
+      "Reasoning": "Repeats the student’s response “Four” verbatim."
+    },
+    {
+      "ID": 782,
+      "Speaker": "T",
+      "Turn": 192,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Invites Sophie to articulate what the teacher just demonstrated, prompting her to explain her understanding."
+    },
+    {
+      "ID": 783,
+      "Speaker": "T",
+      "Turn": 192,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Asks students to specify what parts were added together, pushing them to describe the reasoning behind the construction."
+    },
+    {
+      "ID": 785,
+      "Speaker": "T",
+      "Turn": 194,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 786,
+      "Speaker": "T",
+      "Turn": 194,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Poses a question (“This is what—three-fourths?”) seeking the precise fractional value."
+    },
+    {
+      "ID": 787,
+      "Speaker": "T",
+      "Turn": 194,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks for the specific value of the next piece (“What’s this one worth?”)."
+    },
+    {
+      "ID": 789,
+      "Speaker": "T",
+      "Turn": 196,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Begins an equation (“One-fourth plus…”) prompting students to supply the exact next term."
+    },
+    {
+      "ID": 791,
+      "Speaker": "T",
+      "Turn": 198,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Asks students to assess whether the pieces now form a whole, encouraging them to reason about the completeness of the fraction."
+    },
+    {
+      "ID": 792,
+      "Speaker": "T",
+      "Turn": 198,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Requests the exact value of the completed fraction (“What does that equal?”)."
+    }
+  ]
+}

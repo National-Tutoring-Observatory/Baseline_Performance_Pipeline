@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 2438,
+      "Speaker": "T",
+      "Turn": 2438,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2456,
+      "Speaker": "T",
+      "Turn": 2456,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2457,
+      "Speaker": "T",
+      "Turn": 2457,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2464,
+      "Speaker": "T",
+      "Turn": 2464,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2465,
+      "Speaker": "T",
+      "Turn": 2465,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2468,
+      "Speaker": "T",
+      "Turn": 2468,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks why the student chose another six, prompting justification of their choice."
+    },
+    {
+      "ID": 2471,
+      "Speaker": "T",
+      "Turn": 2471,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher presses for the appropriate quantities/units (people vs. dollars) by asking what to use."
+    },
+    {
+      "ID": 2473,
+      "Speaker": "T",
+      "Turn": 2473,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2475,
+      "Speaker": "T",
+      "Turn": 2475,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher directs students to double-check their work, emphasizing mathematical correctness."
+    },
+    {
+      "ID": 2476,
+      "Speaker": "T",
+      "Turn": 2476,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2477,
+      "Speaker": "T",
+      "Turn": 2477,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2478,
+      "Speaker": "T",
+      "Turn": 2478,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2479,
+      "Speaker": "T",
+      "Turn": 2479,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2481,
+      "Speaker": "T",
+      "Turn": 2481,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher prompts a student to address and acknowledge a peer’s explanation, orienting students to each other."
+    },
+    {
+      "ID": 2483,
+      "Speaker": "T",
+      "Turn": 2483,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2484,
+      "Speaker": "T",
+      "Turn": 2484,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2485,
+      "Speaker": "T",
+      "Turn": 2485,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to explain what they did for the unknown, prompting them to share their thinking."
+    },
+    {
+      "ID": 2487,
+      "Speaker": "T",
+      "Turn": 2487,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks where the number 312 came from, prompting the student to explain the source or calculation."
+    },
+    {
+      "ID": 2489,
+      "Speaker": "T",
+      "Turn": 2489,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher requests a precise reference to the problem number."
+    },
+    {
+      "ID": 2491,
+      "Speaker": "T",
+      "Turn": 2491,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher restates the student's identification of problem 2 and adds clarification about the result, rephrasing to connect to prior work."
+    }
+  ]
+}

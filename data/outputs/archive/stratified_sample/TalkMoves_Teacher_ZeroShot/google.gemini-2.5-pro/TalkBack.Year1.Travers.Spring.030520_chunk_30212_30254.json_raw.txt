@@ -1,0 +1,324 @@
+{
+  "records": [
+    {
+      "ID": 30212,
+      "Turn": 128,
+      "Speaker": "T",
+      "Sentence": "Excuse me",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 30213,
+      "Turn": 128,
+      "Speaker": "T",
+      "Sentence": "Thank you",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 30214,
+      "Turn": 128,
+      "Speaker": "T",
+      "Sentence": "When you go to a museum we have something called a gallery walk where you really look and study whats on the wall or whats in the exhibit",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 30215,
+      "Turn": 128,
+      "Speaker": "T",
+      "Sentence": "I want you to go study how your classmates solved",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher directs students to orient to their classmates' work, promoting active observation of peers' ideas."
+    },
+    {
+      "ID": 30216,
+      "Turn": 128,
+      "Speaker": "T",
+      "Sentence": "Ms Dover may you go back to the success criteria",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 30217,
+      "Turn": 128,
+      "Speaker": "T",
+      "Sentence": "Again see how many times Im going to this",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 30218,
+      "Turn": 128,
+      "Speaker": "T",
+      "Sentence": "This is how important it is",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 30219,
+      "Turn": 128,
+      "Speaker": "T",
+      "Sentence": "Ready",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 30220,
+      "Turn": 128,
+      "Speaker": "T",
+      "Sentence": "I want you to look at the picture",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 30221,
+      "Turn": 128,
+      "Speaker": "T",
+      "Sentence": "Did a classmate make the same kind of picture or different",
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher prompts students to compare their own representation to that of a classmate."
+    },
+    {
+      "ID": 30222,
+      "Turn": 128,
+      "Speaker": "T",
+      "Sentence": "I want you to look at the number model and I want you to look at what is the answer",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 30223,
+      "Turn": 128,
+      "Speaker": "T",
+      "Sentence": "What did this person do with the remainder",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts students to analyze and explain the thinking behind a classmate's decision regarding the remainder."
+    },
+    {
+      "ID": 30224,
+      "Turn": 128,
+      "Speaker": "T",
+      "Sentence": "Then were going to come back together and see who we agreed with and which examples do we feel like met all of the success criteria",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 30225,
+      "Turn": 128,
+      "Speaker": "T",
+      "Sentence": "Okay",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 30226,
+      "Turn": 128,
+      "Speaker": "T",
+      "Sentence": "You will not be talking",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 30227,
+      "Turn": 128,
+      "Speaker": "T",
+      "Sentence": "You were going to just here in a museum",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 30228,
+      "Turn": 128,
+      "Speaker": "T",
+      "Sentence": "Look at whatT2is doing",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher explicitly directs students to orient their attention to a specific peer's actions."
+    },
+    {
+      "ID": 30229,
+      "Turn": 128,
+      "Speaker": "T",
+      "Sentence": "Youre going to walk by someones work and youre really going to study it and youre not going to say a word",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 30230,
+      "Turn": 128,
+      "Speaker": "T",
+      "Sentence": "Then youre going to walk by someone else and youre really going to study it",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 30231,
+      "Turn": 128,
+      "Speaker": "T",
+      "Sentence": "Did they meet the success criteria",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts students to evaluate a classmate's work against established criteria, which requires justification."
+    },
+    {
+      "ID": 30232,
+      "Turn": 128,
+      "Speaker": "T",
+      "Sentence": "Did you get the same answer",
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher prompts students to compare their answer with a classmate's answer."
+    },
+    {
+      "ID": 30233,
+      "Turn": 128,
+      "Speaker": "T",
+      "Sentence": "Then youre going to move on",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 30234,
+      "Turn": 128,
+      "Speaker": "T",
+      "Sentence": "There is no talking",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 30235,
+      "Turn": 128,
+      "Speaker": "T",
+      "Sentence": "Ready",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 30236,
+      "Turn": 128,
+      "Speaker": "T",
+      "Sentence": "You have one minute to gallery walk",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 30237,
+      "Turn": 128,
+      "Speaker": "T",
+      "Sentence": "Go",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 30238,
+      "Turn": 128,
+      "Speaker": "T",
+      "Sentence": "Would you please come back to the carpet",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 30239,
+      "Turn": 128,
+      "Speaker": "T",
+      "Sentence": "Do not bring anything",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 30240,
+      "Turn": 128,
+      "Speaker": "T",
+      "Sentence": "You have five seconds to come back to the carpet",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 30241,
+      "Turn": 128,
+      "Speaker": "T",
+      "Sentence": "Go",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 30243,
+      "Turn": 129,
+      "Speaker": "T",
+      "Sentence": "to me because in math revising our thinking is how we learn and get better",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 30244,
+      "Turn": 129,
+      "Speaker": "T",
+      "Sentence": "Theres no such thing as a bad answer in math",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 30245,
+      "Turn": 129,
+      "Speaker": "T",
+      "Sentence": "Please dont talk to me like that",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 30246,
+      "Turn": 129,
+      "Speaker": "T",
+      "Sentence": "All right my friends is this the number model most of you had 29 divided by six",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher checks for a shared understanding across the whole group about a specific mathematical representation."
+    },
+    {
+      "ID": 30248,
+      "Turn": 131,
+      "Speaker": "T",
+      "Sentence": "Mr Miller has 29 cards and he can fit six cards on a page",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 30249,
+      "Turn": 131,
+      "Speaker": "T",
+      "Sentence": "Right or no",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher asks a question to the whole group to confirm their shared understanding of the problem context."
+    },
+    {
+      "ID": 30251,
+      "Turn": 133,
+      "Speaker": "T",
+      "Sentence": "Yes",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 30252,
+      "Turn": 133,
+      "Speaker": "T",
+      "Sentence": "Okay",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 30253,
+      "Turn": 133,
+      "Speaker": "T",
+      "Sentence": "So drawing like this is one way actually making the pages",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher verbalizes a student's visual strategy (drawing pages) for the whole class, translating the idea into words."
+    },
+    {
+      "ID": 30254,
+      "Turn": 133,
+      "Speaker": "T",
+      "Sentence": "This is another way",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher points to and verbalizes another student's strategy for the whole class, making a private idea public."
+    }
+  ]
+}

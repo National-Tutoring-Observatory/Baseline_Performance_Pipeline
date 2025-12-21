@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 22616,
+      "Speaker": "T",
+      "Turn": 22616,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 22617,
+      "Speaker": "T",
+      "Turn": 22617,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 22618,
+      "Speaker": "T",
+      "Turn": 22618,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 22619,
+      "Speaker": "T",
+      "Turn": 22619,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 22620,
+      "Speaker": "T",
+      "Turn": 22620,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher explicitly directs the students' attention to a specific classmate ('turn your eyes and ears over here toward Robin'), orienting them to listen."
+    },
+    {
+      "ID": 22621,
+      "Speaker": "T",
+      "Turn": 22621,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 22622,
+      "Speaker": "T",
+      "Turn": 22622,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 22623,
+      "Speaker": "T",
+      "Turn": 22623,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 22624,
+      "Speaker": "T",
+      "Turn": 22624,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to explain their process ('Tell us how you did number one'), prompting for an explanation of the method."
+    },
+    {
+      "ID": 22625,
+      "Speaker": "T",
+      "Turn": 22625,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher is ensuring the rest of the class can see the student's work ('you can see how she drew it'), maintaining group attention on the shared idea."
+    },
+    {
+      "ID": 22626,
+      "Speaker": "T",
+      "Turn": 22626,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher explicitly asks the student to share the thinking behind their work ('Tell us about your thinking')."
+    },
+    {
+      "ID": 22628,
+      "Speaker": "T",
+      "Turn": 22628,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 22629,
+      "Speaker": "T",
+      "Turn": 22629,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher interrupts to ensure the visual aid is visible to the class ('We cant see anything'), ensuring everyone can follow the presentation."
+    },
+    {
+      "ID": 22630,
+      "Speaker": "T",
+      "Turn": 22630,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 22632,
+      "Speaker": "T",
+      "Turn": 22632,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher interprets and restates the student's visual representation ('I see how you have the pieces are the same size'), adding specific mathematical language about size."
+    },
+    {
+      "ID": 22633,
+      "Speaker": "T",
+      "Turn": 22633,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher continues to interpret the student's work, adding the specific mathematical term ('Theyre all fifths') which likely clarifies the student's drawing."
+    },
+    {
+      "ID": 22634,
+      "Speaker": "T",
+      "Turn": 22634,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases the visual representation into a mathematical statement ('You have five pieces of equal fives')."
+    },
+    {
+      "ID": 22635,
+      "Speaker": "T",
+      "Turn": 22635,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 22636,
+      "Speaker": "T",
+      "Turn": 22636,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher summarizes the steps and leaves the final answer blank ('your total is'), prompting the student (or class) to provide the specific mathematical result."
+    },
+    {
+      "ID": 22638,
+      "Speaker": "T",
+      "Turn": 22638,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher asks the rest of the class to compare their own thinking to the presenter's ('Stand up if you have similar thinking to Robin')."
+    }
+  ]
+}

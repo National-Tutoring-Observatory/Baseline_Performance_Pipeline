@@ -1,0 +1,130 @@
+{
+  "records": [
+    {
+      "ID": 9943,
+      "Turn": 146,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9944,
+      "Turn": 146,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts the student to connect their current method to an alternative mathematical representation (division)."
+    },
+    {
+      "ID": 9946,
+      "Turn": 148,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9947,
+      "Turn": 148,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher explicitly asks a student to 'explain their thinking' for solving the problem using a different method."
+    },
+    {
+      "ID": 9949,
+      "Turn": 150,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9950,
+      "Turn": 150,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9951,
+      "Turn": 150,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher summarizes and rephrases the students' collective finding into a concise mathematical statement to build upon."
+    },
+    {
+      "ID": 9952,
+      "Turn": 150,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9953,
+      "Turn": 150,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9954,
+      "Turn": 150,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher directs students to discuss with a partner and explain 'why' the answer is correct, prompting for justification."
+    },
+    {
+      "ID": 9955,
+      "Turn": 151,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9956,
+      "Turn": 151,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9957,
+      "Turn": 151,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9959,
+      "Turn": 153,
+      "Speaker": "T",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher calls a student back to the shared activity, orienting them to the group."
+    },
+    {
+      "ID": 9960,
+      "Turn": 153,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9961,
+      "Turn": 153,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to articulate the general mathematical process they used."
+    },
+    {
+      "ID": 9962,
+      "Turn": 153,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher clarifies the previous question, asking students to generalize the process for solving the problem."
+    },
+    {
+      "ID": 9963,
+      "Turn": 153,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "records": [
+    {
+      "ID": 20052,
+      "Speaker": "T",
+      "Turn": 60,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher paraphrases the student’s thinking about the graph’s end behavior, restating it with expanded wording."
+    },
+    {
+      "ID": 20054,
+      "Speaker": "T",
+      "Turn": 62,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher stops mid-sentence to have students supply the correct y-value as x approaches negative infinity."
+    },
+    {
+      "ID": 20056,
+      "Speaker": "T",
+      "Turn": 64,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20057,
+      "Speaker": "T",
+      "Turn": 64,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks students to state precisely what happens to the y-values when x becomes very positive."
+    },
+    {
+      "ID": 20059,
+      "Speaker": "T",
+      "Turn": 66,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student’s answer, adjusting the wording to emphasize ‘really positive.’"
+    },
+    {
+      "ID": 20060,
+      "Speaker": "T",
+      "Turn": 66,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20062,
+      "Speaker": "T",
+      "Turn": 68,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20063,
+      "Speaker": "T",
+      "Turn": 68,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20064,
+      "Speaker": "T",
+      "Turn": 68,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20065,
+      "Speaker": "T",
+      "Turn": 68,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20066,
+      "Speaker": "T",
+      "Turn": 68,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20067,
+      "Speaker": "T",
+      "Turn": 69,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20068,
+      "Speaker": "T",
+      "Turn": 69,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20069,
+      "Speaker": "T",
+      "Turn": 69,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20070,
+      "Speaker": "T",
+      "Turn": 69,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20071,
+      "Speaker": "T",
+      "Turn": 69,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20072,
+      "Speaker": "T",
+      "Turn": 69,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

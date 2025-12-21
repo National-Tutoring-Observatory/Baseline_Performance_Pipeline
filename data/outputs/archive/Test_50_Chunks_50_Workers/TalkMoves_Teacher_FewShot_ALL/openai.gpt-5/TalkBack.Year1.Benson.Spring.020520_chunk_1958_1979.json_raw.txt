@@ -1,0 +1,102 @@
+{
+  "records": [
+    {
+      "ID": 1959,
+      "Speaker": "T",
+      "Turn": 46,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks how students are finding the cost, prompting them to explain their approach."
+    },
+    {
+      "ID": 1960,
+      "Speaker": "T",
+      "Turn": 46,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher requests the specific math the student used, prompting a mathematical contribution."
+    },
+    {
+      "ID": 1961,
+      "Speaker": "T",
+      "Turn": 46,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a specific student to state the math they did, eliciting mathematical details."
+    },
+    {
+      "ID": 1964,
+      "Speaker": "T",
+      "Turn": 48,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks where the numbers came from, prompting justification of the choice of numbers."
+    },
+    {
+      "ID": 1967,
+      "Speaker": "T",
+      "Turn": 50,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks why the student multiplied by 3, seeking the reasoning behind the step."
+    },
+    {
+      "ID": 1969,
+      "Speaker": "T",
+      "Turn": 52,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1970,
+      "Speaker": "T",
+      "Turn": 52,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1971,
+      "Speaker": "T",
+      "Turn": 52,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1972,
+      "Speaker": "T",
+      "Turn": 52,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1974,
+      "Speaker": "T",
+      "Turn": 54,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1975,
+      "Speaker": "T",
+      "Turn": 54,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher paraphrases the student’s method and result, restating in their own words."
+    },
+    {
+      "ID": 1976,
+      "Speaker": "T",
+      "Turn": 54,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher continues paraphrasing the student’s next step and rationale."
+    },
+    {
+      "ID": 1977,
+      "Speaker": "T",
+      "Turn": 54,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher invites others to share if they solved it differently, prompting connection to a peer’s method."
+    },
+    {
+      "ID": 1978,
+      "Speaker": "T",
+      "Turn": 54,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks Grady to explain how he did his work, eliciting his thinking and method."
+    }
+  ]
+}

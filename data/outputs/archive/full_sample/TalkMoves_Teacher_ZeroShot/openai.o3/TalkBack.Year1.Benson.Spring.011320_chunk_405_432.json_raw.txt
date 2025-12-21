@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 405,
+      "Speaker": "T",
+      "Turn": 405,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 406,
+      "Speaker": "T",
+      "Turn": 406,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 407,
+      "Speaker": "T",
+      "Turn": 407,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks Liam to state the fraction answers he obtained, requesting a specific mathematical contribution."
+    },
+    {
+      "ID": 409,
+      "Speaker": "T",
+      "Turn": 409,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher prompts Liam to explain how he arrived at his answers."
+    },
+    {
+      "ID": 410,
+      "Speaker": "T",
+      "Turn": 410,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Follow-up request for Liam to detail his thinking process."
+    },
+    {
+      "ID": 412,
+      "Speaker": "T",
+      "Turn": 412,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher echoes the student’s statement ('You added') to confirm and highlight it."
+    },
+    {
+      "ID": 414,
+      "Speaker": "T",
+      "Turn": 414,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher restates and elaborates on the student’s idea: 'So you added on the top.'"
+    },
+    {
+      "ID": 415,
+      "Speaker": "T",
+      "Turn": 415,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher asks what operation was performed on the denominator, seeking explanation of the method."
+    },
+    {
+      "ID": 417,
+      "Speaker": "T",
+      "Turn": 417,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher repeats the student’s method ('You counted by 5') to confirm understanding."
+    },
+    {
+      "ID": 418,
+      "Speaker": "T",
+      "Turn": 418,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Teacher asks Bryce to restate Liam’s idea, directing the class to listen and stay oriented to the discussion."
+    },
+    {
+      "ID": 419,
+      "Speaker": "T",
+      "Turn": 419,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Teacher prompts students to articulate what Liam did, ensuring shared understanding of his method."
+    },
+    {
+      "ID": 421,
+      "Speaker": "T",
+      "Turn": 421,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher seeks a precise detail (‘He added what?’) to clarify the mathematical operation."
+    },
+    {
+      "ID": 423,
+      "Speaker": "T",
+      "Turn": 423,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 424,
+      "Speaker": "T",
+      "Turn": 424,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Teacher asks Liam to repeat his explanation so Bryce can hear, fostering shared attention."
+    },
+    {
+      "ID": 425,
+      "Speaker": "T",
+      "Turn": 425,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher restates (or models restating) Liam’s explanation, putting it into words for the class."
+    },
+    {
+      "ID": 426,
+      "Speaker": "T",
+      "Turn": 426,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "Teacher asks Bryce if Liam’s explanation makes sense, prompting evaluation of a peer’s idea."
+    },
+    {
+      "ID": 427,
+      "Speaker": "T",
+      "Turn": 427,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher summarizes Liam’s strategy (‘Adding ones at the top...’) in her own words."
+    },
+    {
+      "ID": 429,
+      "Speaker": "T",
+      "Turn": 429,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "Teacher checks whether Liam’s explanation makes sense to Bryce, encouraging reflection on a peer’s thinking."
+    },
+    {
+      "ID": 430,
+      "Speaker": "T",
+      "Turn": 430,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "Teacher asks Katie if Liam’s explanation makes sense to her, again prompting connection to a peer’s idea."
+    },
+    {
+      "ID": 432,
+      "Speaker": "T",
+      "Turn": 432,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher asks whether the strategy will generalize to all fractions, requiring justification and broader reasoning."
+    }
+  ]
+}

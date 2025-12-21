@@ -1,0 +1,18 @@
+{
+  "records": [
+    {
+      "ID": 810,
+      "Speaker": "T",
+      "Turn": 204,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 812,
+      "Speaker": "T",
+      "Turn": 206,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's idea ('two of these') but clarifies the referent, changing the wording to 'two light blues'."
+    },
+    {
+      "ID": 813

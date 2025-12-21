@@ -1,0 +1,54 @@
+{
+  "annotations": [
+    {
+      "ID": 4099,
+      "TalkMove": "None",
+      "Reasoning": ""
+    },
+    {
+      "ID": 4100,
+      "TalkMove": "None",
+      "Reasoning": ""
+    },
+    {
+      "ID": 4101,
+      "TalkMove": "None",
+      "Reasoning": ""
+    },
+    {
+      "ID": 4103,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks students which direction the inequality symbol (\"Alligator mouth\") should face, prompting a specific mathematical answer."
+    },
+    {
+      "ID": 4105,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Restates and extends the student's single-word answer by specifying the full number, clarifying the idea."
+    },
+    {
+      "ID": 4106,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Requests an explanation for how the student knows the inequality orientation is correct."
+    },
+    {
+      "ID": 4107,
+      "TalkMove": "None",
+      "Reasoning": ""
+    },
+    {
+      "ID": 4110,
+      "TalkMove": "None",
+      "Reasoning": ""
+    },
+    {
+      "ID": 4111,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Directs students to order the numbers, eliciting a precise mathematical response."
+    },
+    {
+      "ID": 4115,
+      "TalkMove": "None",
+      "Reasoning": ""
+    }
+  ]
+}

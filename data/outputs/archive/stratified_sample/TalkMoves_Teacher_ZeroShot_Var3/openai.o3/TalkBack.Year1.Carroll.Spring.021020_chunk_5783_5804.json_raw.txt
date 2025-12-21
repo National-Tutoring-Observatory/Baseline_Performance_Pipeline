@@ -1,0 +1,109 @@
+{
+  "records": [
+    {
+      "ID": 5783,
+      "Speaker": "T",
+      "Turn": 123,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5784,
+      "Speaker": "T",
+      "Turn": 123,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher directs students to turn around and watch, prompting them to attend to the shared activity."
+    },
+    {
+      "ID": 5785,
+      "Speaker": "T",
+      "Turn": 123,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5786,
+      "Speaker": "T",
+      "Turn": 123,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher asks the group what number they are on, orienting everyone to the same point in the activity."
+    },
+    {
+      "ID": 5787,
+      "Speaker": "T",
+      "Turn": 123,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5788,
+      "Speaker": "T",
+      "Turn": 123,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5791,
+      "Speaker": "T",
+      "Turn": 126,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5792,
+      "Speaker": "T",
+      "Turn": 126,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5794,
+      "Speaker": "T",
+      "Turn": 128,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5796,
+      "Speaker": "T",
+      "Turn": 130,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5797,
+      "Speaker": "T",
+      "Turn": 130,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks students to state the correct classification for the number 24, prompting a specific mathematical response."
+    },
+    {
+      "ID": 5799,
+      "Speaker": "T",
+      "Turn": 132,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5800,
+      "Speaker": "T",
+      "Turn": 132,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "By asking '25 would be?', the teacher prompts students to supply the accurate mathematical term for 25."
+    },
+    {
+      "ID": 5803,
+      "Speaker": "T",
+      "Turn": 134,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student’s answer 'Bizz' exactly, echoing it back to the class."
+    },
+    {
+      "ID": 5804,
+      "Speaker": "T",
+      "Turn": 134,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks, 'What can go into 27?', prompting students to identify factors and justify their choice."
+    }
+  ]
+}

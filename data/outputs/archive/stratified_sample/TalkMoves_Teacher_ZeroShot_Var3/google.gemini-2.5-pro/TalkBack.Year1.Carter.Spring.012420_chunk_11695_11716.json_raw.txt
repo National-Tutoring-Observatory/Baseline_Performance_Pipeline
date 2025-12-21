@@ -1,0 +1,164 @@
+{
+  "records": [
+    {
+      "ID": 11695,
+      "Turn": 239,
+      "Speaker": "T",
+      "Sentence": "23 of the half",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11696,
+      "Turn": 239,
+      "Speaker": "T",
+      "Sentence": "Think are we going to just fold this in half like we did before",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to evaluate a proposed method, prompting them to reason about its appropriateness for the current problem."
+    },
+    {
+      "ID": 11698,
+      "Turn": 241,
+      "Speaker": "T",
+      "Sentence": "No",
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's one-word answer verbatim."
+    },
+    {
+      "ID": 11699,
+      "Turn": 241,
+      "Speaker": "T",
+      "Sentence": "Because how much did she eat of this",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks a question beginning with 'because' to prompt students to provide a reason for their previous answer."
+    },
+    {
+      "ID": 11701,
+      "Turn": 243,
+      "Speaker": "T",
+      "Sentence": "How many parts do we have to fold this into",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to identify the correct number of parts needed for the mathematical representation."
+    },
+    {
+      "ID": 11702,
+      "Turn": 243,
+      "Speaker": "T",
+      "Sentence": "Show me",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11703,
+      "Turn": 243,
+      "Speaker": "T",
+      "Sentence": "Two folded into three",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11704,
+      "Turn": 243,
+      "Speaker": "T",
+      "Sentence": "We need to fold it into three equal parts",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11705,
+      "Turn": 244,
+      "Speaker": "T",
+      "Sentence": "equal parts",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher emphasizes a key mathematical term to promote precise language."
+    },
+    {
+      "ID": 11706,
+      "Turn": 245,
+      "Speaker": "T",
+      "Sentence": "Good yours should look like mine",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11707,
+      "Turn": 245,
+      "Speaker": "T",
+      "Sentence": "How many of you have three equal",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher polls the class to check if everyone has completed the current step correctly."
+    },
+    {
+      "ID": 11708,
+      "Turn": 245,
+      "Speaker": "T",
+      "Sentence": "How many of you think you know how to shade",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher polls the class to check for understanding before proceeding to the next step."
+    },
+    {
+      "ID": 11709,
+      "Turn": 245,
+      "Speaker": "T",
+      "Sentence": "Good try it",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11710,
+      "Turn": 245,
+      "Speaker": "T",
+      "Sentence": "Give it a shot",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11711,
+      "Turn": 245,
+      "Speaker": "T",
+      "Sentence": "Shes going to eat 23 of what she had",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11712,
+      "Turn": 245,
+      "Speaker": "T",
+      "Sentence": "Your marks need to go in the opposite direction",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11713,
+      "Turn": 245,
+      "Speaker": "T",
+      "Sentence": "You need to fill it out",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11714,
+      "Turn": 246,
+      "Speaker": "T",
+      "Sentence": "How many of you have something that looks like this",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher asks students to compare their work to a model to ensure the group is ready to move on."
+    },
+    {
+      "ID": 11715,
+      "Turn": 247,
+      "Speaker": "T",
+      "Sentence": "Does this represent the half of the pizza",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to interpret their representation and connect it to the meaning of the problem."
+    },
+    {
+      "ID": 11716,
+      "Turn": 247,
+      "Speaker": "T",
+      "Sentence": "Are you going to shade in all three parts",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to justify their next action by considering the meaning of the fraction."
+    }
+  ]
+}

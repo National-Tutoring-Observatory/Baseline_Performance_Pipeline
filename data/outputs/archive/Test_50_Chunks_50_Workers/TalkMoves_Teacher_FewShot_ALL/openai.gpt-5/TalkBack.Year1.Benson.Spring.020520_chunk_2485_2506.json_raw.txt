@@ -1,0 +1,95 @@
+{
+  "records": [
+    {
+      "ID": 2485,
+      "Speaker": "T",
+      "Turn": 333,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to explain what they did for the unknown, prompting them to share their thinking."
+    },
+    {
+      "ID": 2487,
+      "Speaker": "T",
+      "Turn": 335,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks where the value 312 came from, eliciting justification for the choice."
+    },
+    {
+      "ID": 2489,
+      "Speaker": "T",
+      "Turn": 337,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to specify which problem, seeking precise information."
+    },
+    {
+      "ID": 2491,
+      "Speaker": "T",
+      "Turn": 339,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases the student's reference to problem 2 by stating that they already found the burrito cost."
+    },
+    {
+      "ID": 2492,
+      "Speaker": "T",
+      "Turn": 339,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks why the student used times three, prompting justification of the choice."
+    },
+    {
+      "ID": 2494,
+      "Speaker": "T",
+      "Turn": 341,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2496,
+      "Speaker": "T",
+      "Turn": 343,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2497,
+      "Speaker": "T",
+      "Turn": 343,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher requests the computation of 300 x 3, prompting a mathematical contribution."
+    },
+    {
+      "ID": 2499,
+      "Speaker": "T",
+      "Turn": 345,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the computation of 10 x 3, eliciting a specific mathematical answer."
+    },
+    {
+      "ID": 2501,
+      "Speaker": "T",
+      "Turn": 347,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the computation of 2 x 3, seeking a precise mathematical response."
+    },
+    {
+      "ID": 2503,
+      "Speaker": "T",
+      "Turn": 349,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the sum of 900, 30, and 6, prompting a correct calculation."
+    },
+    {
+      "ID": 2505,
+      "Speaker": "T",
+      "Turn": 351,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2506,
+      "Speaker": "T",
+      "Turn": 351,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

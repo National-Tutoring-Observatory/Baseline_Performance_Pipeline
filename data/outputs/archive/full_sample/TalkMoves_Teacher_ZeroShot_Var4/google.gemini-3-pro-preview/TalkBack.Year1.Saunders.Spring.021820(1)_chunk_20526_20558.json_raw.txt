@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 20526,
+      "Speaker": "T",
+      "Turn": 20526,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20527,
+      "Speaker": "T",
+      "Turn": 20527,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a specific mathematical question, prompting students to calculate the value of 2 cubed."
+    },
+    {
+      "ID": 20529,
+      "Speaker": "T",
+      "Turn": 20529,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the correct answer ('Eight') provided by a student."
+    },
+    {
+      "ID": 20530,
+      "Speaker": "T",
+      "Turn": 20530,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the students to provide the value for the next cube (3 cubed)."
+    },
+    {
+      "ID": 20532,
+      "Speaker": "T",
+      "Turn": 20532,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the students to provide the value for the next cube (4 cubed)."
+    },
+    {
+      "ID": 20536,
+      "Speaker": "T",
+      "Turn": 20536,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to perform the intermediate calculation (4 times 4) to arrive at the cube."
+    },
+    {
+      "ID": 20538,
+      "Speaker": "T",
+      "Turn": 20538,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to complete the calculation by multiplying by four again."
+    },
+    {
+      "ID": 20539,
+      "Speaker": "T",
+      "Turn": 20539,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20542,
+      "Speaker": "T",
+      "Turn": 20542,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20543,
+      "Speaker": "T",
+      "Turn": 20543,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20544,
+      "Speaker": "T",
+      "Turn": 20544,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20545,
+      "Speaker": "T",
+      "Turn": 20545,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks students to calculate the value of 5 cubed."
+    },
+    {
+      "ID": 20547,
+      "Speaker": "T",
+      "Turn": 20547,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's correct answer ('125')."
+    },
+    {
+      "ID": 20548,
+      "Speaker": "T",
+      "Turn": 20548,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20550,
+      "Speaker": "T",
+      "Turn": 20550,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20551,
+      "Speaker": "T",
+      "Turn": 20551,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20552,
+      "Speaker": "T",
+      "Turn": 20552,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20553,
+      "Speaker": "T",
+      "Turn": 20553,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20557,
+      "Speaker": "T",
+      "Turn": 20557,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20558,
+      "Speaker": "T",
+      "Turn": 20558,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

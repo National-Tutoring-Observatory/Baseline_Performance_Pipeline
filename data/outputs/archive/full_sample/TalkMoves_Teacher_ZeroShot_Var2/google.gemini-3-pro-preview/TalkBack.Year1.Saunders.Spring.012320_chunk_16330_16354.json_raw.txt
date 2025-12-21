@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 16330,
+      "Speaker": "T",
+      "Turn": 16330,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16331,
+      "Speaker": "T",
+      "Turn": 16331,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16332,
+      "Speaker": "T",
+      "Turn": 16332,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16333,
+      "Speaker": "T",
+      "Turn": 16333,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16334,
+      "Speaker": "T",
+      "Turn": 16334,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16335,
+      "Speaker": "T",
+      "Turn": 16335,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16336,
+      "Speaker": "T",
+      "Turn": 16336,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16337,
+      "Speaker": "T",
+      "Turn": 16337,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to recall a specific mathematical term or name."
+    },
+    {
+      "ID": 16338,
+      "Speaker": "T",
+      "Turn": 16338,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to explain the reason behind the name of the form, prompting for justification."
+    },
+    {
+      "ID": 16340,
+      "Speaker": "T",
+      "Turn": 16340,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher validates a student's response (implied by 'Right') and restates the core idea that the form reveals the x-intercept."
+    },
+    {
+      "ID": 16341,
+      "Speaker": "T",
+      "Turn": 16341,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to state a fundamental property of x-intercepts (that y is zero)."
+    },
+    {
+      "ID": 16342,
+      "Speaker": "T",
+      "Turn": 16342,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks students to identify the necessary condition for a product to be zero (Zero Product Property)."
+    },
+    {
+      "ID": 16343,
+      "Speaker": "T",
+      "Turn": 16343,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to state the mathematical operation or condition required to get a result of zero."
+    },
+    {
+      "ID": 16344,
+      "Speaker": "T",
+      "Turn": 16344,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16345,
+      "Speaker": "T",
+      "Turn": 16345,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16346,
+      "Speaker": "T",
+      "Turn": 16346,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks students to calculate or identify the specific value that makes the expression equal to zero."
+    },
+    {
+      "ID": 16347,
+      "Speaker": "T",
+      "Turn": 16347,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16350,
+      "Speaker": "T",
+      "Turn": 16350,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to find a specific value."
+    },
+    {
+      "ID": 16353,
+      "Speaker": "T",
+      "Turn": 16353,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16354,
+      "Speaker": "T",
+      "Turn": 16354,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks students to state the procedure for finding the midpoint of two numbers."
+    }
+  ]
+}

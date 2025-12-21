@@ -1,0 +1,102 @@
+{
+  "records": [
+    {
+      "ID": 1044,
+      "Turn": 1,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1045,
+      "Turn": 1,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1048,
+      "Turn": 3,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1049,
+      "Turn": 3,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1050,
+      "Turn": 3,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1053,
+      "Turn": 5,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1054,
+      "Turn": 5,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1056,
+      "Turn": 7,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1057,
+      "Turn": 7,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1058,
+      "Turn": 7,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1060,
+      "Turn": 9,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to provide a specific mathematical contribution in the form of a number sentence."
+    },
+    {
+      "ID": 1062,
+      "Turn": 11,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1064,
+      "Turn": 13,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts the student to explain the meaning of a number in the equation, connecting the mathematical representation to the story context."
+    },
+    {
+      "ID": 1065,
+      "Turn": 15,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts the student to explain the meaning of a number in the equation, connecting the mathematical representation to the story context."
+    }
+  ]
+}

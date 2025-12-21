@@ -1,0 +1,60 @@
+{
+  "records": [
+    {
+      "ID": 18066,
+      "Speaker": "T",
+      "Turn": 365,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18073,
+      "Speaker": "T",
+      "Turn": 369,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher’s short question prompts the student to clarify or specify what they mean, eliciting a more precise statement."
+    },
+    {
+      "ID": 18075,
+      "Speaker": "T",
+      "Turn": 371,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher restates the student’s idea (‘no curve’) and adds mathematical terminology (‘no min or max … point of inflection’), rephrasing the contribution while expanding it."
+    },
+    {
+      "ID": 18076,
+      "Speaker": "T",
+      "Turn": 371,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18078,
+      "Speaker": "T",
+      "Turn": 373,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "By asking ‘What?’, the teacher presses the student to restate or clarify their idea more precisely."
+    },
+    {
+      "ID": 18080,
+      "Speaker": "T",
+      "Turn": 375,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18083,
+      "Speaker": "T",
+      "Turn": 378,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher summarizes and reformulates what the student is describing about the cubic function, adding mathematical language."
+    },
+    {
+      "ID": 18086,
+      "Speaker": "T",
+      "Turn": 380,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

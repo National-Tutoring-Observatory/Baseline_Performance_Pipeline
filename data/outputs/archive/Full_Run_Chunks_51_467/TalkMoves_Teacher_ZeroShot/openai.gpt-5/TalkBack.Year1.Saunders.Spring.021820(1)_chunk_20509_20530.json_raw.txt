@@ -1,0 +1,80 @@
+{
+  "records": [
+    {
+      "ID": 20509,
+      "Speaker": "T",
+      "Turn": 76
+    },
+    {
+      "ID": 20511,
+      "Speaker": "T",
+      "Turn": 78
+    },
+    {
+      "ID": 20512,
+      "Speaker": "T",
+      "Turn": 78
+    },
+    {
+      "ID": 20513,
+      "Speaker": "T",
+      "Turn": 79
+    },
+    {
+      "ID": 20515,
+      "Speaker": "T",
+      "Turn": 81
+    },
+    {
+      "ID": 20516,
+      "Speaker": "T",
+      "Turn": 81
+    },
+    {
+      "ID": 20517,
+      "Speaker": "T",
+      "Turn": 82
+    },
+    {
+      "ID": 20518,
+      "Speaker": "T",
+      "Turn": 83
+    },
+    {
+      "ID": 20524,
+      "Speaker": "T",
+      "Turn": 88
+    },
+    {
+      "ID": 20525,
+      "Speaker": "T",
+      "Turn": 88
+    },
+    {
+      "ID": 20526,
+      "Speaker": "T",
+      "Turn": 88
+    },
+    {
+      "ID": 20527,
+      "Speaker": "T",
+      "Turn": 88,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the value of 2 cubed, prompting a specific mathematical answer."
+    },
+    {
+      "ID": 20529,
+      "Speaker": "T",
+      "Turn": 90,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's answer 'Eight' verbatim."
+    },
+    {
+      "ID": 20530,
+      "Speaker": "T",
+      "Turn": 90,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts for the value of 3 cubed, eliciting a precise mathematical result."
+    }
+  ]
+}

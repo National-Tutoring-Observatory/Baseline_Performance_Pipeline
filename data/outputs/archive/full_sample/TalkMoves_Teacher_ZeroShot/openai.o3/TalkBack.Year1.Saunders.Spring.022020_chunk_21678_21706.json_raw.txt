@@ -1,0 +1,132 @@
+{
+  "records": [
+    {
+      "ID": 21678,
+      "Speaker": "T",
+      "Turn": 21678
+    },
+    {
+      "ID": 21679,
+      "Speaker": "T",
+      "Turn": 21679,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks Joanne to name the first procedural step, seeking the correct mathematical action."
+    },
+    {
+      "ID": 21681,
+      "Speaker": "T",
+      "Turn": 21681,
+      "TalkMove": "Restating",
+      "Reasoning": "Teacher repeats the step exactly, echoing the student’s wording for the class."
+    },
+    {
+      "ID": 21682,
+      "Speaker": "T",
+      "Turn": 21682,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks David to identify the first step for the specific problem, requesting the precise operation."
+    },
+    {
+      "ID": 21684,
+      "Speaker": "T",
+      "Turn": 21684,
+      "TalkMove": "Restating",
+      "Reasoning": "Teacher repeats David’s answer word-for-word for emphasis."
+    },
+    {
+      "ID": 21685,
+      "Speaker": "T",
+      "Turn": 21685,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher prompts students to specify what to divide by in order to isolate the radical."
+    },
+    {
+      "ID": 21687,
+      "Speaker": "T",
+      "Turn": 21687
+    },
+    {
+      "ID": 21688,
+      "Speaker": "T",
+      "Turn": 21688
+    },
+    {
+      "ID": 21689,
+      "Speaker": "T",
+      "Turn": 21689,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks Tobias to state the second step, looking for the exact procedure."
+    },
+    {
+      "ID": 21691,
+      "Speaker": "T",
+      "Turn": 21691,
+      "TalkMove": "Restating",
+      "Reasoning": "Teacher echoes Tobias’s suggestion verbatim."
+    },
+    {
+      "ID": 21692,
+      "Speaker": "T",
+      "Turn": 21692
+    },
+    {
+      "ID": 21694,
+      "Speaker": "T",
+      "Turn": 21694,
+      "TalkMove": "Restating",
+      "Reasoning": "Teacher repeats Jill’s contribution exactly for the class."
+    },
+    {
+      "ID": 21695,
+      "Speaker": "T",
+      "Turn": 21695,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher asks Tobias to explain the condition under which the radical can be removed."
+    },
+    {
+      "ID": 21697,
+      "Speaker": "T",
+      "Turn": 21697,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher paraphrases and expands on Tobias’s explanation in the teacher’s own words."
+    },
+    {
+      "ID": 21698,
+      "Speaker": "T",
+      "Turn": 21698,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher asks how the class will actually remove the radical, soliciting an explanation of the method."
+    },
+    {
+      "ID": 21699,
+      "Speaker": "T",
+      "Turn": 21699
+    },
+    {
+      "ID": 21702,
+      "Speaker": "T",
+      "Turn": 21702,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher rephrases Tobias’s idea ('multiply it by itself') using first-person language to model the approach."
+    },
+    {
+      "ID": 21703,
+      "Speaker": "T",
+      "Turn": 21703,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher elaborates on the student’s suggestion, adjusting wording and adding detail to show its application."
+    },
+    {
+      "ID": 21704,
+      "Speaker": "T",
+      "Turn": 21704
+    },
+    {
+      "ID": 21706,
+      "Speaker": "T",
+      "Turn": 21706,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher checks whether the expression is fully simplified, asking for a precise mathematical judgment."
+    }
+  ]
+}

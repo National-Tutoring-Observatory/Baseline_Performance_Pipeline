@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 2938,
+      "Speaker": "T",
+      "Turn": 2938,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2939,
+      "Speaker": "T",
+      "Turn": 2939,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2940,
+      "Speaker": "T",
+      "Turn": 2940,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2941,
+      "Speaker": "T",
+      "Turn": 2941,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to explain their solution process and thinking ('how you solved', 'what were you thinking')."
+    },
+    {
+      "ID": 2942,
+      "Speaker": "T",
+      "Turn": 2942,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2943,
+      "Speaker": "T",
+      "Turn": 2943,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher asks students to 'add on' to what the previous student (Sophia) said, prompting a reaction to a classmate's idea."
+    },
+    {
+      "ID": 2945,
+      "Speaker": "T",
+      "Turn": 2945,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher explicitly asks if anyone disagrees with Sophia, prompting students to react to a classmate's contribution."
+    },
+    {
+      "ID": 2946,
+      "Speaker": "T",
+      "Turn": 2946,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher asks 'Who did it differently,' prompting students to compare their own work to the method just presented by a classmate."
+    },
+    {
+      "ID": 2947,
+      "Speaker": "T",
+      "Turn": 2947,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks a specific student ('Hannah') to explain her method ('what did you do')."
+    },
+    {
+      "ID": 2949,
+      "Speaker": "T",
+      "Turn": 2949,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2951,
+      "Speaker": "T",
+      "Turn": 2951,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2952,
+      "Speaker": "T",
+      "Turn": 2952,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2953,
+      "Speaker": "T",
+      "Turn": 2953,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2954,
+      "Speaker": "T",
+      "Turn": 2954,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2956,
+      "Speaker": "T",
+      "Turn": 2956,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks the student to state the specific mathematical representation ('equation') they wrote."
+    },
+    {
+      "ID": 2958,
+      "Speaker": "T",
+      "Turn": 2958,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats and reformulates the student's thinking by attributing knowledge ('You knew the basic fact...') to clarify the logic."
+    },
+    {
+      "ID": 2959,
+      "Speaker": "T",
+      "Turn": 2959,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher continues to reformulate the student's steps ('You took g to equal 50') to clarify the method."
+    },
+    {
+      "ID": 2960,
+      "Speaker": "T",
+      "Turn": 2960,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher checks for verification ('Is that what Im understanding'), which is the final step of the Revoicing move."
+    },
+    {
+      "ID": 2962,
+      "Speaker": "T",
+      "Turn": 2962,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher asks if anyone did it 'differently,' prompting a comparison to the previous student's method."
+    },
+    {
+      "ID": 2963,
+      "Speaker": "T",
+      "Turn": 2963,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts students to connect the problem to a specific strategy or representation ('division problem')."
+    }
+  ]
+}

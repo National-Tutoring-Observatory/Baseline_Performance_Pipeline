@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 9538,
+      "Speaker": "T",
+      "Turn": 9538,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 9539,
+      "Speaker": "T",
+      "Turn": 9539,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 9540,
+      "Speaker": "T",
+      "Turn": 9540,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 9542,
+      "Speaker": "T",
+      "Turn": 9542,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 9543,
+      "Speaker": "T",
+      "Turn": 9543,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 9544,
+      "Speaker": "T",
+      "Turn": 9544,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks a student about their intent ('Are you trying to group that together'), prompting them to explain their thinking or strategy."
+    },
+    {
+      "ID": 9546,
+      "Speaker": "T",
+      "Turn": 9546,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher corrects the student's notation and prompts them to consider the necessity of parentheses ('do you need the parentheses there'), focusing on correct mathematical representation."
+    },
+    {
+      "ID": 9547,
+      "Speaker": "T",
+      "Turn": 9547,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher continues to press the student on the necessity of a specific mathematical symbol ('Do you need that')."
+    },
+    {
+      "ID": 9549,
+      "Speaker": "T",
+      "Turn": 9549,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 9550,
+      "Speaker": "T",
+      "Turn": 9550,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher explains the logic behind grouping and asks 'does that make sense', checking for understanding of the underlying concept."
+    },
+    {
+      "ID": 9552,
+      "Speaker": "T",
+      "Turn": 9552,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 9553,
+      "Speaker": "T",
+      "Turn": 9553,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 9554,
+      "Speaker": "T",
+      "Turn": 9554,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 9555,
+      "Speaker": "T",
+      "Turn": 9555,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 9557,
+      "Speaker": "T",
+      "Turn": 9557,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 9558,
+      "Speaker": "T",
+      "Turn": 9558,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 9559,
+      "Speaker": "T",
+      "Turn": 9559,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher directs students to engage with the work of their peers ('look at the work at that table'), orienting them to others' ideas."
+    },
+    {
+      "ID": 9560,
+      "Speaker": "T",
+      "Turn": 9560,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher explicitly prompts students to evaluate their peers' work ('do I agree with the thinking or not')."
+    },
+    {
+      "ID": 9561,
+      "Speaker": "T",
+      "Turn": 9561,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher reiterates the instruction to move and engage with other students' work."
+    },
+    {
+      "ID": 9562,
+      "Speaker": "T",
+      "Turn": 9562,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher ensures the work is available for the community to view ('so people can look at it'), facilitating the sharing of ideas."
+    }
+  ]
+}

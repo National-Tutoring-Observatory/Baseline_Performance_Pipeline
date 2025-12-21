@@ -1,0 +1,116 @@
+{
+  "records": [
+    {
+      "ID": 6272,
+      "Turn": 77,
+      "Speaker": "T",
+      "Sentence": "Did anybody draw a picture",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 6274,
+      "Turn": 79,
+      "Speaker": "T",
+      "Sentence": "Did anybody use another Excuse me",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 6275,
+      "Turn": 79,
+      "Speaker": "T",
+      "Sentence": "Did anybody use another strategy",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 6276,
+      "Turn": 80,
+      "Speaker": "T",
+      "Sentence": "Amelia",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 6278,
+      "Turn": 81,
+      "Speaker": "T",
+      "Sentence": "Did you use another strategy",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 6280,
+      "Turn": 83,
+      "Speaker": "T",
+      "Sentence": "Okay what was it",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 6281,
+      "Turn": 83,
+      "Speaker": "T",
+      "Sentence": "Dont explain everything you did just tell us the strategy",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to name the strategy, pushing for a specific mathematical term rather than a procedural description."
+    },
+    {
+      "ID": 6284,
+      "Turn": 85,
+      "Speaker": "T",
+      "Sentence": "Okay all right anybody else",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 6285,
+      "Turn": 86,
+      "Speaker": "T",
+      "Sentence": "No one else seriously",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 6286,
+      "Turn": 87,
+      "Speaker": "T",
+      "Sentence": "Show me",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 6288,
+      "Turn": 89,
+      "Speaker": "T",
+      "Sentence": "Okay and is that long division traditional division",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "After the student says they used 'the division thing,' the teacher prompts for more precise mathematical language by offering specific terms."
+    },
+    {
+      "ID": 6289,
+      "Turn": 89,
+      "Speaker": "T",
+      "Sentence": "Is it partial quotients",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher continues to press for a specific mathematical term by offering another possible name for the student's strategy."
+    },
+    {
+      "ID": 6292,
+      "Turn": 91,
+      "Speaker": "T",
+      "Sentence": "I will be looking at these but how did you feel on this",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 6293,
+      "Turn": 91,
+      "Speaker": "T",
+      "Sentence": "Thumb up in the middle thumbs down",
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

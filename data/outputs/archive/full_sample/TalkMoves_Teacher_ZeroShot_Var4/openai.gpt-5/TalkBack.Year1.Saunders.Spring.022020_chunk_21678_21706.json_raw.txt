@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 21678,
+      "Speaker": "T",
+      "Turn": 21678,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21679,
+      "Speaker": "T",
+      "Turn": 21679,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks a student to name the first procedural step using mathematical language."
+    },
+    {
+      "ID": 21681,
+      "Speaker": "T",
+      "Turn": 21681,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21682,
+      "Speaker": "T",
+      "Turn": 21682,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Prompts David to state the first step for the specific example."
+    },
+    {
+      "ID": 21684,
+      "Speaker": "T",
+      "Turn": 21684,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21685,
+      "Speaker": "T",
+      "Turn": 21685,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Queries what operation is needed to isolate the radical, prompting precise mathematical action."
+    },
+    {
+      "ID": 21687,
+      "Speaker": "T",
+      "Turn": 21687,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21688,
+      "Speaker": "T",
+      "Turn": 21688,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21689,
+      "Speaker": "T",
+      "Turn": 21689,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks Tobias to identify the second step."
+    },
+    {
+      "ID": 21691,
+      "Speaker": "T",
+      "Turn": 21691,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21692,
+      "Speaker": "T",
+      "Turn": 21692,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21694,
+      "Speaker": "T",
+      "Turn": 21694,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21695,
+      "Speaker": "T",
+      "Turn": 21695,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Requests justification for when it is valid to remove the radical."
+    },
+    {
+      "ID": 21697,
+      "Speaker": "T",
+      "Turn": 21697,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Paraphrases and clarifies the student’s idea about having nothing outside the radical."
+    },
+    {
+      "ID": 21698,
+      "Speaker": "T",
+      "Turn": 21698,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Asks students to explain the method for removing the radical."
+    },
+    {
+      "ID": 21699,
+      "Speaker": "T",
+      "Turn": 21699,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21702,
+      "Speaker": "T",
+      "Turn": 21702,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21703,
+      "Speaker": "T",
+      "Turn": 21703,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21704,
+      "Speaker": "T",
+      "Turn": 21704,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21706,
+      "Speaker": "T",
+      "Turn": 21706,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Checks whether the expression is simplified, prompting a correctness judgment."
+    }
+  ]
+}

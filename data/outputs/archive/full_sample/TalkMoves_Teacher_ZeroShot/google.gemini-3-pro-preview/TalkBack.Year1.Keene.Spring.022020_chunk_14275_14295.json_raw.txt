@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 14275,
+      "Speaker": "T",
+      "Turn": 14275,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 14276,
+      "Speaker": "T",
+      "Turn": 14276,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 14277,
+      "Speaker": "T",
+      "Turn": 14277,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher calls on a specific student (Derek) to draw attention or manage the flow of the lesson."
+    },
+    {
+      "ID": 14278,
+      "Speaker": "T",
+      "Turn": 14278,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 14279,
+      "Speaker": "T",
+      "Turn": 14279,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 14280,
+      "Speaker": "T",
+      "Turn": 14280,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 14281,
+      "Speaker": "T",
+      "Turn": 14281,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 14282,
+      "Speaker": "T",
+      "Turn": 14282,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 14283,
+      "Speaker": "T",
+      "Turn": 14283,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a specific procedural question ('what do I need to do') to prompt students to recall the steps for finding equivalent fractions."
+    },
+    {
+      "ID": 14284,
+      "Speaker": "T",
+      "Turn": 14284,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 14285,
+      "Speaker": "T",
+      "Turn": 14285,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 14286,
+      "Speaker": "T",
+      "Turn": 14286,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a specific calculation question ('how big of a jump is that') prompting for a mathematical value."
+    },
+    {
+      "ID": 14287,
+      "Speaker": "T",
+      "Turn": 14287,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 14288,
+      "Speaker": "T",
+      "Turn": 14288,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher repeats the procedural question ('What do I need to do') to prompt for the correct mathematical step."
+    },
+    {
+      "ID": 14290,
+      "Speaker": "T",
+      "Turn": 14290,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's idea ('Multiply') and then rephrases/adds on to the student's other idea ('You do count') to validate the method."
+    },
+    {
+      "ID": 14291,
+      "Speaker": "T",
+      "Turn": 14291,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 14292,
+      "Speaker": "T",
+      "Turn": 14292,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher directs a specific student's attention ('Ivy') to a visual aid to ensure they are following the logic."
+    },
+    {
+      "ID": 14293,
+      "Speaker": "T",
+      "Turn": 14293,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a specific question requiring a numerical answer ('How many over is 12 if I count')."
+    },
+    {
+      "ID": 14294,
+      "Speaker": "T",
+      "Turn": 14294,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts for a more precise answer ('More than two') to guide the student toward the correct value."
+    },
+    {
+      "ID": 14295,
+      "Speaker": "T",
+      "Turn": 14295,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher scaffolds the counting process to prompt the student for the specific missing number ('the 12 would be what')."
+    }
+  ]
+}

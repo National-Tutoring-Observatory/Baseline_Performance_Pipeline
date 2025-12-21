@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 11400,
+      "Speaker": "T",
+      "Turn": 11400,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11401,
+      "Speaker": "T",
+      "Turn": 11401,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to write and show their thinking with a representation."
+    },
+    {
+      "ID": 11402,
+      "Speaker": "T",
+      "Turn": 11402,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts for a visual representation of the student's thinking."
+    },
+    {
+      "ID": 11403,
+      "Speaker": "T",
+      "Turn": 11403,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11404,
+      "Speaker": "T",
+      "Turn": 11404,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11406,
+      "Speaker": "T",
+      "Turn": 11406,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11407,
+      "Speaker": "T",
+      "Turn": 11407,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to go through their work and explain using the written representation."
+    },
+    {
+      "ID": 11408,
+      "Speaker": "T",
+      "Turn": 11408,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher paraphrases the student's statements to clarify what was said."
+    },
+    {
+      "ID": 11409,
+      "Speaker": "T",
+      "Turn": 11409,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher checks the mathematical property by asking if the order matters."
+    },
+    {
+      "ID": 11410,
+      "Speaker": "T",
+      "Turn": 11410,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher requests a specific computation."
+    },
+    {
+      "ID": 11412,
+      "Speaker": "T",
+      "Turn": 11412,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher requests a specific computation to check accuracy."
+    },
+    {
+      "ID": 11414,
+      "Speaker": "T",
+      "Turn": 11414,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11415,
+      "Speaker": "T",
+      "Turn": 11415,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks whether two expressions are equivalent, checking accuracy."
+    },
+    {
+      "ID": 11416,
+      "Speaker": "T",
+      "Turn": 11416,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks if order matters, probing the mathematical property."
+    },
+    {
+      "ID": 11418,
+      "Speaker": "T",
+      "Turn": 11418,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11419,
+      "Speaker": "T",
+      "Turn": 11419,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11420,
+      "Speaker": "T",
+      "Turn": 11420,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11421,
+      "Speaker": "T",
+      "Turn": 11421,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11422,
+      "Speaker": "T",
+      "Turn": 11422,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11423,
+      "Speaker": "T",
+      "Turn": 11423,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

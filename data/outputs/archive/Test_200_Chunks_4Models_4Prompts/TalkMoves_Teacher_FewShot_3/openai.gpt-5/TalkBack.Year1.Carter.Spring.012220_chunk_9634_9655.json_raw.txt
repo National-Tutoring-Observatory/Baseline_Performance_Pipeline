@@ -1,0 +1,120 @@
+{
+  "records": [
+    {
+      "ID": 9634,
+      "Turn": 64,
+      "Speaker": "T",
+      "TalkMove": "None"
+    },
+    {
+      "ID": 9636,
+      "Turn": 66,
+      "Speaker": "T",
+      "TalkMove": "None"
+    },
+    {
+      "ID": 9637,
+      "Turn": 67,
+      "Speaker": "T",
+      "TalkMove": "None"
+    },
+    {
+      "ID": 9638,
+      "Turn": 67,
+      "Speaker": "T",
+      "TalkMove": "None"
+    },
+    {
+      "ID": 9640,
+      "Turn": 68,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Prompts students to compute 10 ÷ 5 and use division language, eliciting a mathematical contribution."
+    },
+    {
+      "ID": 9642,
+      "Turn": 70,
+      "Speaker": "T",
+      "TalkMove": "None"
+    },
+    {
+      "ID": 9643,
+      "Turn": 70,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Sets up the calculation 25 ÷ 2, prompting a mathematical contribution."
+    },
+    {
+      "ID": 9644,
+      "Turn": 70,
+      "Speaker": "T",
+      "TalkMove": "None"
+    },
+    {
+      "ID": 9645,
+      "Turn": 71,
+      "Speaker": "T",
+      "TalkMove": "None"
+    },
+    {
+      "ID": 9646,
+      "Turn": 71,
+      "Speaker": "T",
+      "TalkMove": "None"
+    },
+    {
+      "ID": 9647,
+      "Turn": 71,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks what value belongs in a specific spot of the table, prompting a precise mathematical entry."
+    },
+    {
+      "ID": 9648,
+      "Turn": 71,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Requests students to display their answer, prompting a mathematical contribution."
+    },
+    {
+      "ID": 9649,
+      "Turn": 71,
+      "Speaker": "T",
+      "TalkMove": "None"
+    },
+    {
+      "ID": 9650,
+      "Turn": 71,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "Summarizes students' responses by rephrasing 'two' for the class."
+    },
+    {
+      "ID": 9651,
+      "Turn": 71,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Asks for an explanation of how 'two' was obtained, prompting reasoning."
+    },
+    {
+      "ID": 9652,
+      "Turn": 71,
+      "Speaker": "T",
+      "TalkMove": "None"
+    },
+    {
+      "ID": 9654,
+      "Turn": 72,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Asks why a fraction circle was used, prompting justification of representation choice."
+    },
+    {
+      "ID": 9655,
+      "Turn": 72,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Presses for justification by connecting the problem context (10 items, finding a fraction of them) to the chosen representation."
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "records": [
+    {
+      "ID": 771,
+      "Turn": 185,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 772,
+      "Turn": 185,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 773,
+      "Turn": 186,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 774,
+      "Turn": 186,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student for a specific mathematical contribution by asking how many parts are needed to make the whole."
+    },
+    {
+      "ID": 776,
+      "Turn": 188,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's idea about the numerator ('One') and then adds on by redirecting the focus to the denominator to guide the next step."
+    },
+    {
+      "ID": 778,
+      "Turn": 190,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's one-word answer ('Four') and adds 'of them' to clarify and make the contribution more precise."
+    },
+    {
+      "ID": 779,
+      "Turn": 190,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to make a specific mathematical contribution by asking for the number of manipulatives needed."
+    },
+    {
+      "ID": 781,
+      "Turn": 192,
+      "Speaker": "T",
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's answer ('Four') word for word."
+    },
+    {
+      "ID": 782,
+      "Turn": 192,
+      "Speaker": "T",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher orients a specific student to the public demonstration to ensure she is actively listening and following along."
+    },
+    {
+      "ID": 783,
+      "Turn": 192,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to use mathematical language to describe what was added together."
+    },
+    {
+      "ID": 785,
+      "Turn": 194,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 786,
+      "Turn": 194,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to provide the correct mathematical name for the fraction being displayed."
+    },
+    {
+      "ID": 787,
+      "Turn": 194,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students for a specific mathematical contribution by asking for the value of a single piece."
+    },
+    {
+      "ID": 789,
+      "Turn": 196,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to use more precise mathematical language ('one-fourth' instead of 'one') and to continue the mathematical statement."
+    },
+    {
+      "ID": 791,
+      "Turn": 198,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to evaluate whether the representation is a 'whole,' prompting them to connect the representation to the mathematical concept."
+    },
+    {
+      "ID": 792,
+      "Turn": 198,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students for a specific mathematical contribution by asking for the sum of the fractions."
+    }
+  ]
+}

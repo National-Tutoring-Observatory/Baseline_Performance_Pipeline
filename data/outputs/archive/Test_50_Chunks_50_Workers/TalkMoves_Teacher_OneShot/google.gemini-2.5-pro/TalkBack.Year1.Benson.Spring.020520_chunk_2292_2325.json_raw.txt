@@ -1,0 +1,137 @@
+{
+  "records": [
+    {
+      "ID": 2293,
+      "Turn": 221,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to explain their thinking behind the mathematical operation."
+    },
+    {
+      "ID": 2295,
+      "Turn": 223,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's idea about items per package and clarifies it by adding the specific context of 'eight burritos'."
+    },
+    {
+      "ID": 2297,
+      "Turn": 225,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2301,
+      "Turn": 227,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases the student's numerical answer into a complete sentence, adding context and the term 'approximately'."
+    },
+    {
+      "ID": 2302,
+      "Turn": 227,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2305,
+      "Turn": 229,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases the student's calculation to clarify the meaning of the numbers involved in the problem."
+    },
+    {
+      "ID": 2307,
+      "Turn": 231,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts the student to explain the reason for their calculation."
+    },
+    {
+      "ID": 2309,
+      "Turn": 233,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases the student's explanation to clarify the relationship between the numbers and the items in the problem."
+    },
+    {
+      "ID": 2312,
+      "Turn": 235,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases the student's numerical answer, adding context and the word 'about' to frame it as an estimate."
+    },
+    {
+      "ID": 2313,
+      "Turn": 235,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2314,
+      "Turn": 235,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2315,
+      "Turn": 235,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2318,
+      "Turn": 238,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2319,
+      "Turn": 238,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2320,
+      "Turn": 238,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2321,
+      "Turn": 238,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2322,
+      "Turn": 238,
+      "Speaker": "T",
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher prompts a new student to compare her method to the one previously shared, asking her to relate her idea to her classmate's."
+    },
+    {
+      "ID": 2324,
+      "Turn": 240,
+      "Speaker": "T",
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's calculation verbatim."
+    },
+    {
+      "ID": 2325,
+      "Turn": 240,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to explain the source of a number in their calculation, prompting them to share their thinking."
+    }
+  ]
+}

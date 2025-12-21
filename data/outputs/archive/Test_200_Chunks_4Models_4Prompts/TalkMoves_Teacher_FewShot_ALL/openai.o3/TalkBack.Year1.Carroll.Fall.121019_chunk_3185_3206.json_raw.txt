@@ -1,0 +1,53 @@
+{
+  "records": [
+    {
+      "ID": 3195,
+      "Speaker": "T",
+      "Turn": 1,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3197,
+      "Speaker": "T",
+      "Turn": 3,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Teacher checks whether everyone has the note sheet, ensuring all students are prepared and oriented to the upcoming task."
+    },
+    {
+      "ID": 3199,
+      "Speaker": "T",
+      "Turn": 5,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3200,
+      "Speaker": "T",
+      "Turn": 5,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Teacher directs the class’s attention to 'the first one … square A,' orienting all students to the same part of the task."
+    },
+    {
+      "ID": 3201,
+      "Speaker": "T",
+      "Turn": 5,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks, 'What does it represent?' prompting students to state the exact mathematical value represented by the square."
+    },
+    {
+      "ID": 3204,
+      "Speaker": "T",
+      "Turn": 8,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "By repeating 'The first one,' the teacher refocuses the class on the same item, keeping everyone oriented."
+    },
+    {
+      "ID": 3205,
+      "Speaker": "T",
+      "Turn": 9,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

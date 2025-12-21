@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 1925,
+      "Speaker": "T",
+      "Turn": 1925,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher restates the student’s written answer (“nine hundredths”) to confirm and clarify what the student produced."
+    },
+    {
+      "ID": 1927,
+      "Speaker": "T",
+      "Turn": 1927,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher repeats the student’s numeric answer (“0 19”) and checks for confirmation, slightly rephrasing to ensure shared understanding."
+    },
+    {
+      "ID": 1929,
+      "Speaker": "T",
+      "Turn": 1929,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "By asking “Without the what,” the teacher prompts the student to be precise about the missing element (likely the decimal), encouraging correct mathematical notation."
+    },
+    {
+      "ID": 1931,
+      "Speaker": "T",
+      "Turn": 1931,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher paraphrases the student’s earlier statement (“Without this one”) to pinpoint the element that was omitted, clarifying the student’s idea."
+    },
+    {
+      "ID": 1933,
+      "Speaker": "T",
+      "Turn": 1933,
+      "TalkMove": "Restating",
+      "Reasoning": "Teacher repeats exactly what the student wrote (“You wrote 109”) without alteration."
+    },
+    {
+      "ID": 1934,
+      "Speaker": "T",
+      "Turn": 1934,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks, “How can we fix this,” prompting students to correct the mathematical notation."
+    },
+    {
+      "ID": 1935,
+      "Speaker": "T",
+      "Turn": 1935,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "By calling on “Daxton,” the teacher orients the class to the next speaker, maintaining collective attention."
+    },
+    {
+      "ID": 1937,
+      "Speaker": "T",
+      "Turn": 1937,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to identify and explain their error (“do you see where your mistake was”), soliciting reasoning about the mistake."
+    },
+    {
+      "ID": 1938,
+      "Speaker": "T",
+      "Turn": 1938,
+      "TalkMove": "Restating",
+      "Reasoning": "Teacher echoes the student’s corrected answer (“eight and two tenths”) verbatim."
+    },
+    {
+      "ID": 1939,
+      "Speaker": "T",
+      "Turn": 1939,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "By asking “what did you write,” the teacher requests the precise numerical representation from the student."
+    },
+    {
+      "ID": 1941,
+      "Speaker": "T",
+      "Turn": 1941,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1942,
+      "Speaker": "T",
+      "Turn": 1942,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1943,
+      "Speaker": "T",
+      "Turn": 1943,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks another student (“Kit what did you write”) to state the exact numerical answer."
+    },
+    {
+      "ID": 1945,
+      "Speaker": "T",
+      "Turn": 1945,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "By asking “Everybody agree,” the teacher invites the class to react to and evaluate a peer’s answer."
+    },
+    {
+      "ID": 1947,
+      "Speaker": "T",
+      "Turn": 1947,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks, “Why is it not 458,” prompting students to justify the reasoning behind the correct value."
+    },
+    {
+      "ID": 1948,
+      "Speaker": "T",
+      "Turn": 1948,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Calling on “Darwins” designates the next speaker and focuses the class’s attention."
+    },
+    {
+      "ID": 1950,
+      "Speaker": "T",
+      "Turn": 1950,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1951,
+      "Speaker": "T",
+      "Turn": 1951,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1952,
+      "Speaker": "T",
+      "Turn": 1952,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1953,
+      "Speaker": "T",
+      "Turn": 1953,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

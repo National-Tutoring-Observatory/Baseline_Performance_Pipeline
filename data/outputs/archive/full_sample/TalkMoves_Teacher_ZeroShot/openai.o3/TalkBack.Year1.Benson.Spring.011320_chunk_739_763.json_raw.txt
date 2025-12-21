@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 739,
+      "Speaker": "T",
+      "Turn": 739,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 740,
+      "Speaker": "T",
+      "Turn": 740,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks students to state the result of adding 1/3 + 1/3 + 1/3, seeking a correct mathematical answer."
+    },
+    {
+      "ID": 742,
+      "Speaker": "T",
+      "Turn": 742,
+      "TalkMove": "Restating",
+      "Reasoning": "Teacher repeats the student’s response 'three thirds' word-for-word."
+    },
+    {
+      "ID": 743,
+      "Speaker": "T",
+      "Turn": 743,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher prompts students to supply the conventional name for 3/3, focusing on correct terminology."
+    },
+    {
+      "ID": 745,
+      "Speaker": "T",
+      "Turn": 745,
+      "TalkMove": "Restating",
+      "Reasoning": "Teacher echoes the answer 'one whole,' reinforcing what was just said."
+    },
+    {
+      "ID": 746,
+      "Speaker": "T",
+      "Turn": 746,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 747,
+      "Speaker": "T",
+      "Turn": 747,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks what pieces must be added to 1/4 to make a whole, requesting a correct mathematical combination."
+    },
+    {
+      "ID": 748,
+      "Speaker": "T",
+      "Turn": 748,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher calls on a student to state which pieces were added, again targeting the accurate combination."
+    },
+    {
+      "ID": 749,
+      "Speaker": "T",
+      "Turn": 749,
+      "TalkMove": "Restating",
+      "Reasoning": "Teacher restates the fraction 'one fourth' that has been mentioned."
+    },
+    {
+      "ID": 750,
+      "Speaker": "T",
+      "Turn": 750,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 751,
+      "Speaker": "T",
+      "Turn": 751,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks how many fourths there should be altogether, prompting a correct numerical answer."
+    },
+    {
+      "ID": 753,
+      "Speaker": "T",
+      "Turn": 753,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 754,
+      "Speaker": "T",
+      "Turn": 754,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher asks whether two 1/4 pieces can be swapped for a yellow piece, prompting students to justify equivalence."
+    },
+    {
+      "ID": 755,
+      "Speaker": "T",
+      "Turn": 755,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 757,
+      "Speaker": "T",
+      "Turn": 757,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 758,
+      "Speaker": "T",
+      "Turn": 758,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher asks if a green piece could replace the two purples, inviting students to consider and justify equivalence."
+    },
+    {
+      "ID": 760,
+      "Speaker": "T",
+      "Turn": 760,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 761,
+      "Speaker": "T",
+      "Turn": 761,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 762,
+      "Speaker": "T",
+      "Turn": 762,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 763,
+      "Speaker": "T",
+      "Turn": 763,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

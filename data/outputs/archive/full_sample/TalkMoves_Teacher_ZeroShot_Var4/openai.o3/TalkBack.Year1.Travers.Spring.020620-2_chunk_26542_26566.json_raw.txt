@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 26542,
+      "Speaker": "T",
+      "Turn": 26542,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26543,
+      "Speaker": "T",
+      "Turn": 26543,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26544,
+      "Speaker": "T",
+      "Turn": 26544,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher requests the specific monetary amount for the jugglers, prompting students to supply a correct numerical value."
+    },
+    {
+      "ID": 26545,
+      "Speaker": "T",
+      "Turn": 26545,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26546,
+      "Speaker": "T",
+      "Turn": 26546,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher begins the prompt 'Jugglers are…', inviting students to specify the exact number of jugglers."
+    },
+    {
+      "ID": 26547,
+      "Speaker": "T",
+      "Turn": 26547,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26548,
+      "Speaker": "T",
+      "Turn": 26548,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Explicitly asks, 'How many performers,' eliciting a precise numerical response."
+    },
+    {
+      "ID": 26550,
+      "Speaker": "T",
+      "Turn": 26550,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks, 'How many hours,' prompting students to state the exact time quantity."
+    },
+    {
+      "ID": 26552,
+      "Speaker": "T",
+      "Turn": 26552,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks, 'How much money,' seeking the specific monetary amount."
+    },
+    {
+      "ID": 26554,
+      "Speaker": "T",
+      "Turn": 26554,
+      "TalkMove": "Restating",
+      "Reasoning": "Teacher repeats the student-supplied answer 'Thirty per hour' verbatim."
+    },
+    {
+      "ID": 26555,
+      "Speaker": "T",
+      "Turn": 26555,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26556,
+      "Speaker": "T",
+      "Turn": 26556,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26557,
+      "Speaker": "T",
+      "Turn": 26557,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The prompt 'Three times two times what' asks students for the missing factor, pushing for a precise mathematical detail."
+    },
+    {
+      "ID": 26558,
+      "Speaker": "T",
+      "Turn": 26558,
+      "TalkMove": "Restating",
+      "Reasoning": "Teacher echoes the numeric answer '3000' that a student has presumably provided."
+    },
+    {
+      "ID": 26559,
+      "Speaker": "T",
+      "Turn": 26559,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26560,
+      "Speaker": "T",
+      "Turn": 26560,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26561,
+      "Speaker": "T",
+      "Turn": 26561,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Reminds students to include the variable letter, prompting correct mathematical notation."
+    },
+    {
+      "ID": 26562,
+      "Speaker": "T",
+      "Turn": 26562,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Asks, 'The D represents what,' requiring students to explain the meaning behind the variable."
+    },
+    {
+      "ID": 26565,
+      "Speaker": "T",
+      "Turn": 26565,
+      "TalkMove": "Restating",
+      "Reasoning": "Teacher repeats the student’s explanation 'Dollars in units' verbatim."
+    },
+    {
+      "ID": 26566,
+      "Speaker": "T",
+      "Turn": 26566,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

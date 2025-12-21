@@ -1,0 +1,102 @@
+{
+  "records": [
+    {
+      "ID": 1044,
+      "Speaker": "T",
+      "Turn": 1,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1045,
+      "Speaker": "T",
+      "Turn": 1,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1048,
+      "Speaker": "T",
+      "Turn": 3,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1049,
+      "Speaker": "T",
+      "Turn": 3,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1050,
+      "Speaker": "T",
+      "Turn": 3,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1053,
+      "Speaker": "T",
+      "Turn": 5,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks students to identify the unknown quantity in the problem, prompting precise mathematical information."
+    },
+    {
+      "ID": 1054,
+      "Speaker": "T",
+      "Turn": 5,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Calls on a student to state exactly what needs to be found, eliciting the specific mathematical goal."
+    },
+    {
+      "ID": 1056,
+      "Speaker": "T",
+      "Turn": 7,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Prompts students to state the given information in the problem."
+    },
+    {
+      "ID": 1057,
+      "Speaker": "T",
+      "Turn": 7,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Further prompts for the specific known quantities (the pieces of information)."
+    },
+    {
+      "ID": 1058,
+      "Speaker": "T",
+      "Turn": 7,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1060,
+      "Speaker": "T",
+      "Turn": 9,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks for a precise number sentence to represent and solve the situation."
+    },
+    {
+      "ID": 1062,
+      "Speaker": "T",
+      "Turn": 11,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Requests the specific numerical result for how many beets Kennedy has."
+    },
+    {
+      "ID": 1064,
+      "Speaker": "T",
+      "Turn": 13,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Prompts students to identify what the 5 represents in the context."
+    },
+    {
+      "ID": 1065,
+      "Speaker": "T",
+      "Turn": 15,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Prompts students to identify what the 7 represents in the context."
+    }
+  ]
+}

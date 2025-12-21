@@ -1,0 +1,153 @@
+{
+  "records": [
+    {
+      "ID": 11288,
+      "Turn": 96,
+      "Speaker": "S",
+      "Sentence": "I dont know"
+    },
+    {
+      "ID": 11289,
+      "Turn": 96,
+      "Speaker": "S",
+      "Sentence": "I have  I can explain how one or take  model is a representation of fraction products"
+    },
+    {
+      "ID": 11290,
+      "Turn": 97,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11291,
+      "Turn": 97,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts students to discuss and explain the meaning of the learning objective."
+    },
+    {
+      "ID": 11292,
+      "Turn": 98,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11293,
+      "Turn": 98,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts a student to explain the meaning of the learning objective."
+    },
+    {
+      "ID": 11294,
+      "Turn": 99,
+      "Speaker": "S",
+      "Sentence": "It means that were going to have to be able to explain how our paper folding model or drawing helps us explain how we did the fraction product"
+    },
+    {
+      "ID": 11295,
+      "Turn": 100,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts a student to define a specific mathematical term used in their explanation."
+    },
+    {
+      "ID": 11296,
+      "Turn": 101,
+      "Speaker": "S",
+      "Sentence": "What our answer was"
+    },
+    {
+      "ID": 11297,
+      "Turn": 102,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's idea of an 'answer' but adds the mathematical context 'from multiplying' to make it more precise."
+    },
+    {
+      "ID": 11298,
+      "Turn": 103,
+      "Speaker": "S",
+      "Sentence": "A fraction times a fraction"
+    },
+    {
+      "ID": 11299,
+      "Turn": 104,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11300,
+      "Turn": 104,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11301,
+      "Turn": 104,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11302,
+      "Turn": 104,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11303,
+      "Turn": 104,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11304,
+      "Turn": 104,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11305,
+      "Turn": 104,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11306,
+      "Turn": 104,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11307,
+      "Turn": 104,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11308,
+      "Turn": 104,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11309,
+      "Turn": 104,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

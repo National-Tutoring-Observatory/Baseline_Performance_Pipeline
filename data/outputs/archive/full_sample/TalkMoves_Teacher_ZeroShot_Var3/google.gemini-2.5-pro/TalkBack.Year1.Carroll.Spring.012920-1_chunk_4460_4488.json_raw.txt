@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 4460,
+      "Speaker": "T",
+      "Turn": 4460,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4461,
+      "Speaker": "T",
+      "Turn": 4461,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4462,
+      "Speaker": "T",
+      "Turn": 4462,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4463,
+      "Speaker": "T",
+      "Turn": 4463,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4466,
+      "Speaker": "T",
+      "Turn": 4466,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's idea about switching the numbers, but rephrases it for clarification."
+    },
+    {
+      "ID": 4467,
+      "Speaker": "T",
+      "Turn": 4467,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats and clarifies the student's idea that the numbers eight and nine should be switched."
+    },
+    {
+      "ID": 4469,
+      "Speaker": "T",
+      "Turn": 4469,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to provide the reasoning ('why') behind their team's conclusion."
+    },
+    {
+      "ID": 4471,
+      "Speaker": "T",
+      "Turn": 4471,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4473,
+      "Speaker": "T",
+      "Turn": 4473,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4474,
+      "Speaker": "T",
+      "Turn": 4474,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases what they believe the student's team proposed and asks for confirmation."
+    },
+    {
+      "ID": 4476,
+      "Speaker": "T",
+      "Turn": 4476,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher invites other students to assist a classmate, orienting students to help one another."
+    },
+    {
+      "ID": 4477,
+      "Speaker": "T",
+      "Turn": 4477,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to be more precise about which number they are referring to."
+    },
+    {
+      "ID": 4479,
+      "Speaker": "T",
+      "Turn": 4479,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases the student's suggestion for a change, likely using a visual aid, and seeks confirmation."
+    },
+    {
+      "ID": 4480,
+      "Speaker": "T",
+      "Turn": 4480,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4483,
+      "Speaker": "T",
+      "Turn": 4483,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's contribution word for word."
+    },
+    {
+      "ID": 4484,
+      "Speaker": "T",
+      "Turn": 4484,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher asks all students to participate by showing their agreement or disagreement, ensuring everyone is engaged in the discussion."
+    },
+    {
+      "ID": 4485,
+      "Speaker": "T",
+      "Turn": 4485,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4486,
+      "Speaker": "T",
+      "Turn": 4486,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher directs one student to help another, fostering peer interaction and ensuring a student is not left behind."
+    },
+    {
+      "ID": 4487,
+      "Speaker": "T",
+      "Turn": 4487,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "After confirming the correct answer, the teacher explicitly asks students to explain the reasoning behind it."
+    },
+    {
+      "ID": 4488,
+      "Speaker": "T",
+      "Turn": 4488,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher reiterates the demand for an explanation ('why') and directs the question to a specific student."
+    }
+  ]
+}

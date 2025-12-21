@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 764,
+      "Speaker": "T",
+      "Turn": 764,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 765,
+      "Speaker": "T",
+      "Turn": 765,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 767,
+      "Speaker": "T",
+      "Turn": 767,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher directs the whole class to focus on the same item (“everyone look at number two”), keeping all students oriented to the shared task."
+    },
+    {
+      "ID": 768,
+      "Speaker": "T",
+      "Turn": 768,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks students to name the exact color piece required, prompting a specific, correct mathematical detail."
+    },
+    {
+      "ID": 770,
+      "Speaker": "T",
+      "Turn": 770,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 771,
+      "Speaker": "T",
+      "Turn": 771,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 772,
+      "Speaker": "T",
+      "Turn": 772,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Requests the student to state exactly what problem #2 says, soliciting a precise statement of the text."
+    },
+    {
+      "ID": 773,
+      "Speaker": "T",
+      "Turn": 773,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks for the value of the whole given that one-fourth is the light green piece, requiring a correct mathematical identification."
+    },
+    {
+      "ID": 774,
+      "Speaker": "T",
+      "Turn": 774,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Prompts a student to state how many fractional parts make the whole, seeking a specific numerical answer."
+    },
+    {
+      "ID": 776,
+      "Speaker": "T",
+      "Turn": 776,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Repeats the student’s contribution (“One”) and adds an explanatory link to the denominator, rephrasing with added meaning."
+    },
+    {
+      "ID": 778,
+      "Speaker": "T",
+      "Turn": 778,
+      "TalkMove": "Restating",
+      "Reasoning": "Echoes the student’s answer “Four” almost verbatim to affirm it for the group."
+    },
+    {
+      "ID": 779,
+      "Speaker": "T",
+      "Turn": 779,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks how many light green pieces are needed, requiring a precise numerical response."
+    },
+    {
+      "ID": 781,
+      "Speaker": "T",
+      "Turn": 781,
+      "TalkMove": "Restating",
+      "Reasoning": "Repeats the student’s answer “Four,” reinforcing it without alteration."
+    },
+    {
+      "ID": 782,
+      "Speaker": "T",
+      "Turn": 782,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Requests Sophie to describe what was just demonstrated, prompting her to articulate the underlying idea."
+    },
+    {
+      "ID": 783,
+      "Speaker": "T",
+      "Turn": 783,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks which fractional parts were added, seeking a precise accounting of the pieces."
+    },
+    {
+      "ID": 785,
+      "Speaker": "T",
+      "Turn": 785,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 786,
+      "Speaker": "T",
+      "Turn": 786,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Checks whether the displayed pieces sum to three-fourths, prompting a specific fraction identification."
+    },
+    {
+      "ID": 787,
+      "Speaker": "T",
+      "Turn": 787,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks the value of the remaining piece, soliciting an exact fraction."
+    },
+    {
+      "ID": 789,
+      "Speaker": "T",
+      "Turn": 789,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Begins the expression “one-fourth plus …” inviting students to supply the precise continuation to complete the sum."
+    },
+    {
+      "ID": 791,
+      "Speaker": "T",
+      "Turn": 791,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks if the constructed pieces make a whole, prompting a correct evaluation of completeness."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "utterances": [
+    {
+      "ID": 0,
+      "Turn": 1,
+      "Speaker": "T",
+      "Sentence": "Okay so can you guys see"
+    },
+    {
+      "ID": 1,
+      "Turn": 2,
+      "Speaker": "S",
+      "Sentence": "Yes"
+    },
+    {
+      "ID": 2,
+      "Turn": 3,
+      "Speaker": "T",
+      "Sentence": "Yes your learning intention is you can multiply twodigit numbers by twodigit numbers"
+    },
+    {
+      "ID": 3,
+      "Turn": 3,
+      "Speaker": "T",
+      "Sentence": "Were building up our skills two digits by two digits and were going to use partial product strategy"
+    }
+  ]
+}

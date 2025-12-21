@@ -1,0 +1,102 @@
+{
+  "records": [
+    {
+      "ID": 1044,
+      "Speaker": "T",
+      "Turn": 1,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1045,
+      "Speaker": "T",
+      "Turn": 1,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1048,
+      "Speaker": "T",
+      "Turn": 3,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1049,
+      "Speaker": "T",
+      "Turn": 3,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1050,
+      "Speaker": "T",
+      "Turn": 3,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher asks a student to read the problem aloud so the whole class can access and follow the text, orienting everyone to the task."
+    },
+    {
+      "ID": 1053,
+      "Speaker": "T",
+      "Turn": 5,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to articulate exactly what needs to be determined in the problem."
+    },
+    {
+      "ID": 1054,
+      "Speaker": "T",
+      "Turn": 5,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "By repeating the question to a specific student, the teacher continues pushing for a precise statement of the unknown quantity."
+    },
+    {
+      "ID": 1056,
+      "Speaker": "T",
+      "Turn": 7,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks students to state the given information in the problem, seeking specific data."
+    },
+    {
+      "ID": 1057,
+      "Speaker": "T",
+      "Turn": 7,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Rephrases the previous prompt to elicit the exact pieces of known information."
+    },
+    {
+      "ID": 1058,
+      "Speaker": "T",
+      "Turn": 7,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1060,
+      "Speaker": "T",
+      "Turn": 9,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks students to write a precise number sentence representing the situation."
+    },
+    {
+      "ID": 1062,
+      "Speaker": "T",
+      "Turn": 11,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher requests the exact numerical answer to the problem."
+    },
+    {
+      "ID": 1064,
+      "Speaker": "T",
+      "Turn": 13,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks students to specify what the numeral 5 represents in context, ensuring correct interpretation."
+    },
+    {
+      "ID": 1065,
+      "Speaker": "T",
+      "Turn": 15,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Prompts students to identify what the numeral 7 represents, seeking precise understanding."
+    }
+  ]
+}

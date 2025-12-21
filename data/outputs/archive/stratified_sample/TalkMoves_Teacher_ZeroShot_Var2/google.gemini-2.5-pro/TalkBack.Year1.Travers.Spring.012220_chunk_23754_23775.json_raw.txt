@@ -1,0 +1,109 @@
+{
+  "records": [
+    {
+      "ID": 23754,
+      "Speaker": "T",
+      "Turn": 49,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher uses a fill-in-the-blank prompt to elicit a specific mathematical term from the student."
+    },
+    {
+      "ID": 23756,
+      "Speaker": "T",
+      "Turn": 51,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23758,
+      "Speaker": "T",
+      "Turn": 53,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts the student to elaborate on their contribution by asking them to 'tell me more'."
+    },
+    {
+      "ID": 23760,
+      "Speaker": "T",
+      "Turn": 55,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to provide a more complete and precise mathematical phrase."
+    },
+    {
+      "ID": 23762,
+      "Speaker": "T",
+      "Turn": 57,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23764,
+      "Speaker": "T",
+      "Turn": 59,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23765,
+      "Speaker": "T",
+      "Turn": 59,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher gives a directive to orient students' attention to the shared instructional focus."
+    },
+    {
+      "ID": 23766,
+      "Speaker": "T",
+      "Turn": 59,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23767,
+      "Speaker": "T",
+      "Turn": 59,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23770,
+      "Speaker": "T",
+      "Turn": 62,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's idea but adds the word 'usually', modifying the original statement to highlight a point for discussion."
+    },
+    {
+      "ID": 23771,
+      "Speaker": "T",
+      "Turn": 62,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher asks the class to evaluate the revoiced idea, prompting them to react to what a classmate said."
+    },
+    {
+      "ID": 23772,
+      "Speaker": "T",
+      "Turn": 62,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23773,
+      "Speaker": "T",
+      "Turn": 62,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23774,
+      "Speaker": "T",
+      "Turn": 62,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23775,
+      "Speaker": "T",
+      "Turn": 64,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher pushes for a more precise mathematical rule by contrasting 'usually' with 'always' and asking a fill-in-the-blank question."
+    }
+  ]
+}

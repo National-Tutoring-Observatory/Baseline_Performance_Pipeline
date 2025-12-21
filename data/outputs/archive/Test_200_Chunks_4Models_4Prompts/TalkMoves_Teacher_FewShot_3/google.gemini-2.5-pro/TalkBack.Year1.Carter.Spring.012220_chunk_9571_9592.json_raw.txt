@@ -1,0 +1,98 @@
+[
+  {
+    "ID": 9571,
+    "Turn": 29,
+    "Speaker": "T",
+    "Sentence": "All right head back to your seats unless you need to stay there to talk to them about their work",
+    "TalkMove": "None",
+    "Reasoning": null
+  },
+  {
+    "ID": 9572,
+    "Turn": 29,
+    "Speaker": "T",
+    "Sentence": "Ready go",
+    "TalkMove": "None",
+    "Reasoning": null
+  },
+  {
+    "ID": 9573,
+    "Turn": 30,
+    "Speaker": "T",
+    "Sentence": "This is right",
+    "TalkMove": "None",
+    "Reasoning": null
+  },
+  {
+    "ID": 9575,
+    "Turn": 31,
+    "Speaker": "T",
+    "Sentence": "Okay",
+    "TalkMove": "None",
+    "Reasoning": null
+  },
+  {
+    "ID": 9576,
+    "Turn": 32,
+    "Speaker": "T",
+    "Sentence": "This is the tenth to the zero so what should it be",
+    "TalkMove": "Pressing for Accuracy",
+    "Reasoning": "The teacher prompts the student to provide the correct mathematical value based on the given term."
+  },
+  {
+    "ID": 9578,
+    "Turn": 33,
+    "Speaker": "T",
+    "Sentence": "Or should it be 10 to go first",
+    "TalkMove": "Pressing for Accuracy",
+    "Reasoning": "The teacher prompts the student to use more precise mathematical language or notation."
+  },
+  {
+    "ID": 9580,
+    "Turn": 35,
+    "Speaker": "T",
+    "Sentence": "Because you want one zero there right",
+    "TalkMove": "Pressing for Reasoning",
+    "Reasoning": "The teacher prompts the student to confirm the reasoning behind the mathematical notation."
+  },
+  {
+    "ID": 9582,
+    "Turn": 37,
+    "Speaker": "T",
+    "Sentence": "One would be 10 to the 0",
+    "TalkMove": "None",
+    "Reasoning": null
+  },
+  {
+    "ID": 9584,
+    "Turn": 39,
+    "Speaker": "T",
+    "Sentence": "Yes so it should be 10 to the 0",
+    "TalkMove": "None",
+    "Reasoning": null
+  },
+  {
+    "ID": 9586,
+    "Turn": 41,
+    "Speaker": "T",
+    "Sentence": "Yes so that is right do you see why",
+    "TalkMove": "Pressing for Reasoning",
+    "Reasoning": "The teacher explicitly asks the student if they understand the reasoning behind the correct answer."
+  },
+  {
+    "ID": 9591,
+    "Turn": 44,
+    "Speaker": "T",
+    "Sentence": "No its not going to be a one its going to be a zero",
+    "TalkMove": "None",
+    "Reasoning": null
+  },
+  {
+    "ID": 9592,
+    "Turn": 44,
+    "Speaker": "T",
+    "Sentence": "I misread what you had there",
+    "TalkMove": "None",
+    "Reasoning": null
+  }
+]

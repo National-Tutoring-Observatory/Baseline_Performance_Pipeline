@@ -1,0 +1,137 @@
+{
+  "records": [
+    {
+      "ID": 2293,
+      "Turn": 221,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Asks the student to explain why, prompting justification."
+    },
+    {
+      "ID": 2295,
+      "Turn": 223,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "Paraphrases the student’s idea about eight per package to clarify understanding."
+    },
+    {
+      "ID": 2297,
+      "Turn": 225,
+      "Speaker": "T",
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 2301,
+      "Turn": 227,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "Summarizes the student’s computed estimate (240) in the teacher’s words."
+    },
+    {
+      "ID": 2302,
+      "Turn": 227,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Prompts the student to continue describing their process/next step."
+    },
+    {
+      "ID": 2305,
+      "Turn": 229,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "Rephrases the student’s multiplication context (18 and 6) to check understanding."
+    },
+    {
+      "ID": 2307,
+      "Turn": 231,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Seeks the rationale for multiplying by 5."
+    },
+    {
+      "ID": 2309,
+      "Turn": 233,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "Restates the student’s explanation about packages/sandwiches using new wording."
+    },
+    {
+      "ID": 2312,
+      "Turn": 235,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "Restates the approximate total for sandwiches in the teacher’s words."
+    },
+    {
+      "ID": 2313,
+      "Turn": 235,
+      "Speaker": "T",
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 2314,
+      "Turn": 235,
+      "Speaker": "T",
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 2315,
+      "Turn": 235,
+      "Speaker": "T",
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 2318,
+      "Turn": 238,
+      "Speaker": "T",
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 2319,
+      "Turn": 238,
+      "Speaker": "T",
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 2320,
+      "Turn": 238,
+      "Speaker": "T",
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 2321,
+      "Turn": 238,
+      "Speaker": "T",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Invites participation by asking who used a different method, orienting the class to share."
+    },
+    {
+      "ID": 2322,
+      "Turn": 238,
+      "Speaker": "T",
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "Asks how the estimate was different, prompting a connection to prior methods."
+    },
+    {
+      "ID": 2324,
+      "Turn": 240,
+      "Speaker": "T",
+      "TalkMove": "Restating",
+      "Reasoning": "Repeats the student’s expression verbatim."
+    },
+    {
+      "ID": 2325,
+      "Turn": 240,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Asks for the source of the 'five,' prompting justification."
+    }
+  ]
+}

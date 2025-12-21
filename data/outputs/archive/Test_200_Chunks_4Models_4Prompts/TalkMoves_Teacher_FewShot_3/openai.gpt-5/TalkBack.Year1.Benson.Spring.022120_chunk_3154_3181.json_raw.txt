@@ -1,0 +1,119 @@
+{
+  "records": [
+    {
+      "ID": 3154,
+      "Turn": 153,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to explain their confusion, prompting them to share their thinking."
+    },
+    {
+      "ID": 3155,
+      "Turn": 154,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Asks the student to specify what they don't understand, eliciting an explanation."
+    },
+    {
+      "ID": 3156,
+      "Turn": 154,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Repeats the prompt to clarify the student's confusion and solicit their thinking."
+    },
+    {
+      "ID": 3158,
+      "Turn": 156,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Prompts students to state the mathematical topic they are working on."
+    },
+    {
+      "ID": 3160,
+      "Turn": 158,
+      "Speaker": "T",
+      "TalkMove": "Restating",
+      "Reasoning": "Echoes the student's one-word response \"Area\" verbatim."
+    },
+    {
+      "ID": 3161,
+      "Turn": 158,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Requests a definition of 'area', prompting precise mathematical language."
+    },
+    {
+      "ID": 3162,
+      "Turn": 159,
+      "Speaker": "T",
+      "TalkMove": "None"
+    },
+    {
+      "ID": 3163,
+      "Turn": 159,
+      "Speaker": "T",
+      "TalkMove": "None"
+    },
+    {
+      "ID": 3164,
+      "Turn": 159,
+      "Speaker": "T",
+      "TalkMove": "None"
+    },
+    {
+      "ID": 3165,
+      "Turn": 159,
+      "Speaker": "T",
+      "TalkMove": "None"
+    },
+    {
+      "ID": 3166,
+      "Turn": 159,
+      "Speaker": "T",
+      "TalkMove": "None"
+    },
+    {
+      "ID": 3169,
+      "Turn": 161,
+      "Speaker": "T",
+      "TalkMove": "None"
+    },
+    {
+      "ID": 3170,
+      "Turn": 161,
+      "Speaker": "T",
+      "TalkMove": "None"
+    },
+    {
+      "ID": 3171,
+      "Turn": 161,
+      "Speaker": "T",
+      "TalkMove": "None"
+    },
+    {
+      "ID": 3172,
+      "Turn": 161,
+      "Speaker": "T",
+      "TalkMove": "None"
+    },
+    {
+      "ID": 3173,
+      "Turn": 161,
+      "Speaker": "T",
+      "TalkMove": "None"
+    },
+    {
+      "ID": 3174,
+      "Turn": 162,
+      "Speaker": "T",
+      "TalkMove": "None"
+    },
+    {
+      "ID": 3180,
+      "Turn": 167,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Prompts the student to determine a specific multiplication fact (9 times what) to reach a given value."
+    }
+  ]
+}

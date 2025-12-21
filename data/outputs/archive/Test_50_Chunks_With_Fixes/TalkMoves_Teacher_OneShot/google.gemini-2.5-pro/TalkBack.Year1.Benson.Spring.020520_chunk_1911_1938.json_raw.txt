@@ -1,0 +1,130 @@
+{
+  "records": [
+    {
+      "ID": 1911,
+      "Turn": 14,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1913,
+      "Turn": 16,
+      "Speaker": "T",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher polls the class to see if other students had a similar answer, orienting students to each other's work."
+    },
+    {
+      "ID": 1914,
+      "Turn": 16,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1916,
+      "Turn": 18,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1918,
+      "Turn": 20,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases the student's statement to confirm their understanding of what the student meant."
+    },
+    {
+      "ID": 1919,
+      "Turn": 20,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1920,
+      "Turn": 20,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1922,
+      "Turn": 22,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1923,
+      "Turn": 22,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1925,
+      "Turn": 24,
+      "Speaker": "T",
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats a portion of the student's answer verbatim to highlight it."
+    },
+    {
+      "ID": 1927,
+      "Turn": 26,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks the student to clarify their written answer, pushing for a more precise mathematical contribution."
+    },
+    {
+      "ID": 1929,
+      "Turn": 28,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1931,
+      "Turn": 30,
+      "Speaker": "T",
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's one-word answer to confirm which number they are referring to."
+    },
+    {
+      "ID": 1933,
+      "Turn": 32,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher synthesizes the student's fragmented explanation into a complete number to clarify the student's answer."
+    },
+    {
+      "ID": 1934,
+      "Turn": 32,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to explain the process for correcting an incorrect answer, prompting them to share their thinking."
+    },
+    {
+      "ID": 1935,
+      "Turn": 32,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1937,
+      "Turn": 34,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts the student to reflect on and identify their own error, which requires them to reason about their original process."
+    },
+    {
+      "ID": 1938,
+      "Turn": 34,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 11206,
+      "Speaker": "T",
+      "Turn": 11206,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's answer verbatim."
+    },
+    {
+      "ID": 11207,
+      "Speaker": "T",
+      "Turn": 11207,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11208,
+      "Speaker": "T",
+      "Turn": 11208,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11209,
+      "Speaker": "T",
+      "Turn": 11209,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11212,
+      "Speaker": "T",
+      "Turn": 11212,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher affirms a student's idea ('It is') but rephrases it to include the specific mathematical representation required by the lesson ('but were also looking for it is a fraction')."
+    },
+    {
+      "ID": 11213,
+      "Speaker": "T",
+      "Turn": 11213,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11214,
+      "Speaker": "T",
+      "Turn": 11214,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11215,
+      "Speaker": "T",
+      "Turn": 11215,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11216,
+      "Speaker": "T",
+      "Turn": 11216,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11217,
+      "Speaker": "T",
+      "Turn": 11217,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts the student to connect the lesson's objective to the way their answer should be represented, asking for the thinking behind the format."
+    },
+    {
+      "ID": 11218,
+      "Speaker": "T",
+      "Turn": 11218,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11219,
+      "Speaker": "T",
+      "Turn": 11219,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to explain or provide evidence for the equivalence of two mathematical expressions."
+    },
+    {
+      "ID": 11220,
+      "Speaker": "T",
+      "Turn": 11220,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11221,
+      "Speaker": "T",
+      "Turn": 11221,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11222,
+      "Speaker": "T",
+      "Turn": 11222,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11223,
+      "Speaker": "T",
+      "Turn": 11223,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11225,
+      "Speaker": "T",
+      "Turn": 11225,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher prompts a student to react to what a classmate said by asking if they agree."
+    },
+    {
+      "ID": 11226,
+      "Speaker": "T",
+      "Turn": 11226,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher explicitly asks a student to react to a classmate's idea by explaining their point of disagreement."
+    },
+    {
+      "ID": 11229,
+      "Speaker": "T",
+      "Turn": 11229,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11230,
+      "Speaker": "T",
+      "Turn": 11230,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher orients a student to a previous part of the class discussion to ensure the conversation builds on a shared understanding."
+    }
+  ]
+}

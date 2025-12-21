@@ -1,0 +1,137 @@
+{
+  "records": [
+    {
+      "ID": 21678,
+      "Speaker": "T",
+      "Turn": 1,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21679,
+      "Speaker": "T",
+      "Turn": 2,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21681,
+      "Speaker": "T",
+      "Turn": 3,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's exact words, 'Isolate the radical on one side of the equation'."
+    },
+    {
+      "ID": 21682,
+      "Speaker": "T",
+      "Turn": 3,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21684,
+      "Speaker": "T",
+      "Turn": 5,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's exact words, 'Isolate the radical'."
+    },
+    {
+      "ID": 21685,
+      "Speaker": "T",
+      "Turn": 5,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to provide the specific mathematical operation needed to isolate the radical."
+    },
+    {
+      "ID": 21687,
+      "Speaker": "T",
+      "Turn": 7,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21688,
+      "Speaker": "T",
+      "Turn": 7,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21689,
+      "Speaker": "T",
+      "Turn": 7,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21691,
+      "Speaker": "T",
+      "Turn": 9,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's exact words, 'Get rid of the plus one'."
+    },
+    {
+      "ID": 21692,
+      "Speaker": "T",
+      "Turn": 9,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21694,
+      "Speaker": "T",
+      "Turn": 11,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's exact words, 'Get rid of the radical'."
+    },
+    {
+      "ID": 21695,
+      "Speaker": "T",
+      "Turn": 11,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks 'How do we know when...' to prompt the student to explain the condition that justifies the next step."
+    },
+    {
+      "ID": 21697,
+      "Speaker": "T",
+      "Turn": 13,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's idea ('nothing outside of it') but refines the language for mathematical clarity ('nothing outside of the radical on that side of the equation')."
+    },
+    {
+      "ID": 21698,
+      "Speaker": "T",
+      "Turn": 13,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks 'How are we going to go about doing that?' to prompt the student to explain the process for getting rid of the radical."
+    },
+    {
+      "ID": 21699,
+      "Speaker": "T",
+      "Turn": 13,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21702,
+      "Speaker": "T",
+      "Turn": 15,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher takes up the student's suggestion ('multiply it by itself') and rephrases it as a hypothetical action ('I could multiply it by itself') to begin exploring the idea."
+    },
+    {
+      "ID": 21703,
+      "Speaker": "T",
+      "Turn": 15,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21704,
+      "Speaker": "T",
+      "Turn": 15,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

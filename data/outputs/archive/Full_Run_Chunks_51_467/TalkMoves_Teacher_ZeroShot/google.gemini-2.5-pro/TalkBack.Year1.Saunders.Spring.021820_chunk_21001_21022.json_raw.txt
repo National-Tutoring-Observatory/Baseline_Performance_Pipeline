@@ -1,0 +1,100 @@
+{
+  "records": [
+    {
+      "ID": 21001,
+      "Turn": 173,
+      "Speaker": "T",
+      "Sentence": "No",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21002,
+      "Turn": 173,
+      "Speaker": "T",
+      "Sentence": "Chase",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21006,
+      "Turn": 176,
+      "Speaker": "T",
+      "Sentence": "Two and three",
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's statement verbatim to confirm the topic of the question."
+    },
+    {
+      "ID": 21007,
+      "Turn": 176,
+      "Speaker": "T",
+      "Sentence": "All right so if you look",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21010,
+      "Turn": 179,
+      "Speaker": "T",
+      "Sentence": "With these types of problems you have to be careful",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21011,
+      "Turn": 179,
+      "Speaker": "T",
+      "Sentence": "What is the 6 on",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a question to focus the student's attention on a specific, critical detail of the mathematical notation."
+    },
+    {
+      "ID": 21013,
+      "Turn": 181,
+      "Speaker": "T",
+      "Sentence": "Just the X",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's answer ('The X') but adds the word 'Just' to emphasize and clarify the student's contribution."
+    },
+    {
+      "ID": 21015,
+      "Turn": 183,
+      "Speaker": "T",
+      "Sentence": "If I wanted positive Ive got to flip it to the other side of the fraction",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21016,
+      "Turn": 183,
+      "Speaker": "T",
+      "Sentence": "We dont see a fraction but its says if its over one and then were done",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21017,
+      "Turn": 183,
+      "Speaker": "T",
+      "Sentence": "So once I flipped it I can change it from a negative six to a positive six and Im done",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21020,
+      "Turn": 186,
+      "Speaker": "T",
+      "Sentence": "Three its negative here",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21021,
+      "Turn": 186,
+      "Speaker": "T",
+      "Sentence": "Put it up there and make it positive",
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "records": [
+    {
+      "ID": 12384,
+      "Speaker": "T",
+      "Turn": 3,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Teacher cues the whole class to respond together, orienting everyone to participate at the same moment."
+    },
+    {
+      "ID": 12385,
+      "Speaker": "T",
+      "Turn": 3,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12387,
+      "Speaker": "T",
+      "Turn": 5,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks for the specific mathematical term (denominator) from an individual student."
+    },
+    {
+      "ID": 12389,
+      "Speaker": "T",
+      "Turn": 7,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher again requests the exact mathematical term from the whole class."
+    },
+    {
+      "ID": 12390,
+      "Speaker": "T",
+      "Turn": 7,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12391,
+      "Speaker": "T",
+      "Turn": 7,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Repeats the prompt for the precise mathematical term."
+    },
+    {
+      "ID": 12392,
+      "Speaker": "T",
+      "Turn": 7,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Restates the student-supplied term \"denominator\" as \"the bottom number,\" adding clarifying wording."
+    },
+    {
+      "ID": 12393,
+      "Speaker": "T",
+      "Turn": 7,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks students to identify the exact numeric value that is the denominator."
+    },
+    {
+      "ID": 12395,
+      "Speaker": "T",
+      "Turn": 9,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12396,
+      "Speaker": "T",
+      "Turn": 9,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12397,
+      "Speaker": "T",
+      "Turn": 9,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "Instructs one student to tell another what to do, prompting engagement with a peer’s thinking."
+    },
+    {
+      "ID": 12399,
+      "Speaker": "T",
+      "Turn": 11,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Restates and elaborates on the student’s suggestion about grouping six, refining the idea as \"You need six exits.\""
+    },
+    {
+      "ID": 12401,
+      "Speaker": "T",
+      "Turn": 13,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Directs students to talk with their partners, coordinating participation."
+    },
+    {
+      "ID": 12402,
+      "Speaker": "T",
+      "Turn": 13,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Asks students to explain the reasoning behind Charlotte’s action of circling one group."
+    },
+    {
+      "ID": 12403,
+      "Speaker": "T",
+      "Turn": 13,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12404,
+      "Speaker": "T",
+      "Turn": 13,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12405,
+      "Speaker": "T",
+      "Turn": 13,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

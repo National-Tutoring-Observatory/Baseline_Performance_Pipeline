@@ -1,0 +1,109 @@
+{
+  "records": [
+    {
+      "ID": 6353,
+      "Speaker": "T",
+      "Turn": 27,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's answer ('It's nine') and adds an explanation to clarify the idea."
+    },
+    {
+      "ID": 6354,
+      "Speaker": "T",
+      "Turn": 27,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher paraphrases Sophia’s approach to clarify what she was considering."
+    },
+    {
+      "ID": 6355,
+      "Speaker": "T",
+      "Turn": 27,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 6356,
+      "Speaker": "T",
+      "Turn": 27,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 6357,
+      "Speaker": "T",
+      "Turn": 27,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 6358,
+      "Speaker": "T",
+      "Turn": 28,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 6359,
+      "Speaker": "T",
+      "Turn": 28,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks students to determine which product is larger, prompting a specific mathematical contribution."
+    },
+    {
+      "ID": 6360,
+      "Speaker": "T",
+      "Turn": 28,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks 'how do you know,' eliciting justification and explanation."
+    },
+    {
+      "ID": 6361,
+      "Speaker": "T",
+      "Turn": 28,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher directs teams to decide which is larger, prompting a mathematical conclusion."
+    },
+    {
+      "ID": 6362,
+      "Speaker": "T",
+      "Turn": 28,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks Team One to state which option they chose, eliciting a mathematical contribution."
+    },
+    {
+      "ID": 6363,
+      "Speaker": "T",
+      "Turn": 28,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 6365,
+      "Speaker": "T",
+      "Turn": 30,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher restates the student's claim by paraphrasing it ('So you think this one's bigger')."
+    },
+    {
+      "ID": 6368,
+      "Speaker": "T",
+      "Turn": 32,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to explain their thinking ('tell me why')."
+    },
+    {
+      "ID": 6371,
+      "Speaker": "T",
+      "Turn": 34,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 6372,
+      "Speaker": "T",
+      "Turn": 34,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts Team Two to state which option they selected, eliciting a mathematical answer."
+    }
+  ]
+}

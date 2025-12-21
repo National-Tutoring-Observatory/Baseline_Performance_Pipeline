@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 2046,
+      "Speaker": "T",
+      "Turn": 2046,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks students to specify which mathematical operation should be used, prompting a precise choice."
+    },
+    {
+      "ID": 2048,
+      "Speaker": "T",
+      "Turn": 2048,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher checks whether students can perform a particular mathematical procedure (three-digit division), focusing on correctness and skill."
+    },
+    {
+      "ID": 2050,
+      "Speaker": "T",
+      "Turn": 2050,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "By invoking the phrase \"how much more,\" the teacher is cueing students to name the correct mathematical operation associated with it."
+    },
+    {
+      "ID": 2051,
+      "Speaker": "T",
+      "Turn": 2051,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2052,
+      "Speaker": "T",
+      "Turn": 2052,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the exact numerical difference, seeking the correct calculation."
+    },
+    {
+      "ID": 2053,
+      "Speaker": "T",
+      "Turn": 2053,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to explain the method they will use to solve the problem."
+    },
+    {
+      "ID": 2054,
+      "Speaker": "T",
+      "Turn": 2054,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to choose the specific operation needed, focusing on correct mathematical action."
+    },
+    {
+      "ID": 2055,
+      "Speaker": "T",
+      "Turn": 2055,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Calling on a student to state what operation to perform seeks an explicit answer about the correct procedure."
+    },
+    {
+      "ID": 2058,
+      "Speaker": "T",
+      "Turn": 2058,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2059,
+      "Speaker": "T",
+      "Turn": 2059,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2060,
+      "Speaker": "T",
+      "Turn": 2060,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2061,
+      "Speaker": "T",
+      "Turn": 2061,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2062,
+      "Speaker": "T",
+      "Turn": 2062,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2063,
+      "Speaker": "T",
+      "Turn": 2063,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2064,
+      "Speaker": "T",
+      "Turn": 2064,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher restates Hunter’s idea in her own words to clarify it for the class."
+    },
+    {
+      "ID": 2065,
+      "Speaker": "T",
+      "Turn": 2065,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher elaborates on and reformulates the student’s explanation, adding detail while maintaining the student’s original idea."
+    },
+    {
+      "ID": 2066,
+      "Speaker": "T",
+      "Turn": 2066,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2067,
+      "Speaker": "T",
+      "Turn": 2067,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the precise result of the subtraction, seeking the correct numerical answer."
+    },
+    {
+      "ID": 2069,
+      "Speaker": "T",
+      "Turn": 2069,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher restates the (presumably student-provided) answer, adding context about what the quantity represents."
+    },
+    {
+      "ID": 2070,
+      "Speaker": "T",
+      "Turn": 2070,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

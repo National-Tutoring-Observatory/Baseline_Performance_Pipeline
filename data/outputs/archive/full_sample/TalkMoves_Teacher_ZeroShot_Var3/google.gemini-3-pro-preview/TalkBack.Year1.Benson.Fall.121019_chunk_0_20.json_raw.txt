@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 0,
+      "Speaker": "T",
+      "Turn": 0,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 2,
+      "Speaker": "T",
+      "Turn": 2,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 3,
+      "Speaker": "T",
+      "Turn": 3,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 4,
+      "Speaker": "T",
+      "Turn": 4,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 5,
+      "Speaker": "T",
+      "Turn": 5,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 6,
+      "Speaker": "T",
+      "Turn": 6,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 7,
+      "Speaker": "T",
+      "Turn": 7,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 8,
+      "Speaker": "T",
+      "Turn": 8,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 9,
+      "Speaker": "T",
+      "Turn": 9,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 10,
+      "Speaker": "T",
+      "Turn": 10,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 11,
+      "Speaker": "T",
+      "Turn": 11,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher directs students to interact with a partner to check their work, orienting them toward each other."
+    },
+    {
+      "ID": 12,
+      "Speaker": "T",
+      "Turn": 12,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 13,
+      "Speaker": "T",
+      "Turn": 13,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 14,
+      "Speaker": "T",
+      "Turn": 14,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 15,
+      "Speaker": "T",
+      "Turn": 15,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher challenges a student's action of changing an answer without thought, prompting them to explain the thinking behind that decision."
+    },
+    {
+      "ID": 16,
+      "Speaker": "T",
+      "Turn": 16,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to justify why they believe another student is correct, requiring evidence or explanation."
+    },
+    {
+      "ID": 17,
+      "Speaker": "T",
+      "Turn": 17,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts students to explain the process or steps taken to arrive at a solution."
+    },
+    {
+      "ID": 18,
+      "Speaker": "T",
+      "Turn": 18,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 19,
+      "Speaker": "T",
+      "Turn": 19,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 20,
+      "Speaker": "T",
+      "Turn": 20,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher directs students to seek help from peers ('ask someone else'), encouraging student-to-student interaction."
+    }
+  ]
+}

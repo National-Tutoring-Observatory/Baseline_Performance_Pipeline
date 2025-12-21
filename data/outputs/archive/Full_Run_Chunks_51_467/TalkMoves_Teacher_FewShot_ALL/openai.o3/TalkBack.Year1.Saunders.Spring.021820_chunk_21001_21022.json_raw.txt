@@ -1,0 +1,88 @@
+{
+  "records": [
+    {
+      "ID": 21001,
+      "Speaker": "T",
+      "Turn": 173,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21002,
+      "Speaker": "T",
+      "Turn": 173,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21006,
+      "Speaker": "T",
+      "Turn": 176,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student’s words “two and three” exactly as the student had said them."
+    },
+    {
+      "ID": 21007,
+      "Speaker": "T",
+      "Turn": 176,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21010,
+      "Speaker": "T",
+      "Turn": 179,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21011,
+      "Speaker": "T",
+      "Turn": 179,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "By asking “What is the 6 on?” the teacher prompts the student to specify exactly which part of the expression the 6 applies to, focusing on correct mathematical language."
+    },
+    {
+      "ID": 21013,
+      "Speaker": "T",
+      "Turn": 181,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher restates the student’s answer with a slight modification—adding 'Just'—to clarify and emphasize the idea."
+    },
+    {
+      "ID": 21015,
+      "Speaker": "T",
+      "Turn": 183,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21016,
+      "Speaker": "T",
+      "Turn": 183,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21017,
+      "Speaker": "T",
+      "Turn": 183,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21020,
+      "Speaker": "T",
+      "Turn": 186,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21021,
+      "Speaker": "T",
+      "Turn": 186,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

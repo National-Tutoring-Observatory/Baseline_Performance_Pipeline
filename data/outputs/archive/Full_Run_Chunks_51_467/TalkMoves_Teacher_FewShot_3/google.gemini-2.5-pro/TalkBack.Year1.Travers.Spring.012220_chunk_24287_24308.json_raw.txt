@@ -1,0 +1,88 @@
+{
+  "records": [
+    {
+      "ID": 24287,
+      "Speaker": "T",
+      "Turn": 282,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher is prompting the student to provide a specific mathematical contribution by asking for the result of a multiplication problem."
+    },
+    {
+      "ID": 24290,
+      "Speaker": "T",
+      "Turn": 284,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 24293,
+      "Speaker": "T",
+      "Turn": 287,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts the student to engage in the cognitive process of working through the problem."
+    },
+    {
+      "ID": 24294,
+      "Speaker": "T",
+      "Turn": 287,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher directs the student to review their work, implying an error and pushing for a correct answer."
+    },
+    {
+      "ID": 24300,
+      "Speaker": "T",
+      "Turn": 292,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher encourages the student to continue explaining their thought process."
+    },
+    {
+      "ID": 24301,
+      "Speaker": "T",
+      "Turn": 293,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 24302,
+      "Speaker": "T",
+      "Turn": 293,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher encourages the student to continue explaining their thought process."
+    },
+    {
+      "ID": 24303,
+      "Speaker": "T",
+      "Turn": 294,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher encourages the student to continue explaining their thought process."
+    },
+    {
+      "ID": 24304,
+      "Speaker": "T",
+      "Turn": 294,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 24305,
+      "Speaker": "T",
+      "Turn": 294,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher re-articulates the student's action (multiplying four times two) to clarify the step they took before redirecting their thinking."
+    },
+    {
+      "ID": 24306,
+      "Speaker": "T",
+      "Turn": 294,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to use the correct mathematical concept (fractions) required by the problem."
+    },
+    {
+      "ID": 24307,
+      "Speaker": "T",
+      "Turn": 294,
+      "TalkMove": "None",
+      "Reasoning": null
+    }
+  ]
+}

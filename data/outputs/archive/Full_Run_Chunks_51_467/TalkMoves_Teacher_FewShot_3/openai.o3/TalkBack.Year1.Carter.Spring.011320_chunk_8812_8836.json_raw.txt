@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 8812,
+      "Speaker": "T",
+      "Turn": 156,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Teacher gives directions that orient all pairs to begin their partner talk, ensuring collective engagement."
+    },
+    {
+      "ID": 8813,
+      "Speaker": "T",
+      "Turn": 156,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8814,
+      "Speaker": "T",
+      "Turn": 157,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Introduces a new number (37) and prompts students to determine if 3 is a factor, requesting a precise mathematical judgment."
+    },
+    {
+      "ID": 8815,
+      "Speaker": "T",
+      "Turn": 157,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Directly asks whether 3 is a factor of 37, soliciting a specific mathematical fact."
+    },
+    {
+      "ID": 8816,
+      "Speaker": "T",
+      "Turn": 157,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Asks 'Why not?' to elicit justification for the previous answer."
+    },
+    {
+      "ID": 8817,
+      "Speaker": "T",
+      "Turn": 157,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Requests an explanation of why 3 works for 36 but not 37, prompting underlying reasoning."
+    },
+    {
+      "ID": 8819,
+      "Speaker": "T",
+      "Turn": 159,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8820,
+      "Speaker": "T",
+      "Turn": 159,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Calls the class back to attention, orienting all students to the collective discussion."
+    },
+    {
+      "ID": 8821,
+      "Speaker": "T",
+      "Turn": 159,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Asks how students know 3 is a factor of 36, explicitly requesting justification."
+    },
+    {
+      "ID": 8822,
+      "Speaker": "T",
+      "Turn": 159,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Selects a specific student (Falicia) to speak, directing class attention to that contributor."
+    },
+    {
+      "ID": 8824,
+      "Speaker": "T",
+      "Turn": 161,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Seeks clarification about what is being divided into three equal groups, prompting a more precise statement."
+    },
+    {
+      "ID": 8826,
+      "Speaker": "T",
+      "Turn": 163,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8827,
+      "Speaker": "T",
+      "Turn": 163,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Paraphrases and elaborates the student’s idea, restating that 36 divided by 3 forms equal groups."
+    },
+    {
+      "ID": 8828,
+      "Speaker": "T",
+      "Turn": 163,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8829,
+      "Speaker": "T",
+      "Turn": 163,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Invites another student to offer an additional proof, requesting further justification."
+    },
+    {
+      "ID": 8831,
+      "Speaker": "T",
+      "Turn": 165,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8832,
+      "Speaker": "T",
+      "Turn": 165,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Again solicits another explanation from a different student, pressing for additional reasoning."
+    },
+    {
+      "ID": 8834,
+      "Speaker": "T",
+      "Turn": 167,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Restates/paraphrases the student’s claim that 36 is both even and odd, highlighting it for examination."
+    },
+    {
+      "ID": 8835,
+      "Speaker": "T",
+      "Turn": 167,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8836,
+      "Speaker": "T",
+      "Turn": 167,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Asks the student to explain how 36 can be both even and odd, prompting a deeper justification."
+    }
+  ]
+}

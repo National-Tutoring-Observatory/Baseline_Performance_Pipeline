@@ -1,0 +1,74 @@
+{
+  "records": [
+    {
+      "ID": 21824,
+      "Speaker": "T",
+      "Turn": 76,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks Brittany to name the first step, prompting a specific mathematical contribution."
+    },
+    {
+      "ID": 21826,
+      "Speaker": "T",
+      "Turn": 78,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats part of the student's response ('Isolate the...') word for word."
+    },
+    {
+      "ID": 21827,
+      "Speaker": "T",
+      "Turn": 78,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "By asking for 'step two,' the teacher elicits the next specific procedural/mathematical step."
+    },
+    {
+      "ID": 21829,
+      "Speaker": "T",
+      "Turn": 80,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student’s idea ('Get rid of the radical') and adds how to do it ('raise it'), modifying the wording."
+    },
+    {
+      "ID": 21831,
+      "Speaker": "T",
+      "Turn": 82,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher restates the student’s contribution ('A second power') and adds the resulting equation, rephrasing the idea."
+    },
+    {
+      "ID": 21835,
+      "Speaker": "T",
+      "Turn": 85,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21836,
+      "Speaker": "T",
+      "Turn": 85,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the value of an expression, prompting a correct computation."
+    },
+    {
+      "ID": 21838,
+      "Speaker": "T",
+      "Turn": 87,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student’s answer ('Three') word for word."
+    },
+    {
+      "ID": 21839,
+      "Speaker": "T",
+      "Turn": 87,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21840,
+      "Speaker": "T",
+      "Turn": 87,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

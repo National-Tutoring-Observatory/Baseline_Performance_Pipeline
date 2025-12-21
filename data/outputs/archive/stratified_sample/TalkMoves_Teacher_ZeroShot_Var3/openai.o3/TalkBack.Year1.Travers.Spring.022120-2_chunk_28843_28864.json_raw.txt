@@ -1,0 +1,67 @@
+{
+  "records": [
+    {
+      "ID": 28843,
+      "Speaker": "T",
+      "Turn": 300,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks students to state the exact name of the figure, prompting the use of correct mathematical terminology."
+    },
+    {
+      "ID": 28847,
+      "Speaker": "T",
+      "Turn": 303,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 28848,
+      "Speaker": "T",
+      "Turn": 303,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 28850,
+      "Speaker": "T",
+      "Turn": 305,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's response \"Trapezoid\" verbatim to acknowledge and highlight the answer."
+    },
+    {
+      "ID": 28852,
+      "Speaker": "T",
+      "Turn": 307,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "By posing a \"What if\" scenario about the figure, the teacher prompts students to think through and explain their reasoning about folding the shape."
+    },
+    {
+      "ID": 28856,
+      "Speaker": "T",
+      "Turn": 310,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to consider how the figure is similar to another, encouraging them to articulate and justify the connection."
+    },
+    {
+      "ID": 28860,
+      "Speaker": "T",
+      "Turn": 313,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 28862,
+      "Speaker": "T",
+      "Turn": 315,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 28863,
+      "Speaker": "T",
+      "Turn": 315,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 266,
+      "Speaker": "T",
+      "Turn": 266,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 267,
+      "Speaker": "T",
+      "Turn": 267,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 269,
+      "Speaker": "T",
+      "Turn": 269,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 271,
+      "Speaker": "T",
+      "Turn": 271,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher asks students to use a hand signal (thumbs up) to indicate if they have the correct answer, orienting the class to the consensus."
+    },
+    {
+      "ID": 272,
+      "Speaker": "T",
+      "Turn": 272,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 273,
+      "Speaker": "T",
+      "Turn": 273,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 274,
+      "Speaker": "T",
+      "Turn": 274,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 275,
+      "Speaker": "T",
+      "Turn": 275,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 276,
+      "Speaker": "T",
+      "Turn": 276,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 277,
+      "Speaker": "T",
+      "Turn": 277,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 278,
+      "Speaker": "T",
+      "Turn": 278,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 279,
+      "Speaker": "T",
+      "Turn": 279,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts students to analyze the difference between the current number and a previous one, asking for a mathematical comparison."
+    },
+    {
+      "ID": 280,
+      "Speaker": "T",
+      "Turn": 280,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 282,
+      "Speaker": "T",
+      "Turn": 282,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats and validates the student's contribution about the number not being a multiple of 10, adding a tag question for emphasis."
+    },
+    {
+      "ID": 283,
+      "Speaker": "T",
+      "Turn": 283,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 285,
+      "Speaker": "T",
+      "Turn": 285,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 286,
+      "Speaker": "T",
+      "Turn": 286,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 287,
+      "Speaker": "T",
+      "Turn": 287,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a specific question about place value, prompting the students to provide a precise mathematical value."
+    },
+    {
+      "ID": 289,
+      "Speaker": "T",
+      "Turn": 289,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a specific question about the value of a digit, prompting the students to provide a precise mathematical value."
+    },
+    {
+      "ID": 291,
+      "Speaker": "T",
+      "Turn": 291,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher calls on a student to identify the specific value of a digit, prompting a precise mathematical contribution."
+    }
+  ]
+}

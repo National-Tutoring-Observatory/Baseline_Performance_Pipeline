@@ -1,0 +1,165 @@
+{
+  "records": [
+    {
+      "ID": 350,
+      "Speaker": "T",
+      "Turn": 173,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 351,
+      "Speaker": "T",
+      "Turn": 173,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Prompts students to state the precise value of a digit."
+    },
+    {
+      "ID": 353,
+      "Speaker": "T",
+      "Turn": 175,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 354,
+      "Speaker": "T",
+      "Turn": 175,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks students to identify the value of the digit."
+    },
+    {
+      "ID": 356,
+      "Speaker": "T",
+      "Turn": 177,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Requests the value of a specific digit, prompting a correct mathematical fact."
+    },
+    {
+      "ID": 358,
+      "Speaker": "T",
+      "Turn": 179,
+      "TalkMove": "Restating",
+      "Reasoning": "Echoes the student's answer 'Seven' verbatim."
+    },
+    {
+      "ID": 361,
+      "Speaker": "T",
+      "Turn": 182,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 362,
+      "Speaker": "T",
+      "Turn": 182,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 363,
+      "Speaker": "T",
+      "Turn": 182,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Directly asks for the value of the digit."
+    },
+    {
+      "ID": 366,
+      "Speaker": "T",
+      "Turn": 185,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 367,
+      "Speaker": "T",
+      "Turn": 185,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Prompts students to compute the product of two values."
+    },
+    {
+      "ID": 369,
+      "Speaker": "T",
+      "Turn": 187,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 370,
+      "Speaker": "T",
+      "Turn": 187,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 371,
+      "Speaker": "T",
+      "Turn": 187,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 372,
+      "Speaker": "T",
+      "Turn": 187,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Requests a specific multiplication fact."
+    },
+    {
+      "ID": 374,
+      "Speaker": "T",
+      "Turn": 189,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Restates the student's 'Three' by embedding it in the equation ('3 times 1 is 3'), adjusting wording."
+    },
+    {
+      "ID": 375,
+      "Speaker": "T",
+      "Turn": 189,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Requests a specific multiplication fact."
+    },
+    {
+      "ID": 378,
+      "Speaker": "T",
+      "Turn": 192,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 379,
+      "Speaker": "T",
+      "Turn": 192,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Presents a computation for students to answer."
+    },
+    {
+      "ID": 381,
+      "Speaker": "T",
+      "Turn": 194,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Presents a computation for students to answer."
+    },
+    {
+      "ID": 383,
+      "Speaker": "T",
+      "Turn": 196,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 384,
+      "Speaker": "T",
+      "Turn": 196,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 386,
+      "Speaker": "T",
+      "Turn": 198,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

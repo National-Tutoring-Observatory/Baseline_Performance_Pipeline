@@ -1,0 +1,95 @@
+{
+  "records": [
+    {
+      "ID": 2485,
+      "Speaker": "T",
+      "Turn": 333,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher asks the student to explain the method used to find the unknown."
+    },
+    {
+      "ID": 2487,
+      "Speaker": "T",
+      "Turn": 335,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher prompts student to justify where the specific number (312) originated."
+    },
+    {
+      "ID": 2489,
+      "Speaker": "T",
+      "Turn": 337,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher seeks precise information about which problem the student is referencing."
+    },
+    {
+      "ID": 2491,
+      "Speaker": "T",
+      "Turn": 339,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher restates the student’s idea—that 312 is the cost from problem 2—while checking shared understanding."
+    },
+    {
+      "ID": 2492,
+      "Speaker": "T",
+      "Turn": 339,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher asks the student to explain why they multiplied by three."
+    },
+    {
+      "ID": 2494,
+      "Speaker": "T",
+      "Turn": 341,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2496,
+      "Speaker": "T",
+      "Turn": 343,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2497,
+      "Speaker": "T",
+      "Turn": 343,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks for the exact product of 300 and 3."
+    },
+    {
+      "ID": 2499,
+      "Speaker": "T",
+      "Turn": 345,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher prompts student to compute 10 × 3 precisely."
+    },
+    {
+      "ID": 2501,
+      "Speaker": "T",
+      "Turn": 347,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks for the exact product of 2 × 3."
+    },
+    {
+      "ID": 2503,
+      "Speaker": "T",
+      "Turn": 349,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks students to calculate the exact total of the partial products."
+    },
+    {
+      "ID": 2505,
+      "Speaker": "T",
+      "Turn": 351,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2506,
+      "Speaker": "T",
+      "Turn": 351,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 1218,
+      "Speaker": "T",
+      "Turn": 1218,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 1219,
+      "Speaker": "T",
+      "Turn": 1219,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to explain the process ('talk through how we know') of constructing the number model, which prompts for justification and explanation of their thinking."
+    },
+    {
+      "ID": 1220,
+      "Speaker": "T",
+      "Turn": 1220,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a specific question about the mathematical operation and components ('What are we going to add together') needed for the model."
+    },
+    {
+      "ID": 1221,
+      "Speaker": "T",
+      "Turn": 1221,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher directs a question to a specific student to identify the specific mathematical components ('what things') to be added."
+    },
+    {
+      "ID": 1223,
+      "Speaker": "T",
+      "Turn": 1223,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to explain the meaning behind a specific number in the context of the problem ('tell me what 23 represents')."
+    },
+    {
+      "ID": 1225,
+      "Speaker": "T",
+      "Turn": 1225,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's idea (implied answer about the paint) and clarifies/elaborates on it ('thats Ryans can of paint that he used')."
+    },
+    {
+      "ID": 1226,
+      "Speaker": "T",
+      "Turn": 1226,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks for the meaning behind the numbers ('what is each of these 13 represents'), connecting the math back to the context."
+    },
+    {
+      "ID": 1228,
+      "Speaker": "T",
+      "Turn": 1228,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's answer ('Sister one sister two and sister three') to confirm the meaning of the fractions."
+    },
+    {
+      "ID": 1229,
+      "Speaker": "T",
+      "Turn": 1229,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a specific mathematical question about the form of the answer ('Is your number going to be an improper fraction')."
+    },
+    {
+      "ID": 1230,
+      "Speaker": "T",
+      "Turn": 1230,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for a definition of a mathematical term ('What does an improper fraction mean')."
+    },
+    {
+      "ID": 1232,
+      "Speaker": "T",
+      "Turn": 1232,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats and affirms the student's definition ('Its more than a whole right')."
+    },
+    {
+      "ID": 1233,
+      "Speaker": "T",
+      "Turn": 1233,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher expands on the previous definition, adding more mathematical language ('numerator will be larger than our denominator')."
+    },
+    {
+      "ID": 1235,
+      "Speaker": "T",
+      "Turn": 1235,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 1236,
+      "Speaker": "T",
+      "Turn": 1236,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 1238,
+      "Speaker": "T",
+      "Turn": 1238,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 1239,
+      "Speaker": "T",
+      "Turn": 1239,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 1241,
+      "Speaker": "T",
+      "Turn": 1241,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 1242,
+      "Speaker": "T",
+      "Turn": 1242,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher asks a student to read aloud to the class, orienting everyone to the same text/problem."
+    },
+    {
+      "ID": 1243,
+      "Speaker": "T",
+      "Turn": 1243,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 1247,
+      "Speaker": "T",
+      "Turn": 1247,
+      "TalkMove": "None",
+      "Reasoning": null
+    }
+  ]
+}

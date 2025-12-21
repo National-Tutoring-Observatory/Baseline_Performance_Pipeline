@@ -1,0 +1,231 @@
+{
+  "records": [
+    {
+      "ID": 9067,
+      "Speaker": "T",
+      "Turn": 1,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9068,
+      "Speaker": "T",
+      "Turn": 1,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9069,
+      "Speaker": "T",
+      "Turn": 1,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Teacher tells students to \"Talk at your teams,\" prompting them to engage with peers and attend to each other’s ideas."
+    },
+    {
+      "ID": 9070,
+      "Speaker": "T",
+      "Turn": 1,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "By asking students to \"share\" their strategy, the teacher is directing them to communicate with classmates, orienting students toward one another."
+    },
+    {
+      "ID": 9071,
+      "Speaker": "T",
+      "Turn": 1,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9072,
+      "Speaker": "T",
+      "Turn": 2,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks for “an efficient way” to generate equivalent fractions, eliciting the student’s explanation of their method."
+    },
+    {
+      "ID": 9073,
+      "Speaker": "S",
+      "Turn": 3
+    },
+    {
+      "ID": 9074,
+      "Speaker": "T",
+      "Turn": 4,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher requests the precise mathematical phrase (“the saying”) that describes the multiplication rule, pushing for correct terminology."
+    },
+    {
+      "ID": 9075,
+      "Speaker": "S",
+      "Turn": 5
+    },
+    {
+      "ID": 9076,
+      "Speaker": "T",
+      "Turn": 6,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher restates the student’s idea (“whatever you do to the top…”) while adding clarifying alternatives, paraphrasing and extending the contribution."
+    },
+    {
+      "ID": 9077,
+      "Speaker": "T",
+      "Turn": 6,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9078,
+      "Speaker": "T",
+      "Turn": 6,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9079,
+      "Speaker": "T",
+      "Turn": 6,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9080,
+      "Speaker": "T",
+      "Turn": 6,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9081,
+      "Speaker": "T",
+      "Turn": 6,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9082,
+      "Speaker": "T",
+      "Turn": 6,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9083,
+      "Speaker": "T",
+      "Turn": 6,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9084,
+      "Speaker": "T",
+      "Turn": 7,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9086,
+      "Speaker": "T",
+      "Turn": 8,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9087,
+      "Speaker": "T",
+      "Turn": 9,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9088,
+      "Speaker": "T",
+      "Turn": 9,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9089,
+      "Speaker": "T",
+      "Turn": 9,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Teacher instructs students to share with their face partner, directing attention to peer interaction and collective engagement."
+    },
+    {
+      "ID": 9090,
+      "Speaker": "T",
+      "Turn": 9,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Prompting students to \"Check each other's work\" encourages them to attend to and discuss classmates’ ideas."
+    },
+    {
+      "ID": 9091,
+      "Speaker": "T",
+      "Turn": 10,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9092,
+      "Speaker": "T",
+      "Turn": 10,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9093,
+      "Speaker": "T",
+      "Turn": 10,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Again orients students to share with a partner, ensuring collaborative engagement."
+    },
+    {
+      "ID": 9094,
+      "Speaker": "T",
+      "Turn": 10,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Directs turn-taking among partners, maintaining equitable participation."
+    },
+    {
+      "ID": 9095,
+      "Speaker": "T",
+      "Turn": 10,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9096,
+      "Speaker": "T",
+      "Turn": 10,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9097,
+      "Speaker": "T",
+      "Turn": 11,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9098,
+      "Speaker": "T",
+      "Turn": 11,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Teacher once more instructs students to share with their face partner, fostering peer-to-peer discussion."
+    },
+    {
+      "ID": 9099,
+      "Speaker": "T",
+      "Turn": 11,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9100,
+      "Speaker": "T",
+      "Turn": 12,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

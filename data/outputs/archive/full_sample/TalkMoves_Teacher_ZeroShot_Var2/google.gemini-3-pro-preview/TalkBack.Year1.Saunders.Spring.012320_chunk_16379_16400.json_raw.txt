@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 16379,
+      "Speaker": "T",
+      "Turn": 16379,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16381,
+      "Speaker": "T",
+      "Turn": 16381,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16382,
+      "Speaker": "T",
+      "Turn": 16382,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16383,
+      "Speaker": "T",
+      "Turn": 16383,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16384,
+      "Speaker": "T",
+      "Turn": 16384,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16385,
+      "Speaker": "T",
+      "Turn": 16385,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to identify the specific mathematical term for an expression with two terms."
+    },
+    {
+      "ID": 16386,
+      "Speaker": "T",
+      "Turn": 16386,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks students to recall and state the name of the graph's shape."
+    },
+    {
+      "ID": 16387,
+      "Speaker": "T",
+      "Turn": 16387,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats and confirms the student's answer ('parabola') in a complete sentence."
+    },
+    {
+      "ID": 16388,
+      "Speaker": "T",
+      "Turn": 16388,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to identify a specific property (min or max) of the parabola."
+    },
+    {
+      "ID": 16389,
+      "Speaker": "T",
+      "Turn": 16389,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts students to provide a justification for their previous answer regarding the min/max."
+    },
+    {
+      "ID": 16390,
+      "Speaker": "T",
+      "Turn": 16390,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to explain the evidence or reasoning behind the graph's behavior ('racing down')."
+    },
+    {
+      "ID": 16391,
+      "Speaker": "T",
+      "Turn": 16391,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's reasoning ('A value is negative') to validate the contribution."
+    },
+    {
+      "ID": 16392,
+      "Speaker": "T",
+      "Turn": 16392,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's idea but substitutes more formal mathematical vocabulary ('coefficient times quadratic term')."
+    },
+    {
+      "ID": 16393,
+      "Speaker": "T",
+      "Turn": 16393,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to identify the specific mathematical concept associated with the 'highest point'."
+    },
+    {
+      "ID": 16394,
+      "Speaker": "T",
+      "Turn": 16394,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's answer ('the vertex') to confirm it."
+    },
+    {
+      "ID": 16395,
+      "Speaker": "T",
+      "Turn": 16395,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to recall a specific procedure or formula for finding the vertex."
+    },
+    {
+      "ID": 16397,
+      "Speaker": "T",
+      "Turn": 16397,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16398,
+      "Speaker": "T",
+      "Turn": 16398,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16399,
+      "Speaker": "T",
+      "Turn": 16399,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16400,
+      "Speaker": "T",
+      "Turn": 16400,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

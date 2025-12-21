@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 78,
+      "Speaker": "T",
+      "Turn": 78,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher presents the expression 900 × 9, prompting students to supply the precise numerical answer."
+    },
+    {
+      "ID": 81,
+      "Speaker": "T",
+      "Turn": 81,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats a student-offered answer (8100) while framing it in her own words: 'Oh I hear 8100.'"
+    },
+    {
+      "ID": 82,
+      "Speaker": "T",
+      "Turn": 82,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "By asking, 'Who's correct?' the teacher pushes students to decide which numerical answer is accurate."
+    },
+    {
+      "ID": 84,
+      "Speaker": "T",
+      "Turn": 84,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The single word 'Why' prompts students to justify their choice."
+    },
+    {
+      "ID": 85,
+      "Speaker": "T",
+      "Turn": 85,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to explain why 81 000 is incorrect, eliciting justification."
+    },
+    {
+      "ID": 87,
+      "Speaker": "T",
+      "Turn": 87,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher echoes a student’s justification—'Two zeros'—word-for-word."
+    },
+    {
+      "ID": 88,
+      "Speaker": "T",
+      "Turn": 88,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "She asks for the exact number of zeros to append, requiring a precise mathematical contribution."
+    },
+    {
+      "ID": 91,
+      "Speaker": "T",
+      "Turn": 91,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 92,
+      "Speaker": "T",
+      "Turn": 92,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 94,
+      "Speaker": "T",
+      "Turn": 94,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher paraphrases a student’s reflection about a misleading pattern, rephrasing it in her own words."
+    },
+    {
+      "ID": 96,
+      "Speaker": "T",
+      "Turn": 96,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 97,
+      "Speaker": "T",
+      "Turn": 97,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 98,
+      "Speaker": "T",
+      "Turn": 98,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 99,
+      "Speaker": "T",
+      "Turn": 99,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 100,
+      "Speaker": "T",
+      "Turn": 100,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 101,
+      "Speaker": "T",
+      "Turn": 101,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "She asks students to articulate how the current problem differs from previous ones, requesting an explanation."
+    },
+    {
+      "ID": 102,
+      "Speaker": "T",
+      "Turn": 102,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "By directing the question to Jesse, the teacher seeks an explanatory comparison of the problems."
+    },
+    {
+      "ID": 103,
+      "Speaker": "T",
+      "Turn": 103,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats (word-for-word) a student’s response: 'It’s multiplication.'"
+    },
+    {
+      "ID": 104,
+      "Speaker": "T",
+      "Turn": 104,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "She points out that they have been doing multiplication and asks again what is different, requesting deeper explanation."
+    },
+    {
+      "ID": 106,
+      "Speaker": "T",
+      "Turn": 106,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases and elaborates the key idea—multiplying two-digit numbers—to clarify the difference."
+    }
+  ]
+}

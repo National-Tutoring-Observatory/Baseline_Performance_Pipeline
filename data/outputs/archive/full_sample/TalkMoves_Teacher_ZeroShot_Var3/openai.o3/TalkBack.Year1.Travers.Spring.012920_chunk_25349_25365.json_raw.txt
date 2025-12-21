@@ -1,0 +1,109 @@
+{
+  "records": [
+    {
+      "ID": 25349,
+      "Speaker": "T",
+      "Turn": 25349,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher signals she will restate Aiden’s idea in her own words, paraphrasing the student’s contribution."
+    },
+    {
+      "ID": 25350,
+      "Speaker": "T",
+      "Turn": 25350,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Teacher directs students’ attention (“eyes and ears this way”), orienting the whole class to listen."
+    },
+    {
+      "ID": 25351,
+      "Speaker": "T",
+      "Turn": 25351,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 25352,
+      "Speaker": "T",
+      "Turn": 25352,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 25353,
+      "Speaker": "T",
+      "Turn": 25353,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 25354,
+      "Speaker": "T",
+      "Turn": 25354,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks for the exact numerical value of the largest head size, prompting a specific mathematical fact."
+    },
+    {
+      "ID": 25356,
+      "Speaker": "T",
+      "Turn": 25356,
+      "TalkMove": "Restating",
+      "Reasoning": "Teacher repeats the numerical answer (likely given by a student) word-for-word to the class."
+    },
+    {
+      "ID": 25357,
+      "Speaker": "T",
+      "Turn": 25357,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks for the precise count of students with that head size, eliciting a specific data value."
+    },
+    {
+      "ID": 25359,
+      "Speaker": "T",
+      "Turn": 25359,
+      "TalkMove": "Restating",
+      "Reasoning": "Teacher echoes the answer “Two,” repeating the student’s response exactly."
+    },
+    {
+      "ID": 25360,
+      "Speaker": "T",
+      "Turn": 25360,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 25361,
+      "Speaker": "T",
+      "Turn": 25361,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 25362,
+      "Speaker": "T",
+      "Turn": 25362,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 25363,
+      "Speaker": "T",
+      "Turn": 25363,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Teacher orients students to listen to the next speaker (Ms. Miller), ensuring collective attention."
+    },
+    {
+      "ID": 25364,
+      "Speaker": "T",
+      "Turn": 25364,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 25365,
+      "Speaker": "T",
+      "Turn": 25365,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

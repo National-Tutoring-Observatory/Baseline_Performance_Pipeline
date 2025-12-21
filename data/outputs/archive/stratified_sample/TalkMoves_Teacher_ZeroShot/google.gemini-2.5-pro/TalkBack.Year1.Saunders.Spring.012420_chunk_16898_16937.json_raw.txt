@@ -1,0 +1,252 @@
+{
+  "records": [
+    {
+      "ID": 16898,
+      "Turn": 28,
+      "Speaker": "T",
+      "Sentence": "All right any residual questions on either of those factoring or finding intercepts",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16899,
+      "Turn": 28,
+      "Speaker": "T",
+      "Sentence": "Yes sir",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16901,
+      "Turn": 29,
+      "Speaker": "T",
+      "Sentence": "Up here",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16902,
+      "Turn": 29,
+      "Speaker": "T",
+      "Sentence": "On the paper is it negative or positive",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16904,
+      "Turn": 31,
+      "Speaker": "T",
+      "Sentence": "Oh it is negative okay",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16906,
+      "Turn": 33,
+      "Speaker": "T",
+      "Sentence": "Right that was a different problem",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16908,
+      "Turn": 35,
+      "Speaker": "T",
+      "Sentence": "It was just but it was different",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16909,
+      "Turn": 35,
+      "Speaker": "T",
+      "Sentence": "It just so it happened that both of the C values had a 10",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16911,
+      "Turn": 37,
+      "Speaker": "T",
+      "Sentence": "Yes is that right",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16913,
+      "Turn": 39,
+      "Speaker": "T",
+      "Sentence": "All right so any other questions",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16914,
+      "Turn": 39,
+      "Speaker": "T",
+      "Sentence": "All right so lets keep looking at this example",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16915,
+      "Turn": 39,
+      "Speaker": "T",
+      "Sentence": "If I know my two Xintercepts I know those two thats what Ive figured out so far and I know this guy down here my Yintercept",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16916,
+      "Turn": 39,
+      "Speaker": "T",
+      "Sentence": "What do I know about my line of symmetry",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16918,
+      "Turn": 41,
+      "Speaker": "T",
+      "Sentence": "If its in the center of those how do I find the center",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks 'how' to find the center, prompting the student to explain the thinking or procedure behind their statement that the line of symmetry is 'in the center'."
+    },
+    {
+      "ID": 16920,
+      "Turn": 43,
+      "Speaker": "T",
+      "Sentence": "We are going to average the root",
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's contribution 'Average the root' nearly word-for-word, affirming and amplifying the idea."
+    },
+    {
+      "ID": 16921,
+      "Turn": 43,
+      "Speaker": "T",
+      "Sentence": "Remember root is just another name for Xintercepts and on the calculator the calculator uses the term zeros",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher takes the student's term 'root' and adds on significant clarification by connecting it to other mathematical terms like 'X-intercepts' and 'zeros'."
+    },
+    {
+      "ID": 16922,
+      "Turn": 43,
+      "Speaker": "T",
+      "Sentence": "Zeros Xintercept root all mean the same thing were just to average them",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher continues to build on the student's idea by summarizing the equivalent terms and then rephrasing the student's core idea ('average the root') in their own words."
+    },
+    {
+      "ID": 16923,
+      "Turn": 43,
+      "Speaker": "T",
+      "Sentence": "Now what if we werent able to factor it what do we do then",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16924,
+      "Turn": 44,
+      "Speaker": "T",
+      "Sentence": "We use the opposite of B over 2A",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16925,
+      "Turn": 44,
+      "Speaker": "T",
+      "Sentence": "Thats the same thing",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16926,
+      "Turn": 44,
+      "Speaker": "T",
+      "Sentence": "Thats the first part of that quadratic formula is right here",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16927,
+      "Turn": 44,
+      "Speaker": "T",
+      "Sentence": "This is the opposite of B over 2A",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16928,
+      "Turn": 44,
+      "Speaker": "T",
+      "Sentence": "Its our line of symmetry and we have to add something and subtract something from it to find our Xintercepts",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16929,
+      "Turn": 44,
+      "Speaker": "T",
+      "Sentence": "All right if we know the X value if we know our line of symmetry what do we do then to find the vertex",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16931,
+      "Turn": 46,
+      "Speaker": "T",
+      "Sentence": "Yes we just plug that X value into the equation to find out what the vertex is and do that calculation",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's idea ('plug that X value') and then adds on clarifying details ('into the equation to find out what the vertex is and do that calculation')."
+    },
+    {
+      "ID": 16932,
+      "Turn": 46,
+      "Speaker": "T",
+      "Sentence": "At that point we have one two three four points",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16933,
+      "Turn": 46,
+      "Speaker": "T",
+      "Sentence": "Those are the key points we would be looking for and because we know that line of symmetry we know this one and can graph that and then we just connect the dots",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16934,
+      "Turn": 46,
+      "Speaker": "T",
+      "Sentence": "All right",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16935,
+      "Turn": 46,
+      "Speaker": "T",
+      "Sentence": "Person number one survey your team find out if they have any questions about any of that starting from the top going down",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher gives a specific instruction for students to interact with their teammates, orienting them to each other to check for understanding."
+    },
+    {
+      "ID": 16936,
+      "Turn": 47,
+      "Speaker": "T",
+      "Sentence": "All right any questions",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16937,
+      "Turn": 47,
+      "Speaker": "T",
+      "Sentence": "All right problem number six",
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

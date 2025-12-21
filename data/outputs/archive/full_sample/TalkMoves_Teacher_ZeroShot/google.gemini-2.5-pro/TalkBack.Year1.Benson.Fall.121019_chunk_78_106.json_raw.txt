@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 78,
+      "Speaker": "T",
+      "Turn": 78,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 81,
+      "Speaker": "T",
+      "Turn": 81,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats a student's answer to make it public for the class."
+    },
+    {
+      "ID": 82,
+      "Speaker": "T",
+      "Turn": 82,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher presents two different student answers and asks the class to evaluate them, prompting students to engage with each other's ideas."
+    },
+    {
+      "ID": 84,
+      "Speaker": "T",
+      "Turn": 84,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks for the justification behind the students' choice of the correct answer."
+    },
+    {
+      "ID": 85,
+      "Speaker": "T",
+      "Turn": 85,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks for a specific explanation about why one of the answers is incorrect."
+    },
+    {
+      "ID": 87,
+      "Speaker": "T",
+      "Turn": 87,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats a student's contribution ('Two zeros') verbatim."
+    },
+    {
+      "ID": 88,
+      "Speaker": "T",
+      "Turn": 88,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher uses a student's idea to press another student for a more precise mathematical statement about the procedure."
+    },
+    {
+      "ID": 91,
+      "Speaker": "T",
+      "Turn": 91,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts a student to reflect on and potentially change their original thinking process."
+    },
+    {
+      "ID": 92,
+      "Speaker": "T",
+      "Turn": 92,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 94,
+      "Speaker": "T",
+      "Turn": 94,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher articulates a student's likely reasoning for their error, putting their thought process into words."
+    },
+    {
+      "ID": 96,
+      "Speaker": "T",
+      "Turn": 96,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 97,
+      "Speaker": "T",
+      "Turn": 97,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 98,
+      "Speaker": "T",
+      "Turn": 98,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 99,
+      "Speaker": "T",
+      "Turn": 99,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 100,
+      "Speaker": "T",
+      "Turn": 100,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 101,
+      "Speaker": "T",
+      "Turn": 101,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to analyze and explain the difference between the current problem and previous ones."
+    },
+    {
+      "ID": 102,
+      "Speaker": "T",
+      "Turn": 102,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher repeats the question and directs it to a specific student, continuing to press for an explanation."
+    },
+    {
+      "ID": 103,
+      "Speaker": "T",
+      "Turn": 103,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's answer verbatim."
+    },
+    {
+      "ID": 104,
+      "Speaker": "T",
+      "Turn": 104,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher uses the student's answer to push for a more specific and detailed explanation."
+    },
+    {
+      "ID": 106,
+      "Speaker": "T",
+      "Turn": 106,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher reformulates a student's likely idea into a more precise mathematical statement."
+    }
+  ]
+}

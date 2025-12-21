@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 1044,
+      "Speaker": "T",
+      "Turn": 1044,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1045,
+      "Speaker": "T",
+      "Turn": 1045,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1048,
+      "Speaker": "T",
+      "Turn": 1048,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1049,
+      "Speaker": "T",
+      "Turn": 1049,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1050,
+      "Speaker": "T",
+      "Turn": 1050,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1053,
+      "Speaker": "T",
+      "Turn": 1053,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to interpret the problem to identify what needs to be solved."
+    },
+    {
+      "ID": 1054,
+      "Speaker": "T",
+      "Turn": 1054,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks a specific student to interpret the problem to identify what needs to be solved."
+    },
+    {
+      "ID": 1056,
+      "Speaker": "T",
+      "Turn": 1056,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to identify the known information from the problem, which is part of the reasoning process."
+    },
+    {
+      "ID": 1057,
+      "Speaker": "T",
+      "Turn": 1057,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher rephrases the question about identifying known information from the problem."
+    },
+    {
+      "ID": 1058,
+      "Speaker": "T",
+      "Turn": 1058,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1060,
+      "Speaker": "T",
+      "Turn": 1060,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks a student to explain their strategy for solving the problem by creating a number sentence."
+    },
+    {
+      "ID": 1062,
+      "Speaker": "T",
+      "Turn": 1062,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for a specific, correct numerical value from the problem."
+    },
+    {
+      "ID": 1064,
+      "Speaker": "T",
+      "Turn": 1064,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks a student to explain the meaning of a number within the context of the problem."
+    },
+    {
+      "ID": 1065,
+      "Speaker": "T",
+      "Turn": 1065,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts a student to explain the meaning of another number within the context of the problem."
+    },
+    {
+      "ID": 1068,
+      "Speaker": "T",
+      "Turn": 1068,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats a student's idea using more precise mathematical language to clarify its meaning."
+    },
+    {
+      "ID": 1069,
+      "Speaker": "T",
+      "Turn": 1069,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks a student to explain the meaning of the result (35) within the context of the problem."
+    },
+    {
+      "ID": 1071,
+      "Speaker": "T",
+      "Turn": 1071,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1072,
+      "Speaker": "T",
+      "Turn": 1072,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1075,
+      "Speaker": "T",
+      "Turn": 1075,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks a student to identify what needs to be found in the new problem."
+    },
+    {
+      "ID": 1077,
+      "Speaker": "T",
+      "Turn": 1077,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher first revoices the student's idea and then directly asks for justification with 'how do you know that'."
+    }
+  ]
+}

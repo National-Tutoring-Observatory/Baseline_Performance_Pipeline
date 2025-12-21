@@ -1,0 +1,130 @@
+{
+  "records": [
+    {
+      "ID": 9943,
+      "Speaker": "T",
+      "Turn": 146,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9944,
+      "Speaker": "T",
+      "Turn": 146,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to provide an alternative mathematical method (division) to solve the problem."
+    },
+    {
+      "ID": 9946,
+      "Speaker": "T",
+      "Turn": 148,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9947,
+      "Speaker": "T",
+      "Turn": 148,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher explicitly asks a student to 'explain their thinking' for solving the problem using division."
+    },
+    {
+      "ID": 9949,
+      "Speaker": "T",
+      "Turn": 150,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9950,
+      "Speaker": "T",
+      "Turn": 150,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9951,
+      "Speaker": "T",
+      "Turn": 150,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases the student's procedural explanation ('50 divided 10... is five') into a conceptual statement ('1/10 of 50 is five')."
+    },
+    {
+      "ID": 9952,
+      "Speaker": "T",
+      "Turn": 150,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9953,
+      "Speaker": "T",
+      "Turn": 150,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9954,
+      "Speaker": "T",
+      "Turn": 150,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher directs students to discuss with a partner 'why' the answer is 35, prompting them to explain their reasoning."
+    },
+    {
+      "ID": 9955,
+      "Speaker": "T",
+      "Turn": 151,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher articulates the reasoning process for the whole class, likely based on what she heard during partner talk, by stating that since 1/10 is five, seven of them are needed."
+    },
+    {
+      "ID": 9956,
+      "Speaker": "T",
+      "Turn": 151,
+      "TalkMove": "Revoicing",
+      "Reasoning": "This continues the teacher's articulation of the solution path, revoicing the mathematical steps students were expected to take."
+    },
+    {
+      "ID": 9957,
+      "Speaker": "T",
+      "Turn": 151,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher generalizes the reasoning process, rephrasing the specific problem into a general strategy, thereby revoicing the underlying student thinking."
+    },
+    {
+      "ID": 9959,
+      "Speaker": "T",
+      "Turn": 153,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9960,
+      "Speaker": "T",
+      "Turn": 153,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9961,
+      "Speaker": "T",
+      "Turn": 153,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to articulate the general mathematical process, prompting them to explain their thinking."
+    },
+    {
+      "ID": 9962,
+      "Speaker": "T",
+      "Turn": 153,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher elaborates on her previous question, explicitly asking students to describe the step-by-step process, which requires them to share their reasoning."
+    },
+    {
+      "ID": 9963,
+      "Speaker": "T",
+      "Turn": 153,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 12543,
+      "Speaker": "T",
+      "Turn": 12543,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12544,
+      "Speaker": "T",
+      "Turn": 12544,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher takes an idea (25 cents is a fourth) and rephrases it to make a broader mathematical point connecting decimals and fractions."
+    },
+    {
+      "ID": 12545,
+      "Speaker": "T",
+      "Turn": 12545,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts students to make a logical connection between the definition of a fraction and the nature of a decimal by asking a question."
+    },
+    {
+      "ID": 12546,
+      "Speaker": "T",
+      "Turn": 12546,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the answer to the previous question, likely provided by a student."
+    },
+    {
+      "ID": 12547,
+      "Speaker": "T",
+      "Turn": 12547,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher directs students to engage in a turn-and-talk to ensure shared understanding of the concept just discussed."
+    },
+    {
+      "ID": 12548,
+      "Speaker": "T",
+      "Turn": 12548,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the key idea that students are meant to be discussing with their partners."
+    },
+    {
+      "ID": 12549,
+      "Speaker": "T",
+      "Turn": 12549,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher repeats the instruction for students to engage in a partner discussion."
+    },
+    {
+      "ID": 12550,
+      "Speaker": "T",
+      "Turn": 12550,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12551,
+      "Speaker": "T",
+      "Turn": 12551,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12552,
+      "Speaker": "T",
+      "Turn": 12552,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12554,
+      "Speaker": "T",
+      "Turn": 12554,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats and paraphrases a student's earlier contribution to connect it to the current lesson."
+    },
+    {
+      "ID": 12555,
+      "Speaker": "T",
+      "Turn": 12555,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats and paraphrases a student's idea to summarize a key concept for the lesson."
+    },
+    {
+      "ID": 12556,
+      "Speaker": "T",
+      "Turn": 12556,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher synthesizes multiple student contributions to frame the next step of the lesson."
+    },
+    {
+      "ID": 12557,
+      "Speaker": "T",
+      "Turn": 12557,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12558,
+      "Speaker": "T",
+      "Turn": 12558,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12559,
+      "Speaker": "T",
+      "Turn": 12559,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12560,
+      "Speaker": "T",
+      "Turn": 12560,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12562,
+      "Speaker": "T",
+      "Turn": 12562,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher instructs students to orient to each other by showing their work to a partner."
+    },
+    {
+      "ID": 12563,
+      "Speaker": "T",
+      "Turn": 12563,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher provides a procedure for students to follow during their partner interaction, keeping them on the same task."
+    },
+    {
+      "ID": 12564,
+      "Speaker": "T",
+      "Turn": 12564,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts students to explain their thinking to each other if they have a disagreement."
+    }
+  ]
+}

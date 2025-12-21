@@ -1,0 +1,123 @@
+{
+  "records": [
+    {
+      "ID": 19051,
+      "Speaker": "T",
+      "Turn": 1,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19052,
+      "Speaker": "T",
+      "Turn": 1,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19053,
+      "Speaker": "T",
+      "Turn": 2,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19054,
+      "Speaker": "T",
+      "Turn": 2,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19055,
+      "Speaker": "T",
+      "Turn": 2,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks students to identify whether X or the entire function was modified, prompting a precise mathematical choice."
+    },
+    {
+      "ID": 19057,
+      "Speaker": "T",
+      "Turn": 3,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher invites students to share their thinking with 'What do you think?'"
+    },
+    {
+      "ID": 19058,
+      "Speaker": "T",
+      "Turn": 3,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to state what mathematical action was taken ('What did we do?')."
+    },
+    {
+      "ID": 19059,
+      "Speaker": "T",
+      "Turn": 3,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks students to specify what was modified, focusing on mathematical precision."
+    },
+    {
+      "ID": 19061,
+      "Speaker": "T",
+      "Turn": 5,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher paraphrases the student's response 'X' as 'We modified X.'"
+    },
+    {
+      "ID": 19062,
+      "Speaker": "T",
+      "Turn": 5,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19063,
+      "Speaker": "T",
+      "Turn": 5,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19064,
+      "Speaker": "T",
+      "Turn": 5,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks whether X or the whole function is modified, seeking a correct mathematical identification."
+    },
+    {
+      "ID": 19066,
+      "Speaker": "T",
+      "Turn": 7,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19067,
+      "Speaker": "T",
+      "Turn": 7,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19068,
+      "Speaker": "T",
+      "Turn": 7,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats and slightly reformulates the student's answer about modifying the whole function."
+    },
+    {
+      "ID": 19069,
+      "Speaker": "T",
+      "Turn": 7,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19071,
+      "Speaker": "T",
+      "Turn": 9,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's idea 'Modifies X' as a confirming question."
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "records": [
+    {
+      "ID": 1455,
+      "Speaker": "T",
+      "Turn": 1,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1456,
+      "Speaker": "T",
+      "Turn": 1,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks students to remind the class what a mixed number is, prompting a precise mathematical definition."
+    },
+    {
+      "ID": 1457,
+      "Speaker": "T",
+      "Turn": 1,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts a comparison between mixed numbers and improper fractions, encouraging students to connect concepts and explain the relationship."
+    },
+    {
+      "ID": 1458,
+      "Speaker": "T",
+      "Turn": 1,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1459,
+      "Speaker": "T",
+      "Turn": 2,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

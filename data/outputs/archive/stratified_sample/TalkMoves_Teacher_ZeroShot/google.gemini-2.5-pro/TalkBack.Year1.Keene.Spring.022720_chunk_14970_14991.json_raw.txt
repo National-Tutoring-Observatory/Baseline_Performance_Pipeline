@@ -1,0 +1,148 @@
+{
+  "records": [
+    {
+      "ID": 14970,
+      "Turn": 9,
+      "Speaker": "T",
+      "Sentence": "Here is two orange pieces in here",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 14971,
+      "Turn": 9,
+      "Speaker": "T",
+      "Sentence": "Its three orange pieces",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 14972,
+      "Turn": 9,
+      "Speaker": "T",
+      "Sentence": "Two plus three equals five",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 14973,
+      "Turn": 9,
+      "Speaker": "T",
+      "Sentence": "Adding is when you put two groups together",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 14974,
+      "Turn": 9,
+      "Speaker": "T",
+      "Sentence": "Thats what adding is",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 14975,
+      "Turn": 9,
+      "Speaker": "T",
+      "Sentence": "What is adding",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 14976,
+      "Turn": 9,
+      "Speaker": "T",
+      "Sentence": "Adding is when you put two groups together",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 14977,
+      "Turn": 9,
+      "Speaker": "T",
+      "Sentence": "What is adding",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 14979,
+      "Turn": 11,
+      "Speaker": "T",
+      "Sentence": "Start with a complete sentence please",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 14981,
+      "Turn": 13,
+      "Speaker": "T",
+      "Sentence": "My question that you were supposed to be talking about was what is multiplication",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 14982,
+      "Turn": 13,
+      "Speaker": "T",
+      "Sentence": "I dont want strategies",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 14983,
+      "Turn": 13,
+      "Speaker": "T",
+      "Sentence": "I dont want examples",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 14984,
+      "Turn": 13,
+      "Speaker": "T",
+      "Sentence": "I want to literally know when Im multiplying what am I doing with numbers",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher clarifies the prompt, pushing students away from strategies or examples toward a precise mathematical definition."
+    },
+    {
+      "ID": 14985,
+      "Turn": 13,
+      "Speaker": "T",
+      "Sentence": "Bailey",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 14988,
+      "Turn": 15,
+      "Speaker": "T",
+      "Sentence": "Okay",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 14989,
+      "Turn": 15,
+      "Speaker": "T",
+      "Sentence": "Im doubling",
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's key term 'doubling' to focus the conversation on it."
+    },
+    {
+      "ID": 14990,
+      "Turn": 15,
+      "Speaker": "T",
+      "Sentence": "What does doubling mean",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to define a term they used, prompting them to explain their thinking."
+    },
+    {
+      "ID": 14991,
+      "Turn": 15,
+      "Speaker": "T",
+      "Sentence": "Can you give me more to that",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher explicitly asks the student to elaborate on their previous contribution."
+    }
+  ]
+}

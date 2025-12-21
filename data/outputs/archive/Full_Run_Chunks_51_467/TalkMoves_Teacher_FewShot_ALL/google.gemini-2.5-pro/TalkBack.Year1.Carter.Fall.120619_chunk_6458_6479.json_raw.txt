@@ -1,0 +1,25 @@
+{
+  "records": [
+    {
+      "ID": 6477,
+      "Speaker": "T",
+      "Turn": 1,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 6478,
+      "Speaker": "T",
+      "Turn": 1,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 6479,
+      "Speaker": "T",
+      "Turn": 1,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats a question that came from a student, making it a public object of discussion for the whole class."
+    }
+  ]
+}

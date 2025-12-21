@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 24038,
+      "Speaker": "T",
+      "Turn": 24038,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 24040,
+      "Speaker": "T",
+      "Turn": 24040,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 24041,
+      "Speaker": "T",
+      "Turn": 24041,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 24042,
+      "Speaker": "T",
+      "Turn": 24042,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 24043,
+      "Speaker": "T",
+      "Turn": 24043,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a specific mathematical question ('what is 55 of 15') prompting students for a precise answer."
+    },
+    {
+      "ID": 24044,
+      "Speaker": "T",
+      "Turn": 24044,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the whole class to provide the specific answer to the previous calculation."
+    },
+    {
+      "ID": 24046,
+      "Speaker": "T",
+      "Turn": 24046,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student answer ('Fifteen') to confirm the accuracy."
+    },
+    {
+      "ID": 24047,
+      "Speaker": "T",
+      "Turn": 24047,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks for the underlying rule, prompting students to explain the mathematical concept rather than just give an answer."
+    },
+    {
+      "ID": 24048,
+      "Speaker": "T",
+      "Turn": 24048,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher reiterates the request for the rule or pattern, pushing for conceptual understanding."
+    },
+    {
+      "ID": 24049,
+      "Speaker": "T",
+      "Turn": 24049,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 24050,
+      "Speaker": "T",
+      "Turn": 24050,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 24051,
+      "Speaker": "T",
+      "Turn": 24051,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 24052,
+      "Speaker": "T",
+      "Turn": 24052,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 24053,
+      "Speaker": "T",
+      "Turn": 24053,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 24054,
+      "Speaker": "T",
+      "Turn": 24054,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 24055,
+      "Speaker": "T",
+      "Turn": 24055,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 24056,
+      "Speaker": "T",
+      "Turn": 24056,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 24057,
+      "Speaker": "T",
+      "Turn": 24057,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the students to identify the rule, prompting them to articulate the mathematical generalization."
+    },
+    {
+      "ID": 24058,
+      "Speaker": "T",
+      "Turn": 24058,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 24059,
+      "Speaker": "T",
+      "Turn": 24059,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher repeats the question asking for the rule, continuing to press for the mathematical explanation."
+    }
+  ]
+}

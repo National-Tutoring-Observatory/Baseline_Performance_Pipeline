@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 9797,
+      "Speaker": "T",
+      "Turn": 9797,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases a student's idea into a more formal mathematical statement."
+    },
+    {
+      "ID": 9798,
+      "Speaker": "T",
+      "Turn": 9798,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher prompts a student to build upon or add to a classmate's contribution."
+    },
+    {
+      "ID": 9799,
+      "Speaker": "T",
+      "Turn": 9799,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 9800,
+      "Speaker": "T",
+      "Turn": 9800,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 9801,
+      "Speaker": "T",
+      "Turn": 9801,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to consider if a rule applies universally, prompting them to think about the underlying mathematical principles."
+    },
+    {
+      "ID": 9802,
+      "Speaker": "T",
+      "Turn": 9802,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher explicitly asks students to provide a justification for their answer."
+    },
+    {
+      "ID": 9803,
+      "Speaker": "T",
+      "Turn": 9803,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher repeats the question, pressing students to justify whether a mathematical rule is always true."
+    },
+    {
+      "ID": 9804,
+      "Speaker": "T",
+      "Turn": 9804,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 9805,
+      "Speaker": "T",
+      "Turn": 9805,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 9806,
+      "Speaker": "T",
+      "Turn": 9806,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher calls for the students' attention to bring the focus back to the whole group discussion."
+    },
+    {
+      "ID": 9807,
+      "Speaker": "T",
+      "Turn": 9807,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher brings a student's idea from a partner talk to the attention of the whole class, orienting everyone to that contribution."
+    },
+    {
+      "ID": 9808,
+      "Speaker": "T",
+      "Turn": 9808,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 9809,
+      "Speaker": "T",
+      "Turn": 9809,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks a student to share their thinking process with the whole class."
+    },
+    {
+      "ID": 9812,
+      "Speaker": "T",
+      "Turn": 9812,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 9813,
+      "Speaker": "T",
+      "Turn": 9813,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher affirms a student's idea and rephrases it using more precise mathematical terminology ('multiples of five')."
+    },
+    {
+      "ID": 9814,
+      "Speaker": "T",
+      "Turn": 9814,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts a student to provide a visual proof or representation to justify a mathematical rule."
+    },
+    {
+      "ID": 9815,
+      "Speaker": "T",
+      "Turn": 9815,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher elaborates on the previous prompt, guiding the student on what their visual representation should explain."
+    },
+    {
+      "ID": 9816,
+      "Speaker": "T",
+      "Turn": 9816,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher directs the student to create a visual representation as a way of explaining their thinking."
+    },
+    {
+      "ID": 9817,
+      "Speaker": "T",
+      "Turn": 9817,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher directs the student to create a specific mathematical representation (a picture of fractions of a whole)."
+    },
+    {
+      "ID": 9818,
+      "Speaker": "T",
+      "Turn": 9818,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher provides a specific suggestion (using rectangles) to help the student create an accurate mathematical representation."
+    }
+  ]
+}

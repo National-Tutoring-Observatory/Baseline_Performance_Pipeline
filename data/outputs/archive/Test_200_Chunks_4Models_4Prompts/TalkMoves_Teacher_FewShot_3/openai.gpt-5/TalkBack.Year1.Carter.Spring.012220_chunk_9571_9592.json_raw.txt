@@ -1,0 +1,88 @@
+{
+  "records": [
+    {
+      "ID": 9571,
+      "Turn": 29,
+      "Speaker": "T",
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 9572,
+      "Turn": 29,
+      "Speaker": "T",
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 9573,
+      "Turn": 30,
+      "Speaker": "T",
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 9575,
+      "Turn": 31,
+      "Speaker": "T",
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 9576,
+      "Turn": 32,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks what the expression should be, prompting the student to state the correct mathematical form."
+    },
+    {
+      "ID": 9578,
+      "Turn": 33,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher offers an alternative exponent and prompts the student to decide which is correct."
+    },
+    {
+      "ID": 9580,
+      "Turn": 35,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts the student to connect their choice to the reason (wanting one zero)."
+    },
+    {
+      "ID": 9582,
+      "Turn": 37,
+      "Speaker": "T",
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 9584,
+      "Turn": 39,
+      "Speaker": "T",
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's phrase '10 to the 0' while affirming it as the correct expression."
+    },
+    {
+      "ID": 9586,
+      "Turn": 41,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student if they understand why it is correct, prompting justification."
+    },
+    {
+      "ID": 9591,
+      "Turn": 44,
+      "Speaker": "T",
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 9592,
+      "Turn": 44,
+      "Speaker": "T",
+      "TalkMove": "None",
+      "Reasoning": null
+    }
+  ]
+}

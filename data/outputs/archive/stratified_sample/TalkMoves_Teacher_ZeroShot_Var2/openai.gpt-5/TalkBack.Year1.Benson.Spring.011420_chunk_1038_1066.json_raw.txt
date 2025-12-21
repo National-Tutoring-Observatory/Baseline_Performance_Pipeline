@@ -1,0 +1,102 @@
+{
+  "records": [
+    {
+      "ID": 1044,
+      "Speaker": "T",
+      "Turn": 1,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1045,
+      "Speaker": "T",
+      "Turn": 1,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1048,
+      "Speaker": "T",
+      "Turn": 3,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1049,
+      "Speaker": "T",
+      "Turn": 3,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1050,
+      "Speaker": "T",
+      "Turn": 3,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1053,
+      "Speaker": "T",
+      "Turn": 5,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks students to identify the unknown quantity in the problem."
+    },
+    {
+      "ID": 1054,
+      "Speaker": "T",
+      "Turn": 5,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher directs a student to state what needs to be found."
+    },
+    {
+      "ID": 1056,
+      "Speaker": "T",
+      "Turn": 7,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to state the given information from the problem."
+    },
+    {
+      "ID": 1057,
+      "Speaker": "T",
+      "Turn": 7,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher further prompts for the specific known pieces from the problem."
+    },
+    {
+      "ID": 1058,
+      "Speaker": "T",
+      "Turn": 7,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1060,
+      "Speaker": "T",
+      "Turn": 9,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for a number sentence, prompting a precise mathematical representation."
+    },
+    {
+      "ID": 1062,
+      "Speaker": "T",
+      "Turn": 11,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the numerical answer to the question."
+    },
+    {
+      "ID": 1064,
+      "Speaker": "T",
+      "Turn": 13,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts students to connect the number 5 in the expression to its contextual meaning."
+    },
+    {
+      "ID": 1065,
+      "Speaker": "T",
+      "Turn": 15,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to articulate the contextual meaning of 7 in the expression."
+    }
+  ]
+}

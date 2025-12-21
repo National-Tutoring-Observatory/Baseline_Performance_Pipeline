@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 24279,
+      "Speaker": "T",
+      "Turn": 24279,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24281,
+      "Speaker": "T",
+      "Turn": 24281,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher restates the student’s action (writing something) to confirm understanding."
+    },
+    {
+      "ID": 24282,
+      "Speaker": "T",
+      "Turn": 24282,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher prompts the student to give a precise number model, focusing on the exact mathematical language."
+    },
+    {
+      "ID": 24284,
+      "Speaker": "T",
+      "Turn": 24284,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24285,
+      "Speaker": "T",
+      "Turn": 24285,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24286,
+      "Speaker": "T",
+      "Turn": 24286,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher asks the student to explain what the problem is asking, encouraging interpretation and reasoning."
+    },
+    {
+      "ID": 24287,
+      "Speaker": "T",
+      "Turn": 24287,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher requests the exact multiplication expression needed, focusing on correct computation."
+    },
+    {
+      "ID": 24290,
+      "Speaker": "T",
+      "Turn": 24290,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24293,
+      "Speaker": "T",
+      "Turn": 24293,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24294,
+      "Speaker": "T",
+      "Turn": 24294,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher urges the student to re-examine an answer for correctness."
+    },
+    {
+      "ID": 24300,
+      "Speaker": "T",
+      "Turn": 24300,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24301,
+      "Speaker": "T",
+      "Turn": 24301,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24302,
+      "Speaker": "T",
+      "Turn": 24302,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24303,
+      "Speaker": "T",
+      "Turn": 24303,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24304,
+      "Speaker": "T",
+      "Turn": 24304,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24305,
+      "Speaker": "T",
+      "Turn": 24305,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher points out the specific computation the student performed, focusing attention on the exact operation."
+    },
+    {
+      "ID": 24306,
+      "Speaker": "T",
+      "Turn": 24306,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher paraphrases the task, restating it with additional clarification about fractions."
+    },
+    {
+      "ID": 24307,
+      "Speaker": "T",
+      "Turn": 24307,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24309,
+      "Speaker": "T",
+      "Turn": 24309,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24310,
+      "Speaker": "T",
+      "Turn": 24310,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

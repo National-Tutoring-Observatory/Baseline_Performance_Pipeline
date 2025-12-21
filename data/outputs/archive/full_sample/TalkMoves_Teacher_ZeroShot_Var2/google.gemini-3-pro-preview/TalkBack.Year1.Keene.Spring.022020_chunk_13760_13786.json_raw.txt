@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 13760,
+      "Speaker": "T",
+      "Turn": 13760,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 13761,
+      "Speaker": "T",
+      "Turn": 13761,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 13762,
+      "Speaker": "T",
+      "Turn": 13762,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher explicitly asks the student to explain their thinking and the steps they have taken so far."
+    },
+    {
+      "ID": 13763,
+      "Speaker": "T",
+      "Turn": 13763,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 13764,
+      "Speaker": "T",
+      "Turn": 13764,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 13766,
+      "Speaker": "T",
+      "Turn": 13766,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 13768,
+      "Speaker": "T",
+      "Turn": 13768,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to identify the specific mathematical parts (numerator/denominator) rather than using vague language."
+    },
+    {
+      "ID": 13770,
+      "Speaker": "T",
+      "Turn": 13770,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 13771,
+      "Speaker": "T",
+      "Turn": 13771,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 13772,
+      "Speaker": "T",
+      "Turn": 13772,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 13773,
+      "Speaker": "T",
+      "Turn": 13773,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to evaluate the clarity of their communication, prompting them to justify why specific vocabulary is necessary for understanding."
+    },
+    {
+      "ID": 13775,
+      "Speaker": "T",
+      "Turn": 13775,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher explicitly asks students to recall and use specific mathematical vocabulary."
+    },
+    {
+      "ID": 13777,
+      "Speaker": "T",
+      "Turn": 13777,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to continue listing the required mathematical terms."
+    },
+    {
+      "ID": 13779,
+      "Speaker": "T",
+      "Turn": 13779,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's answer ('Common denominators') to confirm the contribution."
+    },
+    {
+      "ID": 13780,
+      "Speaker": "T",
+      "Turn": 13780,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 13781,
+      "Speaker": "T",
+      "Turn": 13781,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to perform a calculation and state the result."
+    },
+    {
+      "ID": 13782,
+      "Speaker": "T",
+      "Turn": 13782,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher clarifies the previous prompt, asking specifically for the resulting fraction."
+    },
+    {
+      "ID": 13783,
+      "Speaker": "T",
+      "Turn": 13783,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 13784,
+      "Speaker": "T",
+      "Turn": 13784,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks students to state the specific equivalent fraction obtained by multiplying by three."
+    },
+    {
+      "ID": 13786,
+      "Speaker": "T",
+      "Turn": 13786,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to calculate and state the next equivalent fraction in the sequence."
+    }
+  ]
+}

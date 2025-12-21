@@ -1,0 +1,130 @@
+{
+  "records": [
+    {
+      "ID": 15792,
+      "Speaker": "T",
+      "Turn": 21,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats a student's contribution verbatim to bring it back into the conversational space for examination."
+    },
+    {
+      "ID": 15793,
+      "Speaker": "T",
+      "Turn": 21,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher questions a specific detail of the student's restated contribution, prompting them to check for a mathematical error."
+    },
+    {
+      "ID": 15795,
+      "Speaker": "T",
+      "Turn": 23,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Following the student's agreement that there was an error, the teacher prompts for the correct mathematical information (the place value)."
+    },
+    {
+      "ID": 15797,
+      "Speaker": "T",
+      "Turn": 25,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15798,
+      "Speaker": "T",
+      "Turn": 25,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15799,
+      "Speaker": "T",
+      "Turn": 25,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15800,
+      "Speaker": "T",
+      "Turn": 25,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15801,
+      "Speaker": "T",
+      "Turn": 25,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15802,
+      "Speaker": "T",
+      "Turn": 25,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15803,
+      "Speaker": "T",
+      "Turn": 25,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15805,
+      "Speaker": "T",
+      "Turn": 27,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15806,
+      "Speaker": "T",
+      "Turn": 27,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15808,
+      "Speaker": "T",
+      "Turn": 29,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15809,
+      "Speaker": "T",
+      "Turn": 29,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15810,
+      "Speaker": "T",
+      "Turn": 29,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15811,
+      "Speaker": "T",
+      "Turn": 29,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15812,
+      "Speaker": "T",
+      "Turn": 29,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15813,
+      "Speaker": "T",
+      "Turn": 29,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

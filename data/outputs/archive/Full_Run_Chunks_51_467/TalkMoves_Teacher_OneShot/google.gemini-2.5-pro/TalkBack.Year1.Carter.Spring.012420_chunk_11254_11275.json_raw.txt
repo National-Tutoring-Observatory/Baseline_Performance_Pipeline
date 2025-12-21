@@ -1,0 +1,137 @@
+{
+  "records": [
+    {
+      "ID": 11254,
+      "Turn": 83,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11255,
+      "Turn": 83,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11256,
+      "Turn": 83,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11257,
+      "Turn": 84,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to explain the difference between the current lesson and the previous one, prompting them to connect ideas."
+    },
+    {
+      "ID": 11258,
+      "Turn": 84,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11259,
+      "Turn": 84,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11260,
+      "Turn": 84,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11261,
+      "Turn": 84,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11262,
+      "Turn": 84,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11264,
+      "Turn": 86,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11265,
+      "Turn": 86,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher repeats the question asking students to explain the difference between the new lesson and the previous one, prompting them to share their thinking."
+    },
+    {
+      "ID": 11266,
+      "Turn": 86,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11267,
+      "Turn": 86,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11268,
+      "Turn": 87,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks a specific student to answer the question about how the lesson is different, prompting for an explanation."
+    },
+    {
+      "ID": 11270,
+      "Turn": 89,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher corrects a student's description of the new lesson and prompts for the accurate description of the current topic."
+    },
+    {
+      "ID": 11271,
+      "Turn": 89,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11273,
+      "Turn": 91,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases the student's idea of 'finding fractions of fractions' into the more formal mathematical language of 'multiplying fractions by fractions'."
+    },
+    {
+      "ID": 11274,
+      "Turn": 91,
+      "Speaker": "T",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher polls the class to see who arrived at the same idea, orienting students to the shared understanding."
+    },
+    {
+      "ID": 11275,
+      "Turn": 91,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

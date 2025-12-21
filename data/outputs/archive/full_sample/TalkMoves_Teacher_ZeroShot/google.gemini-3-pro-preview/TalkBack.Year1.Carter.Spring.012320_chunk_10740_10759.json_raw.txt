@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 10740,
+      "Speaker": "T",
+      "Turn": 10740,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats student contributions (6 14 and 5 34) but attributes them anonymously ('somebody had said'), effectively re-broadcasting the ideas for the class to consider."
+    },
+    {
+      "ID": 10741,
+      "Speaker": "T",
+      "Turn": 10741,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher directs students to discuss the previously mentioned answers with their teams, ensuring everyone is engaged with the content."
+    },
+    {
+      "ID": 10742,
+      "Speaker": "T",
+      "Turn": 10742,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10743,
+      "Speaker": "T",
+      "Turn": 10743,
+      "TalkMove": null,
+      "Reasoning": "This is an evaluative statement providing the correct answer."
+    },
+    {
+      "ID": 10744,
+      "Speaker": "T",
+      "Turn": 10744,
+      "TalkMove": null,
+      "Reasoning": "This is an explanation of student errors, not a prompt for student talk."
+    },
+    {
+      "ID": 10745,
+      "Speaker": "T",
+      "Turn": 10745,
+      "TalkMove": null,
+      "Reasoning": "This is an explanation of student errors."
+    },
+    {
+      "ID": 10746,
+      "Speaker": "T",
+      "Turn": 10746,
+      "TalkMove": null,
+      "Reasoning": "This is an explanation of student errors."
+    },
+    {
+      "ID": 10747,
+      "Speaker": "T",
+      "Turn": 10747,
+      "TalkMove": null,
+      "Reasoning": "This is a statement about a mathematical rule."
+    },
+    {
+      "ID": 10748,
+      "Speaker": "T",
+      "Turn": 10748,
+      "TalkMove": null,
+      "Reasoning": "This is a statement about a mathematical rule."
+    },
+    {
+      "ID": 10749,
+      "Speaker": "T",
+      "Turn": 10749,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10750,
+      "Speaker": "T",
+      "Turn": 10750,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher directs the students' attention to specific problems on the page."
+    },
+    {
+      "ID": 10751,
+      "Speaker": "T",
+      "Turn": 10751,
+      "TalkMove": null,
+      "Reasoning": "Self-talk/administrative."
+    },
+    {
+      "ID": 10752,
+      "Speaker": "T",
+      "Turn": 10752,
+      "TalkMove": null,
+      "Reasoning": "Administrative/pacing."
+    },
+    {
+      "ID": 10753,
+      "Speaker": "T",
+      "Turn": 10753,
+      "TalkMove": null,
+      "Reasoning": "Self-talk/administrative."
+    },
+    {
+      "ID": 10754,
+      "Speaker": "T",
+      "Turn": 10754,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher directs the students' attention to specific problems on the page."
+    },
+    {
+      "ID": 10755,
+      "Speaker": "T",
+      "Turn": 10755,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher directs the students to examine specific rules, orienting them to the task."
+    },
+    {
+      "ID": 10756,
+      "Speaker": "T",
+      "Turn": 10756,
+      "TalkMove": null,
+      "Reasoning": "This is a statement of fact/observation by the teacher."
+    },
+    {
+      "ID": 10757,
+      "Speaker": "T",
+      "Turn": 10757,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher checks if students notice a specific mathematical feature (the 'in' numbers are the same)."
+    },
+    {
+      "ID": 10758,
+      "Speaker": "T",
+      "Turn": 10758,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to predict an outcome based on the rules."
+    },
+    {
+      "ID": 10759,
+      "Speaker": "T",
+      "Turn": 10759,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher explicitly asks for justification ('Why or why not') regarding their prediction."
+    }
+  ]
+}

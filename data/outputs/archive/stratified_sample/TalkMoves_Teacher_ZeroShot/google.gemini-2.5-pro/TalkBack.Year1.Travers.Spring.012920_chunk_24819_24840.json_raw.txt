@@ -1,0 +1,95 @@
+{
+  "records": [
+    {
+      "ID": 24820,
+      "Speaker": "T",
+      "Turn": 173,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's contribution verbatim."
+    },
+    {
+      "ID": 24821,
+      "Speaker": "T",
+      "Turn": 173,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to provide the next mathematical contribution in the data set."
+    },
+    {
+      "ID": 24823,
+      "Speaker": "T",
+      "Turn": 175,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to provide a specific mathematical value (the count of a data point)."
+    },
+    {
+      "ID": 24826,
+      "Speaker": "T",
+      "Turn": 178,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24827,
+      "Speaker": "T",
+      "Turn": 178,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24828,
+      "Speaker": "T",
+      "Turn": 178,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a question to verify the accuracy of the data count, prompting students to confirm a mathematical detail."
+    },
+    {
+      "ID": 24830,
+      "Speaker": "T",
+      "Turn": 180,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24832,
+      "Speaker": "T",
+      "Turn": 182,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to identify the next data point, which is a specific mathematical contribution."
+    },
+    {
+      "ID": 24833,
+      "Speaker": "T",
+      "Turn": 182,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to provide a specific mathematical value (the frequency of a data point)."
+    },
+    {
+      "ID": 24835,
+      "Speaker": "T",
+      "Turn": 184,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's contribution verbatim."
+    },
+    {
+      "ID": 24836,
+      "Speaker": "T",
+      "Turn": 184,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24837,
+      "Speaker": "T",
+      "Turn": 184,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to provide the next data point, which is a specific mathematical contribution."
+    },
+    {
+      "ID": 24839,
+      "Speaker": "T",
+      "Turn": 186,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a question to verify the data set, prompting students to make a specific mathematical contribution about the presence of a value."
+    }
+  ]
+}

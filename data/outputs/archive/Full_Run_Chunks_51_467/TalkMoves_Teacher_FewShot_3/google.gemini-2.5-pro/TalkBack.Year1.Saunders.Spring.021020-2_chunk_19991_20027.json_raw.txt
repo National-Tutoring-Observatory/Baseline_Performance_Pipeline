@@ -1,0 +1,186 @@
+{
+  "records": [
+    {
+      "ID": 19991,
+      "Turn": 20,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19992,
+      "Turn": 20,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19993,
+      "Turn": 20,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19995,
+      "Turn": 22,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19996,
+      "Turn": 22,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19997,
+      "Turn": 22,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19998,
+      "Turn": 22,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19999,
+      "Turn": 22,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20001,
+      "Turn": 24,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20003,
+      "Turn": 26,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a question to elicit a specific mathematical property about linear equations."
+    },
+    {
+      "ID": 20005,
+      "Turn": 28,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's idea ('opposite') and then elaborates on it by describing the directions of the line."
+    },
+    {
+      "ID": 20006,
+      "Turn": 28,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to make another mathematical contribution by applying the same logic to a different type of function."
+    },
+    {
+      "ID": 20007,
+      "Turn": 28,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20008,
+      "Turn": 28,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20010,
+      "Turn": 30,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20011,
+      "Turn": 30,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20012,
+      "Turn": 30,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20014,
+      "Turn": 32,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20015,
+      "Turn": 32,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to identify a specific mathematical feature of the equation."
+    },
+    {
+      "ID": 20017,
+      "Turn": 34,
+      "Speaker": "T",
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's answer ('Three') word for word."
+    },
+    {
+      "ID": 20018,
+      "Turn": 34,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to make a mathematical contribution by classifying the previous answer."
+    },
+    {
+      "ID": 20020,
+      "Turn": 36,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to make a mathematical contribution by connecting the degree to the end behavior."
+    },
+    {
+      "ID": 20022,
+      "Turn": 38,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to explain the thinking or rule used to determine the specific end behavior."
+    },
+    {
+      "ID": 20024,
+      "Turn": 40,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to complete the thought and make a specific mathematical contribution based on the established rule."
+    },
+    {
+      "ID": 20026,
+      "Turn": 42,
+      "Speaker": "T",
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's answer ('Positive') word for word."
+    },
+    {
+      "ID": 20027,
+      "Turn": 42,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's idea ('positive') and adds the more precise mathematical term 'leading coefficient'."
+    }
+  ]
+}

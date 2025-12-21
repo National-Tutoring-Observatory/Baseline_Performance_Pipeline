@@ -1,0 +1,101 @@
+{
+  "records": [
+    {
+      "ID": 12384,
+      "Speaker": "T",
+      "Turn": 3
+    },
+    {
+      "ID": 12385,
+      "Speaker": "T",
+      "Turn": 3
+    },
+    {
+      "ID": 12387,
+      "Speaker": "T",
+      "Turn": 5,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a student to name the denominator, prompting a specific mathematical contribution."
+    },
+    {
+      "ID": 12389,
+      "Speaker": "T",
+      "Turn": 7,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks the class to identify the denominator, eliciting a precise mathematical term."
+    },
+    {
+      "ID": 12390,
+      "Speaker": "T",
+      "Turn": 7
+    },
+    {
+      "ID": 12391,
+      "Speaker": "T",
+      "Turn": 7,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher again prompts students to state the denominator, seeking accurate mathematical identification."
+    },
+    {
+      "ID": 12392,
+      "Speaker": "T",
+      "Turn": 7
+    },
+    {
+      "ID": 12393,
+      "Speaker": "T",
+      "Turn": 7,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks which number is the bottom number, pressing for the correct numerical value."
+    },
+    {
+      "ID": 12395,
+      "Speaker": "T",
+      "Turn": 9
+    },
+    {
+      "ID": 12396,
+      "Speaker": "T",
+      "Turn": 9
+    },
+    {
+      "ID": 12397,
+      "Speaker": "T",
+      "Turn": 9,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts a student to state the steps of the procedure, eliciting a specific mathematical action."
+    },
+    {
+      "ID": 12399,
+      "Speaker": "T",
+      "Turn": 11
+    },
+    {
+      "ID": 12401,
+      "Speaker": "T",
+      "Turn": 13
+    },
+    {
+      "ID": 12402,
+      "Speaker": "T",
+      "Turn": 13,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to explain why only one group is being circled, prompting justification."
+    },
+    {
+      "ID": 12403,
+      "Speaker": "T",
+      "Turn": 13
+    },
+    {
+      "ID": 12404,
+      "Speaker": "T",
+      "Turn": 13
+    },
+    {
+      "ID": 12405,
+      "Speaker": "T",
+      "Turn": 13
+    }
+  ]
+}

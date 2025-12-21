@@ -1,0 +1,123 @@
+{
+  "records": [
+    {
+      "ID": 8878,
+      "Speaker": "T",
+      "Turn": 186,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks whether 2 is a factor of 6, prompting students to supply a precise mathematical fact."
+    },
+    {
+      "ID": 8880,
+      "Speaker": "T",
+      "Turn": 188,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher echoes the student’s 'Yes' and elaborates on it by adding the justification about multiplying to obtain 6."
+    },
+    {
+      "ID": 8881,
+      "Speaker": "T",
+      "Turn": 188,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8882,
+      "Speaker": "T",
+      "Turn": 188,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8883,
+      "Speaker": "T",
+      "Turn": 188,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8885,
+      "Speaker": "T",
+      "Turn": 190,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8886,
+      "Speaker": "T",
+      "Turn": 190,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher says 'Back to me please,' directing the class’s attention and ensuring collective focus."
+    },
+    {
+      "ID": 8887,
+      "Speaker": "T",
+      "Turn": 190,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8888,
+      "Speaker": "T",
+      "Turn": 190,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "By asking 'How do you know…,' the teacher prompts students to explain their thinking and provide justification."
+    },
+    {
+      "ID": 8889,
+      "Speaker": "T",
+      "Turn": 190,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8891,
+      "Speaker": "T",
+      "Turn": 191,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher restates the student’s idea that factors can be used to find a common denominator, rephrasing it in her own words."
+    },
+    {
+      "ID": 8892,
+      "Speaker": "T",
+      "Turn": 191,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for a specific number having factors 6 and 8, seeking an exact mathematical answer."
+    },
+    {
+      "ID": 8894,
+      "Speaker": "T",
+      "Turn": 192,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student’s words 'Least common' verbatim."
+    },
+    {
+      "ID": 8896,
+      "Speaker": "T",
+      "Turn": 194,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8897,
+      "Speaker": "T",
+      "Turn": 194,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8898,
+      "Speaker": "T",
+      "Turn": 194,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8899,
+      "Speaker": "T",
+      "Turn": 194,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "By saying 'Read this with me,' the teacher encourages whole-class participation and shared attention."
+    }
+  ]
+}

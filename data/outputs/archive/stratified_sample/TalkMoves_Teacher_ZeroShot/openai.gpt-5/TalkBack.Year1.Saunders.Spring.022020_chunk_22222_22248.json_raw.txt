@@ -1,0 +1,179 @@
+{
+  "records": [
+    {
+      "ID": 22222,
+      "Speaker": "T",
+      "Turn": 295,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22223,
+      "Speaker": "T",
+      "Turn": 296,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the product of -12 and 3, prompting a specific computation."
+    },
+    {
+      "ID": 22224,
+      "Speaker": "T",
+      "Turn": 296,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22225,
+      "Speaker": "T",
+      "Turn": 296,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts students to think about numbers cubed and connect to prior work on writing out powers."
+    },
+    {
+      "ID": 22226,
+      "Speaker": "T",
+      "Turn": 296,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks students to compute 2 to the third power."
+    },
+    {
+      "ID": 22228,
+      "Speaker": "T",
+      "Turn": 298,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student’s phrase 'Two times two times two' verbatim before extending it."
+    },
+    {
+      "ID": 22230,
+      "Speaker": "T",
+      "Turn": 300,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks whether 8 is a factor of 36, prompting a precise mathematical check."
+    },
+    {
+      "ID": 22231,
+      "Speaker": "T",
+      "Turn": 300,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher requests the value of 3 × 3 × 3."
+    },
+    {
+      "ID": 22232,
+      "Speaker": "T",
+      "Turn": 300,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22233,
+      "Speaker": "T",
+      "Turn": 301,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks if multiplying -3 three times results in -27, seeking a correct determination."
+    },
+    {
+      "ID": 22234,
+      "Speaker": "T",
+      "Turn": 301,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22235,
+      "Speaker": "T",
+      "Turn": 302,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22236,
+      "Speaker": "T",
+      "Turn": 303,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the product of 3 and -9."
+    },
+    {
+      "ID": 22237,
+      "Speaker": "T",
+      "Turn": 303,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts for the value of the cube root of -27."
+    },
+    {
+      "ID": 22238,
+      "Speaker": "T",
+      "Turn": 303,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22239,
+      "Speaker": "T",
+      "Turn": 304,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22240,
+      "Speaker": "T",
+      "Turn": 304,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22241,
+      "Speaker": "T",
+      "Turn": 305,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22242,
+      "Speaker": "T",
+      "Turn": 305,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22243,
+      "Speaker": "T",
+      "Turn": 306,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22244,
+      "Speaker": "T",
+      "Turn": 306,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22245,
+      "Speaker": "T",
+      "Turn": 306,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22246,
+      "Speaker": "T",
+      "Turn": 306,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22247,
+      "Speaker": "T",
+      "Turn": 306,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22248,
+      "Speaker": "T",
+      "Turn": 307,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

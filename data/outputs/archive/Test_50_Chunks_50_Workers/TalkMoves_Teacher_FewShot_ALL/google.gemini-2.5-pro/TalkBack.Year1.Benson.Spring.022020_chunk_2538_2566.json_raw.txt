@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 2538,
+      "Turn": 16,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2540,
+      "Turn": 18,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2541,
+      "Turn": 18,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2543,
+      "Turn": 20,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to reconsider a specific part of their calculation (the number of zeros) to correct their answer."
+    },
+    {
+      "ID": 2545,
+      "Turn": 22,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher uses the student's confirmation ('Two') to prompt them to complete the calculation and arrive at an accurate answer."
+    },
+    {
+      "ID": 2547,
+      "Turn": 24,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2548,
+      "Turn": 24,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2549,
+      "Turn": 24,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2551,
+      "Turn": 26,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2552,
+      "Turn": 26,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2553,
+      "Turn": 26,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2555,
+      "Turn": 28,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to provide the full equation as requested, rather than just the start of the calculation, pressing for a more complete mathematical contribution."
+    },
+    {
+      "ID": 2557,
+      "Turn": 30,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2558,
+      "Turn": 30,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher reminds the student of the instruction to use a variable for the unknown, pressing for the use of accurate mathematical notation."
+    },
+    {
+      "ID": 2559,
+      "Turn": 30,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Following the reminder to use a variable, the teacher prompts the student to choose one, pushing them to complete the accurate mathematical expression."
+    },
+    {
+      "ID": 2561,
+      "Turn": 32,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's calculation but frames it as 'one way to write that,' subtly adding to and validating the student's contribution."
+    },
+    {
+      "ID": 2562,
+      "Turn": 32,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks the student to confirm the specific mathematical symbol they used, pressing for accuracy in their written notation."
+    },
+    {
+      "ID": 2564,
+      "Turn": 34,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to confirm their previous answer about the symbol they used."
+    },
+    {
+      "ID": 2565,
+      "Turn": 34,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2566,
+      "Turn": 34,
+      "Speaker": "T",
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher asks other students to compare their notation to the one just shared, prompting them to relate their ideas to a classmate's."
+    }
+  ]
+}

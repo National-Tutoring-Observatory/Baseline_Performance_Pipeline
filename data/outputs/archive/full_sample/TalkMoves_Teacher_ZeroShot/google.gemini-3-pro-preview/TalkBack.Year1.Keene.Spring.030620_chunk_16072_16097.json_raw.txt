@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 16072,
+      "Speaker": "T",
+      "Turn": 16072,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16074,
+      "Speaker": "T",
+      "Turn": 16074,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16075,
+      "Speaker": "T",
+      "Turn": 16075,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16076,
+      "Speaker": "T",
+      "Turn": 16076,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a specific student to identify specific mathematical keywords (left, difference, remain) in the problem text."
+    },
+    {
+      "ID": 16078,
+      "Speaker": "T",
+      "Turn": 16078,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16080,
+      "Speaker": "T",
+      "Turn": 16080,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's answer ('No') verbatim."
+    },
+    {
+      "ID": 16081,
+      "Speaker": "T",
+      "Turn": 16081,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's idea ('No') but elaborates on it ('No subtraction keywords')."
+    },
+    {
+      "ID": 16082,
+      "Speaker": "T",
+      "Turn": 16082,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher orients the class's attention to a specific group of students ('subtraction friends')."
+    },
+    {
+      "ID": 16083,
+      "Speaker": "T",
+      "Turn": 16083,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher references a student's claim and asks others to justify their opposing stance ('tell me why do you think its subtraction')."
+    },
+    {
+      "ID": 16086,
+      "Speaker": "T",
+      "Turn": 16086,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a specific question about the operation involved ('Are we taking something away') to check for understanding of the mathematical concept."
+    },
+    {
+      "ID": 16087,
+      "Speaker": "T",
+      "Turn": 16087,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher calls on a specific group ('Boys') to ensure they are paying attention or to solicit a response from them."
+    },
+    {
+      "ID": 16089,
+      "Speaker": "T",
+      "Turn": 16089,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student response ('No')."
+    },
+    {
+      "ID": 16090,
+      "Speaker": "T",
+      "Turn": 16090,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to look for specific evidence in the text ('keywords')."
+    },
+    {
+      "ID": 16091,
+      "Speaker": "T",
+      "Turn": 16091,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16092,
+      "Speaker": "T",
+      "Turn": 16092,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16093,
+      "Speaker": "T",
+      "Turn": 16093,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16094,
+      "Speaker": "T",
+      "Turn": 16094,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16095,
+      "Speaker": "T",
+      "Turn": 16095,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher invites participation from the whole group ('who thinks they can share')."
+    },
+    {
+      "ID": 16096,
+      "Speaker": "T",
+      "Turn": 16096,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16097,
+      "Speaker": "T",
+      "Turn": 16097,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 10958,
+      "Speaker": "T",
+      "Turn": 10958,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher paraphrases the student's solution by framing it as division, clarifying the idea."
+    },
+    {
+      "ID": 10959,
+      "Speaker": "T",
+      "Turn": 10959,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10960,
+      "Speaker": "T",
+      "Turn": 10960,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10961,
+      "Speaker": "T",
+      "Turn": 10961,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10962,
+      "Speaker": "T",
+      "Turn": 10962,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10963,
+      "Speaker": "T",
+      "Turn": 10963,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10964,
+      "Speaker": "T",
+      "Turn": 10964,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10971,
+      "Speaker": "T",
+      "Turn": 10971,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10972,
+      "Speaker": "T",
+      "Turn": 10972,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to explain their method again, prompting them to share their thinking."
+    },
+    {
+      "ID": 10973,
+      "Speaker": "T",
+      "Turn": 10973,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10974,
+      "Speaker": "T",
+      "Turn": 10974,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases the student's expressed confusion ('You're confused too'), reflecting the student's idea."
+    },
+    {
+      "ID": 10975,
+      "Speaker": "T",
+      "Turn": 10975,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to present again so others can examine it, prompting further explanation."
+    },
+    {
+      "ID": 10978,
+      "Speaker": "T",
+      "Turn": 10978,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher challenges the correctness of the grouping using mathematical language ('four whole groups')."
+    },
+    {
+      "ID": 10981,
+      "Speaker": "T",
+      "Turn": 10981,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher paraphrases the representation by identifying the three groups as the three columns."
+    },
+    {
+      "ID": 10983,
+      "Speaker": "T",
+      "Turn": 10983,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher restates the structure of the groups and quantities in the student's representation."
+    },
+    {
+      "ID": 10985,
+      "Speaker": "T",
+      "Turn": 10985,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks the student to show the 'three groups,' prompting a mathematical demonstration of the representation."
+    },
+    {
+      "ID": 10987,
+      "Speaker": "T",
+      "Turn": 10987,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10988,
+      "Speaker": "T",
+      "Turn": 10988,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10990,
+      "Speaker": "T",
+      "Turn": 10990,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10992,
+      "Speaker": "T",
+      "Turn": 10992,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

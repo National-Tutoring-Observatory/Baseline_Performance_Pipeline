@@ -1,0 +1,137 @@
+{
+  "records": [
+    {
+      "ID": 92,
+      "Speaker": "T",
+      "Turn": 48,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 94,
+      "Speaker": "T",
+      "Turn": 50,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher restates the student’s idea using her own words, clarifying that a pattern had been followed and then caused confusion."
+    },
+    {
+      "ID": 96,
+      "Speaker": "T",
+      "Turn": 52,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 97,
+      "Speaker": "T",
+      "Turn": 52,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 98,
+      "Speaker": "T",
+      "Turn": 52,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 99,
+      "Speaker": "T",
+      "Turn": 52,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 100,
+      "Speaker": "T",
+      "Turn": 52,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 101,
+      "Speaker": "T",
+      "Turn": 53,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to compare the current problem to previous ones, prompting them to articulate the difference."
+    },
+    {
+      "ID": 102,
+      "Speaker": "T",
+      "Turn": 53,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Directly asks a student to explain what is different about the problem, seeking the student’s reasoning."
+    },
+    {
+      "ID": 103,
+      "Speaker": "T",
+      "Turn": 53,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 104,
+      "Speaker": "T",
+      "Turn": 53,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "After noting that it is multiplication, the teacher asks again what is different, prompting students to clarify their reasoning."
+    },
+    {
+      "ID": 106,
+      "Speaker": "T",
+      "Turn": 55,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student’s exact words, 'We’re doing a two-digit number times a two-digit number.'"
+    },
+    {
+      "ID": 107,
+      "Speaker": "T",
+      "Turn": 55,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks students to specify what type of multiplication problems they have been doing, seeking a precise mathematical description."
+    },
+    {
+      "ID": 108,
+      "Speaker": "T",
+      "Turn": 56,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 109,
+      "Speaker": "T",
+      "Turn": 56,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 110,
+      "Speaker": "T",
+      "Turn": 56,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 111,
+      "Speaker": "T",
+      "Turn": 57,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 112,
+      "Speaker": "T",
+      "Turn": 58,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 113,
+      "Speaker": "T",
+      "Turn": 59,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

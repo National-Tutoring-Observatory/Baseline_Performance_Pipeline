@@ -1,0 +1,118 @@
+[
+  {
+    "records": [
+      {
+        "ID": 4490,
+        "Speaker": "T",
+        "Turn": 36,
+        "TalkMove": null,
+        "Reasoning": null
+      },
+      {
+        "ID": 4493,
+        "Speaker": "T",
+        "Turn": 38,
+        "TalkMove": null,
+        "Reasoning": null
+      },
+      {
+        "ID": 4494,
+        "Speaker": "T",
+        "Turn": 38,
+        "TalkMove": "Revoicing",
+        "Reasoning": "The teacher repeats the student's idea about using 8x10 to determine place value, but clarifies the wording for mathematical precision."
+      },
+      {
+        "ID": 4495,
+        "Speaker": "T",
+        "Turn": 38,
+        "TalkMove": "Pressing for Accuracy",
+        "Reasoning": "The teacher explicitly prompts students to use specific mathematical language in their explanations."
+      },
+      {
+        "ID": 4496,
+        "Speaker": "T",
+        "Turn": 38,
+        "TalkMove": "Pressing for Reasoning",
+        "Reasoning": "The teacher asks students to take a position ('agree or disagree'), which requires them to evaluate and justify their thinking."
+      },
+      {
+        "ID": 4497,
+        "Speaker": "T",
+        "Turn": 39,
+        "TalkMove": "Pressing for Reasoning",
+        "Reasoning": "The teacher explicitly asks students to 'prove' their answer, directly prompting for justification and evidence."
+      },
+      {
+        "ID": 4498,
+        "Speaker": "T",
+        "Turn": 39,
+        "TalkMove": null,
+        "Reasoning": null
+      },
+      {
+        "ID": 4500,
+        "Speaker": "T",
+        "Turn": 41,
+        "TalkMove": "Pressing for Accuracy",
+        "Reasoning": "The teacher prompts the student to complete a general mathematical principle, pressing for a correct statement."
+      },
+      {
+        "ID": 4502,
+        "Speaker": "T",
+        "Turn": 43,
+        "TalkMove": null,
+        "Reasoning": null
+      },
+      {
+        "ID": 4504,
+        "Speaker": "T",
+        "Turn": 45,
+        "TalkMove": "Revoicing",
+        "Reasoning": "The teacher rephrases the student's specific answer ('hundredths') into a more general mathematical principle ('get smaller')."
+      },
+      {
+        "ID": 4505,
+        "Speaker": "T",
+        "Turn": 45,
+        "TalkMove": "Revoicing",
+        "Reasoning": "The teacher repeats the student's correct answer and adds the reasoning ('because it started in the tenths') to make the contribution more complete."
+      },
+      {
+        "ID": 4506,
+        "Speaker": "T",
+        "Turn": 45,
+        "TalkMove": "Pressing for Reasoning",
+        "Reasoning": "The teacher poses a question asking if a number fits a rule, which requires students to apply their understanding and explain their conclusion."
+      },
+      {
+        "ID": 4507,
+        "Speaker": "T",
+        "Turn": 45,
+        "TalkMove": "Pressing for Reasoning",
+        "Reasoning": "The teacher makes the previous question more specific, continuing the press for students to apply the rule and justify their answer."
+      },
+      {
+        "ID": 4509,
+        "Speaker": "T",
+        "Turn": 47,
+        "TalkMove": null,
+        "Reasoning": null
+      },
+      {
+        "ID": 4510,
+        "Speaker": "T",
+        "Turn": 47,
+        "TalkMove": null,
+        "Reasoning": null
+      },
+      {
+        "ID": 4511,
+        "Speaker": "T",
+        "Turn": 47,
+        "TalkMove": null,
+        "Reasoning": null
+      }
+    ]
+  }
+]

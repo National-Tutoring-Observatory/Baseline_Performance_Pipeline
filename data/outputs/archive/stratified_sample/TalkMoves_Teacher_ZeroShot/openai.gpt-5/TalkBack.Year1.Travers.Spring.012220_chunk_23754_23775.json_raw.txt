@@ -1,0 +1,109 @@
+{
+  "records": [
+    {
+      "ID": 23754,
+      "Speaker": "T",
+      "Turn": 49,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to complete a mathematical definition using precise language."
+    },
+    {
+      "ID": 23756,
+      "Speaker": "T",
+      "Turn": 51,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher supplies a specific term to elicit precise mathematical wording."
+    },
+    {
+      "ID": 23758,
+      "Speaker": "T",
+      "Turn": 53,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to elaborate and explain more."
+    },
+    {
+      "ID": 23760,
+      "Speaker": "T",
+      "Turn": 55,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher cues the student to complete the mathematical statement."
+    },
+    {
+      "ID": 23762,
+      "Speaker": "T",
+      "Turn": 57,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher completes and clarifies the student's partial idea with adjusted wording."
+    },
+    {
+      "ID": 23764,
+      "Speaker": "T",
+      "Turn": 59,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23765,
+      "Speaker": "T",
+      "Turn": 59,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher orients the class’s attention to a shared resource to promote active listening."
+    },
+    {
+      "ID": 23766,
+      "Speaker": "T",
+      "Turn": 59,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23767,
+      "Speaker": "T",
+      "Turn": 59,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23770,
+      "Speaker": "T",
+      "Turn": 62,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher restates the student’s idea with altered wording to highlight the claim."
+    },
+    {
+      "ID": 23771,
+      "Speaker": "T",
+      "Turn": 62,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher invites the class to respond to a peer’s statement."
+    },
+    {
+      "ID": 23772,
+      "Speaker": "T",
+      "Turn": 62,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the claim to the class, clarifying the idea under discussion."
+    },
+    {
+      "ID": 23773,
+      "Speaker": "T",
+      "Turn": 62,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher requests agreed-upon hand signals to coordinate whole-class participation."
+    },
+    {
+      "ID": 23774,
+      "Speaker": "T",
+      "Turn": 62,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23775,
+      "Speaker": "T",
+      "Turn": 64,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to supply the precise mathematical term (numerator)."
+    }
+  ]
+}

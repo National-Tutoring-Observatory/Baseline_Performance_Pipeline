@@ -1,0 +1,74 @@
+{
+  "records": [
+    {
+      "ID": 24851,
+      "Speaker": "T",
+      "Turn": 195,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Directs the class’s attention to the data set, prompting all students to focus together."
+    },
+    {
+      "ID": 24855,
+      "Speaker": "T",
+      "Turn": 198,
+      "TalkMove": "Restating",
+      "Reasoning": "Echoes the student’s prior answer (“Two”) almost verbatim to confirm and highlight it."
+    },
+    {
+      "ID": 24856,
+      "Speaker": "T",
+      "Turn": 198,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24857,
+      "Speaker": "T",
+      "Turn": 198,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24858,
+      "Speaker": "T",
+      "Turn": 198,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks students to verify the precise value (“Are we at 4 1/2 now?”), prompting confirmation of the correct measurement."
+    },
+    {
+      "ID": 24860,
+      "Speaker": "T",
+      "Turn": 200,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Requests an exact count of a particular measurement (“How many 4 1/2 did we have?”)."
+    },
+    {
+      "ID": 24862,
+      "Speaker": "T",
+      "Turn": 202,
+      "TalkMove": "Restating",
+      "Reasoning": "Repeats the student’s response “Two,” mirroring it for the group."
+    },
+    {
+      "ID": 24866,
+      "Speaker": "T",
+      "Turn": 206,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Checks whether the identified number is indeed the maximum, prompting students to be precise about which value is highest."
+    },
+    {
+      "ID": 24869,
+      "Speaker": "T",
+      "Turn": 208,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Restates and elaborates on the earlier student contribution by specifying the measurement twice (“Here’s 4 1/2 and 4 1/2”)."
+    },
+    {
+      "ID": 24870,
+      "Speaker": "T",
+      "Turn": 208,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks students to confirm whether this value is the greatest, prompting a precise comparative judgment."
+    }
+  ]
+}

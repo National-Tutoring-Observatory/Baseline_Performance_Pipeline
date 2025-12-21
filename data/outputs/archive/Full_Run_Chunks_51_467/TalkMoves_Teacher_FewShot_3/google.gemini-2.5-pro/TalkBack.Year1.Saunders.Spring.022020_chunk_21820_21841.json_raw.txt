@@ -1,0 +1,46 @@
+{
+  "records": [
+    {
+      "ID": 21824,
+      "Speaker": "T",
+      "Turn": 76,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21826,
+      "Speaker": "T",
+      "Turn": 78,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's idea ('isolate the thing') using more precise mathematical language ('isolated the radical')."
+    },
+    {
+      "ID": 21829,
+      "Speaker": "T",
+      "Turn": 80,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's phrase 'Get rid of the radical' verbatim before prompting for the next step."
+    },
+    {
+      "ID": 21831,
+      "Speaker": "T",
+      "Turn": 82,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's answer 'A second power' verbatim before stating the result of the operation."
+    },
+    {
+      "ID": 21835,
+      "Speaker": "T",
+      "Turn": 85,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts students to provide evidence by checking the solution, which is the first step in reasoning about its validity."
+    },
+    {
+      "ID": 21838,
+      "Speaker": "T",
+      "Turn": 87,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's answer 'Three' verbatim before explaining its implication."
+    }
+  ]
+}

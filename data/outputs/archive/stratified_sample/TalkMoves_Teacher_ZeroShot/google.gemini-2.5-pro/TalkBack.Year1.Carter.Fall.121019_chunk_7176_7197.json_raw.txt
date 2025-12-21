@@ -1,0 +1,140 @@
+{
+  "records": [
+    {
+      "ID": 7176,
+      "Turn": 114,
+      "Speaker": "T",
+      "Sentence": "SS right lets look at the next one",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 7177,
+      "Turn": 114,
+      "Speaker": "T",
+      "Sentence": "Lets read this",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 7178,
+      "Turn": 114,
+      "Speaker": "T",
+      "Sentence": "This was where you read a rule Justly used to make the picture that was larger",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 7179,
+      "Turn": 114,
+      "Speaker": "T",
+      "Sentence": "Read the rule with me",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 7181,
+      "Turn": 116,
+      "Speaker": "T",
+      "Sentence": "Okay I think my contact might be in bathroom six",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 7182,
+      "Turn": 116,
+      "Speaker": "T",
+      "Sentence": "The tunnel looks like a pipe too",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 7184,
+      "Turn": 118,
+      "Speaker": "T",
+      "Sentence": "Look and see",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 7185,
+      "Turn": 118,
+      "Speaker": "T",
+      "Sentence": "Did this person make it larger",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 7187,
+      "Turn": 120,
+      "Speaker": "T",
+      "Sentence": "I see some people that I missed",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 7188,
+      "Turn": 120,
+      "Speaker": "T",
+      "Sentence": "Ryan",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 7190,
+      "Turn": 122,
+      "Speaker": "T",
+      "Sentence": "He meant to say what",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "After a student pointed out an error in a rule, the teacher prompts for the correct and more precise mathematical statement."
+    },
+    {
+      "ID": 7192,
+      "Turn": 124,
+      "Speaker": "T",
+      "Sentence": "So he wasnt as detailed as he should be right",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases the student's specific critique into a more general summary ('wasn't as detailed') and seeks confirmation."
+    },
+    {
+      "ID": 7193,
+      "Turn": 124,
+      "Speaker": "T",
+      "Sentence": "Lets look at this next one",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 7194,
+      "Turn": 124,
+      "Speaker": "T",
+      "Sentence": "Describe what you think the new picture will look like",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to share their thinking and make a prediction, which requires them to provide reasoning."
+    },
+    {
+      "ID": 7195,
+      "Turn": 124,
+      "Speaker": "T",
+      "Sentence": "Be specific about how you think the folder will change",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher follows up by explicitly asking for the 'how' behind the students' thinking, pressing for a more detailed explanation."
+    },
+    {
+      "ID": 7196,
+      "Turn": 124,
+      "Speaker": "T",
+      "Sentence": "The folder will be",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 7197,
+      "Turn": 124,
+      "Speaker": "T",
+      "Sentence": "Read it with me",
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "records": [
+    {
+      "ID": 10253,
+      "Turn": 249,
+      "Speaker": "T",
+      "Sentence": "Not two",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10255,
+      "Turn": 251,
+      "Speaker": "T",
+      "Sentence": "14 is two",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10257,
+      "Turn": 253,
+      "Speaker": "T",
+      "Sentence": "Uhhuh",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10258,
+      "Turn": 253,
+      "Speaker": "T",
+      "Sentence": "Do you see why its six",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to explain or understand the reasoning behind the correct answer."
+    },
+    {
+      "ID": 10259,
+      "Turn": 253,
+      "Speaker": "T",
+      "Sentence": "Because 14 is two but you have 34",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10261,
+      "Turn": 255,
+      "Speaker": "T",
+      "Sentence": "Yes",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10262,
+      "Turn": 255,
+      "Speaker": "T",
+      "Sentence": "You have four here but that doesnt make sense because that would be half of this",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10263,
+      "Turn": 255,
+      "Speaker": "T",
+      "Sentence": "Thats how I knew Oops there is a little fixup",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10264,
+      "Turn": 255,
+      "Speaker": "T",
+      "Sentence": "Whats 14 of eight",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a direct question to elicit a specific mathematical contribution (a calculation)."
+    },
+    {
+      "ID": 10265,
+      "Turn": 256,
+      "Speaker": "T",
+      "Sentence": "But you have three of them so",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts the student to connect two ideas: the value of a unit fraction and the number of units needed."
+    },
+    {
+      "ID": 10267,
+      "Turn": 258,
+      "Speaker": "T",
+      "Sentence": "So whats 14 of 10",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a direct question to elicit a specific mathematical contribution (a calculation)."
+    },
+    {
+      "ID": 10268,
+      "Turn": 258,
+      "Speaker": "T",
+      "Sentence": "Twenty divided by four is",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher rephrases a question to prompt for a specific mathematical contribution (a calculation)."
+    },
+    {
+      "ID": 10270,
+      "Turn": 260,
+      "Speaker": "T",
+      "Sentence": "Five",
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's answer 'Five' verbatim."
+    },
+    {
+      "ID": 10271,
+      "Turn": 260,
+      "Speaker": "T",
+      "Sentence": "Thats 15 or 14 but you have three of them",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts the student to connect the idea of a unit fraction to the numerator to find the final answer."
+    },
+    {
+      "ID": 10272,
+      "Turn": 260,
+      "Speaker": "T",
+      "Sentence": "See how we went from 15 to 35",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts the student to reflect on and understand the mathematical process used."
+    },
+    {
+      "ID": 10273,
+      "Turn": 260,
+      "Speaker": "T",
+      "Sentence": "Thats what youre doing here",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10274,
+      "Turn": 260,
+      "Speaker": "T",
+      "Sentence": "Whats 14 of 16",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a direct question to elicit a specific mathematical contribution (a calculation)."
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "records": [
+    {
+      "ID": 1044,
+      "Turn": 1,
+      "Speaker": "T",
+      "TalkMove": "None"
+    },
+    {
+      "ID": 1045,
+      "Turn": 1,
+      "Speaker": "T",
+      "TalkMove": "None"
+    },
+    {
+      "ID": 1048,
+      "Turn": 3,
+      "Speaker": "T",
+      "TalkMove": "None"
+    },
+    {
+      "ID": 1049,
+      "Turn": 3,
+      "Speaker": "T",
+      "TalkMove": "None"
+    },
+    {
+      "ID": 1050,
+      "Turn": 3,
+      "Speaker": "T",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Invites a student to read aloud to the class, orienting the group to listen."
+    },
+    {
+      "ID": 1053,
+      "Turn": 5,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Prompts students to identify the unknown quantity the problem asks for."
+    },
+    {
+      "ID": 1054,
+      "Turn": 5,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Directs a specific student to state what needs to be found, focusing on the target quantity."
+    },
+    {
+      "ID": 1056,
+      "Turn": 7,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks students to state the known information from the problem."
+    },
+    {
+      "ID": 1057,
+      "Turn": 7,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Pushes students to articulate the given pieces of information."
+    },
+    {
+      "ID": 1058,
+      "Turn": 7,
+      "Speaker": "T",
+      "TalkMove": "None"
+    },
+    {
+      "ID": 1060,
+      "Turn": 9,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Requests a number sentence to represent and solve the situation."
+    },
+    {
+      "ID": 1062,
+      "Turn": 11,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks for the numerical amount Kennedy has."
+    },
+    {
+      "ID": 1064,
+      "Turn": 13,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Prompts students to connect the number 5 to its referent in the context."
+    },
+    {
+      "ID": 1065,
+      "Turn": 15,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Prompts identification of what 7 represents in the problem."
+    }
+  ]
+}

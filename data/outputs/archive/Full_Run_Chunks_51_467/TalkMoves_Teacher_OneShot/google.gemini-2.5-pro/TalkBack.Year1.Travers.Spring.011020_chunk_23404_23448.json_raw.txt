@@ -1,0 +1,228 @@
+{
+  "records": [
+    {
+      "ID": 23405,
+      "Speaker": "T",
+      "Turn": 90,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23407,
+      "Speaker": "T",
+      "Turn": 92,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's idea but rephrases it slightly to clarify the two distinct points being made."
+    },
+    {
+      "ID": 23408,
+      "Speaker": "T",
+      "Turn": 92,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23409,
+      "Speaker": "T",
+      "Turn": 92,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher explicitly asks another student to 'add on' to what Jon said, prompting a direct response to a peer's idea."
+    },
+    {
+      "ID": 23410,
+      "Speaker": "T",
+      "Turn": 92,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a direct question that requires a specific, correct mathematical answer."
+    },
+    {
+      "ID": 23411,
+      "Speaker": "T",
+      "Turn": 92,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher checks with the listeners ('can you hear him') to ensure they are able to follow the conversation."
+    },
+    {
+      "ID": 23412,
+      "Speaker": "T",
+      "Turn": 92,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23415,
+      "Speaker": "T",
+      "Turn": 95,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "After summarizing a student's idea, the teacher explicitly asks the class 'who can respond to that'."
+    },
+    {
+      "ID": 23416,
+      "Speaker": "T",
+      "Turn": 95,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23420,
+      "Speaker": "T",
+      "Turn": 97,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23421,
+      "Speaker": "T",
+      "Turn": 97,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23422,
+      "Speaker": "T",
+      "Turn": 97,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23424,
+      "Speaker": "T",
+      "Turn": 99,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23425,
+      "Speaker": "T",
+      "Turn": 99,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23426,
+      "Speaker": "T",
+      "Turn": 99,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks students to provide specific mathematical items (factors or factor pairs)."
+    },
+    {
+      "ID": 23427,
+      "Speaker": "T",
+      "Turn": 99,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts students to think about the process or definition of a factor, asking them to share their thinking."
+    },
+    {
+      "ID": 23428,
+      "Speaker": "T",
+      "Turn": 99,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher provides a sentence frame ('what x what = 12') to guide students in explaining how they find factors."
+    },
+    {
+      "ID": 23429,
+      "Speaker": "T",
+      "Turn": 100,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23430,
+      "Speaker": "T",
+      "Turn": 100,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23431,
+      "Speaker": "T",
+      "Turn": 100,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks students to provide a specific mathematical contribution ('give me two' factors)."
+    },
+    {
+      "ID": 23432,
+      "Speaker": "T",
+      "Turn": 100,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23434,
+      "Speaker": "T",
+      "Turn": 102,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's answer ('6 and 2') word for word."
+    },
+    {
+      "ID": 23435,
+      "Speaker": "T",
+      "Turn": 102,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23436,
+      "Speaker": "T",
+      "Turn": 102,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23438,
+      "Speaker": "T",
+      "Turn": 104,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's answer ('3 and 4') word for word."
+    },
+    {
+      "ID": 23439,
+      "Speaker": "T",
+      "Turn": 104,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher adds on to the student's contribution ('6 and 2') by providing the mathematical justification ('We know 6 x 2 = 12')."
+    },
+    {
+      "ID": 23440,
+      "Speaker": "T",
+      "Turn": 104,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher adds on to the student's contribution ('3 and 4') by providing the mathematical justification ('3 x 4 = 12')."
+    },
+    {
+      "ID": 23441,
+      "Speaker": "T",
+      "Turn": 104,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to provide more mathematical contributions ('Are there more?')."
+    },
+    {
+      "ID": 23443,
+      "Speaker": "T",
+      "Turn": 106,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts a specific student to provide another mathematical contribution."
+    },
+    {
+      "ID": 23445,
+      "Speaker": "T",
+      "Turn": 108,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's answer ('4 3') and adds on by connecting it to a previous answer ('and 3 4')."
+    },
+    {
+      "ID": 23446,
+      "Speaker": "T",
+      "Turn": 108,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher adds on to the student's contribution by explaining the underlying mathematical principle (the commutative property)."
+    },
+    {
+      "ID": 23447,
+      "Speaker": "T",
+      "Turn": 108,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to provide more mathematical contributions ('Do we have anything else?')."
+    }
+  ]
+}

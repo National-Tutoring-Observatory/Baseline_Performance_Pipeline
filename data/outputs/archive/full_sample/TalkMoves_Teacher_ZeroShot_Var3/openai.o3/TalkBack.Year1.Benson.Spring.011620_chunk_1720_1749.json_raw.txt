@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 1720,
+      "Speaker": "T",
+      "Turn": 1720,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1721,
+      "Speaker": "T",
+      "Turn": 1721,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1722,
+      "Speaker": "T",
+      "Turn": 1722,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks Preston to specify what quantity should be added next, prompting a precise mathematical contribution."
+    },
+    {
+      "ID": 1724,
+      "Speaker": "T",
+      "Turn": 1724,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1725,
+      "Speaker": "T",
+      "Turn": 1725,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks what remains to be added, soliciting the specific remaining fractional amount."
+    },
+    {
+      "ID": 1727,
+      "Speaker": "T",
+      "Turn": 1727,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1728,
+      "Speaker": "T",
+      "Turn": 1728,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher queries whether students can compute 3/5 + 1/5, seeking the correct calculation."
+    },
+    {
+      "ID": 1730,
+      "Speaker": "T",
+      "Turn": 1730,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher directly asks for the numerical result ('how many fifths'), requesting an exact answer."
+    },
+    {
+      "ID": 1732,
+      "Speaker": "T",
+      "Turn": 1732,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1733,
+      "Speaker": "T",
+      "Turn": 1733,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher restates Elizabeth’s strategy in her own words, clarifying and highlighting the student's idea."
+    },
+    {
+      "ID": 1734,
+      "Speaker": "T",
+      "Turn": 1734,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1736,
+      "Speaker": "T",
+      "Turn": 1736,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher poses a conceptual question about partitioning the tubs, inviting students to consider and justify an alternative method."
+    },
+    {
+      "ID": 1738,
+      "Speaker": "T",
+      "Turn": 1738,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the exact number of fifths in a whole, prompting a specific mathematical fact."
+    },
+    {
+      "ID": 1740,
+      "Speaker": "T",
+      "Turn": 1740,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1741,
+      "Speaker": "T",
+      "Turn": 1741,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1742,
+      "Speaker": "T",
+      "Turn": 1742,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1743,
+      "Speaker": "T",
+      "Turn": 1743,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the number of fifths in a full tub, requesting a precise numerical response."
+    },
+    {
+      "ID": 1745,
+      "Speaker": "T",
+      "Turn": 1745,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to state the specific number to add to five, seeking an exact value."
+    },
+    {
+      "ID": 1747,
+      "Speaker": "T",
+      "Turn": 1747,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks whether the listed fractional amounts can be added, prompting students to confirm the correctness of the computation."
+    },
+    {
+      "ID": 1749,
+      "Speaker": "T",
+      "Turn": 1749,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher directs the class’s attention ('Let’s focus on our fives'), orienting all students toward the same aspect of the problem."
+    }
+  ]
+}

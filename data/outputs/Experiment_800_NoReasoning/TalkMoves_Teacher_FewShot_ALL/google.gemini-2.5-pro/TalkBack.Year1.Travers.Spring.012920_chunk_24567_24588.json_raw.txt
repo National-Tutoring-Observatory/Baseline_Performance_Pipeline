@@ -1,0 +1,148 @@
+{
+  "records": [
+    {
+      "ID": 24567,
+      "Turn": 67,
+      "Speaker": "S",
+      "Sentence": "Its something that happens at the like a pattern that happens"
+    },
+    {
+      "ID": 24568,
+      "Turn": 67,
+      "Speaker": "S",
+      "Sentence": "Lets say theres a pattern that happens  you will find something"
+    },
+    {
+      "ID": 24569,
+      "Turn": 67,
+      "Speaker": "S",
+      "Sentence": "Theres a pattern that happens"
+    },
+    {
+      "ID": 24570,
+      "Turn": 67,
+      "Speaker": "S",
+      "Sentence": "Thats technology"
+    },
+    {
+      "ID": 24571,
+      "Turn": 67,
+      "Speaker": "S",
+      "Sentence": "Theres a pattern that"
+    },
+    {
+      "ID": 24572,
+      "Turn": 68,
+      "Speaker": "T",
+      "Sentence": "Each number has the same",
+      "TalkMove": "Revoicing"
+    },
+    {
+      "ID": 24573,
+      "Turn": 69,
+      "Speaker": "S",
+      "Sentence": "have to find the same thing"
+    },
+    {
+      "ID": 24574,
+      "Turn": 70,
+      "Speaker": "T",
+      "Sentence": "With an equal amount of space",
+      "TalkMove": "Revoicing"
+    },
+    {
+      "ID": 24575,
+      "Turn": 71,
+      "Speaker": "S",
+      "Sentence": "Yes"
+    },
+    {
+      "ID": 24576,
+      "Turn": 72,
+      "Speaker": "T",
+      "Sentence": "I think I heard a great conversation over here",
+      "TalkMove": null
+    },
+    {
+      "ID": 24577,
+      "Turn": 72,
+      "Speaker": "T",
+      "Sentence": "Would you be willing to share",
+      "TalkMove": "Pressing for Accuracy"
+    },
+    {
+      "ID": 24578,
+      "Turn": 72,
+      "Speaker": "T",
+      "Sentence": "Okay",
+      "TalkMove": null
+    },
+    {
+      "ID": 24579,
+      "Turn": 72,
+      "Speaker": "T",
+      "Sentence": "said we should have the same interval or space between them",
+      "TalkMove": "Revoicing"
+    },
+    {
+      "ID": 24580,
+      "Turn": 72,
+      "Speaker": "T",
+      "Sentence": "What does that mean and why is that important",
+      "TalkMove": "Pressing for Reasoning"
+    },
+    {
+      "ID": 24581,
+      "Turn": 73,
+      "Speaker": "S",
+      "Sentence": "I think it means like how many inches they are"
+    },
+    {
+      "ID": 24582,
+      "Turn": 74,
+      "Speaker": "T",
+      "Sentence": "We need a unit of measurement to know what unit were talking about in our set of data",
+      "TalkMove": "Revoicing"
+    },
+    {
+      "ID": 24583,
+      "Turn": 74,
+      "Speaker": "T",
+      "Sentence": "I think thats a great start",
+      "TalkMove": null
+    },
+    {
+      "ID": 24584,
+      "Turn": 74,
+      "Speaker": "T",
+      "Sentence": "Would you call on the next person for us please",
+      "TalkMove": null
+    },
+    {
+      "ID": 24585,
+      "Turn": 75,
+      "Speaker": "S",
+      "Sentence": "Austin"
+    },
+    {
+      "ID": 24586,
+      "Turn": 76,
+      "Speaker": "S",
+      "Sentence": "Me and Aiden said that an interval or space between them means the difference or the amount between"
+    },
+    {
+      "ID": 24587,
+      "Turn": 77,
+      "Speaker": "T",
+      "Sentence": "When you say them what is them",
+      "TalkMove": "Pressing for Accuracy"
+    },
+    {
+      "ID": 24588,
+      "Turn": 77,
+      "Speaker": "T",
+      "Sentence": "The difference in between the",
+      "TalkMove": "Revoicing"
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "records": [
+    {
+      "ID": 2485,
+      "Speaker": "T",
+      "Turn": 333,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Asks the student to explain how they determined the unknown, prompting them to describe their thinking."
+    },
+    {
+      "ID": 2487,
+      "Speaker": "T",
+      "Turn": 335,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Seeks an explanation for the source of the number 312, probing the student’s reasoning."
+    },
+    {
+      "ID": 2489,
+      "Speaker": "T",
+      "Turn": 337,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Requests the exact problem number to clarify the student’s reference, prompting precision."
+    },
+    {
+      "ID": 2491,
+      "Speaker": "T",
+      "Turn": 339,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Restates the student’s idea—that 312 was found in problem two—to confirm and highlight it for the class."
+    },
+    {
+      "ID": 2492,
+      "Speaker": "T",
+      "Turn": 339,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Asks the student to justify why they multiplied by three, eliciting their underlying reasoning."
+    },
+    {
+      "ID": 2494,
+      "Speaker": "T",
+      "Turn": 341,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2496,
+      "Speaker": "T",
+      "Turn": 343,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2497,
+      "Speaker": "T",
+      "Turn": 343,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks for the exact product of 300 × 3, requesting a specific correct calculation."
+    },
+    {
+      "ID": 2499,
+      "Speaker": "T",
+      "Turn": 345,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Requests the precise value of 10 × 3."
+    },
+    {
+      "ID": 2501,
+      "Speaker": "T",
+      "Turn": 347,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks for the exact product of 2 × 3."
+    },
+    {
+      "ID": 2503,
+      "Speaker": "T",
+      "Turn": 349,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Requests the exact sum of the three partial products."
+    },
+    {
+      "ID": 2505,
+      "Speaker": "T",
+      "Turn": 351,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2506,
+      "Speaker": "T",
+      "Turn": 351,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

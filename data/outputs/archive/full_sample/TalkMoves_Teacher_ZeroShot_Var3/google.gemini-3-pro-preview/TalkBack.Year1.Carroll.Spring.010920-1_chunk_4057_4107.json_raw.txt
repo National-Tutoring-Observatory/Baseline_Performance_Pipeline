@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 4057,
+      "Speaker": "T",
+      "Turn": 4057,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 4064,
+      "Speaker": "T",
+      "Turn": 4064,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 4073,
+      "Speaker": "T",
+      "Turn": 4073,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 4074,
+      "Speaker": "T",
+      "Turn": 4074,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 4075,
+      "Speaker": "T",
+      "Turn": 4075,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher summarizes the class consensus versus one student's idea, orienting the students to the different viewpoints in the room."
+    },
+    {
+      "ID": 4076,
+      "Speaker": "T",
+      "Turn": 4076,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student 'how come you think', prompting them to explain the thinking behind their answer."
+    },
+    {
+      "ID": 4077,
+      "Speaker": "T",
+      "Turn": 4077,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks 'How come you think its 25hundredths', explicitly asking for the justification behind the student's specific answer."
+    },
+    {
+      "ID": 4079,
+      "Speaker": "T",
+      "Turn": 4079,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher is clarifying the student's stance ('You agree with the one in 2tenths'), prompting for a specific mathematical confirmation."
+    },
+    {
+      "ID": 4081,
+      "Speaker": "T",
+      "Turn": 4081,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats and expands on the student's reasoning ('Because theres a whole number... that automatically makes it bigger'), clarifying the mathematical argument."
+    },
+    {
+      "ID": 4082,
+      "Speaker": "T",
+      "Turn": 4082,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 4083,
+      "Speaker": "T",
+      "Turn": 4083,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 4084,
+      "Speaker": "T",
+      "Turn": 4084,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 4088,
+      "Speaker": "T",
+      "Turn": 4088,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 4099,
+      "Speaker": "T",
+      "Turn": 4099,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 4100,
+      "Speaker": "T",
+      "Turn": 4100,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 4101,
+      "Speaker": "T",
+      "Turn": 4101,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 4103,
+      "Speaker": "T",
+      "Turn": 4103,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a specific question about the mathematical symbol ('Alligator mouth is going to face which way'), prompting for a correct answer."
+    },
+    {
+      "ID": 4105,
+      "Speaker": "T",
+      "Turn": 4105,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher states the value and asks for confirmation ('One and two tenths right'), prompting students to verify the mathematical fact."
+    },
+    {
+      "ID": 4106,
+      "Speaker": "T",
+      "Turn": 4106,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks 'How do you know', which is a direct prompt for the student to explain their thinking or provide evidence."
+    },
+    {
+      "ID": 4107,
+      "Speaker": "T",
+      "Turn": 4107,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the reasoning provided ('Because theres a whole number right'), confirming the explanation given."
+    }
+  ]
+}

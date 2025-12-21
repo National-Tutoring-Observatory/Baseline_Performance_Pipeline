@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 16721,
+      "Speaker": "T",
+      "Turn": 16721,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a specific mathematical question requiring a calculation or verification ('does one of those combination add to three')."
+    },
+    {
+      "ID": 16724,
+      "Speaker": "T",
+      "Turn": 16724,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher follows up asking for the specific combination, prompting for a precise mathematical answer."
+    },
+    {
+      "ID": 16730,
+      "Speaker": "T",
+      "Turn": 16730,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks 'what would that have to mean', prompting students to explain the implications of the previous finding."
+    },
+    {
+      "ID": 16731,
+      "Speaker": "T",
+      "Turn": 16731,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a factual question about the factors of C adding to B."
+    },
+    {
+      "ID": 16734,
+      "Speaker": "T",
+      "Turn": 16734,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks 'What does that mean I have to use', prompting students to connect the lack of factors to the necessary method (quadratic formula)."
+    },
+    {
+      "ID": 16736,
+      "Speaker": "T",
+      "Turn": 16736,
+      "TalkMove": null,
+      "Reasoning": "The teacher answers their own question."
+    },
+    {
+      "ID": 16737,
+      "Speaker": "T",
+      "Turn": 16737,
+      "TalkMove": null,
+      "Reasoning": "The teacher is explaining/lecturing."
+    },
+    {
+      "ID": 16738,
+      "Speaker": "T",
+      "Turn": 16738,
+      "TalkMove": null,
+      "Reasoning": "Filler/transition word."
+    },
+    {
+      "ID": 16739,
+      "Speaker": "T",
+      "Turn": 16739,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to determine what change is necessary to make the expression factorable, requiring conceptual understanding."
+    },
+    {
+      "ID": 16740,
+      "Speaker": "T",
+      "Turn": 16740,
+      "TalkMove": null,
+      "Reasoning": "Teacher is modeling/thinking aloud."
+    },
+    {
+      "ID": 16741,
+      "Speaker": "T",
+      "Turn": 16741,
+      "TalkMove": null,
+      "Reasoning": "Teacher is modeling/thinking aloud."
+    },
+    {
+      "ID": 16742,
+      "Speaker": "T",
+      "Turn": 16742,
+      "TalkMove": null,
+      "Reasoning": "Teacher is listing factors."
+    },
+    {
+      "ID": 16743,
+      "Speaker": "T",
+      "Turn": 16743,
+      "TalkMove": null,
+      "Reasoning": "Teacher is listing factors."
+    },
+    {
+      "ID": 16744,
+      "Speaker": "T",
+      "Turn": 16744,
+      "TalkMove": null,
+      "Reasoning": "Teacher is listing factors."
+    },
+    {
+      "ID": 16745,
+      "Speaker": "T",
+      "Turn": 16745,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks students to identify if a specific mathematical condition is met within the list provided."
+    },
+    {
+      "ID": 16747,
+      "Speaker": "T",
+      "Turn": 16747,
+      "TalkMove": null,
+      "Reasoning": "Filler."
+    },
+    {
+      "ID": 16748,
+      "Speaker": "T",
+      "Turn": 16748,
+      "TalkMove": null,
+      "Reasoning": "Teacher is explaining."
+    },
+    {
+      "ID": 16749,
+      "Speaker": "T",
+      "Turn": 16749,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for a specific property of X-intercepts ('whats always true')."
+    },
+    {
+      "ID": 16751,
+      "Speaker": "T",
+      "Turn": 16751,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's answer ('Y is zero') to confirm it."
+    },
+    {
+      "ID": 16752,
+      "Speaker": "T",
+      "Turn": 16752,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher sets up a scenario (multiplying to get zero) and asks for the logical conclusion ('what does one of them have to be'), prompting for the Zero Product Property logic."
+    }
+  ]
+}

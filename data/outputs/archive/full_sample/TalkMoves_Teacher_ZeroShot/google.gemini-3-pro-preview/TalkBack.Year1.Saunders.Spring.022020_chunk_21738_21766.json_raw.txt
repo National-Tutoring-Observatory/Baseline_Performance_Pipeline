@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 21738,
+      "Speaker": "T",
+      "Turn": 21738,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21739,
+      "Speaker": "T",
+      "Turn": 21739,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a specific student for the first procedural step in solving the equation."
+    },
+    {
+      "ID": 21740,
+      "Speaker": "T",
+      "Turn": 21740,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's idea (implied response) about adding one to both sides, confirming the procedure."
+    },
+    {
+      "ID": 21741,
+      "Speaker": "T",
+      "Turn": 21741,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a student to recall the specific name or definition of 'step one'."
+    },
+    {
+      "ID": 21743,
+      "Speaker": "T",
+      "Turn": 21743,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's answer ('Isolate the radical') to confirm the correct terminology."
+    },
+    {
+      "ID": 21744,
+      "Speaker": "T",
+      "Turn": 21744,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to evaluate the state of the equation after an operation, prompting them to connect the action to the goal of isolation."
+    },
+    {
+      "ID": 21747,
+      "Speaker": "T",
+      "Turn": 21747,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher summarizes the steps taken so far, rephrasing the mathematical process to confirm the radical is isolated."
+    },
+    {
+      "ID": 21748,
+      "Speaker": "T",
+      "Turn": 21748,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a specific student for the next procedural step."
+    },
+    {
+      "ID": 21749,
+      "Speaker": "T",
+      "Turn": 21749,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher rephrases the previous question, asking for the definition of 'step two'."
+    },
+    {
+      "ID": 21751,
+      "Speaker": "T",
+      "Turn": 21751,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's answer ('cube each side') word for word."
+    },
+    {
+      "ID": 21752,
+      "Speaker": "T",
+      "Turn": 21752,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's idea but expands slightly into a full sentence ('Yes were going to cube each side')."
+    },
+    {
+      "ID": 21753,
+      "Speaker": "T",
+      "Turn": 21753,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for a specific calculation result (3 cubed)."
+    },
+    {
+      "ID": 21755,
+      "Speaker": "T",
+      "Turn": 21755,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks 'what happens here', prompting students to explain the mathematical mechanism of the radical and exponent interacting."
+    },
+    {
+      "ID": 21756,
+      "Speaker": "T",
+      "Turn": 21756,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases the student's explanation about the radical and exponent canceling out."
+    },
+    {
+      "ID": 21757,
+      "Speaker": "T",
+      "Turn": 21757,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a student to identify the specific procedural steps for the remaining equation."
+    },
+    {
+      "ID": 21758,
+      "Speaker": "T",
+      "Turn": 21758,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher rephrases the request for the specific steps to solve for x."
+    },
+    {
+      "ID": 21760,
+      "Speaker": "T",
+      "Turn": 21760,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher summarizes the current state of the problem based on previous student input."
+    },
+    {
+      "ID": 21762,
+      "Speaker": "T",
+      "Turn": 21762,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to justify their choice of order of operations ('why did you say add nine... instead of dividing')."
+    },
+    {
+      "ID": 21764,
+      "Speaker": "T",
+      "Turn": 21764,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for a specific calculation result to highlight the consequence of the alternative method."
+    },
+    {
+      "ID": 21766,
+      "Speaker": "T",
+      "Turn": 21766,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher validates the student's implied answer (likely '4.5' or a fraction) and rephrases the reasoning that they 'don't want to deal with that'."
+    }
+  ]
+}

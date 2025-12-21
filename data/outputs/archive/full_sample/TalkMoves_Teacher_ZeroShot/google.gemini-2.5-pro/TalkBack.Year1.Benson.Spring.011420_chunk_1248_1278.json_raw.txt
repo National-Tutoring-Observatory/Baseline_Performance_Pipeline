@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 1248,
+      "Speaker": "T",
+      "Turn": 1248,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1250,
+      "Speaker": "T",
+      "Turn": 1250,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1251,
+      "Speaker": "T",
+      "Turn": 1251,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1252,
+      "Speaker": "T",
+      "Turn": 1252,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1253,
+      "Speaker": "T",
+      "Turn": 1253,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1255,
+      "Speaker": "T",
+      "Turn": 1255,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to share their thinking about the method for solving the problem."
+    },
+    {
+      "ID": 1256,
+      "Speaker": "T",
+      "Turn": 1256,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts a student to provide evidence from the problem to support their problem-solving process."
+    },
+    {
+      "ID": 1259,
+      "Speaker": "T",
+      "Turn": 1259,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1260,
+      "Speaker": "T",
+      "Turn": 1260,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1262,
+      "Speaker": "T",
+      "Turn": 1262,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1263,
+      "Speaker": "T",
+      "Turn": 1263,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1266,
+      "Speaker": "T",
+      "Turn": 1266,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1268,
+      "Speaker": "T",
+      "Turn": 1268,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks a student to explain 'why' they chose a specific operation, prompting for justification."
+    },
+    {
+      "ID": 1270,
+      "Speaker": "T",
+      "Turn": 1270,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1271,
+      "Speaker": "T",
+      "Turn": 1271,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1272,
+      "Speaker": "T",
+      "Turn": 1272,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1273,
+      "Speaker": "T",
+      "Turn": 1273,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to identify a specific mathematical component of the problem (the 'whole')."
+    },
+    {
+      "ID": 1275,
+      "Speaker": "T",
+      "Turn": 1275,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1277,
+      "Speaker": "T",
+      "Turn": 1277,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's one-word answer ('Miles') verbatim."
+    },
+    {
+      "ID": 1278,
+      "Speaker": "T",
+      "Turn": 1278,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's idea but changes the wording from 'Miles' to 'A mile' to improve mathematical precision."
+    }
+  ]
+}

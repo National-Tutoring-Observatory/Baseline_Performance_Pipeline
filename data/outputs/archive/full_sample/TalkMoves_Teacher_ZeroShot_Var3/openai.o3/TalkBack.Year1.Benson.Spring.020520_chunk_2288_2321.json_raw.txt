@@ -1,0 +1,120 @@
+{
+  "records": [
+    {
+      "ID": 2288,
+      "Speaker": "T",
+      "Turn": 2288
+    },
+    {
+      "ID": 2289,
+      "Speaker": "T",
+      "Turn": 2289
+    },
+    {
+      "ID": 2290,
+      "Speaker": "T",
+      "Turn": 2290
+    },
+    {
+      "ID": 2291,
+      "Speaker": "T",
+      "Turn": 2291,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to elaborate on their process, prompting further explanation."
+    },
+    {
+      "ID": 2293,
+      "Speaker": "T",
+      "Turn": 2293,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "A direct request for justification (‘Why?’) presses the student to explain their reasoning."
+    },
+    {
+      "ID": 2295,
+      "Speaker": "T",
+      "Turn": 2295
+    },
+    {
+      "ID": 2297,
+      "Speaker": "T",
+      "Turn": 2297
+    },
+    {
+      "ID": 2301,
+      "Speaker": "T",
+      "Turn": 2301
+    },
+    {
+      "ID": 2302,
+      "Speaker": "T",
+      "Turn": 2302,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks what the student did next, encouraging them to detail their thinking steps."
+    },
+    {
+      "ID": 2305,
+      "Speaker": "T",
+      "Turn": 2305,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher restates the student’s contribution (‘there were 18 sandwiches per package, 6 each’) in her own words to confirm understanding."
+    },
+    {
+      "ID": 2307,
+      "Speaker": "T",
+      "Turn": 2307,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The single word ‘Because’ signals the teacher’s prompt for the student to supply a justification."
+    },
+    {
+      "ID": 2309,
+      "Speaker": "T",
+      "Turn": 2309,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher paraphrases the student’s idea about needing 18 packages of five sandwiches, slightly rephrasing it to check and clarify shared understanding."
+    },
+    {
+      "ID": 2312,
+      "Speaker": "T",
+      "Turn": 2312,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher restates the estimated cost (‘about 600 for sandwiches’), likely summarizing the student’s contribution."
+    },
+    {
+      "ID": 2313,
+      "Speaker": "T",
+      "Turn": 2313
+    },
+    {
+      "ID": 2314,
+      "Speaker": "T",
+      "Turn": 2314
+    },
+    {
+      "ID": 2315,
+      "Speaker": "T",
+      "Turn": 2315
+    },
+    {
+      "ID": 2318,
+      "Speaker": "T",
+      "Turn": 2318
+    },
+    {
+      "ID": 2319,
+      "Speaker": "T",
+      "Turn": 2319
+    },
+    {
+      "ID": 2320,
+      "Speaker": "T",
+      "Turn": 2320
+    },
+    {
+      "ID": 2321,
+      "Speaker": "T",
+      "Turn": 2321,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "By asking all students to raise their hands if they used a different method, the teacher ensures the whole class is engaged and aware of peers’ approaches."
+    }
+  ]
+}

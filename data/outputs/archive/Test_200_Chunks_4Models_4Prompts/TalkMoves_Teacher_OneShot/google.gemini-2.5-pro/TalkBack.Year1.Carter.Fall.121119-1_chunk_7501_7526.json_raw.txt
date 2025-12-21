@@ -1,0 +1,164 @@
+{
+  "records": [
+    {
+      "ID": 7501,
+      "Turn": 72,
+      "Speaker": "T",
+      "Sentence": "I had a question for you so I was just curious why its almost a",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 7502,
+      "Turn": 73,
+      "Speaker": "T",
+      "Sentence": "SS right",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 7503,
+      "Turn": 73,
+      "Speaker": "T",
+      "Sentence": "Thank you",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 7504,
+      "Turn": 73,
+      "Speaker": "T",
+      "Sentence": "Can I have Gabriella get up and explain your thinking because I heard her explain it to Hanna in a reSSy efficient way you could do it",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks a student to 'explain your thinking' to the class."
+    },
+    {
+      "ID": 7505,
+      "Turn": 74,
+      "Speaker": "T",
+      "Sentence": "Thank you",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 7509,
+      "Turn": 76,
+      "Speaker": "T",
+      "Sentence": "Can I interrupt you",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 7510,
+      "Turn": 76,
+      "Speaker": "T",
+      "Sentence": "Can you go up and show what youre talking about because I think some of us need to see what mean",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher asks the student to demonstrate their thinking visually so that other students can understand, ensuring the class can follow along."
+    },
+    {
+      "ID": 7512,
+      "Turn": 78,
+      "Speaker": "T",
+      "Sentence": "Give Hanna a round of applause",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 7513,
+      "Turn": 78,
+      "Speaker": "T",
+      "Sentence": "Nicely done",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 7514,
+      "Turn": 79,
+      "Speaker": "T",
+      "Sentence": "As I walk around the room I see people that just naturSSy wrote the number model that goes with that",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 7515,
+      "Turn": 79,
+      "Speaker": "T",
+      "Sentence": "If you didnt write the number sentence that would match whats shown on the grid can you do that please",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 7516,
+      "Turn": 79,
+      "Speaker": "T",
+      "Sentence": "Whats the number of sentence that matches this",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks students to provide a specific mathematical contribution: the number sentence that represents the visual model."
+    },
+    {
+      "ID": 7517,
+      "Turn": 79,
+      "Speaker": "T",
+      "Sentence": "Write down on your slate youre going to flash it to me",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 7518,
+      "Turn": 80,
+      "Speaker": "T",
+      "Sentence": "Flash",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 7519,
+      "Turn": 80,
+      "Speaker": "T",
+      "Sentence": "I see some people remembering that were talking about decimals and I see some people not remembering that",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 7520,
+      "Turn": 80,
+      "Speaker": "T",
+      "Sentence": "How do we know that were doing this as decimals",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to provide the reasoning for why the problem should be interpreted using decimals."
+    },
+    {
+      "ID": 7521,
+      "Turn": 80,
+      "Speaker": "T",
+      "Sentence": "How do we know that this in decimal form",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher rephrases the previous question, again asking students to explain how they know the representation is in decimal form."
+    },
+    {
+      "ID": 7522,
+      "Turn": 80,
+      "Speaker": "T",
+      "Sentence": "Kai",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 7524,
+      "Turn": 82,
+      "Speaker": "T",
+      "Sentence": "Where was it talking about decimals",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to provide specific evidence ('Where...') to support their claim that the problem was about decimals."
+    },
+    {
+      "ID": 7525,
+      "Turn": 82,
+      "Speaker": "T",
+      "Sentence": "Where do you see that",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher rephrases the question, again pressing the student to point to the specific evidence for their reasoning."
+    }
+  ]
+}

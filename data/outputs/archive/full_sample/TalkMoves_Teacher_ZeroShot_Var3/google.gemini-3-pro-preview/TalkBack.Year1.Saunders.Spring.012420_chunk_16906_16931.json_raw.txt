@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 16906,
+      "Speaker": "T",
+      "Turn": 16906,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 16908,
+      "Speaker": "T",
+      "Turn": 16908,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 16909,
+      "Speaker": "T",
+      "Turn": 16909,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 16911,
+      "Speaker": "T",
+      "Turn": 16911,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 16913,
+      "Speaker": "T",
+      "Turn": 16913,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher checks in with the whole class to see if there are questions before moving on, ensuring everyone is ready to proceed."
+    },
+    {
+      "ID": 16914,
+      "Speaker": "T",
+      "Turn": 16914,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher directs the students' attention collectively to a specific example to ensure they are following the lesson flow."
+    },
+    {
+      "ID": 16915,
+      "Speaker": "T",
+      "Turn": 16915,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 16916,
+      "Speaker": "T",
+      "Turn": 16916,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a specific question about a mathematical property (line of symmetry) prompting students to recall or identify a fact."
+    },
+    {
+      "ID": 16918,
+      "Speaker": "T",
+      "Turn": 16918,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks 'how do I find the center,' prompting students to explain the method or procedure behind finding the line of symmetry."
+    },
+    {
+      "ID": 16920,
+      "Speaker": "T",
+      "Turn": 16920,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 16921,
+      "Speaker": "T",
+      "Turn": 16921,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 16922,
+      "Speaker": "T",
+      "Turn": 16922,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 16923,
+      "Speaker": "T",
+      "Turn": 16923,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher poses a hypothetical scenario ('what if we weren't able to factor it') and asks 'what do we do then,' prompting students to explain an alternative strategy."
+    },
+    {
+      "ID": 16924,
+      "Speaker": "T",
+      "Turn": 16924,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 16925,
+      "Speaker": "T",
+      "Turn": 16925,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 16926,
+      "Speaker": "T",
+      "Turn": 16926,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 16927,
+      "Speaker": "T",
+      "Turn": 16927,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 16928,
+      "Speaker": "T",
+      "Turn": 16928,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 16929,
+      "Speaker": "T",
+      "Turn": 16929,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks for the next step in the procedure ('what do we do then to find the vertex'), prompting students to explain the process connecting the X value to the vertex."
+    },
+    {
+      "ID": 16931,
+      "Speaker": "T",
+      "Turn": 16931,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats and validates a student's (implied) answer ('Yes we just plug that X value into the equation'), clarifying the procedure."
+    }
+  ]
+}

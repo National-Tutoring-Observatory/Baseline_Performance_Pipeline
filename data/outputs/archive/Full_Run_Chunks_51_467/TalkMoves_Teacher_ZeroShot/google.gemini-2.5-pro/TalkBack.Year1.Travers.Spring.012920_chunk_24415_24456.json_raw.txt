@@ -1,0 +1,249 @@
+{
+  "records": [
+    {
+      "ID": 24415,
+      "Turn": 5,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24416,
+      "Turn": 5,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24417,
+      "Turn": 5,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24418,
+      "Turn": 5,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24419,
+      "Turn": 5,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24420,
+      "Turn": 5,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24421,
+      "Turn": 5,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24422,
+      "Turn": 7,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24423,
+      "Turn": 7,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24424,
+      "Turn": 7,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24425,
+      "Turn": 7,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24427,
+      "Turn": 9,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases the student's one-word answer ('Down') into the more formal mathematical term ('Less than')."
+    },
+    {
+      "ID": 24428,
+      "Turn": 9,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to use the specific mathematical language of the lesson rather than a shorthand response."
+    },
+    {
+      "ID": 24431,
+      "Turn": 12,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24432,
+      "Turn": 12,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24433,
+      "Turn": 13,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher verbalizes the students' non-verbal response, translating a likely gesture (thumbs down) into the correct mathematical term."
+    },
+    {
+      "ID": 24434,
+      "Turn": 14,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24435,
+      "Turn": 15,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24436,
+      "Turn": 15,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24437,
+      "Turn": 15,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24438,
+      "Turn": 15,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher verbalizes the students' non-verbal response, translating a likely gesture (thumbs up) into the correct mathematical term."
+    },
+    {
+      "ID": 24439,
+      "Turn": 15,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to explain the thinking behind their answer."
+    },
+    {
+      "ID": 24440,
+      "Turn": 15,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24444,
+      "Turn": 17,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts the student to continue their explanation and connect their calculation ('7/6') to the final conclusion."
+    },
+    {
+      "ID": 24445,
+      "Turn": 17,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases the student's idea by embedding it within a general mathematical rule to help them complete their thought."
+    },
+    {
+      "ID": 24447,
+      "Turn": 19,
+      "Speaker": "T",
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's correct answer ('Greater than a whole') word for word to validate and amplify it for the class."
+    },
+    {
+      "ID": 24448,
+      "Turn": 19,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24449,
+      "Turn": 19,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24450,
+      "Turn": 19,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24451,
+      "Turn": 19,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24452,
+      "Turn": 19,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24453,
+      "Turn": 19,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24454,
+      "Turn": 19,
+      "Speaker": "T",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher pauses to ensure all students are participating in the activity before revealing the answer."
+    },
+    {
+      "ID": 24455,
+      "Turn": 19,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24456,
+      "Turn": 19,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "records": [
+    {
+      "ID": 23754,
+      "Speaker": "T",
+      "Turn": 49,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to provide the correct mathematical language to complete the definition."
+    },
+    {
+      "ID": 23756,
+      "Speaker": "T",
+      "Turn": 51,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23758,
+      "Speaker": "T",
+      "Turn": 53,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts the student to elaborate on their contribution."
+    },
+    {
+      "ID": 23760,
+      "Speaker": "T",
+      "Turn": 55,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to provide the correct mathematical language to continue the definition."
+    },
+    {
+      "ID": 23762,
+      "Speaker": "T",
+      "Turn": 57,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23764,
+      "Speaker": "T",
+      "Turn": 59,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23765,
+      "Speaker": "T",
+      "Turn": 59,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher directs students to orient their attention to the front of the room."
+    },
+    {
+      "ID": 23766,
+      "Speaker": "T",
+      "Turn": 59,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23767,
+      "Speaker": "T",
+      "Turn": 59,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23770,
+      "Speaker": "T",
+      "Turn": 62,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's idea but changes the wording from 'should be' to 'usually' to highlight a point for discussion."
+    },
+    {
+      "ID": 23771,
+      "Speaker": "T",
+      "Turn": 62,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher prompts the class to react to the revoiced idea from the previous student."
+    },
+    {
+      "ID": 23772,
+      "Speaker": "T",
+      "Turn": 62,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the revoiced idea verbatim to focus the class's attention on the specific point of discussion."
+    },
+    {
+      "ID": 23773,
+      "Speaker": "T",
+      "Turn": 62,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23774,
+      "Speaker": "T",
+      "Turn": 62,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23775,
+      "Speaker": "T",
+      "Turn": 64,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher pushes for a more precise mathematical term ('always' instead of 'usually') to clarify the definition of a unit fraction."
+    }
+  ]
+}

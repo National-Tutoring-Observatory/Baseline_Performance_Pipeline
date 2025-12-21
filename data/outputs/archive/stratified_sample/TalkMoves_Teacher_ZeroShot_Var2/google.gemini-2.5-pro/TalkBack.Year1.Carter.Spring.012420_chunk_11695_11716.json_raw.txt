@@ -1,0 +1,158 @@
+{
+  "records": [
+    {
+      "ID": 11695,
+      "Turn": 239,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11696,
+      "Turn": 239,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to think about whether to use a previous method, prompting them to reason about the correct procedure for the new problem."
+    },
+    {
+      "ID": 11697,
+      "Turn": 240,
+      "Speaker": "S",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11698,
+      "Turn": 241,
+      "Speaker": "T",
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's one-word answer verbatim."
+    },
+    {
+      "ID": 11699,
+      "Turn": 241,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to provide the reason for their 'No' answer by connecting it to the quantity in the problem."
+    },
+    {
+      "ID": 11700,
+      "Turn": 242,
+      "Speaker": "S",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11701,
+      "Turn": 243,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to identify the specific number of parts needed for the representation, focusing on mathematical correctness."
+    },
+    {
+      "ID": 11702,
+      "Turn": 243,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11703,
+      "Turn": 243,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11704,
+      "Turn": 243,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher specifies the need for 'three equal parts,' emphasizing the precise mathematical requirement for the representation."
+    },
+    {
+      "ID": 11705,
+      "Turn": 244,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher repeats and emphasizes the key mathematical term 'equal parts' to ensure precision."
+    },
+    {
+      "ID": 11706,
+      "Turn": 245,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11707,
+      "Turn": 245,
+      "Speaker": "T",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher polls the class to check if everyone has completed the step correctly, ensuring the group is ready to move on."
+    },
+    {
+      "ID": 11708,
+      "Turn": 245,
+      "Speaker": "T",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher polls the class to gauge their readiness for the next step, orienting the group to the task."
+    },
+    {
+      "ID": 11709,
+      "Turn": 245,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11710,
+      "Turn": 245,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11711,
+      "Turn": 245,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11712,
+      "Turn": 245,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher gives a specific instruction to correct a student's drawing, pressing for a more accurate and conventional mathematical representation."
+    },
+    {
+      "ID": 11713,
+      "Turn": 245,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11714,
+      "Turn": 246,
+      "Speaker": "T",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher asks the whole class to compare their work to a model, ensuring everyone is on the same page."
+    },
+    {
+      "ID": 11715,
+      "Turn": 247,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to interpret their drawing and explain what it represents in the context of the problem."
+    },
+    {
+      "ID": 11716,
+      "Turn": 247,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks a question that requires students to reason about how to apply the fraction to their model."
+    }
+  ]
+}

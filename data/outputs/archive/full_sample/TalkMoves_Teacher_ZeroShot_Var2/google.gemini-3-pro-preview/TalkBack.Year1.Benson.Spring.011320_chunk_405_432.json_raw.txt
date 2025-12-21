@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 405,
+      "Speaker": "T",
+      "Turn": 405,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 406,
+      "Speaker": "T",
+      "Turn": 406,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher solicits a specific mathematical contribution (the fractions) from the class."
+    },
+    {
+      "ID": 407,
+      "Speaker": "T",
+      "Turn": 407,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a specific student to share the answer they produced."
+    },
+    {
+      "ID": 409,
+      "Speaker": "T",
+      "Turn": 409,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to explain the method or thinking used to arrive at the answer."
+    },
+    {
+      "ID": 410,
+      "Speaker": "T",
+      "Turn": 410,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts the student to explain the steps they took."
+    },
+    {
+      "ID": 412,
+      "Speaker": "T",
+      "Turn": 412,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats and verifies the student's method ('You added')."
+    },
+    {
+      "ID": 414,
+      "Speaker": "T",
+      "Turn": 414,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher elaborates on the student's method, clarifying that the addition happened 'on the top'."
+    },
+    {
+      "ID": 415,
+      "Speaker": "T",
+      "Turn": 415,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks for the specific process used for the denominator."
+    },
+    {
+      "ID": 417,
+      "Speaker": "T",
+      "Turn": 417,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's explanation ('counted by 5') to confirm the strategy."
+    },
+    {
+      "ID": 418,
+      "Speaker": "T",
+      "Turn": 418,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher explicitly asks a student to restate what a classmate just said."
+    },
+    {
+      "ID": 419,
+      "Speaker": "T",
+      "Turn": 419,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher checks if a student was listening by asking them to report on a classmate's method."
+    },
+    {
+      "ID": 421,
+      "Speaker": "T",
+      "Turn": 421,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher prompts the student to recall a specific detail from the classmate's explanation."
+    },
+    {
+      "ID": 423,
+      "Speaker": "T",
+      "Turn": 423,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 424,
+      "Speaker": "T",
+      "Turn": 424,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher asks the original speaker to repeat their idea so the classmate can hear it."
+    },
+    {
+      "ID": 425,
+      "Speaker": "T",
+      "Turn": 425,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 426,
+      "Speaker": "T",
+      "Turn": 426,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher asks a student to evaluate or make sense of a classmate's method."
+    },
+    {
+      "ID": 427,
+      "Speaker": "T",
+      "Turn": 427,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher summarizes the student's strategy (adding ones, counting by fives) to ensure clarity."
+    },
+    {
+      "ID": 429,
+      "Speaker": "T",
+      "Turn": 429,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher checks if the student understands/agrees with the classmate's idea."
+    },
+    {
+      "ID": 430,
+      "Speaker": "T",
+      "Turn": 430,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher asks another student to react to the intelligibility of the method."
+    },
+    {
+      "ID": 432,
+      "Speaker": "T",
+      "Turn": 432,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to generalize the method and determine if it applies universally."
+    }
+  ]
+}

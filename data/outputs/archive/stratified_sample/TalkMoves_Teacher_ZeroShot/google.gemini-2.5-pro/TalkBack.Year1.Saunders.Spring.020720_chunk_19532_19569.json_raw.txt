@@ -1,0 +1,284 @@
+{
+  "records": [
+    {
+      "ID": 19532,
+      "Turn": 61,
+      "Speaker": "T",
+      "Sentence": "Up and down",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19533,
+      "Turn": 61,
+      "Speaker": "T",
+      "Sentence": "What would I look at in this to tell me about my end behavior",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to identify what part of the function to analyze to determine end behavior, prompting them to share their thinking process."
+    },
+    {
+      "ID": 19534,
+      "Turn": 62,
+      "Speaker": "S",
+      "Sentence": "If the X value is positive"
+    },
+    {
+      "ID": 19535,
+      "Turn": 63,
+      "Speaker": "T",
+      "Sentence": "Tell me how I figure out that the X value is positive",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to explain the method ('how') for making a mathematical determination, pressing for the underlying thinking."
+    },
+    {
+      "ID": 19536,
+      "Turn": 64,
+      "Speaker": "S",
+      "Sentence": "The leading coefficient"
+    },
+    {
+      "ID": 19537,
+      "Turn": 65,
+      "Speaker": "T",
+      "Sentence": "Theres my leading coefficient",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19538,
+      "Turn": 65,
+      "Speaker": "T",
+      "Sentence": "If I multiply this times this times this because theres two I still have a positive leading coefficient",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19539,
+      "Turn": 65,
+      "Speaker": "T",
+      "Sentence": "Andy whats the positive leading coefficient tell me",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks a student to explain the implication of a mathematical feature, prompting them to connect ideas and provide a reason."
+    },
+    {
+      "ID": 19540,
+      "Turn": 66,
+      "Speaker": "S",
+      "Sentence": "Onesixth"
+    },
+    {
+      "ID": 19541,
+      "Turn": 67,
+      "Speaker": "T",
+      "Sentence": "Yes the one six",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19542,
+      "Turn": 67,
+      "Speaker": "T",
+      "Sentence": "What does that tell me",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher repeats the question asking for the implication of the leading coefficient, pressing the student to explain their reasoning."
+    },
+    {
+      "ID": 19543,
+      "Turn": 68,
+      "Speaker": "S",
+      "Sentence": "It tells you that its going to be straight on the vertical"
+    },
+    {
+      "ID": 19544,
+      "Turn": 69,
+      "Speaker": "T",
+      "Sentence": "Okay so how about the end behavior",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to use the specific mathematical term 'end behavior' after the student provided a vague description."
+    },
+    {
+      "ID": 19545,
+      "Turn": 69,
+      "Speaker": "T",
+      "Sentence": "How does that tell me about end behavior end behavior",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks 'how' a feature relates to end behavior, pressing the student to explain the connection and their thinking process."
+    },
+    {
+      "ID": 19546,
+      "Turn": 69,
+      "Speaker": "T",
+      "Sentence": "Think about that",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19547,
+      "Turn": 69,
+      "Speaker": "T",
+      "Sentence": "At the ends you think",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19548,
+      "Turn": 70,
+      "Speaker": "S",
+      "Sentence": "infinity"
+    },
+    {
+      "ID": 19549,
+      "Turn": 71,
+      "Speaker": "T",
+      "Sentence": "Okay lets just take that first statement as X does what",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher guides the student to use the formal mathematical structure for describing end behavior, pressing for accurate language."
+    },
+    {
+      "ID": 19550,
+      "Turn": 72,
+      "Speaker": "T",
+      "Sentence": "As X goes towards infinity whats happening to Y",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher continues to prompt the student for the specific components of a formal mathematical statement about end behavior."
+    },
+    {
+      "ID": 19551,
+      "Turn": 73,
+      "Speaker": "S",
+      "Sentence": "You cant really go towards a number that doesnt exist because its"
+    },
+    {
+      "ID": 19552,
+      "Turn": 74,
+      "Speaker": "T",
+      "Sentence": "Sure you can",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19553,
+      "Turn": 74,
+      "Speaker": "T",
+      "Sentence": "You just keep going",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19554,
+      "Turn": 74,
+      "Speaker": "T",
+      "Sentence": "Because its just a little bit bigger and just a little bigger and just a little bigger",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19555,
+      "Turn": 75,
+      "Speaker": "S",
+      "Sentence": "Youre not getting any closer to it though"
+    },
+    {
+      "ID": 19556,
+      "Turn": 76,
+      "Speaker": "S",
+      "Sentence": "Youre still going for towards it"
+    },
+    {
+      "ID": 19557,
+      "Turn": 77,
+      "Speaker": "T",
+      "Sentence": "It does tell you about direction",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19558,
+      "Turn": 78,
+      "Speaker": "S",
+      "Sentence": "It goes infinitely"
+    },
+    {
+      "ID": 19559,
+      "Turn": 79,
+      "Speaker": "T",
+      "Sentence": "What would the next statement then be Ethan",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts a specific student for the next part of the formal mathematical statement, pressing for a correct and complete answer."
+    },
+    {
+      "ID": 19560,
+      "Turn": 80,
+      "Speaker": "S",
+      "Sentence": "As X goes towards negative"
+    },
+    {
+      "ID": 19561,
+      "Turn": 81,
+      "Speaker": "S",
+      "Sentence": "Why dont you just say as X decreases Y increases"
+    },
+    {
+      "ID": 19562,
+      "Turn": 82,
+      "Speaker": "S",
+      "Sentence": "Thats a specific format for end behavior"
+    },
+    {
+      "ID": 19563,
+      "Turn": 83,
+      "Speaker": "T",
+      "Sentence": "It is yes",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19564,
+      "Turn": 83,
+      "Speaker": "T",
+      "Sentence": "In fact if you look in the textbook youll see that they use that format over and over to talk about end behavior",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19565,
+      "Turn": 83,
+      "Speaker": "T",
+      "Sentence": "You see its looking kind of like this",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19566,
+      "Turn": 83,
+      "Speaker": "T",
+      "Sentence": "This is what I would like you to talk about",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19567,
+      "Turn": 83,
+      "Speaker": "T",
+      "Sentence": "In your teams take a look at everybody knows goes and youre going to be the starter for this",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19568,
+      "Turn": 83,
+      "Speaker": "T",
+      "Sentence": "Youll take that first bullet and just answer them and then just go around your team taking each of those and answer it",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19569,
+      "Turn": 83,
+      "Speaker": "T",
+      "Sentence": "Go ahead and get started",
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

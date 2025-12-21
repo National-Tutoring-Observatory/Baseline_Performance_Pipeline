@@ -1,0 +1,206 @@
+{
+  "records": [
+    {
+      "ID": 4957,
+      "Turn": 155,
+      "Speaker": "S",
+      "Sentence": "Ive got a bit of a problem"
+    },
+    {
+      "ID": 4958,
+      "Turn": 156,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4959,
+      "Turn": 157,
+      "Speaker": "S",
+      "Sentence": "Its not in the computer"
+    },
+    {
+      "ID": 4960,
+      "Turn": 157,
+      "Speaker": "S",
+      "Sentence": "Theres none"
+    },
+    {
+      "ID": 4961,
+      "Turn": 158,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's idea ('Theres none') but adds a word to clarify ('Theres none available')."
+    },
+    {
+      "ID": 4962,
+      "Turn": 158,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4963,
+      "Turn": 158,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4964,
+      "Turn": 159,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4965,
+      "Turn": 160,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4966,
+      "Turn": 160,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4967,
+      "Turn": 160,
+      "Speaker": "T",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher checks if the class is ready to move on from a logistical issue and refocus on the lesson."
+    },
+    {
+      "ID": 4968,
+      "Turn": 161,
+      "Speaker": "S",
+      "Sentence": "No"
+    },
+    {
+      "ID": 4969,
+      "Turn": 162,
+      "Speaker": "S",
+      "Sentence": "I should keep this on my desk"
+    },
+    {
+      "ID": 4970,
+      "Turn": 163,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4971,
+      "Turn": 163,
+      "Speaker": "T",
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats information provided by one student for the benefit of another student."
+    },
+    {
+      "ID": 4972,
+      "Turn": 163,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4973,
+      "Turn": 163,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4974,
+      "Turn": 164,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4975,
+      "Turn": 164,
+      "Speaker": "S",
+      "Sentence": "Yes"
+    },
+    {
+      "ID": 4976,
+      "Turn": 165,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4977,
+      "Turn": 167,
+      "Speaker": "T",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher announces the next phase of the activity to ensure the whole class is oriented to the same task."
+    },
+    {
+      "ID": 4978,
+      "Turn": 167,
+      "Speaker": "T",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher checks a student's progress to ensure they are caught up with the rest of the class."
+    },
+    {
+      "ID": 4979,
+      "Turn": 168,
+      "Speaker": "S",
+      "Sentence": "I got number three done"
+    },
+    {
+      "ID": 4980,
+      "Turn": 169,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4981,
+      "Turn": 169,
+      "Speaker": "T",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher checks another student's progress to ensure they are at the same point as their peers."
+    },
+    {
+      "ID": 4982,
+      "Turn": 170,
+      "Speaker": "S",
+      "Sentence": "Yes"
+    },
+    {
+      "ID": 4983,
+      "Turn": 171,
+      "Speaker": "T",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher checks if all students are ready before moving on, ensuring no one is left behind."
+    },
+    {
+      "ID": 4984,
+      "Turn": 173,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4985,
+      "Turn": 175,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4986,
+      "Turn": 175,
+      "Speaker": "T",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher explicitly directs the class to wait for a student to finish, managing the group's pacing."
+    }
+  ]
+}

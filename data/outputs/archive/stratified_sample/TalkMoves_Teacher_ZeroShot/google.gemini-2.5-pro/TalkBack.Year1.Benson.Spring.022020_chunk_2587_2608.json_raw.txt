@@ -1,0 +1,148 @@
+{
+  "records": [
+    {
+      "ID": 2587,
+      "Turn": 44,
+      "Speaker": "T",
+      "Sentence": "Our answer would be up here and Eva Im going to give it a seat",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2588,
+      "Turn": 44,
+      "Speaker": "T",
+      "Sentence": "Thats where we would write our answer once we figure it out",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2589,
+      "Turn": 44,
+      "Speaker": "T",
+      "Sentence": "That looks really funny",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2590,
+      "Turn": 44,
+      "Speaker": "T",
+      "Sentence": "Let me erase that",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2591,
+      "Turn": 44,
+      "Speaker": "T",
+      "Sentence": "That was one way to show our equation",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2592,
+      "Turn": 44,
+      "Speaker": "T",
+      "Sentence": "Who did an equation differently",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2593,
+      "Turn": 44,
+      "Speaker": "T",
+      "Sentence": "Mike",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2595,
+      "Turn": 46,
+      "Speaker": "T",
+      "Sentence": "Tell me your equation",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to provide their specific equation, which is a direct request for a mathematical contribution."
+    },
+    {
+      "ID": 2597,
+      "Turn": 48,
+      "Speaker": "T",
+      "Sentence": "You got it",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2598,
+      "Turn": 48,
+      "Speaker": "T",
+      "Sentence": "Does that work as well",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2599,
+      "Turn": 48,
+      "Speaker": "T",
+      "Sentence": "Why does that work",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to explain why their alternative equation is also correct, prompting for justification."
+    },
+    {
+      "ID": 2601,
+      "Turn": 50,
+      "Speaker": "T",
+      "Sentence": "Its just demonstrating it in a different way",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases the student's reasoning ('it's still showing you what you need') by stating it demonstrates the problem 'in a different way', clarifying the student's idea."
+    },
+    {
+      "ID": 2602,
+      "Turn": 50,
+      "Speaker": "T",
+      "Sentence": "We know that this letter right here is going to tell us how many bags are in the carton",
+      "TalkMove": "Revoicing",
+      "Reasoning": "Continuing the revoicing move, the teacher elaborates on the student's idea by connecting the variable in the equation to its meaning in the problem context."
+    },
+    {
+      "ID": 2603,
+      "Turn": 50,
+      "Speaker": "T",
+      "Sentence": "This is the cartons and this is how many total bags there are",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher continues to revoice and clarify the student's contribution by explicitly identifying the parts of the equation and what they represent."
+    },
+    {
+      "ID": 2604,
+      "Turn": 50,
+      "Speaker": "T",
+      "Sentence": "We just know were missing this piece and thats what we need to find out",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher concludes the revoicing move by summarizing how the student's equation represents the problem, adding clarity to the student's initial contribution."
+    },
+    {
+      "ID": 2605,
+      "Turn": 50,
+      "Speaker": "T",
+      "Sentence": "Did anyone do it in a different way",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2606,
+      "Turn": 50,
+      "Speaker": "T",
+      "Sentence": "What if I wanted to start with 540 equals what would I do for the rest of my equation",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks students to complete a partial equation, prompting them to make a specific mathematical contribution."
+    },
+    {
+      "ID": 2607,
+      "Turn": 50,
+      "Speaker": "T",
+      "Sentence": "Hailey",
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

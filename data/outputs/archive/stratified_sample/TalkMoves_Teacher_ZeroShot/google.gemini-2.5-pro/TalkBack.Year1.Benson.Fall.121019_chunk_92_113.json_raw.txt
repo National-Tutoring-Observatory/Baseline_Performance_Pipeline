@@ -1,0 +1,156 @@
+{
+  "records": [
+    {
+      "ID": 92,
+      "Turn": 48,
+      "Speaker": "T",
+      "Sentence": "Yes",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 94,
+      "Turn": 50,
+      "Speaker": "T",
+      "Sentence": "It was following a pattern and then it messed you up didnt it",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher interprets and rephrases the student's implied difficulty, articulating the reason for their confusion."
+    },
+    {
+      "ID": 96,
+      "Turn": 52,
+      "Speaker": "T",
+      "Sentence": "All right",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 97,
+      "Turn": 52,
+      "Speaker": "T",
+      "Sentence": "You may erase yes",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 98,
+      "Turn": 52,
+      "Speaker": "T",
+      "Sentence": "Erase your whiteboard",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 99,
+      "Turn": 52,
+      "Speaker": "T",
+      "Sentence": "Hi",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 100,
+      "Turn": 52,
+      "Speaker": "T",
+      "Sentence": "On your math journal on the top two problems Thank you",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 101,
+      "Turn": 53,
+      "Speaker": "T",
+      "Sentence": "Whats different from the problem that were looking at compared to what weve been doing",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to compare and contrast, prompting them to explain their thinking about the differences between problem types."
+    },
+    {
+      "ID": 102,
+      "Turn": 53,
+      "Speaker": "T",
+      "Sentence": "Jesse whats different about this problem",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher directs the press for an explanation to a specific student."
+    },
+    {
+      "ID": 103,
+      "Turn": 53,
+      "Speaker": "T",
+      "Sentence": "Its multiplication",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 104,
+      "Turn": 53,
+      "Speaker": "T",
+      "Sentence": "Weve been working on multiplication all unit long so whats different about this",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher challenges a simple answer and presses for a more specific, reasoned explanation of the difference."
+    },
+    {
+      "ID": 106,
+      "Turn": 55,
+      "Speaker": "T",
+      "Sentence": "Were doing a twodigit number times a twodigit number",
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's contribution from the previous turn word-for-word."
+    },
+    {
+      "ID": 107,
+      "Turn": 55,
+      "Speaker": "T",
+      "Sentence": "What have we been doing",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts students to recall prior knowledge to contrast with the new information, requiring them to reason about the difference."
+    },
+    {
+      "ID": 108,
+      "Turn": 56,
+      "Speaker": "T",
+      "Sentence": "A twodigit times a onedigit right",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 109,
+      "Turn": 56,
+      "Speaker": "T",
+      "Sentence": "So its a little bit different",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 110,
+      "Turn": 56,
+      "Speaker": "T",
+      "Sentence": "Let me make sure I have the right I dont think I have the right page",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 111,
+      "Turn": 57,
+      "Speaker": "T",
+      "Sentence": "Thats not the right one",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 112,
+      "Turn": 58,
+      "Speaker": "T",
+      "Sentence": "Yes thats not the right one",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 113,
+      "Turn": 59,
+      "Speaker": "T",
+      "Sentence": "I was going to say This is not the right page",
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

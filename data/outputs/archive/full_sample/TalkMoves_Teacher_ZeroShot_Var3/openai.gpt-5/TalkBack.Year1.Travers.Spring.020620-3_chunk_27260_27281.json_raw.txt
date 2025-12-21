@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 27260,
+      "Speaker": "T",
+      "Turn": 27260,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 27261,
+      "Speaker": "T",
+      "Turn": 27261,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher reframes a student's statement by clarifying it wasn't 'two circles,' adjusting the wording to highlight the correct idea."
+    },
+    {
+      "ID": 27262,
+      "Speaker": "T",
+      "Turn": 27262,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's idea with modified wording ('That was one circle'), adding framing while keeping the original meaning."
+    },
+    {
+      "ID": 27263,
+      "Speaker": "T",
+      "Turn": 27263,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's exact contribution ('one')."
+    },
+    {
+      "ID": 27264,
+      "Speaker": "T",
+      "Turn": 27264,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher restates the student's idea using more precise mathematical terminology ('full turn')."
+    },
+    {
+      "ID": 27265,
+      "Speaker": "T",
+      "Turn": 27265,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 27266,
+      "Speaker": "T",
+      "Turn": 27266,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 27267,
+      "Speaker": "T",
+      "Turn": 27267,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 27268,
+      "Speaker": "T",
+      "Turn": 27268,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 27269,
+      "Speaker": "T",
+      "Turn": 27269,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 27270,
+      "Speaker": "T",
+      "Turn": 27270,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 27271,
+      "Speaker": "T",
+      "Turn": 27271,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the degree measure of a full turn, prompting a precise mathematical value."
+    },
+    {
+      "ID": 27273,
+      "Speaker": "T",
+      "Turn": 27273,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's numeric answer ('360') for the class."
+    },
+    {
+      "ID": 27274,
+      "Speaker": "T",
+      "Turn": 27274,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher orients students physically to face the front, helping the class stay coordinated."
+    },
+    {
+      "ID": 27275,
+      "Speaker": "T",
+      "Turn": 27275,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks which hand corresponds to turning clockwise, eliciting a precise, convention-based response."
+    },
+    {
+      "ID": 27277,
+      "Speaker": "T",
+      "Turn": 27277,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's answer ('Right') to confirm it for the group."
+    },
+    {
+      "ID": 27278,
+      "Speaker": "T",
+      "Turn": 27278,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 27279,
+      "Speaker": "T",
+      "Turn": 27279,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 27280,
+      "Speaker": "T",
+      "Turn": 27280,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 27281,
+      "Speaker": "T",
+      "Turn": 27281,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "records": [
+    {
+      "ID": 1422,
+      "Speaker": "T",
+      "Turn": 189,
+      "TalkMove": null
+    },
+    {
+      "ID": 1423,
+      "Speaker": "T",
+      "Turn": 189,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks for the exact number of additional eighths needed, prompting a precise mathematical value."
+    },
+    {
+      "ID": 1425,
+      "Speaker": "T",
+      "Turn": 191,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student’s answer (“three”) by explicitly counting “one two three,” mirroring the student’s contribution."
+    },
+    {
+      "ID": 1426,
+      "Speaker": "T",
+      "Turn": 191,
+      "TalkMove": null
+    },
+    {
+      "ID": 1427,
+      "Speaker": "T",
+      "Turn": 191,
+      "TalkMove": null
+    },
+    {
+      "ID": 1428,
+      "Speaker": "T",
+      "Turn": 191,
+      "TalkMove": null
+    },
+    {
+      "ID": 1429,
+      "Speaker": "T",
+      "Turn": 191,
+      "TalkMove": null
+    },
+    {
+      "ID": 1430,
+      "Speaker": "T",
+      "Turn": 191,
+      "TalkMove": null
+    },
+    {
+      "ID": 1431,
+      "Speaker": "T",
+      "Turn": 191,
+      "TalkMove": null
+    },
+    {
+      "ID": 1432,
+      "Speaker": "T",
+      "Turn": 191,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "By asking students whether the distance is more or less than a mile, the teacher prompts them to reason about the magnitude of the fraction."
+    },
+    {
+      "ID": 1434,
+      "Speaker": "T",
+      "Turn": 193,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to explain how he solved the problem, requesting a description of his thinking process."
+    },
+    {
+      "ID": 1435,
+      "Speaker": "T",
+      "Turn": 193,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher inquires whether the student used a different method, encouraging elaboration on the reasoning used."
+    },
+    {
+      "ID": 1437,
+      "Speaker": "T",
+      "Turn": 195,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher restates/paraphrases what she believes the student did (“You drew a number line like that”) to confirm understanding."
+    },
+    {
+      "ID": 1439,
+      "Speaker": "T",
+      "Turn": 197,
+      "TalkMove": null
+    },
+    {
+      "ID": 1440,
+      "Speaker": "T",
+      "Turn": 197,
+      "TalkMove": null
+    },
+    {
+      "ID": 1441,
+      "Speaker": "T",
+      "Turn": 197,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to describe what they did to find the distance, soliciting an explanation of their method."
+    }
+  ]
+}

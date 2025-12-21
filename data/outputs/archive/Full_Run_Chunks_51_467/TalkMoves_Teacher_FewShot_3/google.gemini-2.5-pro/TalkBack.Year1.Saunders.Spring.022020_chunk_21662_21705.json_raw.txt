@@ -1,0 +1,156 @@
+{
+  "records": [
+    {
+      "ID": 21678,
+      "Turn": 1,
+      "Speaker": "T",
+      "Sentence": "All right seems like everybody got the toolkit so well press on",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21679,
+      "Turn": 2,
+      "Speaker": "T",
+      "Sentence": "Joanne whats step one",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21681,
+      "Turn": 3,
+      "Speaker": "T",
+      "Sentence": "Isolate the radical on one side of the equation",
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's contribution word for word."
+    },
+    {
+      "ID": 21682,
+      "Turn": 3,
+      "Speaker": "T",
+      "Sentence": "For this particular example whats our first step going to be David",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21684,
+      "Turn": 5,
+      "Speaker": "T",
+      "Sentence": "Isolate the radical",
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's contribution word for word."
+    },
+    {
+      "ID": 21685,
+      "Turn": 5,
+      "Speaker": "T",
+      "Sentence": "Whats it going to take for us to get the radical by itself to divide by",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts the student to explain the thinking or process required to perform the next step."
+    },
+    {
+      "ID": 21687,
+      "Turn": 7,
+      "Speaker": "T",
+      "Sentence": "Very good David",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21688,
+      "Turn": 7,
+      "Speaker": "T",
+      "Sentence": "Thats going to be our first step so dividing both sides by 2 we end up with 4 2 gives us 2",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21689,
+      "Turn": 7,
+      "Speaker": "T",
+      "Sentence": "Whats step two Tobias",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21691,
+      "Turn": 9,
+      "Speaker": "T",
+      "Sentence": "Get rid of the plus one",
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's contribution word for word."
+    },
+    {
+      "ID": 21692,
+      "Turn": 9,
+      "Speaker": "T",
+      "Sentence": "Jill",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21694,
+      "Turn": 11,
+      "Speaker": "T",
+      "Sentence": "Get rid of the radical",
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's contribution."
+    },
+    {
+      "ID": 21695,
+      "Turn": 11,
+      "Speaker": "T",
+      "Sentence": "How do we know when we can get rid of the radical Tobias",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to explain the condition or rule that justifies a mathematical action."
+    },
+    {
+      "ID": 21697,
+      "Turn": 13,
+      "Speaker": "T",
+      "Sentence": "Yes basically nothing outside of the radical on that side of the equation so were good",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's idea while rephrasing it with more precise mathematical language."
+    },
+    {
+      "ID": 21698,
+      "Turn": 13,
+      "Speaker": "T",
+      "Sentence": "How are we going to go about doing that",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts the student to explain the method for performing the next mathematical step."
+    },
+    {
+      "ID": 21699,
+      "Turn": 13,
+      "Speaker": "T",
+      "Sentence": "Tobias",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21702,
+      "Turn": 15,
+      "Speaker": "T",
+      "Sentence": "I could multiply it by itself",
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's suggestion to set up an exploration of that idea."
+    },
+    {
+      "ID": 21703,
+      "Turn": 15,
+      "Speaker": "T",
+      "Sentence": "Lets say if I did  x  and then Id have x1 over here",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21704,
+      "Turn": 15,
+      "Speaker": "T",
+      "Sentence": "Simplifying this Id end up with x1 but then I have this",
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

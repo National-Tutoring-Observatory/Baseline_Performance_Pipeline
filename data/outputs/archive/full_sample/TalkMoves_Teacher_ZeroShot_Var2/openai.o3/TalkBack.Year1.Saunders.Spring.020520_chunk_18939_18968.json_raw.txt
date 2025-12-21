@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 18939,
+      "Speaker": "T",
+      "Turn": 18939,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18940,
+      "Speaker": "T",
+      "Turn": 18940,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18941,
+      "Speaker": "T",
+      "Turn": 18941,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18942,
+      "Speaker": "T",
+      "Turn": 18942,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18943,
+      "Speaker": "T",
+      "Turn": 18943,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks whether 2 is a factor of 120, prompting students for a specific correct mathematical fact."
+    },
+    {
+      "ID": 18945,
+      "Speaker": "T",
+      "Turn": 18945,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher checks if 3 is a factor, again eliciting a precise mathematical answer."
+    },
+    {
+      "ID": 18947,
+      "Speaker": "T",
+      "Turn": 18947,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Uttering “Four?” signals a request for confirmation about 4 being a factor, seeking an accurate yes/no response."
+    },
+    {
+      "ID": 18949,
+      "Speaker": "T",
+      "Turn": 18949,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The single word ‘Five?’ functions as a prompt for students to decide if 5 is a factor."
+    },
+    {
+      "ID": 18951,
+      "Speaker": "T",
+      "Turn": 18951,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher names ‘Six’ expecting students to verify its status as a factor."
+    },
+    {
+      "ID": 18953,
+      "Speaker": "T",
+      "Turn": 18953,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Saying ‘Seven?’ solicits an accurate classification of 7 as a factor or not."
+    },
+    {
+      "ID": 18955,
+      "Speaker": "T",
+      "Turn": 18955,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher checks if 8 is a factor, prompting a correct mathematical determination."
+    },
+    {
+      "ID": 18957,
+      "Speaker": "T",
+      "Turn": 18957,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Uttering ‘Nine?’ asks students to verify nine’s factor status."
+    },
+    {
+      "ID": 18959,
+      "Speaker": "T",
+      "Turn": 18959,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher says ‘10?’ to prompt confirmation about 10 being a factor."
+    },
+    {
+      "ID": 18961,
+      "Speaker": "T",
+      "Turn": 18961,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Naming ‘20?’ requests an accurate response on whether 20 is a factor."
+    },
+    {
+      "ID": 18963,
+      "Speaker": "T",
+      "Turn": 18963,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18964,
+      "Speaker": "T",
+      "Turn": 18964,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18965,
+      "Speaker": "T",
+      "Turn": 18965,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the factors of 1, seeking a specific correct list."
+    },
+    {
+      "ID": 18966,
+      "Speaker": "T",
+      "Turn": 18966,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18967,
+      "Speaker": "T",
+      "Turn": 18967,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18968,
+      "Speaker": "T",
+      "Turn": 18968,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

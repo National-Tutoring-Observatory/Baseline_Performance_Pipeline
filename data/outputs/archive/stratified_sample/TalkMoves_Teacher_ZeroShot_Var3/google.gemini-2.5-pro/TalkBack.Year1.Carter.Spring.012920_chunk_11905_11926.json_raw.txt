@@ -1,0 +1,132 @@
+{
+  "records": [
+    {
+      "ID": 11905,
+      "Turn": 33,
+      "Speaker": "T",
+      "Sentence": "Thank you",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11906,
+      "Turn": 33,
+      "Speaker": "T",
+      "Sentence": "We want to draw a rectangle that has an area equal to 34 x 23 what should the dimensions of our shaded rectangle be",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks students for a specific mathematical contribution, the dimensions of the rectangle."
+    },
+    {
+      "ID": 11907,
+      "Turn": 33,
+      "Speaker": "T",
+      "Sentence": "Lyla",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11910,
+      "Turn": 35,
+      "Speaker": "T",
+      "Sentence": "What are the dimensions of this rectangle",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts a student to provide a specific mathematical value."
+    },
+    {
+      "ID": 11912,
+      "Turn": 37,
+      "Speaker": "T",
+      "Sentence": "What do you guys think of that thinking",
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher asks the class to respond to a student's contribution."
+    },
+    {
+      "ID": 11913,
+      "Turn": 37,
+      "Speaker": "T",
+      "Sentence": "Thank you people are agreeing with that",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11914,
+      "Turn": 37,
+      "Speaker": "T",
+      "Sentence": "I dont want to use that sorry I dont want to use that at this point",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11915,
+      "Turn": 37,
+      "Speaker": "T",
+      "Sentence": "I want you to think this through",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11916,
+      "Turn": 37,
+      "Speaker": "T",
+      "Sentence": "How could we mark the number lines to help us draw a rectangle thats 34 x 23 unit",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to explain the process or method for solving the problem."
+    },
+    {
+      "ID": 11917,
+      "Turn": 37,
+      "Speaker": "T",
+      "Sentence": "How can we mark the number lines Zane",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher repeats the prompt for reasoning and directs it to a specific student."
+    },
+    {
+      "ID": 11918,
+      "Turn": 37,
+      "Speaker": "T",
+      "Sentence": "Looking at yours because its marked how can we mark the number lines so that we can make the dimensions of that",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts a student to explain their thinking by asking 'how' they can perform a specific action."
+    },
+    {
+      "ID": 11919,
+      "Turn": 37,
+      "Speaker": "T",
+      "Sentence": "What do you guys say of his thinking",
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher asks the class to respond to another student's contribution."
+    },
+    {
+      "ID": 11920,
+      "Turn": 37,
+      "Speaker": "T",
+      "Sentence": "Hes saying it very uncertainly No why would you want to use the tick marks",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks 'why' to prompt a student to provide justification for their idea."
+    },
+    {
+      "ID": 11922,
+      "Turn": 39,
+      "Speaker": "T",
+      "Sentence": "See up here if you have those tick marks its really clear where to shade to isnt",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases a student's idea about using tick marks to make it clearer for the class."
+    },
+    {
+      "ID": 11924,
+      "Turn": 41,
+      "Speaker": "T",
+      "Sentence": "Yes",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11925,
+      "Turn": 41,
+      "Speaker": "T",
+      "Sentence": "Zane did you see the relevance of that",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher checks if a specific student understood another student's contribution, ensuring he is following the conversation."
+    }
+  ]
+}

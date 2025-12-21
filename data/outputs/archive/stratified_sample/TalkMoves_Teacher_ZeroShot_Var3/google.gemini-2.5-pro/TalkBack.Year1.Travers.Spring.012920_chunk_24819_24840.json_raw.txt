@@ -1,0 +1,95 @@
+{
+  "records": [
+    {
+      "ID": 24820,
+      "Turn": 173,
+      "Speaker": "T",
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's contribution verbatim."
+    },
+    {
+      "ID": 24821,
+      "Turn": 173,
+      "Speaker": "T",
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 24823,
+      "Turn": 175,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to provide a specific mathematical value (the count) from the data set."
+    },
+    {
+      "ID": 24826,
+      "Turn": 178,
+      "Speaker": "T",
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 24827,
+      "Turn": 178,
+      "Speaker": "T",
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 24828,
+      "Turn": 178,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to verify a specific data point, pushing for an accurate count."
+    },
+    {
+      "ID": 24830,
+      "Turn": 180,
+      "Speaker": "T",
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 24832,
+      "Turn": 182,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to identify the next specific value in the ordered data set."
+    },
+    {
+      "ID": 24833,
+      "Turn": 182,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to provide a specific mathematical value (the count) from the data set."
+    },
+    {
+      "ID": 24835,
+      "Turn": 184,
+      "Speaker": "T",
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's answer verbatim."
+    },
+    {
+      "ID": 24836,
+      "Turn": 184,
+      "Speaker": "T",
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 24837,
+      "Turn": 184,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to identify the next specific value in the data set."
+    },
+    {
+      "ID": 24839,
+      "Turn": 186,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to check the data set for a specific value, ensuring accuracy in their data analysis."
+    }
+  ]
+}

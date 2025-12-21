@@ -1,0 +1,55 @@
+[
+  {
+    "records": [
+      {
+        "ID": 21224,
+        "Turn": 290,
+        "Speaker": "T"
+      },
+      {
+        "ID": 21230,
+        "Turn": 294,
+        "Speaker": "T"
+      },
+      {
+        "ID": 21231,
+        "Turn": 294,
+        "Speaker": "T"
+      },
+      {
+        "ID": 21234,
+        "Turn": 296,
+        "Speaker": "T"
+      },
+      {
+        "ID": 21235,
+        "Turn": 296,
+        "Speaker": "T",
+        "TalkMove": "Pressing for Accuracy"
+      },
+      {
+        "ID": 21236,
+        "Turn": 298,
+        "Speaker": "T",
+        "TalkMove": "Revoicing"
+      },
+      {
+        "ID": 21240,
+        "Turn": 302,
+        "Speaker": "T",
+        "TalkMove": "Pressing for Reasoning"
+      },
+      {
+        "ID": 21242,
+        "Turn": 304,
+        "Speaker": "T",
+        "TalkMove": "Restating"
+      },
+      {
+        "ID": 21243,
+        "Turn": 304,
+        "Speaker": "T"
+      }
+    ]
+  }
+]

@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 18042,
+      "Speaker": "T",
+      "Turn": 18042,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a specific mathematical question ('whats my remainder') to prompt students for a precise answer."
+    },
+    {
+      "ID": 18043,
+      "Speaker": "T",
+      "Turn": 18043,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher repeats the prompt for the remainder, seeking a specific numerical response."
+    },
+    {
+      "ID": 18045,
+      "Speaker": "T",
+      "Turn": 18045,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18046,
+      "Speaker": "T",
+      "Turn": 18046,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher poses a calculation question ('what if I did 12 / 5') expecting a specific mathematical result."
+    },
+    {
+      "ID": 18048,
+      "Speaker": "T",
+      "Turn": 18048,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18049,
+      "Speaker": "T",
+      "Turn": 18049,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a yes/no question based on mathematical definitions ('Is 5 a factor of 12')."
+    },
+    {
+      "ID": 18051,
+      "Speaker": "T",
+      "Turn": 18051,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18052,
+      "Speaker": "T",
+      "Turn": 18052,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18053,
+      "Speaker": "T",
+      "Turn": 18053,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18054,
+      "Speaker": "T",
+      "Turn": 18054,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18055,
+      "Speaker": "T",
+      "Turn": 18055,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for a specific property of an X intercept ('whats always true of an X intercept')."
+    },
+    {
+      "ID": 18057,
+      "Speaker": "T",
+      "Turn": 18057,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18058,
+      "Speaker": "T",
+      "Turn": 18058,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks 'why would I be plugging in two', prompting students to explain the logic behind the substitution."
+    },
+    {
+      "ID": 18060,
+      "Speaker": "T",
+      "Turn": 18060,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18061,
+      "Speaker": "T",
+      "Turn": 18061,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the specific outcome of the operation ('what should I get for my answer')."
+    },
+    {
+      "ID": 18062,
+      "Speaker": "T",
+      "Turn": 18062,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18064,
+      "Speaker": "T",
+      "Turn": 18064,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18066,
+      "Speaker": "T",
+      "Turn": 18066,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18073,
+      "Speaker": "T",
+      "Turn": 18073,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats part of a student's utterance ('You mean it doesnt') to clarify or verify what was said."
+    },
+    {
+      "ID": 18075,
+      "Speaker": "T",
+      "Turn": 18075,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases the student's idea, adding specific mathematical terminology ('point of inflection')."
+    }
+  ]
+}

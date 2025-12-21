@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 21678,
+      "Speaker": "T",
+      "Turn": 21678,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21679,
+      "Speaker": "T",
+      "Turn": 21679,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a student to state the first procedural step, eliciting a specific mathematical action."
+    },
+    {
+      "ID": 21681,
+      "Speaker": "T",
+      "Turn": 21681,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats and slightly elaborates the step (adding 'on one side of the equation'), paraphrasing a student’s idea."
+    },
+    {
+      "ID": 21682,
+      "Speaker": "T",
+      "Turn": 21682,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts a student to name the first step for this example, seeking a precise mathematical operation."
+    },
+    {
+      "ID": 21684,
+      "Speaker": "T",
+      "Turn": 21684,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student’s contribution verbatim: 'Isolate the radical.'"
+    },
+    {
+      "ID": 21685,
+      "Speaker": "T",
+      "Turn": 21685,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks what operation is needed to isolate the radical, prompting specific mathematical language."
+    },
+    {
+      "ID": 21687,
+      "Speaker": "T",
+      "Turn": 21687,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21688,
+      "Speaker": "T",
+      "Turn": 21688,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21689,
+      "Speaker": "T",
+      "Turn": 21689,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the next procedural step, eliciting a specific mathematical action."
+    },
+    {
+      "ID": 21691,
+      "Speaker": "T",
+      "Turn": 21691,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student’s response word-for-word: 'Get rid of the plus one.'"
+    },
+    {
+      "ID": 21692,
+      "Speaker": "T",
+      "Turn": 21692,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21694,
+      "Speaker": "T",
+      "Turn": 21694,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher echoes the student’s idea verbatim: 'Get rid of the radical.'"
+    },
+    {
+      "ID": 21695,
+      "Speaker": "T",
+      "Turn": 21695,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks for the criterion that justifies removing the radical, prompting explanation."
+    },
+    {
+      "ID": 21697,
+      "Speaker": "T",
+      "Turn": 21697,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher paraphrases the student’s criterion and adds clarification ('nothing outside of the radical...'), aligning and elaborating on the idea."
+    },
+    {
+      "ID": 21698,
+      "Speaker": "T",
+      "Turn": 21698,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks how to carry out the step, prompting the specific operation needed."
+    },
+    {
+      "ID": 21699,
+      "Speaker": "T",
+      "Turn": 21699,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21702,
+      "Speaker": "T",
+      "Turn": 21702,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21703,
+      "Speaker": "T",
+      "Turn": 21703,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21704,
+      "Speaker": "T",
+      "Turn": 21704,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21706,
+      "Speaker": "T",
+      "Turn": 21706,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to assess whether the expression is simplified, inviting justification."
+    }
+  ]
+}

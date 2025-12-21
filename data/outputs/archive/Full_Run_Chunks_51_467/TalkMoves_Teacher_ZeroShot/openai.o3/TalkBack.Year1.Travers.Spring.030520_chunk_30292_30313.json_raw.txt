@@ -1,0 +1,86 @@
+{
+  "records": [
+    {
+      "ID": 30292,
+      "Speaker": "T",
+      "Turn": 139,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks for a specific numerical answer ('How many pages?'), prompting students to provide the precise quantity."
+    },
+    {
+      "ID": 30293,
+      "Speaker": "T",
+      "Turn": 139
+    },
+    {
+      "ID": 30294,
+      "Speaker": "T",
+      "Turn": 139
+    },
+    {
+      "ID": 30295,
+      "Speaker": "T",
+      "Turn": 139
+    },
+    {
+      "ID": 30296,
+      "Speaker": "T",
+      "Turn": 139
+    },
+    {
+      "ID": 30297,
+      "Speaker": "T",
+      "Turn": 139,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher seeks the exact number of cards that fit on a page, requesting a specific factual response."
+    },
+    {
+      "ID": 30299,
+      "Speaker": "T",
+      "Turn": 141,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher repeats the student’s reply ('Six') and adds clarification ('cards on a page'), restating the idea with expanded wording."
+    },
+    {
+      "ID": 30300,
+      "Speaker": "T",
+      "Turn": 141,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "By saying 'Six – Count with me,' the teacher pushes students to produce the correct count of multiples of six."
+    },
+    {
+      "ID": 30305,
+      "Speaker": "T",
+      "Turn": 145,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Again encourages students to count accurately together, soliciting precise numerical output."
+    },
+    {
+      "ID": 30306,
+      "Speaker": "T",
+      "Turn": 145
+    },
+    {
+      "ID": 30307,
+      "Speaker": "T",
+      "Turn": 145,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks the student to supply the specific 'important word,' prompting for the exact correct response."
+    },
+    {
+      "ID": 30309,
+      "Speaker": "T",
+      "Turn": 147
+    },
+    {
+      "ID": 30310,
+      "Speaker": "T",
+      "Turn": 147
+    },
+    {
+      "ID": 30312,
+      "Speaker": "T",
+      "Turn": 149
+    }
+  ]
+}

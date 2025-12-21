@@ -3,14 +3,14 @@
 .Renviron
 
 # Data directories
-data/outputs/archive/
-data/outputs/*
+# data/outputs/archive/
+# data/outputs/*
 documentation/
-!data/outputs/.gitkeep
-!data/outputs/full_sample/
-!data/outputs/stratified_sample/
-data/inputs/*
-!data/inputs/.gitkeep
+# !data/outputs/.gitkeep
+# !data/outputs/full_sample/
+# !data/outputs/stratified_sample/
+# data/inputs/*
+# !data/inputs/.gitkeep
 
 # Results
 results/archive/

@@ -1,0 +1,39 @@
+{
+  "records": [
+    {
+      "ID": 3607,
+      "Speaker": "T",
+      "Turn": 3607,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the class to display their mathematical answers, soliciting a mathematical contribution."
+    },
+    {
+      "ID": 3608,
+      "Speaker": "T",
+      "Turn": 3608,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts a specific student (Zach) to show his answer, holding him accountable for a mathematical contribution."
+    },
+    {
+      "ID": 3619,
+      "Speaker": "T",
+      "Turn": 3619,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts a student (Ava) to solve a problem publicly, asking for a mathematical contribution."
+    },
+    {
+      "ID": 3624,
+      "Speaker": "T",
+      "Turn": 3624,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher explicitly asks the student to show the process ('how you do it') rather than just the final answer, prompting for evidence of the solution."
+    },
+    {
+      "ID": 3625,
+      "Speaker": "T",
+      "Turn": 3625,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to select and apply a specific mathematical method (lattice vs. another way) to solve the problem."
+    }
+  ]
+}

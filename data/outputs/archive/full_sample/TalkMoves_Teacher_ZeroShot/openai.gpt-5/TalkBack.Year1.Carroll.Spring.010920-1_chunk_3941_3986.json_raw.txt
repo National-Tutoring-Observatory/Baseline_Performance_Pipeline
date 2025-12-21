@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 3941,
+      "Speaker": "T",
+      "Turn": 3941,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3942,
+      "Speaker": "T",
+      "Turn": 3942,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3943,
+      "Speaker": "T",
+      "Turn": 3943,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3944,
+      "Speaker": "T",
+      "Turn": 3944,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3945,
+      "Speaker": "T",
+      "Turn": 3945,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3946,
+      "Speaker": "T",
+      "Turn": 3946,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3947,
+      "Speaker": "T",
+      "Turn": 3947,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks students to identify which number is larger, prompting a specific mathematical claim."
+    },
+    {
+      "ID": 3948,
+      "Speaker": "T",
+      "Turn": 3948,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3950,
+      "Speaker": "T",
+      "Turn": 3950,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to state which value is bigger, eliciting a precise comparison."
+    },
+    {
+      "ID": 3955,
+      "Speaker": "T",
+      "Turn": 3955,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats a student's answer verbatim for the class."
+    },
+    {
+      "ID": 3965,
+      "Speaker": "T",
+      "Turn": 3965,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3968,
+      "Speaker": "T",
+      "Turn": 3968,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher orients the class to a peer’s contribution by naming who spoke first."
+    },
+    {
+      "ID": 3973,
+      "Speaker": "T",
+      "Turn": 3973,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3974,
+      "Speaker": "T",
+      "Turn": 3974,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher signals that a classmate wants to speak, orienting others to attend."
+    },
+    {
+      "ID": 3976,
+      "Speaker": "T",
+      "Turn": 3976,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3977,
+      "Speaker": "T",
+      "Turn": 3977,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher explicitly directs students to listen to a peer."
+    },
+    {
+      "ID": 3982,
+      "Speaker": "T",
+      "Turn": 3982,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3983,
+      "Speaker": "T",
+      "Turn": 3983,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3985,
+      "Speaker": "T",
+      "Turn": 3985,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3986,
+      "Speaker": "T",
+      "Turn": 3986,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks the student to state the revised answer, prompting a clear mathematical choice."
+    }
+  ]
+}

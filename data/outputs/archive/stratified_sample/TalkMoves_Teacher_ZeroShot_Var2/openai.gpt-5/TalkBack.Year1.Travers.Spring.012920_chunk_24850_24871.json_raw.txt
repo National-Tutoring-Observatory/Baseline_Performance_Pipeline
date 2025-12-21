@@ -1,0 +1,74 @@
+{
+  "records": [
+    {
+      "ID": 24851,
+      "Speaker": "T",
+      "Turn": 195,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher orients the class to a common focus by directing everyone to look at the data."
+    },
+    {
+      "ID": 24855,
+      "Speaker": "T",
+      "Turn": 198,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher echoes the student’s contribution ('Two') by rephrasing it as 'We have two,' maintaining the idea while adding wording."
+    },
+    {
+      "ID": 24856,
+      "Speaker": "T",
+      "Turn": 198,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24857,
+      "Speaker": "T",
+      "Turn": 198,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24858,
+      "Speaker": "T",
+      "Turn": 198,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks students to confirm a specific mathematical value ('4 1/2'), prompting precision."
+    },
+    {
+      "ID": 24860,
+      "Speaker": "T",
+      "Turn": 200,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for an exact count of '4 1/2,' eliciting a precise mathematical response."
+    },
+    {
+      "ID": 24862,
+      "Speaker": "T",
+      "Turn": 202,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student’s answer 'Two' word for word."
+    },
+    {
+      "ID": 24866,
+      "Speaker": "T",
+      "Turn": 206,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks whether it is the 'highest,' prompting students to accurately characterize the data."
+    },
+    {
+      "ID": 24869,
+      "Speaker": "T",
+      "Turn": 208,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24870,
+      "Speaker": "T",
+      "Turn": 208,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks if it is the 'greatest,' pressing students to confirm the correct comparative attribute."
+    }
+  ]
+}

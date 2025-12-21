@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 1079,
+      "Speaker": "T",
+      "Turn": 1079,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 1080,
+      "Speaker": "T",
+      "Turn": 1080,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats a student's contribution to make it the focus of the class discussion."
+    },
+    {
+      "ID": 1081,
+      "Speaker": "T",
+      "Turn": 1081,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks a student to explain the meaning of a number in the context of the problem, prompting them to connect a representation to an idea."
+    },
+    {
+      "ID": 1083,
+      "Speaker": "T",
+      "Turn": 1083,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to clarify their understanding and focus on the mathematically relevant details (sizes) rather than superficial ones (ownership)."
+    },
+    {
+      "ID": 1085,
+      "Speaker": "T",
+      "Turn": 1085,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 1086,
+      "Speaker": "T",
+      "Turn": 1086,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 1087,
+      "Speaker": "T",
+      "Turn": 1087,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks the student to provide a specific, accurate mathematical value from the problem."
+    },
+    {
+      "ID": 1089,
+      "Speaker": "T",
+      "Turn": 1089,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's idea ('The smaller one') and adds clarifying mathematical information ('which is 20 feet')."
+    },
+    {
+      "ID": 1090,
+      "Speaker": "T",
+      "Turn": 1090,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 1092,
+      "Speaker": "T",
+      "Turn": 1092,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to use more precise mathematical language from the problem ('times' instead of 'feet')."
+    },
+    {
+      "ID": 1093,
+      "Speaker": "T",
+      "Turn": 1093,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 1094,
+      "Speaker": "T",
+      "Turn": 1094,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks if any students used a different operation, which serves to surface alternative solution paths and the reasoning behind them."
+    },
+    {
+      "ID": 1095,
+      "Speaker": "T",
+      "Turn": 1095,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 1096,
+      "Speaker": "T",
+      "Turn": 1096,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 1097,
+      "Speaker": "T",
+      "Turn": 1097,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to provide the specific, correct answer to the calculation."
+    },
+    {
+      "ID": 1099,
+      "Speaker": "T",
+      "Turn": 1099,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's correct numerical answer, confirming it for the class."
+    },
+    {
+      "ID": 1100,
+      "Speaker": "T",
+      "Turn": 1100,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts students to explain the meaning of their numerical answer within the context of the problem."
+    },
+    {
+      "ID": 1102,
+      "Speaker": "T",
+      "Turn": 1102,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher explicitly asks a student to refine their answer to be more mathematically precise."
+    },
+    {
+      "ID": 1105,
+      "Speaker": "T",
+      "Turn": 1105,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's words to make them an object of discussion and evaluation."
+    },
+    {
+      "ID": 1107,
+      "Speaker": "T",
+      "Turn": 1107,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher repeats the student's incomplete phrase to prompt for a more complete and accurate description, including units."
+    }
+  ]
+}

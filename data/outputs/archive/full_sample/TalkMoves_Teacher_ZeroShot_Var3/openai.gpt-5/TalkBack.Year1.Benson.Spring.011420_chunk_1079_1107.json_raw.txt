@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 1079,
+      "Speaker": "T",
+      "Turn": 1079,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher paraphrases the student's idea that clue words guided what operation to do."
+    },
+    {
+      "ID": 1080,
+      "Speaker": "T",
+      "Turn": 1080,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats Mason’s suggestion verbatim about doing 20 times 30."
+    },
+    {
+      "ID": 1081,
+      "Speaker": "T",
+      "Turn": 1081,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks for the meaning of the number 20 in context, prompting explanation of the representation."
+    },
+    {
+      "ID": 1083,
+      "Speaker": "T",
+      "Turn": 1083,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to consider what information is relevant (ownership vs. size), prompting justification."
+    },
+    {
+      "ID": 1085,
+      "Speaker": "T",
+      "Turn": 1085,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1086,
+      "Speaker": "T",
+      "Turn": 1086,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1087,
+      "Speaker": "T",
+      "Turn": 1087,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts for the specific size value, encouraging precise mathematical information."
+    },
+    {
+      "ID": 1089,
+      "Speaker": "T",
+      "Turn": 1089,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats and clarifies the student's response, adding the label 'smaller one' and the unit."
+    },
+    {
+      "ID": 1090,
+      "Speaker": "T",
+      "Turn": 1090,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1092,
+      "Speaker": "T",
+      "Turn": 1092,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1093,
+      "Speaker": "T",
+      "Turn": 1093,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats Mason’s idea about doing 20 times 30 while expressing agreement."
+    },
+    {
+      "ID": 1094,
+      "Speaker": "T",
+      "Turn": 1094,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks if anyone used a specific operation (added 30), prompting a mathematical contribution."
+    },
+    {
+      "ID": 1095,
+      "Speaker": "T",
+      "Turn": 1095,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1096,
+      "Speaker": "T",
+      "Turn": 1096,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1097,
+      "Speaker": "T",
+      "Turn": 1097,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the computed result, prompting a precise numerical answer."
+    },
+    {
+      "ID": 1099,
+      "Speaker": "T",
+      "Turn": 1099,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1100,
+      "Speaker": "T",
+      "Turn": 1100,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks what the number 600 stands for, prompting students to connect the computation to the context."
+    },
+    {
+      "ID": 1102,
+      "Speaker": "T",
+      "Turn": 1102,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher requests a more specific explanation, pressing for elaboration and justification."
+    },
+    {
+      "ID": 1105,
+      "Speaker": "T",
+      "Turn": 1105,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher paraphrases the student's claim about what 600 represents, adjusting wording."
+    },
+    {
+      "ID": 1107,
+      "Speaker": "T",
+      "Turn": 1107,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's phrase verbatim."
+    }
+  ]
+}

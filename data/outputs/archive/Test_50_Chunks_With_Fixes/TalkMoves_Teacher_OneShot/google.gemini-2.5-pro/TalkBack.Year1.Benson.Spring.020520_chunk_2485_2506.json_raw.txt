@@ -1,0 +1,158 @@
+{
+  "records": [
+    {
+      "ID": 2485,
+      "Turn": 333,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to explain their process for solving the problem."
+    },
+    {
+      "ID": 2486,
+      "Turn": 334,
+      "Speaker": "S",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2487,
+      "Turn": 335,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to provide the source for a number they used, pressing for the thinking behind their choice."
+    },
+    {
+      "ID": 2488,
+      "Turn": 336,
+      "Speaker": "S",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2489,
+      "Turn": 337,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher presses for a more specific source, continuing to ask for the student's reasoning."
+    },
+    {
+      "ID": 2490,
+      "Turn": 338,
+      "Speaker": "S",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2491,
+      "Turn": 339,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's idea (that the number came from problem two) and adds clarifying language about what that number represents."
+    },
+    {
+      "ID": 2492,
+      "Turn": 339,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks 'why' the student chose a specific mathematical operation, prompting for justification."
+    },
+    {
+      "ID": 2493,
+      "Turn": 340,
+      "Speaker": "S",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2494,
+      "Turn": 341,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2495,
+      "Turn": 342,
+      "Speaker": "S",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2496,
+      "Turn": 343,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2497,
+      "Turn": 343,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a direct computational question to prompt for a specific mathematical contribution."
+    },
+    {
+      "ID": 2498,
+      "Turn": 344,
+      "Speaker": "S",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2499,
+      "Turn": 345,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a direct computational question to prompt for a specific mathematical contribution."
+    },
+    {
+      "ID": 2500,
+      "Turn": 346,
+      "Speaker": "S",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2501,
+      "Turn": 347,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a direct computational question to prompt for a specific mathematical contribution."
+    },
+    {
+      "ID": 2502,
+      "Turn": 348,
+      "Speaker": "S",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2503,
+      "Turn": 349,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks the student to combine the previous results, prompting for a final, accurate calculation."
+    },
+    {
+      "ID": 2504,
+      "Turn": 350,
+      "Speaker": "S",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2505,
+      "Turn": 351,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2506,
+      "Turn": 351,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

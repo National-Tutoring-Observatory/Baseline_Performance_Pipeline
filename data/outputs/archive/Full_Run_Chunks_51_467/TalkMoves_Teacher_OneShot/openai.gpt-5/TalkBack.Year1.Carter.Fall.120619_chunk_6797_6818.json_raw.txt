@@ -1,0 +1,102 @@
+{
+  "records": [
+    {
+      "ID": 6797,
+      "Speaker": "T",
+      "Turn": 68,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks for Noah’s age given Lilith’s being six and a half, eliciting a specific mathematical value."
+    },
+    {
+      "ID": 6798,
+      "Speaker": "T",
+      "Turn": 68,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Orients students to support Garret by collaboratively generating a helpful question."
+    },
+    {
+      "ID": 6799,
+      "Speaker": "T",
+      "Turn": 68,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Prompts students to propose a question to ask, orienting the class to joint participation."
+    },
+    {
+      "ID": 6800,
+      "Speaker": "T",
+      "Turn": 68,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Directs a student to choose a peer to provide a helpful question, aligning interaction among classmates."
+    },
+    {
+      "ID": 6803,
+      "Speaker": "T",
+      "Turn": 71,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Invites Reese to share her thinking process."
+    },
+    {
+      "ID": 6804,
+      "Speaker": "T",
+      "Turn": 71,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Encourages explanation of thinking to the class."
+    },
+    {
+      "ID": 6806,
+      "Speaker": "T",
+      "Turn": 73,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 6807,
+      "Speaker": "T",
+      "Turn": 73,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Clarifies that the class is diverging and reorients focus to the intended coaching task."
+    },
+    {
+      "ID": 6808,
+      "Speaker": "T",
+      "Turn": 73,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Sets the sequence of discussion—finish responding to Reese, then return to the earlier question—to keep the group coordinated."
+    },
+    {
+      "ID": 6809,
+      "Speaker": "T",
+      "Turn": 73,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Asks Reese to select someone demonstrating the idea, orienting attention to peers."
+    },
+    {
+      "ID": 6813,
+      "Speaker": "T",
+      "Turn": 77,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 6814,
+      "Speaker": "T",
+      "Turn": 77,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Restates the known ages and Reese’s claim, reframing the statements to highlight the inconsistency."
+    },
+    {
+      "ID": 6815,
+      "Speaker": "T",
+      "Turn": 77,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Prompts students to assess the logical consistency of the statements."
+    },
+    {
+      "ID": 6817,
+      "Speaker": "T",
+      "Turn": 79,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Coordinates peer interaction by having Rodie repeat his question to help Garret."
+    }
+  ]
+}

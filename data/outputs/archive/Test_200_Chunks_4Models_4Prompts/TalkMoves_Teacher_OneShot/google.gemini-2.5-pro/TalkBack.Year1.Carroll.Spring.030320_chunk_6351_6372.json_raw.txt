@@ -1,0 +1,109 @@
+{
+  "records": [
+    {
+      "ID": 6353,
+      "Speaker": "T",
+      "Turn": 27,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's answer ('nine') and adds reasoning to it, clarifying the student's contribution for the class."
+    },
+    {
+      "ID": 6354,
+      "Speaker": "T",
+      "Turn": 27,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 6355,
+      "Speaker": "T",
+      "Turn": 27,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 6356,
+      "Speaker": "T",
+      "Turn": 27,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 6357,
+      "Speaker": "T",
+      "Turn": 27,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 6358,
+      "Speaker": "T",
+      "Turn": 28,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 6359,
+      "Speaker": "T",
+      "Turn": 28,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 6360,
+      "Speaker": "T",
+      "Turn": 28,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 6361,
+      "Speaker": "T",
+      "Turn": 28,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 6362,
+      "Speaker": "T",
+      "Turn": 28,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 6363,
+      "Speaker": "T",
+      "Turn": 28,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 6365,
+      "Speaker": "T",
+      "Turn": 30,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases the student's answer ('12 x 13') as a statement ('this ones bigger') to confirm and clarify their position."
+    },
+    {
+      "ID": 6368,
+      "Speaker": "T",
+      "Turn": 32,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher explicitly asks the student to explain their thinking by saying 'tell me why'."
+    },
+    {
+      "ID": 6371,
+      "Speaker": "T",
+      "Turn": 34,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 6372,
+      "Speaker": "T",
+      "Turn": 34,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

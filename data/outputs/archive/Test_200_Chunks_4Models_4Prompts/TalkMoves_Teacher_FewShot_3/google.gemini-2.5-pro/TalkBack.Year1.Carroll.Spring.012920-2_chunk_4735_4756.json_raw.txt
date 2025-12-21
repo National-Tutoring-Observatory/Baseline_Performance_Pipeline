@@ -1,0 +1,106 @@
+[
+  {
+    "ID": 4735,
+    "Turn": 50,
+    "Speaker": "T",
+    "Sentence": "The other calls for two and twothirds cups chopped spinach",
+    "TalkMove": "None",
+    "Reasoning": null
+  },
+  {
+    "ID": 4736,
+    "Turn": 50,
+    "Speaker": "T",
+    "Sentence": "How much spinach does Autumn need",
+    "TalkMove": "None",
+    "Reasoning": null
+  },
+  {
+    "ID": 4737,
+    "Turn": 51,
+    "Speaker": "T",
+    "Sentence": "We need a number model and we need a answer",
+    "TalkMove": "None",
+    "Reasoning": null
+  },
+  {
+    "ID": 4738,
+    "Turn": 51,
+    "Speaker": "T",
+    "Sentence": "Talk with your shoulder partner about which operation are you going to do",
+    "TalkMove": "Keeping Everyone Together",
+    "Reasoning": "The teacher directs students to discuss the problem with their partners, orienting them to each other."
+  },
+  {
+    "ID": 4739,
+    "Turn": 51,
+    "Speaker": "T",
+    "Sentence": "Are you going to do subtraction addition division or multiplication and what words are possibly giving you the hint",
+    "TalkMove": "Pressing for Reasoning",
+    "Reasoning": "The teacher prompts students to explain their choice of operation by finding evidence in the text."
+  },
+  {
+    "ID": 4748,
+    "Turn": 58,
+    "Speaker": "T",
+    "Sentence": "Okay",
+    "TalkMove": "None",
+    "Reasoning": null
+  },
+  {
+    "ID": 4749,
+    "Turn": 58,
+    "Speaker": "T",
+    "Sentence": "Team one",
+    "TalkMove": "None",
+    "Reasoning": null
+  },
+  {
+    "ID": 4750,
+    "Turn": 59,
+    "Speaker": "T",
+    "Sentence": "Which one",
+    "TalkMove": "None",
+    "Reasoning": null
+  },
+  {
+    "ID": 4751,
+    "Turn": 59,
+    "Speaker": "T",
+    "Sentence": "Are we doing addition subtraction multiplication or division",
+    "TalkMove": "Pressing for Accuracy",
+    "Reasoning": "The teacher prompts students to make a specific mathematical contribution by naming the operation they will use."
+  },
+  {
+    "ID": 4753,
+    "Turn": 60,
+    "Speaker": "T",
+    "Sentence": "Okay",
+    "TalkMove": "None",
+    "Reasoning": null
+  },
+  {
+    "ID": 4754,
+    "Turn": 60,
+    "Speaker": "T",
+    "Sentence": "Subtraction",
+    "TalkMove": "Restating",
+    "Reasoning": "The teacher repeats the student's contribution ('subtraction') word for word."
+  },
+  {
+    "ID": 4755,
+    "Turn": 60,
+    "Speaker": "T",
+    "Sentence": "What do you think",
+    "TalkMove": "Getting Students to Relate to Another’s Ideas",
+    "Reasoning": "After one student suggests 'subtraction,' the teacher asks another student for their opinion, prompting them to react to their classmate's idea."
+  },
+  {
+    "ID": 4756,
+    "Turn": 60,
+    "Speaker": "T",
+    "Sentence": "Addition",
+    "TalkMove": "Restating",
+    "Reasoning": "The teacher repeats a student's one-word answer ('Addition')."
+  }
+]

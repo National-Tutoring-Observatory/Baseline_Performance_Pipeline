@@ -1,0 +1,88 @@
+{
+  "records": [
+    {
+      "ID": 10286,
+      "Speaker": "T",
+      "Turn": 266,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for a specific computation (one-fourth of eight), prompting a mathematical answer."
+    },
+    {
+      "ID": 10288,
+      "Speaker": "T",
+      "Turn": 268
+    },
+    {
+      "ID": 10289,
+      "Speaker": "T",
+      "Turn": 268
+    },
+    {
+      "ID": 10290,
+      "Speaker": "T",
+      "Turn": 268,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to provide the product of 2 × 3."
+    },
+    {
+      "ID": 10292,
+      "Speaker": "T",
+      "Turn": 270,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student’s answer 'Six' verbatim."
+    },
+    {
+      "ID": 10293,
+      "Speaker": "T",
+      "Turn": 270
+    },
+    {
+      "ID": 10294,
+      "Speaker": "T",
+      "Turn": 270
+    },
+    {
+      "ID": 10295,
+      "Speaker": "T",
+      "Turn": 270,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for a specific computation (one-fourth of 20), eliciting a numeric answer."
+    },
+    {
+      "ID": 10298,
+      "Speaker": "T",
+      "Turn": 272,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to compute 20 ÷ 4."
+    },
+    {
+      "ID": 10301,
+      "Speaker": "T",
+      "Turn": 274
+    },
+    {
+      "ID": 10302,
+      "Speaker": "T",
+      "Turn": 274
+    },
+    {
+      "ID": 10303,
+      "Speaker": "T",
+      "Turn": 275
+    },
+    {
+      "ID": 10304,
+      "Speaker": "T",
+      "Turn": 275,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the count of fourths, prompting a specific numeric response."
+    },
+    {
+      "ID": 10306,
+      "Speaker": "T",
+      "Turn": 277,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to provide the product of 5 × 3."
+    }
+  ]
+}

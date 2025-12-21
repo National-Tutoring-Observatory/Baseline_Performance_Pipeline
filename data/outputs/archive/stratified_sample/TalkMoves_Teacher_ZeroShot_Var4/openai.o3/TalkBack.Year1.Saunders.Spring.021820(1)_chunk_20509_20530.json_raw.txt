@@ -1,0 +1,102 @@
+{
+  "records": [
+    {
+      "ID": 20509,
+      "Speaker": "T",
+      "Turn": 76,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20511,
+      "Speaker": "T",
+      "Turn": 78,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20512,
+      "Speaker": "T",
+      "Turn": 78,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to explain the process (\"How did you come here\"), prompting the student to describe their thinking."
+    },
+    {
+      "ID": 20513,
+      "Speaker": "T",
+      "Turn": 79,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20515,
+      "Speaker": "T",
+      "Turn": 81,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20516,
+      "Speaker": "T",
+      "Turn": 81,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20517,
+      "Speaker": "T",
+      "Turn": 82,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20518,
+      "Speaker": "T",
+      "Turn": 83,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20524,
+      "Speaker": "T",
+      "Turn": 88,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20525,
+      "Speaker": "T",
+      "Turn": 88,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20526,
+      "Speaker": "T",
+      "Turn": 88,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20527,
+      "Speaker": "T",
+      "Turn": 88,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the exact value of 2 to the 3rd power, prompting a precise mathematical answer."
+    },
+    {
+      "ID": 20529,
+      "Speaker": "T",
+      "Turn": 90,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student’s answer \"Eight\" word-for-word."
+    },
+    {
+      "ID": 20530,
+      "Speaker": "T",
+      "Turn": 90,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher poses another exponent expression (3^3) to elicit the correct numerical value."
+    }
+  ]
+}

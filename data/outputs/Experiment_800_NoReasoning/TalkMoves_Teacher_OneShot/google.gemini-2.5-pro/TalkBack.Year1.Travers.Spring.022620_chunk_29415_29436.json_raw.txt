@@ -1,0 +1,127 @@
+{
+  "records": [
+    {
+      "ID": 29415,
+      "Turn": 60,
+      "Speaker": "S"
+    },
+    {
+      "ID": 29416,
+      "Turn": 60,
+      "Speaker": "S"
+    },
+    {
+      "ID": 29417,
+      "Turn": 61,
+      "Speaker": "T",
+      "TalkMove": "Revoicing"
+    },
+    {
+      "ID": 29418,
+      "Turn": 62,
+      "Speaker": "S"
+    },
+    {
+      "ID": 29419,
+      "Turn": 63,
+      "Speaker": "T",
+      "TalkMove": null
+    },
+    {
+      "ID": 29420,
+      "Turn": 64,
+      "Speaker": "S"
+    },
+    {
+      "ID": 29421,
+      "Turn": 65,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy"
+    },
+    {
+      "ID": 29422,
+      "Turn": 66,
+      "Speaker": "S"
+    },
+    {
+      "ID": 29423,
+      "Turn": 67,
+      "Speaker": "T",
+      "TalkMove": "Revoicing"
+    },
+    {
+      "ID": 29424,
+      "Turn": 68,
+      "Speaker": "S"
+    },
+    {
+      "ID": 29425,
+      "Turn": 68,
+      "Speaker": "S"
+    },
+    {
+      "ID": 29426,
+      "Turn": 68,
+      "Speaker": "S"
+    },
+    {
+      "ID": 29427,
+      "Turn": 69,
+      "Speaker": "T",
+      "TalkMove": null
+    },
+    {
+      "ID": 29428,
+      "Turn": 69,
+      "Speaker": "T",
+      "TalkMove": null
+    },
+    {
+      "ID": 29429,
+      "Turn": 69,
+      "Speaker": "T",
+      "TalkMove": null
+    },
+    {
+      "ID": 29430,
+      "Turn": 69,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning"
+    },
+    {
+      "ID": 29431,
+      "Turn": 69,
+      "Speaker": "T",
+      "TalkMove": null
+    },
+    {
+      "ID": 29432,
+      "Turn": 69,
+      "Speaker": "T",
+      "TalkMove": null
+    },
+    {
+      "ID": 29433,
+      "Turn": 69,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy"
+    },
+    {
+      "ID": 29434,
+      "Turn": 70,
+      "Speaker": "S"
+    },
+    {
+      "ID": 29435,
+      "Turn": 71,
+      "Speaker": "T",
+      "TalkMove": "Restating"
+    },
+    {
+      "ID": 29436,
+      "Turn": 71,
+      "Speaker": "T",
+      "TalkMove": null
+    }
+  ]
+}

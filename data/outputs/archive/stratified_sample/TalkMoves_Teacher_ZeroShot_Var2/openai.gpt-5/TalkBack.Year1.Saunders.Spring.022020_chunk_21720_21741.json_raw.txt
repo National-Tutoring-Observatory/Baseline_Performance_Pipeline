@@ -1,0 +1,109 @@
+{
+  "records": [
+    {
+      "ID": 21721,
+      "Speaker": "T",
+      "Turn": 25,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to provide the explicit value for x."
+    },
+    {
+      "ID": 21724,
+      "Speaker": "T",
+      "Turn": 28,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student’s answer ('three') and frames it as the final result."
+    },
+    {
+      "ID": 21725,
+      "Speaker": "T",
+      "Turn": 28,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the next procedural step."
+    },
+    {
+      "ID": 21727,
+      "Speaker": "T",
+      "Turn": 30,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21730,
+      "Speaker": "T",
+      "Turn": 33,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21731,
+      "Speaker": "T",
+      "Turn": 33,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21733,
+      "Speaker": "T",
+      "Turn": 35,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher restates the student’s substitution idea as checking the answer."
+    },
+    {
+      "ID": 21734,
+      "Speaker": "T",
+      "Turn": 35,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher paraphrases the student’s method, adding detail about substituting 3 to see if it holds true."
+    },
+    {
+      "ID": 21735,
+      "Speaker": "T",
+      "Turn": 35,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks whether the left side equals 4, prompting a specific mathematical check."
+    },
+    {
+      "ID": 21736,
+      "Speaker": "T",
+      "Turn": 35,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21737,
+      "Speaker": "T",
+      "Turn": 35,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21738,
+      "Speaker": "T",
+      "Turn": 35,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21739,
+      "Speaker": "T",
+      "Turn": 35,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a student to identify the first step in the procedure."
+    },
+    {
+      "ID": 21740,
+      "Speaker": "T",
+      "Turn": 35,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21741,
+      "Speaker": "T",
+      "Turn": 35,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a student to state step one explicitly."
+    }
+  ]
+}

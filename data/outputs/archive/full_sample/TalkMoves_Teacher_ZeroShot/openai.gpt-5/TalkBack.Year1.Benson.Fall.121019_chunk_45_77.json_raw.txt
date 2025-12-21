@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 45,
+      "Speaker": "T",
+      "Turn": 45,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher presents a multiplication expression to compute, eliciting a mathematical contribution."
+    },
+    {
+      "ID": 48,
+      "Speaker": "T",
+      "Turn": 48,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 49,
+      "Speaker": "T",
+      "Turn": 49,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to specify the basic fact, using mathematical language."
+    },
+    {
+      "ID": 50,
+      "Speaker": "T",
+      "Turn": 50,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 51,
+      "Speaker": "T",
+      "Turn": 51,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 52,
+      "Speaker": "T",
+      "Turn": 52,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher paraphrases a student's contribution (e.g., 'I heard you say 56'), restating their idea for the class."
+    },
+    {
+      "ID": 53,
+      "Speaker": "T",
+      "Turn": 53,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher poses another multiplication expression to compute, eliciting a mathematical contribution."
+    },
+    {
+      "ID": 55,
+      "Speaker": "T",
+      "Turn": 55,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Asking 'Why, Clayton?' prompts the student to justify their thinking."
+    },
+    {
+      "ID": 56,
+      "Speaker": "T",
+      "Turn": 56,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks 'Why not 80?' to elicit an explanation for the choice."
+    },
+    {
+      "ID": 58,
+      "Speaker": "T",
+      "Turn": 58,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 59,
+      "Speaker": "T",
+      "Turn": 59,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to identify the underlying basic fact."
+    },
+    {
+      "ID": 60,
+      "Speaker": "T",
+      "Turn": 60,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher summarizes a student’s idea about adding zeros to the basic fact."
+    },
+    {
+      "ID": 61,
+      "Speaker": "T",
+      "Turn": 61,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Another multiplication expression is posed to elicit a mathematical answer."
+    },
+    {
+      "ID": 63,
+      "Speaker": "T",
+      "Turn": 63,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher presents an expression for students to compute."
+    },
+    {
+      "ID": 65,
+      "Speaker": "T",
+      "Turn": 65,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher presents an expression for students to compute."
+    },
+    {
+      "ID": 68,
+      "Speaker": "T",
+      "Turn": 68,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Asking why 48000 and not 4800 prompts justification of the answer."
+    },
+    {
+      "ID": 69,
+      "Speaker": "T",
+      "Turn": 69,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Directing 'Matt, why not?' presses the student to explain their reasoning."
+    },
+    {
+      "ID": 71,
+      "Speaker": "T",
+      "Turn": 71,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher restates the student’s explanation about adding four zeros to the basic fact."
+    },
+    {
+      "ID": 72,
+      "Speaker": "T",
+      "Turn": 72,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher presents an expression for students to compute."
+    },
+    {
+      "ID": 77,
+      "Speaker": "T",
+      "Turn": 77,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student’s answer ('24000') back to the class."
+    }
+  ]
+}

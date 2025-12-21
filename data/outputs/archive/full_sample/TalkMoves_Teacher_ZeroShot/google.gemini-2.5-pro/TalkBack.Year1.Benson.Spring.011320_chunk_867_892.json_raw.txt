@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 867,
+      "Speaker": "T",
+      "Turn": 867,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 868,
+      "Speaker": "T",
+      "Turn": 868,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 869,
+      "Speaker": "T",
+      "Turn": 869,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 871,
+      "Speaker": "T",
+      "Turn": 871,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's answer verbatim to amplify it for the class."
+    },
+    {
+      "ID": 872,
+      "Speaker": "T",
+      "Turn": 872,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher asks the whole class to check their work against a student's shared answer, ensuring everyone is at the same point in the activity."
+    },
+    {
+      "ID": 873,
+      "Speaker": "T",
+      "Turn": 873,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 874,
+      "Speaker": "T",
+      "Turn": 874,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 875,
+      "Speaker": "T",
+      "Turn": 875,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher uses a 'thumbs up' poll to check if all students have successfully completed the step, ensuring the group is ready to proceed together."
+    },
+    {
+      "ID": 876,
+      "Speaker": "T",
+      "Turn": 876,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to provide a specific mathematical value in a specific format ('as a fraction')."
+    },
+    {
+      "ID": 877,
+      "Speaker": "T",
+      "Turn": 877,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher reframes the question to help students make the correct mathematical contribution by reminding them of the whole ('a full circle')."
+    },
+    {
+      "ID": 879,
+      "Speaker": "T",
+      "Turn": 879,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's answer ('onethird') verbatim to make it public for the class to consider."
+    },
+    {
+      "ID": 880,
+      "Speaker": "T",
+      "Turn": 880,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher explicitly asks a second student ('Jen') to state whether she agrees or disagrees with the first student's ('Alice's') contribution."
+    },
+    {
+      "ID": 881,
+      "Speaker": "T",
+      "Turn": 881,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "This is a continuation of the previous turn, offering another way for a student to engage with a classmate's idea."
+    },
+    {
+      "ID": 883,
+      "Speaker": "T",
+      "Turn": 883,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to explain the thinking behind their agreement, prompting for justification."
+    },
+    {
+      "ID": 884,
+      "Speaker": "T",
+      "Turn": 884,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks a question to help the student build their explanation, scaffolding the reasoning process by asking for a key piece of evidence."
+    },
+    {
+      "ID": 886,
+      "Speaker": "T",
+      "Turn": 886,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's answer ('Twothirds') verbatim."
+    },
+    {
+      "ID": 887,
+      "Speaker": "T",
+      "Turn": 887,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher summarizes and connects two established ideas (two light greens fit on the piece, and the piece is worth two-thirds) to frame the next question."
+    },
+    {
+      "ID": 888,
+      "Speaker": "T",
+      "Turn": 888,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the class to explain the logic behind a student's answer, connecting it to previously established facts and prompting for justification."
+    },
+    {
+      "ID": 890,
+      "Speaker": "T",
+      "Turn": 890,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases the student's contribution in more formal mathematical language ('one of these is half of the two-thirds') to clarify the idea for the class."
+    },
+    {
+      "ID": 892,
+      "Speaker": "T",
+      "Turn": 892,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher interprets and clarifies a student's reasoning by making the mathematical logic explicit ('because half of two is one')."
+    }
+  ]
+}

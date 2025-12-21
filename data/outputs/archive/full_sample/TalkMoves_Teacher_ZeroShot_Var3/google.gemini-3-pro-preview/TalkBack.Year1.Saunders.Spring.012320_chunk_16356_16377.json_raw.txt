@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 16356,
+      "Speaker": "T",
+      "Turn": 16356,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 16357,
+      "Speaker": "T",
+      "Turn": 16357,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 16358,
+      "Speaker": "T",
+      "Turn": 16358,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to explain the process or method for finding the next value ('how do you find the one'), prompting for procedural reasoning."
+    },
+    {
+      "ID": 16359,
+      "Speaker": "T",
+      "Turn": 16359,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 16360,
+      "Speaker": "T",
+      "Turn": 16360,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 16361,
+      "Speaker": "T",
+      "Turn": 16361,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 16362,
+      "Speaker": "T",
+      "Turn": 16362,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 16363,
+      "Speaker": "T",
+      "Turn": 16363,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 16364,
+      "Speaker": "T",
+      "Turn": 16364,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher poses a hypothetical scenario ('If I asked you to multiply...') to prompt the student to explain their method or thinking process."
+    },
+    {
+      "ID": 16365,
+      "Speaker": "T",
+      "Turn": 16365,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 16366,
+      "Speaker": "T",
+      "Turn": 16366,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks a conceptual question about the order of operations ('Does it matter if I do that first...'), prompting the student to reason about mathematical properties."
+    },
+    {
+      "ID": 16368,
+      "Speaker": "T",
+      "Turn": 16368,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 16369,
+      "Speaker": "T",
+      "Turn": 16369,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 16370,
+      "Speaker": "T",
+      "Turn": 16370,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for a specific numerical answer ('what is the answer to this')."
+    },
+    {
+      "ID": 16371,
+      "Speaker": "T",
+      "Turn": 16371,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a specific calculation question ('Whats 2 x 3')."
+    },
+    {
+      "ID": 16373,
+      "Speaker": "T",
+      "Turn": 16373,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher continues the calculation prompt, asking for the next step in the computation."
+    },
+    {
+      "ID": 16374,
+      "Speaker": "T",
+      "Turn": 16374,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 16375,
+      "Speaker": "T",
+      "Turn": 16375,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases and interprets what a student (Trish) was saying to clarify her question or confusion ('what I dont know Trish is if what you were saying was...')."
+    },
+    {
+      "ID": 16376,
+      "Speaker": "T",
+      "Turn": 16376,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 16377,
+      "Speaker": "T",
+      "Turn": 16377,
+      "TalkMove": "None",
+      "Reasoning": null
+    }
+  ]
+}

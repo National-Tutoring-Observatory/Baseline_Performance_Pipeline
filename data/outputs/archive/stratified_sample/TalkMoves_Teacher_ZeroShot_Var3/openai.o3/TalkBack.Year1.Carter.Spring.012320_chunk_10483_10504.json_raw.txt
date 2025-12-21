@@ -1,0 +1,102 @@
+{
+  "records": [
+    {
+      "ID": 10483,
+      "Speaker": "T",
+      "Turn": 8,
+      "TalkMove": null
+    },
+    {
+      "ID": 10484,
+      "Speaker": "T",
+      "Turn": 8,
+      "TalkMove": null
+    },
+    {
+      "ID": 10485,
+      "Speaker": "T",
+      "Turn": 8,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks students to perform a precise mathematical task—round 715 to the nearest tenth—prompting an accurate numerical answer."
+    },
+    {
+      "ID": 10486,
+      "Speaker": "T",
+      "Turn": 8,
+      "TalkMove": null
+    },
+    {
+      "ID": 10487,
+      "Speaker": "T",
+      "Turn": 8,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher invites the entire class to respond in unison, ensuring all students are engaged and attending."
+    },
+    {
+      "ID": 10489,
+      "Speaker": "T",
+      "Turn": 10,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the students to justify why the rounded value is 72, eliciting their reasoning."
+    },
+    {
+      "ID": 10490,
+      "Speaker": "T",
+      "Turn": 10,
+      "TalkMove": null
+    },
+    {
+      "ID": 10493,
+      "Speaker": "T",
+      "Turn": 12,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks the student to specify which ‘five or more’ and identify the exact place value, pushing for precise mathematical language."
+    },
+    {
+      "ID": 10494,
+      "Speaker": "T",
+      "Turn": 12,
+      "TalkMove": null
+    },
+    {
+      "ID": 10495,
+      "Speaker": "T",
+      "Turn": 12,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher again prompts the student to state the correct place value to examine, insisting on precise details."
+    },
+    {
+      "ID": 10497,
+      "Speaker": "T",
+      "Turn": 14,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks why a five requires rounding up, pushing the student to explain the underlying rule."
+    },
+    {
+      "ID": 10500,
+      "Speaker": "T",
+      "Turn": 16,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher further probes for an explanation of the ‘five or more’ rule, requesting the logic behind it."
+    },
+    {
+      "ID": 10501,
+      "Speaker": "T",
+      "Turn": 17,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher restates and slightly elaborates on the student’s idea—that numbers in a certain range round up—paraphrasing the student’s reasoning to clarify it for the class."
+    },
+    {
+      "ID": 10503,
+      "Speaker": "T",
+      "Turn": 19,
+      "TalkMove": null
+    },
+    {
+      "ID": 10504,
+      "Speaker": "T",
+      "Turn": 19,
+      "TalkMove": null
+    }
+  ]
+}

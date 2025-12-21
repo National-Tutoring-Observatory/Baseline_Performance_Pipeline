@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 965,
+      "Speaker": "T",
+      "Turn": 965,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 966,
+      "Speaker": "T",
+      "Turn": 966,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases a student's (Maddox's) idea about splitting a piece and connects it to the next step in the task."
+    },
+    {
+      "ID": 967,
+      "Speaker": "T",
+      "Turn": 967,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to identify the correct mathematical piece by asking a specific, fact-based question."
+    },
+    {
+      "ID": 968,
+      "Speaker": "T",
+      "Turn": 968,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher continues to prompt the student to identify the correct mathematical piece by offering another specific option."
+    },
+    {
+      "ID": 969,
+      "Speaker": "T",
+      "Turn": 969,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher continues the sequence of prompts for the student to identify the correct mathematical piece."
+    },
+    {
+      "ID": 970,
+      "Speaker": "T",
+      "Turn": 970,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a direct question to elicit the specific, correct answer from the student."
+    },
+    {
+      "ID": 971,
+      "Speaker": "T",
+      "Turn": 971,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 973,
+      "Speaker": "T",
+      "Turn": 973,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 974,
+      "Speaker": "T",
+      "Turn": 974,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases the group's finding by stating the mathematical relationship they just discovered, clarifying the implication of the previous answer."
+    },
+    {
+      "ID": 975,
+      "Speaker": "T",
+      "Turn": 975,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a direct question that requires a specific and accurate mathematical answer (the fractional value)."
+    },
+    {
+      "ID": 976,
+      "Speaker": "T",
+      "Turn": 976,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats a previous contribution from a student (Maddox) to bring it back into the current conversation."
+    },
+    {
+      "ID": 977,
+      "Speaker": "T",
+      "Turn": 977,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 978,
+      "Speaker": "T",
+      "Turn": 978,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 979,
+      "Speaker": "T",
+      "Turn": 979,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 980,
+      "Speaker": "T",
+      "Turn": 980,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 981,
+      "Speaker": "T",
+      "Turn": 981,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a question to prompt students to evaluate the current result against the definition of the whole, pressing for a correct assessment."
+    },
+    {
+      "ID": 982,
+      "Speaker": "T",
+      "Turn": 982,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a direct question to elicit the specific mathematical value that represents the whole."
+    },
+    {
+      "ID": 984,
+      "Speaker": "T",
+      "Turn": 984,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's answer ('5/5') and then adds on to it, connecting it to the next step of the problem."
+    },
+    {
+      "ID": 985,
+      "Speaker": "T",
+      "Turn": 985,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a direct question to elicit the specific name of the shape being used as the whole."
+    },
+    {
+      "ID": 988,
+      "Speaker": "T",
+      "Turn": 988,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

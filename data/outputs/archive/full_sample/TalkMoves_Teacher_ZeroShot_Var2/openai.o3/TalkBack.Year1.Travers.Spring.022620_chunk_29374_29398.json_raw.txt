@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 29374,
+      "Speaker": "T",
+      "Turn": 29374,
+      "TalkMove": "Restating",
+      "Reasoning": "Teacher repeats the student’s contribution about the formula exactly (“Length times width”), echoing the student’s words."
+    },
+    {
+      "ID": 29376,
+      "Speaker": "T",
+      "Turn": 29376,
+      "TalkMove": "Restating",
+      "Reasoning": "Teacher continues repeating the student’s formula by adding the next exact phrase (“Then times the height”)."
+    },
+    {
+      "ID": 29378,
+      "Speaker": "T",
+      "Turn": 29378,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 29379,
+      "Speaker": "T",
+      "Turn": 29379,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 29380,
+      "Speaker": "T",
+      "Turn": 29380,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher asks, “How would you find the volume of this?” prompting the student to explain the procedure and thinking."
+    },
+    {
+      "ID": 29382,
+      "Speaker": "T",
+      "Turn": 29382,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher queries whether the method will always work, asking students to justify the generality of their strategy."
+    },
+    {
+      "ID": 29384,
+      "Speaker": "T",
+      "Turn": 29384,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 29385,
+      "Speaker": "T",
+      "Turn": 29385,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 29387,
+      "Speaker": "T",
+      "Turn": 29387,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 29388,
+      "Speaker": "T",
+      "Turn": 29388,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 29389,
+      "Speaker": "T",
+      "Turn": 29389,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 29390,
+      "Speaker": "T",
+      "Turn": 29390,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 29391,
+      "Speaker": "T",
+      "Turn": 29391,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 29392,
+      "Speaker": "T",
+      "Turn": 29392,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 29393,
+      "Speaker": "T",
+      "Turn": 29393,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 29394,
+      "Speaker": "T",
+      "Turn": 29394,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 29395,
+      "Speaker": "T",
+      "Turn": 29395,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher asks whether the same strategy can find the volume of a croquet ball, prompting students to reason about applicability."
+    },
+    {
+      "ID": 29396,
+      "Speaker": "T",
+      "Turn": 29396,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 29397,
+      "Speaker": "T",
+      "Turn": 29397,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher repeats the question to encourage students to think and provide justification."
+    },
+    {
+      "ID": 29398,
+      "Speaker": "T",
+      "Turn": 29398,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "By reminding students they have a thinking partner, the teacher orients all students to participate and listen to each other."
+    }
+  ]
+}

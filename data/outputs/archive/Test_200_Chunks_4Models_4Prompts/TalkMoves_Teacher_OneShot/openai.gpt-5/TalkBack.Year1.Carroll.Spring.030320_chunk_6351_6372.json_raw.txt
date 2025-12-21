@@ -1,0 +1,109 @@
+{
+  "records": [
+    {
+      "ID": 6353,
+      "Speaker": "T",
+      "Turn": 27,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Revoices the student's 'It's nine' and adds the reason about totaling all boxes."
+    },
+    {
+      "ID": 6354,
+      "Speaker": "T",
+      "Turn": 27,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Paraphrases Sophia's idea, attributing she looked at only six boxes."
+    },
+    {
+      "ID": 6355,
+      "Speaker": "T",
+      "Turn": 27,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 6356,
+      "Speaker": "T",
+      "Turn": 27,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 6357,
+      "Speaker": "T",
+      "Turn": 27,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 6358,
+      "Speaker": "T",
+      "Turn": 28,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 6359,
+      "Speaker": "T",
+      "Turn": 28,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Prompts teams to decide which expression produces the larger product."
+    },
+    {
+      "ID": 6360,
+      "Speaker": "T",
+      "Turn": 28,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Asks for justification with 'how do you know.'"
+    },
+    {
+      "ID": 6361,
+      "Speaker": "T",
+      "Turn": 28,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Prompts teams to determine which is larger."
+    },
+    {
+      "ID": 6362,
+      "Speaker": "T",
+      "Turn": 28,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Requests the team's chosen product, seeking a precise mathematical claim."
+    },
+    {
+      "ID": 6363,
+      "Speaker": "T",
+      "Turn": 28,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 6365,
+      "Speaker": "T",
+      "Turn": 30,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Paraphrases the student's claim that 12×13 is bigger."
+    },
+    {
+      "ID": 6368,
+      "Speaker": "T",
+      "Turn": 32,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Asks the student to explain their reasoning."
+    },
+    {
+      "ID": 6371,
+      "Speaker": "T",
+      "Turn": 34,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 6372,
+      "Speaker": "T",
+      "Turn": 34,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks Team Two which one they picked, eliciting a specific mathematical choice."
+    }
+  ]
+}

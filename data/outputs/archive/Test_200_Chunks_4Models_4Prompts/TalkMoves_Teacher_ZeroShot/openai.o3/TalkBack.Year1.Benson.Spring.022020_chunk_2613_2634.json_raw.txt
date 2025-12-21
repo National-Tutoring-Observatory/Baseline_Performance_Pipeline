@@ -1,0 +1,126 @@
+{
+  "records": [
+    {
+      "ID": 2613,
+      "Speaker": "T",
+      "Turn": 56
+    },
+    {
+      "ID": 2614,
+      "Speaker": "T",
+      "Turn": 56,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Teacher directs all students to focus on the problem, encouraging collective attention."
+    },
+    {
+      "ID": 2615,
+      "Speaker": "S",
+      "Turn": 57
+    },
+    {
+      "ID": 2616,
+      "Speaker": "T",
+      "Turn": 58,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student’s idea ('multiply') and elaborates by specifying 'nine times,' rephrasing and extending the student’s contribution."
+    },
+    {
+      "ID": 2617,
+      "Speaker": "T",
+      "Turn": 58,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks whether writing the answer before the equal sign is acceptable, prompting attention to correct mathematical notation."
+    },
+    {
+      "ID": 2618,
+      "Speaker": "S",
+      "Turn": 59
+    },
+    {
+      "ID": 2619,
+      "Speaker": "T",
+      "Turn": 60
+    },
+    {
+      "ID": 2620,
+      "Speaker": "T",
+      "Turn": 60
+    },
+    {
+      "ID": 2621,
+      "Speaker": "T",
+      "Turn": 60
+    },
+    {
+      "ID": 2622,
+      "Speaker": "T",
+      "Turn": 60
+    },
+    {
+      "ID": 2623,
+      "Speaker": "T",
+      "Turn": 60
+    },
+    {
+      "ID": 2624,
+      "Speaker": "T",
+      "Turn": 60
+    },
+    {
+      "ID": 2625,
+      "Speaker": "T",
+      "Turn": 61
+    },
+    {
+      "ID": 2626,
+      "Speaker": "T",
+      "Turn": 61
+    },
+    {
+      "ID": 2627,
+      "Speaker": "T",
+      "Turn": 61
+    },
+    {
+      "ID": 2628,
+      "Speaker": "T",
+      "Turn": 61
+    },
+    {
+      "ID": 2629,
+      "Speaker": "T",
+      "Turn": 62,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks students to identify the shapes precisely, eliciting a correct mathematical term."
+    },
+    {
+      "ID": 2630,
+      "Speaker": "S",
+      "Turn": 63
+    },
+    {
+      "ID": 2631,
+      "Speaker": "T",
+      "Turn": 64,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher checks whether the current task involves fractions, prompting students to clarify the mathematical context."
+    },
+    {
+      "ID": 2632,
+      "Speaker": "S",
+      "Turn": 65
+    },
+    {
+      "ID": 2633,
+      "Speaker": "T",
+      "Turn": 66,
+      "TalkMove": "Restating",
+      "Reasoning": "Teacher repeats the student's response 'triangle(s)' almost verbatim."
+    },
+    {
+      "ID": 2634,
+      "Speaker": "T",
+      "Turn": 66
+    }
+  ]
+}

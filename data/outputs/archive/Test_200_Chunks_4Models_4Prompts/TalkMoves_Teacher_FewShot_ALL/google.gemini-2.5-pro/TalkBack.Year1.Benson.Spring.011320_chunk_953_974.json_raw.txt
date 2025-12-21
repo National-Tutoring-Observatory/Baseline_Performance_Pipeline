@@ -1,0 +1,130 @@
+{
+  "records": [
+    {
+      "ID": 953,
+      "Turn": 266,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 954,
+      "Turn": 266,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 955,
+      "Turn": 266,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for a specific mathematical contribution by asking 'how many would it take to make the whole thing'."
+    },
+    {
+      "ID": 957,
+      "Turn": 268,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's answer 'Two' and adds a follow-up question to guide the next step in their thinking."
+    },
+    {
+      "ID": 959,
+      "Turn": 270,
+      "Speaker": "T",
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's contribution 'One pink' verbatim."
+    },
+    {
+      "ID": 960,
+      "Turn": 270,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 961,
+      "Turn": 270,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 962,
+      "Turn": 270,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to explain their process by saying 'talk to me about what I have to do'."
+    },
+    {
+      "ID": 963,
+      "Turn": 270,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks a specific student to share their thinking by asking 'what did you do to figure out what 55 would be'."
+    },
+    {
+      "ID": 965,
+      "Turn": 272,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher takes a number from the student's utterance, rephrases it as a question, and seeks confirmation, thereby clarifying the student's idea."
+    },
+    {
+      "ID": 966,
+      "Turn": 272,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher interprets and rephrases the student's idea for the class, stating 'Maddox is saying we have to split that dark green into two equal parts'."
+    },
+    {
+      "ID": 967,
+      "Turn": 272,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to make a specific mathematical contribution by naming the correct piece."
+    },
+    {
+      "ID": 968,
+      "Turn": 272,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to make a specific mathematical contribution by naming the correct piece."
+    },
+    {
+      "ID": 969,
+      "Turn": 272,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to make a specific mathematical contribution by naming the correct piece."
+    },
+    {
+      "ID": 970,
+      "Turn": 272,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to make a specific mathematical contribution by naming the correct piece."
+    },
+    {
+      "ID": 971,
+      "Turn": 272,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 973,
+      "Turn": 274,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's answer 'Purple' but adds framing to confirm the idea for the class."
+    },
+    {
+      "ID": 974,
+      "Turn": 274,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher takes the student's one-word answer and rephrases it as a complete mathematical statement, adding clarification."
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 10212,
+      "Speaker": "T",
+      "Turn": 10212,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases a student's likely calculation (8 divided by 4) and connects it to the mathematical concept of finding '1/4 of eight'."
+    },
+    {
+      "ID": 10213,
+      "Speaker": "T",
+      "Turn": 10213,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher points out that the student's answer is incomplete and prompts them to consider the full problem (finding 3/4, not just 1/4)."
+    },
+    {
+      "ID": 10214,
+      "Speaker": "T",
+      "Turn": 10214,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher clarifies the mathematical goal of the problem to guide the student toward a correct and complete solution."
+    },
+    {
+      "ID": 10215,
+      "Speaker": "T",
+      "Turn": 10215,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher restates the intermediate step and points toward the next step required for a complete and accurate answer."
+    },
+    {
+      "ID": 10216,
+      "Speaker": "T",
+      "Turn": 10216,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher uses a single-word prompt to push the student to provide the next step in their calculation."
+    },
+    {
+      "ID": 10218,
+      "Speaker": "T",
+      "Turn": 10218,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher explicitly states the required calculation but leaves it incomplete, prompting the student to provide the correct numerical answer."
+    },
+    {
+      "ID": 10220,
+      "Speaker": "T",
+      "Turn": 10220,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher repeats the prompt for the student to complete the calculation and provide the correct numerical answer."
+    },
+    {
+      "ID": 10222,
+      "Speaker": "T",
+      "Turn": 10222,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher directly asks the student to articulate their understanding of the process, prompting them to share their thinking."
+    },
+    {
+      "ID": 10223,
+      "Speaker": "T",
+      "Turn": 10223,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 10224,
+      "Speaker": "T",
+      "Turn": 10224,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 10225,
+      "Speaker": "T",
+      "Turn": 10225,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher points out a similarity in students' strategies, orienting them to each other's work."
+    },
+    {
+      "ID": 10226,
+      "Speaker": "T",
+      "Turn": 10226,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 10228,
+      "Speaker": "T",
+      "Turn": 10228,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts the student to identify and explain the correction needed in their own work, pushing them to articulate their thinking."
+    },
+    {
+      "ID": 10230,
+      "Speaker": "T",
+      "Turn": 10230,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 10231,
+      "Speaker": "T",
+      "Turn": 10231,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 10232,
+      "Speaker": "T",
+      "Turn": 10232,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 10233,
+      "Speaker": "T",
+      "Turn": 10233,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 10234,
+      "Speaker": "T",
+      "Turn": 10234,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 10235,
+      "Speaker": "T",
+      "Turn": 10235,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher uses a direct and open-ended prompt for the student to explain their thinking and their work."
+    },
+    {
+      "ID": 10236,
+      "Speaker": "T",
+      "Turn": 10236,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a direct question to elicit a specific mathematical fact needed to solve the problem."
+    }
+  ]
+}

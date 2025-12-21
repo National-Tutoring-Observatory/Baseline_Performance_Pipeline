@@ -1,0 +1,312 @@
+{
+  "records": [
+    {
+      "ID": 27672,
+      "Speaker": "T",
+      "Turn": 68,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 27673,
+      "Speaker": "T",
+      "Turn": 68,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Instructs all students to check their own whiteboards, explicitly directing collective attention to the task."
+    },
+    {
+      "ID": 27674,
+      "Speaker": "T",
+      "Turn": 68,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks students to verify if what they have written is the correct quotient."
+    },
+    {
+      "ID": 27676,
+      "Speaker": "T",
+      "Turn": 70,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Reminds the whole class that they are checking their boards, coordinating group attention."
+    },
+    {
+      "ID": 27677,
+      "Speaker": "T",
+      "Turn": 70,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 27678,
+      "Speaker": "T",
+      "Turn": 70,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 27679,
+      "Speaker": "T",
+      "Turn": 70,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Prompts all students to think silently, engaging everyone in the upcoming task."
+    },
+    {
+      "ID": 27680,
+      "Speaker": "T",
+      "Turn": 70,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 27681,
+      "Speaker": "T",
+      "Turn": 71,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Requests a specific answer (direction of decimal movement)."
+    },
+    {
+      "ID": 27683,
+      "Speaker": "T",
+      "Turn": 72,
+      "TalkMove": "Restating",
+      "Reasoning": "Repeats the student’s one-word response \"Right\" verbatim."
+    },
+    {
+      "ID": 27684,
+      "Speaker": "T",
+      "Turn": 72,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks students to state the exact number of place values the decimal moves."
+    },
+    {
+      "ID": 27686,
+      "Speaker": "T",
+      "Turn": 74,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Directs all students to check their boards and reveals the correct answer, ensuring collective alignment."
+    },
+    {
+      "ID": 27687,
+      "Speaker": "T",
+      "Turn": 74,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 27688,
+      "Speaker": "T",
+      "Turn": 74,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 27689,
+      "Speaker": "T",
+      "Turn": 75,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Instructs the whole class to check their boards, maintaining collective engagement."
+    },
+    {
+      "ID": 27690,
+      "Speaker": "T",
+      "Turn": 75,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 27691,
+      "Speaker": "T",
+      "Turn": 75,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 27692,
+      "Speaker": "T",
+      "Turn": 75,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 27693,
+      "Speaker": "T",
+      "Turn": 75,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Calls attention to a possible repetition of a problem to keep the class thinking together."
+    },
+    {
+      "ID": 27694,
+      "Speaker": "T",
+      "Turn": 75,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 27695,
+      "Speaker": "T",
+      "Turn": 75,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 27696,
+      "Speaker": "T",
+      "Turn": 75,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 27697,
+      "Speaker": "T",
+      "Turn": 75,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 27698,
+      "Speaker": "T",
+      "Turn": 75,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Poses a specific directional question about the decimal’s movement, seeking a correct answer."
+    },
+    {
+      "ID": 27699,
+      "Speaker": "T",
+      "Turn": 75,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Further specifies the accuracy request: left or right shift of the decimal."
+    },
+    {
+      "ID": 27701,
+      "Speaker": "T",
+      "Turn": 77,
+      "TalkMove": "Restating",
+      "Reasoning": "Echoes the student’s response \"Left\" nearly word-for-word."
+    },
+    {
+      "ID": 27702,
+      "Speaker": "T",
+      "Turn": 77,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Rephrases the idea that the decimal moves left and elaborates by linking it to division making the quotient smaller."
+    },
+    {
+      "ID": 27703,
+      "Speaker": "T",
+      "Turn": 77,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks for the exact number of places to shift, prompting a precise mathematical response."
+    },
+    {
+      "ID": 27704,
+      "Speaker": "T",
+      "Turn": 77,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Encourages the whole class to vocalize the answer simultaneously, fostering collective participation."
+    },
+    {
+      "ID": 27706,
+      "Speaker": "T",
+      "Turn": 79,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Asks students if they have used a particular strategy ('the hops'), prompting reflection on their methods."
+    },
+    {
+      "ID": 27707,
+      "Speaker": "T",
+      "Turn": 79,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 27708,
+      "Speaker": "T",
+      "Turn": 79,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 27709,
+      "Speaker": "T",
+      "Turn": 79,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 27710,
+      "Speaker": "T",
+      "Turn": 79,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 27711,
+      "Speaker": "T",
+      "Turn": 79,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks students to provide the exact numerical answer."
+    },
+    {
+      "ID": 27712,
+      "Speaker": "T",
+      "Turn": 79,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Invites the class to read the answer together, aligning collective participation."
+    },
+    {
+      "ID": 27713,
+      "Speaker": "T",
+      "Turn": 79,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 27714,
+      "Speaker": "T",
+      "Turn": 79,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 27716,
+      "Speaker": "T",
+      "Turn": 81,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 27717,
+      "Speaker": "T",
+      "Turn": 81,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 27718,
+      "Speaker": "T",
+      "Turn": 81,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 27719,
+      "Speaker": "T",
+      "Turn": 81,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 27720,
+      "Speaker": "T",
+      "Turn": 81,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 27721,
+      "Speaker": "T",
+      "Turn": 81,
+      "TalkMove": "None",
+      "Reasoning": null
+    }
+  ]
+}

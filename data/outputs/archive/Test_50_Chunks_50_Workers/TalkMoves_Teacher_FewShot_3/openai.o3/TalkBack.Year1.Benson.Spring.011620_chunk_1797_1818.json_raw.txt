@@ -1,0 +1,128 @@
+{
+  "records": [
+    {
+      "ID": 1797,
+      "Speaker": "T",
+      "Turn": 128,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the exact number of eighths that compose one pound, prompting a precise mathematical fact."
+    },
+    {
+      "ID": 1798,
+      "Speaker": "T",
+      "Turn": 128,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "By repeating the question 'how many eights does it take,' the teacher is again eliciting a specific numeric answer."
+    },
+    {
+      "ID": 1799,
+      "Speaker": "S",
+      "Turn": 129
+    },
+    {
+      "ID": 1800,
+      "Speaker": "T",
+      "Turn": 130,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student’s response 'Eight eights' exactly."
+    },
+    {
+      "ID": 1801,
+      "Speaker": "T",
+      "Turn": 130,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases the student’s answer and adds clarification: 'Eight eights equals one whole pound.'"
+    },
+    {
+      "ID": 1802,
+      "Speaker": "T",
+      "Turn": 130,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1803,
+      "Speaker": "T",
+      "Turn": 130,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1804,
+      "Speaker": "T",
+      "Turn": 130,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1805,
+      "Speaker": "T",
+      "Turn": 130,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1807,
+      "Speaker": "T",
+      "Turn": 132,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1808,
+      "Speaker": "T",
+      "Turn": 132,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher explicitly asks, 'how many eighths is 1 whole,' seeking the correct numeric value."
+    },
+    {
+      "ID": 1810,
+      "Speaker": "T",
+      "Turn": 134,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1811,
+      "Speaker": "T",
+      "Turn": 134,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1812,
+      "Speaker": "T",
+      "Turn": 134,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1813,
+      "Speaker": "T",
+      "Turn": 134,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the exact sum of 8 plus 8, prompting a specific calculation."
+    },
+    {
+      "ID": 1815,
+      "Speaker": "T",
+      "Turn": 136,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1816,
+      "Speaker": "T",
+      "Turn": 136,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks, 'anyone know what you get?' after summing eighths, requesting the precise total."
+    },
+    {
+      "ID": 1817,
+      "Speaker": "T",
+      "Turn": 137,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher poses 'what's 19 plus 15,' soliciting the exact numeric result."
+    }
+  ]
+}

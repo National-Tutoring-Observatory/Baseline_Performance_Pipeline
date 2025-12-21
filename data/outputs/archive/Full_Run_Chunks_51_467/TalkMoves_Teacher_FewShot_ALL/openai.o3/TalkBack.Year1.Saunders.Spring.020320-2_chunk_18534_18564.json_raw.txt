@@ -1,0 +1,165 @@
+{
+  "records": [
+    {
+      "ID": 18534,
+      "Speaker": "T",
+      "Turn": 123,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18535,
+      "Speaker": "T",
+      "Turn": 123,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks students to specify what factor can be taken out of the first two terms, prompting a precise mathematical contribution."
+    },
+    {
+      "ID": 18537,
+      "Speaker": "T",
+      "Turn": 125,
+      "TalkMove": "Restating",
+      "Reasoning": "Teacher repeats the student’s answer \"x2\" verbatim."
+    },
+    {
+      "ID": 18538,
+      "Speaker": "T",
+      "Turn": 125,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks what remains in the parentheses, eliciting a specific mathematical result."
+    },
+    {
+      "ID": 18542,
+      "Speaker": "T",
+      "Turn": 128,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher prompts students to state what factor can be taken out, seeking a specific mathematical answer."
+    },
+    {
+      "ID": 18543,
+      "Speaker": "T",
+      "Turn": 129,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks, \"What’s left?\" requesting the exact remaining terms."
+    },
+    {
+      "ID": 18544,
+      "Speaker": "T",
+      "Turn": 130,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18545,
+      "Speaker": "T",
+      "Turn": 131,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18546,
+      "Speaker": "T",
+      "Turn": 131,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks students to identify the common factor, seeking a precise mathematical response."
+    },
+    {
+      "ID": 18548,
+      "Speaker": "T",
+      "Turn": 132,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher restates the student’s suggestion, modifying it from \"x2\" to \"an x,\" clarifying the idea."
+    },
+    {
+      "ID": 18549,
+      "Speaker": "T",
+      "Turn": 132,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18550,
+      "Speaker": "T",
+      "Turn": 132,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18551,
+      "Speaker": "T",
+      "Turn": 132,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18552,
+      "Speaker": "T",
+      "Turn": 132,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18553,
+      "Speaker": "T",
+      "Turn": 132,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18554,
+      "Speaker": "T",
+      "Turn": 133,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18555,
+      "Speaker": "T",
+      "Turn": 133,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks what remains after factoring, prompting students for a specific mathematical result."
+    },
+    {
+      "ID": 18558,
+      "Speaker": "T",
+      "Turn": 134,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18559,
+      "Speaker": "T",
+      "Turn": 134,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks if the factoring is complete, seeking a correct yes/no evaluation."
+    },
+    {
+      "ID": 18561,
+      "Speaker": "T",
+      "Turn": 136,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks what can still be factored, eliciting a precise mathematical contribution."
+    },
+    {
+      "ID": 18562,
+      "Speaker": "T",
+      "Turn": 136,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18563,
+      "Speaker": "T",
+      "Turn": 136,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18564,
+      "Speaker": "T",
+      "Turn": 136,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

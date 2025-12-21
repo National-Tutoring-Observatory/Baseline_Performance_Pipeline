@@ -1,0 +1,137 @@
+{
+  "records": [
+    {
+      "ID": 12014,
+      "Turn": 79,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12015,
+      "Turn": 80,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts students to verify if their proposed rule is valid across multiple examples, asking them to provide evidence for their thinking."
+    },
+    {
+      "ID": 12017,
+      "Turn": 82,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12018,
+      "Turn": 82,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12019,
+      "Turn": 82,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12020,
+      "Turn": 82,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12021,
+      "Turn": 82,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12022,
+      "Turn": 82,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12023,
+      "Turn": 82,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12024,
+      "Turn": 82,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12026,
+      "Turn": 84,
+      "Speaker": "T",
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's contribution ('Denominator') verbatim."
+    },
+    {
+      "ID": 12027,
+      "Turn": 84,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher explains the value of using precise mathematical vocabulary, which encourages students to use accurate language in their explanations."
+    },
+    {
+      "ID": 12028,
+      "Turn": 84,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12030,
+      "Turn": 86,
+      "Speaker": "T",
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's contribution ('Algorithm') verbatim."
+    },
+    {
+      "ID": 12031,
+      "Turn": 86,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12032,
+      "Turn": 86,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12033,
+      "Turn": 86,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks a question to get students to reason about the specific requirements of the algorithm for multiplying fractions."
+    },
+    {
+      "ID": 12034,
+      "Turn": 86,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher rephrases the previous question, pressing students to analyze their rule and explain if it involves a common denominator."
+    },
+    {
+      "ID": 12035,
+      "Turn": 86,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

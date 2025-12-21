@@ -1,0 +1,158 @@
+{
+  "records": [
+    {
+      "ID": 10215,
+      "Speaker": "T",
+      "Turn": 227,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10216,
+      "Speaker": "T",
+      "Turn": 227,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10218,
+      "Speaker": "T",
+      "Turn": 229,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks for the numerical result of 2 × 3, prompting the student to give the correct computation."
+    },
+    {
+      "ID": 10220,
+      "Speaker": "T",
+      "Turn": 231,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Repeats the request for the exact value of 2 × 3, again pressing the student to state the correct answer."
+    },
+    {
+      "ID": 10222,
+      "Speaker": "T",
+      "Turn": 233,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Asks, “Can you see why,” inviting the student to explain the reasoning behind their calculation."
+    },
+    {
+      "ID": 10223,
+      "Speaker": "T",
+      "Turn": 233,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10224,
+      "Speaker": "T",
+      "Turn": 233,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10225,
+      "Speaker": "T",
+      "Turn": 233,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10226,
+      "Speaker": "T",
+      "Turn": 233,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10228,
+      "Speaker": "T",
+      "Turn": 235,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to articulate their 'fix up,' prompting an explanation of their thinking."
+    },
+    {
+      "ID": 10230,
+      "Speaker": "T",
+      "Turn": 237,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10231,
+      "Speaker": "T",
+      "Turn": 238,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10232,
+      "Speaker": "T",
+      "Turn": 238,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10233,
+      "Speaker": "T",
+      "Turn": 238,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10234,
+      "Speaker": "T",
+      "Turn": 238,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10235,
+      "Speaker": "T",
+      "Turn": 238,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Saying “Talk to me about this” prompts the student to explain their thinking in more detail."
+    },
+    {
+      "ID": 10236,
+      "Speaker": "T",
+      "Turn": 238,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks directly for the value of 1/4 of 8, requesting a specific correct answer."
+    },
+    {
+      "ID": 10238,
+      "Speaker": "T",
+      "Turn": 239,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10240,
+      "Speaker": "T",
+      "Turn": 241,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher notes the student also has 3/4, nudging them to calculate the correct corresponding value."
+    },
+    {
+      "ID": 10241,
+      "Speaker": "T",
+      "Turn": 241,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks, “So… what would 3/4 be?” prompting the student to produce the precise numerical answer."
+    },
+    {
+      "ID": 10243,
+      "Speaker": "T",
+      "Turn": 243,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10244,
+      "Speaker": "T",
+      "Turn": 243,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "records": [
+    {
+      "ID": 21820,
+      "Turn": 75,
+      "Speaker": "S",
+      "Sentence": "Understand how extraneous solutions can be introduced"
+    },
+    {
+      "ID": 21821,
+      "Turn": 75,
+      "Speaker": "S",
+      "Sentence": "Consider the equation  x3"
+    },
+    {
+      "ID": 21822,
+      "Turn": 75,
+      "Speaker": "S",
+      "Sentence": "This equation has no real solution"
+    },
+    {
+      "ID": 21823,
+      "Turn": 75,
+      "Speaker": "S",
+      "Sentence": "However you obtain x9 after squaring each side"
+    },
+    {
+      "ID": 21824,
+      "Turn": 76,
+      "Speaker": "T",
+      "Sentence": "In this particular example Brittany whats step one",
+      "TalkMove": "Pressing for Accuracy"
+    },
+    {
+      "ID": 21825,
+      "Turn": 77,
+      "Speaker": "S",
+      "Sentence": "Isolate the thing"
+    },
+    {
+      "ID": 21826,
+      "Turn": 78,
+      "Speaker": "T",
+      "Sentence": "Isolate the",
+      "TalkMove": "Pressing for Accuracy"
+    },
+    {
+      "ID": 21827,
+      "Turn": 78,
+      "Speaker": "T",
+      "Sentence": "Weve isolated the radical so step two then",
+      "TalkMove": "Revoicing"
+    },
+    {
+      "ID": 21828,
+      "Turn": 79,
+      "Speaker": "S",
+      "Sentence": "Get rid of the radical"
+    },
+    {
+      "ID": 21829,
+      "Turn": 80,
+      "Speaker": "T",
+      "Sentence": "Get rid of the radical so in this case we would raise it to",
+      "TalkMove": "Revoicing"
+    },
+    {
+      "ID": 21830,
+      "Turn": 81,
+      "Speaker": "S",
+      "Sentence": "A second power"
+    },
+    {
+      "ID": 21831,
+      "Turn": 82,
+      "Speaker": "T",
+      "Sentence": "A second power and we would end up with x29",
+      "TalkMove": "Revoicing"
+    },
+    {
+      "ID": 21832,
+      "Turn": 83,
+      "Speaker": "S",
+      "Sentence": "Yes"
+    },
+    {
+      "ID": 21833,
+      "Turn": 83,
+      "Speaker": "S",
+      "Sentence": "Wait what"
+    },
+    {
+      "ID": 21834,
+      "Turn": 84,
+      "Speaker": "S",
+      "Sentence": "No x9"
+    },
+    {
+      "ID": 21835,
+      "Turn": 85,
+      "Speaker": "T",
+      "Sentence": "Im sorry yes x9",
+      "TalkMove": null
+    },
+    {
+      "ID": 21836,
+      "Turn": 85,
+      "Speaker": "T",
+      "Sentence": "If I plug nine back in here whats  9",
+      "TalkMove": "Pressing for Accuracy"
+    },
+    {
+      "ID": 21837,
+      "Turn": 86,
+      "Speaker": "S",
+      "Sentence": "Three"
+    },
+    {
+      "ID": 21838,
+      "Turn": 87,
+      "Speaker": "T",
+      "Sentence": "Three",
+      "TalkMove": "Restating"
+    },
+    {
+      "ID": 21839,
+      "Turn": 87,
+      "Speaker": "T",
+      "Sentence": "Thats where were",
+      "TalkMove": null
+    },
+    {
+      "ID": 21840,
+      "Turn": 87,
+      "Speaker": "T",
+      "Sentence": "Thats showing us that you dont always get the right answer in these problems and so were going to go through some of those",
+      "TalkMove": null
+    },
+    {
+      "ID": 21841,
+      "Turn": 88,
+      "Speaker": "S",
+      "Sentence": "Technicallycould you just not check it and understand that if its equal to a negative then its not going to have a solution"
+    }
+  ]
+}

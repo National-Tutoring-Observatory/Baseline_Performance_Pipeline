@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 12697,
+      "Speaker": "T",
+      "Turn": 12697,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12698,
+      "Speaker": "T",
+      "Turn": 12698,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12699,
+      "Speaker": "T",
+      "Turn": 12699,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher explicitly asks Lennox to explain their thinking, requesting justification."
+    },
+    {
+      "ID": 12700,
+      "Speaker": "T",
+      "Turn": 12700,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Asks student to explain why they think the number is a whole, probing underlying reasoning."
+    },
+    {
+      "ID": 12702,
+      "Speaker": "T",
+      "Turn": 12702,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12703,
+      "Speaker": "T",
+      "Turn": 12703,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks students to classify numbers as whole or decimal, prompting precise mathematical identification."
+    },
+    {
+      "ID": 12704,
+      "Speaker": "T",
+      "Turn": 12704,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Requests justification for why students consider the numbers whole."
+    },
+    {
+      "ID": 12706,
+      "Speaker": "T",
+      "Turn": 12706,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Directs attention to the presence of decimal points to determine correct classification."
+    },
+    {
+      "ID": 12708,
+      "Speaker": "T",
+      "Turn": 12708,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12709,
+      "Speaker": "T",
+      "Turn": 12709,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12710,
+      "Speaker": "T",
+      "Turn": 12710,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks students to recall the precise mathematical definition of a decimal."
+    },
+    {
+      "ID": 12711,
+      "Speaker": "T",
+      "Turn": 12711,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "Prompts students to recall and consider Bailey's prior contribution."
+    },
+    {
+      "ID": 12712,
+      "Speaker": "T",
+      "Turn": 12712,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12713,
+      "Speaker": "T",
+      "Turn": 12713,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "Encourages class to think about Bailey's earlier idea in relation to current discussion."
+    },
+    {
+      "ID": 12714,
+      "Speaker": "T",
+      "Turn": 12714,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12716,
+      "Speaker": "T",
+      "Turn": 12716,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12717,
+      "Speaker": "T",
+      "Turn": 12717,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "References an earlier comparison and asks how they are the same, prompting explanation."
+    },
+    {
+      "ID": 12718,
+      "Speaker": "T",
+      "Turn": 12718,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Directs students to discuss with neighbors, orienting them toward collaborative listening."
+    },
+    {
+      "ID": 12719,
+      "Speaker": "T",
+      "Turn": 12719,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Instructs students to review prior ideas together, sustaining collective focus."
+    },
+    {
+      "ID": 12720,
+      "Speaker": "T",
+      "Turn": 12720,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Asks class to articulate what was previously said, seeking underlying explanation."
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "records": [
+    {
+      "ID": 27446,
+      "Turn": 1,
+      "Speaker": "T",
+      "Sentence": "All right fifthgrader",
+      "TalkMove": null
+    },
+    {
+      "ID": 27447,
+      "Turn": 1,
+      "Speaker": "T",
+      "Sentence": "Im excited to be in here for some math today",
+      "TalkMove": null
+    },
+    {
+      "ID": 27448,
+      "Turn": 1,
+      "Speaker": "T",
+      "Sentence": "Our lesson builds off of the lesson youve had over the last couple of days about using read these words with me powers",
+      "TalkMove": "Keeping Everyone Together"
+    },
+    {
+      "ID": 27450,
+      "Turn": 3,
+      "Speaker": "T",
+      "Sentence": "I want you to really do some thinking back to the last couple of days",
+      "TalkMove": null
+    },
+    {
+      "ID": 27451,
+      "Turn": 3,
+      "Speaker": "T",
+      "Sentence": "Today were going to be converting measurements in the metric system using what",
+      "TalkMove": "Pressing for Accuracy"
+    },
+    {
+      "ID": 27453,
+      "Turn": 5,
+      "Speaker": "T",
+      "Sentence": "Powers of 10",
+      "TalkMove": "Restating"
+    },
+    {
+      "ID": 27454,
+      "Turn": 5,
+      "Speaker": "T",
+      "Sentence": "Okay",
+      "TalkMove": null
+    },
+    {
+      "ID": 27455,
+      "Turn": 5,
+      "Speaker": "T",
+      "Sentence": "Thats what our lesson is all about today",
+      "TalkMove": null
+    },
+    {
+      "ID": 27456,
+      "Turn": 5,
+      "Speaker": "T",
+      "Sentence": "Ladies would you please read the learning goal for us",
+      "TalkMove": "Keeping Everyone Together"
+    }
+  ]
+}

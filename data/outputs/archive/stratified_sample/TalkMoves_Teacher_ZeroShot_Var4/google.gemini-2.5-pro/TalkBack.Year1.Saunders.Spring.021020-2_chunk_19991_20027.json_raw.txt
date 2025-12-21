@@ -1,0 +1,186 @@
+{
+  "records": [
+    {
+      "ID": 19991,
+      "Speaker": "T",
+      "Turn": 20,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19992,
+      "Speaker": "T",
+      "Turn": 20,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19993,
+      "Speaker": "T",
+      "Turn": 20,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19995,
+      "Speaker": "T",
+      "Turn": 22,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19996,
+      "Speaker": "T",
+      "Turn": 22,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19997,
+      "Speaker": "T",
+      "Turn": 22,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19998,
+      "Speaker": "T",
+      "Turn": 22,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19999,
+      "Speaker": "T",
+      "Turn": 22,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20001,
+      "Speaker": "T",
+      "Turn": 24,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20003,
+      "Speaker": "T",
+      "Turn": 26,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a specific question about a mathematical property (end behavior of a linear equation) to elicit a correct contribution from the student."
+    },
+    {
+      "ID": 20005,
+      "Speaker": "T",
+      "Turn": 28,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's contribution ('Opposite') and then elaborates on it by describing the visual representation of opposite directions for a line."
+    },
+    {
+      "ID": 20006,
+      "Speaker": "T",
+      "Turn": 28,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student for another specific mathematical fact, this time about the end behavior of quadratic functions."
+    },
+    {
+      "ID": 20007,
+      "Speaker": "T",
+      "Turn": 28,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20008,
+      "Speaker": "T",
+      "Turn": 28,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20010,
+      "Speaker": "T",
+      "Turn": 30,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20011,
+      "Speaker": "T",
+      "Turn": 30,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20012,
+      "Speaker": "T",
+      "Turn": 30,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20014,
+      "Speaker": "T",
+      "Turn": 32,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20015,
+      "Speaker": "T",
+      "Turn": 32,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for a specific mathematical term (the degree) related to the problem."
+    },
+    {
+      "ID": 20017,
+      "Speaker": "T",
+      "Turn": 34,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's answer ('Three') word for word."
+    },
+    {
+      "ID": 20018,
+      "Speaker": "T",
+      "Turn": 34,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks the student to classify the number three as odd or even, prompting for a specific mathematical property."
+    },
+    {
+      "ID": 20020,
+      "Speaker": "T",
+      "Turn": 36,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks the student to apply the rule about odd-degree polynomials to determine the end behavior, prompting for a specific mathematical conclusion."
+    },
+    {
+      "ID": 20022,
+      "Speaker": "T",
+      "Turn": 38,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to explain the thinking or rule used to determine the specific orientation of the end behavior."
+    },
+    {
+      "ID": 20024,
+      "Speaker": "T",
+      "Turn": 40,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to apply their stated rule (positive or negative) to the specific problem, eliciting a precise answer."
+    },
+    {
+      "ID": 20026,
+      "Speaker": "T",
+      "Turn": 42,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's answer ('Positive') word for word."
+    },
+    {
+      "ID": 20027,
+      "Speaker": "T",
+      "Turn": 42,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher takes the student's answer ('Positive') and reframes it using more precise mathematical language ('leading coefficient')."
+    }
+  ]
+}

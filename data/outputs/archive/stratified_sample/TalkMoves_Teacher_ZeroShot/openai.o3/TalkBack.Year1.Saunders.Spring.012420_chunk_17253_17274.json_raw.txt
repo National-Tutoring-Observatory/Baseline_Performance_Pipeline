@@ -1,0 +1,123 @@
+{
+  "records": [
+    {
+      "ID": 17253,
+      "Speaker": "T",
+      "Turn": 185,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17255,
+      "Speaker": "T",
+      "Turn": 187,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to explain their reasoning with the question \"But why?\""
+    },
+    {
+      "ID": 17256,
+      "Speaker": "T",
+      "Turn": 187,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher continues to ask the student to justify their idea: \"Why can’t you not do that?\""
+    },
+    {
+      "ID": 17259,
+      "Speaker": "T",
+      "Turn": 189,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher restates the student’s idea ('It’s part of the A') using slightly different wording, reinforcing the point."
+    },
+    {
+      "ID": 17260,
+      "Speaker": "T",
+      "Turn": 190,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17261,
+      "Speaker": "T",
+      "Turn": 190,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "By asking, “If it’s 4X plus 3 why can’t you say that’s 7X?” the teacher prompts students to articulate why combining unlike terms is incorrect."
+    },
+    {
+      "ID": 17263,
+      "Speaker": "T",
+      "Turn": 192,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17264,
+      "Speaker": "T",
+      "Turn": 192,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17265,
+      "Speaker": "T",
+      "Turn": 192,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17266,
+      "Speaker": "T",
+      "Turn": 192,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17267,
+      "Speaker": "T",
+      "Turn": 192,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17268,
+      "Speaker": "T",
+      "Turn": 192,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17269,
+      "Speaker": "T",
+      "Turn": 192,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17271,
+      "Speaker": "T",
+      "Turn": 194,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17272,
+      "Speaker": "T",
+      "Turn": 194,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17273,
+      "Speaker": "T",
+      "Turn": 194,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17274,
+      "Speaker": "T",
+      "Turn": 195,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

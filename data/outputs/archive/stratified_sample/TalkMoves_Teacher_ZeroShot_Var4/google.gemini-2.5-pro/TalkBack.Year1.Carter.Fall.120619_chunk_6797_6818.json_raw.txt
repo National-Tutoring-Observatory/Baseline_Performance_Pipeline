@@ -1,0 +1,102 @@
+{
+  "records": [
+    {
+      "ID": 6797,
+      "Speaker": "T",
+      "Turn": 68,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher poses a direct mathematical question, prompting a student for a specific mathematical contribution."
+    },
+    {
+      "ID": 6798,
+      "Speaker": "T",
+      "Turn": 68,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher orients the class to help a specific student who is struggling, fostering a collaborative environment."
+    },
+    {
+      "ID": 6799,
+      "Speaker": "T",
+      "Turn": 68,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher repeats the prompt for the class to formulate a question to help a peer."
+    },
+    {
+      "ID": 6800,
+      "Speaker": "T",
+      "Turn": 68,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher directs a student to select a classmate for help, explicitly orienting students to one another as resources."
+    },
+    {
+      "ID": 6803,
+      "Speaker": "T",
+      "Turn": 71,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts a student to share their thought process."
+    },
+    {
+      "ID": 6804,
+      "Speaker": "T",
+      "Turn": 71,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher repeats the prompt for a student to explain their thinking."
+    },
+    {
+      "ID": 6806,
+      "Speaker": "T",
+      "Turn": 73,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher makes the class aware of differing opinions, orienting students to each other's non-verbal reactions and setting up a discussion."
+    },
+    {
+      "ID": 6807,
+      "Speaker": "T",
+      "Turn": 73,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 6808,
+      "Speaker": "T",
+      "Turn": 73,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 6809,
+      "Speaker": "T",
+      "Turn": 73,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher prompts a student to choose a classmate who disagrees, setting up an interaction where one student will respond to another's idea."
+    },
+    {
+      "ID": 6813,
+      "Speaker": "T",
+      "Turn": 77,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 6814,
+      "Speaker": "T",
+      "Turn": 77,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats and juxtaposes ideas from two students, clarifying and sharpening a mathematical contradiction for the class to consider."
+    },
+    {
+      "ID": 6815,
+      "Speaker": "T",
+      "Turn": 77,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Following a revoicing, the teacher asks a student to evaluate the logical consistency of their own statement."
+    },
+    {
+      "ID": 6817,
+      "Speaker": "T",
+      "Turn": 79,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher redirects the conversation to help a specific student, asking another student to repeat a question for their benefit."
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "records": [
+    {
+      "ID": 11668,
+      "Turn": 225,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11669,
+      "Turn": 226,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11671,
+      "Turn": 226,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11674,
+      "Turn": 228,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher is prompting students to make a precise mathematical contribution by identifying what the representation stands for in the problem."
+    },
+    {
+      "ID": 11675,
+      "Turn": 229,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11677,
+      "Turn": 231,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher challenges a student's incorrect answer ('A whole pizza') to prompt them to be more accurate based on the problem's details."
+    },
+    {
+      "ID": 11680,
+      "Turn": 234,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11681,
+      "Turn": 235,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher explicitly asks 'why,' prompting students to explain the thinking behind their procedural step."
+    },
+    {
+      "ID": 11682,
+      "Turn": 235,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11683,
+      "Turn": 235,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11684,
+      "Turn": 236,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11685,
+      "Turn": 237,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11686,
+      "Turn": 237,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to make a precise mathematical contribution by identifying what the representation stands for."
+    },
+    {
+      "ID": 11687,
+      "Turn": 237,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher repeats the question to prompt students to make a precise mathematical contribution by identifying what the representation stands for."
+    },
+    {
+      "ID": 11688,
+      "Turn": 237,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

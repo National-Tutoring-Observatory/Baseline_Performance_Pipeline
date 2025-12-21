@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 20001,
+      "Speaker": "T",
+      "Turn": 20001,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20003,
+      "Speaker": "T",
+      "Turn": 20003,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks students to state whether a linear function’s ends go in opposite or the same direction, prompting a precise mathematical property."
+    },
+    {
+      "ID": 20005,
+      "Speaker": "T",
+      "Turn": 20005,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20006,
+      "Speaker": "T",
+      "Turn": 20006,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts identification of the behavior for a quadratic function."
+    },
+    {
+      "ID": 20007,
+      "Speaker": "T",
+      "Turn": 20007,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20008,
+      "Speaker": "T",
+      "Turn": 20008,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20010,
+      "Speaker": "T",
+      "Turn": 20010,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20011,
+      "Speaker": "T",
+      "Turn": 20011,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20012,
+      "Speaker": "T",
+      "Turn": 20012,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20014,
+      "Speaker": "T",
+      "Turn": 20014,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20015,
+      "Speaker": "T",
+      "Turn": 20015,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the degree of the expression, eliciting a specific mathematical classification."
+    },
+    {
+      "ID": 20017,
+      "Speaker": "T",
+      "Turn": 20017,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student’s answer (“three”) verbatim to confirm it."
+    },
+    {
+      "ID": 20018,
+      "Speaker": "T",
+      "Turn": 20018,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks the student to classify the number as odd or even."
+    },
+    {
+      "ID": 20020,
+      "Speaker": "T",
+      "Turn": 20020,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to determine whether the function’s ends go in the same or different directions."
+    },
+    {
+      "ID": 20022,
+      "Speaker": "T",
+      "Turn": 20022,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks how to decide the orientation of the ends, prompting the student to explain the criteria."
+    },
+    {
+      "ID": 20024,
+      "Speaker": "T",
+      "Turn": 20024,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20026,
+      "Speaker": "T",
+      "Turn": 20026,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20027,
+      "Speaker": "T",
+      "Turn": 20027,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20028,
+      "Speaker": "T",
+      "Turn": 20028,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks the student to choose between two possible end behaviors."
+    },
+    {
+      "ID": 20030,
+      "Speaker": "T",
+      "Turn": 20030,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

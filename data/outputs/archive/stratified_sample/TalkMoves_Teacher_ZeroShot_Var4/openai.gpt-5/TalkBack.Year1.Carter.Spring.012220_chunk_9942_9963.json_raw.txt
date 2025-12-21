@@ -1,0 +1,130 @@
+{
+  "records": [
+    {
+      "ID": 9943,
+      "Speaker": "T",
+      "Turn": 146,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9944,
+      "Speaker": "T",
+      "Turn": 146,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks if the method can be done by dividing, prompting use of a specific mathematical operation."
+    },
+    {
+      "ID": 9946,
+      "Speaker": "T",
+      "Turn": 148,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9947,
+      "Speaker": "T",
+      "Turn": 148,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Invites a student who used division to explain their thinking."
+    },
+    {
+      "ID": 9949,
+      "Speaker": "T",
+      "Turn": 150,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9950,
+      "Speaker": "T",
+      "Turn": 150,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Summarizes the class result about one-tenth, paraphrasing what students established."
+    },
+    {
+      "ID": 9951,
+      "Speaker": "T",
+      "Turn": 150,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Restates the idea that one-tenth of 50 is five to connect to the next step."
+    },
+    {
+      "ID": 9952,
+      "Speaker": "T",
+      "Turn": 150,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks for the value of seven-tenths given the known one-tenth, eliciting a specific mathematical answer."
+    },
+    {
+      "ID": 9953,
+      "Speaker": "T",
+      "Turn": 150,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9954,
+      "Speaker": "T",
+      "Turn": 150,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Prompts students to discuss why the answer is 35, asking for justification."
+    },
+    {
+      "ID": 9955,
+      "Speaker": "T",
+      "Turn": 151,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9956,
+      "Speaker": "T",
+      "Turn": 151,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9957,
+      "Speaker": "T",
+      "Turn": 151,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9959,
+      "Speaker": "T",
+      "Turn": 153,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Redirects a student’s attention back to the discussion, prompting active listening."
+    },
+    {
+      "ID": 9960,
+      "Speaker": "T",
+      "Turn": 153,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9961,
+      "Speaker": "T",
+      "Turn": 153,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Asks students to describe the process, eliciting an explanation of their thinking."
+    },
+    {
+      "ID": 9962,
+      "Speaker": "T",
+      "Turn": 153,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Requests the procedure for finding 7/10 of 50, prompting students to explain steps."
+    },
+    {
+      "ID": 9963,
+      "Speaker": "T",
+      "Turn": 153,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

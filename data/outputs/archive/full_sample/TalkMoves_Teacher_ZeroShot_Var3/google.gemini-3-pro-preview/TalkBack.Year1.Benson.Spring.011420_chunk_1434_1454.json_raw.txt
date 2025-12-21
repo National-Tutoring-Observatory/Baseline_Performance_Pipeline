@@ -1,0 +1,116 @@
+{
+  "records": [
+    {
+      "ID": 1434,
+      "Speaker": "T",
+      "Turn": 1434,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to explain their process for solving the problem."
+    },
+    {
+      "ID": 1435,
+      "Speaker": "T",
+      "Turn": 1435,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher probes for the method or strategy used ('Did you use something different'), asking for an explanation of the approach."
+    },
+    {
+      "ID": 1437,
+      "Speaker": "T",
+      "Turn": 1437,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's action ('You drew a number line') but frames it as a question or confirmation of the method used."
+    },
+    {
+      "ID": 1439,
+      "Speaker": "T",
+      "Turn": 1439,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1440,
+      "Speaker": "T",
+      "Turn": 1440,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1441,
+      "Speaker": "T",
+      "Turn": 1441,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to explain the steps taken to reach the solution ('Where did you do to figure out...')."
+    },
+    {
+      "ID": 1443,
+      "Speaker": "T",
+      "Turn": 1443,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases the student's work ('So you just did the actual number model... instead of drawing a picture') to clarify the strategy used."
+    },
+    {
+      "ID": 1444,
+      "Speaker": "T",
+      "Turn": 1444,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher is checking for specific mathematical representations ('Did anyone else draw a picture') among the class."
+    },
+    {
+      "ID": 1445,
+      "Speaker": "T",
+      "Turn": 1445,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher is verifying if specific mathematical models (squares or circles cut into tenths) were used."
+    },
+    {
+      "ID": 1446,
+      "Speaker": "T",
+      "Turn": 1446,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1447,
+      "Speaker": "T",
+      "Turn": 1447,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1448,
+      "Speaker": "T",
+      "Turn": 1448,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1449,
+      "Speaker": "T",
+      "Turn": 1449,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher calls on a specific student to ensure their question is heard and addressed within the group flow."
+    },
+    {
+      "ID": 1451,
+      "Speaker": "T",
+      "Turn": 1451,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1452,
+      "Speaker": "T",
+      "Turn": 1452,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1454,
+      "Speaker": "T",
+      "Turn": 1454,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 990,
+      "Speaker": "T",
+      "Turn": 990,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 991,
+      "Speaker": "T",
+      "Turn": 991,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 992,
+      "Speaker": "T",
+      "Turn": 992,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 993,
+      "Speaker": "T",
+      "Turn": 993,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 994,
+      "Speaker": "T",
+      "Turn": 994,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 995,
+      "Speaker": "T",
+      "Turn": 995,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats a student's question to the whole class."
+    },
+    {
+      "ID": 996,
+      "Speaker": "T",
+      "Turn": 996,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases a student's question, clarifying it for the class and focusing on the specific task components."
+    },
+    {
+      "ID": 997,
+      "Speaker": "T",
+      "Turn": 997,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 999,
+      "Speaker": "T",
+      "Turn": 999,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's one-word answer."
+    },
+    {
+      "ID": 1000,
+      "Speaker": "T",
+      "Turn": 1000,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher refines a student's answer by adding more specific language ('lightblue' instead of just 'blue')."
+    },
+    {
+      "ID": 1002,
+      "Speaker": "T",
+      "Turn": 1002,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to verify a proposed answer, prompting them to check their work and explain if it's correct."
+    },
+    {
+      "ID": 1003,
+      "Speaker": "T",
+      "Turn": 1003,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks a follow-up question that requires students to use the established information to reason about the next step in the problem."
+    },
+    {
+      "ID": 1005,
+      "Speaker": "T",
+      "Turn": 1005,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts students to connect their thinking to the available manipulatives, which serves as a form of evidence for their reasoning."
+    },
+    {
+      "ID": 1007,
+      "Speaker": "T",
+      "Turn": 1007,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1009,
+      "Speaker": "T",
+      "Turn": 1009,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1010,
+      "Speaker": "T",
+      "Turn": 1010,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1011,
+      "Speaker": "T",
+      "Turn": 1011,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1013,
+      "Speaker": "T",
+      "Turn": 1013,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1014,
+      "Speaker": "T",
+      "Turn": 1014,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1015,
+      "Speaker": "T",
+      "Turn": 1015,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

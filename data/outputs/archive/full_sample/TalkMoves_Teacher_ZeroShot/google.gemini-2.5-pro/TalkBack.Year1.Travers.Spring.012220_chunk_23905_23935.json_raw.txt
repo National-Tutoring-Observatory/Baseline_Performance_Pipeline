@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 23905,
+      "Speaker": "T",
+      "Turn": 23905,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23906,
+      "Speaker": "T",
+      "Turn": 23906,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher explicitly asks a student to share their thinking process."
+    },
+    {
+      "ID": 23908,
+      "Speaker": "T",
+      "Turn": 23908,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to provide a reason for their statement."
+    },
+    {
+      "ID": 23913,
+      "Speaker": "T",
+      "Turn": 23913,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher restates a student's action and prompts them to provide the reason for it by ending with 'because'."
+    },
+    {
+      "ID": 23916,
+      "Speaker": "T",
+      "Turn": 23916,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases the student's contribution ('there are five threes in 15') and connects it to the lesson's learning intention, thereby adding mathematical context."
+    },
+    {
+      "ID": 23917,
+      "Speaker": "T",
+      "Turn": 23917,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher directs the entire class to engage in a thinking task, ensuring they are all oriented to the discussion."
+    },
+    {
+      "ID": 23918,
+      "Speaker": "T",
+      "Turn": 23918,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher asks the entire class to consider and evaluate another student's (Ryan's) contribution in relation to the lesson's goal."
+    },
+    {
+      "ID": 23919,
+      "Speaker": "T",
+      "Turn": 23919,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to explain how a classmate's idea connected to the learning goal, demanding justification."
+    },
+    {
+      "ID": 23920,
+      "Speaker": "T",
+      "Turn": 23920,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23922,
+      "Speaker": "T",
+      "Turn": 23922,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23923,
+      "Speaker": "T",
+      "Turn": 23923,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23925,
+      "Speaker": "T",
+      "Turn": 23925,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23926,
+      "Speaker": "T",
+      "Turn": 23926,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23927,
+      "Speaker": "T",
+      "Turn": 23927,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher directs the whole class to focus their attention on a specific mathematical concept while observing the next student's work."
+    },
+    {
+      "ID": 23929,
+      "Speaker": "T",
+      "Turn": 23929,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher explicitly invites the class to provide feedback and ask questions about a classmate's (Avery's) contribution."
+    },
+    {
+      "ID": 23930,
+      "Speaker": "T",
+      "Turn": 23930,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23931,
+      "Speaker": "T",
+      "Turn": 23931,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23932,
+      "Speaker": "T",
+      "Turn": 23932,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23933,
+      "Speaker": "T",
+      "Turn": 23933,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher directly asks one student to share their thoughts on another student's solution method."
+    },
+    {
+      "ID": 23935,
+      "Speaker": "T",
+      "Turn": 23935,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases and clarifies a student's contribution about Avery's method, using more precise mathematical language."
+    }
+  ]
+}

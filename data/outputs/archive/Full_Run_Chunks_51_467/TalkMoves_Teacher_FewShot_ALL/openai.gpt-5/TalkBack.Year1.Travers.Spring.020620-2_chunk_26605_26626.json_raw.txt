@@ -1,0 +1,109 @@
+{
+  "records": [
+    {
+      "ID": 26606,
+      "Speaker": "T",
+      "Turn": 210,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26609,
+      "Speaker": "T",
+      "Turn": 213,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26610,
+      "Speaker": "T",
+      "Turn": 213,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to compute 30 × 2, eliciting a specific mathematical value."
+    },
+    {
+      "ID": 26612,
+      "Speaker": "T",
+      "Turn": 215,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "After correcting to sixty, the teacher asks for 10 × 3, prompting a precise calculation."
+    },
+    {
+      "ID": 26614,
+      "Speaker": "T",
+      "Turn": 217,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher requests the product of 3 × 2, asking for a specific mathematical contribution."
+    },
+    {
+      "ID": 26616,
+      "Speaker": "T",
+      "Turn": 219,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student’s answer word-for-word: “Six.”"
+    },
+    {
+      "ID": 26617,
+      "Speaker": "T",
+      "Turn": 219,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks students to state the current total cost, eliciting a specific numerical amount."
+    },
+    {
+      "ID": 26619,
+      "Speaker": "T",
+      "Turn": 221,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26620,
+      "Speaker": "T",
+      "Turn": 221,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26621,
+      "Speaker": "T",
+      "Turn": 221,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to identify the next step in the solution process, prompting them to connect ideas."
+    },
+    {
+      "ID": 26622,
+      "Speaker": "T",
+      "Turn": 222,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26623,
+      "Speaker": "T",
+      "Turn": 223,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26624,
+      "Speaker": "T",
+      "Turn": 224,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26625,
+      "Speaker": "T",
+      "Turn": 225,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26626,
+      "Speaker": "T",
+      "Turn": 225,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

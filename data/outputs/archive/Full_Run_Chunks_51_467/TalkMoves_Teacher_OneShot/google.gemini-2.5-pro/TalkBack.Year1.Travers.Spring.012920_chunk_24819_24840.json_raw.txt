@@ -1,0 +1,149 @@
+{
+  "records": [
+    {
+      "ID": 24819,
+      "Turn": 172,
+      "Speaker": "S",
+      "Sentence": "One"
+    },
+    {
+      "ID": 24820,
+      "Turn": 173,
+      "Speaker": "T",
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's answer verbatim."
+    },
+    {
+      "ID": 24821,
+      "Turn": 173,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24822,
+      "Turn": 174,
+      "Speaker": "S",
+      "Sentence": "3 34"
+    },
+    {
+      "ID": 24823,
+      "Turn": 175,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the students to provide a specific mathematical contribution, which is the count of a data point."
+    },
+    {
+      "ID": 24824,
+      "Turn": 176,
+      "Speaker": "S",
+      "Sentence": "Four"
+    },
+    {
+      "ID": 24825,
+      "Turn": 177,
+      "Speaker": "S",
+      "Sentence": "I thought we had five"
+    },
+    {
+      "ID": 24826,
+      "Turn": 178,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24827,
+      "Turn": 178,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24828,
+      "Turn": 178,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher questions a student's contribution ('five') to verify its accuracy against the data set."
+    },
+    {
+      "ID": 24829,
+      "Turn": 179,
+      "Speaker": "S",
+      "Sentence": "Yes I thought so"
+    },
+    {
+      "ID": 24830,
+      "Turn": 180,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24831,
+      "Turn": 181,
+      "Speaker": "S",
+      "Sentence": "You need a half"
+    },
+    {
+      "ID": 24832,
+      "Turn": 182,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24833,
+      "Turn": 182,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students for a specific mathematical contribution, which is the frequency of a data point."
+    },
+    {
+      "ID": 24834,
+      "Turn": 183,
+      "Speaker": "S",
+      "Sentence": "Three times"
+    },
+    {
+      "ID": 24835,
+      "Turn": 184,
+      "Speaker": "T",
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's answer verbatim."
+    },
+    {
+      "ID": 24836,
+      "Turn": 184,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24837,
+      "Turn": 184,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24838,
+      "Turn": 185,
+      "Speaker": "S",
+      "Sentence": "4 12"
+    },
+    {
+      "ID": 24839,
+      "Turn": 186,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a clarifying question to ensure the data set is being read accurately and completely."
+    },
+    {
+      "ID": 24840,
+      "Turn": 187,
+      "Speaker": "S",
+      "Sentence": "I dont think so"
+    }
+  ]
+}

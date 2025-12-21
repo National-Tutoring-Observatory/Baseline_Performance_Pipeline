@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 13760,
+      "Speaker": "T",
+      "Turn": 13760,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 13761,
+      "Speaker": "T",
+      "Turn": 13761,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 13762,
+      "Speaker": "T",
+      "Turn": 13762,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher explicitly asks the student to \"explain your thinking.\""
+    },
+    {
+      "ID": 13763,
+      "Speaker": "T",
+      "Turn": 13763,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 13764,
+      "Speaker": "T",
+      "Turn": 13764,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher directs the student to show their work to the class, ensuring all students are oriented to the same representation."
+    },
+    {
+      "ID": 13766,
+      "Speaker": "T",
+      "Turn": 13766,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 13768,
+      "Speaker": "T",
+      "Turn": 13768,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to specify which parts of the fraction were involved in the operation, pushing for more precise mathematical language."
+    },
+    {
+      "ID": 13770,
+      "Speaker": "T",
+      "Turn": 13770,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 13771,
+      "Speaker": "T",
+      "Turn": 13771,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 13772,
+      "Speaker": "T",
+      "Turn": 13772,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 13773,
+      "Speaker": "T",
+      "Turn": 13773,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks a hypothetical question to prompt the student to justify the need for precise mathematical language."
+    },
+    {
+      "ID": 13775,
+      "Speaker": "T",
+      "Turn": 13775,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher explicitly asks students to use and identify specific mathematical vocabulary."
+    },
+    {
+      "ID": 13777,
+      "Speaker": "T",
+      "Turn": 13777,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher uses a short prompt to encourage the student to provide more of the required mathematical vocabulary."
+    },
+    {
+      "ID": 13779,
+      "Speaker": "T",
+      "Turn": 13779,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's contribution (\"Common denominators\") verbatim."
+    },
+    {
+      "ID": 13780,
+      "Speaker": "T",
+      "Turn": 13780,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 13781,
+      "Speaker": "T",
+      "Turn": 13781,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a direct question (\"...and get what?\") to elicit a specific mathematical answer from the students."
+    },
+    {
+      "ID": 13782,
+      "Speaker": "T",
+      "Turn": 13782,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher clarifies the previous question, pressing for the answer to be in a specific mathematical form (a fraction)."
+    },
+    {
+      "ID": 13783,
+      "Speaker": "T",
+      "Turn": 13783,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 13784,
+      "Speaker": "T",
+      "Turn": 13784,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a direct question that requires students to perform a calculation and provide a specific, correct mathematical answer."
+    },
+    {
+      "ID": 13786,
+      "Speaker": "T",
+      "Turn": 13786,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher provides a short prompt to elicit the next correct answer in a sequence of calculations."
+    }
+  ]
+}

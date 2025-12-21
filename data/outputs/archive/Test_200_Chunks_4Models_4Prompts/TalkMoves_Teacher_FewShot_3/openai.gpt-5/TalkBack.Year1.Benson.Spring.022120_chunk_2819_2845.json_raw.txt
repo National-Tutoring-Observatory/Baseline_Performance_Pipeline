@@ -1,0 +1,88 @@
+{
+  "records": [
+    {
+      "ID": 2829,
+      "Turn": 1,
+      "Speaker": "T",
+      "TalkMove": "None"
+    },
+    {
+      "ID": 2830,
+      "Turn": 1,
+      "Speaker": "T",
+      "TalkMove": "None"
+    },
+    {
+      "ID": 2831,
+      "Turn": 1,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks the student to share what they wrote, prompting a mathematical contribution."
+    },
+    {
+      "ID": 2833,
+      "Turn": 3,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks whether a representation is acceptable, focusing on correctness."
+    },
+    {
+      "ID": 2835,
+      "Turn": 5,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher again queries if a particular way of writing is acceptable, pressing for correctness."
+    },
+    {
+      "ID": 2837,
+      "Turn": 7,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher continues to ask if the notation is okay, emphasizing accurate representation."
+    },
+    {
+      "ID": 2839,
+      "Turn": 9,
+      "Speaker": "T",
+      "TalkMove": "None"
+    },
+    {
+      "ID": 2840,
+      "Turn": 9,
+      "Speaker": "T",
+      "TalkMove": "None"
+    },
+    {
+      "ID": 2841,
+      "Turn": 9,
+      "Speaker": "T",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher orients students’ attention to a specific location, keeping the class focused together."
+    },
+    {
+      "ID": 2842,
+      "Turn": 9,
+      "Speaker": "T",
+      "TalkMove": "None"
+    },
+    {
+      "ID": 2843,
+      "Turn": 9,
+      "Speaker": "T",
+      "TalkMove": "None"
+    },
+    {
+      "ID": 2844,
+      "Turn": 9,
+      "Speaker": "T",
+      "TalkMove": "None"
+    },
+    {
+      "ID": 2845,
+      "Turn": 9,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher invites the student to state what they wrote, eliciting a mathematical contribution."
+    }
+  ]
+}

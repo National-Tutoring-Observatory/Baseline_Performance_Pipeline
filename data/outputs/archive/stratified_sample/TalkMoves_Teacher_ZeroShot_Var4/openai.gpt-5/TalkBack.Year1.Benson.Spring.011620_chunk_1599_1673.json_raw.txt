@@ -1,0 +1,417 @@
+{
+  "records": [
+    {
+      "ID": 1599,
+      "Speaker": "T",
+      "Turn": 42,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1600,
+      "Speaker": "T",
+      "Turn": 42,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1602,
+      "Speaker": "T",
+      "Turn": 44,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student’s phrase 'two ones' word for word."
+    },
+    {
+      "ID": 1603,
+      "Speaker": "T",
+      "Turn": 44,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1604,
+      "Speaker": "T",
+      "Turn": 44,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the correct language used when reading decimals (prompting 'and')."
+    },
+    {
+      "ID": 1606,
+      "Speaker": "T",
+      "Turn": 46,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student’s 'And' verbatim."
+    },
+    {
+      "ID": 1607,
+      "Speaker": "T",
+      "Turn": 46,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1608,
+      "Speaker": "T",
+      "Turn": 46,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for how many hundredths, prompting a specific mathematical value."
+    },
+    {
+      "ID": 1610,
+      "Speaker": "T",
+      "Turn": 48,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1611,
+      "Speaker": "T",
+      "Turn": 48,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1612,
+      "Speaker": "T",
+      "Turn": 48,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1613,
+      "Speaker": "T",
+      "Turn": 48,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1614,
+      "Speaker": "T",
+      "Turn": 48,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1615,
+      "Speaker": "T",
+      "Turn": 48,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher introduces a new decimal to be read/interpreted, prompting a mathematical contribution."
+    },
+    {
+      "ID": 1616,
+      "Speaker": "T",
+      "Turn": 48,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1618,
+      "Speaker": "T",
+      "Turn": 50,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher directs the student to read the number using appropriate mathematical language."
+    },
+    {
+      "ID": 1619,
+      "Speaker": "T",
+      "Turn": 50,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1620,
+      "Speaker": "T",
+      "Turn": 51,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1621,
+      "Speaker": "T",
+      "Turn": 51,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1623,
+      "Speaker": "T",
+      "Turn": 53,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1625,
+      "Speaker": "T",
+      "Turn": 55,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1626,
+      "Speaker": "T",
+      "Turn": 55,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to read the written number aloud accurately."
+    },
+    {
+      "ID": 1628,
+      "Speaker": "T",
+      "Turn": 57,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher encourages the student to repeat the reading to improve accuracy."
+    },
+    {
+      "ID": 1630,
+      "Speaker": "T",
+      "Turn": 59,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1631,
+      "Speaker": "T",
+      "Turn": 59,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1632,
+      "Speaker": "T",
+      "Turn": 59,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1633,
+      "Speaker": "T",
+      "Turn": 59,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1634,
+      "Speaker": "T",
+      "Turn": 59,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1635,
+      "Speaker": "T",
+      "Turn": 59,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1636,
+      "Speaker": "T",
+      "Turn": 59,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1637,
+      "Speaker": "T",
+      "Turn": 59,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1638,
+      "Speaker": "T",
+      "Turn": 59,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1639,
+      "Speaker": "T",
+      "Turn": 59,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1640,
+      "Speaker": "T",
+      "Turn": 59,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks how many fourths correspond to 2 and 1/4, seeking a precise quantity."
+    },
+    {
+      "ID": 1641,
+      "Speaker": "T",
+      "Turn": 59,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1642,
+      "Speaker": "T",
+      "Turn": 59,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher invites the student to describe the strategy used to figure it out."
+    },
+    {
+      "ID": 1644,
+      "Speaker": "T",
+      "Turn": 61,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks why the student added four plus four, prompting justification."
+    },
+    {
+      "ID": 1645,
+      "Speaker": "T",
+      "Turn": 61,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts the student to elaborate on their explanation."
+    },
+    {
+      "ID": 1648,
+      "Speaker": "T",
+      "Turn": 63,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher requests clarification about where 'four' came from in the student's method."
+    },
+    {
+      "ID": 1649,
+      "Speaker": "T",
+      "Turn": 63,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1650,
+      "Speaker": "T",
+      "Turn": 63,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1651,
+      "Speaker": "T",
+      "Turn": 63,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to elaborate further on their thinking."
+    },
+    {
+      "ID": 1653,
+      "Speaker": "T",
+      "Turn": 65,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1654,
+      "Speaker": "T",
+      "Turn": 65,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the value of one whole when partitioned into four parts."
+    },
+    {
+      "ID": 1655,
+      "Speaker": "T",
+      "Turn": 65,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts a specific count of fourths in one whole."
+    },
+    {
+      "ID": 1657,
+      "Speaker": "T",
+      "Turn": 67,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student’s answer 'Four' verbatim."
+    },
+    {
+      "ID": 1658,
+      "Speaker": "T",
+      "Turn": 67,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1659,
+      "Speaker": "T",
+      "Turn": 67,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1660,
+      "Speaker": "T",
+      "Turn": 67,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1661,
+      "Speaker": "T",
+      "Turn": 67,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher paraphrases and formalizes the student’s method as adding four-fourths plus four-fourths to get eight."
+    },
+    {
+      "ID": 1662,
+      "Speaker": "T",
+      "Turn": 67,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks whether all fourths have been accounted for, prompting further consideration."
+    },
+    {
+      "ID": 1664,
+      "Speaker": "T",
+      "Turn": 69,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1665,
+      "Speaker": "T",
+      "Turn": 69,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher requests the total number of fourths, expecting a specific numerical answer."
+    },
+    {
+      "ID": 1666,
+      "Speaker": "T",
+      "Turn": 69,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1668,
+      "Speaker": "T",
+      "Turn": 71,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1670,
+      "Speaker": "T",
+      "Turn": 73,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher builds on the student’s 'Nine' by expressing it as 'nine fourths,' clarifying the unit."
+    },
+    {
+      "ID": 1671,
+      "Speaker": "T",
+      "Turn": 73,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1672,
+      "Speaker": "T",
+      "Turn": 73,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1673,
+      "Speaker": "T",
+      "Turn": 73,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

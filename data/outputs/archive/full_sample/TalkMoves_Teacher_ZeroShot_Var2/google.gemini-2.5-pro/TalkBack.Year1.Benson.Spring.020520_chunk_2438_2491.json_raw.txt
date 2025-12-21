@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 2438,
+      "Speaker": "T",
+      "Turn": 2438,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases the core mathematical information from the problem, likely clarifying a student's contribution."
+    },
+    {
+      "ID": 2456,
+      "Speaker": "T",
+      "Turn": 2456,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2457,
+      "Speaker": "T",
+      "Turn": 2457,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2464,
+      "Speaker": "T",
+      "Turn": 2464,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2465,
+      "Speaker": "T",
+      "Turn": 2465,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the specific calculation a student proposed to focus the class's attention on it."
+    },
+    {
+      "ID": 2468,
+      "Speaker": "T",
+      "Turn": 2468,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to explain their thinking behind choosing a specific number for their calculation."
+    },
+    {
+      "ID": 2471,
+      "Speaker": "T",
+      "Turn": 2471,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to use precise mathematical language or identify the correct units."
+    },
+    {
+      "ID": 2473,
+      "Speaker": "T",
+      "Turn": 2473,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2475,
+      "Speaker": "T",
+      "Turn": 2475,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2476,
+      "Speaker": "T",
+      "Turn": 2476,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2477,
+      "Speaker": "T",
+      "Turn": 2477,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2478,
+      "Speaker": "T",
+      "Turn": 2478,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2479,
+      "Speaker": "T",
+      "Turn": 2479,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2481,
+      "Speaker": "T",
+      "Turn": 2481,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2483,
+      "Speaker": "T",
+      "Turn": 2483,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2484,
+      "Speaker": "T",
+      "Turn": 2484,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats a student's idea about the problem's condition, changing the wording to be more mathematically formal."
+    },
+    {
+      "ID": 2485,
+      "Speaker": "T",
+      "Turn": 2485,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to explain the process they used to find their answer."
+    },
+    {
+      "ID": 2487,
+      "Speaker": "T",
+      "Turn": 2487,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to provide the source or calculation for their answer."
+    },
+    {
+      "ID": 2489,
+      "Speaker": "T",
+      "Turn": 2489,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to make their contribution more specific and precise."
+    },
+    {
+      "ID": 2491,
+      "Speaker": "T",
+      "Turn": 2491,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's answer and adds clarifying information to it."
+    }
+  ]
+}

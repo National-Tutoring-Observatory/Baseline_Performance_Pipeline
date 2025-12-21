@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 10238,
+      "Speaker": "T",
+      "Turn": 10238,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 10240,
+      "Speaker": "T",
+      "Turn": 10240,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 10241,
+      "Speaker": "T",
+      "Turn": 10241,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to calculate a specific value ('what would 3/4 be') based on known information."
+    },
+    {
+      "ID": 10243,
+      "Speaker": "T",
+      "Turn": 10243,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 10244,
+      "Speaker": "T",
+      "Turn": 10244,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 10246,
+      "Speaker": "T",
+      "Turn": 10246,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 10247,
+      "Speaker": "T",
+      "Turn": 10247,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to connect current work to a previous representation ('Remember what we just did on this slate...')."
+    },
+    {
+      "ID": 10248,
+      "Speaker": "T",
+      "Turn": 10248,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to explain the conceptual connection ('Do you see why its still multiplication')."
+    },
+    {
+      "ID": 10250,
+      "Speaker": "T",
+      "Turn": 10250,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 10251,
+      "Speaker": "T",
+      "Turn": 10251,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to provide the specific answer for 3/4 given that 1/4 is two."
+    },
+    {
+      "ID": 10253,
+      "Speaker": "T",
+      "Turn": 10253,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 10255,
+      "Speaker": "T",
+      "Turn": 10255,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 10257,
+      "Speaker": "T",
+      "Turn": 10257,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 10258,
+      "Speaker": "T",
+      "Turn": 10258,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to explain the logic behind the answer ('Do you see why its six')."
+    },
+    {
+      "ID": 10259,
+      "Speaker": "T",
+      "Turn": 10259,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 10261,
+      "Speaker": "T",
+      "Turn": 10261,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 10262,
+      "Speaker": "T",
+      "Turn": 10262,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 10263,
+      "Speaker": "T",
+      "Turn": 10263,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 10264,
+      "Speaker": "T",
+      "Turn": 10264,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for a specific calculation ('Whats 1/4 of eight')."
+    },
+    {
+      "ID": 10265,
+      "Speaker": "T",
+      "Turn": 10265,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to complete the calculation based on the previous step ('But you have three of them so')."
+    }
+  ]
+}

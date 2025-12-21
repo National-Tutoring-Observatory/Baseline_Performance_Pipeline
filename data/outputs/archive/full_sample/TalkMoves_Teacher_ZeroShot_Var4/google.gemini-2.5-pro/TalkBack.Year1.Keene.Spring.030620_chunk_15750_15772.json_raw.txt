@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 15750,
+      "Speaker": "T",
+      "Turn": 15750,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15751,
+      "Speaker": "T",
+      "Turn": 15751,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher is asking a student to provide a specific mathematical term for a place value."
+    },
+    {
+      "ID": 15753,
+      "Speaker": "T",
+      "Turn": 15753,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15754,
+      "Speaker": "T",
+      "Turn": 15754,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15755,
+      "Speaker": "T",
+      "Turn": 15755,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts another student to provide a specific mathematical term."
+    },
+    {
+      "ID": 15756,
+      "Speaker": "T",
+      "Turn": 15756,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15757,
+      "Speaker": "T",
+      "Turn": 15757,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15758,
+      "Speaker": "T",
+      "Turn": 15758,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher repeats the question, pressing the student for a specific mathematical term."
+    },
+    {
+      "ID": 15760,
+      "Speaker": "T",
+      "Turn": 15760,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher points out a specific feature ('THS') to guide students toward using precise mathematical language."
+    },
+    {
+      "ID": 15761,
+      "Speaker": "T",
+      "Turn": 15761,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to explain the meaning behind a mathematical convention ('THS')."
+    },
+    {
+      "ID": 15762,
+      "Speaker": "T",
+      "Turn": 15762,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher repeats the question, continuing to press students to explain their thinking."
+    },
+    {
+      "ID": 15763,
+      "Speaker": "T",
+      "Turn": 15763,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15764,
+      "Speaker": "T",
+      "Turn": 15764,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15765,
+      "Speaker": "T",
+      "Turn": 15765,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15766,
+      "Speaker": "T",
+      "Turn": 15766,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15767,
+      "Speaker": "T",
+      "Turn": 15767,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15768,
+      "Speaker": "T",
+      "Turn": 15768,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks a student to share the explanation for what 'THS' signals, which was discussed with a partner."
+    },
+    {
+      "ID": 15770,
+      "Speaker": "T",
+      "Turn": 15770,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15771,
+      "Speaker": "T",
+      "Turn": 15771,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's correct idea (implied by 'Exactly') but rephrases it using more formal mathematical language."
+    },
+    {
+      "ID": 15772,
+      "Speaker": "T",
+      "Turn": 15772,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher continues to rephrase and add on to the student's idea to clarify its meaning."
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "records": [
+    {
+      "ID": 6477,
+      "Speaker": "T",
+      "Turn": 1,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 6478,
+      "Speaker": "T",
+      "Turn": 1,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 6479,
+      "Speaker": "T",
+      "Turn": 1,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher restates a student’s question in her own words, conveying the same idea to the class."
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 10293,
+      "Speaker": "T",
+      "Turn": 10293,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10294,
+      "Speaker": "T",
+      "Turn": 10294,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10295,
+      "Speaker": "T",
+      "Turn": 10295,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for a specific computation (one-fourth of 20)."
+    },
+    {
+      "ID": 10298,
+      "Speaker": "T",
+      "Turn": 10298,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to supply a division fact."
+    },
+    {
+      "ID": 10301,
+      "Speaker": "T",
+      "Turn": 10301,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10302,
+      "Speaker": "T",
+      "Turn": 10302,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10303,
+      "Speaker": "T",
+      "Turn": 10303,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10304,
+      "Speaker": "T",
+      "Turn": 10304,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks how many fourths there are, prompting precise mathematical quantity/language."
+    },
+    {
+      "ID": 10306,
+      "Speaker": "T",
+      "Turn": 10306,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to provide a multiplication fact."
+    },
+    {
+      "ID": 10308,
+      "Speaker": "T",
+      "Turn": 10308,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10309,
+      "Speaker": "T",
+      "Turn": 10309,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10311,
+      "Speaker": "T",
+      "Turn": 10311,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10312,
+      "Speaker": "T",
+      "Turn": 10312,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10314,
+      "Speaker": "T",
+      "Turn": 10314,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10315,
+      "Speaker": "T",
+      "Turn": 10315,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts the student to explain their process step by step."
+    },
+    {
+      "ID": 10316,
+      "Speaker": "T",
+      "Turn": 10316,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for a specific computation (one-fourth of 16)."
+    },
+    {
+      "ID": 10318,
+      "Speaker": "T",
+      "Turn": 10318,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10319,
+      "Speaker": "T",
+      "Turn": 10319,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the next numerical result based on the prior answer."
+    },
+    {
+      "ID": 10321,
+      "Speaker": "T",
+      "Turn": 10321,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student’s answer ('12') and elaborates by linking it to having fourths."
+    },
+    {
+      "ID": 10322,
+      "Speaker": "T",
+      "Turn": 10322,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

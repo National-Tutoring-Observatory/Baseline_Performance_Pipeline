@@ -1,0 +1,67 @@
+{
+  "records": [
+    {
+      "ID": 27446,
+      "Speaker": "T",
+      "Turn": 1,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 27447,
+      "Speaker": "T",
+      "Turn": 1,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 27448,
+      "Speaker": "T",
+      "Turn": 1,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher invites students to ‘read these words with me,’ prompting collective participation and ensuring all students are engaged together."
+    },
+    {
+      "ID": 27450,
+      "Speaker": "T",
+      "Turn": 3,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 27451,
+      "Speaker": "T",
+      "Turn": 3,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks, ‘using what?’ expecting students to supply the precise term (powers of 10), prompting accurate mathematical language."
+    },
+    {
+      "ID": 27453,
+      "Speaker": "T",
+      "Turn": 5,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats exactly what the student just said—‘Powers of 10.’"
+    },
+    {
+      "ID": 27454,
+      "Speaker": "T",
+      "Turn": 5,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 27455,
+      "Speaker": "T",
+      "Turn": 5,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 27456,
+      "Speaker": "T",
+      "Turn": 5,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "By asking specific students to read the learning goal to the class, the teacher orients everyone’s attention to a shared piece of information and keeps the class together."
+    }
+  ]
+}

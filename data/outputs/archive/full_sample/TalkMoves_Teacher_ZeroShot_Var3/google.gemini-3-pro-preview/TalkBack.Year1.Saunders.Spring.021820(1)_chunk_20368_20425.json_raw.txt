@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 20368,
+      "Speaker": "T",
+      "Turn": 20368,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 20377,
+      "Speaker": "T",
+      "Turn": 20377,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks 'What do you have', which prompts the student to share their thinking or result."
+    },
+    {
+      "ID": 20378,
+      "Speaker": "T",
+      "Turn": 20378,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases a mathematical idea ('So you just keep the same base') likely summarizing or clarifying a student's previous contribution or work."
+    },
+    {
+      "ID": 20379,
+      "Speaker": "T",
+      "Turn": 20379,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 20380,
+      "Speaker": "T",
+      "Turn": 20380,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 20390,
+      "Speaker": "T",
+      "Turn": 20390,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 20392,
+      "Speaker": "T",
+      "Turn": 20392,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 20406,
+      "Speaker": "T",
+      "Turn": 20406,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 20407,
+      "Speaker": "T",
+      "Turn": 20407,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 20408,
+      "Speaker": "T",
+      "Turn": 20408,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 20409,
+      "Speaker": "T",
+      "Turn": 20409,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 20410,
+      "Speaker": "T",
+      "Turn": 20410,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 20411,
+      "Speaker": "T",
+      "Turn": 20411,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 20416,
+      "Speaker": "T",
+      "Turn": 20416,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher addresses the whole class to orient them on the current progress ('everybody is just about done with one and two')."
+    },
+    {
+      "ID": 20417,
+      "Speaker": "T",
+      "Turn": 20417,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 20418,
+      "Speaker": "T",
+      "Turn": 20418,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks a question ('how can I use maybe this portion') that prompts students to explain a strategy or connection."
+    },
+    {
+      "ID": 20420,
+      "Speaker": "T",
+      "Turn": 20420,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a specific factual recall question ('Anything to the zero power is what') prompting for a precise mathematical answer."
+    },
+    {
+      "ID": 20422,
+      "Speaker": "T",
+      "Turn": 20422,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 20424,
+      "Speaker": "T",
+      "Turn": 20424,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 20425,
+      "Speaker": "T",
+      "Turn": 20425,
+      "TalkMove": "None",
+      "Reasoning": null
+    }
+  ]
+}

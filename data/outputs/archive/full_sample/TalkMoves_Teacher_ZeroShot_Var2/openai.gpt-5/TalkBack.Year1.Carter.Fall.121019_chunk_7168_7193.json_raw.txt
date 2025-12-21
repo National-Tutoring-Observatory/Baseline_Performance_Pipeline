@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 7168,
+      "Speaker": "T",
+      "Turn": 7168,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 7169,
+      "Speaker": "T",
+      "Turn": 7169,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 7170,
+      "Speaker": "T",
+      "Turn": 7170,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 7171,
+      "Speaker": "T",
+      "Turn": 7171,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher echoes a student's idea ('the dots are too big'), adding framing to bring it to the class."
+    },
+    {
+      "ID": 7172,
+      "Speaker": "T",
+      "Turn": 7172,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks whether dot size matters, prompting students to justify or explain their thinking."
+    },
+    {
+      "ID": 7174,
+      "Speaker": "T",
+      "Turn": 7174,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 7175,
+      "Speaker": "T",
+      "Turn": 7175,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 7176,
+      "Speaker": "T",
+      "Turn": 7176,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 7177,
+      "Speaker": "T",
+      "Turn": 7177,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher directs the whole class to read together, orienting collective attention."
+    },
+    {
+      "ID": 7178,
+      "Speaker": "T",
+      "Turn": 7178,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher orients students to the task by referencing the rule they are to read, keeping the group focused."
+    },
+    {
+      "ID": 7179,
+      "Speaker": "T",
+      "Turn": 7179,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher prompts students to read the rule with her, engaging everyone."
+    },
+    {
+      "ID": 7181,
+      "Speaker": "T",
+      "Turn": 7181,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 7182,
+      "Speaker": "T",
+      "Turn": 7182,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 7184,
+      "Speaker": "T",
+      "Turn": 7184,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher prompts the class to look and attend, maintaining shared focus."
+    },
+    {
+      "ID": 7185,
+      "Speaker": "T",
+      "Turn": 7185,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks if the person made it larger, prompting evaluation against the mathematical objective."
+    },
+    {
+      "ID": 7187,
+      "Speaker": "T",
+      "Turn": 7187,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 7188,
+      "Speaker": "T",
+      "Turn": 7188,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 7190,
+      "Speaker": "T",
+      "Turn": 7190,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks students to supply the precise wording of what he meant to say, pushing for correct mathematical language."
+    },
+    {
+      "ID": 7192,
+      "Speaker": "T",
+      "Turn": 7192,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 7193,
+      "Speaker": "T",
+      "Turn": 7193,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher directs attention to the next example, orienting the group together."
+    }
+  ]
+}

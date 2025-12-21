@@ -1,0 +1,111 @@
+[
+  {
+    "records": [
+      {
+        "ID": 11668,
+        "Turn": 225,
+        "Speaker": "T",
+        "TalkMove": null,
+        "Reasoning": null
+      },
+      {
+        "ID": 11669,
+        "Turn": 226,
+        "Speaker": "T",
+        "TalkMove": null,
+        "Reasoning": null
+      },
+      {
+        "ID": 11671,
+        "Turn": 226,
+        "Speaker": "T",
+        "TalkMove": null,
+        "Reasoning": null
+      },
+      {
+        "ID": 11674,
+        "Turn": 228,
+        "Speaker": "T",
+        "TalkMove": "Pressing for Accuracy",
+        "Reasoning": "The teacher prompts students to make a mathematical contribution by stating what the paper represents in the context of the problem."
+      },
+      {
+        "ID": 11675,
+        "Turn": 229,
+        "Speaker": "T",
+        "TalkMove": null,
+        "Reasoning": null
+      },
+      {
+        "ID": 11677,
+        "Turn": 231,
+        "Speaker": "T",
+        "TalkMove": "Pressing for Accuracy",
+        "Reasoning": "The teacher challenges a student's answer ('A whole pizza') to guide them toward a more accurate interpretation based on the problem details."
+      },
+      {
+        "ID": 11680,
+        "Turn": 234,
+        "Speaker": "T",
+        "TalkMove": null,
+        "Reasoning": null
+      },
+      {
+        "ID": 11681,
+        "Turn": 235,
+        "Speaker": "T",
+        "TalkMove": "Pressing for Reasoning",
+        "Reasoning": "The teacher explicitly asks students to provide the reasoning ('and why') for the next step in the problem-solving process."
+      },
+      {
+        "ID": 11682,
+        "Turn": 235,
+        "Speaker": "T",
+        "TalkMove": null,
+        "Reasoning": null
+      },
+      {
+        "ID": 11683,
+        "Turn": 235,
+        "Speaker": "T",
+        "TalkMove": null,
+        "Reasoning": null
+      },
+      {
+        "ID": 11684,
+        "Turn": 236,
+        "Speaker": "T",
+        "TalkMove": null,
+        "Reasoning": null
+      },
+      {
+        "ID": 11685,
+        "Turn": 237,
+        "Speaker": "T",
+        "TalkMove": null,
+        "Reasoning": null
+      },
+      {
+        "ID": 11686,
+        "Turn": 237,
+        "Speaker": "T",
+        "TalkMove": "Pressing for Accuracy",
+        "Reasoning": "The teacher prompts students to make a mathematical contribution by stating what the folded paper represents."
+      },
+      {
+        "ID": 11687,
+        "Turn": 237,
+        "Speaker": "T",
+        "TalkMove": "Pressing for Accuracy",
+        "Reasoning": "The teacher repeats the question to prompt students to state the mathematical meaning of the representation."
+      },
+      {
+        "ID": 11688,
+        "Turn": 237,
+        "Speaker": "T",
+        "TalkMove": null,
+        "Reasoning": null
+      }
+    ]
+  }
+]

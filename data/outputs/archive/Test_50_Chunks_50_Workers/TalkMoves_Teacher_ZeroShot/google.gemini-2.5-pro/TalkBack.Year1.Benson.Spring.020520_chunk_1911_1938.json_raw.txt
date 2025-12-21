@@ -1,0 +1,148 @@
+{
+  "records": [
+    {
+      "ID": 1911,
+      "Turn": 14,
+      "Speaker": "T",
+      "Sentence": "Conrad what did you get",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1913,
+      "Turn": 16,
+      "Speaker": "T",
+      "Sentence": "Anyone write 03 for that",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1914,
+      "Turn": 16,
+      "Speaker": "T",
+      "Sentence": "Darwin if we wrote 0",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1916,
+      "Turn": 18,
+      "Speaker": "T",
+      "Sentence": "What",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1918,
+      "Turn": 20,
+      "Speaker": "T",
+      "Sentence": "Oh that you were saying Conrad was right",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's clarification ('I meant Conrad is right') but rephrases it slightly to confirm understanding for the class."
+    },
+    {
+      "ID": 1919,
+      "Turn": 20,
+      "Speaker": "T",
+      "Sentence": "79 hundredths",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1920,
+      "Turn": 20,
+      "Speaker": "T",
+      "Sentence": "Ruth what did you write",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1922,
+      "Turn": 22,
+      "Speaker": "T",
+      "Sentence": "Thank you for saying the word and with your decimal because thats what it is",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1923,
+      "Turn": 22,
+      "Speaker": "T",
+      "Sentence": "Alright quick maths of one and 19 hundredths Charlie what did you write",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1925,
+      "Turn": 24,
+      "Speaker": "T",
+      "Sentence": "You wrote nine hundredths",
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats a portion of the student's answer ('I wrote 1 and nine hundredths') verbatim to highlight it for clarification."
+    },
+    {
+      "ID": 1927,
+      "Turn": 26,
+      "Speaker": "T",
+      "Sentence": "0 19 is that what you wrote",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher attempts to clarify the student's confusing answer by proposing a specific mathematical representation and asking for confirmation, thereby pressing for a more accurate statement."
+    },
+    {
+      "ID": 1929,
+      "Turn": 28,
+      "Speaker": "T",
+      "Sentence": "Without the what",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1931,
+      "Turn": 30,
+      "Speaker": "T",
+      "Sentence": "Without this one",
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's word ('One') verbatim to confirm which 'one' the student is referring to."
+    },
+    {
+      "ID": 1933,
+      "Turn": 32,
+      "Speaker": "T",
+      "Sentence": "You wrote 109",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher synthesizes the student's confusing statements into a concrete (but incorrect) number to check for understanding of the student's error."
+    },
+    {
+      "ID": 1934,
+      "Turn": 32,
+      "Speaker": "T",
+      "Sentence": "How can we fix this",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks the class for a way to correct the student's error, prompting for a correct mathematical contribution."
+    },
+    {
+      "ID": 1935,
+      "Turn": 32,
+      "Speaker": "T",
+      "Sentence": "Daxton",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1937,
+      "Turn": 34,
+      "Speaker": "T",
+      "Sentence": "Okay do you see where your mistake was",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1938,
+      "Turn": 34,
+      "Speaker": "T",
+      "Sentence": "Alright eight and two tenths",
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

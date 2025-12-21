@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 11695,
+      "Speaker": "T",
+      "Turn": 239,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11696,
+      "Speaker": "T",
+      "Turn": 239,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to decide whether they should fold the paper in half as before, prompting them to think about and justify the procedure."
+    },
+    {
+      "ID": 11698,
+      "Speaker": "T",
+      "Turn": 241,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11699,
+      "Speaker": "T",
+      "Turn": 241,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the precise fraction the student ate, eliciting a specific mathematical value."
+    },
+    {
+      "ID": 11701,
+      "Speaker": "T",
+      "Turn": 243,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher requests the exact number of parts needed, prompting a precise mathematical answer."
+    },
+    {
+      "ID": 11702,
+      "Speaker": "T",
+      "Turn": 243,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "By asking students to \"Show me,\" the teacher is prompting them to demonstrate and thus explain their thinking through action."
+    },
+    {
+      "ID": 11703,
+      "Speaker": "T",
+      "Turn": 243,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher restates a student idea in her own words (“Two folded into three”), modifying the wording while keeping the meaning."
+    },
+    {
+      "ID": 11704,
+      "Speaker": "T",
+      "Turn": 243,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11705,
+      "Speaker": "T",
+      "Turn": 244,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11706,
+      "Speaker": "T",
+      "Turn": 245,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11707,
+      "Speaker": "T",
+      "Turn": 245,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher checks who has correctly created three equal parts, seeking confirmation of accurate work."
+    },
+    {
+      "ID": 11708,
+      "Speaker": "T",
+      "Turn": 245,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11709,
+      "Speaker": "T",
+      "Turn": 245,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11710,
+      "Speaker": "T",
+      "Turn": 245,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11711,
+      "Speaker": "T",
+      "Turn": 245,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11712,
+      "Speaker": "T",
+      "Turn": 245,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11713,
+      "Speaker": "T",
+      "Turn": 245,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11714,
+      "Speaker": "T",
+      "Turn": 246,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks students if their drawing matches the model, prompting them to assess the accuracy of their representation."
+    },
+    {
+      "ID": 11715,
+      "Speaker": "T",
+      "Turn": 247,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher checks whether the shaded region represents half of the pizza, seeking a correct mathematical judgment."
+    },
+    {
+      "ID": 11716,
+      "Speaker": "T",
+      "Turn": 247,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks if students will shade all three parts, prompting them to confirm or correct their understanding of the required amount."
+    }
+  ]
+}

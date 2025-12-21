@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 25247,
+      "Speaker": "T",
+      "Turn": 25247,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 25249,
+      "Speaker": "T",
+      "Turn": 25249,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats a student's likely contribution ('two') and adds context and mathematical language to it."
+    },
+    {
+      "ID": 25251,
+      "Speaker": "T",
+      "Turn": 25251,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to provide a specific mathematical contribution from the data set."
+    },
+    {
+      "ID": 25253,
+      "Speaker": "T",
+      "Turn": 25253,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's contribution ('one') word for word."
+    },
+    {
+      "ID": 25254,
+      "Speaker": "T",
+      "Turn": 25254,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's contribution ('one') word for word."
+    },
+    {
+      "ID": 25255,
+      "Speaker": "T",
+      "Turn": 25255,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 25256,
+      "Speaker": "T",
+      "Turn": 25256,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 25257,
+      "Speaker": "T",
+      "Turn": 25257,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts a student to make the next mathematical contribution in the sequence."
+    },
+    {
+      "ID": 25258,
+      "Speaker": "T",
+      "Turn": 25258,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to provide a specific mathematical contribution from the data set."
+    },
+    {
+      "ID": 25259,
+      "Speaker": "T",
+      "Turn": 25259,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher states the next data point, prompting students to provide the count for that value."
+    },
+    {
+      "ID": 25260,
+      "Speaker": "T",
+      "Turn": 25260,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 25262,
+      "Speaker": "T",
+      "Turn": 25262,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's contribution ('two') word for word."
+    },
+    {
+      "ID": 25264,
+      "Speaker": "T",
+      "Turn": 25264,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's contribution ('two') word for word."
+    },
+    {
+      "ID": 25265,
+      "Speaker": "T",
+      "Turn": 25265,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's contribution ('two') word for word."
+    },
+    {
+      "ID": 25266,
+      "Speaker": "T",
+      "Turn": 25266,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 25267,
+      "Speaker": "T",
+      "Turn": 25267,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 25268,
+      "Speaker": "T",
+      "Turn": 25268,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher states the next data point, prompting students to provide the count for that value."
+    },
+    {
+      "ID": 25269,
+      "Speaker": "T",
+      "Turn": 25269,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher states the next data point, prompting students to provide the count for that value."
+    },
+    {
+      "ID": 25271,
+      "Speaker": "T",
+      "Turn": 25271,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's contribution ('no') word for word."
+    },
+    {
+      "ID": 25272,
+      "Speaker": "T",
+      "Turn": 25272,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's idea ('no') but changes the wording to a more mathematical term ('zero')."
+    }
+  ]
+}

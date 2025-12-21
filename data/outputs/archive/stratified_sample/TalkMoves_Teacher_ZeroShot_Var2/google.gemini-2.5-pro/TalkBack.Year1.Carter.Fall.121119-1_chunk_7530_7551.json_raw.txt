@@ -1,0 +1,150 @@
+{
+  "records": [
+    {
+      "ID": 7530,
+      "Speaker": "T",
+      "Turn": 86,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 7531,
+      "Speaker": "T",
+      "Turn": 86,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases and clarifies a student's contribution by connecting it to the learning intention."
+    },
+    {
+      "ID": 7532,
+      "Speaker": "T",
+      "Turn": 86,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 7533,
+      "Speaker": "T",
+      "Turn": 86,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to provide more evidence or features to identify the problem type."
+    },
+    {
+      "ID": 7534,
+      "Speaker": "S",
+      "Turn": 87
+    },
+    {
+      "ID": 7535,
+      "Speaker": "T",
+      "Turn": 88,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher asks the class to help a student who is struggling, orienting students to support each other."
+    },
+    {
+      "ID": 7536,
+      "Speaker": "T",
+      "Turn": 88,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to explain their thinking process for identifying the numbers as decimals."
+    },
+    {
+      "ID": 7537,
+      "Speaker": "T",
+      "Turn": 88,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 7538,
+      "Speaker": "T",
+      "Turn": 88,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 7539,
+      "Speaker": "S",
+      "Turn": 89
+    },
+    {
+      "ID": 7540,
+      "Speaker": "T",
+      "Turn": 90,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts the student to expand on their brief answer and explain their thinking further."
+    },
+    {
+      "ID": 7541,
+      "Speaker": "S",
+      "Turn": 91
+    },
+    {
+      "ID": 7542,
+      "Speaker": "S",
+      "Turn": 92
+    },
+    {
+      "ID": 7543,
+      "Speaker": "T",
+      "Turn": 93,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher confirms and slightly rephrases the student's idea about using grids to represent decimals."
+    },
+    {
+      "ID": 7544,
+      "Speaker": "T",
+      "Turn": 93,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for a specific mathematical value, prompting students to make a precise mathematical contribution."
+    },
+    {
+      "ID": 7545,
+      "Speaker": "T",
+      "Turn": 93,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 7546,
+      "Speaker": "T",
+      "Turn": 93,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher repeats the question to press for a specific mathematical value."
+    },
+    {
+      "ID": 7547,
+      "Speaker": "T",
+      "Turn": 93,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 7548,
+      "Speaker": "T",
+      "Turn": 93,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 7549,
+      "Speaker": "T",
+      "Turn": 93,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 7550,
+      "Speaker": "T",
+      "Turn": 93,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 7551,
+      "Speaker": "T",
+      "Turn": 93,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

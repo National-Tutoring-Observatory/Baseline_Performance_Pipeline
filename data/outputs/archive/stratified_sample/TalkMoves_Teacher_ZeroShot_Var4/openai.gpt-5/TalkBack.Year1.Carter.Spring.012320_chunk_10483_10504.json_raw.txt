@@ -1,0 +1,109 @@
+{
+  "records": [
+    {
+      "ID": 10483,
+      "Speaker": "T",
+      "Turn": 8,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10484,
+      "Speaker": "T",
+      "Turn": 8,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10485,
+      "Speaker": "T",
+      "Turn": 8,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to perform a specific mathematical task (rounding to the nearest tenth)."
+    },
+    {
+      "ID": 10486,
+      "Speaker": "T",
+      "Turn": 8,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10487,
+      "Speaker": "T",
+      "Turn": 8,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10489,
+      "Speaker": "T",
+      "Turn": 10,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks for justification of the answer ('Why is it 72?')."
+    },
+    {
+      "ID": 10490,
+      "Speaker": "T",
+      "Turn": 10,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10493,
+      "Speaker": "T",
+      "Turn": 12,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for precise identification of the place value being referenced."
+    },
+    {
+      "ID": 10494,
+      "Speaker": "T",
+      "Turn": 12,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10495,
+      "Speaker": "T",
+      "Turn": 12,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to specify which place value to consider."
+    },
+    {
+      "ID": 10497,
+      "Speaker": "T",
+      "Turn": 14,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks for an explanation of the rounding rule at five."
+    },
+    {
+      "ID": 10500,
+      "Speaker": "T",
+      "Turn": 16,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher probes the reasoning behind the 'five or more' rule."
+    },
+    {
+      "ID": 10501,
+      "Speaker": "T",
+      "Turn": 17,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher restates the student’s idea about rounding up in different words."
+    },
+    {
+      "ID": 10503,
+      "Speaker": "T",
+      "Turn": 19,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10504,
+      "Speaker": "T",
+      "Turn": 19,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "records": [
+    {
+      "ID": 4099,
+      "Speaker": "T",
+      "Turn": 140,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4100,
+      "Speaker": "T",
+      "Turn": 140,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4101,
+      "Speaker": "T",
+      "Turn": 140,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4103,
+      "Speaker": "T",
+      "Turn": 142,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks which way the inequality ('alligator mouth') should face, prompting a precise mathematical detail."
+    },
+    {
+      "ID": 4105,
+      "Speaker": "T",
+      "Turn": 144,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher reformulates the student's contribution as 'one and two tenths,' adding precision to the idea."
+    },
+    {
+      "ID": 4106,
+      "Speaker": "T",
+      "Turn": 144,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks 'How do you know?' to elicit the student's justification."
+    },
+    {
+      "ID": 4107,
+      "Speaker": "T",
+      "Turn": 144,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4110,
+      "Speaker": "T",
+      "Turn": 147,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4111,
+      "Speaker": "T",
+      "Turn": 147,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4115,
+      "Speaker": "T",
+      "Turn": 151,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "records": [
+    {
+      "ID": 2261,
+      "Speaker": "T",
+      "Turn": 203,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "T prompts the student to perform a specific mathematical operation (subtraction), focusing on correct procedure."
+    },
+    {
+      "ID": 2263,
+      "Speaker": "T",
+      "Turn": 205,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "T checks whether subtraction is being set up correctly, pushing for correct mathematical implementation."
+    },
+    {
+      "ID": 2265,
+      "Speaker": "T",
+      "Turn": 207,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "T encourages the student to think about the steps needed to solve the problem, eliciting their reasoning process."
+    },
+    {
+      "ID": 2266,
+      "Speaker": "T",
+      "Turn": 207,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "T reminds the student to include proper mathematical notation (dollar sign), ensuring precision."
+    },
+    {
+      "ID": 2267,
+      "Speaker": "T",
+      "Turn": 208,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2268,
+      "Speaker": "T",
+      "Turn": 208,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "T directs the student to use the correct unit (dollars) and symbol, focusing on mathematical accuracy."
+    },
+    {
+      "ID": 2269,
+      "Speaker": "T",
+      "Turn": 208,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2270,
+      "Speaker": "T",
+      "Turn": 208,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2271,
+      "Speaker": "T",
+      "Turn": 209,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "T asks students to explain how they solved the problem, seeking their underlying reasoning."
+    },
+    {
+      "ID": 2272,
+      "Speaker": "T",
+      "Turn": 209,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "T instructs the class to listen carefully to peers’ explanations, orienting all students to each other’s thinking."
+    },
+    {
+      "ID": 2273,
+      "Speaker": "T",
+      "Turn": 209,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "T requests that students justify why they chose specific numbers, eliciting reasoning."
+    },
+    {
+      "ID": 2274,
+      "Speaker": "T",
+      "Turn": 209,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "T presses students to explain the rationale behind selecting 13 x 3, seeking their thought process."
+    },
+    {
+      "ID": 2275,
+      "Speaker": "T",
+      "Turn": 209,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2276,
+      "Speaker": "T",
+      "Turn": 209,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2277,
+      "Speaker": "T",
+      "Turn": 209,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2279,
+      "Speaker": "T",
+      "Turn": 211,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2281,
+      "Speaker": "T",
+      "Turn": 213,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "T tells the student to present the number model and explain their estimates and solution steps, soliciting detailed reasoning."
+    }
+  ]
+}

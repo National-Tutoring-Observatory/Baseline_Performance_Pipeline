@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 8812,
+      "Turn": 156,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8813,
+      "Turn": 156,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8814,
+      "Turn": 157,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher introduces a counterexample ('what if') to prompt the student to apply their reasoning to a new situation."
+    },
+    {
+      "ID": 8815,
+      "Turn": 157,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to make a specific and correct mathematical contribution about whether 3 is a factor of 37."
+    },
+    {
+      "ID": 8816,
+      "Turn": 157,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher explicitly asks the student to provide a reason for their answer with 'Why not'."
+    },
+    {
+      "ID": 8817,
+      "Turn": 157,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to explain the mathematical difference between two cases, prompting them to share their thinking."
+    },
+    {
+      "ID": 8819,
+      "Turn": 159,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8820,
+      "Turn": 159,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8821,
+      "Turn": 159,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks 'How do you know' to prompt the student to provide evidence for their claim."
+    },
+    {
+      "ID": 8822,
+      "Turn": 159,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8824,
+      "Turn": 161,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to be more precise by asking for the specific referent of the pronoun 'what'."
+    },
+    {
+      "ID": 8826,
+      "Turn": 163,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8827,
+      "Turn": 163,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases the student's idea of 'split it equally' using more formal mathematical language: '36 divided by 3 would be even groups'."
+    },
+    {
+      "ID": 8828,
+      "Turn": 163,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8829,
+      "Turn": 163,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks for 'another way to prove' something, prompting for an alternative justification."
+    },
+    {
+      "ID": 8831,
+      "Turn": 165,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8832,
+      "Turn": 165,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks for 'another way to prove' something, prompting for an alternative justification."
+    },
+    {
+      "ID": 8834,
+      "Turn": 167,
+      "Speaker": "T",
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats a student's mathematically questionable statement verbatim to highlight it for clarification."
+    },
+    {
+      "ID": 8835,
+      "Turn": 167,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8836,
+      "Turn": 167,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher explicitly asks the student to 'Explain' their confusing statement."
+    }
+  ]
+}

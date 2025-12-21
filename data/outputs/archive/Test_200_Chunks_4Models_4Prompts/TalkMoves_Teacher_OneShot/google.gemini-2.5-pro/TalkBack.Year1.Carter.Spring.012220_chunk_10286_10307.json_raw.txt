@@ -1,0 +1,102 @@
+{
+  "records": [
+    {
+      "ID": 10286,
+      "Turn": 266,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10288,
+      "Turn": 268,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10289,
+      "Turn": 268,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10290,
+      "Turn": 268,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to make a specific mathematical contribution by completing the calculation."
+    },
+    {
+      "ID": 10292,
+      "Turn": 270,
+      "Speaker": "T",
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's answer 'Six' word for word."
+    },
+    {
+      "ID": 10293,
+      "Turn": 270,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10294,
+      "Turn": 270,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10295,
+      "Turn": 270,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10298,
+      "Turn": 272,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to make a specific mathematical contribution by completing the calculation."
+    },
+    {
+      "ID": 10301,
+      "Turn": 274,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10302,
+      "Turn": 274,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10303,
+      "Turn": 275,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10304,
+      "Turn": 275,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to provide a specific piece of mathematical information needed for the next step."
+    },
+    {
+      "ID": 10306,
+      "Turn": 277,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to make a specific mathematical contribution by completing the calculation."
+    }
+  ]
+}

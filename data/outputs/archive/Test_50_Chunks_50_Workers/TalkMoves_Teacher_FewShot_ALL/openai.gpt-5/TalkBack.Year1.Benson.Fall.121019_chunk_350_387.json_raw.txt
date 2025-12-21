@@ -1,0 +1,165 @@
+{
+  "records": [
+    {
+      "ID": 350,
+      "Speaker": "T",
+      "Turn": 173,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 351,
+      "Speaker": "T",
+      "Turn": 173,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to provide the value of a specific digit to use in multiplication."
+    },
+    {
+      "ID": 353,
+      "Speaker": "T",
+      "Turn": 175,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 354,
+      "Speaker": "T",
+      "Turn": 175,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks students to state the previously identified value of a digit."
+    },
+    {
+      "ID": 356,
+      "Speaker": "T",
+      "Turn": 177,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the value of another digit."
+    },
+    {
+      "ID": 358,
+      "Speaker": "T",
+      "Turn": 179,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher requests the value of a digit (“what was that”), prompting a specific mathematical contribution."
+    },
+    {
+      "ID": 361,
+      "Speaker": "T",
+      "Turn": 182,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 362,
+      "Speaker": "T",
+      "Turn": 182,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 363,
+      "Speaker": "T",
+      "Turn": 182,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the digit’s value (“What’s this digit worth”)."
+    },
+    {
+      "ID": 366,
+      "Speaker": "T",
+      "Turn": 185,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 367,
+      "Speaker": "T",
+      "Turn": 185,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to provide the product/value (“The value of this times this is”)."
+    },
+    {
+      "ID": 369,
+      "Speaker": "T",
+      "Turn": 187,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 370,
+      "Speaker": "T",
+      "Turn": 187,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 371,
+      "Speaker": "T",
+      "Turn": 187,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 372,
+      "Speaker": "T",
+      "Turn": 187,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for a multiplication fact (“What is 3 times 1”)."
+    },
+    {
+      "ID": 374,
+      "Speaker": "T",
+      "Turn": 189,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher restates the student’s answer by embedding it in the full statement (“3 times 1 is 3”) and adds explanation."
+    },
+    {
+      "ID": 375,
+      "Speaker": "T",
+      "Turn": 189,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for another multiplication fact (“What is 3 times 7”)."
+    },
+    {
+      "ID": 378,
+      "Speaker": "T",
+      "Turn": 192,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 379,
+      "Speaker": "T",
+      "Turn": 192,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to compute a fact (“10 times 4”)."
+    },
+    {
+      "ID": 381,
+      "Speaker": "T",
+      "Turn": 194,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to compute another fact (“7 times 4”)."
+    },
+    {
+      "ID": 383,
+      "Speaker": "T",
+      "Turn": 196,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 384,
+      "Speaker": "T",
+      "Turn": 196,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 386,
+      "Speaker": "T",
+      "Turn": 198,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

@@ -1,0 +1,296 @@
+{
+  "records": [
+    {
+      "ID": 21974,
+      "Turn": 157,
+      "Speaker": "S",
+      "Sentence": "Then you subtract x from both sides which will get you negative two x"
+    },
+    {
+      "ID": 21975,
+      "Turn": 158,
+      "Speaker": "T",
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the result of the student's calculation."
+    },
+    {
+      "ID": 21976,
+      "Turn": 158,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student for the next step in the procedure."
+    },
+    {
+      "ID": 21977,
+      "Turn": 159,
+      "Speaker": "S",
+      "Sentence": "Then you divide both sides by two"
+    },
+    {
+      "ID": 21978,
+      "Turn": 160,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's suggested step and adds a clarification about its purpose."
+    },
+    {
+      "ID": 21979,
+      "Turn": 161,
+      "Speaker": "S",
+      "Sentence": "That gets you back to negative x and then you just square both sides and then it just gives you x2x2"
+    },
+    {
+      "ID": 21980,
+      "Turn": 162,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases the student's procedural steps into a more general mathematical goal, attributing the idea to the student."
+    },
+    {
+      "ID": 21981,
+      "Turn": 162,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks the students to provide the specific mathematical steps required to achieve the stated goal."
+    },
+    {
+      "ID": 21982,
+      "Turn": 162,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21983,
+      "Turn": 162,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21984,
+      "Turn": 162,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21985,
+      "Turn": 162,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21986,
+      "Turn": 162,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21987,
+      "Turn": 162,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21988,
+      "Turn": 162,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21989,
+      "Turn": 162,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a student to state the next step in the mathematical process."
+    },
+    {
+      "ID": 21990,
+      "Turn": 165,
+      "Speaker": "S",
+      "Sentence": "Yes"
+    },
+    {
+      "ID": 21991,
+      "Turn": 166,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21992,
+      "Turn": 166,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher confirms the student's implied correct step and states the result of that action."
+    },
+    {
+      "ID": 21993,
+      "Turn": 166,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21994,
+      "Turn": 166,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21995,
+      "Turn": 166,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21996,
+      "Turn": 166,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the class for the next step in solving the quadratic equation."
+    },
+    {
+      "ID": 21997,
+      "Turn": 167,
+      "Speaker": "S",
+      "Sentence": "Factor"
+    },
+    {
+      "ID": 21998,
+      "Turn": 168,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's suggestion and elaborates on what that step entails."
+    },
+    {
+      "ID": 21999,
+      "Turn": 168,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks students to choose the more efficient next step in the procedure."
+    },
+    {
+      "ID": 22000,
+      "Turn": 169,
+      "Speaker": "S",
+      "Sentence": "Subtract the x in the negative two"
+    },
+    {
+      "ID": 22001,
+      "Turn": 170,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to justify their choice of which terms to move in the equation."
+    },
+    {
+      "ID": 22002,
+      "Turn": 171,
+      "Speaker": "S",
+      "Sentence": "To keep the leading coefficient positive"
+    },
+    {
+      "ID": 22003,
+      "Turn": 172,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher confirms and rephrases the student's reasoning for their procedural choice."
+    },
+    {
+      "ID": 22004,
+      "Turn": 172,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22005,
+      "Turn": 172,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a specific mathematical question to guide the factoring process."
+    },
+    {
+      "ID": 22006,
+      "Turn": 173,
+      "Speaker": "S",
+      "Sentence": "Yes"
+    },
+    {
+      "ID": 22007,
+      "Turn": 174,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to state the specific factors."
+    },
+    {
+      "ID": 22008,
+      "Turn": 175,
+      "Speaker": "S",
+      "Sentence": "Negative two or positive one"
+    },
+    {
+      "ID": 22009,
+      "Turn": 176,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22010,
+      "Turn": 176,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22011,
+      "Turn": 176,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22012,
+      "Turn": 176,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22013,
+      "Turn": 176,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22014,
+      "Turn": 176,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22015,
+      "Turn": 176,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22016,
+      "Turn": 176,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

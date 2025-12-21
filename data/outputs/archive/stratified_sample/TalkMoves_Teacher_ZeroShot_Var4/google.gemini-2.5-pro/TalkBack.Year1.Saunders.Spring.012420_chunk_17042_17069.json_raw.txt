@@ -1,0 +1,180 @@
+{
+  "records": [
+    {
+      "ID": 17042,
+      "Turn": 78,
+      "Speaker": "T",
+      "Sentence": "Years and then we find out",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17044,
+      "Turn": 80,
+      "Speaker": "T",
+      "Sentence": "How much profit the company is making",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's idea ('profit') but rephrases it into a more complete sentence that clarifies its meaning in the context of the problem."
+    },
+    {
+      "ID": 17045,
+      "Turn": 80,
+      "Speaker": "T",
+      "Sentence": "Notice my input is always what goes on my Xaxis my output is whats on my Y",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17046,
+      "Turn": 80,
+      "Speaker": "T",
+      "Sentence": "The A value positive negative or zero",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to make a specific mathematical contribution by identifying the sign of the 'A' value."
+    },
+    {
+      "ID": 17048,
+      "Turn": 82,
+      "Speaker": "T",
+      "Sentence": "You dont sound very convinced",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17050,
+      "Turn": 84,
+      "Speaker": "T",
+      "Sentence": "Positive",
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's one-word answer ('Positive') verbatim."
+    },
+    {
+      "ID": 17051,
+      "Turn": 84,
+      "Speaker": "T",
+      "Sentence": "Its positive which means my parabola opens up or down",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to connect a known fact (the 'a' value is positive) to its implication for the graph's orientation, thus pressing for a logical connection."
+    },
+    {
+      "ID": 17053,
+      "Turn": 86,
+      "Speaker": "T",
+      "Sentence": "Up and that makes me very happy because I really like positive things in my life",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17054,
+      "Turn": 87,
+      "Speaker": "T",
+      "Sentence": "All right so if it opens up do I have a min or a max",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts students to deduce the existence of a minimum or maximum based on the previously established fact that the parabola opens up."
+    },
+    {
+      "ID": 17056,
+      "Turn": 88,
+      "Speaker": "T",
+      "Sentence": "A minimum value",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's idea ('A minimum') but adds the word 'value' to make the mathematical term more precise."
+    },
+    {
+      "ID": 17057,
+      "Turn": 88,
+      "Speaker": "T",
+      "Sentence": "In this story person number three what does that minimum value mean",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks a student to explain the meaning of a mathematical concept (the minimum value) in the context of the problem, prompting for interpretation."
+    },
+    {
+      "ID": 17058,
+      "Turn": 88,
+      "Speaker": "T",
+      "Sentence": "Interpret the minimum value for this story",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher explicitly asks students to interpret a mathematical feature in the context of the story, which is a direct prompt for reasoning."
+    },
+    {
+      "ID": 17059,
+      "Turn": 88,
+      "Speaker": "T",
+      "Sentence": "Person number three go",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17060,
+      "Turn": 89,
+      "Speaker": "T",
+      "Sentence": "How many are here",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17061,
+      "Turn": 89,
+      "Speaker": "T",
+      "Sentence": "The minimum value shows me the lowest profit in that year",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17062,
+      "Turn": 89,
+      "Speaker": "T",
+      "Sentence": "Its a specific year",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17063,
+      "Turn": 89,
+      "Speaker": "T",
+      "Sentence": "Its a specific dollar value and its a specific year",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17064,
+      "Turn": 89,
+      "Speaker": "T",
+      "Sentence": "Now if I want to find out what year that is so which way is my year",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to make a specific mathematical contribution by identifying which variable represents the year."
+    },
+    {
+      "ID": 17065,
+      "Turn": 89,
+      "Speaker": "T",
+      "Sentence": "Is my year over there on the Y or is it on the X",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher reframes the question to prompt students to accurately identify the correct axis for the 'year' variable."
+    },
+    {
+      "ID": 17067,
+      "Turn": 90,
+      "Speaker": "T",
+      "Sentence": "If we want to find the year I want to find the X",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher takes the student's one-letter answer ('X') and rephrases it as a complete thought, connecting it to the goal of the problem."
+    },
+    {
+      "ID": 17068,
+      "Turn": 90,
+      "Speaker": "T",
+      "Sentence": "If Im given standard form how do I find the X value of the minimum",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to explain the method or process for finding a specific value, prompting them to share their procedural thinking."
+    },
+    {
+      "ID": 17069,
+      "Turn": 91,
+      "Speaker": "T",
+      "Sentence": "You guys are too good",
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

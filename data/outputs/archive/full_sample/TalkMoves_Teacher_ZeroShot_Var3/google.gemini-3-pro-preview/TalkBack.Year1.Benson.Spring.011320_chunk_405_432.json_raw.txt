@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 405,
+      "Speaker": "T",
+      "Turn": 405,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 406,
+      "Speaker": "T",
+      "Turn": 406,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher is asking for a specific mathematical contribution (who did the fractions for 1/5)."
+    },
+    {
+      "ID": 407,
+      "Speaker": "T",
+      "Turn": 407,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a student to share the specific answer they came up with."
+    },
+    {
+      "ID": 409,
+      "Speaker": "T",
+      "Turn": 409,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to explain their method or thinking process ('Howd you figure those out')."
+    },
+    {
+      "ID": 410,
+      "Speaker": "T",
+      "Turn": 410,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher continues to probe for the student's process ('What did you do')."
+    },
+    {
+      "ID": 412,
+      "Speaker": "T",
+      "Turn": 412,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's idea ('You added') to verify or amplify it."
+    },
+    {
+      "ID": 414,
+      "Speaker": "T",
+      "Turn": 414,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases and clarifies the student's contribution ('So you added on the top')."
+    },
+    {
+      "ID": 415,
+      "Speaker": "T",
+      "Turn": 415,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks for the specific steps taken for the denominator, prompting explanation of the process."
+    },
+    {
+      "ID": 417,
+      "Speaker": "T",
+      "Turn": 417,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's method ('You counted by 5') to confirm understanding."
+    },
+    {
+      "ID": 418,
+      "Speaker": "T",
+      "Turn": 418,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher asks another student (Bryce) to restate what Liam said, ensuring the class is following the discussion."
+    },
+    {
+      "ID": 419,
+      "Speaker": "T",
+      "Turn": 419,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher prompts the student again to recall the specific mathematical steps mentioned by the previous speaker."
+    },
+    {
+      "ID": 421,
+      "Speaker": "T",
+      "Turn": 421,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher is scaffolding the listening check, trying to help the student recall what was said."
+    },
+    {
+      "ID": 423,
+      "Speaker": "T",
+      "Turn": 423,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 424,
+      "Speaker": "T",
+      "Turn": 424,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher asks the original speaker to repeat their idea so the other student can hear it."
+    },
+    {
+      "ID": 425,
+      "Speaker": "T",
+      "Turn": 425,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 426,
+      "Speaker": "T",
+      "Turn": 426,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher asks if the student understands the logic behind the peer's method ('Does that make sense to you')."
+    },
+    {
+      "ID": 427,
+      "Speaker": "T",
+      "Turn": 427,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher summarizes the student's strategy ('Adding ones at the top but counting by fives at the bottom') to clarify it for the class."
+    },
+    {
+      "ID": 429,
+      "Speaker": "T",
+      "Turn": 429,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher checks if the student agrees with or understands the logic of the previous idea."
+    },
+    {
+      "ID": 430,
+      "Speaker": "T",
+      "Turn": 430,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher asks another student (Katie) to evaluate the sense of the previous idea."
+    },
+    {
+      "ID": 432,
+      "Speaker": "T",
+      "Turn": 432,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to generalize the rule ('Will that work with all fractions'), prompting deeper mathematical thinking."
+    }
+  ]
+}

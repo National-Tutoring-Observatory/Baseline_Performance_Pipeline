@@ -1,0 +1,128 @@
+{
+  "records": [
+    {
+      "ID": 8812,
+      "Speaker": "T",
+      "Turn": 156,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Teacher directs students to turn to their face partner, orienting them toward each other for discussion."
+    },
+    {
+      "ID": 8813,
+      "Speaker": "T",
+      "Turn": 156
+    },
+    {
+      "ID": 8814,
+      "Speaker": "T",
+      "Turn": 157,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher poses a new numerical case (37) for students to evaluate mathematically."
+    },
+    {
+      "ID": 8815,
+      "Speaker": "T",
+      "Turn": 157,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks directly whether 3 is a factor of 37, requesting a specific mathematical fact."
+    },
+    {
+      "ID": 8816,
+      "Speaker": "T",
+      "Turn": 157,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher asks \"Why not,\" prompting students to justify their answer."
+    },
+    {
+      "ID": 8817,
+      "Speaker": "T",
+      "Turn": 157,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher asks what makes 3 a factor of 36 but not 37, explicitly requesting an explanation."
+    },
+    {
+      "ID": 8819,
+      "Speaker": "T",
+      "Turn": 159
+    },
+    {
+      "ID": 8820,
+      "Speaker": "T",
+      "Turn": 159
+    },
+    {
+      "ID": 8821,
+      "Speaker": "T",
+      "Turn": 159,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher asks how students know 3 is a factor of 36, soliciting justification."
+    },
+    {
+      "ID": 8822,
+      "Speaker": "T",
+      "Turn": 159
+    },
+    {
+      "ID": 8824,
+      "Speaker": "T",
+      "Turn": 161,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks the student to specify what can be split into three equal groups, requesting precise mathematical content."
+    },
+    {
+      "ID": 8826,
+      "Speaker": "T",
+      "Turn": 163
+    },
+    {
+      "ID": 8827,
+      "Speaker": "T",
+      "Turn": 163,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher restates and elaborates the student’s point about 36 ÷ 3 producing equal groups."
+    },
+    {
+      "ID": 8828,
+      "Speaker": "T",
+      "Turn": 163
+    },
+    {
+      "ID": 8829,
+      "Speaker": "T",
+      "Turn": 163,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher asks for another way to prove the claim, requesting additional justification."
+    },
+    {
+      "ID": 8831,
+      "Speaker": "T",
+      "Turn": 165
+    },
+    {
+      "ID": 8832,
+      "Speaker": "T",
+      "Turn": 165,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher again asks for another proof, prompting explanation from a different student."
+    },
+    {
+      "ID": 8834,
+      "Speaker": "T",
+      "Turn": 167,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher repeats the student’s statement that 36 is both even and odd, highlighting it for scrutiny."
+    },
+    {
+      "ID": 8835,
+      "Speaker": "T",
+      "Turn": 167
+    },
+    {
+      "ID": 8836,
+      "Speaker": "T",
+      "Turn": 167,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher requests an explanation of how 36 could be both even and odd, seeking reasoning."
+    }
+  ]
+}

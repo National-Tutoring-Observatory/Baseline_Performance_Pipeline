@@ -1,0 +1,102 @@
+{
+  "records": [
+    {
+      "ID": 1044,
+      "Speaker": "T",
+      "Turn": 1,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1045,
+      "Speaker": "T",
+      "Turn": 1,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1048,
+      "Speaker": "T",
+      "Turn": 3,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1049,
+      "Speaker": "T",
+      "Turn": 3,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1050,
+      "Speaker": "T",
+      "Turn": 3,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher asks Julie to read the problem aloud so the entire class can hear and follow, ensuring collective attention."
+    },
+    {
+      "ID": 1053,
+      "Speaker": "T",
+      "Turn": 5,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to state precisely what information needs to be determined."
+    },
+    {
+      "ID": 1054,
+      "Speaker": "T",
+      "Turn": 5,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "By directing the question to Leo, the teacher continues to prompt for the exact unknown to be found."
+    },
+    {
+      "ID": 1056,
+      "Speaker": "T",
+      "Turn": 7,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks students to recall and articulate the known information from the problem."
+    },
+    {
+      "ID": 1057,
+      "Speaker": "T",
+      "Turn": 7,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The follow-up prompt further seeks specific pieces of given information."
+    },
+    {
+      "ID": 1058,
+      "Speaker": "T",
+      "Turn": 7,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1060,
+      "Speaker": "T",
+      "Turn": 9,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks students to produce a correct number sentence, focusing on precise mathematical representation."
+    },
+    {
+      "ID": 1062,
+      "Speaker": "T",
+      "Turn": 11,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher requests the exact numerical answer for how many beets Kennedy has."
+    },
+    {
+      "ID": 1064,
+      "Speaker": "T",
+      "Turn": 13,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts students to connect the number 5 in the equation to its contextual meaning, eliciting explanation of representation."
+    },
+    {
+      "ID": 1065,
+      "Speaker": "T",
+      "Turn": 15,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Similarly, the teacher asks students to explain what the number 7 stands for, encouraging conceptual reasoning."
+    }
+  ]
+}

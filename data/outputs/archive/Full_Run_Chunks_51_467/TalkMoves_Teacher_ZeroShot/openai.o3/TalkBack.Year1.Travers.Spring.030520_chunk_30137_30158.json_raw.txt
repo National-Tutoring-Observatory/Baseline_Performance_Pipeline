@@ -1,0 +1,109 @@
+{
+  "records": [
+    {
+      "ID": 30138,
+      "Speaker": "T",
+      "Turn": 113,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher restates the student's brief answer and adds detail, putting it into a fuller mathematical statement."
+    },
+    {
+      "ID": 30139,
+      "Speaker": "T",
+      "Turn": 113
+    },
+    {
+      "ID": 30141,
+      "Speaker": "T",
+      "Turn": 115
+    },
+    {
+      "ID": 30142,
+      "Speaker": "T",
+      "Turn": 115,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks whether a required representation (a picture) has been included, prompting attention to a specific mathematical element."
+    },
+    {
+      "ID": 30144,
+      "Speaker": "T",
+      "Turn": 117,
+      "TalkMove": "Restating",
+      "Reasoning": "Teacher repeats the student's single-word reply exactly to confirm shared understanding."
+    },
+    {
+      "ID": 30145,
+      "Speaker": "T",
+      "Turn": 117
+    },
+    {
+      "ID": 30146,
+      "Speaker": "T",
+      "Turn": 117
+    },
+    {
+      "ID": 30147,
+      "Speaker": "T",
+      "Turn": 117
+    },
+    {
+      "ID": 30148,
+      "Speaker": "T",
+      "Turn": 117,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Again asks if the drawing was provided, prompting students to check completeness of their work."
+    },
+    {
+      "ID": 30149,
+      "Speaker": "T",
+      "Turn": 117,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher checks for the presence of a number model, focusing students on a specific mathematical requirement."
+    },
+    {
+      "ID": 30150,
+      "Speaker": "T",
+      "Turn": 117,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher asks what to do with the remainder, prompting students to think about and justify how it should be handled."
+    },
+    {
+      "ID": 30152,
+      "Speaker": "T",
+      "Turn": 119,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher solicits the exact quantity left over, requesting a precise mathematical answer."
+    },
+    {
+      "ID": 30154,
+      "Speaker": "T",
+      "Turn": 121,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher rephrases the student’s answer '2 left' into the mathematical term 'remainder' to clarify the idea."
+    },
+    {
+      "ID": 30155,
+      "Speaker": "T",
+      "Turn": 121
+    },
+    {
+      "ID": 30156,
+      "Speaker": "T",
+      "Turn": 121,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher restates the student’s result, reinforcing the idea that 2 are left."
+    },
+    {
+      "ID": 30157,
+      "Speaker": "T",
+      "Turn": 121,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher asks whether the explanation has been provided, urging students to articulate their reasoning."
+    },
+    {
+      "ID": 30158,
+      "Speaker": "T",
+      "Turn": 121
+    }
+  ]
+}

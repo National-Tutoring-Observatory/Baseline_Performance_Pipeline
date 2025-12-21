@@ -1,0 +1,62 @@
+[
+  {
+    "ID": 9067,
+    "Turn": 1,
+    "Speaker": "T",
+    "Sentence": "I am going to dictate a fraction and you need to write three fractions that are equivalent to the fraction I give you",
+    "TalkMove": "None",
+    "Reasoning": null
+  },
+  {
+    "ID": 9068,
+    "Turn": 1,
+    "Speaker": "T",
+    "Sentence": "You have a strategy that might help somebody to do this when they are not sure",
+    "TalkMove": "None",
+    "Reasoning": null
+  },
+  {
+    "ID": 9069,
+    "Turn": 1,
+    "Speaker": "T",
+    "Sentence": "Talk at your teams",
+    "TalkMove": "None",
+    "Reasoning": null
+  },
+  {
+    "ID": 9070,
+    "Turn": 1,
+    "Speaker": "T",
+    "Sentence": "If you have an idea for the strategy share that out",
+    "TalkMove": "None",
+    "Reasoning": null
+  },
+  {
+    "ID": 9071,
+    "Turn": 1,
+    "Speaker": "T",
+    "Sentence": "Ill deal with your team",
+    "TalkMove": "None",
+    "Reasoning": null
+  },
+  {
+    "ID": 9072,
+    "Turn": 2,
+    "Speaker": "T",
+    "Sentence": "What would be an efficient way to generate those fractions Brody G",
+    "TalkMove": "Pressing for Reasoning",
+    "Reasoning": "The teacher asks a student to share their thinking about an efficient strategy for solving the problem."
+  },
+  {
+    "ID": 9073,
+    "Turn": 3,
+    "Speaker": "S",
+    "Sentence": "Using the multiplication maam"
+  },
+  {
+    "ID": 9074,
+    "Turn": 4,
+    "Speaker": "T",
+    "Sentence": "Okay so whats the saying that we have for that",
+    "TalkMove": "Pressing for Accuracy",
+    "Reasoning":

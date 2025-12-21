@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 10006,
+      "Speaker": "T",
+      "Turn": 10006,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher asks Gracey to explain why the expression is three times four, requesting justification."
+    },
+    {
+      "ID": 10008,
+      "Speaker": "T",
+      "Turn": 10008,
+      "TalkMove": "Restating",
+      "Reasoning": "Teacher repeats the student’s explanation nearly word-for-word: ‘There’s three groups of four.’"
+    },
+    {
+      "ID": 10009,
+      "Speaker": "T",
+      "Turn": 10009,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10010,
+      "Speaker": "T",
+      "Turn": 10010,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10011,
+      "Speaker": "T",
+      "Turn": 10011,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks for the total number of stamps—seeking a specific mathematical answer."
+    },
+    {
+      "ID": 10012,
+      "Speaker": "T",
+      "Turn": 10012,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher prompts students to state the mathematical expression."
+    },
+    {
+      "ID": 10013,
+      "Speaker": "T",
+      "Turn": 10013,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10014,
+      "Speaker": "T",
+      "Turn": 10014,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10015,
+      "Speaker": "T",
+      "Turn": 10015,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10016,
+      "Speaker": "T",
+      "Turn": 10016,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher instructs students to discuss why the representation is eight times eight, seeking explanations."
+    },
+    {
+      "ID": 10019,
+      "Speaker": "T",
+      "Turn": 10019,
+      "TalkMove": "Restating",
+      "Reasoning": "Teacher echoes a fragment of a student’s idea: ‘Because there’s eight.’"
+    },
+    {
+      "ID": 10021,
+      "Speaker": "T",
+      "Turn": 10021,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10022,
+      "Speaker": "T",
+      "Turn": 10022,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Teacher calls the class’s attention back to her: ‘Back to me,’ orienting all students to the discussion."
+    },
+    {
+      "ID": 10023,
+      "Speaker": "T",
+      "Turn": 10023,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher asks Emma to explain why the expression is eight times eight."
+    },
+    {
+      "ID": 10025,
+      "Speaker": "T",
+      "Turn": 10025,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10026,
+      "Speaker": "T",
+      "Turn": 10026,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher again prompts for an explanation of why it is eight times eight."
+    },
+    {
+      "ID": 10028,
+      "Speaker": "T",
+      "Turn": 10028,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher paraphrases the student’s idea, adding her own wording: ‘So there’s a group of eight eight different times.’"
+    },
+    {
+      "ID": 10030,
+      "Speaker": "T",
+      "Turn": 10030,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10031,
+      "Speaker": "T",
+      "Turn": 10031,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10032,
+      "Speaker": "T",
+      "Turn": 10032,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

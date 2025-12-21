@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 26605,
+      "Speaker": "S",
+      "Turn": 209
+    },
+    {
+      "ID": 26606,
+      "Speaker": "T",
+      "Turn": 210,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26607,
+      "Speaker": "S",
+      "Turn": 211
+    },
+    {
+      "ID": 26608,
+      "Speaker": "S",
+      "Turn": 212
+    },
+    {
+      "ID": 26609,
+      "Speaker": "T",
+      "Turn": 213,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26610,
+      "Speaker": "T",
+      "Turn": 213,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks students to compute 30 × 2, requesting a specific numerical answer."
+    },
+    {
+      "ID": 26611,
+      "Speaker": "S",
+      "Turn": 214
+    },
+    {
+      "ID": 26612,
+      "Speaker": "T",
+      "Turn": 215,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher gives one product (60) and then prompts students for the next product 10 × 3."
+    },
+    {
+      "ID": 26613,
+      "Speaker": "S",
+      "Turn": 216
+    },
+    {
+      "ID": 26614,
+      "Speaker": "T",
+      "Turn": 217,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the value of 3 × 2, seeking a precise mathematical fact."
+    },
+    {
+      "ID": 26615,
+      "Speaker": "S",
+      "Turn": 218
+    },
+    {
+      "ID": 26616,
+      "Speaker": "T",
+      "Turn": 219,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's answer 'Six' word for word."
+    },
+    {
+      "ID": 26617,
+      "Speaker": "T",
+      "Turn": 219,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "By pausing after 'So far the tap dancers cost', the teacher prompts students to supply the exact total cost."
+    },
+    {
+      "ID": 26618,
+      "Speaker": "S",
+      "Turn": 220
+    },
+    {
+      "ID": 26619,
+      "Speaker": "T",
+      "Turn": 221,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher restates the student's verbal answer ('Three hundred ninety-six') as the numeral '39600', rephrasing the contribution."
+    },
+    {
+      "ID": 26620,
+      "Speaker": "T",
+      "Turn": 221,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26621,
+      "Speaker": "T",
+      "Turn": 221,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks, 'what do I need to figure out now?', prompting students to articulate the next logical step in the solution process."
+    },
+    {
+      "ID": 26622,
+      "Speaker": "T",
+      "Turn": 222,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26623,
+      "Speaker": "T",
+      "Turn": 223,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26624,
+      "Speaker": "T",
+      "Turn": 224,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26625,
+      "Speaker": "T",
+      "Turn": 225,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher states 'So 6 × 30' as a prompt for students to calculate that exact product."
+    },
+    {
+      "ID": 26626,
+      "Speaker": "T",
+      "Turn": 225,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

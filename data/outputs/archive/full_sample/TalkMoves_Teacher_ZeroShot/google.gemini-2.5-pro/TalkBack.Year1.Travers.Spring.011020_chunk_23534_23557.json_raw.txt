@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 23534,
+      "Speaker": "T",
+      "Turn": 23534,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23535,
+      "Speaker": "T",
+      "Turn": 23535,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23536,
+      "Speaker": "T",
+      "Turn": 23536,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23537,
+      "Speaker": "T",
+      "Turn": 23537,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the class to explain the method for solving the problem, prompting them to share their thinking."
+    },
+    {
+      "ID": 23538,
+      "Speaker": "T",
+      "Turn": 23538,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23539,
+      "Speaker": "T",
+      "Turn": 23539,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23540,
+      "Speaker": "T",
+      "Turn": 23540,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts a student to explain their problem-solving process by asking 'how would you solve this'."
+    },
+    {
+      "ID": 23542,
+      "Speaker": "T",
+      "Turn": 23542,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts the student to demonstrate their thinking process by asking them to 'show me how'."
+    },
+    {
+      "ID": 23543,
+      "Speaker": "T",
+      "Turn": 23543,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher explicitly asks the student to explain their actions and the justification behind them by asking 'what you're doing and why'."
+    },
+    {
+      "ID": 23545,
+      "Speaker": "T",
+      "Turn": 23545,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats their interpretation of the student's action, attempting to articulate the student's thinking for the class."
+    },
+    {
+      "ID": 23546,
+      "Speaker": "T",
+      "Turn": 23546,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher corrects the student's mathematical terminology from 'factors' to 'multiples', prompting for more precise language."
+    },
+    {
+      "ID": 23547,
+      "Speaker": "T",
+      "Turn": 23547,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's action using the corrected, precise mathematical term, thereby clarifying the student's contribution for the class."
+    },
+    {
+      "ID": 23549,
+      "Speaker": "T",
+      "Turn": 23549,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher directs one student's attention to another student's work to ensure they are following the demonstration."
+    },
+    {
+      "ID": 23550,
+      "Speaker": "T",
+      "Turn": 23550,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher continues to orient a student to a classmate's contribution, emphasizing the method being shown."
+    },
+    {
+      "ID": 23551,
+      "Speaker": "T",
+      "Turn": 23551,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23552,
+      "Speaker": "T",
+      "Turn": 23552,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "After summarizing the work so far, the teacher prompts the student to explain the next part of their process by asking 'what was your next step'."
+    },
+    {
+      "ID": 23554,
+      "Speaker": "T",
+      "Turn": 23554,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's action and clarifies its mathematical meaning for the class, thus rephrasing the student's contribution."
+    },
+    {
+      "ID": 23555,
+      "Speaker": "T",
+      "Turn": 23555,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to explain the connection between their action and the overall goal of the problem."
+    },
+    {
+      "ID": 23556,
+      "Speaker": "T",
+      "Turn": 23556,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23557,
+      "Speaker": "T",
+      "Turn": 23557,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts the student to explain the next step in their method by asking 'How are you going to change those two fractions'."
+    }
+  ]
+}

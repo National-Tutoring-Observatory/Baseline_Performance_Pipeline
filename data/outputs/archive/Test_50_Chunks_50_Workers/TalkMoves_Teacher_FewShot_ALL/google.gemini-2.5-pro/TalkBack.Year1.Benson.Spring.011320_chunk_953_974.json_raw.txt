@@ -1,0 +1,172 @@
+{
+  "records": [
+    {
+      "ID": 953,
+      "Turn": 266,
+      "Speaker": "T",
+      "Sentence": "Put it on the table by you there",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 954,
+      "Turn": 266,
+      "Speaker": "T",
+      "Sentence": "Put it on the table by you",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 955,
+      "Turn": 266,
+      "Speaker": "T",
+      "Sentence": "Thank you for your quick transitions looking at number one when yellow piece was half of our shape so how many would it take to make the whole thing",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a question to elicit a specific mathematical quantity."
+    },
+    {
+      "ID": 956,
+      "Turn": 267,
+      "Speaker": "S",
+      "Sentence": "Two"
+    },
+    {
+      "ID": 957,
+      "Turn": 268,
+      "Speaker": "T",
+      "Sentence": "Two of them if I put two of them together what color does that equal",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's answer ('Two') and adds on a new question to continue the mathematical exploration."
+    },
+    {
+      "ID": 958,
+      "Turn": 269,
+      "Speaker": "S",
+      "Sentence": "Pink one pink"
+    },
+    {
+      "ID": 959,
+      "Turn": 270,
+      "Speaker": "T",
+      "Sentence": "One pink",
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats part of the student's contribution verbatim."
+    },
+    {
+      "ID": 960,
+      "Turn": 270,
+      "Speaker": "T",
+      "Sentence": "I just did half of it plus another half equaled to two halves or one whole pink okay",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 961,
+      "Turn": 270,
+      "Speaker": "T",
+      "Sentence": "They always give you the easy one first dont they",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 962,
+      "Turn": 270,
+      "Speaker": "T",
+      "Sentence": "Okay go down to number four they said one dark green is worth 25 talk to me about what I have to do in order to figure out what 55 would be",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to explain the process ('what I have to do') to solve the problem, prompting them to share their thinking."
+    },
+    {
+      "ID": 963,
+      "Turn": 270,
+      "Speaker": "T",
+      "Sentence": "If this is 25 Maddox what did you do to figure out what 55 would be",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks a specific student to describe the steps he took ('what did you do'), prompting him to share his reasoning."
+    },
+    {
+      "ID": 964,
+      "Turn": 271,
+      "Speaker": "S",
+      "Sentence": "We need 25  the half of 25 so what should be 15"
+    },
+    {
+      "ID": 965,
+      "Turn": 272,
+      "Speaker": "T",
+      "Sentence": "You need another 15 right",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases the student's unclear contribution, focusing on the number '15' to clarify the student's intended meaning."
+    },
+    {
+      "ID": 966,
+      "Turn": 272,
+      "Speaker": "T",
+      "Sentence": "You need to figure out what one of the 15 will be so Maddox is saying we have to split that dark green into two equal parts so you have to try to find what few pieces fit on that dark green",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher interprets and rephrases the student's strategy ('the half of 25') into a clearer action ('we have to split that dark green into two equal parts')."
+    },
+    {
+      "ID": 967,
+      "Turn": 272,
+      "Speaker": "T",
+      "Sentence": "Was it purple",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students for a specific mathematical contribution (the name of the correct piece)."
+    },
+    {
+      "ID": 968,
+      "Turn": 272,
+      "Speaker": "T",
+      "Sentence": "Was it dark blue",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students for a specific mathematical contribution by offering another possible answer."
+    },
+    {
+      "ID": 969,
+      "Turn": 272,
+      "Speaker": "T",
+      "Sentence": "Was it light green",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students for a specific mathematical contribution by offering another possible answer."
+    },
+    {
+      "ID": 970,
+      "Turn": 272,
+      "Speaker": "T",
+      "Sentence": "What was it",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a direct question to elicit the name of the correct piece."
+    },
+    {
+      "ID": 971,
+      "Turn": 272,
+      "Speaker": "T",
+      "Sentence": "Avery",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher calls on a specific student to provide the answer to the previous question, continuing the press for a correct contribution."
+    },
+    {
+      "ID": 972,
+      "Turn": 273,
+      "Speaker": "S",
+      "Sentence": "Purple"
+    },
+    {
+      "ID": 973,
+      "Turn": 274,
+      "Speaker": "T",
+      "Sentence": "It was a purple right",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's one-word answer ('Purple') and reframes it as a complete sentence with a confirmation tag."
+    },
+    {
+      "ID": 974,
+      "Turn": 274,
+      "Speaker": "T",
+      "Sentence": "So two purples fill in one dark green",
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

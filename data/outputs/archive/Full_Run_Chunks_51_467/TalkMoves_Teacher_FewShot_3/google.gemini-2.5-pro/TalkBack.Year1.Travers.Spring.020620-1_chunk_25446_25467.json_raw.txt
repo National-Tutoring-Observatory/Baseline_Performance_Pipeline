@@ -1,0 +1,156 @@
+{
+  "records": [
+    {
+      "ID": 25446,
+      "Turn": 21,
+      "Speaker": "T",
+      "Sentence": "Say the word symmetric",
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 25448,
+      "Turn": 23,
+      "Speaker": "T",
+      "Sentence": "Do you notice some part of the word that s the same",
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 25449,
+      "Turn": 23,
+      "Speaker": "T",
+      "Sentence": "Okay",
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 25450,
+      "Turn": 23,
+      "Speaker": "T",
+      "Sentence": "Violet what do you notice",
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 25452,
+      "Turn": 25,
+      "Speaker": "T",
+      "Sentence": "This part",
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 25454,
+      "Turn": 26,
+      "Speaker": "T",
+      "Sentence": "They are not all the same",
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 25455,
+      "Turn": 27,
+      "Speaker": "T",
+      "Sentence": "What does that tell about a word if most of the word is the same",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts students to explain the implication of their observation about the word."
+    },
+    {
+      "ID": 25456,
+      "Turn": 27,
+      "Speaker": "T",
+      "Sentence": "What does that tell us",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher repeats the prompt for students to explain the implication of their observation."
+    },
+    {
+      "ID": 25457,
+      "Turn": 27,
+      "Speaker": "T",
+      "Sentence": "What do you think",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts students to share their thinking in response to the previous questions."
+    },
+    {
+      "ID": 25458,
+      "Turn": 27,
+      "Speaker": "T",
+      "Sentence": "It means the same or very similar",
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 25459,
+      "Turn": 27,
+      "Speaker": "T",
+      "Sentence": "I want you to think right now in your head what do you know about this word symmetry or this word symmetric",
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 25460,
+      "Turn": 27,
+      "Speaker": "T",
+      "Sentence": "I m going to have you put your hands down",
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 25461,
+      "Turn": 27,
+      "Speaker": "T",
+      "Sentence": "I want you to turn and face a partner",
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 25462,
+      "Turn": 27,
+      "Speaker": "T",
+      "Sentence": "I want to see who you ll be talking with",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher is orienting students to each other by having them identify their discussion partners."
+    },
+    {
+      "ID": 25463,
+      "Turn": 27,
+      "Speaker": "T",
+      "Sentence": "You will be turning your body",
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 25464,
+      "Turn": 27,
+      "Speaker": "T",
+      "Sentence": "Having a team of three is okay also",
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 25465,
+      "Turn": 27,
+      "Speaker": "T",
+      "Sentence": "Show me right now with a high five who will you be talking to",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher gives a specific instruction for students to physically orient to their partners for the upcoming discussion."
+    },
+    {
+      "ID": 25466,
+      "Turn": 27,
+      "Speaker": "T",
+      "Sentence": "Jesse would you join Michael so you guys have a team of three please",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher is explicitly organizing students into groups, orienting them to each other for the task."
+    },
+    {
+      "ID": 25467,
+      "Turn": 27,
+      "Speaker": "T",
+      "Sentence": "Joel are you in a team",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher checks to ensure a student is included and oriented within a group for the upcoming task."
+    }
+  ]
+}

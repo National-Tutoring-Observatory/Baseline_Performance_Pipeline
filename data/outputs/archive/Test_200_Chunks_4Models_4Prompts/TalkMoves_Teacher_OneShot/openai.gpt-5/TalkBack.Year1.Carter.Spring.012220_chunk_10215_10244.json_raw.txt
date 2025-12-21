@@ -1,0 +1,158 @@
+{
+  "records": [
+    {
+      "ID": 10215,
+      "Speaker": "T",
+      "Turn": 227,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10216,
+      "Speaker": "T",
+      "Turn": 227,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10218,
+      "Speaker": "T",
+      "Turn": 229,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to compute 2×3, eliciting a precise mathematical answer."
+    },
+    {
+      "ID": 10220,
+      "Speaker": "T",
+      "Turn": 231,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher repeats the prompt to compute 2×3 to elicit the correct product."
+    },
+    {
+      "ID": 10222,
+      "Speaker": "T",
+      "Turn": 233,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to explain the rationale behind the procedure ('Can you see why')."
+    },
+    {
+      "ID": 10223,
+      "Speaker": "T",
+      "Turn": 233,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10224,
+      "Speaker": "T",
+      "Turn": 233,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10225,
+      "Speaker": "T",
+      "Turn": 233,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10226,
+      "Speaker": "T",
+      "Turn": 233,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10228,
+      "Speaker": "T",
+      "Turn": 235,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts the student to articulate their correction/strategy ('fix up')."
+    },
+    {
+      "ID": 10230,
+      "Speaker": "T",
+      "Turn": 237,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10231,
+      "Speaker": "T",
+      "Turn": 238,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10232,
+      "Speaker": "T",
+      "Turn": 238,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10233,
+      "Speaker": "T",
+      "Turn": 238,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10234,
+      "Speaker": "T",
+      "Turn": 238,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10235,
+      "Speaker": "T",
+      "Turn": 238,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher invites the student to explain their thinking about the work ('Talk to me about this')."
+    },
+    {
+      "ID": 10236,
+      "Speaker": "T",
+      "Turn": 238,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the value of 1/4 of 8, prompting a specific computational answer."
+    },
+    {
+      "ID": 10238,
+      "Speaker": "T",
+      "Turn": 239,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10240,
+      "Speaker": "T",
+      "Turn": 241,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10241,
+      "Speaker": "T",
+      "Turn": 241,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks what 3/4 would be given that 1/4 is 2, prompting a calculation."
+    },
+    {
+      "ID": 10243,
+      "Speaker": "T",
+      "Turn": 243,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10244,
+      "Speaker": "T",
+      "Turn": 243,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher restates and extends the student's idea that 'that is multiplication' by clarifying it as finding a fraction of a quantity."
+    }
+  ]
+}

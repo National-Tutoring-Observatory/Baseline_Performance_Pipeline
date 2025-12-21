@@ -1,0 +1,123 @@
+{
+  "records": [
+    {
+      "ID": 30138,
+      "Speaker": "T",
+      "Turn": 113,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher repeats the student’s brief answer (“Left”) with fuller wording (“Two dollars left”), rephrasing to clarify meaning."
+    },
+    {
+      "ID": 30139,
+      "Speaker": "T",
+      "Turn": 113,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 30141,
+      "Speaker": "T",
+      "Turn": 115,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 30142,
+      "Speaker": "T",
+      "Turn": 115,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher checks whether a required representation (a picture) was included, prompting attention to the mathematical solution components."
+    },
+    {
+      "ID": 30144,
+      "Speaker": "T",
+      "Turn": 117,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 30145,
+      "Speaker": "T",
+      "Turn": 117,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 30146,
+      "Speaker": "T",
+      "Turn": 117,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 30147,
+      "Speaker": "T",
+      "Turn": 117,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 30148,
+      "Speaker": "T",
+      "Turn": 117,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks if a drawing is present, pushing students to verify inclusion of a necessary problem‐solving element."
+    },
+    {
+      "ID": 30149,
+      "Speaker": "T",
+      "Turn": 117,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher inquires about a number model, prompting students to check that the precise mathematical representation is provided."
+    },
+    {
+      "ID": 30150,
+      "Speaker": "T",
+      "Turn": 117,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks whether the remainder was addressed, urging students to confirm that this specific mathematical detail is handled."
+    },
+    {
+      "ID": 30152,
+      "Speaker": "T",
+      "Turn": 119,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher seeks the exact quantity left ('what?'), prompting students to state the precise mathematical result."
+    },
+    {
+      "ID": 30154,
+      "Speaker": "T",
+      "Turn": 121,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 30155,
+      "Speaker": "T",
+      "Turn": 121,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 30156,
+      "Speaker": "T",
+      "Turn": 121,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 30157,
+      "Speaker": "T",
+      "Turn": 121,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher asks if their thinking has been explained, prompting students (and herself) to articulate the reasoning behind the solution."
+    },
+    {
+      "ID": 30158,
+      "Speaker": "T",
+      "Turn": 121,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

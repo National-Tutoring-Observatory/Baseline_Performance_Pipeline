@@ -1,0 +1,100 @@
+{
+  "records": [
+    {
+      "ID": 9571,
+      "Turn": 29,
+      "Speaker": "T",
+      "Sentence": "All right head back to your seats unless you need to stay there to talk to them about their work",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9572,
+      "Turn": 29,
+      "Speaker": "T",
+      "Sentence": "Ready go",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9573,
+      "Turn": 30,
+      "Speaker": "T",
+      "Sentence": "This is right",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9575,
+      "Turn": 31,
+      "Speaker": "T",
+      "Sentence": "Okay",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9576,
+      "Turn": 32,
+      "Speaker": "T",
+      "Sentence": "This is the tenth to the zero so what should it be",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to provide the correct mathematical expression based on the place value."
+    },
+    {
+      "ID": 9578,
+      "Turn": 33,
+      "Speaker": "T",
+      "Sentence": "Or should it be 10 to go first",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher questions the student's response and suggests an alternative to guide them toward a more accurate mathematical representation."
+    },
+    {
+      "ID": 9580,
+      "Turn": 35,
+      "Speaker": "T",
+      "Sentence": "Because you want one zero there right",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to confirm the reasoning behind using '10 to the first'."
+    },
+    {
+      "ID": 9582,
+      "Turn": 37,
+      "Speaker": "T",
+      "Sentence": "One would be 10 to the 0",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher states a correct mathematical fact to guide the student toward the accurate representation for the ones place."
+    },
+    {
+      "ID": 9584,
+      "Turn": 39,
+      "Speaker": "T",
+      "Sentence": "Yes so it should be 10 to the 0",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's correct answer ('10 to the 0') and adds a concluding phrase, formalizing the student's contribution."
+    },
+    {
+      "ID": 9586,
+      "Turn": 41,
+      "Speaker": "T",
+      "Sentence": "Yes so that is right do you see why",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to articulate or confirm their understanding of the reasoning behind the correct answer."
+    },
+    {
+      "ID": 9591,
+      "Turn": 44,
+      "Speaker": "T",
+      "Sentence": "No its not going to be a one its going to be a zero",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher directly corrects the student's previous error and states the accurate number that should be used."
+    },
+    {
+      "ID": 9592,
+      "Turn": 44,
+      "Speaker": "T",
+      "Sentence": "I misread what you had there",
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

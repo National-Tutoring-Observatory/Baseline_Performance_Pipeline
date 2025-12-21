@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 18158,
+      "Speaker": "T",
+      "Turn": 18158,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18160,
+      "Speaker": "T",
+      "Turn": 18160,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18161,
+      "Speaker": "T",
+      "Turn": 18161,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18162,
+      "Speaker": "T",
+      "Turn": 18162,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18163,
+      "Speaker": "T",
+      "Turn": 18163,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18164,
+      "Speaker": "T",
+      "Turn": 18164,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for a specific mathematical contribution, the value of the root."
+    },
+    {
+      "ID": 18165,
+      "Speaker": "T",
+      "Turn": 18165,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for a specific mathematical contribution, the value of the x-intercept."
+    },
+    {
+      "ID": 18167,
+      "Speaker": "T",
+      "Turn": 18167,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats a likely student answer ('zero') and rephrases it into a more complete mathematical statement."
+    },
+    {
+      "ID": 18168,
+      "Speaker": "T",
+      "Turn": 18168,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18170,
+      "Speaker": "T",
+      "Turn": 18170,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18171,
+      "Speaker": "T",
+      "Turn": 18171,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats what they believe a student said ('6') to confirm the contribution."
+    },
+    {
+      "ID": 18173,
+      "Speaker": "T",
+      "Turn": 18173,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts students to explain the behavior of the graph at a specific point."
+    },
+    {
+      "ID": 18175,
+      "Speaker": "T",
+      "Turn": 18175,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher takes a likely student contribution ('it bounces') and adds significant mathematical detail and explanation."
+    },
+    {
+      "ID": 18176,
+      "Speaker": "T",
+      "Turn": 18176,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for a specific mathematical value, the degree of the polynomial."
+    },
+    {
+      "ID": 18180,
+      "Speaker": "T",
+      "Turn": 18180,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18184,
+      "Speaker": "T",
+      "Turn": 18184,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher confirms a student's correct answer ('Five') and adds the mathematical reasoning behind it."
+    },
+    {
+      "ID": 18185,
+      "Speaker": "T",
+      "Turn": 18185,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to identify a specific mathematical property of the polynomial."
+    },
+    {
+      "ID": 18188,
+      "Speaker": "T",
+      "Turn": 18188,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher takes a student's one-word answer ('Positive') and elaborates on its mathematical implications for the graph's end behavior."
+    },
+    {
+      "ID": 18189,
+      "Speaker": "T",
+      "Turn": 18189,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18190,
+      "Speaker": "T",
+      "Turn": 18190,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

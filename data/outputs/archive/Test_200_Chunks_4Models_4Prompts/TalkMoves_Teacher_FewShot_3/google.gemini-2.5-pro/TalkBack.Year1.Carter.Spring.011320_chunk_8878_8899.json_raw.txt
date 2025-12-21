@@ -1,0 +1,138 @@
+[
+  {
+    "ID": 8878,
+    "Turn": 186,
+    "Speaker": "T",
+    "Sentence": "Is two a factor of six",
+    "TalkMove": "None",
+    "Reasoning": null
+  },
+  {
+    "ID": 8880,
+    "Turn": 188,
+    "Speaker": "T",
+    "Sentence": "Yes because you multiply to get to that right",
+    "TalkMove": "Revoicing",
+    "Reasoning": "The teacher repeats the student's affirmative answer and adds the mathematical reasoning behind it."
+  },
+  {
+    "ID": 8881,
+    "Turn": 188,
+    "Speaker": "T",
+    "Sentence": "Two is a factor of all of these numbers because you multiply it to get to that",
+    "TalkMove": "None",
+    "Reasoning": null
+  },
+  {
+    "ID": 8882,
+    "Turn": 188,
+    "Speaker": "T",
+    "Sentence": "Two is a factor or three is a factor of all of these because you multiply it to get that",
+    "TalkMove": "None",
+    "Reasoning": null
+  },
+  {
+    "ID": 8883,
+    "Turn": 188,
+    "Speaker": "T",
+    "Sentence": "Whatever youre multiplying by its going to be a factor right",
+    "TalkMove": "None",
+    "Reasoning": null
+  },
+  {
+    "ID": 8885,
+    "Turn": 190,
+    "Speaker": "T",
+    "Sentence": "All right",
+    "TalkMove": "None",
+    "Reasoning": null
+  },
+  {
+    "ID": 8886,
+    "Turn": 190,
+    "Speaker": "T",
+    "Sentence": "Back to me please",
+    "TalkMove": "Keeping Everyone Together",
+    "Reasoning": "The teacher prompts students to orient their attention back to the front of the class."
+  },
+  {
+    "ID": 8887,
+    "Turn": 190,
+    "Speaker": "T",
+    "Sentence": "Thank you",
+    "TalkMove": "None",
+    "Reasoning": null
+  },
+  {
+    "ID": 8888,
+    "Turn": 190,
+    "Speaker": "T",
+    "Sentence": "How do you know that you can use factors to help you find a common denominator",
+    "TalkMove": "Pressing for Reasoning",
+    "Reasoning": "The teacher asks 'How do you know' to prompt a student to explain their thinking."
+  },
+  {
+    "ID": 8889,
+    "Turn": 190,
+    "Speaker": "T",
+    "Sentence": "Martha",
+    "TalkMove": "None",
+    "Reasoning": null
+  },
+  {
+    "ID": 8891,
+    "Turn": 191,
+    "Speaker": "T",
+    "Sentence": "You could use factors for that",
+    "TalkMove": "Revoicing",
+    "Reasoning": "The teacher rephrases the student's idea that factors can be used to find a common denominator."
+  },
+  {
+    "ID": 8892,
+    "Turn": 191,
+    "Speaker": "T",
+    "Sentence": "What is a number that has the factors of 6 and 8",
+    "TalkMove": "Pressing for Accuracy",
+    "Reasoning": "The teacher prompts the student to make a specific mathematical contribution based on their prior statement."
+  },
+  {
+    "ID": 8894,
+    "Turn": 192,
+    "Speaker": "T",
+    "Sentence": "Least common",
+    "TalkMove": "Restating",
+    "Reasoning": "The teacher repeats part of what the student said word for word."
+  },
+  {
+    "ID": 8896,
+    "Turn": 194,
+    "Speaker": "T",
+    "Sentence": "Can we come back to this at the end",
+    "TalkMove": "None",
+    "Reasoning": null
+  },
+  {
+    "ID": 8897,
+    "Turn": 194,
+    "Speaker": "T",
+    "Sentence": "Because I think Im asking you to do stuff when you havent had a chance to practice but I think youre on the right track most definitely",
+    "TalkMove": "None",
+    "Reasoning": null
+  },
+  {
+    "ID": 8898,
+    "Turn": 194,
+    "Speaker": "T",
+    "Sentence": "Lets look at our success criteria",
+    "TalkMove": "None",
+    "Reasoning": null
+  },
+  {
+    "ID": 8899,
+    "Turn": 194,
+    "Speaker": "T",
+    "Sentence": "Read this with me",
+    "TalkMove": "Keeping Everyone Together",
+    "Reasoning": "The teacher prompts all students to participate in a shared activity (choral reading)."
+  }
+]

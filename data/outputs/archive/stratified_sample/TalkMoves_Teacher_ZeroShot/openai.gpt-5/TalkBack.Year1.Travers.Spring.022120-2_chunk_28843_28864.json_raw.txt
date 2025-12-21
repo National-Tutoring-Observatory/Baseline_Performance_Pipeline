@@ -1,0 +1,67 @@
+{
+  "records": [
+    {
+      "ID": 28843,
+      "Speaker": "T",
+      "Turn": 300,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the correct mathematical name of the figure, prompting precise terminology."
+    },
+    {
+      "ID": 28847,
+      "Speaker": "T",
+      "Turn": 303,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 28848,
+      "Speaker": "T",
+      "Turn": 303,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 28850,
+      "Speaker": "T",
+      "Turn": 305,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's answer verbatim ('Trapezoid')."
+    },
+    {
+      "ID": 28852,
+      "Speaker": "T",
+      "Turn": 307,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 28856,
+      "Speaker": "T",
+      "Turn": 310,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts students to notice and connect similarity between representations."
+    },
+    {
+      "ID": 28860,
+      "Speaker": "T",
+      "Turn": 313,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 28862,
+      "Speaker": "T",
+      "Turn": 315,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 28863,
+      "Speaker": "T",
+      "Turn": 315,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

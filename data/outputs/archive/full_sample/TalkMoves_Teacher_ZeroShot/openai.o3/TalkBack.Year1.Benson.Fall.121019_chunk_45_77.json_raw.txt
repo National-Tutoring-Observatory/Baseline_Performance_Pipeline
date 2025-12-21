@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 45,
+      "Speaker": "T",
+      "Turn": 45,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher states a multiplication expression, prompting students to supply the correct product."
+    },
+    {
+      "ID": 48,
+      "Speaker": "T",
+      "Turn": 48,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 49,
+      "Speaker": "T",
+      "Turn": 49,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks students to identify the specific basic fact needed, requesting a precise mathematical contribution."
+    },
+    {
+      "ID": 50,
+      "Speaker": "T",
+      "Turn": 50,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 51,
+      "Speaker": "T",
+      "Turn": 51,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 52,
+      "Speaker": "T",
+      "Turn": 52,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher restates the student's answer '56' and adds commentary about their thinking, slightly rephrasing the idea."
+    },
+    {
+      "ID": 53,
+      "Speaker": "T",
+      "Turn": 53,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Poses another multiplication expression to elicit the exact numerical answer."
+    },
+    {
+      "ID": 55,
+      "Speaker": "T",
+      "Turn": 55,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks 'Why,' inviting the student to explain their reasoning."
+    },
+    {
+      "ID": 56,
+      "Speaker": "T",
+      "Turn": 56,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Asks students to justify why the answer is not 80, seeking explanation."
+    },
+    {
+      "ID": 58,
+      "Speaker": "T",
+      "Turn": 58,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 59,
+      "Speaker": "T",
+      "Turn": 59,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 60,
+      "Speaker": "T",
+      "Turn": 60,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 61,
+      "Speaker": "T",
+      "Turn": 61,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Another multiplication expression meant to obtain the precise product from students."
+    },
+    {
+      "ID": 63,
+      "Speaker": "T",
+      "Turn": 63,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Prompts students to compute 9 × 30, requesting the exact answer."
+    },
+    {
+      "ID": 65,
+      "Speaker": "T",
+      "Turn": 65,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Presents 60 × 800 to have students state the correct product."
+    },
+    {
+      "ID": 68,
+      "Speaker": "T",
+      "Turn": 68,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Questions why the answer should be 48 000 instead of 4 800, prompting justification."
+    },
+    {
+      "ID": 69,
+      "Speaker": "T",
+      "Turn": 69,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Directs a student (Matt) to explain why a different answer is not correct."
+    },
+    {
+      "ID": 71,
+      "Speaker": "T",
+      "Turn": 71,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher paraphrases the student's strategy about adding four zeros to the basic fact."
+    },
+    {
+      "ID": 72,
+      "Speaker": "T",
+      "Turn": 72,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "States 600 × 40, asking students to compute the precise product."
+    },
+    {
+      "ID": 77,
+      "Speaker": "T",
+      "Turn": 77,
+      "TalkMove": "Restating",
+      "Reasoning": "Teacher repeats the student-provided answer '24 000' exactly as heard."
+    }
+  ]
+}

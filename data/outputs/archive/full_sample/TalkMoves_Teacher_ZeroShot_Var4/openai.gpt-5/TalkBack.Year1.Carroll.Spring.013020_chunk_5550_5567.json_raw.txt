@@ -1,0 +1,39 @@
+{
+  "records": [
+    {
+      "ID": 5550,
+      "Speaker": "T",
+      "Turn": 5550,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher builds on a student's 'double' rule by rephrasing it as 'bigger than double,' modifying the student's idea."
+    },
+    {
+      "ID": 5557,
+      "Speaker": "T",
+      "Turn": 5557,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks 'What is that?' to prompt students to specify or define the referenced idea using precise language."
+    },
+    {
+      "ID": 5563,
+      "Speaker": "T",
+      "Turn": 5563,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher paraphrases a student's situation by interpreting it as 'you are ahead,' clarifying the meaning of the student’s contribution."
+    },
+    {
+      "ID": 5566,
+      "Speaker": "T",
+      "Turn": 5566,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5567,
+      "Speaker": "T",
+      "Turn": 5567,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 2230,
+      "Speaker": "T",
+      "Turn": 2230,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher explicitly tells the student they need to 'show what you're doing,' which is a prompt to provide evidence or steps for their thinking."
+    },
+    {
+      "ID": 2239,
+      "Speaker": "T",
+      "Turn": 2239,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 2240,
+      "Speaker": "T",
+      "Turn": 2240,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher sets an expectation for the student to 'explain,' prompting them to share their thinking."
+    },
+    {
+      "ID": 2241,
+      "Speaker": "T",
+      "Turn": 2241,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher points out a missing component ('you only gave me your sandwiches total'), prompting the student to correct or complete the mathematical contribution."
+    },
+    {
+      "ID": 2243,
+      "Speaker": "T",
+      "Turn": 2243,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 2244,
+      "Speaker": "T",
+      "Turn": 2244,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 2245,
+      "Speaker": "T",
+      "Turn": 2245,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks 'how does your answer start' and reminds the student to 'put the label on it,' prompting for precise mathematical notation."
+    },
+    {
+      "ID": 2246,
+      "Speaker": "T",
+      "Turn": 2246,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The question 'What is that' in this context (likely pointing to work) prompts the student to clarify or identify a specific mathematical element."
+    },
+    {
+      "ID": 2247,
+      "Speaker": "T",
+      "Turn": 2247,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher reiterates that they will be ready for the student to 'explain,' prompting future justification of ideas."
+    },
+    {
+      "ID": 2248,
+      "Speaker": "T",
+      "Turn": 2248,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 2249,
+      "Speaker": "T",
+      "Turn": 2249,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher orients the student to the specific task at hand ('We're on this one... just this problem right here')."
+    },
+    {
+      "ID": 2250,
+      "Speaker": "T",
+      "Turn": 2250,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher critiques the work ('You only have one thing here'), prompting the student to provide the complete mathematical answer."
+    },
+    {
+      "ID": 2251,
+      "Speaker": "T",
+      "Turn": 2251,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher clarifies the requirements of the problem ('You're doing burritos and sandwiches'), prompting the student to include both parts."
+    },
+    {
+      "ID": 2253,
+      "Speaker": "T",
+      "Turn": 2253,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's calculation ('You multiplied 18 x 13 x 3') to verify or highlight the specific mathematical step taken."
+    },
+    {
+      "ID": 2255,
+      "Speaker": "T",
+      "Turn": 2255,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 2256,
+      "Speaker": "T",
+      "Turn": 2256,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 2257,
+      "Speaker": "T",
+      "Turn": 2257,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 2258,
+      "Speaker": "T",
+      "Turn": 2258,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher directs the student to include specific items ('You should have burritos and sandwiches'), prompting for a complete and accurate response."
+    },
+    {
+      "ID": 2259,
+      "Speaker": "T",
+      "Turn": 2259,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 2260,
+      "Speaker": "T",
+      "Turn": 2260,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks 'Have you figured out your burritos,' prompting the student to produce a specific mathematical result."
+    }
+  ]
+}

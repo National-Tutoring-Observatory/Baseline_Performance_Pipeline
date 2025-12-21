@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 9797,
+      "Speaker": "T",
+      "Turn": 9797,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases a student's idea using more precise mathematical language ('three times as much as')."
+    },
+    {
+      "ID": 9798,
+      "Speaker": "T",
+      "Turn": 9798,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher prompts another student to add on to the previous speaker's contribution."
+    },
+    {
+      "ID": 9799,
+      "Speaker": "T",
+      "Turn": 9799,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9800,
+      "Speaker": "T",
+      "Turn": 9800,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9801,
+      "Speaker": "T",
+      "Turn": 9801,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to generalize a rule and consider if it applies in all cases."
+    },
+    {
+      "ID": 9802,
+      "Speaker": "T",
+      "Turn": 9802,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher explicitly asks students to provide a justification for their answer."
+    },
+    {
+      "ID": 9803,
+      "Speaker": "T",
+      "Turn": 9803,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher repeats the prompt for students to generalize and provide justification."
+    },
+    {
+      "ID": 9804,
+      "Speaker": "T",
+      "Turn": 9804,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9805,
+      "Speaker": "T",
+      "Turn": 9805,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9806,
+      "Speaker": "T",
+      "Turn": 9806,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9807,
+      "Speaker": "T",
+      "Turn": 9807,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher brings a student's idea from a small group to the attention of the whole class."
+    },
+    {
+      "ID": 9808,
+      "Speaker": "T",
+      "Turn": 9808,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9809,
+      "Speaker": "T",
+      "Turn": 9809,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks a student to share their thinking process with the class."
+    },
+    {
+      "ID": 9812,
+      "Speaker": "T",
+      "Turn": 9812,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9813,
+      "Speaker": "T",
+      "Turn": 9813,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9814,
+      "Speaker": "T",
+      "Turn": 9814,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to provide proof for a rule by creating a visual representation."
+    },
+    {
+      "ID": 9815,
+      "Speaker": "T",
+      "Turn": 9815,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher elaborates on the prompt to create a visual proof, asking students to connect representations."
+    },
+    {
+      "ID": 9816,
+      "Speaker": "T",
+      "Turn": 9816,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher directs students to create a visual representation to justify their thinking."
+    },
+    {
+      "ID": 9817,
+      "Speaker": "T",
+      "Turn": 9817,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher repeats the directive to create a visual representation as a form of proof."
+    },
+    {
+      "ID": 9818,
+      "Speaker": "T",
+      "Turn": 9818,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to use a specific mathematical representation (rectangles) to make their contribution more precise."
+    }
+  ]
+}

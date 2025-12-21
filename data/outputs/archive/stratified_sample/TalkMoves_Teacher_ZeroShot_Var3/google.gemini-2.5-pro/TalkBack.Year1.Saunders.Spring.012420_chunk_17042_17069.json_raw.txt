@@ -1,0 +1,158 @@
+{
+  "records": [
+    {
+      "ID": 17042,
+      "Turn": 78,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17044,
+      "Turn": 80,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases the student's contribution ('The profit') by adding more detail and context ('How much profit the company is making')."
+    },
+    {
+      "ID": 17045,
+      "Turn": 80,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17046,
+      "Turn": 80,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to provide a specific mathematical property (the sign of the 'A' value)."
+    },
+    {
+      "ID": 17048,
+      "Turn": 82,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17050,
+      "Turn": 84,
+      "Speaker": "T",
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's one-word answer ('Positive') verbatim."
+    },
+    {
+      "ID": 17051,
+      "Turn": 84,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks students to state the correct mathematical consequence of the 'A' value being positive."
+    },
+    {
+      "ID": 17053,
+      "Turn": 86,
+      "Speaker": "T",
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher begins by repeating the student's answer ('Up') before adding a personal comment."
+    },
+    {
+      "ID": 17054,
+      "Turn": 87,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to provide the correct mathematical term (minimum or maximum) that follows from the parabola opening up."
+    },
+    {
+      "ID": 17056,
+      "Turn": 88,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's answer ('A minimum') but adds the word 'value' to make it more mathematically precise."
+    },
+    {
+      "ID": 17057,
+      "Turn": 88,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks a student to explain the meaning of a mathematical concept ('minimum value') within the context of the problem."
+    },
+    {
+      "ID": 17058,
+      "Turn": 88,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher explicitly asks students to interpret a mathematical feature in the context of the story, which requires them to explain their thinking."
+    },
+    {
+      "ID": 17059,
+      "Turn": 88,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17060,
+      "Turn": 89,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17061,
+      "Turn": 89,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17062,
+      "Turn": 89,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17063,
+      "Turn": 89,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17064,
+      "Turn": 89,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a question to guide students toward identifying the correct axis for a variable, pressing for an accurate piece of information."
+    },
+    {
+      "ID": 17065,
+      "Turn": 89,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher rephrases the previous question into a multiple-choice format, still prompting students to accurately identify the correct axis."
+    },
+    {
+      "ID": 17067,
+      "Turn": 90,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher takes the student's one-word answer ('X') and rephrases it as a complete conditional statement, adding context."
+    },
+    {
+      "ID": 17068,
+      "Turn": 90,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to explain the mathematical procedure ('how do I find') for calculating the x-value of the vertex from standard form."
+    },
+    {
+      "ID": 17069,
+      "Turn": 91,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

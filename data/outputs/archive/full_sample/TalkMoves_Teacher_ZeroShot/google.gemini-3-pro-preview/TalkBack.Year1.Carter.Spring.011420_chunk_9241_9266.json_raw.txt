@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 9241,
+      "Speaker": "T",
+      "Turn": 9241,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9243,
+      "Speaker": "T",
+      "Turn": 9243,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to explain the connection between the game and the mathematical concept of multiples."
+    },
+    {
+      "ID": 9244,
+      "Speaker": "T",
+      "Turn": 9244,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher redirects the question to a specific student, asking for an explanation of how the game practices the concept."
+    },
+    {
+      "ID": 9248,
+      "Speaker": "T",
+      "Turn": 9248,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9249,
+      "Speaker": "T",
+      "Turn": 9249,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9250,
+      "Speaker": "T",
+      "Turn": 9250,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9251,
+      "Speaker": "T",
+      "Turn": 9251,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9252,
+      "Speaker": "T",
+      "Turn": 9252,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9253,
+      "Speaker": "T",
+      "Turn": 9253,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9255,
+      "Speaker": "T",
+      "Turn": 9255,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9256,
+      "Speaker": "T",
+      "Turn": 9256,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to provide a specific mathematical contribution (the factors of 29)."
+    },
+    {
+      "ID": 9257,
+      "Speaker": "T",
+      "Turn": 9257,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher repeats the prompt for the mathematical contribution."
+    },
+    {
+      "ID": 9258,
+      "Speaker": "T",
+      "Turn": 9258,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9259,
+      "Speaker": "T",
+      "Turn": 9259,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9260,
+      "Speaker": "T",
+      "Turn": 9260,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to explain why the factors can be generated so quickly, prompting for justification."
+    },
+    {
+      "ID": 9261,
+      "Speaker": "T",
+      "Turn": 9261,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher directs the question to a specific student, asking for the reasoning behind the rapid answer."
+    },
+    {
+      "ID": 9263,
+      "Speaker": "T",
+      "Turn": 9263,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9264,
+      "Speaker": "T",
+      "Turn": 9264,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Following an affirmation ('Yes'), the teacher rephrases the student's implied answer about the number having no other factors."
+    },
+    {
+      "ID": 9265,
+      "Speaker": "T",
+      "Turn": 9265,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9266,
+      "Speaker": "T",
+      "Turn": 9266,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "records": [
+    {
+      "ID": 10859,
+      "Turn": 111,
+      "Speaker": "S",
+      "Sentence": "Its going to be like the thing youre multiplying it by"
+    },
+    {
+      "ID": 10860,
+      "Turn": 112,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to replace the vague term 'the thing' with a more precise mathematical term."
+    },
+    {
+      "ID": 10861,
+      "Turn": 113,
+      "Speaker": "S",
+      "Sentence": "Fractions"
+    },
+    {
+      "ID": 10862,
+      "Turn": 114,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher takes the student's one-word answer 'Fractions' and rephrases it into a complete mathematical rule, clarifying and adding to the student's contribution."
+    },
+    {
+      "ID": 10863,
+      "Turn": 114,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10864,
+      "Turn": 115,
+      "Speaker": "S",
+      "Sentence": "Yes"
+    },
+    {
+      "ID": 10865,
+      "Turn": 116,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10866,
+      "Turn": 116,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10867,
+      "Turn": 117,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10868,
+      "Turn": 117,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10869,
+      "Turn": 117,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10870,
+      "Turn": 117,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10871,
+      "Turn": 117,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks a student to explain their strategy, prompting them to share their thinking."
+    },
+    {
+      "ID": 10872,
+      "Turn": 1

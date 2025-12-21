@@ -1,0 +1,151 @@
+{
+  "records": [
+    {
+      "ID": 771,
+      "Turn": 185,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 772,
+      "Turn": 185,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 773,
+      "Turn": 186,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 774,
+      "Turn": 186,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts the student to explain their thinking about how the fraction one-fourth relates to the number of pieces needed to make a whole."
+    },
+    {
+      "ID": 775,
+      "Turn": 187,
+      "Speaker": "S"
+    },
+    {
+      "ID": 776,
+      "Turn": 188,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's idea about the numerator and adds on information about the denominator to complete the thought."
+    },
+    {
+      "ID": 777,
+      "Turn": 189,
+      "Speaker": "S"
+    },
+    {
+      "ID": 778,
+      "Turn": 190,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's answer but adds 'of them' to make the contribution more complete."
+    },
+    {
+      "ID": 779,
+      "Turn": 190,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 780,
+      "Turn": 191,
+      "Speaker": "S"
+    },
+    {
+      "ID": 781,
+      "Turn": 192,
+      "Speaker": "T",
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's answer 'Four' word for word."
+    },
+    {
+      "ID": 782,
+      "Turn": 192,
+      "Speaker": "T",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher calls on a specific student to orient them to the public demonstration and ensure they are following along."
+    },
+    {
+      "ID": 783,
+      "Turn": 192,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 784,
+      "Turn": 193,
+      "Speaker": "S"
+    },
+    {
+      "ID": 785,
+      "Turn": 194,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 786,
+      "Turn": 194,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 787,
+      "Turn": 194,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 788,
+      "Turn": 195,
+      "Speaker": "S"
+    },
+    {
+      "ID": 789,
+      "Turn": 196,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to use more precise mathematical language by correcting 'One' to 'One-fourth'."
+    },
+    {
+      "ID": 790,
+      "Turn": 197,
+      "Speaker": "S"
+    },
+    {
+      "ID": 791,
+      "Turn": 198,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 792,
+      "Turn": 198,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 793,
+      "Turn": 199,
+      "Speaker": "S"
+    }
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "records": [
+    {
+      "ID": 8878,
+      "Turn": 186,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a specific mathematical question to elicit a correct factual contribution from the students."
+    },
+    {
+      "ID": 8880,
+      "Turn": 188,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's affirmative answer and adds the reasoning ('because you multiply...'), thereby clarifying and appropriating the contribution."
+    },
+    {
+      "ID": 8881,
+      "Turn": 188,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8882,
+      "Turn": 188,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8883,
+      "Turn": 188,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8885,
+      "Turn": 190,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8886,
+      "Turn": 190,
+      "Speaker": "T",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher directs students to focus their attention on the speaker, which is a prompt for active listening."
+    },
+    {
+      "ID": 8887,
+      "Turn": 190,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8888,
+      "Turn": 190,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks 'How do you know...', which directly prompts a student to explain their thinking and provide justification."
+    },
+    {
+      "ID": 8889,
+      "Turn": 190,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8891,
+      "Turn": 191,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases the student's idea ('You can use factors...') into a slightly different form ('You could use factors for that') to confirm and build upon it."
+    },
+    {
+      "ID": 8892,
+      "Turn": 191,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for a specific mathematical contribution (a number) that follows from the student's example."
+    },
+    {
+      "ID": 8894,
+      "Turn": 192,
+      "Speaker": "T",
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the first part of the student's phrase ('Least common multiple') verbatim to highlight it."
+    },
+    {
+      "ID": 8896,
+      "Turn": 194,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8897,
+      "Turn": 194,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8898,
+      "Turn": 194,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8899,
+      "Turn": 194,
+      "Speaker": "T",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher prompts all students to engage in a shared activity, ensuring they are all oriented to the same task."
+    }
+  ]
+}

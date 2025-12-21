@@ -1,0 +1,140 @@
+{
+  "records": [
+    {
+      "ID": 26382,
+      "Turn": 107,
+      "Speaker": "T",
+      "Sentence": "Heres jugglers",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26383,
+      "Turn": 107,
+      "Speaker": "T",
+      "Sentence": "My friends this is",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26384,
+      "Turn": 108,
+      "Speaker": "T",
+      "Sentence": "Lets talk about this",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26385,
+      "Turn": 108,
+      "Speaker": "T",
+      "Sentence": "What does all this mean",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts students to explain their thinking and interpret the meaning of the information presented in the problem."
+    },
+    {
+      "ID": 26386,
+      "Turn": 108,
+      "Speaker": "T",
+      "Sentence": "In the juggling group how many people are there juggling",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26388,
+      "Turn": 110,
+      "Speaker": "T",
+      "Sentence": "I want to hear all of your voices",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher prompts all students to be active participants in the discussion."
+    },
+    {
+      "ID": 26389,
+      "Turn": 110,
+      "Speaker": "T",
+      "Sentence": "How many jugglers are there",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26391,
+      "Turn": 112,
+      "Speaker": "T",
+      "Sentence": "Okay",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26392,
+      "Turn": 112,
+      "Speaker": "T",
+      "Sentence": "How many hours do the jugglers perform",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26394,
+      "Turn": 114,
+      "Speaker": "T",
+      "Sentence": "How much money does it cost for each performer",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26396,
+      "Turn": 116,
+      "Speaker": "T",
+      "Sentence": "Lets think about that",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26397,
+      "Turn": 116,
+      "Speaker": "T",
+      "Sentence": "30 an hour for three people",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats a student's contribution ('30 an hour') and adds clarifying information ('for three people') to make it more precise."
+    },
+    {
+      "ID": 26399,
+      "Turn": 118,
+      "Speaker": "T",
+      "Sentence": "Yes but for how many people",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts a student to make their contribution more mathematically precise by asking for a key detail."
+    },
+    {
+      "ID": 26400,
+      "Turn": 118,
+      "Speaker": "T",
+      "Sentence": "Three people two hours 30 for each one of those people per hour",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26401,
+      "Turn": 118,
+      "Speaker": "T",
+      "Sentence": "This is what we have to figure out",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26402,
+      "Turn": 118,
+      "Speaker": "T",
+      "Sentence": "Okay",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26403,
+      "Turn": 118,
+      "Speaker": "T",
+      "Sentence": "Now here we go",
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

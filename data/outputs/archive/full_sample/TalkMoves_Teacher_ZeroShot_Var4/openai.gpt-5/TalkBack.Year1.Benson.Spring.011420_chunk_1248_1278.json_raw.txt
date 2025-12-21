@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 1248,
+      "Speaker": "T",
+      "Turn": 1248,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the specific quantity Charice ran, prompting a precise mathematical value."
+    },
+    {
+      "ID": 1250,
+      "Speaker": "T",
+      "Turn": 1250,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher seeks confirmation of the numeric amount, prompting correctness."
+    },
+    {
+      "ID": 1251,
+      "Speaker": "T",
+      "Turn": 1251,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's value and adds the unit, clarifying the statement."
+    },
+    {
+      "ID": 1252,
+      "Speaker": "T",
+      "Turn": 1252,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks students to identify the unknown they need to find, eliciting a mathematical target."
+    },
+    {
+      "ID": 1253,
+      "Speaker": "T",
+      "Turn": 1253,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher reiterates the problem goal (how much Ally ran) while referencing a student."
+    },
+    {
+      "ID": 1255,
+      "Speaker": "T",
+      "Turn": 1255,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks how to figure it out, prompting explanation of strategy."
+    },
+    {
+      "ID": 1256,
+      "Speaker": "T",
+      "Turn": 1256,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher requests the given information that helps solve the problem, prompting students to connect data to method."
+    },
+    {
+      "ID": 1259,
+      "Speaker": "T",
+      "Turn": 1259,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher orients students to attend carefully to the text, promoting active listening/attention."
+    },
+    {
+      "ID": 1260,
+      "Speaker": "T",
+      "Turn": 1260,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1262,
+      "Speaker": "T",
+      "Turn": 1262,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher summarizes the known quantities and relationships, restating prior contributions."
+    },
+    {
+      "ID": 1263,
+      "Speaker": "T",
+      "Turn": 1263,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to choose the correct operation."
+    },
+    {
+      "ID": 1266,
+      "Speaker": "T",
+      "Turn": 1266,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher identifies who contributed ‘adding,’ orienting the class to the speaker."
+    },
+    {
+      "ID": 1268,
+      "Speaker": "T",
+      "Turn": 1268,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks for justification for adding."
+    },
+    {
+      "ID": 1270,
+      "Speaker": "T",
+      "Turn": 1270,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1271,
+      "Speaker": "T",
+      "Turn": 1271,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1272,
+      "Speaker": "T",
+      "Turn": 1272,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the students’ idea to add and clarifies its application to the situation."
+    },
+    {
+      "ID": 1273,
+      "Speaker": "T",
+      "Turn": 1273,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks students to specify the whole/unit being counted."
+    },
+    {
+      "ID": 1275,
+      "Speaker": "T",
+      "Turn": 1275,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher calls on a specific student to contribute, guiding turn-taking."
+    },
+    {
+      "ID": 1277,
+      "Speaker": "T",
+      "Turn": 1277,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student’s one-word answer verbatim."
+    },
+    {
+      "ID": 1278,
+      "Speaker": "T",
+      "Turn": 1278,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher modifies the wording from ‘Miles’ to ‘A mile’ to clarify the unit."
+    }
+  ]
+}

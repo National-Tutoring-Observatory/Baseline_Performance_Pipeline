@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 17078,
+      "Speaker": "T",
+      "Turn": 17078,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks students to identify the year of least profit given a condition, eliciting a specific mathematical answer."
+    },
+    {
+      "ID": 17081,
+      "Speaker": "T",
+      "Turn": 17081,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher restates a student's answer ('2008') to share it with the class, paraphrasing the contribution."
+    },
+    {
+      "ID": 17083,
+      "Speaker": "T",
+      "Turn": 17083,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher echoes another student's same answer ('2008'), repeating the idea to the class."
+    },
+    {
+      "ID": 17084,
+      "Speaker": "T",
+      "Turn": 17084,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher summarizes the class's idea ('we're thinking 2008') and adds clarification linking equal profit to a horizontal line."
+    },
+    {
+      "ID": 17085,
+      "Speaker": "T",
+      "Turn": 17085,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to align the scenario with the graph and verify equality at two times, seeking a precise mathematical interpretation."
+    },
+    {
+      "ID": 17086,
+      "Speaker": "T",
+      "Turn": 17086,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17088,
+      "Speaker": "T",
+      "Turn": 17088,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks students to identify when the profit is least, eliciting a specific time/value."
+    },
+    {
+      "ID": 17090,
+      "Speaker": "T",
+      "Turn": 17090,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17091,
+      "Speaker": "T",
+      "Turn": 17091,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17092,
+      "Speaker": "T",
+      "Turn": 17092,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher cues students to name the specific year, prompting a precise value."
+    },
+    {
+      "ID": 17095,
+      "Speaker": "T",
+      "Turn": 17095,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17096,
+      "Speaker": "T",
+      "Turn": 17096,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17097,
+      "Speaker": "T",
+      "Turn": 17097,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher prompts the class to be active listeners and attend to the upcoming contribution."
+    },
+    {
+      "ID": 17100,
+      "Speaker": "T",
+      "Turn": 17100,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the current year, eliciting a specific factual value to anchor the model."
+    },
+    {
+      "ID": 17103,
+      "Speaker": "T",
+      "Turn": 17103,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks students to classify the trend using mathematical language (increasing/decreasing/constant)."
+    },
+    {
+      "ID": 17105,
+      "Speaker": "T",
+      "Turn": 17105,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats a student's one-word answer ('Increasing') verbatim to share it with the class."
+    },
+    {
+      "ID": 17106,
+      "Speaker": "T",
+      "Turn": 17106,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks whether the trend continues, seeking a clear, precise interpretation."
+    },
+    {
+      "ID": 17108,
+      "Speaker": "T",
+      "Turn": 17108,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17109,
+      "Speaker": "T",
+      "Turn": 17109,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher reformulates the class's conclusion into a fuller statement, adding a conditional about the model."
+    },
+    {
+      "ID": 17110,
+      "Speaker": "T",
+      "Turn": 17110,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher invites students to explain any challenges in moving from abstract math to a story context, prompting justification and reflection."
+    }
+  ]
+}

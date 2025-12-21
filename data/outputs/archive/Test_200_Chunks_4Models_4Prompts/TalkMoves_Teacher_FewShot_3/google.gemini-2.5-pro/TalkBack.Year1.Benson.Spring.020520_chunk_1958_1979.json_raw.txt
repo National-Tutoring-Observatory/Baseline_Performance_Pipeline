@@ -1,0 +1,114 @@
+[
+  {
+    "ID": 1959,
+    "Turn": 46,
+    "Speaker": "T",
+    "Sentence": "All right how are you finding out the cost to hire jugglers",
+    "TalkMove": "Pressing for Reasoning",
+    "Reasoning": "The teacher asks students to explain the process they used to solve the problem."
+  },
+  {
+    "ID": 1960,
+    "Turn": 46,
+    "Speaker": "T",
+    "Sentence": "Tell me some math that you did there",
+    "TalkMove": "Pressing for Reasoning",
+    "Reasoning": "The teacher prompts students to share the specific mathematical steps they took."
+  },
+  {
+    "ID": 1961,
+    "Turn": 46,
+    "Speaker": "T",
+    "Sentence": "Landon what math did you do to figure out how much jugglers cost",
+    "TalkMove": "Pressing for Reasoning",
+    "Reasoning": "The teacher asks a specific student to explain their mathematical thinking."
+  },
+  {
+    "ID": 1964,
+    "Turn": 48,
+    "Speaker": "T",
+    "Sentence": "Can you tell me where you go those two numbers",
+    "TalkMove": "Pressing for Reasoning",
+    "Reasoning": "The teacher presses the student to provide the evidence or source for the numbers used in their calculation."
+  },
+  {
+    "ID": 1967,
+    "Turn": 50,
+    "Speaker": "T",
+    "Sentence": "Why did you do that x 3",
+    "TalkMove": "Pressing for Reasoning",
+    "Reasoning": "The teacher explicitly asks 'why', prompting the student to justify a specific step in their calculation."
+  },
+  {
+    "ID": 1969,
+    "Turn": 52,
+    "Speaker": "T",
+    "Sentence": "Okay",
+    "TalkMove": "None",
+    "Reasoning": null
+  },
+  {
+    "ID": 1970,
+    "Turn": 52,
+    "Speaker": "T",
+    "Sentence": "In our message remember that it said dont forget thats the cost per performer",
+    "TalkMove": "None",
+    "Reasoning": null
+  },
+  {
+    "ID": 1971,
+    "Turn": 52,
+    "Speaker": "T",
+    "Sentence": "Good job remembering that you needed to do that for every performer",
+    "TalkMove": "None",
+    "Reasoning": null
+  },
+  {
+    "ID": 1972,
+    "Turn": 52,
+    "Speaker": "T",
+    "Sentence": "There were follow me",
+    "TalkMove": "None",
+    "Reasoning": null
+  },
+  {
+    "ID": 1974,
+    "Turn": 54,
+    "Speaker": "T",
+    "Sentence": "Okay",
+    "TalkMove": "None",
+    "Reasoning": null
+  },
+  {
+    "ID": 1975,
+    "Turn": 54,
+    "Speaker": "T",
+    "Sentence": "Landon said he did 2 x 30 because it was two hours of entertainment at 30 an hour and he got 60",
+    "TalkMove": "Revoicing",
+    "Reasoning": "The teacher repeats the student's idea while clarifying and rephrasing it for the class."
+  },
+  {
+    "ID": 1976,
+    "Turn": 54,
+    "Speaker": "T",
+    "Sentence": "Then he multiplied that x 3 because there were three performers",
+    "TalkMove": "Revoicing",
+    "Reasoning": "The teacher continues to summarize and rephrase the student's multi-step reasoning for the class."
+  },
+  {
+    "ID": 1977,
+    "Turn": 54,
+    "Speaker": "T",
+    "Sentence": "Did anyone do that in a different way",
+    "TalkMove": "Getting Students to Relate to Another’s Ideas",
+    "Reasoning": "The teacher asks students to compare their own strategies to the one just shared by a classmate."
+  },
+  {
+    "ID": 1978,
+    "Turn": 54,
+    "Speaker": "T",
+    "Sentence": "Grady how did you do yours",
+    "TalkMove": "Pressing for Reasoning",
+    "Reasoning": "The teacher asks a specific student to explain their method."
+  }
+]

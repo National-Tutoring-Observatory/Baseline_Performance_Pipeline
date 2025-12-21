@@ -1,0 +1,102 @@
+{
+  "records": [
+    {
+      "ID": 1094,
+      "Speaker": "T",
+      "Turn": 34,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher checks whether anyone performed the specific mathematical action of adding 30, prompting an accurate mathematical contribution."
+    },
+    {
+      "ID": 1095,
+      "Speaker": "T",
+      "Turn": 34,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1096,
+      "Speaker": "T",
+      "Turn": 34,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1097,
+      "Speaker": "T",
+      "Turn": 34,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks students to state the numerical answer explicitly."
+    },
+    {
+      "ID": 1099,
+      "Speaker": "T",
+      "Turn": 36,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1100,
+      "Speaker": "T",
+      "Turn": 36,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Prompts students to explain the contextual meaning of the number 600."
+    },
+    {
+      "ID": 1102,
+      "Speaker": "T",
+      "Turn": 38,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Requests the student to elaborate and be more specific about their explanation."
+    },
+    {
+      "ID": 1105,
+      "Speaker": "T",
+      "Turn": 41,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher restates/paraphrases the student’s idea to clarify what 600 represents."
+    },
+    {
+      "ID": 1107,
+      "Speaker": "T",
+      "Turn": 43,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Again repeats the student’s contribution (‘600 ball of string’), rephrasing for clarity."
+    },
+    {
+      "ID": 1109,
+      "Speaker": "T",
+      "Turn": 45,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Seeks the precise unit of measure, prompting a specific mathematical detail."
+    },
+    {
+      "ID": 1110,
+      "Speaker": "T",
+      "Turn": 45,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Reiterates the request for the exact measuring unit, maintaining focus on accuracy."
+    },
+    {
+      "ID": 1112,
+      "Speaker": "T",
+      "Turn": 47,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Begins to echo the student’s response (‘Feet’) and extends it (‘in the …’), rephrasing to build the full idea."
+    },
+    {
+      "ID": 1114,
+      "Speaker": "T",
+      "Turn": 49,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Summarizes the student’s final answer, adding the contextual detail (‘600 feet in the larger ball of string’)."
+    },
+    {
+      "ID": 1115,
+      "Speaker": "T",
+      "Turn": 49,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

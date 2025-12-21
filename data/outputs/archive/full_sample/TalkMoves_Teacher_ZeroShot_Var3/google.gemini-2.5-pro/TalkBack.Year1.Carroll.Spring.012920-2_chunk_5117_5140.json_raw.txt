@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 5117,
+      "Speaker": "T",
+      "Turn": 5117,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5118,
+      "Speaker": "T",
+      "Turn": 5118,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5119,
+      "Speaker": "T",
+      "Turn": 5119,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases and elaborates on a student's likely estimation strategy, clarifying the logic that since one fraction is slightly more than a half and the other is slightly less, their difference would be close to zero."
+    },
+    {
+      "ID": 5120,
+      "Speaker": "T",
+      "Turn": 5120,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to make a specific mathematical contribution by evaluating the fraction 11/15."
+    },
+    {
+      "ID": 5121,
+      "Speaker": "T",
+      "Turn": 5121,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to make a precise mathematical comparison by asking if the fraction is equal to a half."
+    },
+    {
+      "ID": 5122,
+      "Speaker": "T",
+      "Turn": 5122,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher continues to prompt for a precise mathematical comparison, asking if the fraction is bigger than a half."
+    },
+    {
+      "ID": 5123,
+      "Speaker": "T",
+      "Turn": 5123,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher completes the series of prompts for a precise mathematical comparison, asking if the fraction is less than a half."
+    },
+    {
+      "ID": 5125,
+      "Speaker": "T",
+      "Turn": 5125,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5126,
+      "Speaker": "T",
+      "Turn": 5126,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats a student's contribution that 11/15 is bigger than a half, confirming the correct answer for the class."
+    },
+    {
+      "ID": 5128,
+      "Speaker": "T",
+      "Turn": 5128,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5129,
+      "Speaker": "T",
+      "Turn": 5129,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5131,
+      "Speaker": "T",
+      "Turn": 5131,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5133,
+      "Speaker": "T",
+      "Turn": 5133,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5134,
+      "Speaker": "T",
+      "Turn": 5134,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5135,
+      "Speaker": "T",
+      "Turn": 5135,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher gives a directive for all students to write, ensuring the whole class is engaged in the same activity."
+    },
+    {
+      "ID": 5136,
+      "Speaker": "T",
+      "Turn": 5136,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5137,
+      "Speaker": "T",
+      "Turn": 5137,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5138,
+      "Speaker": "T",
+      "Turn": 5138,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5139,
+      "Speaker": "T",
+      "Turn": 5139,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5140,
+      "Speaker": "T",
+      "Turn": 5140,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

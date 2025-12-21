@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 15280,
+      "Speaker": "T",
+      "Turn": 15280,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases a student's likely contribution about the denominator to clarify its mathematical meaning."
+    },
+    {
+      "ID": 15281,
+      "Speaker": "T",
+      "Turn": 15281,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15282,
+      "Speaker": "T",
+      "Turn": 15282,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15283,
+      "Speaker": "T",
+      "Turn": 15283,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15285,
+      "Speaker": "T",
+      "Turn": 15285,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher uses the word 'Because' to prompt a student to provide the reasoning behind their answer."
+    },
+    {
+      "ID": 15287,
+      "Speaker": "T",
+      "Turn": 15287,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15288,
+      "Speaker": "T",
+      "Turn": 15288,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher confirms a student's idea ('Right') and then rephrases the question to connect the numerator's meaning to the problem context."
+    },
+    {
+      "ID": 15289,
+      "Speaker": "T",
+      "Turn": 15289,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher repeats a question to the whole class to ensure all students are following the discussion and are ready to participate."
+    },
+    {
+      "ID": 15291,
+      "Speaker": "T",
+      "Turn": 15291,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's answer 'Three' before confirming it."
+    },
+    {
+      "ID": 15292,
+      "Speaker": "T",
+      "Turn": 15292,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15293,
+      "Speaker": "T",
+      "Turn": 15293,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15294,
+      "Speaker": "T",
+      "Turn": 15294,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15295,
+      "Speaker": "T",
+      "Turn": 15295,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15296,
+      "Speaker": "T",
+      "Turn": 15296,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15298,
+      "Speaker": "T",
+      "Turn": 15298,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15299,
+      "Speaker": "T",
+      "Turn": 15299,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher directs students to use specific mathematical vocabulary shown on a slide, prompting them to be more precise in their language."
+    },
+    {
+      "ID": 15300,
+      "Speaker": "T",
+      "Turn": 15300,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15301,
+      "Speaker": "T",
+      "Turn": 15301,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher asks 'Where are all my eyes?' to get students' attention and orient them to her as the speaker."
+    },
+    {
+      "ID": 15302,
+      "Speaker": "T",
+      "Turn": 15302,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher follows up on her request for attention by pointing out that students are not looking, reinforcing the need to orient to the speaker."
+    },
+    {
+      "ID": 15303,
+      "Speaker": "T",
+      "Turn": 15303,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher directs students' attention to her location in the room, helping to orient them to the speaker."
+    }
+  ]
+}

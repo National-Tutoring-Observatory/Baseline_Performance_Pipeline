@@ -1,0 +1,137 @@
+{
+  "records": [
+    {
+      "ID": 1162,
+      "Speaker": "T",
+      "Turn": 71,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1163,
+      "Speaker": "T",
+      "Turn": 71,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1165,
+      "Speaker": "T",
+      "Turn": 73,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks for the exact number of pieces in the whole, prompting the student to state a precise mathematical fact."
+    },
+    {
+      "ID": 1166,
+      "Speaker": "T",
+      "Turn": 73,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher requests an explanation of how they know there weren’t six pieces, asking the student to provide justification."
+    },
+    {
+      "ID": 1167,
+      "Speaker": "T",
+      "Turn": 73,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher prompts the student to supply the specific number (the amount eaten)."
+    },
+    {
+      "ID": 1169,
+      "Speaker": "T",
+      "Turn": 75,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher restates the student’s answer '13' and extends it by explaining what the denominator represents."
+    },
+    {
+      "ID": 1170,
+      "Speaker": "T",
+      "Turn": 75,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1171,
+      "Speaker": "T",
+      "Turn": 75,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher is urging students to identify the exact total number of pieces in the whole."
+    },
+    {
+      "ID": 1172,
+      "Speaker": "T",
+      "Turn": 75,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1173,
+      "Speaker": "T",
+      "Turn": 75,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Teacher checks collective understanding ('does that make sense to you?'), ensuring all students follow the discussion."
+    },
+    {
+      "ID": 1174,
+      "Speaker": "T",
+      "Turn": 75,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Teacher individually checks another student’s understanding to keep the group on the same page."
+    },
+    {
+      "ID": 1175,
+      "Speaker": "T",
+      "Turn": 75,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1176,
+      "Speaker": "T",
+      "Turn": 75,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1177,
+      "Speaker": "T",
+      "Turn": 75,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1178,
+      "Speaker": "T",
+      "Turn": 75,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1179,
+      "Speaker": "T",
+      "Turn": 75,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1181,
+      "Speaker": "T",
+      "Turn": 77,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1182,
+      "Speaker": "T",
+      "Turn": 77,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks for the specific total amount eaten, eliciting a concrete numerical response."
+    },
+    {
+      "ID": 1183,
+      "Speaker": "T",
+      "Turn": 77,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher asks whether the answer would remain the same in a new scenario, prompting students to justify their thinking."
+    }
+  ]
+}

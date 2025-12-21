@@ -1,0 +1,200 @@
+{
+  "records": [
+    {
+      "ID": 581,
+      "Turn": 102,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 582,
+      "Turn": 102,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 584,
+      "Turn": 104,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 585,
+      "Turn": 104,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 587,
+      "Turn": 106,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to explain the thinking behind their answer."
+    },
+    {
+      "ID": 591,
+      "Turn": 108,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 595,
+      "Turn": 110,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 596,
+      "Turn": 110,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to apply a specific mathematical procedure (reducing a fraction)."
+    },
+    {
+      "ID": 599,
+      "Turn": 112,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 600,
+      "Turn": 112,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 601,
+      "Turn": 112,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 602,
+      "Turn": 113,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 603,
+      "Turn": 113,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 604,
+      "Turn": 114,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 605,
+      "Turn": 115,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 606,
+      "Turn": 115,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 607,
+      "Turn": 115,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 608,
+      "Turn": 115,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher repeats the prompt for students to apply a specific mathematical procedure (reducing a fraction)."
+    },
+    {
+      "ID": 609,
+      "Turn": 115,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher rephrases the prompt to guide students toward a specific mathematical contribution."
+    },
+    {
+      "ID": 610,
+      "Turn": 116,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 612,
+      "Turn": 117,
+      "Speaker": "T",
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's answer ('6/10') word for word."
+    },
+    {
+      "ID": 613,
+      "Turn": 117,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts the student to connect their answer to a prior concept (place value) to explain their thinking."
+    },
+    {
+      "ID": 614,
+      "Turn": 117,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks a question that prompts the student to use a specific representation to explain their thinking."
+    },
+    {
+      "ID": 616,
+      "Turn": 119,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's one-word answer ('Six') and adds words ('of them') to clarify and complete the thought."
+    },
+    {
+      "ID": 617,
+      "Turn": 119,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 618,
+      "Turn": 119,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 619,
+      "Turn": 119,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 621,
+      "Turn": 121,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

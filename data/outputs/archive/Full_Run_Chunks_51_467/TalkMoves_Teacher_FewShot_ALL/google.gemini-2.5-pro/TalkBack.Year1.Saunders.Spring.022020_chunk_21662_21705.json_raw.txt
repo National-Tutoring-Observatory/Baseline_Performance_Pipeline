@@ -1,0 +1,137 @@
+{
+  "records": [
+    {
+      "ID": 21678,
+      "Speaker": "T",
+      "Turn": 1,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21679,
+      "Speaker": "T",
+      "Turn": 2,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21681,
+      "Speaker": "T",
+      "Turn": 3,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's exact words from the previous turn."
+    },
+    {
+      "ID": 21682,
+      "Speaker": "T",
+      "Turn": 3,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21684,
+      "Speaker": "T",
+      "Turn": 5,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's exact words from the previous turn."
+    },
+    {
+      "ID": 21685,
+      "Speaker": "T",
+      "Turn": 5,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to explain the process for achieving the stated goal ('get the radical by itself')."
+    },
+    {
+      "ID": 21687,
+      "Speaker": "T",
+      "Turn": 7,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21688,
+      "Speaker": "T",
+      "Turn": 7,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21689,
+      "Speaker": "T",
+      "Turn": 7,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21691,
+      "Speaker": "T",
+      "Turn": 9,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's exact words from the previous turn."
+    },
+    {
+      "ID": 21692,
+      "Speaker": "T",
+      "Turn": 9,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21694,
+      "Speaker": "T",
+      "Turn": 11,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the core of the student's idea from the previous turn."
+    },
+    {
+      "ID": 21695,
+      "Speaker": "T",
+      "Turn": 11,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to explain the condition that allows for the next step ('How do we know when...')."
+    },
+    {
+      "ID": 21697,
+      "Speaker": "T",
+      "Turn": 13,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's idea but clarifies it with more precise language ('nothing outside of the radical on that side of the equation')."
+    },
+    {
+      "ID": 21698,
+      "Speaker": "T",
+      "Turn": 13,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to explain the method for performing the next step."
+    },
+    {
+      "ID": 21699,
+      "Speaker": "T",
+      "Turn": 13,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21702,
+      "Speaker": "T",
+      "Turn": 15,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases the student's question ('Dont you multiply it by itself?') as a statement to be explored ('I could multiply it by itself')."
+    },
+    {
+      "ID": 21703,
+      "Speaker": "T",
+      "Turn": 15,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21704,
+      "Speaker": "T",
+      "Turn": 15,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

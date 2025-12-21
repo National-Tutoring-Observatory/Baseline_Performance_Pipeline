@@ -1,0 +1,109 @@
+{
+  "records": [
+    {
+      "ID": 4035,
+      "Speaker": "T",
+      "Turn": 98,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 4037,
+      "Speaker": "T",
+      "Turn": 100,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher orients the class to focus on the next problem, prompting shared attention."
+    },
+    {
+      "ID": 4038,
+      "Speaker": "T",
+      "Turn": 101,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks which decimal is bigger, prompting a specific mathematical comparison."
+    },
+    {
+      "ID": 4039,
+      "Speaker": "T",
+      "Turn": 101,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher presents the two decimals to compare, prompting a mathematical choice."
+    },
+    {
+      "ID": 4040,
+      "Speaker": "T",
+      "Turn": 101,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 4042,
+      "Speaker": "T",
+      "Turn": 102,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 4043,
+      "Speaker": "T",
+      "Turn": 103,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher directs the class to proceed to the next item, maintaining collective focus."
+    },
+    {
+      "ID": 4044,
+      "Speaker": "T",
+      "Turn": 103,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks which place to start with, prompting use of place-value language."
+    },
+    {
+      "ID": 4046,
+      "Speaker": "T",
+      "Turn": 104,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases the student's 'ones' as 'ones place,' restating with expanded wording."
+    },
+    {
+      "ID": 4047,
+      "Speaker": "T",
+      "Turn": 104,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher orients the class to examine the next item, maintaining shared attention."
+    },
+    {
+      "ID": 4049,
+      "Speaker": "T",
+      "Turn": 106,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 4050,
+      "Speaker": "T",
+      "Turn": 106,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 4051,
+      "Speaker": "T",
+      "Turn": 106,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher manages turn-taking by identifying the current speaker, orienting students to listen."
+    },
+    {
+      "ID": 4053,
+      "Speaker": "T",
+      "Turn": 108,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks which number is bigger, prompting a mathematical determination."
+    },
+    {
+      "ID": 4054,
+      "Speaker": "T",
+      "Turn": 108,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher specifies the two decimals to compare, eliciting a precise mathematical choice."
+    }
+  ]
+}

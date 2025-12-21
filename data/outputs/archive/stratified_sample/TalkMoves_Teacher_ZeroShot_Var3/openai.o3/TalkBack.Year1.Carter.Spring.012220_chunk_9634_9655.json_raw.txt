@@ -1,0 +1,130 @@
+{
+  "records": [
+    {
+      "ID": 9634,
+      "Speaker": "T",
+      "Turn": 64,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9636,
+      "Speaker": "T",
+      "Turn": 66,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9637,
+      "Speaker": "T",
+      "Turn": 67,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9638,
+      "Speaker": "T",
+      "Turn": 67,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9640,
+      "Speaker": "T",
+      "Turn": 68,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to compute 10 ÷ 5, requesting a precise mathematical answer."
+    },
+    {
+      "ID": 9642,
+      "Speaker": "T",
+      "Turn": 70,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9643,
+      "Speaker": "T",
+      "Turn": 70,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "By stating \"So 25 ÷ 2 ...,\" the teacher sets up the next calculation and implicitly asks students to supply the exact quotient."
+    },
+    {
+      "ID": 9644,
+      "Speaker": "T",
+      "Turn": 70,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9645,
+      "Speaker": "T",
+      "Turn": 71,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9646,
+      "Speaker": "T",
+      "Turn": 71,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9647,
+      "Speaker": "T",
+      "Turn": 71,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for a specific value to fill a spot in the table, seeking an exact mathematical response."
+    },
+    {
+      "ID": 9648,
+      "Speaker": "T",
+      "Turn": 71,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9649,
+      "Speaker": "T",
+      "Turn": 71,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9650,
+      "Speaker": "T",
+      "Turn": 71,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher restates the students’ shared answer (“two”) to confirm and highlight their contribution."
+    },
+    {
+      "ID": 9651,
+      "Speaker": "T",
+      "Turn": 71,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher requests an explanation of how students arrived at the answer \"two,\" prompting them to describe their thinking."
+    },
+    {
+      "ID": 9652,
+      "Speaker": "T",
+      "Turn": 71,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9654,
+      "Speaker": "T",
+      "Turn": 72,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks why the student chose a fraction circle, encouraging justification of the strategy."
+    },
+    {
+      "ID": 9655,
+      "Speaker": "T",
+      "Turn": 72,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "By restating the problem context and asking \"why a fraction circle,\" the teacher urges the student to connect their representation choice to the mathematical situation."
+    }
+  ]
+}

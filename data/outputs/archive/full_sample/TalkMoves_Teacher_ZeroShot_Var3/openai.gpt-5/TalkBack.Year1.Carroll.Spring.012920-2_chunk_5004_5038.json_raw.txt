@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 5004,
+      "Speaker": "T",
+      "Turn": 5004,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5005,
+      "Speaker": "T",
+      "Turn": 5005,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to explain what they are doing, prompting them to share their thinking."
+    },
+    {
+      "ID": 5006,
+      "Speaker": "T",
+      "Turn": 5006,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for clarification about the object, prompting a more precise identification."
+    },
+    {
+      "ID": 5007,
+      "Speaker": "T",
+      "Turn": 5007,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5009,
+      "Speaker": "T",
+      "Turn": 5009,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher checks whether the item is correctly labeled as cart 9, prompting precise identification."
+    },
+    {
+      "ID": 5011,
+      "Speaker": "T",
+      "Turn": 5011,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5012,
+      "Speaker": "T",
+      "Turn": 5012,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5020,
+      "Speaker": "T",
+      "Turn": 5020,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5021,
+      "Speaker": "T",
+      "Turn": 5021,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5025,
+      "Speaker": "T",
+      "Turn": 5025,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5026,
+      "Speaker": "T",
+      "Turn": 5026,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5027,
+      "Speaker": "T",
+      "Turn": 5027,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5028,
+      "Speaker": "T",
+      "Turn": 5028,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher signals that students will need to provide an explanation, prompting them to prepare to articulate their reasoning."
+    },
+    {
+      "ID": 5029,
+      "Speaker": "T",
+      "Turn": 5029,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5030,
+      "Speaker": "T",
+      "Turn": 5030,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5031,
+      "Speaker": "T",
+      "Turn": 5031,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher directs a student to explain to a peer so the peer understands, orienting students to engage with each other's thinking."
+    },
+    {
+      "ID": 5034,
+      "Speaker": "T",
+      "Turn": 5034,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5036,
+      "Speaker": "T",
+      "Turn": 5036,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5037,
+      "Speaker": "T",
+      "Turn": 5037,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5038,
+      "Speaker": "T",
+      "Turn": 5038,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

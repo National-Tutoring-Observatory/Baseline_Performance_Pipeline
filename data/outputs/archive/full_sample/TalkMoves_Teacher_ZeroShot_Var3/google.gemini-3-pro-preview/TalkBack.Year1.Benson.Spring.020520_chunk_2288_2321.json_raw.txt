@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 2288,
+      "Speaker": "T",
+      "Turn": 2288,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 2289,
+      "Speaker": "T",
+      "Turn": 2289,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 2290,
+      "Speaker": "T",
+      "Turn": 2290,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 2291,
+      "Speaker": "T",
+      "Turn": 2291,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks the student to describe their next mathematical step or calculation."
+    },
+    {
+      "ID": 2293,
+      "Speaker": "T",
+      "Turn": 2293,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks 'Why', prompting the student to explain the justification behind their previous step."
+    },
+    {
+      "ID": 2295,
+      "Speaker": "T",
+      "Turn": 2295,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's idea about the quantity of burritos, likely clarifying or verifying the information."
+    },
+    {
+      "ID": 2297,
+      "Speaker": "T",
+      "Turn": 2297,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 2301,
+      "Speaker": "T",
+      "Turn": 2301,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher restates the cost mentioned by the student, adding the word 'approximately' to clarify the nature of the number."
+    },
+    {
+      "ID": 2302,
+      "Speaker": "T",
+      "Turn": 2302,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to continue describing their procedure or calculation."
+    },
+    {
+      "ID": 2305,
+      "Speaker": "T",
+      "Turn": 2305,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's contribution about the sandwiches and packages to confirm understanding."
+    },
+    {
+      "ID": 2307,
+      "Speaker": "T",
+      "Turn": 2307,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher uses the prompt 'Because' to encourage the student to provide the underlying reason or evidence for the previous statement."
+    },
+    {
+      "ID": 2309,
+      "Speaker": "T",
+      "Turn": 2309,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases the student's finding about the number of packages needed."
+    },
+    {
+      "ID": 2312,
+      "Speaker": "T",
+      "Turn": 2312,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's calculation result regarding the cost."
+    },
+    {
+      "ID": 2313,
+      "Speaker": "T",
+      "Turn": 2313,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 2314,
+      "Speaker": "T",
+      "Turn": 2314,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 2315,
+      "Speaker": "T",
+      "Turn": 2315,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 2318,
+      "Speaker": "T",
+      "Turn": 2318,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 2319,
+      "Speaker": "T",
+      "Turn": 2319,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 2320,
+      "Speaker": "T",
+      "Turn": 2320,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 2321,
+      "Speaker": "T",
+      "Turn": 2321,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher asks other students to compare their own methods ('different way') to the one just presented."
+    }
+  ]
+}

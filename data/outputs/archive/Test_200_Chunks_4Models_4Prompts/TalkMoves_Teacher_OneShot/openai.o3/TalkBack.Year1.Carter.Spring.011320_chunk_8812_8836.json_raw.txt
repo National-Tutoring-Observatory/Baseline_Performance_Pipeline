@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 8812,
+      "Speaker": "T",
+      "Turn": 156,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8813,
+      "Speaker": "T",
+      "Turn": 156,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8814,
+      "Speaker": "T",
+      "Turn": 157,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher introduces a new numerical case (37) and implicitly asks students to determine if 3 is a factor, prompting a specific mathematical determination."
+    },
+    {
+      "ID": 8815,
+      "Speaker": "T",
+      "Turn": 157,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Direct question asking students to state whether 3 is a factor of 37, seeking a precise mathematical fact."
+    },
+    {
+      "ID": 8816,
+      "Speaker": "T",
+      "Turn": 157,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher follows up with 'Why not,' requesting an explanation for the previous claim."
+    },
+    {
+      "ID": 8817,
+      "Speaker": "T",
+      "Turn": 157,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Asks students to articulate what distinguishes 36 from 37 regarding the factor 3, prompting explanatory reasoning."
+    },
+    {
+      "ID": 8819,
+      "Speaker": "T",
+      "Turn": 159,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8820,
+      "Speaker": "T",
+      "Turn": 159,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher redirects attention to herself ('Back to me please'), orienting the whole class to focus together."
+    },
+    {
+      "ID": 8821,
+      "Speaker": "T",
+      "Turn": 159,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Asks students to explain how they know 3 is a factor of 36, requesting justification."
+    },
+    {
+      "ID": 8822,
+      "Speaker": "T",
+      "Turn": 159,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8824,
+      "Speaker": "T",
+      "Turn": 161,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Prompts the student to specify exactly what is being split, seeking a clear, precise mathematical statement."
+    },
+    {
+      "ID": 8826,
+      "Speaker": "T",
+      "Turn": 163,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher restates the student’s idea about dividing 36 by 3, putting it into her own words ('dividing it')."
+    },
+    {
+      "ID": 8827,
+      "Speaker": "T",
+      "Turn": 163,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Further rephrases the student’s explanation by explicitly stating '36 divided by 3 would be even groups.'"
+    },
+    {
+      "ID": 8828,
+      "Speaker": "T",
+      "Turn": 163,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8829,
+      "Speaker": "T",
+      "Turn": 163,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Requests another method to prove 3 is a factor, prompting additional justification."
+    },
+    {
+      "ID": 8831,
+      "Speaker": "T",
+      "Turn": 165,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8832,
+      "Speaker": "T",
+      "Turn": 165,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Again seeks another way to prove the statement, encouraging further reasoning."
+    },
+    {
+      "ID": 8834,
+      "Speaker": "T",
+      "Turn": 167,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher repeats the student’s claim ('36 is an even and odd number') nearly verbatim, highlighting it for discussion."
+    },
+    {
+      "ID": 8835,
+      "Speaker": "T",
+      "Turn": 167,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8836,
+      "Speaker": "T",
+      "Turn": 167,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Asks the student to explain how 36 can be both even and odd, soliciting deeper reasoning."
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 20429,
+      "Speaker": "T",
+      "Turn": 20429,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 20431,
+      "Speaker": "T",
+      "Turn": 20431,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 20432,
+      "Speaker": "T",
+      "Turn": 20432,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to explain how to rewrite an expression using a specific property, which requires connecting the mathematical rule to the current problem."
+    },
+    {
+      "ID": 20434,
+      "Speaker": "T",
+      "Turn": 20434,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a specific factual question about whether a number is a multiple of four, prompting for a correct mathematical fact."
+    },
+    {
+      "ID": 20435,
+      "Speaker": "T",
+      "Turn": 20435,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to perform a calculation (factorization) to find the missing factor."
+    },
+    {
+      "ID": 20436,
+      "Speaker": "T",
+      "Turn": 20436,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the result of a simplification process involving roots, prompting for a specific mathematical answer."
+    },
+    {
+      "ID": 20437,
+      "Speaker": "T",
+      "Turn": 20437,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher is checking in with the whole class to ensure they are on task and have completed specific steps."
+    },
+    {
+      "ID": 20438,
+      "Speaker": "T",
+      "Turn": 20438,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher repeats the check-in to ensure students are following the workflow."
+    },
+    {
+      "ID": 20439,
+      "Speaker": "T",
+      "Turn": 20439,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 20440,
+      "Speaker": "T",
+      "Turn": 20440,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 20441,
+      "Speaker": "T",
+      "Turn": 20441,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 20442,
+      "Speaker": "T",
+      "Turn": 20442,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher provides instructions on the timeline and upcoming transition to keep the class organized."
+    },
+    {
+      "ID": 20443,
+      "Speaker": "T",
+      "Turn": 20443,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 20445,
+      "Speaker": "T",
+      "Turn": 20445,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 20446,
+      "Speaker": "T",
+      "Turn": 20446,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher directs the students' attention to the textbook to orient the whole class to the next activity."
+    },
+    {
+      "ID": 20447,
+      "Speaker": "T",
+      "Turn": 20447,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 20449,
+      "Speaker": "T",
+      "Turn": 20449,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 20450,
+      "Speaker": "T",
+      "Turn": 20450,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher explicitly states the page number to ensure all students are looking at the correct material."
+    },
+    {
+      "ID": 20451,
+      "Speaker": "T",
+      "Turn": 20451,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher repeats the page number to ensure compliance and shared focus."
+    },
+    {
+      "ID": 20452,
+      "Speaker": "T",
+      "Turn": 20452,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher uses a call to attention ('Ladies and gentlemen') to gather the class's focus."
+    }
+  ]
+}

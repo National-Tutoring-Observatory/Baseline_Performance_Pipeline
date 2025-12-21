@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 2538,
+      "Turn": 16,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2540,
+      "Turn": 18,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2541,
+      "Turn": 18,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2543,
+      "Turn": 20,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to correct their answer by focusing on a specific detail of the calculation (the number of zeros)."
+    },
+    {
+      "ID": 2545,
+      "Turn": 22,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher uses the student's correct intermediate step ('Two' zeros) to prompt them to complete the calculation and revise their final answer."
+    },
+    {
+      "ID": 2547,
+      "Turn": 24,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2548,
+      "Turn": 24,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2549,
+      "Turn": 24,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2551,
+      "Turn": 26,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2552,
+      "Turn": 26,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to provide a specific mathematical contribution in a particular format (a number model or equation)."
+    },
+    {
+      "ID": 2553,
+      "Turn": 26,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2555,
+      "Turn": 28,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher redirects the student from giving the answer to providing the specific mathematical format requested (the full equation)."
+    },
+    {
+      "ID": 2557,
+      "Turn": 30,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2558,
+      "Turn": 30,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher points out that the student's equation is missing a required component (a variable), thus pressing for a more accurate mathematical representation."
+    },
+    {
+      "ID": 2559,
+      "Turn": 30,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Following up on the need for a variable, the teacher prompts the student to choose one to complete the equation accurately."
+    },
+    {
+      "ID": 2561,
+      "Turn": 32,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's idea ('540 / 9') but reframes it as one possible way to write the equation, clarifying the mathematical operation."
+    },
+    {
+      "ID": 2562,
+      "Turn": 32,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks the student to confirm the specific mathematical symbol they used, pressing for precision in their written representation."
+    },
+    {
+      "ID": 2564,
+      "Turn": 34,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher repeats the question to confirm the student's use of the specific division symbol."
+    },
+    {
+      "ID": 2565,
+      "Turn": 34,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2566,
+      "Turn": 34,
+      "Speaker": "T",
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher uses one student's method as a reference point and asks other students if they used a different symbol, prompting them to compare their work to their classmate's."
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "records": [
+    {
+      "ID": 2485,
+      "Speaker": "T",
+      "Turn": 333,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher asks student to explain the approach used for the unknown, prompting them to describe their thinking."
+    },
+    {
+      "ID": 2487,
+      "Speaker": "T",
+      "Turn": 335,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher requests the origin of the number 312, prompting the student to justify where the value came from."
+    },
+    {
+      "ID": 2489,
+      "Speaker": "T",
+      "Turn": 337,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks the student to specify the exact problem number, seeking a precise reference."
+    },
+    {
+      "ID": 2491,
+      "Speaker": "T",
+      "Turn": 339,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher restates the student's contribution (problem 2 and burrito cost) while adding clarification for the class."
+    },
+    {
+      "ID": 2492,
+      "Speaker": "T",
+      "Turn": 339,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "After restating known information, teacher asks 'why did you use times three,' prompting the student to justify the multiplication."
+    },
+    {
+      "ID": 2494,
+      "Speaker": "T",
+      "Turn": 341,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher presents 300 × 3 to focus students on calculating an exact partial product."
+    },
+    {
+      "ID": 2496,
+      "Speaker": "T",
+      "Turn": 343,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The question 'how did he go' seeks an explanation of the student's process."
+    },
+    {
+      "ID": 2497,
+      "Speaker": "T",
+      "Turn": 343,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks for the exact value of 300 × 3."
+    },
+    {
+      "ID": 2499,
+      "Speaker": "T",
+      "Turn": 345,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks for the exact value of 10 × 3."
+    },
+    {
+      "ID": 2501,
+      "Speaker": "T",
+      "Turn": 347,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks for the exact value of 2 × 3."
+    },
+    {
+      "ID": 2503,
+      "Speaker": "T",
+      "Turn": 349,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher prompts student to sum 900, 30, and 6 accurately."
+    },
+    {
+      "ID": 2505,
+      "Speaker": "T",
+      "Turn": 351,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Teacher reminds the class of prior work to orient all students and maintain shared understanding."
+    },
+    {
+      "ID": 2506,
+      "Speaker": "T",
+      "Turn": 351,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 45,
+      "Speaker": "T",
+      "Turn": 45,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher poses the multiplication problem '70 times 8', prompting students to provide the exact numerical product."
+    },
+    {
+      "ID": 48,
+      "Speaker": "T",
+      "Turn": 48,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 49,
+      "Speaker": "T",
+      "Turn": 49,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "By asking 'Basic facts with what', the teacher presses students to explain which basic fact they are using to solve the problem."
+    },
+    {
+      "ID": 50,
+      "Speaker": "T",
+      "Turn": 50,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 51,
+      "Speaker": "T",
+      "Turn": 51,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 52,
+      "Speaker": "T",
+      "Turn": 52,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats and clarifies the student’s contribution ('I heard you say 56…'), slightly elaborating on what was said."
+    },
+    {
+      "ID": 53,
+      "Speaker": "T",
+      "Turn": 53,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher puts forward '20 times 40' as a computation task, requesting the precise product."
+    },
+    {
+      "ID": 55,
+      "Speaker": "T",
+      "Turn": 55,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks 'Why Clayton', prompting the student to justify or explain the answer."
+    },
+    {
+      "ID": 56,
+      "Speaker": "T",
+      "Turn": 56,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Asking 'Why not 80' urges the student to explain reasoning behind rejecting that answer."
+    },
+    {
+      "ID": 58,
+      "Speaker": "T",
+      "Turn": 58,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 59,
+      "Speaker": "T",
+      "Turn": 59,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher’s prompt 'Basic fact in there' seeks an explanation of the underlying basic multiplication fact."
+    },
+    {
+      "ID": 60,
+      "Speaker": "T",
+      "Turn": 60,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher restates the idea that two zeros are appended, clarifying the student’s method."
+    },
+    {
+      "ID": 61,
+      "Speaker": "T",
+      "Turn": 61,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Presenting '70 times 40' requests students to produce an exact answer."
+    },
+    {
+      "ID": 63,
+      "Speaker": "T",
+      "Turn": 63,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher states another multiplication problem ('9 times 30'), eliciting the correct product."
+    },
+    {
+      "ID": 65,
+      "Speaker": "T",
+      "Turn": 65,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "By giving '60 times 800', the teacher seeks the specific numerical answer."
+    },
+    {
+      "ID": 68,
+      "Speaker": "T",
+      "Turn": 68,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Asking 'Why 48000 and not 4800' pushes students to justify their choice and reasoning."
+    },
+    {
+      "ID": 69,
+      "Speaker": "T",
+      "Turn": 69,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher addresses Matt with 'why not', prompting him to explain his reasoning."
+    },
+    {
+      "ID": 71,
+      "Speaker": "T",
+      "Turn": 71,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher restates the idea that four zeros are added to the basic fact, clarifying the student strategy."
+    },
+    {
+      "ID": 72,
+      "Speaker": "T",
+      "Turn": 72,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher offers '600 times 40', prompting students to compute the exact answer."
+    },
+    {
+      "ID": 77,
+      "Speaker": "T",
+      "Turn": 77,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher echoes the student’s answer ('I heard that 24000'), confirming and clarifying it for the class."
+    }
+  ]
+}

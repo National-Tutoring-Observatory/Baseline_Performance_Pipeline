@@ -1,0 +1,147 @@
+{
+  "records": [
+    {
+      "ID": 8704,
+      "Turn": 103,
+      "Speaker": "S",
+      "Sentence": "nan"
+    },
+    {
+      "ID": 8705,
+      "Turn": 104,
+      "Speaker": "T",
+      "Sentence": "Take four away",
+      "TalkMove": null
+    },
+    {
+      "ID": 8706,
+      "Turn": 105,
+      "Speaker": "S",
+      "Sentence": "Five will get you two"
+    },
+    {
+      "ID": 8707,
+      "Turn": 106,
+      "Speaker": "S",
+      "Sentence": "Six"
+    },
+    {
+      "ID": 8708,
+      "Turn": 106,
+      "Speaker": "S",
+      "Sentence": "What about seven"
+    },
+    {
+      "ID": 8709,
+      "Turn": 107,
+      "Speaker": "T",
+      "Sentence": "It wont be 36 right",
+      "TalkMove": "Keeping Everyone Together"
+    },
+    {
+      "ID": 8710,
+      "Turn": 107,
+      "Speaker": "T",
+      "Sentence": "Four times nine",
+      "TalkMove": null
+    },
+    {
+      "ID": 8711,
+      "Turn": 107,
+      "Speaker": "T",
+      "Sentence": "Four goes in",
+      "TalkMove": null
+    },
+    {
+      "ID": 8712,
+      "Turn": 107,
+      "Speaker": "T",
+      "Sentence": "Does five go in",
+      "TalkMove": "Pressing for Accuracy"
+    },
+    {
+      "ID": 8713,
+      "Turn": 108,
+      "Speaker": "S",
+      "Sentence": "No"
+    },
+    {
+      "ID": 8714,
+      "Turn": 109,
+      "Speaker": "T",
+      "Sentence": "What about your four",
+      "TalkMove": "Pressing for Accuracy"
+    },
+    {
+      "ID": 8715,
+      "Turn": 110,
+      "Speaker": "S",
+      "Sentence": "What about seven"
+    },
+    {
+      "ID": 8716,
+      "Turn": 110,
+      "Speaker": "S",
+      "Sentence": "Try seven"
+    },
+    {
+      "ID": 8717,
+      "Turn": 111,
+      "Speaker": "S",
+      "Sentence": "No seven is not a factor"
+    },
+    {
+      "ID": 8718,
+      "Turn": 112,
+      "Speaker": "T",
+      "Sentence": "Six",
+      "TalkMove": "Pressing for Accuracy"
+    },
+    {
+      "ID": 8719,
+      "Turn": 113,
+      "Speaker": "S",
+      "Sentence": "What about eight"
+    },
+    {
+      "ID": 8720,
+      "Turn": 114,
+      "Speaker": "T",
+      "Sentence": "Six times what is 36",
+      "TalkMove": "Pressing for Accuracy"
+    },
+    {
+      "ID": 8721,
+      "Turn": 115,
+      "Speaker": "S",
+      "Sentence": "Six times six"
+    },
+    {
+      "ID": 8722,
+      "Turn": 116,
+      "Speaker": "T",
+      "Sentence": "You know six is going on",
+      "TalkMove": "Keeping Everyone Together"
+    },
+    {
+      "ID": 8723,
+      "Turn": 117,
+      "Speaker": "S",
+      "Sentence": "Now youre going to do youre going to write one"
+    },
+    {
+      "ID": 8724,
+      "Turn": 118,
+      "Speaker": "T",
+      "Sentence": "Did you read this part about the factor rainbow",
+      "TalkMove": "Keeping Everyone Together"
+    },
+    {
+      "ID": 8725,
+      "Turn": 118,
+      "Speaker": "T",
+      "Sentence": "Because you know one matches 36 you know six times six is going to be the middle of this rainbow right",
+      "TalkMove": "Keeping Everyone Together"
+    }
+  ]
+}

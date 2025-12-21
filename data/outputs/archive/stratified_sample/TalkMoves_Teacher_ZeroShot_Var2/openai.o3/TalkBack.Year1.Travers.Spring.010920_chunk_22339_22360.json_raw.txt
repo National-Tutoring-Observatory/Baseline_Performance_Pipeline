@@ -1,0 +1,130 @@
+{
+  "records": [
+    {
+      "ID": 22339,
+      "Speaker": "T",
+      "Turn": 10,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22341,
+      "Speaker": "T",
+      "Turn": 12,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22342,
+      "Speaker": "T",
+      "Turn": 12,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22343,
+      "Speaker": "T",
+      "Turn": 12,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22345,
+      "Speaker": "T",
+      "Turn": 14,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22346,
+      "Speaker": "T",
+      "Turn": 14,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher urges students to reflect on the meaning of the objective, prompting them to think about its content."
+    },
+    {
+      "ID": 22347,
+      "Speaker": "T",
+      "Turn": 14,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher again prompts students to think, encouraging them to consider the meaning behind the statement."
+    },
+    {
+      "ID": 22348,
+      "Speaker": "T",
+      "Turn": 14,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "By instructing students to reread the objective, the teacher pushes them to review the exact wording for precision."
+    },
+    {
+      "ID": 22349,
+      "Speaker": "T",
+      "Turn": 14,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Asks students to articulate what the statement is asking them to do, eliciting their understanding and explanation."
+    },
+    {
+      "ID": 22350,
+      "Speaker": "T",
+      "Turn": 14,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Invites students to put the objective into their own words, requesting an explanation of their understanding."
+    },
+    {
+      "ID": 22351,
+      "Speaker": "T",
+      "Turn": 14,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Seeks a precise statement of the learning objective, pushing for the exact content."
+    },
+    {
+      "ID": 22352,
+      "Speaker": "T",
+      "Turn": 14,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Again asks what the objective is asking, prompting students to explain its meaning."
+    },
+    {
+      "ID": 22353,
+      "Speaker": "T",
+      "Turn": 14,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22355,
+      "Speaker": "T",
+      "Turn": 16,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22356,
+      "Speaker": "T",
+      "Turn": 16,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Directs the student to share their thinking, requesting an explanation."
+    },
+    {
+      "ID": 22358,
+      "Speaker": "T",
+      "Turn": 18,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22359,
+      "Speaker": "T",
+      "Turn": 18,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22360,
+      "Speaker": "T",
+      "Turn": 18,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher restates and elaborates on the student’s idea by clarifying how a multiplication rule will be used to find common denominators."
+    }
+  ]
+}

@@ -1,0 +1,228 @@
+{
+  "records": [
+    {
+      "ID": 1562,
+      "Turn": 31,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1563,
+      "Turn": 31,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1564,
+      "Turn": 31,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1565,
+      "Turn": 31,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1566,
+      "Turn": 31,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1568,
+      "Turn": 33,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts the student to connect their numerical answer to a conceptual representation ('little cubes')."
+    },
+    {
+      "ID": 1569,
+      "Turn": 33,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks a question that requires the student to use the 'little cubes' model to reason about a quantity."
+    },
+    {
+      "ID": 1571,
+      "Turn": 35,
+      "Speaker": "T",
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's answer ('80 of them') word for word."
+    },
+    {
+      "ID": 1573,
+      "Turn": 37,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases the student's numerical answer ('0.08') into the conceptual language of the lesson ('eight little cubes') to clarify the student's thinking."
+    },
+    {
+      "ID": 1574,
+      "Turn": 37,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1575,
+      "Turn": 37,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1576,
+      "Turn": 38,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1577,
+      "Turn": 38,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1578,
+      "Turn": 38,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1579,
+      "Turn": 38,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1580,
+      "Turn": 38,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1581,
+      "Turn": 38,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1582,
+      "Turn": 38,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1583,
+      "Turn": 38,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1584,
+      "Turn": 38,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1585,
+      "Turn": 39,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1586,
+      "Turn": 39,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1587,
+      "Turn": 39,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1588,
+      "Turn": 39,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1590,
+      "Turn": 40,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1591,
+      "Turn": 40,
+      "Speaker": "T",
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's answer ('zero and 26') by stating its numerical equivalent ('0.26')."
+    },
+    {
+      "ID": 1592,
+      "Turn": 40,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts a student to use precise mathematical language to read a decimal number."
+    },
+    {
+      "ID": 1594,
+      "Turn": 42,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the class to evaluate if the stated answer is correct, prompting them to reason by comparing it to the original problem."
+    },
+    {
+      "ID": 1595,
+      "Turn": 42,
+      "Speaker": "T",
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats a key part of the student's utterance ('Zero ones') verbatim to focus attention on it."
+    },
+    {
+      "ID": 1596,
+      "Turn": 42,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1597,
+      "Turn": 42,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1598,
+      "Turn": 42,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts another student to use correct mathematical language to read the number from the problem."
+    }
+  ]
+}

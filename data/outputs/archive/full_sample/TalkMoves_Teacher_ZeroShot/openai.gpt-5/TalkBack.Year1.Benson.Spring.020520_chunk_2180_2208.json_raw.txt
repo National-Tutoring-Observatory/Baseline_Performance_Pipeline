@@ -1,0 +1,122 @@
+{
+  "records": [
+    {
+      "ID": 2180,
+      "Speaker": "T",
+      "Turn": 2180
+    },
+    {
+      "ID": 2181,
+      "Speaker": "T",
+      "Turn": 2181,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks students to compute 66 × 8, prompting a specific mathematical result."
+    },
+    {
+      "ID": 2183,
+      "Speaker": "T",
+      "Turn": 2183,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the numerical amount, seeking a precise value."
+    },
+    {
+      "ID": 2185,
+      "Speaker": "T",
+      "Turn": 2185
+    },
+    {
+      "ID": 2186,
+      "Speaker": "T",
+      "Turn": 2186,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student’s computed answer verbatim."
+    },
+    {
+      "ID": 2187,
+      "Speaker": "T",
+      "Turn": 2187
+    },
+    {
+      "ID": 2188,
+      "Speaker": "T",
+      "Turn": 2188
+    },
+    {
+      "ID": 2189,
+      "Speaker": "T",
+      "Turn": 2189,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students what they will start with, eliciting their problem-solving approach."
+    },
+    {
+      "ID": 2190,
+      "Speaker": "T",
+      "Turn": 2190,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts students to describe the steps they will take to find the answer."
+    },
+    {
+      "ID": 2191,
+      "Speaker": "T",
+      "Turn": 2191
+    },
+    {
+      "ID": 2192,
+      "Speaker": "T",
+      "Turn": 2192,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks how to find the total difference, prompting students to explain their strategy."
+    },
+    {
+      "ID": 2194,
+      "Speaker": "T",
+      "Turn": 2194,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks what to start with, eliciting rationale for the solution method."
+    },
+    {
+      "ID": 2196,
+      "Speaker": "T",
+      "Turn": 2196
+    },
+    {
+      "ID": 2198,
+      "Speaker": "T",
+      "Turn": 2198
+    },
+    {
+      "ID": 2199,
+      "Speaker": "T",
+      "Turn": 2199
+    },
+    {
+      "ID": 2201,
+      "Speaker": "T",
+      "Turn": 2201,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the exact difference in cost, prompting a specific numerical answer."
+    },
+    {
+      "ID": 2202,
+      "Speaker": "T",
+      "Turn": 2202
+    },
+    {
+      "ID": 2204,
+      "Speaker": "T",
+      "Turn": 2204
+    },
+    {
+      "ID": 2206,
+      "Speaker": "T",
+      "Turn": 2206
+    },
+    {
+      "ID": 2208,
+      "Speaker": "T",
+      "Turn": 2208,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher restates the student’s answer by adding contextual wording about what the amount represents."
+    }
+  ]
+}

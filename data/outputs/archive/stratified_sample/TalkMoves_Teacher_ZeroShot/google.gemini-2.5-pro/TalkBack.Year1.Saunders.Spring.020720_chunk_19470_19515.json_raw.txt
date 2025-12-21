@@ -1,0 +1,300 @@
+{
+  "records": [
+    {
+      "ID": 19470,
+      "Turn": 36,
+      "Speaker": "T",
+      "Sentence": "Lets have the person closest to the door start",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19471,
+      "Turn": 36,
+      "Speaker": "T",
+      "Sentence": "Go ahead and start with the intro to that",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19472,
+      "Turn": 36,
+      "Speaker": "T",
+      "Sentence": "Lets wait until we are done with our discussion here if you dont mind",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19473,
+      "Turn": 36,
+      "Speaker": "T",
+      "Sentence": "Ladies and gentlemen open up your textbooks to page 168",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19474,
+      "Turn": 36,
+      "Speaker": "T",
+      "Sentence": "Page 168",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19475,
+      "Turn": 36,
+      "Speaker": "T",
+      "Sentence": "Textbook page 168",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19476,
+      "Turn": 36,
+      "Speaker": "T",
+      "Sentence": "Eyes at upfront please",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19477,
+      "Turn": 36,
+      "Speaker": "T",
+      "Sentence": "Example one",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19478,
+      "Turn": 36,
+      "Speaker": "T",
+      "Sentence": "Brad could you read the title of example one",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19479,
+      "Turn": 36,
+      "Speaker": "T",
+      "Sentence": "Push the title",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19481,
+      "Turn": 37,
+      "Speaker": "T",
+      "Sentence": "Amara read the function itself",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19483,
+      "Turn": 39,
+      "Speaker": "T",
+      "Sentence": "Yes",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19484,
+      "Turn": 40,
+      "Speaker": "T",
+      "Sentence": "Which one",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19485,
+      "Turn": 41,
+      "Speaker": "T",
+      "Sentence": "F of X equals",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19487,
+      "Turn": 43,
+      "Speaker": "T",
+      "Sentence": "Are on page 168",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19489,
+      "Turn": 45,
+      "Speaker": "T",
+      "Sentence": "All right",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19490,
+      "Turn": 45,
+      "Speaker": "T",
+      "Sentence": "Below what are the Xintercepts",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19492,
+      "Turn": 47,
+      "Speaker": "T",
+      "Sentence": "Brandon what happens at two for this particular one",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks a student to describe or explain the behavior of the function at a specific point, prompting for interpretation of the graph."
+    },
+    {
+      "ID": 19493,
+      "Turn": 47,
+      "Speaker": "T",
+      "Sentence": "What happens at two for that particular one",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher repeats the question, pressing the student to provide an explanation of the graph's behavior."
+    },
+    {
+      "ID": 19495,
+      "Turn": 49,
+      "Speaker": "T",
+      "Sentence": "It starts increasing so it goes from decreasing to increasing",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's idea ('starts increasing') and adds more formal mathematical language ('goes from decreasing to increasing')."
+    },
+    {
+      "ID": 19496,
+      "Turn": 49,
+      "Speaker": "T",
+      "Sentence": "What else would you say Caitlin",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks another student to provide an additional observation or explanation about the same point on the graph."
+    },
+    {
+      "ID": 19497,
+      "Turn": 49,
+      "Speaker": "T",
+      "Sentence": "What happens when X equals two",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher rephrases the question to press the student for an explanation of the graph's behavior."
+    },
+    {
+      "ID": 19499,
+      "Turn": 51,
+      "Speaker": "T",
+      "Sentence": "The graph will get thinner",
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's contribution verbatim."
+    },
+    {
+      "ID": 19500,
+      "Turn": 51,
+      "Speaker": "T",
+      "Sentence": "Aiden",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19502,
+      "Turn": 53,
+      "Speaker": "T",
+      "Sentence": "It hits a local minimum and its a turning point",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's idea ('hits a local minimum') and adds a related mathematical concept ('and its a turning point')."
+    },
+    {
+      "ID": 19503,
+      "Turn": 53,
+      "Speaker": "T",
+      "Sentence": "Whats also true about that what have we said right from the beginning",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts students to connect their current observation to a previously discussed concept, asking them to provide evidence or share their thinking."
+    },
+    {
+      "ID": 19504,
+      "Turn": 53,
+      "Speaker": "T",
+      "Sentence": "How did we describe whats happening right here",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher rephrases the previous question, pressing students to recall and explain a specific description."
+    },
+    {
+      "ID": 19506,
+      "Turn": 55,
+      "Speaker": "T",
+      "Sentence": "We use that term that its bouncing so it represents multiplicity",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19507,
+      "Turn": 55,
+      "Speaker": "T",
+      "Sentence": "So in your teams talk about what does multiplicity mean what we have multiples of talk about it in your team",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher directs students to work in groups to explain the meaning of a mathematical term, prompting them to share their thinking."
+    },
+    {
+      "ID": 19508,
+      "Turn": 56,
+      "Speaker": "T",
+      "Sentence": "Well if this is called multiplicity what do we have multiples of",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher poses a question to the whole class that asks them to explain or define a key aspect of the concept of multiplicity."
+    },
+    {
+      "ID": 19509,
+      "Turn": 56,
+      "Speaker": "T",
+      "Sentence": "Of zeros",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19510,
+      "Turn": 56,
+      "Speaker": "T",
+      "Sentence": "We have multiple zeros",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19511,
+      "Turn": 56,
+      "Speaker": "T",
+      "Sentence": "We have multiple zeros that are equal",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19512,
+      "Turn": 56,
+      "Speaker": "T",
+      "Sentence": "We have more we have multiplicity",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19513,
+      "Turn": 56,
+      "Speaker": "T",
+      "Sentence": "Anytime that we have a exponent here weve got multiplicity",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19514,
+      "Turn": 56,
+      "Speaker": "T",
+      "Sentence": "We have multiple roots factors Xintercepts that are identical",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19515,
+      "Turn": 56,
+      "Speaker": "T",
+      "Sentence": "What happens if its an even number",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks a question that requires students to apply the concept of multiplicity to a specific case, prompting them to reason about the outcome."
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "records": [
+    {
+      "ID": 21224,
+      "Turn": 290,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21230,
+      "Turn": 294,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21231,
+      "Turn": 294,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21234,
+      "Turn": 296,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21235,
+      "Turn": 296,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to provide a specific mathematical step to simplify the expression."
+    },
+    {
+      "ID": 21236,
+      "Turn": 298,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats a student's likely contribution ('25') but adds 'So' to frame it as a step in the process."
+    },
+    {
+      "ID": 21240,
+      "Turn": 302,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to evaluate whether their proposed action will achieve the mathematical goal of simplification."
+    },
+    {
+      "ID": 21242,
+      "Turn": 304,
+      "Speaker": "T",
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's exact words from the previous turn."
+    },
+    {
+      "ID": 21243,
+      "Turn": 304,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

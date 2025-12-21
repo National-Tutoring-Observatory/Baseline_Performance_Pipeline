@@ -1,0 +1,146 @@
+[
+  {
+    "ID": 5057,
+    "Turn": 203,
+    "Speaker": "T",
+    "Sentence": "Okay",
+    "TalkMove": "None",
+    "Reasoning": null
+  },
+  {
+    "ID": 5058,
+    "Turn": 203,
+    "Speaker": "T",
+    "Sentence": "Im going to ask for more and were going to put more than just that",
+    "TalkMove": "Pressing for Reasoning",
+    "Reasoning": "The teacher indicates that the current contribution is insufficient and prompts for a more detailed explanation."
+  },
+  {
+    "ID": 5059,
+    "Turn": 203,
+    "Speaker": "T",
+    "Sentence": "You have something to add",
+    "TalkMove": "None",
+    "Reasoning": null
+  },
+  {
+    "ID": 5063,
+    "Turn": 205,
+    "Speaker": "T",
+    "Sentence": "Thats what Robert said",
+    "TalkMove": "None",
+    "Reasoning": null
+  },
+  {
+    "ID": 5064,
+    "Turn": 205,
+    "Speaker": "T",
+    "Sentence": "I want more",
+    "TalkMove": "Pressing for Reasoning",
+    "Reasoning": "The teacher explicitly asks for more information, pushing the student to elaborate on their explanation."
+  },
+  {
+    "ID": 5065,
+    "Turn": 205,
+    "Speaker": "T",
+    "Sentence": "Okay whats your explanation",
+    "TalkMove": "Pressing for Reasoning",
+    "Reasoning": "The teacher directly asks the student for their 'explanation,' prompting them to share their thinking."
+  },
+  {
+    "ID": 5066,
+    "Turn": 205,
+    "Speaker": "T",
+    "Sentence": "Okay",
+    "TalkMove": "None",
+    "Reasoning": null
+  },
+  {
+    "ID": 5067,
+    "Turn": 205,
+    "Speaker": "T",
+    "Sentence": "Listening",
+    "TalkMove": "Keeping Everyone Together",
+    "Reasoning": "The teacher prompts the class to be active listeners and pay attention to the speaker."
+  },
+  {
+    "ID": 5068,
+    "Turn": 205,
+    "Speaker": "T",
+    "Sentence": "Do you need your pencil sharpened",
+    "TalkMove": "None",
+    "Reasoning": null
+  },
+  {
+    "ID": 5070,
+    "Turn": 207,
+    "Speaker": "T",
+    "Sentence": "Okay",
+    "TalkMove": "None",
+    "Reasoning": null
+  },
+  {
+    "ID": 5071,
+    "Turn": 207,
+    "Speaker": "T",
+    "Sentence": "Whats your answer",
+    "TalkMove": "Pressing for Reasoning",
+    "Reasoning": "In the context of explaining an error, asking for an 'answer' is a prompt for the student to provide their reasoned explanation."
+  },
+  {
+    "ID": 5072,
+    "Turn": 208,
+    "Speaker": "T",
+    "Sentence": "Okay",
+    "TalkMove": "None",
+    "Reasoning": null
+  },
+  {
+    "ID": 5073,
+    "Turn": 208,
+    "Speaker": "T",
+    "Sentence": "So it sounds like were understanding that we dont subtract the denominator",
+    "TalkMove": "Revoicing",
+    "Reasoning": "The teacher repeats the core idea from student contributions using slightly different wording to summarize and check for understanding."
+  },
+  {
+    "ID": 5074,
+    "Turn": 208,
+    "Speaker": "T",
+    "Sentence": "What did the two groups over here say",
+    "TalkMove": "None",
+    "Reasoning": null
+  },
+  {
+    "ID": 5075,
+    "Turn": 208,
+    "Speaker": "T",
+    "Sentence": "Okay",
+    "TalkMove": "None",
+    "Reasoning": null
+  },
+  {
+    "ID": 5076,
+    "Turn": 208,
+    "Speaker": "T",
+    "Sentence": "You dont have an answer",
+    "TalkMove": "None",
+    "Reasoning": null
+  },
+  {
+    "ID": 5077,
+    "Turn": 208,
+    "Speaker": "T",
+    "Sentence": "Ladies",
+    "TalkMove": "None",
+    "Reasoning": null
+  },
+  {
+    "ID": 5078,
+    "Turn": 208,
+    "Speaker": "T",
+    "Sentence": "We are listening",
+    "TalkMove": "Keeping Everyone Together",
+    "Reasoning": "The teacher explicitly reminds students of the expectation to listen, orienting them to the ongoing discussion."
+  }
+]

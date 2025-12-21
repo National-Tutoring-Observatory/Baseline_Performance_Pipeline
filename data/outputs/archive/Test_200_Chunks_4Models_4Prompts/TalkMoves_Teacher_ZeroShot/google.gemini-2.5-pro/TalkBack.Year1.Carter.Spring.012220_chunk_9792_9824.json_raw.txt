@@ -1,0 +1,17 @@
+{
+  "records": [
+    {
+      "ID": 9792,
+      "Turn": 112,
+      "Speaker": "T",
+      "Sentence": "Felicia",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9795,
+      "Turn": 114,
+      "Speaker": "T",
+      "Sentence": "To get three times as much I like how you said that three times as much",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student

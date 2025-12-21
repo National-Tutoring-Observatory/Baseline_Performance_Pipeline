@@ -1,0 +1,88 @@
+{
+  "records": [
+    {
+      "ID": 9571,
+      "Speaker": "T",
+      "Turn": 29,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9572,
+      "Speaker": "T",
+      "Turn": 29,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9573,
+      "Speaker": "T",
+      "Turn": 30,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9575,
+      "Speaker": "T",
+      "Turn": 31,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9576,
+      "Speaker": "T",
+      "Turn": 32,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks what the expression should be, prompting the student to state the correct mathematical form."
+    },
+    {
+      "ID": 9578,
+      "Speaker": "T",
+      "Turn": 33,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher proposes an alternative phrasing to check the correct ordering/notation, prompting a more precise expression."
+    },
+    {
+      "ID": 9580,
+      "Speaker": "T",
+      "Turn": 35,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher highlights the underlying reason (number of zeros) and asks for confirmation, pressing the student to connect the choice of exponent to the concept."
+    },
+    {
+      "ID": 9582,
+      "Speaker": "T",
+      "Turn": 37,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9584,
+      "Speaker": "T",
+      "Turn": 39,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's answer, adding framing ('it should be'), to clarify the conclusion."
+    },
+    {
+      "ID": 9586,
+      "Speaker": "T",
+      "Turn": 41,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "By asking 'do you see why,' the teacher prompts the student to explain or justify the result."
+    },
+    {
+      "ID": 9591,
+      "Speaker": "T",
+      "Turn": 44,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9592,
+      "Speaker": "T",
+      "Turn": 44,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

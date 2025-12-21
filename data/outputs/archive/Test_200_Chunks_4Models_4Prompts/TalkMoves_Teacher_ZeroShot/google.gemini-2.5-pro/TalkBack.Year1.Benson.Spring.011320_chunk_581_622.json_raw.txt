@@ -1,0 +1,145 @@
+{
+  "records": [
+    {
+      "ID": 581,
+      "Turn": 102,
+      "Speaker": "T",
+      "Sentence": "Jamie did one",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 582,
+      "Turn": 102,
+      "Speaker": "T",
+      "Sentence": "Anyone at this middle table do any math here",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 584,
+      "Turn": 104,
+      "Speaker": "T",
+      "Sentence": "I havent heard from you",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 585,
+      "Turn": 104,
+      "Speaker": "T",
+      "Sentence": "All right Caleb tell me what you did",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 587,
+      "Turn": 106,
+      "Speaker": "T",
+      "Sentence": "Why did you do that",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to explain the thinking behind their mathematical action."
+    },
+    {
+      "ID": 591,
+      "Turn": 108,
+      "Speaker": "T",
+      "Sentence": "You have another one",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 595,
+      "Turn": 110,
+      "Speaker": "T",
+      "Sentence": "Excellent",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 596,
+      "Turn": 110,
+      "Speaker": "T",
+      "Sentence": "Did anyone reduce this down to a smaller fraction",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to provide a more refined mathematical contribution by asking for a reduced fraction."
+    },
+    {
+      "ID": 599,
+      "Turn": 112,
+      "Speaker": "T",
+      "Sentence": "Oh hi",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 600,
+      "Turn": 112,
+      "Speaker": "T",
+      "Sentence": "I dont want math",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 601,
+      "Turn": 112,
+      "Speaker": "T",
+      "Sentence": "Where did that come from",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 602,
+      "Turn": 113,
+      "Speaker": "T",
+      "Sentence": "Jeez sorry",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 603,
+      "Turn": 113,
+      "Speaker": "T",
+      "Sentence": "Well thats crazy",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 604,
+      "Turn": 114,
+      "Speaker": "T",
+      "Sentence": "Technology went a little crazy with me this morning sorry guys",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 605,
+      "Turn": 115,
+      "Speaker": "T",
+      "Sentence": "Well its showing up weird isnt it",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 606,
+      "Turn": 115,
+      "Speaker": "T",
+      "Sentence": "Its not in my Google Docs this is a Google Doc",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 607,
+      "Turn": 115,
+      "Speaker": "T",
+      "Sentence": "Anyway lets try this again",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 608,
+      "Turn": 115,
+      "Speaker": "T",
+      "Sentence": "Did anyone reduce that fraction down",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher repeats the prompt for students to provide a more refined mathematical

@@ -1,0 +1,126 @@
+{
+  "records": [
+    {
+      "ID": 2230,
+      "Speaker": "T",
+      "Turn": 2230
+    },
+    {
+      "ID": 2239,
+      "Speaker": "T",
+      "Turn": 2239
+    },
+    {
+      "ID": 2240,
+      "Speaker": "T",
+      "Turn": 2240,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher signals expectation that the student will explain their thinking."
+    },
+    {
+      "ID": 2241,
+      "Speaker": "T",
+      "Turn": 2241,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher points out that the student’s response is incomplete, prompting them to supply the missing mathematical information."
+    },
+    {
+      "ID": 2243,
+      "Speaker": "T",
+      "Turn": 2243
+    },
+    {
+      "ID": 2244,
+      "Speaker": "T",
+      "Turn": 2244
+    },
+    {
+      "ID": 2245,
+      "Speaker": "T",
+      "Turn": 2245,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher focuses students on using the correct label and structure for their answer."
+    },
+    {
+      "ID": 2246,
+      "Speaker": "T",
+      "Turn": 2246,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "By asking 'What is that?' the teacher presses the student to precisely identify or define the mathematical quantity."
+    },
+    {
+      "ID": 2247,
+      "Speaker": "T",
+      "Turn": 2247,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher lets the student know they will need to explain, prompting preparation of reasoning."
+    },
+    {
+      "ID": 2248,
+      "Speaker": "T",
+      "Turn": 2248
+    },
+    {
+      "ID": 2249,
+      "Speaker": "T",
+      "Turn": 2249,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Teacher orients the class to the specific problem they are working on, ensuring shared focus."
+    },
+    {
+      "ID": 2250,
+      "Speaker": "T",
+      "Turn": 2250,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher highlights that only one quantity is present, urging the student to include all required parts."
+    },
+    {
+      "ID": 2251,
+      "Speaker": "T",
+      "Turn": 2251,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher reminds the student that both burritos and sandwiches must be considered, pushing for complete and correct work."
+    },
+    {
+      "ID": 2253,
+      "Speaker": "T",
+      "Turn": 2253,
+      "TalkMove": "Restating",
+      "Reasoning": "Teacher repeats exactly the multiplication the student performed, word-for-word."
+    },
+    {
+      "ID": 2255,
+      "Speaker": "T",
+      "Turn": 2255
+    },
+    {
+      "ID": 2256,
+      "Speaker": "T",
+      "Turn": 2256
+    },
+    {
+      "ID": 2257,
+      "Speaker": "T",
+      "Turn": 2257
+    },
+    {
+      "ID": 2258,
+      "Speaker": "T",
+      "Turn": 2258,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher specifies that both item types should be present, pushing the student toward a mathematically complete solution."
+    },
+    {
+      "ID": 2259,
+      "Speaker": "T",
+      "Turn": 2259
+    },
+    {
+      "ID": 2260,
+      "Speaker": "T",
+      "Turn": 2260,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher checks whether the student has correctly found the required quantity (burritos), urging accurate completion."
+    }
+  ]
+}

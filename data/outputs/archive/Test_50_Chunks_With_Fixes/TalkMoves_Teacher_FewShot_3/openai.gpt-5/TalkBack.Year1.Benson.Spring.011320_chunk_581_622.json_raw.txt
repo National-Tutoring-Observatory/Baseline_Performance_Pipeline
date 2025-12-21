@@ -1,0 +1,200 @@
+{
+  "records": [
+    {
+      "ID": 581,
+      "Speaker": "T",
+      "Turn": 102,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 582,
+      "Speaker": "T",
+      "Turn": 102,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 584,
+      "Speaker": "T",
+      "Turn": 104,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 585,
+      "Speaker": "T",
+      "Turn": 104,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to explain what they did, prompting them to describe their method."
+    },
+    {
+      "ID": 587,
+      "Speaker": "T",
+      "Turn": 106,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks 'Why did you do that,' requesting justification for the student's approach."
+    },
+    {
+      "ID": 591,
+      "Speaker": "T",
+      "Turn": 108,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 595,
+      "Speaker": "T",
+      "Turn": 110,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 596,
+      "Speaker": "T",
+      "Turn": 110,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher invites students to perform a mathematical operation (reducing a fraction)."
+    },
+    {
+      "ID": 599,
+      "Speaker": "T",
+      "Turn": 112,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 600,
+      "Speaker": "T",
+      "Turn": 112,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 601,
+      "Speaker": "T",
+      "Turn": 112,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 602,
+      "Speaker": "T",
+      "Turn": 113,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 603,
+      "Speaker": "T",
+      "Turn": 113,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 604,
+      "Speaker": "T",
+      "Turn": 114,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 605,
+      "Speaker": "T",
+      "Turn": 115,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 606,
+      "Speaker": "T",
+      "Turn": 115,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 607,
+      "Speaker": "T",
+      "Turn": 115,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 608,
+      "Speaker": "T",
+      "Turn": 115,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher again asks if anyone reduced the fraction, prompting a specific mathematical contribution."
+    },
+    {
+      "ID": 609,
+      "Speaker": "T",
+      "Turn": 115,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for a smaller equivalent portion of 6/100, soliciting a precise mathematical answer."
+    },
+    {
+      "ID": 610,
+      "Speaker": "T",
+      "Turn": 116,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 612,
+      "Speaker": "T",
+      "Turn": 117,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's proposed fraction ('6/10') back to the class."
+    },
+    {
+      "ID": 613,
+      "Speaker": "T",
+      "Turn": 117,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts students to connect place value concepts (tens and hundreds) to the fraction idea."
+    },
+    {
+      "ID": 614,
+      "Speaker": "T",
+      "Turn": 117,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for a specific quantity ('how many would be tenths') based on a representation."
+    },
+    {
+      "ID": 616,
+      "Speaker": "T",
+      "Turn": 119,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher paraphrases the student's reply ('Six') as 'Six of them,' clarifying and slightly expanding the wording."
+    },
+    {
+      "ID": 617,
+      "Speaker": "T",
+      "Turn": 119,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 618,
+      "Speaker": "T",
+      "Turn": 119,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 619,
+      "Speaker": "T",
+      "Turn": 119,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 621,
+      "Speaker": "T",
+      "Turn": 121,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to state their mathematical idea ('What?'), inviting a specific contribution."
+    }
+  ]
+}

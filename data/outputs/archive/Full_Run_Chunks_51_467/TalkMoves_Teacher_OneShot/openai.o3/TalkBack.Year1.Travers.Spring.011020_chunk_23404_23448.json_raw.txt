@@ -1,0 +1,228 @@
+{
+  "records": [
+    {
+      "ID": 23405,
+      "Speaker": "T",
+      "Turn": 90,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Teacher asks the student to repeat so everyone can hear, orienting the class to the speaker."
+    },
+    {
+      "ID": 23407,
+      "Speaker": "T",
+      "Turn": 92,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher restates Jon’s idea in her own words to clarify it for the class."
+    },
+    {
+      "ID": 23408,
+      "Speaker": "T",
+      "Turn": 92,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23409,
+      "Speaker": "T",
+      "Turn": 92,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "Teacher tells someone to ‘add on’ to Jon’s statement, explicitly inviting peers to build on his idea."
+    },
+    {
+      "ID": 23410,
+      "Speaker": "T",
+      "Turn": 92,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks a precise mathematical question about whether 1 can be a multiple of 8."
+    },
+    {
+      "ID": 23411,
+      "Speaker": "T",
+      "Turn": 92,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Prompts the student to speak up so everyone can hear."
+    },
+    {
+      "ID": 23412,
+      "Speaker": "T",
+      "Turn": 92,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Again asks the student to speak louder to keep the class oriented to the speaker."
+    },
+    {
+      "ID": 23415,
+      "Speaker": "T",
+      "Turn": 95,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "After summarizing, teacher invites others to ‘respond to that,’ directing students to engage with Jon’s idea."
+    },
+    {
+      "ID": 23416,
+      "Speaker": "T",
+      "Turn": 95,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "Asks Jon to call on a classmate to respond, further encouraging peer-to-peer interaction."
+    },
+    {
+      "ID": 23420,
+      "Speaker": "T",
+      "Turn": 97,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23421,
+      "Speaker": "T",
+      "Turn": 97,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23422,
+      "Speaker": "T",
+      "Turn": 97,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23424,
+      "Speaker": "T",
+      "Turn": 99,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23425,
+      "Speaker": "T",
+      "Turn": 99,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23426,
+      "Speaker": "T",
+      "Turn": 99,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks explicitly for the factors or factor pairs of 12."
+    },
+    {
+      "ID": 23427,
+      "Speaker": "T",
+      "Turn": 99,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Guides students toward the correct form of a factor pair (‘what × what’)."
+    },
+    {
+      "ID": 23428,
+      "Speaker": "T",
+      "Turn": 99,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Clarifies that students should focus only on the factors of 12."
+    },
+    {
+      "ID": 23429,
+      "Speaker": "T",
+      "Turn": 100,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23430,
+      "Speaker": "T",
+      "Turn": 100,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Checks whether students have recorded the factors correctly."
+    },
+    {
+      "ID": 23431,
+      "Speaker": "T",
+      "Turn": 100,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Requests two factors of 12 from the class."
+    },
+    {
+      "ID": 23432,
+      "Speaker": "T",
+      "Turn": 100,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23434,
+      "Speaker": "T",
+      "Turn": 102,
+      "TalkMove": "Restating",
+      "Reasoning": "Teacher repeats the student’s answer verbatim: ‘6 and 2’."
+    },
+    {
+      "ID": 23435,
+      "Speaker": "T",
+      "Turn": 102,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23436,
+      "Speaker": "T",
+      "Turn": 102,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23438,
+      "Speaker": "T",
+      "Turn": 104,
+      "TalkMove": "Restating",
+      "Reasoning": "Repeats the student’s answer exactly: ‘3 and 4’."
+    },
+    {
+      "ID": 23439,
+      "Speaker": "T",
+      "Turn": 104,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Paraphrases the factor pair into a multiplication statement (‘6 × 2 = 12’)."
+    },
+    {
+      "ID": 23440,
+      "Speaker": "T",
+      "Turn": 104,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Paraphrases the other factor pair as a multiplication statement (‘3 × 4 = 12’)."
+    },
+    {
+      "ID": 23441,
+      "Speaker": "T",
+      "Turn": 104,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks whether there are additional factor pairs, prompting further mathematical contributions."
+    },
+    {
+      "ID": 23443,
+      "Speaker": "T",
+      "Turn": 106,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Calls on a student to provide another factor pair, soliciting specific mathematical information."
+    },
+    {
+      "ID": 23445,
+      "Speaker": "T",
+      "Turn": 108,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Repeats and reorganizes the student’s response (‘4 3 and 3 4’), adding clarification."
+    },
+    {
+      "ID": 23446,
+      "Speaker": "T",
+      "Turn": 108,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23447,
+      "Speaker": "T",
+      "Turn": 108,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks if there are any additional factor pairs, pushing students to be complete."
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 1985,
+      "Speaker": "T",
+      "Turn": 1985,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1987,
+      "Speaker": "T",
+      "Turn": 1987,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to think about a mathematical property (the associative/commutative property of multiplication), prompting them to reason about the process."
+    },
+    {
+      "ID": 1989,
+      "Speaker": "T",
+      "Turn": 1989,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher adds a condition to the previous question, continuing to prompt students to reason about the mathematical principles at play."
+    },
+    {
+      "ID": 1990,
+      "Speaker": "T",
+      "Turn": 1990,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to be precise about the meaning of the numbers being multiplied by connecting them to the context of the problem."
+    },
+    {
+      "ID": 1992,
+      "Speaker": "T",
+      "Turn": 1992,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to justify whether an alternative approach would be valid, pressing them to explain their thinking."
+    },
+    {
+      "ID": 1993,
+      "Speaker": "T",
+      "Turn": 1993,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1995,
+      "Speaker": "T",
+      "Turn": 1995,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1997,
+      "Speaker": "T",
+      "Turn": 1997,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1998,
+      "Speaker": "T",
+      "Turn": 1998,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1999,
+      "Speaker": "T",
+      "Turn": 1999,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2001,
+      "Speaker": "T",
+      "Turn": 2001,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2002,
+      "Speaker": "T",
+      "Turn": 2002,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2003,
+      "Speaker": "T",
+      "Turn": 2003,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2004,
+      "Speaker": "T",
+      "Turn": 2004,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts a student to provide a specific mathematical contribution in the form of a 'number model'."
+    },
+    {
+      "ID": 2006,
+      "Speaker": "T",
+      "Turn": 2006,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks a student to explain the thinking behind their calculation ('why you did 33 x 2')."
+    },
+    {
+      "ID": 2008,
+      "Speaker": "T",
+      "Turn": 2008,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2009,
+      "Speaker": "T",
+      "Turn": 2009,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2010,
+      "Speaker": "T",
+      "Turn": 2010,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2012,
+      "Speaker": "T",
+      "Turn": 2012,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2014,
+      "Speaker": "T",
+      "Turn": 2014,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats a student's likely contribution ('six') but adds contextual language ('tap dancers') to clarify its meaning for the class."
+    }
+  ]
+}

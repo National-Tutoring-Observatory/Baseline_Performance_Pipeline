@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 20001,
+      "Speaker": "T",
+      "Turn": 20001,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 20003,
+      "Speaker": "T",
+      "Turn": 20003,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a specific mathematical question about the behavior of linear equations, prompting students to recall factual knowledge."
+    },
+    {
+      "ID": 20005,
+      "Speaker": "T",
+      "Turn": 20005,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 20006,
+      "Speaker": "T",
+      "Turn": 20006,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to consider the behavior of a quadratic function, seeking a specific mathematical description."
+    },
+    {
+      "ID": 20007,
+      "Speaker": "T",
+      "Turn": 20007,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 20008,
+      "Speaker": "T",
+      "Turn": 20008,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 20010,
+      "Speaker": "T",
+      "Turn": 20010,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 20011,
+      "Speaker": "T",
+      "Turn": 20011,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 20012,
+      "Speaker": "T",
+      "Turn": 20012,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 20014,
+      "Speaker": "T",
+      "Turn": 20014,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 20015,
+      "Speaker": "T",
+      "Turn": 20015,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for a specific mathematical property (the degree) of the function being discussed."
+    },
+    {
+      "ID": 20017,
+      "Speaker": "T",
+      "Turn": 20017,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 20018,
+      "Speaker": "T",
+      "Turn": 20018,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks the student to classify the number as odd or even, a factual mathematical question."
+    },
+    {
+      "ID": 20020,
+      "Speaker": "T",
+      "Turn": 20020,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the end behavior of the function based on the degree, seeking a correct mathematical description."
+    },
+    {
+      "ID": 20022,
+      "Speaker": "T",
+      "Turn": 20022,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks 'How do I know', prompting the student to explain the rule or evidence used to determine the direction of the graph."
+    },
+    {
+      "ID": 20024,
+      "Speaker": "T",
+      "Turn": 20024,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 20026,
+      "Speaker": "T",
+      "Turn": 20026,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 20027,
+      "Speaker": "T",
+      "Turn": 20027,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 20028,
+      "Speaker": "T",
+      "Turn": 20028,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks the student to identify the specific shape/direction of the graph."
+    },
+    {
+      "ID": 20030,
+      "Speaker": "T",
+      "Turn": 20030,
+      "TalkMove": "None",
+      "Reasoning": null
+    }
+  ]
+}

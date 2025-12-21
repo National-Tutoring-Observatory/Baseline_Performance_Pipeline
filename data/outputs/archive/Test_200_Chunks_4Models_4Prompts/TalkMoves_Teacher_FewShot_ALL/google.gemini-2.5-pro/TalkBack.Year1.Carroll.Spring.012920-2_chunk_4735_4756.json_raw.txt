@@ -1,0 +1,95 @@
+{
+  "records": [
+    {
+      "ID": 4735,
+      "Turn": 50,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4736,
+      "Turn": 50,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4737,
+      "Turn": 51,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4738,
+      "Turn": 51,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4739,
+      "Turn": 51,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts students to explain their thinking by asking 'what words are possibly giving you the hint' for their choice of operation."
+    },
+    {
+      "ID": 4748,
+      "Turn": 58,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4749,
+      "Turn": 58,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4750,
+      "Turn": 59,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4751,
+      "Turn": 59,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4753,
+      "Turn": 60,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4754,
+      "Turn": 60,
+      "Speaker": "T",
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's contribution of 'Subtraction' word for word."
+    },
+    {
+      "ID": 4755,
+      "Turn": 60,
+      "Speaker": "T",
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "After a student suggests 'Subtraction,' the teacher asks others 'What do you think?', prompting them to react to their classmate's idea."
+    },
+    {
+      "ID": 4756,
+      "Turn": 60,
+      "Speaker": "T",
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher voices another student's idea ('Addition'), likely in response to the previous question, putting it into the public space for consideration."
+    }
+  ]
+}

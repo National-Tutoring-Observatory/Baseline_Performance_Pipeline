@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 1329,
+      "Speaker": "T",
+      "Turn": 1329,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1330,
+      "Speaker": "T",
+      "Turn": 1330,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1332,
+      "Speaker": "T",
+      "Turn": 1332,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1333,
+      "Speaker": "T",
+      "Turn": 1333,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1338,
+      "Speaker": "T",
+      "Turn": 1338,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1339,
+      "Speaker": "T",
+      "Turn": 1339,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1340,
+      "Speaker": "T",
+      "Turn": 1340,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1341,
+      "Speaker": "T",
+      "Turn": 1341,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts a student to recall and state a key mathematical component of the problem (the 'whole')."
+    },
+    {
+      "ID": 1342,
+      "Speaker": "T",
+      "Turn": 1342,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the likely student answer ('a can of paint') and rephrases it as a confirmation."
+    },
+    {
+      "ID": 1343,
+      "Speaker": "T",
+      "Turn": 1343,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the idea of 'one can of paint' and adds mathematical language by clarifying this is the whole that is being split into parts."
+    },
+    {
+      "ID": 1344,
+      "Speaker": "T",
+      "Turn": 1344,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1345,
+      "Speaker": "T",
+      "Turn": 1345,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1346,
+      "Speaker": "T",
+      "Turn": 1346,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1347,
+      "Speaker": "T",
+      "Turn": 1347,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts a student to describe their drawing, asking them to share the thinking behind their problem-solving strategy."
+    },
+    {
+      "ID": 1348,
+      "Speaker": "T",
+      "Turn": 1348,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher verbalizes and interprets the student's drawing, stating it as 'four cans of paint'."
+    },
+    {
+      "ID": 1350,
+      "Speaker": "T",
+      "Turn": 1350,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher interprets a part of the student's drawing and labels it with a specific detail from the problem ('Ryan')."
+    },
+    {
+      "ID": 1352,
+      "Speaker": "T",
+      "Turn": 1352,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher continues to interpret the student's drawing by labeling the other parts with details from the problem ('sister one sister two sister three')."
+    },
+    {
+      "ID": 1353,
+      "Speaker": "T",
+      "Turn": 1353,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks a question that challenges the logic of the student's representation, prompting them to justify adding 'whole things'."
+    },
+    {
+      "ID": 1354,
+      "Speaker": "T",
+      "Turn": 1354,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher repeats the previous press with more specific language, continuing to challenge the student's reasoning."
+    },
+    {
+      "ID": 1355,
+      "Speaker": "T",
+      "Turn": 1355,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks a targeted question to guide the student to reconsider their model by thinking through the details of the problem."
+    }
+  ]
+}

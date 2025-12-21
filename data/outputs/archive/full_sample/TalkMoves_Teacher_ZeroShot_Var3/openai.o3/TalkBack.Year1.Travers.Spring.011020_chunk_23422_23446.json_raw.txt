@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 23422,
+      "Speaker": "T",
+      "Turn": 23422,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23424,
+      "Speaker": "T",
+      "Turn": 23424,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher tells students to write the specific number 12, requesting a precise mathematical representation."
+    },
+    {
+      "ID": 23425,
+      "Speaker": "T",
+      "Turn": 23425,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher directs students to find the factors of 12, asking for a concrete mathematical contribution."
+    },
+    {
+      "ID": 23426,
+      "Speaker": "T",
+      "Turn": 23426,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The question solicits the exact factor pairs of 12."
+    },
+    {
+      "ID": 23427,
+      "Speaker": "T",
+      "Turn": 23427,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher urges students to think precisely about what ‘factor or factor pair’ means."
+    },
+    {
+      "ID": 23428,
+      "Speaker": "T",
+      "Turn": 23428,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher redirects focus to listing the factors of 12, emphasizing accurate mathematical content."
+    },
+    {
+      "ID": 23429,
+      "Speaker": "T",
+      "Turn": 23429,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23430,
+      "Speaker": "T",
+      "Turn": 23430,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23431,
+      "Speaker": "T",
+      "Turn": 23431,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher requests two specific factors of 12, prompting a precise numeric answer."
+    },
+    {
+      "ID": 23432,
+      "Speaker": "T",
+      "Turn": 23432,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23434,
+      "Speaker": "T",
+      "Turn": 23434,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student’s answer verbatim: ‘6 and 2.’"
+    },
+    {
+      "ID": 23435,
+      "Speaker": "T",
+      "Turn": 23435,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23436,
+      "Speaker": "T",
+      "Turn": 23436,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23438,
+      "Speaker": "T",
+      "Turn": 23438,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student’s answer verbatim: ‘3 and 4.’"
+    },
+    {
+      "ID": 23439,
+      "Speaker": "T",
+      "Turn": 23439,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases the student’s idea, adding the product relationship ‘6 × 2 = 12.’"
+    },
+    {
+      "ID": 23440,
+      "Speaker": "T",
+      "Turn": 23440,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Again rephrases the student’s idea to include ‘3 × 4 = 12,’ modifying wording while preserving meaning."
+    },
+    {
+      "ID": 23441,
+      "Speaker": "T",
+      "Turn": 23441,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks if there are additional factor pairs, seeking more precise mathematical contributions."
+    },
+    {
+      "ID": 23443,
+      "Speaker": "T",
+      "Turn": 23443,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Calls on a student for another factor pair, prompting a specific mathematical answer."
+    },
+    {
+      "ID": 23445,
+      "Speaker": "T",
+      "Turn": 23445,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student’s reversed factor pair exactly: ‘4 3 and 3 4.’"
+    },
+    {
+      "ID": 23446,
+      "Speaker": "T",
+      "Turn": 23446,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts students to justify that the factors can be written in either order, invoking the commutative property."
+    }
+  ]
+}

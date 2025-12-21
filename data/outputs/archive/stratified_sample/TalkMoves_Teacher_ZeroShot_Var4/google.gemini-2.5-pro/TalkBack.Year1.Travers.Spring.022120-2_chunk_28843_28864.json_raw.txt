@@ -1,0 +1,67 @@
+{
+  "records": [
+    {
+      "ID": 28843,
+      "Turn": 300,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to use the correct mathematical term for the figure."
+    },
+    {
+      "ID": 28847,
+      "Turn": 303,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 28848,
+      "Turn": 303,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 28850,
+      "Turn": 305,
+      "Speaker": "T",
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's contribution ('Trapezoid') word for word."
+    },
+    {
+      "ID": 28852,
+      "Turn": 307,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 28856,
+      "Turn": 310,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts the student to connect ideas by asking them to see a similarity between two figures."
+    },
+    {
+      "ID": 28860,
+      "Turn": 313,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 28862,
+      "Turn": 315,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 28863,
+      "Turn": 315,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 1695,
+      "Speaker": "T",
+      "Turn": 1695,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1696,
+      "Speaker": "T",
+      "Turn": 1696,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1697,
+      "Speaker": "T",
+      "Turn": 1697,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1698,
+      "Speaker": "T",
+      "Turn": 1698,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1700,
+      "Speaker": "T",
+      "Turn": 1700,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's answer ('two') and adds clarifying words ('of them')."
+    },
+    {
+      "ID": 1701,
+      "Speaker": "T",
+      "Turn": 1701,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1703,
+      "Speaker": "T",
+      "Turn": 1703,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's answer ('three-fifths') verbatim."
+    },
+    {
+      "ID": 1704,
+      "Speaker": "T",
+      "Turn": 1704,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1705,
+      "Speaker": "T",
+      "Turn": 1705,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1706,
+      "Speaker": "T",
+      "Turn": 1706,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1707,
+      "Speaker": "T",
+      "Turn": 1707,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to provide the answer in a specific mathematical form (a fraction)."
+    },
+    {
+      "ID": 1709,
+      "Speaker": "T",
+      "Turn": 1709,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's idea ('one-fifth') but rephrases it as 'another fifth' to fit the context of the problem."
+    },
+    {
+      "ID": 1710,
+      "Speaker": "T",
+      "Turn": 1710,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher again rephrases the student's contribution ('one-fifth') to emphasize the addition aspect ('one more fifth')."
+    },
+    {
+      "ID": 1711,
+      "Speaker": "T",
+      "Turn": 1711,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1712,
+      "Speaker": "T",
+      "Turn": 1712,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1713,
+      "Speaker": "T",
+      "Turn": 1713,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to propose a strategy for solving the problem."
+    },
+    {
+      "ID": 1714,
+      "Speaker": "T",
+      "Turn": 1714,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher repeats the prompt for a problem-solving strategy, directing it to a specific student."
+    },
+    {
+      "ID": 1716,
+      "Speaker": "T",
+      "Turn": 1716,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's suggested strategy, changing the pronoun ('I can...' instead of 'You can...') to adopt it for the shared problem-solving process."
+    },
+    {
+      "ID": 1717,
+      "Speaker": "T",
+      "Turn": 1717,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1718,
+      "Speaker": "T",
+      "Turn": 1718,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

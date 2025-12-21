@@ -1,0 +1,151 @@
+{
+  "records": [
+    {
+      "ID": 6351,
+      "Turn": 25,
+      "Speaker": "S",
+      "Sentence": "Its nine"
+    },
+    {
+      "ID": 6352,
+      "Turn": 26,
+      "Speaker": "S",
+      "Sentence": "Nine"
+    },
+    {
+      "ID": 6353,
+      "Turn": 27,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's answer ('nine') and adds a mathematical explanation for why it is correct."
+    },
+    {
+      "ID": 6354,
+      "Turn": 27,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 6355,
+      "Turn": 27,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 6356,
+      "Turn": 27,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 6357,
+      "Turn": 27,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 6358,
+      "Turn": 28,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 6359,
+      "Turn": 28,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 6360,
+      "Turn": 28,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 6361,
+      "Turn": 28,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 6362,
+      "Turn": 28,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 6363,
+      "Turn": 28,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 6364,
+      "Turn": 29,
+      "Speaker": "S",
+      "Sentence": "We came up with 12 x 13"
+    },
+    {
+      "ID": 6365,
+      "Turn": 30,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases the student's choice ('12 x 13') as a statement ('So you think this one's bigger') to confirm their position in relation to the original question."
+    },
+    {
+      "ID": 6366,
+      "Turn": 31,
+      "Speaker": "S",
+      "Sentence": "Yes"
+    },
+    {
+      "ID": 6367,
+      "Turn": 31,
+      "Speaker": "S",
+      "Sentence": "Because"
+    },
+    {
+      "ID": 6368,
+      "Turn": 32,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher explicitly asks the student to provide the reasoning behind their answer by saying 'tell me why'."
+    },
+    {
+      "ID": 6369,
+      "Turn": 33,
+      "Speaker": "S",
+      "Sentence": "if you look at it and you solve the problem it would be 16"
+    },
+    {
+      "ID": 6370,
+      "Turn": 33,
+      "Speaker": "S",
+      "Sentence": "But if you do 12 of a 15 it would be 110 and a 16 has a bigger fraction than"
+    },
+    {
+      "ID": 6371,
+      "Turn": 34,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 6372,
+      "Turn": 34,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

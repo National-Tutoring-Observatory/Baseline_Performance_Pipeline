@@ -1,0 +1,18 @@
+{
+  "records": [
+    {
+      "ID": 3201,
+      "Speaker": "T",
+      "Turn": 3201,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a specific question ('What does it represent') to prompt students to identify the mathematical value or meaning of the square."
+    },
+    {
+      "ID": 3225,
+      "Speaker": "T",
+      "Turn": 3225,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher uses an incomplete sentence ('place to its') as a cloze prompt to elicit the correct directional term ('left') from the students."
+    }
+  ]
+}

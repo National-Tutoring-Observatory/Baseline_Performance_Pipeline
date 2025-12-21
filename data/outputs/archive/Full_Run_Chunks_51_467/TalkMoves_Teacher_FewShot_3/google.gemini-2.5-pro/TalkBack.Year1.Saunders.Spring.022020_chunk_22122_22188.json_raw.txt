@@ -1,0 +1,312 @@
+{
+  "records": [
+    {
+      "ID": 22122,
+      "Turn": 231,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22124,
+      "Turn": 233,
+      "Speaker": "T",
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's one-word answer verbatim."
+    },
+    {
+      "ID": 22125,
+      "Turn": 233,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22127,
+      "Turn": 235,
+      "Speaker": "T",
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's informal phrase 'the flippy thingy' verbatim."
+    },
+    {
+      "ID": 22129,
+      "Turn": 237,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "After the student uses a vague term, the teacher asks for a more specific mathematical contribution."
+    },
+    {
+      "ID": 22131,
+      "Turn": 239,
+      "Speaker": "T",
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the key part of the student's phrase."
+    },
+    {
+      "ID": 22132,
+      "Turn": 239,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to use precise mathematical language instead of the informal 'flip it'."
+    },
+    {
+      "ID": 22135,
+      "Turn": 242,
+      "Speaker": "T",
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the mathematical term provided by the student."
+    },
+    {
+      "ID": 22137,
+      "Turn": 244,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22138,
+      "Turn": 244,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22140,
+      "Turn": 246,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22141,
+      "Turn": 246,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22142,
+      "Turn": 246,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to share their thinking or strategy for solving the problem."
+    },
+    {
+      "ID": 22145,
+      "Turn": 249,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22146,
+      "Turn": 249,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22147,
+      "Turn": 249,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22148,
+      "Turn": 249,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22149,
+      "Turn": 249,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22150,
+      "Turn": 250,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22151,
+      "Turn": 250,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22152,
+      "Turn": 250,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22153,
+      "Turn": 250,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22155,
+      "Turn": 251,
+      "Speaker": "T",
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the action part of the student's instruction."
+    },
+    {
+      "ID": 22156,
+      "Turn": 251,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22158,
+      "Turn": 253,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22159,
+      "Turn": 253,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22160,
+      "Turn": 253,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22161,
+      "Turn": 253,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22164,
+      "Turn": 256,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22166,
+      "Turn": 258,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22167,
+      "Turn": 258,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22168,
+      "Turn": 258,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22170,
+      "Turn": 260,
+      "Speaker": "T",
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's statement with a slightly different emphasis."
+    },
+    {
+      "ID": 22171,
+      "Turn": 260,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks the student to clarify the pronoun 'it' and name the specific mathematical object."
+    },
+    {
+      "ID": 22173,
+      "Turn": 262,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22174,
+      "Turn": 262,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22176,
+      "Turn": 264,
+      "Speaker": "T",
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's answer verbatim."
+    },
+    {
+      "ID": 22177,
+      "Turn": 264,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to simplify the mathematical term 'two over one' to its more common form."
+    },
+    {
+      "ID": 22179,
+      "Turn": 266,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher takes the student's one-word answer ('Squared') and rephrases it as a complete sentence describing the mathematical action."
+    },
+    {
+      "ID": 22181,
+      "Turn": 268,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22183,
+      "Turn": 270,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22184,
+      "Turn": 270,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22185,
+      "Turn": 270,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to describe their strategy or plan for how to proceed with the given equation."
+    },
+    {
+      "ID": 22187,
+      "Turn": 272,
+      "Speaker": "T",
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's proposed action and adds an affirmation."
+    }
+  ]
+}

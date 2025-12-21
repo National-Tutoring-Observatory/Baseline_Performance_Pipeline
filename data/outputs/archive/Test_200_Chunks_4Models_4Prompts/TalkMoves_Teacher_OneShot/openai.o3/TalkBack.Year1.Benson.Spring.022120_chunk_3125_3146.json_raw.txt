@@ -1,0 +1,116 @@
+{
+  "records": [
+    {
+      "ID": 3125,
+      "Speaker": "T",
+      "Turn": 136,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher restates what they believe the student is referring to and seeks confirmation ('is that what you’re talking about?')."
+    },
+    {
+      "ID": 3127,
+      "Speaker": "T",
+      "Turn": 138,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Teacher recalls a shared prior example so the whole class can align their thinking."
+    },
+    {
+      "ID": 3129,
+      "Speaker": "T",
+      "Turn": 140,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Teacher references the new diagram just drawn, orienting everyone to the same representation."
+    },
+    {
+      "ID": 3130,
+      "Speaker": "T",
+      "Turn": 140,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Teacher asks the student to restate their question so all can follow the discussion."
+    },
+    {
+      "ID": 3132,
+      "Speaker": "T",
+      "Turn": 142,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3133,
+      "Speaker": "T",
+      "Turn": 143,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Teacher directs attention to the problem representation ('Okay let’s look at it')."
+    },
+    {
+      "ID": 3134,
+      "Speaker": "T",
+      "Turn": 143,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3135,
+      "Speaker": "T",
+      "Turn": 143,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher restates the student’s query as a check for understanding ('You’re asking if I did 200 divided by 50')."
+    },
+    {
+      "ID": 3138,
+      "Speaker": "T",
+      "Turn": 145,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher asks the student to justify their choice ('Why 100?')."
+    },
+    {
+      "ID": 3140,
+      "Speaker": "T",
+      "Turn": 147,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3141,
+      "Speaker": "T",
+      "Turn": 148,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3142,
+      "Speaker": "T",
+      "Turn": 148,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3143,
+      "Speaker": "T",
+      "Turn": 148,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3144,
+      "Speaker": "T",
+      "Turn": 148,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3145,
+      "Speaker": "T",
+      "Turn": 148,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3146,
+      "Speaker": "T",
+      "Turn": 148,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "records": [
+    {
+      "ID": 5271,
+      "Speaker": "T",
+      "Turn": 43,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher restates the student's idea ('double it') while adjusting wording ('She wants to…'), thereby rephrasing the contribution."
+    },
+    {
+      "ID": 5272,
+      "Speaker": "T",
+      "Turn": 43,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Asks students to describe what will happen to the trapezoid, prompting explanation of the geometric effect."
+    },
+    {
+      "ID": 5273,
+      "Speaker": "T",
+      "Turn": 43,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Provides specific possibilities and seeks student reasoning about which transformation will occur."
+    },
+    {
+      "ID": 5274,
+      "Speaker": "T",
+      "Turn": 43,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Again asks students to predict the outcome when the x-axis is doubled, requesting underlying thinking."
+    },
+    {
+      "ID": 5277,
+      "Speaker": "T",
+      "Turn": 46,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5281,
+      "Speaker": "T",
+      "Turn": 51,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5284,
+      "Speaker": "T",
+      "Turn": 51,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5285,
+      "Speaker": "T",
+      "Turn": 51,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5290,
+      "Speaker": "T",
+      "Turn": 55,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Invites the student to share what they wrote, eliciting their thinking and explanation."
+    },
+    {
+      "ID": 5291,
+      "Speaker": "T",
+      "Turn": 55,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Asks the student for their thoughts, prompting them to articulate reasoning."
+    },
+    {
+      "ID": 5292,
+      "Speaker": "T",
+      "Turn": 55,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Paraphrases the student's idea ('you think it’s gonna get wider'), confirming and slightly rephrasing their contribution."
+    },
+    {
+      "ID": 5293,
+      "Speaker": "T",
+      "Turn": 55,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5294,
+      "Speaker": "T",
+      "Turn": 55,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "Asks if anyone agrees with Maya, urging students to connect their thinking to a peer’s idea."
+    }
+  ]
+}

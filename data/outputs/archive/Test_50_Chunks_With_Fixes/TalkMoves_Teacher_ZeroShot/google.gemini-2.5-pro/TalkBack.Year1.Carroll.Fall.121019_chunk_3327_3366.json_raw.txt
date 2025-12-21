@@ -1,0 +1,220 @@
+{
+  "records": [
+    {
+      "ID": 3327,
+      "Turn": 103,
+      "Speaker": "T",
+      "Sentence": "Yes thats your ones and then 16100",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3328,
+      "Turn": 103,
+      "Speaker": "T",
+      "Sentence": "You want to go to the hundredths place so youre",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3330,
+      "Turn": 105,
+      "Speaker": "T",
+      "Sentence": "No",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3333,
+      "Turn": 107,
+      "Speaker": "T",
+      "Sentence": "You only have one digit",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3334,
+      "Turn": 107,
+      "Speaker": "T",
+      "Sentence": "No you only have one digit per place",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher states a mathematical rule to correct the student's error of putting multiple digits in one place value column, thus pressing for a more accurate representation."
+    },
+    {
+      "ID": 3336,
+      "Turn": 109,
+      "Speaker": "T",
+      "Sentence": "You went all the way to the thousands",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher points out the student's place value error, prompting them to be more accurate in their representation of the number."
+    },
+    {
+      "ID": 3339,
+      "Turn": 111,
+      "Speaker": "T",
+      "Sentence": "nan",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3340,
+      "Turn": 111,
+      "Speaker": "T",
+      "Sentence": "Whatever the last thing is thats where you go",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3341,
+      "Turn": 111,
+      "Speaker": "T",
+      "Sentence": "Shh",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3342,
+      "Turn": 111,
+      "Speaker": "T",
+      "Sentence": "Hey I need my hexagons not to be talking",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3345,
+      "Turn": 113,
+      "Speaker": "T",
+      "Sentence": "It should look 516",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3346,
+      "Turn": 113,
+      "Speaker": "T",
+      "Sentence": "Youre into the thousands",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher points out the student's place value error, prompting them to be more accurate in their representation of the number."
+    },
+    {
+      "ID": 3347,
+      "Turn": 113,
+      "Speaker": "T",
+      "Sentence": "We have 516",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3348,
+      "Turn": 113,
+      "Speaker": "T",
+      "Sentence": "We start with the hundredths",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3349,
+      "Turn": 113,
+      "Speaker": "T",
+      "Sentence": "516 we stop at the hundredths because it said five and 16100",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3350,
+      "Turn": 113,
+      "Speaker": "T",
+      "Sentence": "Whatever your last name is hundredths thats the last place you put a digit",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3352,
+      "Turn": 115,
+      "Speaker": "T",
+      "Sentence": "Thats where your Okay heres the next one",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3354,
+      "Turn": 117,
+      "Speaker": "T",
+      "Sentence": "Whats the value of the six",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for a specific mathematical value, prompting the student to make a precise contribution."
+    },
+    {
+      "ID": 3356,
+      "Turn": 119,
+      "Speaker": "T",
+      "Sentence": "6100 and that one",
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's correct answer ('6100') verbatim."
+    },
+    {
+      "ID": 3357,
+      "Turn": 119,
+      "Speaker": "T",
+      "Sentence": "The next one 810",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3358,
+      "Turn": 119,
+      "Speaker": "T",
+      "Sentence": "Write 810",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3361,
+      "Turn": 122,
+      "Speaker": "T",
+      "Sentence": "Okay thats a whole number",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher identifies the student's answer as the wrong type of number (a whole number instead of a decimal), pressing for a more accurate representation."
+    },
+    {
+      "ID": 3362,
+      "Turn": 122,
+      "Speaker": "T",
+      "Sentence": "That means you have eight What that says is 810",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher clarifies the meaning of the student's written contribution ('08') by rephrasing it as 'That means you have eight,' adding mathematical meaning to it."
+    },
+    {
+      "ID": 3363,
+      "Turn": 123,
+      "Speaker": "T",
+      "Sentence": "You have eight and 10100",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3364,
+      "Turn": 123,
+      "Speaker": "T",
+      "Sentence": "You have eight and tenths",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3365,
+      "Turn": 123,
+      "Speaker": "T",
+      "Sentence": "Each 110",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3366,
+      "Turn": 123,
+      "Speaker": "T",
+      "Sentence": "Weve got to get I didnt say a whole number",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher explicitly points out that the student's answer (a whole number) is incorrect because the prompt was for a decimal, not a whole number."
+    }
+  ]
+}

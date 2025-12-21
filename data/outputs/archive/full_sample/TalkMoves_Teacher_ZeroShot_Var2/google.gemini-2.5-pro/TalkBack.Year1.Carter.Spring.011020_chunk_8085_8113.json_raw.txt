@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 8085,
+      "Speaker": "T",
+      "Turn": 8085,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher asks a student to repeat their idea for the benefit of another student, ensuring everyone is part of the conversation."
+    },
+    {
+      "ID": 8086,
+      "Speaker": "T",
+      "Turn": 8086,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats a student's contribution to highlight it for the class."
+    },
+    {
+      "ID": 8087,
+      "Speaker": "T",
+      "Turn": 8087,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher challenges the student's idea that a common denominator just makes things 'easier' and prompts them to consider if it's a mathematical necessity."
+    },
+    {
+      "ID": 8088,
+      "Speaker": "T",
+      "Turn": 8088,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher directly asks a student for their thoughts in response to a question about mathematical rules, prompting them to share their reasoning."
+    },
+    {
+      "ID": 8089,
+      "Speaker": "T",
+      "Turn": 8089,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher repeats the question, pushing students to justify whether a common denominator is a convenience or a mathematical requirement."
+    },
+    {
+      "ID": 8090,
+      "Speaker": "T",
+      "Turn": 8090,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8091,
+      "Speaker": "T",
+      "Turn": 8091,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher directs the core question to a specific student, pressing them to explain their thinking on the necessity of a common denominator."
+    },
+    {
+      "ID": 8094,
+      "Speaker": "T",
+      "Turn": 8094,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8095,
+      "Speaker": "T",
+      "Turn": 8095,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8096,
+      "Speaker": "T",
+      "Turn": 8096,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to consider the necessity of a mathematical step and the definition of a key term, prompting them to connect procedures with concepts."
+    },
+    {
+      "ID": 8097,
+      "Speaker": "T",
+      "Turn": 8097,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8098,
+      "Speaker": "T",
+      "Turn": 8098,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8100,
+      "Speaker": "T",
+      "Turn": 8100,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8102,
+      "Speaker": "T",
+      "Turn": 8102,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8103,
+      "Speaker": "T",
+      "Turn": 8103,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8105,
+      "Speaker": "T",
+      "Turn": 8105,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8106,
+      "Speaker": "T",
+      "Turn": 8106,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8108,
+      "Speaker": "T",
+      "Turn": 8108,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8110,
+      "Speaker": "T",
+      "Turn": 8110,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher pauses expectantly, prompting students to provide the correct mathematical term to complete the definition of 'common denominator'."
+    },
+    {
+      "ID": 8113,
+      "Speaker": "T",
+      "Turn": 8113,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to find a more precise mathematical term than the one they offered ('equal')."
+    }
+  ]
+}

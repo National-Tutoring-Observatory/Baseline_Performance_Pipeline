@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 28420,
+      "Speaker": "T",
+      "Turn": 28420,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 28424,
+      "Speaker": "T",
+      "Turn": 28424,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 28426,
+      "Speaker": "T",
+      "Turn": 28426,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks a student ('Zoe') to explain the reason behind an answer ('Why')."
+    },
+    {
+      "ID": 28428,
+      "Speaker": "T",
+      "Turn": 28428,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 28429,
+      "Speaker": "T",
+      "Turn": 28429,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 28430,
+      "Speaker": "T",
+      "Turn": 28430,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to identify specific factual information available in the problem ('What are our choices')."
+    },
+    {
+      "ID": 28432,
+      "Speaker": "T",
+      "Turn": 28432,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 28433,
+      "Speaker": "T",
+      "Turn": 28433,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 28434,
+      "Speaker": "T",
+      "Turn": 28434,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher explicitly instructs students to discuss the justification for their answer ('and why')."
+    },
+    {
+      "ID": 28435,
+      "Speaker": "T",
+      "Turn": 28435,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 28444,
+      "Speaker": "T",
+      "Turn": 28444,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a question to verify the specific mathematical step or strategy the student is performing ('Are you measuring where 90 degrees would be')."
+    },
+    {
+      "ID": 28445,
+      "Speaker": "T",
+      "Turn": 28445,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 28446,
+      "Speaker": "T",
+      "Turn": 28446,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to explain the thinking behind their action ('Tell me why youre doing that')."
+    },
+    {
+      "ID": 28448,
+      "Speaker": "T",
+      "Turn": 28448,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student for a specific correct answer based on a mathematical condition ('If its obtuse what are you circling')."
+    },
+    {
+      "ID": 28449,
+      "Speaker": "T",
+      "Turn": 28449,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 28450,
+      "Speaker": "T",
+      "Turn": 28450,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 28451,
+      "Speaker": "T",
+      "Turn": 28451,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats and verifies the result the students found ('You guys got 90 to 180')."
+    },
+    {
+      "ID": 28452,
+      "Speaker": "T",
+      "Turn": 28452,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a group to state their specific answer ('What did you guys get')."
+    },
+    {
+      "ID": 28454,
+      "Speaker": "T",
+      "Turn": 28454,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 28455,
+      "Speaker": "T",
+      "Turn": 28455,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

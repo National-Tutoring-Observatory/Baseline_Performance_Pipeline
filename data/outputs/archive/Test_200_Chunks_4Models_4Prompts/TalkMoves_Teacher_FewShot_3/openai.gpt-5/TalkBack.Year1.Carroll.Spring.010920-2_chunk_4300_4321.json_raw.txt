@@ -1,0 +1,88 @@
+{
+  "records": [
+    {
+      "ID": 4300,
+      "Turn": 46,
+      "Speaker": "T",
+      "TalkMove": "None"
+    },
+    {
+      "ID": 4309,
+      "Turn": 55,
+      "Speaker": "T",
+      "TalkMove": "None"
+    },
+    {
+      "ID": 4310,
+      "Turn": 55,
+      "Speaker": "T",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Orients the class’s attention to a shared representation."
+    },
+    {
+      "ID": 4311,
+      "Turn": 55,
+      "Speaker": "T",
+      "TalkMove": "None"
+    },
+    {
+      "ID": 4312,
+      "Turn": 55,
+      "Speaker": "T",
+      "TalkMove": "None"
+    },
+    {
+      "ID": 4313,
+      "Turn": 55,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Prompts students to identify which representation has more, seeking a correct mathematical observation."
+    },
+    {
+      "ID": 4314,
+      "Turn": 55,
+      "Speaker": "T",
+      "TalkMove": "None"
+    },
+    {
+      "ID": 4315,
+      "Turn": 55,
+      "Speaker": "T",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Checks that all students are following the visual comparison."
+    },
+    {
+      "ID": 4316,
+      "Turn": 55,
+      "Speaker": "T",
+      "TalkMove": "None"
+    },
+    {
+      "ID": 4317,
+      "Turn": 55,
+      "Speaker": "T",
+      "TalkMove": "None"
+    },
+    {
+      "ID": 4318,
+      "Turn": 55,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "Summarizes a student’s stated strategy: 'you look at the first number.'"
+    },
+    {
+      "ID": 4319,
+      "Turn": 55,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks for a precise comparison of which is bigger."
+    },
+    {
+      "ID": 4320,
+      "Turn": 55,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Prompts selection using specific numerical values ('three' or 'two')."
+    }
+  ]
+}

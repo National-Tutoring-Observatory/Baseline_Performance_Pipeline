@@ -1,0 +1,123 @@
+{
+  "records": [
+    {
+      "ID": 22685,
+      "Speaker": "T",
+      "Turn": 103,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the definition of a mathematical term."
+    },
+    {
+      "ID": 22686,
+      "Speaker": "T",
+      "Turn": 103,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to explain how they knew."
+    },
+    {
+      "ID": 22687,
+      "Speaker": "T",
+      "Turn": 103,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts the student to elaborate on their idea."
+    },
+    {
+      "ID": 22688,
+      "Speaker": "T",
+      "Turn": 104,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22689,
+      "Speaker": "T",
+      "Turn": 105,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to show, prompting evidence/representation."
+    },
+    {
+      "ID": 22690,
+      "Speaker": "T",
+      "Turn": 105,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher again prompts the student to demonstrate their idea."
+    },
+    {
+      "ID": 22691,
+      "Speaker": "T",
+      "Turn": 105,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22692,
+      "Speaker": "T",
+      "Turn": 105,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks for justification of why the fractions are equal."
+    },
+    {
+      "ID": 22693,
+      "Speaker": "T",
+      "Turn": 105,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts the student to explain their reasoning about one half."
+    },
+    {
+      "ID": 22695,
+      "Speaker": "T",
+      "Turn": 107,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher paraphrases the student’s number line idea, restating that two fourths is equivalent."
+    },
+    {
+      "ID": 22696,
+      "Speaker": "T",
+      "Turn": 107,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher restates the idea by clarifying it as the same amount of space as one half."
+    },
+    {
+      "ID": 22697,
+      "Speaker": "T",
+      "Turn": 107,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22698,
+      "Speaker": "T",
+      "Turn": 107,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22702,
+      "Speaker": "T",
+      "Turn": 110,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks how to show or prove it with math."
+    },
+    {
+      "ID": 22703,
+      "Speaker": "T",
+      "Turn": 110,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher explicitly requests the student’s mathematical reasoning."
+    },
+    {
+      "ID": 22705,
+      "Speaker": "T",
+      "Turn": 112,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher paraphrases the student’s contribution and extends it as another method."
+    },
+    {
+      "ID": 22706,
+      "Speaker": "T",
+      "Turn": 112,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 689,
+      "Speaker": "T",
+      "Turn": 689,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 690,
+      "Speaker": "T",
+      "Turn": 690,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 692,
+      "Speaker": "T",
+      "Turn": 692,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 693,
+      "Speaker": "T",
+      "Turn": 693,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 694,
+      "Speaker": "T",
+      "Turn": 694,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 695,
+      "Speaker": "T",
+      "Turn": 695,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to find a specific, correct mathematical piece that fits the criteria."
+    },
+    {
+      "ID": 697,
+      "Speaker": "T",
+      "Turn": 697,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher explicitly asks students to provide proof for their claim."
+    },
+    {
+      "ID": 698,
+      "Speaker": "T",
+      "Turn": 698,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher reiterates the demand for proof in response to a student's answer."
+    },
+    {
+      "ID": 699,
+      "Speaker": "T",
+      "Turn": 699,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher clarifies the specific mathematical condition that must be met (one single piece)."
+    },
+    {
+      "ID": 700,
+      "Speaker": "T",
+      "Turn": 700,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a guiding question to help students accurately assess the available mathematical tools (pieces) and their properties."
+    },
+    {
+      "ID": 702,
+      "Speaker": "T",
+      "Turn": 702,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 703,
+      "Speaker": "T",
+      "Turn": 703,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 704,
+      "Speaker": "T",
+      "Turn": 704,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 705,
+      "Speaker": "T",
+      "Turn": 705,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 706,
+      "Speaker": "T",
+      "Turn": 706,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 707,
+      "Speaker": "T",
+      "Turn": 707,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 708,
+      "Speaker": "T",
+      "Turn": 708,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 710,
+      "Speaker": "T",
+      "Turn": 710,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's contribution ('two green') to acknowledge it and make it public."
+    },
+    {
+      "ID": 711,
+      "Speaker": "T",
+      "Turn": 711,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher redirects students to focus on a specific mathematical attribute (color) and explains why another term ('fifth') is not yet appropriate, thus pressing for more precise mathematical thinking."
+    },
+    {
+      "ID": 712,
+      "Speaker": "T",
+      "Turn": 712,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks a question that prompts students to consider the definition of 'the whole' in the current context, pushing them to reason about the underlying mathematical structure."
+    }
+  ]
+}

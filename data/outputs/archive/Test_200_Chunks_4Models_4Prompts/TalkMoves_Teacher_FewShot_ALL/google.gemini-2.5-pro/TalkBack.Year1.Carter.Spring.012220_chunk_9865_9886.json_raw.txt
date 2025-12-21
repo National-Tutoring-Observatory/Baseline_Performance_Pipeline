@@ -1,0 +1,132 @@
+{
+  "records": [
+    {
+      "ID": 9865,
+      "Turn": 122,
+      "Speaker": "T",
+      "Sentence": "Away goes Sienna thank you",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9866,
+      "Turn": 123,
+      "Speaker": "T",
+      "Sentence": "You can just move those babies out of your way",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9867,
+      "Turn": 123,
+      "Speaker": "T",
+      "Sentence": "Thank you",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9868,
+      "Turn": 123,
+      "Speaker": "T",
+      "Sentence": "Eyes up at the Ms Carter",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher is directing students' attention to the speaker to ensure they are listening."
+    },
+    {
+      "ID": 9871,
+      "Turn": 124,
+      "Speaker": "T",
+      "Sentence": "Can you just count it out",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to demonstrate their thinking process to justify their answer."
+    },
+    {
+      "ID": 9872,
+      "Turn": 124,
+      "Speaker": "T",
+      "Sentence": "Can you go 2 4 6 8 10 to show us how that works on your first one",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts the student to provide a specific demonstration of their reasoning on their diagram."
+    },
+    {
+      "ID": 9873,
+      "Turn": 124,
+      "Speaker": "T",
+      "Sentence": "No on your very first diagram show us how its two",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher clarifies the prompt, continuing to press the student to show evidence for their claim."
+    },
+    {
+      "ID": 9874,
+      "Turn": 124,
+      "Speaker": "T",
+      "Sentence": "How do you know thats two",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher directly asks the student to explain the thinking behind their answer."
+    },
+    {
+      "ID": 9879,
+      "Turn": 126,
+      "Speaker": "T",
+      "Sentence": "What would be the number model for this",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to provide a formal mathematical representation (a number model) for the visual model discussed."
+    },
+    {
+      "ID": 9880,
+      "Turn": 126,
+      "Speaker": "T",
+      "Sentence": "I could see two different number models",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9881,
+      "Turn": 126,
+      "Speaker": "T",
+      "Sentence": "What would be a number model for this",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher repeats the prompt for a formal mathematical representation."
+    },
+    {
+      "ID": 9882,
+      "Turn": 126,
+      "Speaker": "T",
+      "Sentence": "Put that on your slate please",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9883,
+      "Turn": 126,
+      "Speaker": "T",
+      "Sentence": "Lets give Sienna a round of applause",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9884,
+      "Turn": 127,
+      "Speaker": "T",
+      "Sentence": "What is a number model that shows those",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher again prompts the class to provide a formal mathematical representation."
+    },
+    {
+      "ID": 9885,
+      "Turn": 127,
+      "Speaker": "T",
+      "Sentence": "Put them on your slate",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9886,
+      "Turn": 127,
+      "Speaker": "T",
+      "Sentence": "Like 15  15  15  35 right",
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

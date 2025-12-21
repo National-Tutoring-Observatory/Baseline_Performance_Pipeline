@@ -1,0 +1,210 @@
+{
+  "records": [
+    {
+      "ID": 24649,
+      "Turn": 105,
+      "Speaker": "T",
+      "Sentence": "Is there anyone else willing to share",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24650,
+      "Turn": 105,
+      "Speaker": "T",
+      "Sentence": "Josh",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24651,
+      "Turn": 106,
+      "Speaker": "S",
+      "Sentence": "I counted the top I got 22"
+    },
+    {
+      "ID": 24652,
+      "Turn": 107,
+      "Speaker": "T",
+      "Sentence": "How",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to explain the process behind their answer."
+    },
+    {
+      "ID": 24653,
+      "Turn": 108,
+      "Speaker": "S",
+      "Sentence": "I counted the top it came out as 11"
+    },
+    {
+      "ID": 24654,
+      "Turn": 109,
+      "Speaker": "T",
+      "Sentence": "You counted this first row",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's idea but rephrases 'the top' as 'this first row' to add clarity."
+    },
+    {
+      "ID": 24655,
+      "Turn": 109,
+      "Speaker": "T",
+      "Sentence": "How many points in that set of data was",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to provide a specific, correct mathematical value from the data set."
+    },
+    {
+      "ID": 24656,
+      "Turn": 110,
+      "Speaker": "S",
+      "Sentence": "11"
+    },
+    {
+      "ID": 24657,
+      "Turn": 111,
+      "Speaker": "T",
+      "Sentence": "11",
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's answer verbatim."
+    },
+    {
+      "ID": 24658,
+      "Turn": 112,
+      "Speaker": "S",
+      "Sentence": "Then the bottom had the exact same number"
+    },
+    {
+      "ID": 24659,
+      "Turn": 112,
+      "Speaker": "S",
+      "Sentence": "I just added eleven"
+    },
+    {
+      "ID": 24660,
+      "Turn": 113,
+      "Speaker": "T",
+      "Sentence": "Excellent",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24661,
+      "Turn": 113,
+      "Speaker": "T",
+      "Sentence": "Then 11  11 was",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher takes the student's idea 'I just added eleven' and rephrases it as a mathematical expression '11 + 11'."
+    },
+    {
+      "ID": 24662,
+      "Turn": 114,
+      "Speaker": "S",
+      "Sentence": "22"
+    },
+    {
+      "ID": 24663,
+      "Turn": 115,
+      "Speaker": "T",
+      "Sentence": "Excellent",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24664,
+      "Turn": 115,
+      "Speaker": "T",
+      "Sentence": "I did it a little different",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24665,
+      "Turn": 115,
+      "Speaker": "T",
+      "Sentence": "Did you do it a little different Paris",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24666,
+      "Turn": 116,
+      "Speaker": "S",
+      "Sentence": "What I did was I knew that there were nine and the two inches"
+    },
+    {
+      "ID": 24667,
+      "Turn": 116,
+      "Speaker": "S",
+      "Sentence": "Then a seven in two and a half"
+    },
+    {
+      "ID": 24668,
+      "Turn": 116,
+      "Speaker": "S",
+      "Sentence": "I took 3 and I added it to the 7 to get 10 plus the 9 plus the 3 to get 22"
+    },
+    {
+      "ID": 24669,
+      "Turn": 117,
+      "Speaker": "T",
+      "Sentence": "You actually looked at the actual line box and used some strategies to count them",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher summarizes and rephrases the student's complex strategy into more general terms."
+    },
+    {
+      "ID": 24670,
+      "Turn": 117,
+      "Speaker": "T",
+      "Sentence": "Excellent",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24671,
+      "Turn": 117,
+      "Speaker": "T",
+      "Sentence": "I have another question for you",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24672,
+      "Turn": 117,
+      "Speaker": "T",
+      "Sentence": "What is the measurement of the longest beetle",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24673,
+      "Turn": 117,
+      "Speaker": "T",
+      "Sentence": "What is the measurement of the longest beetle",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24674,
+      "Turn": 117,
+      "Speaker": "T",
+      "Sentence": "Tell your partner",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher directs students to talk to each other, orienting them to their peers."
+    },
+    {
+      "ID": 24675,
+      "Turn": 117,
+      "Speaker": "T",
+      "Sentence": "Go",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24676,
+      "Turn": 118,
+      "Speaker": "T",
+      "Sentence": "High five",
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

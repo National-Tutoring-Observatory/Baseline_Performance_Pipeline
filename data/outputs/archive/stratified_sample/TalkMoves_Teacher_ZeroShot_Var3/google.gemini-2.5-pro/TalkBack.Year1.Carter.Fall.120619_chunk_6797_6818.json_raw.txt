@@ -1,0 +1,116 @@
+{
+  "records": [
+    {
+      "ID": 6797,
+      "Turn": 68,
+      "Speaker": "T",
+      "Sentence": "So Lilith is six and a half how old is Noah",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 6798,
+      "Turn": 68,
+      "Speaker": "T",
+      "Sentence": "Lets think of a question we could ask Garret to help him",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 6799,
+      "Turn": 68,
+      "Speaker": "T",
+      "Sentence": "Whats a question you could ask",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 6800,
+      "Turn": 68,
+      "Speaker": "T",
+      "Sentence": "Pick somebody to give you a question thatll help you",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 6803,
+      "Turn": 71,
+      "Speaker": "T",
+      "Sentence": "What are you thinking Reese",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks a student to share their thought process."
+    },
+    {
+      "ID": 6804,
+      "Turn": 71,
+      "Speaker": "T",
+      "Sentence": "Tell us what youre thinking",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks a student to explain their thinking."
+    },
+    {
+      "ID": 6806,
+      "Turn": 73,
+      "Speaker": "T",
+      "Sentence": "I see some people thinking youre right and some people thinking youre not exactly right",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher orients students to the differing reactions within the class, preparing them to listen to each other."
+    },
+    {
+      "ID": 6807,
+      "Turn": 73,
+      "Speaker": "T",
+      "Sentence": "I thought you were trying to coach Garret on the question that was asked so were going in two directions here",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 6808,
+      "Turn": 73,
+      "Speaker": "T",
+      "Sentence": "Lets finish responding to Reese and then well go back to Garret and Rodies question",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 6809,
+      "Turn": 73,
+      "Speaker": "T",
+      "Sentence": "Pick somebody thats showing you this Reese",
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher prompts a student to select a classmate with a dissenting view to engage with their idea."
+    },
+    {
+      "ID": 6813,
+      "Turn": 77,
+      "Speaker": "T",
+      "Sentence": "No it has nothing to do with the name",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 6814,
+      "Turn": 77,
+      "Speaker": "T",
+      "Sentence": "Do you hear that we just found out that when Lilith was six that Noah was two and now youre saying Lilith is six and a half and you say Noah is still two",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases a student's point of confusion, juxtaposing two ideas to highlight a potential contradiction for another student to consider."
+    },
+    {
+      "ID": 6815,
+      "Turn": 77,
+      "Speaker": "T",
+      "Sentence": "Does that make sense",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks a student to evaluate the logical consistency of their statement, prompting them to provide reasoning."
+    },
+    {
+      "ID": 6817,
+      "Turn": 79,
+      "Speaker": "T",
+      "Sentence": "Lets help Garret here Rodie tell him your question again",
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

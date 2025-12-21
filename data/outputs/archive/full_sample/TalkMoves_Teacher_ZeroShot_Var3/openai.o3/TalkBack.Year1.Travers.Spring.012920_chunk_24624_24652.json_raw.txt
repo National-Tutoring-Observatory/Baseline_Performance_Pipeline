@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 24624,
+      "Speaker": "T",
+      "Turn": 24624,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24626,
+      "Speaker": "T",
+      "Turn": 24626,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts students to generate a question about the displayed data, encouraging them to think and reason about what could be asked."
+    },
+    {
+      "ID": 24627,
+      "Speaker": "T",
+      "Turn": 24627,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24630,
+      "Speaker": "T",
+      "Turn": 24630,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24631,
+      "Speaker": "T",
+      "Turn": 24631,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24632,
+      "Speaker": "T",
+      "Turn": 24632,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24633,
+      "Speaker": "T",
+      "Turn": 24633,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for a specific numerical value (the number of insects measured), prompting students to provide an accurate mathematical response."
+    },
+    {
+      "ID": 24634,
+      "Speaker": "T",
+      "Turn": 24634,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher directs students to talk with their partners, orienting them to collaborate and listen to each other."
+    },
+    {
+      "ID": 24635,
+      "Speaker": "T",
+      "Turn": 24635,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher restates the question asking for the exact count of insects, again pressing students to give a precise numerical answer."
+    },
+    {
+      "ID": 24636,
+      "Speaker": "T",
+      "Turn": 24636,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24637,
+      "Speaker": "T",
+      "Turn": 24637,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "By saying 'I want to hear your voices,' the teacher encourages all students to participate and listen, keeping the class engaged together."
+    },
+    {
+      "ID": 24638,
+      "Speaker": "T",
+      "Turn": 24638,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher repeats the prompt for the exact number of insects measured, seeking a precise answer."
+    },
+    {
+      "ID": 24642,
+      "Speaker": "T",
+      "Turn": 24642,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24643,
+      "Speaker": "T",
+      "Turn": 24643,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher invites a specific student to share, facilitating whole-class attention to that student's contribution."
+    },
+    {
+      "ID": 24645,
+      "Speaker": "T",
+      "Turn": 24645,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24647,
+      "Speaker": "T",
+      "Turn": 24647,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24648,
+      "Speaker": "T",
+      "Turn": 24648,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24649,
+      "Speaker": "T",
+      "Turn": 24649,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher invites the class to share, encouraging multiple voices and maintaining collective engagement."
+    },
+    {
+      "ID": 24650,
+      "Speaker": "T",
+      "Turn": 24650,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Calling on 'Josh' selects the next speaker, steering class attention to a peer’s contribution."
+    },
+    {
+      "ID": 24652,
+      "Speaker": "T",
+      "Turn": 24652,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "By asking 'How,' the teacher prompts the student to elaborate and explain their thinking process."
+    }
+  ]
+}

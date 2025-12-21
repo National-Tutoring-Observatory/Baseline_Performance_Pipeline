@@ -1,0 +1,137 @@
+{
+  "records": [
+    {
+      "ID": 24649,
+      "Turn": 105,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24650,
+      "Turn": 105,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24652,
+      "Turn": 107,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to explain their thinking process for arriving at their answer."
+    },
+    {
+      "ID": 24654,
+      "Turn": 109,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's idea but rephrases 'the top' as 'this first row' to clarify the student's strategy."
+    },
+    {
+      "ID": 24655,
+      "Turn": 109,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24657,
+      "Turn": 111,
+      "Speaker": "T",
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's answer '11' verbatim."
+    },
+    {
+      "ID": 24660,
+      "Turn": 113,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24661,
+      "Turn": 113,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases the student's process ('I just added eleven') into a mathematical expression ('11 + 11 was') to formalize the student's thinking."
+    },
+    {
+      "ID": 24663,
+      "Turn": 115,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24664,
+      "Turn": 115,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24665,
+      "Turn": 115,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24669,
+      "Turn": 117,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher summarizes and rephrases the student's complex counting strategy in more general terms."
+    },
+    {
+      "ID": 24670,
+      "Turn": 117,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24671,
+      "Turn": 117,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24672,
+      "Turn": 117,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24673,
+      "Turn": 117,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24674,
+      "Turn": 117,
+      "Speaker": "T",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher directs students to talk to each other, ensuring they are all engaged and oriented to their peers."
+    },
+    {
+      "ID": 24675,
+      "Turn": 117,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24676,
+      "Turn": 118,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

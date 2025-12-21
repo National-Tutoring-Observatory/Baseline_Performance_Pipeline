@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 20859,
+      "Speaker": "T",
+      "Turn": 20859,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20860,
+      "Speaker": "T",
+      "Turn": 20860,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20861,
+      "Speaker": "T",
+      "Turn": 20861,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a direct question to elicit a specific mathematical contribution from the students."
+    },
+    {
+      "ID": 20863,
+      "Speaker": "T",
+      "Turn": 20863,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's answer \"Four times\" verbatim."
+    },
+    {
+      "ID": 20865,
+      "Speaker": "T",
+      "Turn": 20865,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts for a specific mathematical calculation with a fill-in-the-blank question."
+    },
+    {
+      "ID": 20868,
+      "Speaker": "T",
+      "Turn": 20868,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher continues the calculation, prompting for the next step."
+    },
+    {
+      "ID": 20870,
+      "Speaker": "T",
+      "Turn": 20870,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts for the next step in the mathematical calculation."
+    },
+    {
+      "ID": 20879,
+      "Speaker": "T",
+      "Turn": 20879,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20880,
+      "Speaker": "T",
+      "Turn": 20880,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20881,
+      "Speaker": "T",
+      "Turn": 20881,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a direct question to elicit a specific mathematical contribution from the students."
+    },
+    {
+      "ID": 20884,
+      "Speaker": "T",
+      "Turn": 20884,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's contribution (\"two and 12\") and then builds on it by asking a follow-up question about the factors of 12."
+    },
+    {
+      "ID": 20886,
+      "Speaker": "T",
+      "Turn": 20886,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's answer \"Six and two\" verbatim."
+    },
+    {
+      "ID": 20888,
+      "Speaker": "T",
+      "Turn": 20888,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students for the next step in the factoring process."
+    },
+    {
+      "ID": 20890,
+      "Speaker": "T",
+      "Turn": 20890,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's answer \"Three and two\" verbatim."
+    },
+    {
+      "ID": 20891,
+      "Speaker": "T",
+      "Turn": 20891,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20892,
+      "Speaker": "T",
+      "Turn": 20892,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a question that requires students to analyze the mathematical result and provide a specific answer."
+    },
+    {
+      "ID": 20894,
+      "Speaker": "T",
+      "Turn": 20894,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20895,
+      "Speaker": "T",
+      "Turn": 20895,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a question to prompt students to recall a specific mathematical rule."
+    },
+    {
+      "ID": 20897,
+      "Speaker": "T",
+      "Turn": 20897,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases a student's likely contribution about the plus/minus rule in more informal language, confirming their idea."
+    },
+    {
+      "ID": 20898,
+      "Speaker": "T",
+      "Turn": 20898,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher refines the previous informal statement (\"plus and minus thingy\") into more precise mathematical language."
+    }
+  ]
+}

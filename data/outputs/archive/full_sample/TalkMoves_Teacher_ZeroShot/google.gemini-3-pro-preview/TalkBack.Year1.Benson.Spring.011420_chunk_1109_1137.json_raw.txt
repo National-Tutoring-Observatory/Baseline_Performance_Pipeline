@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 1109,
+      "Speaker": "T",
+      "Turn": 1109,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks students to identify the specific unit of measure."
+    },
+    {
+      "ID": 1110,
+      "Speaker": "T",
+      "Turn": 1110,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher rephrases the previous question to prompt students for the specific measurement tool or unit."
+    },
+    {
+      "ID": 1112,
+      "Speaker": "T",
+      "Turn": 1112,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to complete the mathematical phrase with the correct context."
+    },
+    {
+      "ID": 1114,
+      "Speaker": "T",
+      "Turn": 1114,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1115,
+      "Speaker": "T",
+      "Turn": 1115,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1116,
+      "Speaker": "T",
+      "Turn": 1116,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1117,
+      "Speaker": "T",
+      "Turn": 1117,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1121,
+      "Speaker": "T",
+      "Turn": 1121,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1122,
+      "Speaker": "T",
+      "Turn": 1122,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks a student to explain their thinking process regarding the problem."
+    },
+    {
+      "ID": 1124,
+      "Speaker": "T",
+      "Turn": 1124,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher restates and summarizes the student's explanation of the problem's logic."
+    },
+    {
+      "ID": 1125,
+      "Speaker": "T",
+      "Turn": 1125,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher solicits alternative strategies or methods for solving the problem."
+    },
+    {
+      "ID": 1126,
+      "Speaker": "T",
+      "Turn": 1126,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks a specific student to explain the method they used."
+    },
+    {
+      "ID": 1128,
+      "Speaker": "T",
+      "Turn": 1128,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's action but classifies it using the mathematical term 'division problem'."
+    },
+    {
+      "ID": 1129,
+      "Speaker": "T",
+      "Turn": 1129,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's strategy ('worked it backwards') and adds on by explaining the inverse relationship between operations."
+    },
+    {
+      "ID": 1130,
+      "Speaker": "T",
+      "Turn": 1130,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1131,
+      "Speaker": "T",
+      "Turn": 1131,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the specific numerical answer to the problem."
+    },
+    {
+      "ID": 1133,
+      "Speaker": "T",
+      "Turn": 1133,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to provide the correct unit for their answer."
+    },
+    {
+      "ID": 1135,
+      "Speaker": "T",
+      "Turn": 1135,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1136,
+      "Speaker": "T",
+      "Turn": 1136,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks if students used a specific representation (drawing pictures) to solve the problem."
+    },
+    {
+      "ID": 1137,
+      "Speaker": "T",
+      "Turn": 1137,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

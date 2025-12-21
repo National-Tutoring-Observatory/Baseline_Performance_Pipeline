@@ -1,0 +1,228 @@
+{
+  "records": [
+    {
+      "ID": 16241,
+      "Turn": 152,
+      "Speaker": "T",
+      "Sentence": "Friends this is the trickiest question of them all because it really has a lot of clues that look like multiplication",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16242,
+      "Turn": 152,
+      "Speaker": "T",
+      "Sentence": "It says this it says of and it says what fraction of the garden",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16243,
+      "Turn": 152,
+      "Speaker": "T",
+      "Sentence": "However theres one important thing that shows that its not multiplication",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16244,
+      "Turn": 152,
+      "Speaker": "T",
+      "Sentence": "This is 25 of potatoes",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16245,
+      "Turn": 152,
+      "Speaker": "T",
+      "Sentence": "This is 18 of lettuce",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16246,
+      "Turn": 152,
+      "Speaker": "T",
+      "Sentence": "A part of a part has to be the same girls and girls boys and boys mile and mile",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16247,
+      "Turn": 152,
+      "Speaker": "T",
+      "Sentence": "Are these the same",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to apply a concept (part of a part must be the same 'whole') to the items in the problem, prompting them to reason about the correct operation."
+    },
+    {
+      "ID": 16248,
+      "Turn": 152,
+      "Speaker": "T",
+      "Sentence": "Lettuce and potatoes",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16250,
+      "Turn": 154,
+      "Speaker": "T",
+      "Sentence": "No theyre not the same so it cannot be multiplication",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's idea ('No') and adds the mathematical implication, clarifying why their answer is correct."
+    },
+    {
+      "ID": 16251,
+      "Turn": 154,
+      "Speaker": "T",
+      "Sentence": "As  said it is asking for the total of potatoes and lettuce",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats a student's idea but rephrases it to highlight the key concept of finding a 'total'."
+    },
+    {
+      "ID": 16252,
+      "Turn": 154,
+      "Speaker": "T",
+      "Sentence": "So it is an addition problem",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16253,
+      "Turn": 154,
+      "Speaker": "T",
+      "Sentence": "Yes",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16256,
+      "Turn": 156,
+      "Speaker": "T",
+      "Sentence": "What has this shown you",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher turns a student's question back to them, prompting the student to use the current problem as evidence to form their own conclusion."
+    },
+    {
+      "ID": 16257,
+      "Turn": 156,
+      "Speaker": "T",
+      "Sentence": "Is it always",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher follows up on the previous question, pressing the student to articulate their reasoning about whether 'of' always means multiplication."
+    },
+    {
+      "ID": 16259,
+      "Turn": 158,
+      "Speaker": "T",
+      "Sentence": "No",
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's one-word answer verbatim."
+    },
+    {
+      "ID": 16260,
+      "Turn": 158,
+      "Speaker": "T",
+      "Sentence": "Thats why its so important  to understand what is going on in the question",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16261,
+      "Turn": 158,
+      "Speaker": "T",
+      "Sentence": "You cant just say I see the word of",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16262,
+      "Turn": 158,
+      "Speaker": "T",
+      "Sentence": "I see this word",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16263,
+      "Turn": 158,
+      "Speaker": "T",
+      "Sentence": "That means that we multiply because I see of because it says fraction of",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16264,
+      "Turn": 158,
+      "Speaker": "T",
+      "Sentence": "You have to understand what is the question really asking",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16265,
+      "Turn": 158,
+      "Speaker": "T",
+      "Sentence": "You have to look at the big picture",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16266,
+      "Turn": 158,
+      "Speaker": "T",
+      "Sentence": "This had tons of multiplication keywords but it wasnt asking for the part of the part because these are two different things",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16267,
+      "Turn": 158,
+      "Speaker": "T",
+      "Sentence": "I cant do multiplication for two very different things",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16268,
+      "Turn": 158,
+      "Speaker": "T",
+      "Sentence": "Thats not what multiplication means",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16269,
+      "Turn": 158,
+      "Speaker": "T",
+      "Sentence": "If we think of our area model we were splitting one thing into parts right",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16270,
+      "Turn": 158,
+      "Speaker": "T",
+      "Sentence": "Well these are two different things",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16271,
+      "Turn": 158,
+      "Speaker": "T",
+      "Sentence": "I cant split them like that",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16272,
+      "Turn": 159,
+      "Speaker": "T",
+      "Sentence": "Last one",
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

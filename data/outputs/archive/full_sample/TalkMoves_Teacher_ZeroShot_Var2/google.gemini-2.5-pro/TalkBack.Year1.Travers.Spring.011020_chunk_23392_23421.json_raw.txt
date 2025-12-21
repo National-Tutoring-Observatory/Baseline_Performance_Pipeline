@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 23392,
+      "Speaker": "T",
+      "Turn": 23392,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23393,
+      "Speaker": "T",
+      "Turn": 23393,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks 'why,' prompting students to explain the reasoning behind a mathematical observation."
+    },
+    {
+      "ID": 23394,
+      "Speaker": "T",
+      "Turn": 23394,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23395,
+      "Speaker": "T",
+      "Turn": 23395,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher repeats a 'why' question, pressing students to provide an explanation for their thinking."
+    },
+    {
+      "ID": 23396,
+      "Speaker": "T",
+      "Turn": 23396,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher explicitly asks students to 'share their thinking,' which is a direct prompt for reasoning."
+    },
+    {
+      "ID": 23397,
+      "Speaker": "T",
+      "Turn": 23397,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23399,
+      "Speaker": "T",
+      "Turn": 23399,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23400,
+      "Speaker": "T",
+      "Turn": 23400,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23403,
+      "Speaker": "T",
+      "Turn": 23403,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a targeted question to get students to use a precise mathematical definition of 'multiple'."
+    },
+    {
+      "ID": 23405,
+      "Speaker": "T",
+      "Turn": 23405,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher asks the student to repeat their contribution, ensuring it is audible and available for the whole class to hear and consider."
+    },
+    {
+      "ID": 23407,
+      "Speaker": "T",
+      "Turn": 23407,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats a student's idea while attributing it to the student ('Jon is saying') and clarifying the mathematical language by distinguishing 'factor' from 'multiple'."
+    },
+    {
+      "ID": 23408,
+      "Speaker": "T",
+      "Turn": 23408,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23409,
+      "Speaker": "T",
+      "Turn": 23409,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher explicitly asks for another student to 'add on' to what Jon said, prompting a direct connection between students' ideas."
+    },
+    {
+      "ID": 23410,
+      "Speaker": "T",
+      "Turn": 23410,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher rephrases a question to press students on the precise mathematical definition of a multiple."
+    },
+    {
+      "ID": 23411,
+      "Speaker": "T",
+      "Turn": 23411,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher prompts the class to be active listeners by asking 'can you hear him,' orienting them to a peer's contribution."
+    },
+    {
+      "ID": 23412,
+      "Speaker": "T",
+      "Turn": 23412,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher instructs a student to speak louder, which serves to make their contribution accessible to the entire group."
+    },
+    {
+      "ID": 23415,
+      "Speaker": "T",
+      "Turn": 23415,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher restates a student's idea and then directly asks the class 'who can respond to that,' prompting them to engage with their classmate's contribution."
+    },
+    {
+      "ID": 23416,
+      "Speaker": "T",
+      "Turn": 23416,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23420,
+      "Speaker": "T",
+      "Turn": 23420,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23421,
+      "Speaker": "T",
+      "Turn": 23421,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 26800,
+      "Speaker": "T",
+      "Turn": 26800,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26801,
+      "Speaker": "T",
+      "Turn": 26801,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26802,
+      "Speaker": "T",
+      "Turn": 26802,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher asks the student to repeat what they said ('Say that again'), which functions as a request for restatement or repetition for the class to hear."
+    },
+    {
+      "ID": 26803,
+      "Speaker": "T",
+      "Turn": 26803,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26805,
+      "Speaker": "T",
+      "Turn": 26805,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26806,
+      "Speaker": "T",
+      "Turn": 26806,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher explicitly orients students to listen to their classmates ('Were listening to how our friends solved') and explains the purpose of that listening."
+    },
+    {
+      "ID": 26807,
+      "Speaker": "T",
+      "Turn": 26807,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "This continues the previous thought, ensuring students are actively engaged ('not just sitting here') and focused on the shared activity."
+    },
+    {
+      "ID": 26808,
+      "Speaker": "T",
+      "Turn": 26808,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher prompts the students to consider the purpose of listening to classmates, maintaining the group's focus on the discourse."
+    },
+    {
+      "ID": 26809,
+      "Speaker": "T",
+      "Turn": 26809,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher asks 'Why', prompting the students to articulate the reason for listening to each other, reinforcing the shared attention."
+    },
+    {
+      "ID": 26812,
+      "Speaker": "T",
+      "Turn": 26812,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher explains the purpose of the discourse ('See each others thinking to help us') and directs attention back to the collective work."
+    },
+    {
+      "ID": 26813,
+      "Speaker": "T",
+      "Turn": 26813,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26814,
+      "Speaker": "T",
+      "Turn": 26814,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26815,
+      "Speaker": "T",
+      "Turn": 26815,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26816,
+      "Speaker": "T",
+      "Turn": 26816,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26817,
+      "Speaker": "T",
+      "Turn": 26817,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26818,
+      "Speaker": "T",
+      "Turn": 26818,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26828,
+      "Speaker": "T",
+      "Turn": 26828,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher explicitly directs the students' attention ('My friends listen to this') to a specific student contribution."
+    },
+    {
+      "ID": 26829,
+      "Speaker": "T",
+      "Turn": 26829,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher highlights the value of the student's strategy to the whole class, maintaining group focus on the specific idea being presented."
+    },
+    {
+      "ID": 26830,
+      "Speaker": "T",
+      "Turn": 26830,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher asks the student to repeat their contribution ('Say that again Hunter') so the class can hear it clearly."
+    },
+    {
+      "ID": 26832,
+      "Speaker": "T",
+      "Turn": 26832,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases the student's idea ('You could say then Our answer is close to our estimate so we must be right'), clarifying the reasoning involved."
+    }
+  ]
+}

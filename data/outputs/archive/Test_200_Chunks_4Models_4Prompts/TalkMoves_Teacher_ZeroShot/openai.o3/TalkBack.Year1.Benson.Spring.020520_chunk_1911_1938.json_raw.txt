@@ -1,0 +1,174 @@
+{
+  "records": [
+    {
+      "ID": 1911,
+      "Speaker": "T",
+      "Turn": 14,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks Conrad to state the exact answer he obtained."
+    },
+    {
+      "ID": 1912,
+      "Speaker": "S",
+      "Turn": 15
+    },
+    {
+      "ID": 1913,
+      "Speaker": "T",
+      "Turn": 16,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher checks whether any student wrote a specific numerical answer ('03')."
+    },
+    {
+      "ID": 1914,
+      "Speaker": "T",
+      "Turn": 16,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher begins to prompt Darwin to consider what would happen if '0' were written, seeking a precise mathematical response."
+    },
+    {
+      "ID": 1915,
+      "Speaker": "S",
+      "Turn": 17
+    },
+    {
+      "ID": 1916,
+      "Speaker": "T",
+      "Turn": 18
+    },
+    {
+      "ID": 1917,
+      "Speaker": "S",
+      "Turn": 19
+    },
+    {
+      "ID": 1918,
+      "Speaker": "T",
+      "Turn": 20,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher restates the student’s clarification, confirming that the student said Conrad was right."
+    },
+    {
+      "ID": 1919,
+      "Speaker": "T",
+      "Turn": 20,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher presents the next numerical expression ('79 hundredths') for students to convert, prompting a specific mathematical response."
+    },
+    {
+      "ID": 1920,
+      "Speaker": "T",
+      "Turn": 20,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks Ruth to state exactly what she wrote."
+    },
+    {
+      "ID": 1921,
+      "Speaker": "S",
+      "Turn": 21
+    },
+    {
+      "ID": 1922,
+      "Speaker": "T",
+      "Turn": 22
+    },
+    {
+      "ID": 1923,
+      "Speaker": "T",
+      "Turn": 22,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher gives a new quantity and asks Charlie what he wrote, requesting a precise numerical answer."
+    },
+    {
+      "ID": 1924,
+      "Speaker": "S",
+      "Turn": 23
+    },
+    {
+      "ID": 1925,
+      "Speaker": "T",
+      "Turn": 24,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student’s answer ('nine hundredths') to clarify and reflect it back."
+    },
+    {
+      "ID": 1926,
+      "Speaker": "S",
+      "Turn": 25
+    },
+    {
+      "ID": 1927,
+      "Speaker": "T",
+      "Turn": 26,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher restates the presumed student notation ('0 19') and checks its accuracy."
+    },
+    {
+      "ID": 1928,
+      "Speaker": "S",
+      "Turn": 27
+    },
+    {
+      "ID": 1929,
+      "Speaker": "T",
+      "Turn": 28,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks the student to specify what was left out, seeking a precise detail."
+    },
+    {
+      "ID": 1930,
+      "Speaker": "S",
+      "Turn": 29
+    },
+    {
+      "ID": 1931,
+      "Speaker": "T",
+      "Turn": 30,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student’s clarification, emphasizing the missing 'one'."
+    },
+    {
+      "ID": 1932,
+      "Speaker": "S",
+      "Turn": 31
+    },
+    {
+      "ID": 1933,
+      "Speaker": "T",
+      "Turn": 32,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher restates the student’s incorrect notation ('You wrote 109')."
+    },
+    {
+      "ID": 1934,
+      "Speaker": "T",
+      "Turn": 32,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks, 'How can we fix this?', prompting students to explain how to correct the error."
+    },
+    {
+      "ID": 1935,
+      "Speaker": "T",
+      "Turn": 32
+    },
+    {
+      "ID": 1936,
+      "Speaker": "S",
+      "Turn": 33
+    },
+    {
+      "ID": 1937,
+      "Speaker": "T",
+      "Turn": 34,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to reflect on and identify their mistake."
+    },
+    {
+      "ID": 1938,
+      "Speaker": "T",
+      "Turn": 34,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher states a new quantity ('eight and two tenths') for students to represent accurately."
+    }
+  ]
+}

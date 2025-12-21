@@ -1,0 +1,95 @@
+{
+  "records": [
+    {
+      "ID": 25167,
+      "Turn": 374,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 25169,
+      "Turn": 376,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 25170,
+      "Turn": 376,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 25171,
+      "Turn": 376,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 25174,
+      "Turn": 378,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a question to elicit a specific, correct piece of information from the data set needed to construct the representation."
+    },
+    {
+      "ID": 25175,
+      "Turn": 378,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher rephrases the previous question, again prompting for a specific, correct mathematical value from the data set."
+    },
+    {
+      "ID": 25178,
+      "Turn": 381,
+      "Speaker": "T",
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's answer (\"49\") verbatim."
+    },
+    {
+      "ID": 25179,
+      "Turn": 381,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 25180,
+      "Turn": 381,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to provide the next correct value in the sequence, reinforcing the mathematical convention of the interval."
+    },
+    {
+      "ID": 25183,
+      "Turn": 384,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 25184,
+      "Turn": 385,
+      "Speaker": "T",
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher prompts a student (\"Ms Miller\") to share her thoughts on a problem raised by another student (\"I can't do it still\")."
+    },
+    {
+      "ID": 25185,
+      "Turn": 386,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher paraphrases a student's idea (\"we dont have a 49 and a half\") to make it an object of discussion for the class."
+    },
+    {
+      "ID": 25187,
+      "Turn": 388,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks \"Why,\" directly prompting students to explain the mathematical reasoning for including a value on a number line even if it is not in the data set."
+    }
+  ]
+}

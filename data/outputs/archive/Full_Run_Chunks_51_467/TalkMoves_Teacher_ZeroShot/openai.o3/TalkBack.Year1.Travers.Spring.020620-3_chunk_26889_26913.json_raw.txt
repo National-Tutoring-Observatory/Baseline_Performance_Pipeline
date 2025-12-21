@@ -1,0 +1,137 @@
+{
+  "records": [
+    {
+      "ID": 26890,
+      "Speaker": "T",
+      "Turn": 2,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26893,
+      "Speaker": "T",
+      "Turn": 4,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26894,
+      "Speaker": "T",
+      "Turn": 4,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26896,
+      "Speaker": "T",
+      "Turn": 6,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26897,
+      "Speaker": "T",
+      "Turn": 6,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26898,
+      "Speaker": "T",
+      "Turn": 6,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26899,
+      "Speaker": "T",
+      "Turn": 6,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26900,
+      "Speaker": "T",
+      "Turn": 6,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher invites students to \"tell me about\" the two angles, pushing them to share what they know and explain."
+    },
+    {
+      "ID": 26901,
+      "Speaker": "T",
+      "Turn": 6,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher asks what students \"discovered\" about the two angles, requesting explanation of their thinking."
+    },
+    {
+      "ID": 26902,
+      "Speaker": "T",
+      "Turn": 6,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26903,
+      "Speaker": "T",
+      "Turn": 6,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Another prompt asking what students can tell about angles A and B, seeking their reasoning."
+    },
+    {
+      "ID": 26904,
+      "Speaker": "T",
+      "Turn": 6,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Teacher directs students to look at their face partner, orienting them toward each other for discussion."
+    },
+    {
+      "ID": 26905,
+      "Speaker": "T",
+      "Turn": 6,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26907,
+      "Speaker": "T",
+      "Turn": 8,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26908,
+      "Speaker": "T",
+      "Turn": 8,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26909,
+      "Speaker": "T",
+      "Turn": 9,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "By referencing students' \"current face partner,\" the teacher orients students to work with a peer, keeping the class coordinated."
+    },
+    {
+      "ID": 26910,
+      "Speaker": "T",
+      "Turn": 9,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher instructs pairs to discuss what they discovered about the angles, prompting explanation of ideas."
+    },
+    {
+      "ID": 26911,
+      "Speaker": "T",
+      "Turn": 10,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks a clarifying question, checking whether students mean that angle A is smaller, pushing for precise mathematical description."
+    },
+    {
+      "ID": 26912,
+      "Speaker": "T",
+      "Turn": 11,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

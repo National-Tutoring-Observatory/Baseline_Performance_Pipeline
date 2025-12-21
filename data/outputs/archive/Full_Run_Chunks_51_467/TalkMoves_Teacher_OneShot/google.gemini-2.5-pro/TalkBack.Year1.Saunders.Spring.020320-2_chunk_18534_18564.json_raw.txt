@@ -1,0 +1,165 @@
+{
+  "records": [
+    {
+      "ID": 18534,
+      "Turn": 123,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18535,
+      "Turn": 123,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to perform a specific mathematical operation (factoring)."
+    },
+    {
+      "ID": 18537,
+      "Turn": 125,
+      "Speaker": "T",
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's contribution 'x2' verbatim."
+    },
+    {
+      "ID": 18538,
+      "Turn": 125,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the next step in the mathematical procedure."
+    },
+    {
+      "ID": 18542,
+      "Turn": 128,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts for a specific mathematical contribution (what to factor)."
+    },
+    {
+      "ID": 18543,
+      "Turn": 129,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the result of the previous mathematical step."
+    },
+    {
+      "ID": 18544,
+      "Turn": 130,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18545,
+      "Turn": 131,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18546,
+      "Turn": 131,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks students to identify a specific mathematical property (a common factor)."
+    },
+    {
+      "ID": 18548,
+      "Turn": 132,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher modifies the student's contribution of 'x2' to 'An x,' changing the wording to refine the idea."
+    },
+    {
+      "ID": 18549,
+      "Turn": 132,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18550,
+      "Turn": 132,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18551,
+      "Turn": 132,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18552,
+      "Turn": 132,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18553,
+      "Turn": 132,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18554,
+      "Turn": 133,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18555,
+      "Turn": 133,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the result of the next step in the factoring procedure."
+    },
+    {
+      "ID": 18558,
+      "Turn": 134,
+      "Speaker": "T",
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's response 'Sure' verbatim."
+    },
+    {
+      "ID": 18559,
+      "Turn": 134,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to evaluate the completeness of the mathematical answer."
+    },
+    {
+      "ID": 18561,
+      "Turn": 136,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the next specific step in the factoring process."
+    },
+    {
+      "ID": 18562,
+      "Turn": 136,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18563,
+      "Turn": 136,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18564,
+      "Turn": 136,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

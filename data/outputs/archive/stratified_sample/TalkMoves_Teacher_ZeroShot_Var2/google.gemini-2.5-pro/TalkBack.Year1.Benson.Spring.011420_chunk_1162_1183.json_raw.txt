@@ -1,0 +1,137 @@
+{
+  "records": [
+    {
+      "ID": 1162,
+      "Turn": 71,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1163,
+      "Turn": 71,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1165,
+      "Turn": 73,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a direct question to prompt the student to provide a specific, accurate mathematical detail from the problem."
+    },
+    {
+      "ID": 1166,
+      "Turn": 73,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks 'How do we know,' directly prompting students to provide an explanation for their thinking."
+    },
+    {
+      "ID": 1167,
+      "Turn": 73,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks a follow-up question to scaffold the reasoning process, prompting for a key piece of evidence."
+    },
+    {
+      "ID": 1169,
+      "Turn": 75,
+      "Speaker": "T",
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's answer '13' word-for-word."
+    },
+    {
+      "ID": 1170,
+      "Turn": 75,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1171,
+      "Turn": 75,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1172,
+      "Turn": 75,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1173,
+      "Turn": 75,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1174,
+      "Turn": 75,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1175,
+      "Turn": 75,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1176,
+      "Turn": 75,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1177,
+      "Turn": 75,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1178,
+      "Turn": 75,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1179,
+      "Turn": 75,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1181,
+      "Turn": 77,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1182,
+      "Turn": 77,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1183,
+      "Turn": 77,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher poses a hypothetical question that requires students to reason about how a change in the problem's conditions would affect the outcome."
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 24654,
+      "Speaker": "T",
+      "Turn": 24654,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases the student's action to clarify the mathematical process they used."
+    },
+    {
+      "ID": 24655,
+      "Speaker": "T",
+      "Turn": 24655,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to provide a specific numerical value from the data set."
+    },
+    {
+      "ID": 24657,
+      "Speaker": "T",
+      "Turn": 24657,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's answer verbatim."
+    },
+    {
+      "ID": 24660,
+      "Speaker": "T",
+      "Turn": 24660,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24661,
+      "Speaker": "T",
+      "Turn": 24661,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's answer to hold it up for consideration."
+    },
+    {
+      "ID": 24663,
+      "Speaker": "T",
+      "Turn": 24663,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24664,
+      "Speaker": "T",
+      "Turn": 24664,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24665,
+      "Speaker": "T",
+      "Turn": 24665,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks a student to share if they used a different method, which prompts them to share their thinking."
+    },
+    {
+      "ID": 24669,
+      "Speaker": "T",
+      "Turn": 24669,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's idea but rephrases it to highlight the mathematical strategy used."
+    },
+    {
+      "ID": 24670,
+      "Speaker": "T",
+      "Turn": 24670,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24671,
+      "Speaker": "T",
+      "Turn": 24671,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24672,
+      "Speaker": "T",
+      "Turn": 24672,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a question that requires students to provide a specific, correct mathematical value."
+    },
+    {
+      "ID": 24673,
+      "Speaker": "T",
+      "Turn": 24673,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher repeats a question that requires students to provide a specific, correct mathematical value."
+    },
+    {
+      "ID": 24674,
+      "Speaker": "T",
+      "Turn": 24674,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher directs students to talk to a partner, orienting them to each other and ensuring active participation."
+    },
+    {
+      "ID": 24675,
+      "Speaker": "T",
+      "Turn": 24675,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24676,
+      "Speaker": "T",
+      "Turn": 24676,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24677,
+      "Speaker": "T",
+      "Turn": 24677,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24678,
+      "Speaker": "T",
+      "Turn": 24678,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher provides a sentence starter to elicit a specific, correct mathematical value from the students."
+    },
+    {
+      "ID": 24679,
+      "Speaker": "T",
+      "Turn": 24679,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24681,
+      "Speaker": "T",
+      "Turn": 24681,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to use more precise mathematical language by asking for the units of measurement."
+    }
+  ]
+}

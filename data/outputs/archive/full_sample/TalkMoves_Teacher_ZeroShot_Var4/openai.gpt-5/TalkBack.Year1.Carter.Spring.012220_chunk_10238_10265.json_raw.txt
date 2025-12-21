@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 10238,
+      "Speaker": "T",
+      "Turn": 10238,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10240,
+      "Speaker": "T",
+      "Turn": 10240,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10241,
+      "Speaker": "T",
+      "Turn": 10241,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the value of 3/4 given 1/4, prompting a specific mathematical answer."
+    },
+    {
+      "ID": 10243,
+      "Speaker": "T",
+      "Turn": 10243,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10244,
+      "Speaker": "T",
+      "Turn": 10244,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10246,
+      "Speaker": "T",
+      "Turn": 10246,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10247,
+      "Speaker": "T",
+      "Turn": 10247,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher orients students to shared prior work/examples to keep the class aligned."
+    },
+    {
+      "ID": 10248,
+      "Speaker": "T",
+      "Turn": 10248,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks why it is still multiplication, prompting explanation."
+    },
+    {
+      "ID": 10250,
+      "Speaker": "T",
+      "Turn": 10250,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10251,
+      "Speaker": "T",
+      "Turn": 10251,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to complete the calculation for 3/4 given 1/4 = 2."
+    },
+    {
+      "ID": 10253,
+      "Speaker": "T",
+      "Turn": 10253,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10255,
+      "Speaker": "T",
+      "Turn": 10255,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10257,
+      "Speaker": "T",
+      "Turn": 10257,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10258,
+      "Speaker": "T",
+      "Turn": 10258,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to explain why the answer is six."
+    },
+    {
+      "ID": 10259,
+      "Speaker": "T",
+      "Turn": 10259,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10261,
+      "Speaker": "T",
+      "Turn": 10261,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10262,
+      "Speaker": "T",
+      "Turn": 10262,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10263,
+      "Speaker": "T",
+      "Turn": 10263,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10264,
+      "Speaker": "T",
+      "Turn": 10264,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the value of 1/4 of 8, eliciting a specific mathematical computation."
+    },
+    {
+      "ID": 10265,
+      "Speaker": "T",
+      "Turn": 10265,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to extend from one fourth to three fourths to find the correct value."
+    }
+  ]
+}

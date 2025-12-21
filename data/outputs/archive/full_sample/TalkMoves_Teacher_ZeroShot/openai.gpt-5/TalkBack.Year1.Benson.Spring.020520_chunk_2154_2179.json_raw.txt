@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 2154,
+      "Speaker": "T",
+      "Turn": 2154,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2155,
+      "Speaker": "T",
+      "Turn": 2155,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2156,
+      "Speaker": "T",
+      "Turn": 2156,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher checks which quantity should be subtracted (estimate vs. real cost), prompting a correct mathematical decision."
+    },
+    {
+      "ID": 2158,
+      "Speaker": "T",
+      "Turn": 2158,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2159,
+      "Speaker": "T",
+      "Turn": 2159,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2160,
+      "Speaker": "T",
+      "Turn": 2160,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2161,
+      "Speaker": "T",
+      "Turn": 2161,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2162,
+      "Speaker": "T",
+      "Turn": 2162,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks students to compute 16 × 4, prompting a specific mathematical contribution."
+    },
+    {
+      "ID": 2164,
+      "Speaker": "T",
+      "Turn": 2164,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher solicits the exact result from a student, prompting a precise mathematical answer."
+    },
+    {
+      "ID": 2166,
+      "Speaker": "T",
+      "Turn": 2166,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student’s answer ('64') with slightly different wording ('It is 64')."
+    },
+    {
+      "ID": 2167,
+      "Speaker": "T",
+      "Turn": 2167,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2168,
+      "Speaker": "T",
+      "Turn": 2168,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2170,
+      "Speaker": "T",
+      "Turn": 2170,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2171,
+      "Speaker": "T",
+      "Turn": 2171,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher requests a quick computation of 64 × 3, eliciting a mathematical result."
+    },
+    {
+      "ID": 2172,
+      "Speaker": "T",
+      "Turn": 2172,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2174,
+      "Speaker": "T",
+      "Turn": 2174,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher restates the student’s answer ('192') and adds context ('is the total cost for singers'), modifying the wording."
+    },
+    {
+      "ID": 2175,
+      "Speaker": "T",
+      "Turn": 2175,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to include a label with the number, encouraging precise mathematical communication."
+    },
+    {
+      "ID": 2176,
+      "Speaker": "T",
+      "Turn": 2176,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2177,
+      "Speaker": "T",
+      "Turn": 2177,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the product of 22 × 3, eliciting a specific mathematical computation."
+    },
+    {
+      "ID": 2179,
+      "Speaker": "T",
+      "Turn": 2179,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student’s answer with altered wording ('That’s 66')."
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 1385,
+      "Speaker": "T",
+      "Turn": 1385,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher restates the student’s idea (five-thirds) while adding that it is the ‘improper fraction way.’"
+    },
+    {
+      "ID": 1386,
+      "Speaker": "T",
+      "Turn": 1386,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher repeats the student’s representation (1 2⁄3) and clarifies that it is the mixed-number form."
+    },
+    {
+      "ID": 1387,
+      "Speaker": "T",
+      "Turn": 1387,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1388,
+      "Speaker": "T",
+      "Turn": 1388,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1389,
+      "Speaker": "T",
+      "Turn": 1389,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1391,
+      "Speaker": "T",
+      "Turn": 1391,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Teacher checks whether all students obtained the same answer, orienting the whole class."
+    },
+    {
+      "ID": 1393,
+      "Speaker": "T",
+      "Turn": 1393,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1394,
+      "Speaker": "T",
+      "Turn": 1394,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1395,
+      "Speaker": "T",
+      "Turn": 1395,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher restates the class’s prior decision that one mile represents one whole."
+    },
+    {
+      "ID": 1396,
+      "Speaker": "T",
+      "Turn": 1396,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher paraphrases and elaborates on Dilly’s idea of drawing a number line."
+    },
+    {
+      "ID": 1397,
+      "Speaker": "T",
+      "Turn": 1397,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks what each mile should be ‘split into,’ requesting a precise mathematical description."
+    },
+    {
+      "ID": 1398,
+      "Speaker": "T",
+      "Turn": 1398,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Follow-up prompt ‘What fraction?’ calls for the exact fractional representation."
+    },
+    {
+      "ID": 1399,
+      "Speaker": "T",
+      "Turn": 1399,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher presses further with ‘How many parts?’ seeking the specific numerical partition."
+    },
+    {
+      "ID": 1400,
+      "Speaker": "T",
+      "Turn": 1400,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1401,
+      "Speaker": "T",
+      "Turn": 1401,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Question to Maria asks for the exact number of parts, prompting a precise answer."
+    },
+    {
+      "ID": 1402,
+      "Speaker": "T",
+      "Turn": 1402,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Repeats the prompt, emphasizing the need for an accurate specification of equal parts."
+    },
+    {
+      "ID": 1404,
+      "Speaker": "T",
+      "Turn": 1404,
+      "TalkMove": "Restating",
+      "Reasoning": "Teacher repeats the student’s answer ‘eight’ verbatim."
+    },
+    {
+      "ID": 1405,
+      "Speaker": "T",
+      "Turn": 1405,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher echoes the student’s idea and links it to the diagram (‘There’s eight there’)."
+    },
+    {
+      "ID": 1406,
+      "Speaker": "T",
+      "Turn": 1406,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1407,
+      "Speaker": "T",
+      "Turn": 1407,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher asks ‘Why do we cut them into eight equal parts?’ prompting students to justify the choice."
+    }
+  ]
+}

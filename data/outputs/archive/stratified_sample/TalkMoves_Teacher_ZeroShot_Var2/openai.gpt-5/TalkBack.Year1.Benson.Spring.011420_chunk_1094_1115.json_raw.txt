@@ -1,0 +1,102 @@
+{
+  "records": [
+    {
+      "ID": 1094,
+      "Speaker": "T",
+      "Turn": 34,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks if anyone added 30, prompting a mathematical contribution about the method used."
+    },
+    {
+      "ID": 1095,
+      "Speaker": "T",
+      "Turn": 34,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1096,
+      "Speaker": "T",
+      "Turn": 34,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1097,
+      "Speaker": "T",
+      "Turn": 34,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the answer, prompting a precise mathematical response."
+    },
+    {
+      "ID": 1099,
+      "Speaker": "T",
+      "Turn": 36,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1100,
+      "Speaker": "T",
+      "Turn": 36,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks what 600 represents, pushing students to connect the number to the context precisely."
+    },
+    {
+      "ID": 1102,
+      "Speaker": "T",
+      "Turn": 38,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher requests more specificity, prompting more precise mathematical language."
+    },
+    {
+      "ID": 1105,
+      "Speaker": "T",
+      "Turn": 41,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher restates the student’s idea, framing it as what 600 represents."
+    },
+    {
+      "ID": 1107,
+      "Speaker": "T",
+      "Turn": 43,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1109,
+      "Speaker": "T",
+      "Turn": 45,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the unit of measure, prompting precise mathematical language."
+    },
+    {
+      "ID": 1110,
+      "Speaker": "T",
+      "Turn": 45,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks what they are measuring with, eliciting the correct unit."
+    },
+    {
+      "ID": 1112,
+      "Speaker": "T",
+      "Turn": 47,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student’s ‘Feet’ and extends it, shaping the contribution."
+    },
+    {
+      "ID": 1114,
+      "Speaker": "T",
+      "Turn": 49,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher synthesizes and restates the student’s idea as a complete statement with units and context."
+    },
+    {
+      "ID": 1115,
+      "Speaker": "T",
+      "Turn": 49,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

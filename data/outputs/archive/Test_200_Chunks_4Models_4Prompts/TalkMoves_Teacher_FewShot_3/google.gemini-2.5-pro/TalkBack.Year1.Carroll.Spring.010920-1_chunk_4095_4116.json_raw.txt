@@ -1,0 +1,82 @@
+[
+  {
+    "ID": 4099,
+    "Turn": 140,
+    "Speaker": "T",
+    "Sentence": "It looks like this up here",
+    "TalkMove": "None",
+    "Reasoning": null
+  },
+  {
+    "ID": 4100,
+    "Turn": 140,
+    "Speaker": "T",
+    "Sentence": "Just down here I wrote it wrong",
+    "TalkMove": "None",
+    "Reasoning": null
+  },
+  {
+    "ID": 4101,
+    "Turn": 140,
+    "Speaker": "T",
+    "Sentence": "Up here its right",
+    "TalkMove": "None",
+    "Reasoning": null
+  },
+  {
+    "ID": 4103,
+    "Turn": 142,
+    "Speaker": "T",
+    "Sentence": "Hi the Alligator mouth is going to face which way",
+    "TalkMove": "Pressing for Accuracy",
+    "Reasoning": "The teacher prompts students to make a correct mathematical contribution by asking which way the comparison symbol should face."
+  },
+  {
+    "ID": 4105,
+    "Turn": 144,
+    "Speaker": "T",
+    "Sentence": "One and two tenths right",
+    "TalkMove": "Revoicing",
+    "Reasoning": "The teacher repeats the student's idea ('One') but adds more precise mathematical language ('One and two tenths')."
+  },
+  {
+    "ID": 4106,
+    "Turn": 144,
+    "Speaker": "T",
+    "Sentence": "How do you know",
+    "TalkMove": "Pressing for Reasoning",
+    "Reasoning": "The teacher prompts the students to explain their thinking behind their answer."
+  },
+  {
+    "ID": 4107,
+    "Turn": 144,
+    "Speaker": "T",
+    "Sentence": "Because theres a whole number right",
+    "TalkMove": "Pressing for Reasoning",
+    "Reasoning": "The teacher provides the reasoning in the form of a leading question, modeling the justification for the answer."
+  },
+  {
+    "ID": 4110,
+    "Turn": 147,
+    "Speaker": "T",
+    "Sentence": "All right on the last one I want you to try it on your own",
+    "TalkMove": "None",
+    "Reasoning": null
+  },
+  {
+    "ID": 4111,
+    "Turn": 147,
+    "Speaker": "T",
+    "Sentence": "Put them in order from largest to smallest",
+    "TalkMove": "None",
+    "Reasoning": null
+  },
+  {
+    "ID": 4115,
+    "Turn": 151,
+    "Speaker": "T",
+    "Sentence": "Okay and then I want to show you one other thing",
+    "TalkMove": "None",
+    "Reasoning": null
+  }
+]

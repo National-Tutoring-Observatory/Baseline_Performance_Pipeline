@@ -1,0 +1,132 @@
+{
+  "records": [
+    {
+      "ID": 9865,
+      "Turn": 122,
+      "Speaker": "T",
+      "Sentence": "Away goes Sienna thank you",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9866,
+      "Turn": 123,
+      "Speaker": "T",
+      "Sentence": "You can just move those babies out of your way",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9867,
+      "Turn": 123,
+      "Speaker": "T",
+      "Sentence": "Thank you",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9868,
+      "Turn": 123,
+      "Speaker": "T",
+      "Sentence": "Eyes up at the Ms Carter",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher directs the class's attention to the student who is about to present, ensuring everyone is focused on the same contribution."
+    },
+    {
+      "ID": 9871,
+      "Turn": 124,
+      "Speaker": "T",
+      "Sentence": "Can you just count it out",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to demonstrate their thinking process by counting aloud, thereby explaining how they arrived at their answer."
+    },
+    {
+      "ID": 9872,
+      "Turn": 124,
+      "Speaker": "T",
+      "Sentence": "Can you go 2 4 6 8 10 to show us how that works on your first one",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts the student to explicitly demonstrate their counting strategy on their diagram, asking them to show the reasoning behind their grouping."
+    },
+    {
+      "ID": 9873,
+      "Turn": 124,
+      "Speaker": "T",
+      "Sentence": "No on your very first diagram show us how its two",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher directs the student to a specific part of their representation and asks them to show how they determined the value, pressing for a clearer explanation."
+    },
+    {
+      "ID": 9874,
+      "Turn": 124,
+      "Speaker": "T",
+      "Sentence": "How do you know thats two",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks a direct question prompting the student to provide evidence or justification for their claim."
+    },
+    {
+      "ID": 9879,
+      "Turn": 126,
+      "Speaker": "T",
+      "Sentence": "What would be the number model for this",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks students to translate the visual representation into a formal mathematical representation (a number model), pressing for use of mathematical language/symbols."
+    },
+    {
+      "ID": 9880,
+      "Turn": 126,
+      "Speaker": "T",
+      "Sentence": "I could see two different number models",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9881,
+      "Turn": 126,
+      "Speaker": "T",
+      "Sentence": "What would be a number model for this",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher repeats the prompt for students to provide a formal mathematical representation for the problem."
+    },
+    {
+      "ID": 9882,
+      "Turn": 126,
+      "Speaker": "T",
+      "Sentence": "Put that on your slate please",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9883,
+      "Turn": 126,
+      "Speaker": "T",
+      "Sentence": "Lets give Sienna a round of applause",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9884,
+      "Turn": 127,
+      "Speaker": "T",
+      "Sentence": "What is a number model that shows those",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher again asks the class to generate a formal mathematical representation (a number model) based on the student's explanation."
+    },
+    {
+      "ID": 9885,
+      "Turn": 127,
+      "Speaker": "T",
+      "Sentence": "Put them on your slate",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9886,
+      "Turn": 127,
+      "Speaker": "T",
+      "Sentence": "Like 15  15  15  35 right",
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

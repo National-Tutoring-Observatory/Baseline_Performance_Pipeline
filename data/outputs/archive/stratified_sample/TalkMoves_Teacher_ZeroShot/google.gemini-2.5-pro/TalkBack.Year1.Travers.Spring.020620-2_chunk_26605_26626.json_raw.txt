@@ -1,0 +1,109 @@
+{
+  "records": [
+    {
+      "ID": 26606,
+      "Speaker": "T",
+      "Turn": 210,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26609,
+      "Speaker": "T",
+      "Turn": 213,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26610,
+      "Speaker": "T",
+      "Turn": 213,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26612,
+      "Speaker": "T",
+      "Turn": 215,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26614,
+      "Speaker": "T",
+      "Turn": 217,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26616,
+      "Speaker": "T",
+      "Turn": 219,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's answer 'Six' verbatim."
+    },
+    {
+      "ID": 26617,
+      "Speaker": "T",
+      "Turn": 219,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26619,
+      "Speaker": "T",
+      "Turn": 221,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26620,
+      "Speaker": "T",
+      "Turn": 221,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26621,
+      "Speaker": "T",
+      "Turn": 221,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts a student to explain the next step in the problem-solving process."
+    },
+    {
+      "ID": 26622,
+      "Speaker": "T",
+      "Turn": 222,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher takes the implied student contribution ('the jugglers') and rephrases it into a complete sentence, clarifying the next step."
+    },
+    {
+      "ID": 26623,
+      "Speaker": "T",
+      "Turn": 223,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's contribution ('The jugglers') verbatim."
+    },
+    {
+      "ID": 26624,
+      "Speaker": "T",
+      "Turn": 224,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26625,
+      "Speaker": "T",
+      "Turn": 225,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26626,
+      "Speaker": "T",
+      "Turn": 225,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

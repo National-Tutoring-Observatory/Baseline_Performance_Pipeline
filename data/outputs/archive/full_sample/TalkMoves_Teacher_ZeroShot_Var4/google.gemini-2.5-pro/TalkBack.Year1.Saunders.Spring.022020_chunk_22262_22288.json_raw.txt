@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 22262,
+      "Speaker": "T",
+      "Turn": 22262,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22263,
+      "Speaker": "T",
+      "Turn": 22263,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22264,
+      "Speaker": "T",
+      "Turn": 22264,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22265,
+      "Speaker": "T",
+      "Turn": 22265,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts a student to provide the next mathematical step in the procedure."
+    },
+    {
+      "ID": 22267,
+      "Speaker": "T",
+      "Turn": 22267,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats a student's likely contribution ('divide by three') and adds on to it ('so we do that first')."
+    },
+    {
+      "ID": 22269,
+      "Speaker": "T",
+      "Turn": 22269,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to make a specific mathematical contribution about the next step in solving the problem."
+    },
+    {
+      "ID": 22271,
+      "Speaker": "T",
+      "Turn": 22271,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats a student's idea ('Get rid of the radical') and rephrases it with more precise mathematical language ('square both sides')."
+    },
+    {
+      "ID": 22272,
+      "Speaker": "T",
+      "Turn": 22272,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students for a specific numerical answer."
+    },
+    {
+      "ID": 22274,
+      "Speaker": "T",
+      "Turn": 22274,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22275,
+      "Speaker": "T",
+      "Turn": 22275,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22277,
+      "Speaker": "T",
+      "Turn": 22277,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's suggested action ('Add one') and then elaborates on the result of that action."
+    },
+    {
+      "ID": 22279,
+      "Speaker": "T",
+      "Turn": 22279,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks a 'what would have caused' question, prompting students to explain the underlying mathematical rule."
+    },
+    {
+      "ID": 22280,
+      "Speaker": "T",
+      "Turn": 22280,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks 'how' the problem could be changed, pressing students to explain the conditions for a specific mathematical outcome."
+    },
+    {
+      "ID": 22282,
+      "Speaker": "T",
+      "Turn": 22282,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats and confirms a student's reasoning about dividing by a negative number."
+    },
+    {
+      "ID": 22283,
+      "Speaker": "T",
+      "Turn": 22283,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher expands on a student's idea by generalizing the rule to include both multiplication and division by a negative number."
+    },
+    {
+      "ID": 22284,
+      "Speaker": "T",
+      "Turn": 22284,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22285,
+      "Speaker": "T",
+      "Turn": 22285,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a fill-in-the-blank question to elicit a specific numerical value."
+    },
+    {
+      "ID": 22286,
+      "Speaker": "T",
+      "Turn": 22286,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22287,
+      "Speaker": "T",
+      "Turn": 22287,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to synthesize two conditions and explain how they would represent the combined result."
+    },
+    {
+      "ID": 22288,
+      "Speaker": "T",
+      "Turn": 22288,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to provide the specific numbers that define the solution interval."
+    }
+  ]
+}

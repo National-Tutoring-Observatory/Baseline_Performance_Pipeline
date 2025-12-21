@@ -1,0 +1,108 @@
+{
+  "records": [
+    {
+      "ID": 4300,
+      "Turn": 46,
+      "Speaker": "T",
+      "Sentence": "Okay",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4309,
+      "Turn": 55,
+      "Speaker": "T",
+      "Sentence": "Okay",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4310,
+      "Turn": 55,
+      "Speaker": "T",
+      "Sentence": "Lets look at this",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4311,
+      "Turn": 55,
+      "Speaker": "T",
+      "Sentence": "In our cake we have three full rows",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4312,
+      "Turn": 55,
+      "Speaker": "T",
+      "Sentence": "This one we only have two rows",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4313,
+      "Turn": 55,
+      "Speaker": "T",
+      "Sentence": "Doesnt this one have more",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4314,
+      "Turn": 55,
+      "Speaker": "T",
+      "Sentence": "This one has three full rows",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4315,
+      "Turn": 55,
+      "Speaker": "T",
+      "Sentence": "Do you see it",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher checks if students are following the visual explanation to ensure they are part of the conversation."
+    },
+    {
+      "ID": 4316,
+      "Turn": 55,
+      "Speaker": "T",
+      "Sentence": "Okay",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4317,
+      "Turn": 55,
+      "Speaker": "T",
+      "Sentence": "Here when we go back to this paper 34hundredths is bigger",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4318,
+      "Turn": 55,
+      "Speaker": "T",
+      "Sentence": "When we go to this paper and we said this even though she picks the other one both times she said this you look at the first number",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats a student's previously stated strategy ('you look at the first number') to make it an object of discussion for the class."
+    },
+    {
+      "ID": 4319,
+      "Turn": 55,
+      "Speaker": "T",
+      "Sentence": "Which ones bigger",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to make a specific mathematical contribution by applying the revoiced strategy."
+    },
+    {
+      "ID": 4320,
+      "Turn": 55,
+      "Speaker": "T",
+      "Sentence": "The three or the two",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher refines the question to prompt students to make a specific mathematical comparison between two digits."
+    }
+  ]
+}

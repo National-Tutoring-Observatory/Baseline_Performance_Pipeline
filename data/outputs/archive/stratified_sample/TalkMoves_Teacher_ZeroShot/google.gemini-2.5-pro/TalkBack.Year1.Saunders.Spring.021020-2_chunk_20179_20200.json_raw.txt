@@ -1,0 +1,148 @@
+{
+  "records": [
+    {
+      "ID": 20179,
+      "Turn": 103,
+      "Speaker": "T",
+      "Sentence": "We just stuck that in",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20180,
+      "Turn": 103,
+      "Speaker": "T",
+      "Sentence": "Now if I do a negative times a negative times a negative I end up with a",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20182,
+      "Turn": 104,
+      "Speaker": "T",
+      "Sentence": "a negative x3",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher takes the student's one-word answer ('Negative') and rephrases it into the complete mathematical term ('a negative x3'), clarifying and adding precision."
+    },
+    {
+      "ID": 20183,
+      "Turn": 104,
+      "Speaker": "T",
+      "Sentence": "Notice how that has changed from this by putting that in",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20184,
+      "Turn": 104,
+      "Speaker": "T",
+      "Sentence": "A negative times a negative here gives me the positive 7x there",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20185,
+      "Turn": 104,
+      "Speaker": "T",
+      "Sentence": "Now I look at this and I ask myself Is there any way I can rewrite that to look like that",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20186,
+      "Turn": 104,
+      "Speaker": "T",
+      "Sentence": "It turns out notice how the signs are just simply the opposite right here",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20187,
+      "Turn": 104,
+      "Speaker": "T",
+      "Sentence": "I can rewrite this by taking that negative sign out to be like factoring a negative one",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20188,
+      "Turn": 104,
+      "Speaker": "T",
+      "Sentence": "This was my original f so its the opposite of f or the negative f",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20189,
+      "Turn": 104,
+      "Speaker": "T",
+      "Sentence": "Its an odd function its symmetrical about the origin",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20190,
+      "Turn": 105,
+      "Speaker": "T",
+      "Sentence": "How does it look for these other functions",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20191,
+      "Turn": 105,
+      "Speaker": "T",
+      "Sentence": "Again first step in the place of x I just put a parentheses and then I go and I stick in a negative x somewhere right here",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20192,
+      "Turn": 105,
+      "Speaker": "T",
+      "Sentence": "If I multiply a negative times itself four times what do I end up with",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20194,
+      "Turn": 106,
+      "Speaker": "T",
+      "Sentence": "That ones two times so how does that compare with what I started with here",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to make a comparison between the result of their calculation and the original function, prompting them to explain the relationship between the two."
+    },
+    {
+      "ID": 20196,
+      "Turn": 108,
+      "Speaker": "T",
+      "Sentence": "Its the exact same thing",
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's contribution ('Its the exact same') almost verbatim, affirming and amplifying the student's idea."
+    },
+    {
+      "ID": 20198,
+      "Turn": 110,
+      "Speaker": "T",
+      "Sentence": "so that one is an even function it reflects right over the yaxis",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20199,
+      "Turn": 110,
+      "Speaker": "T",
+      "Sentence": "Then the last one that were looking at the answer is going to be neither",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20200,
+      "Turn": 110,
+      "Speaker": "T",
+      "Sentence": "When I plug this in and I multiply it by itself three times its still a negative x3",
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

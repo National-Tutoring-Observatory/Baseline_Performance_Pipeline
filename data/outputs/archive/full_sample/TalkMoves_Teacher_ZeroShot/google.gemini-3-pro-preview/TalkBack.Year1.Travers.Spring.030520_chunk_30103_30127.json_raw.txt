@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 30103,
+      "Speaker": "T",
+      "Turn": 30103,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's statement about the remainder."
+    },
+    {
+      "ID": 30104,
+      "Speaker": "T",
+      "Turn": 30104,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for a specific solution to the problem."
+    },
+    {
+      "ID": 30106,
+      "Speaker": "T",
+      "Turn": 30106,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts for the quantity."
+    },
+    {
+      "ID": 30107,
+      "Speaker": "T",
+      "Turn": 30107,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's answer."
+    },
+    {
+      "ID": 30108,
+      "Speaker": "T",
+      "Turn": 30108,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 30109,
+      "Speaker": "T",
+      "Turn": 30109,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher verifies the student's contribution using the phrase 'Im hearing you say'."
+    },
+    {
+      "ID": 30110,
+      "Speaker": "T",
+      "Turn": 30110,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the specific value of the remainder."
+    },
+    {
+      "ID": 30112,
+      "Speaker": "T",
+      "Turn": 30112,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's answer regarding the leftover amount."
+    },
+    {
+      "ID": 30113,
+      "Speaker": "T",
+      "Turn": 30113,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts a specific student to share their mathematical result."
+    },
+    {
+      "ID": 30115,
+      "Speaker": "T",
+      "Turn": 30115,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to provide the correct units."
+    },
+    {
+      "ID": 30117,
+      "Speaker": "T",
+      "Turn": 30117,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's answer with the units included."
+    },
+    {
+      "ID": 30118,
+      "Speaker": "T",
+      "Turn": 30118,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the solution to the problem."
+    },
+    {
+      "ID": 30120,
+      "Speaker": "T",
+      "Turn": 30120,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's numerical answer."
+    },
+    {
+      "ID": 30121,
+      "Speaker": "T",
+      "Turn": 30121,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 30122,
+      "Speaker": "T",
+      "Turn": 30122,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 30123,
+      "Speaker": "T",
+      "Turn": 30123,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to use mathematical language (units) by asking 'Two what'."
+    },
+    {
+      "ID": 30124,
+      "Speaker": "T",
+      "Turn": 30124,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the answer with units."
+    },
+    {
+      "ID": 30125,
+      "Speaker": "T",
+      "Turn": 30125,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the final answer."
+    },
+    {
+      "ID": 30126,
+      "Speaker": "T",
+      "Turn": 30126,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the final answer."
+    },
+    {
+      "ID": 30127,
+      "Speaker": "T",
+      "Turn": 30127,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

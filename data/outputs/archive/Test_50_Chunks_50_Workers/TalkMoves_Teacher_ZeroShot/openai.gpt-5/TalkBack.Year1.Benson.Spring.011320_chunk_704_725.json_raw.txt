@@ -1,0 +1,130 @@
+{
+  "records": [
+    {
+      "ID": 704,
+      "Speaker": "T",
+      "Turn": 154,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 705,
+      "Speaker": "T",
+      "Turn": 154,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 706,
+      "Speaker": "T",
+      "Turn": 154,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 707,
+      "Speaker": "T",
+      "Turn": 154,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 708,
+      "Speaker": "T",
+      "Turn": 154,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Asks Katie what she tried, prompting her to share her approach and thinking."
+    },
+    {
+      "ID": 710,
+      "Speaker": "T",
+      "Turn": 156,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Restates the student’s idea in different wording (“two green”) to check understanding."
+    },
+    {
+      "ID": 711,
+      "Speaker": "T",
+      "Turn": 156,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Prompts appropriate mathematical language by focusing on color and clarifying what 'fifth' implies about the whole."
+    },
+    {
+      "ID": 712,
+      "Speaker": "T",
+      "Turn": 156,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Checks whether students are considering the correct definition of the whole in the representation."
+    },
+    {
+      "ID": 714,
+      "Speaker": "T",
+      "Turn": 158,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks the student to identify the whole, pushing for precise mathematical concept."
+    },
+    {
+      "ID": 716,
+      "Speaker": "T",
+      "Turn": 160,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Reformulates the student’s response into the desired terminology (“Two colors”)."
+    },
+    {
+      "ID": 718,
+      "Speaker": "T",
+      "Turn": 162,
+      "TalkMove": "Restating",
+      "Reasoning": "Repeats the student’s words verbatim (“Two greens”)."
+    },
+    {
+      "ID": 719,
+      "Speaker": "T",
+      "Turn": 162,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 720,
+      "Speaker": "T",
+      "Turn": 163,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 721,
+      "Speaker": "T",
+      "Turn": 163,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 722,
+      "Speaker": "T",
+      "Turn": 163,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 723,
+      "Speaker": "T",
+      "Turn": 163,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 724,
+      "Speaker": "T",
+      "Turn": 163,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Ensures all students are attending to the shared visual comparison and following along."
+    },
+    {
+      "ID": 725,
+      "Speaker": "T",
+      "Turn": 163,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "records": [
+    {
+      "ID": 8102,
+      "Speaker": "T",
+      "Turn": 33,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 8103,
+      "Speaker": "T",
+      "Turn": 35,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 8105,
+      "Speaker": "T",
+      "Turn": 37,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 8106,
+      "Speaker": "T",
+      "Turn": 37,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 8108,
+      "Speaker": "T",
+      "Turn": 39,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 8110,
+      "Speaker": "T",
+      "Turn": 41,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to supply the precise mathematical descriptor (that the denominators must be equal), emphasizing correct mathematical language."
+    },
+    {
+      "ID": 8113,
+      "Speaker": "T",
+      "Turn": 44,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "By asking for 'another word' for equal, the teacher pushes students to provide the accurate mathematical vocabulary."
+    },
+    {
+      "ID": 8116,
+      "Speaker": "T",
+      "Turn": 47,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats students’ contributions ('same', 'equivalent') and combines them, rephrasing the ideas to emphasize their equivalence."
+    },
+    {
+      "ID": 8117,
+      "Speaker": "T",
+      "Turn": 47,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher directly asks whether a common denominator is required, prompting students to state the correct mathematical fact."
+    },
+    {
+      "ID": 8118,
+      "Speaker": "T",
+      "Turn": 47,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 8119,
+      "Speaker": "T",
+      "Turn": 47,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 8120,
+      "Speaker": "T",
+      "Turn": 47,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 8121,
+      "Speaker": "T",
+      "Turn": 47,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 8122,
+      "Speaker": "T",
+      "Turn": 47,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 8123,
+      "Speaker": "T",
+      "Turn": 47,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher directs the whole class to read together (“Let’s read what it says about unlike”), ensuring all students are engaged in a shared activity."
+    }
+  ]
+}

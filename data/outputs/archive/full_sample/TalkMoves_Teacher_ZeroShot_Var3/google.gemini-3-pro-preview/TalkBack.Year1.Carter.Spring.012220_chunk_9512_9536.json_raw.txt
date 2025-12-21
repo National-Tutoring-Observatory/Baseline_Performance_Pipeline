@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 9512,
+      "Speaker": "T",
+      "Turn": 9512,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to explain the purpose behind a specific mathematical notation (parentheses) used by someone else."
+    },
+    {
+      "ID": 9514,
+      "Speaker": "T",
+      "Turn": 9514,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a specific question about the function of a mathematical symbol ('what do parentheses do')."
+    },
+    {
+      "ID": 9516,
+      "Speaker": "T",
+      "Turn": 9516,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 9517,
+      "Speaker": "T",
+      "Turn": 9517,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to clarify their intent regarding grouping, prompting them to explain their thinking."
+    },
+    {
+      "ID": 9519,
+      "Speaker": "T",
+      "Turn": 9519,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 9520,
+      "Speaker": "T",
+      "Turn": 9520,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 9521,
+      "Speaker": "T",
+      "Turn": 9521,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 9522,
+      "Speaker": "T",
+      "Turn": 9522,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 9523,
+      "Speaker": "T",
+      "Turn": 9523,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to use correct mathematical language to say the number."
+    },
+    {
+      "ID": 9525,
+      "Speaker": "T",
+      "Turn": 9525,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 9526,
+      "Speaker": "T",
+      "Turn": 9526,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher challenges the student's statement to check for mathematical correctness regarding place value ('So is that 70')."
+    },
+    {
+      "ID": 9527,
+      "Speaker": "T",
+      "Turn": 9527,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a hypothetical question to prompt the student to identify the correct value or name of a digit."
+    },
+    {
+      "ID": 9528,
+      "Speaker": "T",
+      "Turn": 9528,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to complete the mathematical name of the number ('seven what')."
+    },
+    {
+      "ID": 9529,
+      "Speaker": "T",
+      "Turn": 9529,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 9530,
+      "Speaker": "T",
+      "Turn": 9530,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 9531,
+      "Speaker": "T",
+      "Turn": 9531,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher directs students to engage with their partners."
+    },
+    {
+      "ID": 9532,
+      "Speaker": "T",
+      "Turn": 9532,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts for a specific mathematical factor."
+    },
+    {
+      "ID": 9533,
+      "Speaker": "T",
+      "Turn": 9533,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher orients the students to look at what a classmate has written."
+    },
+    {
+      "ID": 9534,
+      "Speaker": "T",
+      "Turn": 9534,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks the student to identify a specific mathematical component."
+    },
+    {
+      "ID": 9536,
+      "Speaker": "T",
+      "Turn": 9536,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the mathematical expression the student likely said or wrote."
+    }
+  ]
+}

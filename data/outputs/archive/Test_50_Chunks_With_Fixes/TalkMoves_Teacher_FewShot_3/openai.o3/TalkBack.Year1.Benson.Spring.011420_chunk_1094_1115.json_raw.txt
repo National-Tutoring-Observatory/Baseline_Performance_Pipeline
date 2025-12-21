@@ -1,0 +1,102 @@
+{
+  "records": [
+    {
+      "ID": 1094,
+      "Speaker": "T",
+      "Turn": 34,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher checks whether any student used the specific operation of adding 30, seeking a precise mathematical contribution."
+    },
+    {
+      "ID": 1095,
+      "Speaker": "T",
+      "Turn": 34,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1096,
+      "Speaker": "T",
+      "Turn": 34,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1097,
+      "Speaker": "T",
+      "Turn": 34,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the exact numerical answer to the problem."
+    },
+    {
+      "ID": 1099,
+      "Speaker": "T",
+      "Turn": 36,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1100,
+      "Speaker": "T",
+      "Turn": 36,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks students to specify what the number 600 represents, prompting precise identification."
+    },
+    {
+      "ID": 1102,
+      "Speaker": "T",
+      "Turn": 38,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "By asking for more specificity, the teacher pushes the student to elaborate on and justify their statement."
+    },
+    {
+      "ID": 1105,
+      "Speaker": "T",
+      "Turn": 41,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher restates the student’s idea about what 600 represents, adjusting wording to confirm understanding."
+    },
+    {
+      "ID": 1107,
+      "Speaker": "T",
+      "Turn": 43,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher echoes the student’s phrase almost word-for-word, reinforcing the idea."
+    },
+    {
+      "ID": 1109,
+      "Speaker": "T",
+      "Turn": 45,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the specific unit of measure, encouraging precise mathematical language."
+    },
+    {
+      "ID": 1110,
+      "Speaker": "T",
+      "Turn": 45,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "A follow-up prompt to elicit the exact measurement unit, sustaining the focus on precision."
+    },
+    {
+      "ID": 1112,
+      "Speaker": "T",
+      "Turn": 47,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student’s answer 'Feet' while adding context ('in the'), clarifying and extending the response."
+    },
+    {
+      "ID": 1114,
+      "Speaker": "T",
+      "Turn": 49,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher restates the complete answer, integrating the student’s contributions into a clear summary."
+    },
+    {
+      "ID": 1115,
+      "Speaker": "T",
+      "Turn": 49,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

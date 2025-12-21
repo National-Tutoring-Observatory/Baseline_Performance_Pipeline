@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 4866,
+      "Speaker": "T",
+      "Turn": 4866,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4867,
+      "Speaker": "T",
+      "Turn": 4867,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats a student's question word-for-word to make it a public object of discussion."
+    },
+    {
+      "ID": 4868,
+      "Speaker": "T",
+      "Turn": 4868,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4869,
+      "Speaker": "T",
+      "Turn": 4869,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4870,
+      "Speaker": "T",
+      "Turn": 4870,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4872,
+      "Speaker": "T",
+      "Turn": 4872,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4873,
+      "Speaker": "T",
+      "Turn": 4873,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4874,
+      "Speaker": "T",
+      "Turn": 4874,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4875,
+      "Speaker": "T",
+      "Turn": 4875,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a fill-in-the-blank question to elicit a specific mathematical contribution from the students."
+    },
+    {
+      "ID": 4877,
+      "Speaker": "T",
+      "Turn": 4877,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4878,
+      "Speaker": "T",
+      "Turn": 4878,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4879,
+      "Speaker": "T",
+      "Turn": 4879,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to provide the result of a specific calculation."
+    },
+    {
+      "ID": 4881,
+      "Speaker": "T",
+      "Turn": 4881,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's one-word answer to confirm it."
+    },
+    {
+      "ID": 4882,
+      "Speaker": "T",
+      "Turn": 4882,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4883,
+      "Speaker": "T",
+      "Turn": 4883,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to explain the meaning of a mathematical component ('12s tells me what?')."
+    },
+    {
+      "ID": 4884,
+      "Speaker": "T",
+      "Turn": 4884,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4885,
+      "Speaker": "T",
+      "Turn": 4885,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks a 'how' question, prompting students to explain the process they used."
+    },
+    {
+      "ID": 4886,
+      "Speaker": "T",
+      "Turn": 4886,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher rephrases the previous question, again asking students to explain the procedure."
+    },
+    {
+      "ID": 4887,
+      "Speaker": "T",
+      "Turn": 4887,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher directs a question about the mathematical process to a specific student, pressing her to share her thinking."
+    },
+    {
+      "ID": 4888,
+      "Speaker": "T",
+      "Turn": 4888,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher clarifies the previous prompt for reasoning by specifying the part of the problem students should explain."
+    }
+  ]
+}

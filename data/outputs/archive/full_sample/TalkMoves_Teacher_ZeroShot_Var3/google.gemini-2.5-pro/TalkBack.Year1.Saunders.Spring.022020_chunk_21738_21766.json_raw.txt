@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 21738,
+      "Speaker": "T",
+      "Turn": 21738,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21739,
+      "Speaker": "T",
+      "Turn": 21739,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts a student to provide the first mathematical step in solving the equation."
+    },
+    {
+      "ID": 21740,
+      "Speaker": "T",
+      "Turn": 21740,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats and formalizes the student's suggested first step, clarifying it as adding one to both sides of the equation."
+    },
+    {
+      "ID": 21741,
+      "Speaker": "T",
+      "Turn": 21741,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts a student to recall and state the first general step for solving this type of equation."
+    },
+    {
+      "ID": 21743,
+      "Speaker": "T",
+      "Turn": 21743,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's contribution verbatim."
+    },
+    {
+      "ID": 21744,
+      "Speaker": "T",
+      "Turn": 21744,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to connect a specific procedural step to the overall goal, prompting them to explain if the step achieves the goal."
+    },
+    {
+      "ID": 21747,
+      "Speaker": "T",
+      "Turn": 21747,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21748,
+      "Speaker": "T",
+      "Turn": 21748,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts a student to provide the next mathematical step in the procedure."
+    },
+    {
+      "ID": 21749,
+      "Speaker": "T",
+      "Turn": 21749,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher rephrases the question to prompt the student for the general name of the next step."
+    },
+    {
+      "ID": 21751,
+      "Speaker": "T",
+      "Turn": 21751,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher affirms and repeats the student's correct answer."
+    },
+    {
+      "ID": 21752,
+      "Speaker": "T",
+      "Turn": 21752,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher again affirms and repeats the student's contribution for the whole class."
+    },
+    {
+      "ID": 21753,
+      "Speaker": "T",
+      "Turn": 21753,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students for a specific numerical calculation."
+    },
+    {
+      "ID": 21755,
+      "Speaker": "T",
+      "Turn": 21755,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "After confirming a student's calculation, the teacher prompts for the result of the next mathematical operation."
+    },
+    {
+      "ID": 21756,
+      "Speaker": "T",
+      "Turn": 21756,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases and elaborates on the student's idea about the effect of cubing the radical, summarizing the outcome."
+    },
+    {
+      "ID": 21757,
+      "Speaker": "T",
+      "Turn": 21757,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts a student to list the next two procedural steps required to solve the equation."
+    },
+    {
+      "ID": 21758,
+      "Speaker": "T",
+      "Turn": 21758,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher rephrases the question to clarify that they are asking for the steps to isolate the variable."
+    },
+    {
+      "ID": 21760,
+      "Speaker": "T",
+      "Turn": 21760,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21762,
+      "Speaker": "T",
+      "Turn": 21762,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to explain the thinking behind their choice of which step to perform first, prompting for justification."
+    },
+    {
+      "ID": 21764,
+      "Speaker": "T",
+      "Turn": 21764,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a specific calculation question to guide the student's reasoning about why one procedural order is preferable."
+    },
+    {
+      "ID": 21766,
+      "Speaker": "T",
+      "Turn": 21766,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher articulates the implication of the student's calculation, voicing the reason why that procedural step is less desirable."
+    }
+  ]
+}

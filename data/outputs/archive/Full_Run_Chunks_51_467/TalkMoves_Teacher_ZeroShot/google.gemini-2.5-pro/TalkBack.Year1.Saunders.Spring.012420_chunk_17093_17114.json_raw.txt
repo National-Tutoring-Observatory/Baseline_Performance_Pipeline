@@ -1,0 +1,132 @@
+{
+  "records": [
+    {
+      "ID": 17094,
+      "Turn": 107,
+      "Speaker": "T",
+      "Sentence": "nan",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17095,
+      "Turn": 107,
+      "Speaker": "T",
+      "Sentence": "Add them up divide by two",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17096,
+      "Turn": 107,
+      "Speaker": "T",
+      "Sentence": "Chase D please",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17097,
+      "Turn": 108,
+      "Speaker": "T",
+      "Sentence": "All listen up",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher directs all students to be active listeners, ensuring the group is focused."
+    },
+    {
+      "ID": 17100,
+      "Turn": 110,
+      "Speaker": "T",
+      "Sentence": "What year are we in today",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17102,
+      "Turn": 112,
+      "Speaker": "T",
+      "Sentence": "nan",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17103,
+      "Turn": 112,
+      "Speaker": "T",
+      "Sentence": "So are the profits increasing decreasing or staying constant",
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the question that a student just read from the worksheet, focusing the class on that contribution."
+    },
+    {
+      "ID": 17105,
+      "Turn": 114,
+      "Speaker": "T",
+      "Sentence": "Increasing",
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's one-word answer verbatim."
+    },
+    {
+      "ID": 17106,
+      "Turn": 114,
+      "Speaker": "T",
+      "Sentence": "Does this keep increasing",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts the student to elaborate on their answer by asking if the trend continues, which requires further thinking about the model."
+    },
+    {
+      "ID": 17108,
+      "Turn": 116,
+      "Speaker": "T",
+      "Sentence": "Yes",
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's one-word answer verbatim."
+    },
+    {
+      "ID": 17109,
+      "Turn": 116,
+      "Speaker": "T",
+      "Sentence": "We can answer the question that today their profits should be increasing if thats a good model",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17110,
+      "Turn": 116,
+      "Speaker": "T",
+      "Sentence": "Anything particularly tricky about going from the naked math of no story to today weve got a story",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17111,
+      "Turn": 116,
+      "Speaker": "T",
+      "Sentence": "We just use all that same vocabulary but we try to put it in context with profits and in this case time in years",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17112,
+      "Turn": 116,
+      "Speaker": "T",
+      "Sentence": "Any questions about doing that",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17113,
+      "Turn": 116,
+      "Speaker": "T",
+      "Sentence": "Then were going to skip number two and Id like you to go to page 56 in the journal",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17114,
+      "Turn": 116,
+      "Speaker": "T",
+      "Sentence": "Page 56",
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

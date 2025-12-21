@@ -1,0 +1,186 @@
+{
+  "records": [
+    {
+      "ID": 313,
+      "Speaker": "T",
+      "Turn": 150,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 314,
+      "Speaker": "T",
+      "Turn": 150,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 316,
+      "Speaker": "T",
+      "Turn": 152,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 317,
+      "Speaker": "T",
+      "Turn": 152,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 319,
+      "Speaker": "T",
+      "Turn": 154,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 321,
+      "Speaker": "T",
+      "Turn": 156,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's answer \"40\" verbatim."
+    },
+    {
+      "ID": 322,
+      "Speaker": "T",
+      "Turn": 156,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 324,
+      "Speaker": "T",
+      "Turn": 158,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's contribution \"7 times 4\" verbatim before prompting for the product."
+    },
+    {
+      "ID": 326,
+      "Speaker": "T",
+      "Turn": 160,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 327,
+      "Speaker": "T",
+      "Turn": 160,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 328,
+      "Speaker": "T",
+      "Turn": 160,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 329,
+      "Speaker": "T",
+      "Turn": 160,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to consider the importance of a specific procedural step (lining up place values) for achieving an accurate result."
+    },
+    {
+      "ID": 331,
+      "Speaker": "T",
+      "Turn": 162,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 332,
+      "Speaker": "T",
+      "Turn": 162,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 333,
+      "Speaker": "T",
+      "Turn": 162,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 334,
+      "Speaker": "T",
+      "Turn": 163,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 336,
+      "Speaker": "T",
+      "Turn": 165,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher restates a student's answer and then asks the rest of the class to compare their own answers, orienting them to their classmate's contribution."
+    },
+    {
+      "ID": 337,
+      "Speaker": "T",
+      "Turn": 165,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 340,
+      "Speaker": "T",
+      "Turn": 169,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts a student who has self-corrected to confirm their new understanding, which is a minimal press for the student to reflect on their thinking."
+    },
+    {
+      "ID": 341,
+      "Speaker": "T",
+      "Turn": 169,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher polls the class to confirm a consensus on the answer, ensuring the group is ready to move forward together."
+    },
+    {
+      "ID": 343,
+      "Speaker": "T",
+      "Turn": 171,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 344,
+      "Speaker": "T",
+      "Turn": 171,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 345,
+      "Speaker": "T",
+      "Turn": 171,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 346,
+      "Speaker": "T",
+      "Turn": 171,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 347,
+      "Speaker": "T",
+      "Turn": 171,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 348,
+      "Speaker": "T",
+      "Turn": 171,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

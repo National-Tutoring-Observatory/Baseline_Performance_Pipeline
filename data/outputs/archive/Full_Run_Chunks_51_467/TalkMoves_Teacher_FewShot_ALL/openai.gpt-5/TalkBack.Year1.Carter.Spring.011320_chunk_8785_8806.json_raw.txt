@@ -1,0 +1,130 @@
+{
+  "records": [
+    {
+      "ID": 8785,
+      "Speaker": "T",
+      "Turn": 148,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks for the first number in order, prompting a specific mathematical contribution."
+    },
+    {
+      "ID": 8786,
+      "Speaker": "T",
+      "Turn": 148,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8787,
+      "Speaker": "T",
+      "Turn": 148,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8788,
+      "Speaker": "T",
+      "Turn": 148,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks whether 1 is a factor of every number, seeking a mathematically accurate claim."
+    },
+    {
+      "ID": 8790,
+      "Speaker": "T",
+      "Turn": 150,
+      "TalkMove": "Restating",
+      "Reasoning": "Repeats the student's response ('Yes') word for word."
+    },
+    {
+      "ID": 8791,
+      "Speaker": "T",
+      "Turn": 150,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks for the next number, prompting a concrete mathematical contribution."
+    },
+    {
+      "ID": 8792,
+      "Speaker": "T",
+      "Turn": 150,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Asks how they know two is the next number, requesting justification."
+    },
+    {
+      "ID": 8793,
+      "Speaker": "T",
+      "Turn": 150,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Further presses for explanation with 'How do you know?'"
+    },
+    {
+      "ID": 8794,
+      "Speaker": "T",
+      "Turn": 150,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Encourages students to think about how they know, prompting reasoning."
+    },
+    {
+      "ID": 8795,
+      "Speaker": "T",
+      "Turn": 150,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Directs students to talk with partners and specifies who goes first, orienting students to each other."
+    },
+    {
+      "ID": 8796,
+      "Speaker": "T",
+      "Turn": 150,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8798,
+      "Speaker": "T",
+      "Turn": 152,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8799,
+      "Speaker": "T",
+      "Turn": 152,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8800,
+      "Speaker": "T",
+      "Turn": 152,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Asks how they know two is a factor of 36, prompting justification."
+    },
+    {
+      "ID": 8801,
+      "Speaker": "T",
+      "Turn": 152,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8803,
+      "Speaker": "T",
+      "Turn": 154,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Orients the class by linking the current idea to Jackson’s earlier contribution."
+    },
+    {
+      "ID": 8804,
+      "Speaker": "T",
+      "Turn": 154,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "Invites others to offer a different way of explaining, prompting reaction to a classmate’s idea."
+    },
+    {
+      "ID": 8805,
+      "Speaker": "T",
+      "Turn": 154,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

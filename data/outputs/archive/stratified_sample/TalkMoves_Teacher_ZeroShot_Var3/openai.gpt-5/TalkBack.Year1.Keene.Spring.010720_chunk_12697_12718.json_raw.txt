@@ -1,0 +1,130 @@
+{
+  "records": [
+    {
+      "ID": 12697,
+      "Speaker": "T",
+      "Turn": 97,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12698,
+      "Speaker": "T",
+      "Turn": 97,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12699,
+      "Speaker": "T",
+      "Turn": 97,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks Lennox to explain their thinking, prompting justification."
+    },
+    {
+      "ID": 12700,
+      "Speaker": "T",
+      "Turn": 97,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks why the student thinks it is a whole, seeking the reasoning behind the claim."
+    },
+    {
+      "ID": 12702,
+      "Speaker": "T",
+      "Turn": 98,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher restates the question to orient the whole class to the task."
+    },
+    {
+      "ID": 12703,
+      "Speaker": "T",
+      "Turn": 98,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to classify using mathematical terms (whole numbers or decimals)."
+    },
+    {
+      "ID": 12704,
+      "Speaker": "T",
+      "Turn": 98,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks for the reason behind the student's claim ('so why')."
+    },
+    {
+      "ID": 12706,
+      "Speaker": "T",
+      "Turn": 100,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks about the presence of decimal points, focusing attention on a specific mathematical detail."
+    },
+    {
+      "ID": 12708,
+      "Speaker": "T",
+      "Turn": 102,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12709,
+      "Speaker": "T",
+      "Turn": 102,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12710,
+      "Speaker": "T",
+      "Turn": 102,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks students to state what a decimal is, prompting use of precise mathematical definition."
+    },
+    {
+      "ID": 12711,
+      "Speaker": "T",
+      "Turn": 102,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher directs students to recall what a classmate (Bailey) said."
+    },
+    {
+      "ID": 12712,
+      "Speaker": "T",
+      "Turn": 102,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12713,
+      "Speaker": "T",
+      "Turn": 103,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher prompts the class to consider Bailey’s idea."
+    },
+    {
+      "ID": 12714,
+      "Speaker": "T",
+      "Turn": 103,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12716,
+      "Speaker": "T",
+      "Turn": 105,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12717,
+      "Speaker": "T",
+      "Turn": 105,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher reminds students of a prior shared context (fraction vs. decimal) to orient the class."
+    },
+    {
+      "ID": 12718,
+      "Speaker": "T",
+      "Turn": 105,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher instructs students to talk with neighbors, orienting them to each other as participants."
+    }
+  ]
+}

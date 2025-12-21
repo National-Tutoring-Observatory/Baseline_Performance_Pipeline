@@ -1,0 +1,109 @@
+{
+  "records": [
+    {
+      "ID": 10483,
+      "Speaker": "T",
+      "Turn": 8,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 10484,
+      "Speaker": "T",
+      "Turn": 8,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 10485,
+      "Speaker": "T",
+      "Turn": 8,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to carry out a mathematical task precisely (round to the nearest tenth)."
+    },
+    {
+      "ID": 10486,
+      "Speaker": "T",
+      "Turn": 8,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 10487,
+      "Speaker": "T",
+      "Turn": 8,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher invites a choral response, orienting the whole class to participate together."
+    },
+    {
+      "ID": 10489,
+      "Speaker": "T",
+      "Turn": 10,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks 'Why is it 72?' to elicit justification for the answer."
+    },
+    {
+      "ID": 10490,
+      "Speaker": "T",
+      "Turn": 10,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 10493,
+      "Speaker": "T",
+      "Turn": 12,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher presses for precise identification of the relevant place value tied to 'five or more.'"
+    },
+    {
+      "ID": 10494,
+      "Speaker": "T",
+      "Turn": 12,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 10495,
+      "Speaker": "T",
+      "Turn": 12,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks which place value to examine, prompting precise mathematical language."
+    },
+    {
+      "ID": 10497,
+      "Speaker": "T",
+      "Turn": 14,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks for the justification of rounding up when the digit is five."
+    },
+    {
+      "ID": 10500,
+      "Speaker": "T",
+      "Turn": 16,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher probes the rationale behind the 'five or more' rule."
+    },
+    {
+      "ID": 10501,
+      "Speaker": "T",
+      "Turn": 17,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher paraphrases the student's idea about rounding to the next place value, rephrasing it for clarity."
+    },
+    {
+      "ID": 10503,
+      "Speaker": "T",
+      "Turn": 19,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 10504,
+      "Speaker": "T",
+      "Turn": 19,
+      "TalkMove": "None",
+      "Reasoning": null
+    }
+  ]
+}

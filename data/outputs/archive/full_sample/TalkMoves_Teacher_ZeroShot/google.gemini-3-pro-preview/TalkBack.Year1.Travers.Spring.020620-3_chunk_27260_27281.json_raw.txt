@@ -1,0 +1,18 @@
+{
+  "records": [
+    {
+      "ID": 27271,
+      "Speaker": "T",
+      "Turn": 27271,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts a specific student to provide a precise mathematical value (the number of degrees in a full turn)."
+    },
+    {
+      "ID": 27275,
+      "Speaker": "T",
+      "Turn": 27275,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks students to recall and apply the correct physical representation (which hand) for a specific mathematical rotation (clockwise)."
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 10238,
+      "Speaker": "T",
+      "Turn": 10238,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10240,
+      "Speaker": "T",
+      "Turn": 10240,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10241,
+      "Speaker": "T",
+      "Turn": 10241,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts the student to use a known fact (1/4 is two) to reason about a related problem (what is 3/4)."
+    },
+    {
+      "ID": 10243,
+      "Speaker": "T",
+      "Turn": 10243,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10244,
+      "Speaker": "T",
+      "Turn": 10244,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10246,
+      "Speaker": "T",
+      "Turn": 10246,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10247,
+      "Speaker": "T",
+      "Turn": 10247,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10248,
+      "Speaker": "T",
+      "Turn": 10248,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to explain the reasoning behind why the operation is multiplication."
+    },
+    {
+      "ID": 10250,
+      "Speaker": "T",
+      "Turn": 10250,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10251,
+      "Speaker": "T",
+      "Turn": 10251,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts the student to complete a logical step in a calculation, asking them to reason from a premise to a conclusion."
+    },
+    {
+      "ID": 10253,
+      "Speaker": "T",
+      "Turn": 10253,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10255,
+      "Speaker": "T",
+      "Turn": 10255,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10257,
+      "Speaker": "T",
+      "Turn": 10257,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10258,
+      "Speaker": "T",
+      "Turn": 10258,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher provides the answer and then asks the student to explain the thinking or justification for it."
+    },
+    {
+      "ID": 10259,
+      "Speaker": "T",
+      "Turn": 10259,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10261,
+      "Speaker": "T",
+      "Turn": 10261,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10262,
+      "Speaker": "T",
+      "Turn": 10262,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10263,
+      "Speaker": "T",
+      "Turn": 10263,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10264,
+      "Speaker": "T",
+      "Turn": 10264,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a direct question that requires a specific mathematical calculation as a contribution."
+    },
+    {
+      "ID": 10265,
+      "Speaker": "T",
+      "Turn": 10265,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts the student to use the result of a previous calculation to take the next logical step in solving the problem."
+    }
+  ]
+}

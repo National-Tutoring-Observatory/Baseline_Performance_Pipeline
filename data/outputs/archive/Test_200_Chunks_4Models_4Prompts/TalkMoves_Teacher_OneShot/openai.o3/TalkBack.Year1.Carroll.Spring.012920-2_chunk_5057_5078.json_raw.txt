@@ -1,0 +1,150 @@
+{
+  "records": [
+    {
+      "ID": 5057,
+      "Speaker": "T",
+      "Turn": 203,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5058,
+      "Speaker": "T",
+      "Turn": 203,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher states an intention to elicit more detail, prompting students to elaborate beyond the prior contribution."
+    },
+    {
+      "ID": 5059,
+      "Speaker": "T",
+      "Turn": 203,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "By asking if the student has something to add, the teacher encourages the student to build on the previous speaker’s idea."
+    },
+    {
+      "ID": 5060,
+      "Speaker": "S",
+      "Turn": 204
+    },
+    {
+      "ID": 5061,
+      "Speaker": "S",
+      "Turn": 204
+    },
+    {
+      "ID": 5062,
+      "Speaker": "S",
+      "Turn": 204
+    },
+    {
+      "ID": 5063,
+      "Speaker": "T",
+      "Turn": 205,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher summarizes a peer’s idea (“That’s what Robert said”) to orient the class to previously shared thinking."
+    },
+    {
+      "ID": 5064,
+      "Speaker": "T",
+      "Turn": 205,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher explicitly asks for additional information (“I want more”), pressing the student to elaborate."
+    },
+    {
+      "ID": 5065,
+      "Speaker": "T",
+      "Turn": 205,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The question “Okay what’s your explanation?” seeks the student’s underlying reasoning."
+    },
+    {
+      "ID": 5066,
+      "Speaker": "T",
+      "Turn": 205,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5067,
+      "Speaker": "T",
+      "Turn": 205,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Saying “Listening” reminds the class to pay attention to the speaker, orienting everyone to the discussion."
+    },
+    {
+      "ID": 5068,
+      "Speaker": "T",
+      "Turn": 205,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5069,
+      "Speaker": "S",
+      "Turn": 206
+    },
+    {
+      "ID": 5070,
+      "Speaker": "T",
+      "Turn": 207,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5071,
+      "Speaker": "T",
+      "Turn": 207,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asking “What’s your answer?” prompts the student to state a specific mathematical result."
+    },
+    {
+      "ID": 5072,
+      "Speaker": "T",
+      "Turn": 208,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5073,
+      "Speaker": "T",
+      "Turn": 208,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher restates and slightly rephrases the students’ idea about not subtracting denominators to confirm shared understanding."
+    },
+    {
+      "ID": 5074,
+      "Speaker": "T",
+      "Turn": 208,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "By inviting other groups to share (“What did the two groups over here say?”), the teacher coordinates whole-class participation."
+    },
+    {
+      "ID": 5075,
+      "Speaker": "T",
+      "Turn": 208,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5076,
+      "Speaker": "T",
+      "Turn": 208,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student’s statement (“You don’t have an answer”) almost verbatim."
+    },
+    {
+      "ID": 5077,
+      "Speaker": "T",
+      "Turn": 208,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Addressing “Ladies” publicly is an attempt to draw certain students’ attention back to the discussion."
+    },
+    {
+      "ID": 5078,
+      "Speaker": "T",
+      "Turn": 208,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Saying “We are listening” reinforces the norm of collective attention to a speaker."
+    }
+  ]
+}

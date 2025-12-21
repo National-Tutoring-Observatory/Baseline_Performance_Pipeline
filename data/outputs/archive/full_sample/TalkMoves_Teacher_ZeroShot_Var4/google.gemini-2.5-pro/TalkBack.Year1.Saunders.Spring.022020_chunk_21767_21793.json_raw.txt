@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 21767,
+      "Speaker": "T",
+      "Turn": 21767,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to provide the 'math reason' for a procedural step, prompting them to explain their thinking."
+    },
+    {
+      "ID": 21769,
+      "Speaker": "T",
+      "Turn": 21769,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21771,
+      "Speaker": "T",
+      "Turn": 21771,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's contribution ('Order of operations') word for word."
+    },
+    {
+      "ID": 21772,
+      "Speaker": "T",
+      "Turn": 21772,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks for a definition or explanation of the mathematical term the student provided."
+    },
+    {
+      "ID": 21773,
+      "Speaker": "T",
+      "Turn": 21773,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher continues to press the student to explain the concept they mentioned."
+    },
+    {
+      "ID": 21775,
+      "Speaker": "T",
+      "Turn": 21775,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats a student's idea about the order of operations but adds the clarification that for solving equations, it's 'backwards'."
+    },
+    {
+      "ID": 21776,
+      "Speaker": "T",
+      "Turn": 21776,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21777,
+      "Speaker": "T",
+      "Turn": 21777,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21780,
+      "Speaker": "T",
+      "Turn": 21780,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's numerical answer verbatim."
+    },
+    {
+      "ID": 21781,
+      "Speaker": "T",
+      "Turn": 21781,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to state the correct mathematical procedure that must be followed."
+    },
+    {
+      "ID": 21782,
+      "Speaker": "T",
+      "Turn": 21782,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases a student's likely contribution about the procedure and adds the rationale ('so we'll still come up with the right answer')."
+    },
+    {
+      "ID": 21783,
+      "Speaker": "T",
+      "Turn": 21783,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21784,
+      "Speaker": "T",
+      "Turn": 21784,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher confirms a student's idea and rephrases it using the mathematical term 'simplify'."
+    },
+    {
+      "ID": 21787,
+      "Speaker": "T",
+      "Turn": 21787,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher incorporates a named student's (Zach's) contribution into a larger explanation, extending the idea."
+    },
+    {
+      "ID": 21788,
+      "Speaker": "T",
+      "Turn": 21788,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21789,
+      "Speaker": "T",
+      "Turn": 21789,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21790,
+      "Speaker": "T",
+      "Turn": 21790,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21791,
+      "Speaker": "T",
+      "Turn": 21791,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21792,
+      "Speaker": "T",
+      "Turn": 21792,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21793,
+      "Speaker": "T",
+      "Turn": 21793,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

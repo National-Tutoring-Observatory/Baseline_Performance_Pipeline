@@ -1,0 +1,72 @@
+{
+  "records": [
+    {
+      "ID": 21001,
+      "Speaker": "T",
+      "Turn": 173
+    },
+    {
+      "ID": 21002,
+      "Speaker": "T",
+      "Turn": 173
+    },
+    {
+      "ID": 21006,
+      "Speaker": "T",
+      "Turn": 176,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's focus ('two and three') word-for-word."
+    },
+    {
+      "ID": 21007,
+      "Speaker": "T",
+      "Turn": 176,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher orients students to look, prompting shared attention to the work."
+    },
+    {
+      "ID": 21010,
+      "Speaker": "T",
+      "Turn": 179
+    },
+    {
+      "ID": 21011,
+      "Speaker": "T",
+      "Turn": 179,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks students to specify what the 6 is 'on,' prompting precise mathematical identification."
+    },
+    {
+      "ID": 21013,
+      "Speaker": "T",
+      "Turn": 181,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's answer and adds 'just' to clarify the scope."
+    },
+    {
+      "ID": 21015,
+      "Speaker": "T",
+      "Turn": 183
+    },
+    {
+      "ID": 21016,
+      "Speaker": "T",
+      "Turn": 183
+    },
+    {
+      "ID": 21017,
+      "Speaker": "T",
+      "Turn": 183
+    },
+    {
+      "ID": 21020,
+      "Speaker": "T",
+      "Turn": 186
+    },
+    {
+      "ID": 21021,
+      "Speaker": "T",
+      "Turn": 186
+    }
+  ]
+}

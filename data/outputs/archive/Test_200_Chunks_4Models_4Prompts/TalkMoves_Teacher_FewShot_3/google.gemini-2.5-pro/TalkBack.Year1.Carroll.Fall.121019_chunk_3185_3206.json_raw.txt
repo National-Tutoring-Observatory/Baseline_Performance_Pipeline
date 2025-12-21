@@ -1,0 +1,58 @@
+[
+  {
+    "ID": 3195,
+    "Turn": 1,
+    "Speaker": "T",
+    "Sentence": "All right",
+    "TalkMove": "None",
+    "Reasoning": null
+  },
+  {
+    "ID": 3197,
+    "Turn": 3,
+    "Speaker": "T",
+    "Sentence": "Okay did everybody get a note sheet",
+    "TalkMove": "None",
+    "Reasoning": null
+  },
+  {
+    "ID": 3199,
+    "Turn": 5,
+    "Speaker": "T",
+    "Sentence": "All right",
+    "TalkMove": "None",
+    "Reasoning": null
+  },
+  {
+    "ID": 3200,
+    "Turn": 5,
+    "Speaker": "T",
+    "Sentence": "The first one were looking square A",
+    "TalkMove": "None",
+    "Reasoning": null
+  },
+  {
+    "ID": 3201,
+    "Turn": 5,
+    "Speaker": "T",
+    "Sentence": "What does it represent",
+    "TalkMove": "Pressing for Reasoning",
+    "Reasoning": "The teacher asks students to explain the meaning of a mathematical representation."
+  },
+  {
+    "ID": 3204,
+    "Turn": 8,
+    "Speaker": "T",
+    "Sentence": "The first one",
+    "TalkMove": "None",
+    "Reasoning": null
+  },
+  {
+    "ID": 3205,
+    "Turn": 9,
+    "Speaker": "T",
+    "Sentence": "One 10 a hundred",
+    "TalkMove": "None",
+    "Reasoning": null
+  }
+]

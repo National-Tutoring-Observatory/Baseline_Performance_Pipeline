@@ -1,0 +1,126 @@
+{
+  "records": [
+    {
+      "ID": 24567,
+      "Turn": 67,
+      "Speaker": "S"
+    },
+    {
+      "ID": 24568,
+      "Turn": 67,
+      "Speaker": "S"
+    },
+    {
+      "ID": 24569,
+      "Turn": 67,
+      "Speaker": "S"
+    },
+    {
+      "ID": 24570,
+      "Turn": 67,
+      "Speaker": "S"
+    },
+    {
+      "ID": 24571,
+      "Turn": 67,
+      "Speaker": "S"
+    },
+    {
+      "ID": 24572,
+      "Turn": 68,
+      "Speaker": "T",
+      "TalkMove": "Revoicing"
+    },
+    {
+      "ID": 24573,
+      "Turn": 69,
+      "Speaker": "S"
+    },
+    {
+      "ID": 24574,
+      "Turn": 70,
+      "Speaker": "T",
+      "TalkMove": "Revoicing"
+    },
+    {
+      "ID": 24575,
+      "Turn": 71,
+      "Speaker": "S"
+    },
+    {
+      "ID": 24576,
+      "Turn": 72,
+      "Speaker": "T",
+      "TalkMove": null
+    },
+    {
+      "ID": 24577,
+      "Turn": 72,
+      "Speaker": "T",
+      "TalkMove": null
+    },
+    {
+      "ID": 24578,
+      "Turn": 72,
+      "Speaker": "T",
+      "TalkMove": null
+    },
+    {
+      "ID": 24579,
+      "Turn": 72,
+      "Speaker": "T",
+      "TalkMove": "Revoicing"
+    },
+    {
+      "ID": 24580,
+      "Turn": 72,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning"
+    },
+    {
+      "ID": 24581,
+      "Turn": 73,
+      "Speaker": "S"
+    },
+    {
+      "ID": 24582,
+      "Turn": 74,
+      "Speaker": "T",
+      "TalkMove": "Revoicing"
+    },
+    {
+      "ID": 24583,
+      "Turn": 74,
+      "Speaker": "T",
+      "TalkMove": null
+    },
+    {
+      "ID": 24584,
+      "Turn": 74,
+      "Speaker": "T",
+      "TalkMove": null
+    },
+    {
+      "ID": 24585,
+      "Turn": 75,
+      "Speaker": "S"
+    },
+    {
+      "ID": 24586,
+      "Turn": 76,
+      "Speaker": "S"
+    },
+    {
+      "ID": 24587,
+      "Turn": 77,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy"
+    },
+    {
+      "ID": 24588,
+      "Turn": 77,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy"
+    }
+  ]
+}

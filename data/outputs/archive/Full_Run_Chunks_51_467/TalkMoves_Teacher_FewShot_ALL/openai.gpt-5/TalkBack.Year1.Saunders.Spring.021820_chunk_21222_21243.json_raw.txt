@@ -1,0 +1,67 @@
+{
+  "records": [
+    {
+      "ID": 21224,
+      "Speaker": "T",
+      "Turn": 290,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21230,
+      "Speaker": "T",
+      "Turn": 294,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21231,
+      "Speaker": "T",
+      "Turn": 294,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher orients the student to consult a peer (Cole), prompting attention to another student."
+    },
+    {
+      "ID": 21234,
+      "Speaker": "T",
+      "Turn": 296,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21235,
+      "Speaker": "T",
+      "Turn": 296,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks what can be done to simplify, prompting a specific mathematical action."
+    },
+    {
+      "ID": 21236,
+      "Speaker": "T",
+      "Turn": 298,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21240,
+      "Speaker": "T",
+      "Turn": 302,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Prompts the student to evaluate whether their approach actually makes the expression simpler."
+    },
+    {
+      "ID": 21242,
+      "Speaker": "T",
+      "Turn": 304,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's response 'Not really' word for word."
+    },
+    {
+      "ID": 21243,
+      "Speaker": "T",
+      "Turn": 304,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

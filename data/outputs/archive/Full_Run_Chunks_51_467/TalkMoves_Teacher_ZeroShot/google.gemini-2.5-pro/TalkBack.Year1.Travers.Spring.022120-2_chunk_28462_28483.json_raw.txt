@@ -1,0 +1,95 @@
+{
+  "records": [
+    {
+      "ID": 28463,
+      "Speaker": "T",
+      "Turn": 110,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts the student to explain their thinking by asking them to 'tell your friends why'."
+    },
+    {
+      "ID": 28466,
+      "Speaker": "T",
+      "Turn": 113,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher uses the direct question 'Why' to prompt the student to explain their thinking."
+    },
+    {
+      "ID": 28468,
+      "Speaker": "T",
+      "Turn": 115,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks 'How do you know' to press the student for evidence or justification for their claim."
+    },
+    {
+      "ID": 28470,
+      "Speaker": "T",
+      "Turn": 117,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher repeats the question 'How do you know' to push the student for a more detailed explanation of their reasoning."
+    },
+    {
+      "ID": 28473,
+      "Speaker": "T",
+      "Turn": 119,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher completes and clarifies the student's incomplete sentence, rephrasing their idea about what a 90-degree angle would look like."
+    },
+    {
+      "ID": 28475,
+      "Speaker": "T",
+      "Turn": 121,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 28476,
+      "Speaker": "T",
+      "Turn": 121,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 28477,
+      "Speaker": "T",
+      "Turn": 121,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 28478,
+      "Speaker": "T",
+      "Turn": 121,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher takes the students' reasoning ('smaller than 90 degrees') and rephrases it with the correct mathematical term ('acute'), attributing the idea to the students."
+    },
+    {
+      "ID": 28480,
+      "Speaker": "T",
+      "Turn": 123,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the key mathematical term 'Acute' immediately after the students confirmed it, reinforcing the vocabulary."
+    },
+    {
+      "ID": 28481,
+      "Speaker": "T",
+      "Turn": 124,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 28482,
+      "Speaker": "T",
+      "Turn": 124,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 28483,
+      "Speaker": "T",
+      "Turn": 124,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

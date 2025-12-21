@@ -1,0 +1,95 @@
+{
+  "records": [
+    {
+      "ID": 4735,
+      "Turn": 50,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4736,
+      "Turn": 50,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4737,
+      "Turn": 51,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4738,
+      "Turn": 51,
+      "Speaker": "T",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher directs students to work with a partner, orienting them to each other."
+    },
+    {
+      "ID": 4739,
+      "Turn": 51,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts students to identify the words in the problem that provide a hint for their choice of operation, asking for the evidence behind their decision."
+    },
+    {
+      "ID": 4748,
+      "Turn": 58,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4749,
+      "Turn": 58,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4750,
+      "Turn": 59,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4751,
+      "Turn": 59,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to name the specific mathematical operation they will use."
+    },
+    {
+      "ID": 4753,
+      "Turn": 60,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4754,
+      "Turn": 60,
+      "Speaker": "T",
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's contribution ('subtraction') word for word."
+    },
+    {
+      "ID": 4755,
+      "Turn": 60,
+      "Speaker": "T",
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "After a student suggests 'subtraction,' the teacher asks another student to react to that idea."
+    },
+    {
+      "ID": 4756,
+      "Turn": 60,
+      "Speaker": "T",
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats a student's one-word answer ('Addition'), likely offered in response to the previous question."
+    }
+  ]
+}

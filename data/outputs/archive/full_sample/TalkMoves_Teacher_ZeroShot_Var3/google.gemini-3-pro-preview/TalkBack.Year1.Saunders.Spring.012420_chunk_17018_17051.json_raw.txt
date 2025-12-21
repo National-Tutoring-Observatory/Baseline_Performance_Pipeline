@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 17018,
+      "Speaker": "T",
+      "Turn": 17018,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 17019,
+      "Speaker": "T",
+      "Turn": 17019,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 17021,
+      "Speaker": "T",
+      "Turn": 17021,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 17023,
+      "Speaker": "T",
+      "Turn": 17023,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 17026,
+      "Speaker": "T",
+      "Turn": 17026,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 17029,
+      "Speaker": "T",
+      "Turn": 17029,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 17030,
+      "Speaker": "T",
+      "Turn": 17030,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a specific question about the meaning of a variable ('P') in the context of the problem, prompting for a precise mathematical definition."
+    },
+    {
+      "ID": 17032,
+      "Speaker": "T",
+      "Turn": 17032,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's answer ('Profit') to confirm it."
+    },
+    {
+      "ID": 17033,
+      "Speaker": "T",
+      "Turn": 17033,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the specific meaning of the variable 'T', prompting for a precise answer."
+    },
+    {
+      "ID": 17035,
+      "Speaker": "T",
+      "Turn": 17035,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's answer ('Time') and adds a conjunction to continue the thought."
+    },
+    {
+      "ID": 17037,
+      "Speaker": "T",
+      "Turn": 17037,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks students to identify the input and output variables, prompting for specific mathematical components of the function."
+    },
+    {
+      "ID": 17038,
+      "Speaker": "T",
+      "Turn": 17038,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher rephrases the question to specifically ask what is being input, seeking a precise answer."
+    },
+    {
+      "ID": 17040,
+      "Speaker": "T",
+      "Turn": 17040,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's answer ('T') and expands on it ('so were inputting the number of'), clarifying the meaning."
+    },
+    {
+      "ID": 17042,
+      "Speaker": "T",
+      "Turn": 17042,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's answer ('Years') and adds on to lead into the next part of the relationship."
+    },
+    {
+      "ID": 17044,
+      "Speaker": "T",
+      "Turn": 17044,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats/completes the student's thought regarding the output ('How much profit the company is making')."
+    },
+    {
+      "ID": 17045,
+      "Speaker": "T",
+      "Turn": 17045,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 17046,
+      "Speaker": "T",
+      "Turn": 17046,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks students to determine the sign of the 'A value', prompting for a specific mathematical property."
+    },
+    {
+      "ID": 17048,
+      "Speaker": "T",
+      "Turn": 17048,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "By noting the students 'dont sound very convinced', the teacher is implicitly prompting them to justify or be more certain about their answer."
+    },
+    {
+      "ID": 17050,
+      "Speaker": "T",
+      "Turn": 17050,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the correct answer ('Positive') to confirm it."
+    },
+    {
+      "ID": 17051,
+      "Speaker": "T",
+      "Turn": 17051,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher connects the positive value to the shape of the parabola ('which means...'), prompting students to make the connection between the coefficient and the graph's orientation."
+    }
+  ]
+}

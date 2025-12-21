@@ -1,0 +1,186 @@
+{
+  "records": [
+    {
+      "ID": 19991,
+      "Speaker": "T",
+      "Turn": 20,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19992,
+      "Speaker": "T",
+      "Turn": 20,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19993,
+      "Speaker": "T",
+      "Turn": 20,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19995,
+      "Speaker": "T",
+      "Turn": 22,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19996,
+      "Speaker": "T",
+      "Turn": 22,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19997,
+      "Speaker": "T",
+      "Turn": 22,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19998,
+      "Speaker": "T",
+      "Turn": 22,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher invites a student to read aloud (“Go ahead read”), orienting the whole class to attend to the upcoming contribution."
+    },
+    {
+      "ID": 19999,
+      "Speaker": "T",
+      "Turn": 22,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20001,
+      "Speaker": "T",
+      "Turn": 24,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20003,
+      "Speaker": "T",
+      "Turn": 26,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks students to state whether the ends of a linear function go in opposite or the same direction, prompting a precise mathematical fact."
+    },
+    {
+      "ID": 20005,
+      "Speaker": "T",
+      "Turn": 28,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student’s answer \"opposite\" and elaborates on what that means for the line’s direction."
+    },
+    {
+      "ID": 20006,
+      "Speaker": "T",
+      "Turn": 28,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks what happens in the quadratic case, eliciting the correct mathematical description."
+    },
+    {
+      "ID": 20007,
+      "Speaker": "T",
+      "Turn": 28,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20008,
+      "Speaker": "T",
+      "Turn": 28,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20010,
+      "Speaker": "T",
+      "Turn": 30,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20011,
+      "Speaker": "T",
+      "Turn": 30,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20012,
+      "Speaker": "T",
+      "Turn": 30,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20014,
+      "Speaker": "T",
+      "Turn": 32,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20015,
+      "Speaker": "T",
+      "Turn": 32,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the specific degree of the polynomial, prompting a precise mathematical answer."
+    },
+    {
+      "ID": 20017,
+      "Speaker": "T",
+      "Turn": 34,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student’s answer \"three\" exactly as stated."
+    },
+    {
+      "ID": 20018,
+      "Speaker": "T",
+      "Turn": 34,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks whether the number three is odd or even, requesting a specific classification."
+    },
+    {
+      "ID": 20020,
+      "Speaker": "T",
+      "Turn": 36,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks if the graph goes in the same or different directions, seeking a correct factual description."
+    },
+    {
+      "ID": 20022,
+      "Speaker": "T",
+      "Turn": 38,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks how to determine the graph’s orientation, prompting the student to explain the reasoning behind the decision."
+    },
+    {
+      "ID": 20024,
+      "Speaker": "T",
+      "Turn": 40,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher begins a prompt for the student to state whether the leading coefficient is positive or negative, requesting precise information."
+    },
+    {
+      "ID": 20026,
+      "Speaker": "T",
+      "Turn": 42,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher echoes the student’s one-word answer \"positive\" verbatim."
+    },
+    {
+      "ID": 20027,
+      "Speaker": "T",
+      "Turn": 42,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the core idea (the coefficient is positive) and elaborates by connecting it to the concept of the leading coefficient."
+    }
+  ]
+}

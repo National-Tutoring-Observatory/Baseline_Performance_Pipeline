@@ -1,0 +1,158 @@
+{
+  "records": [
+    {
+      "ID": 1958,
+      "Turn": 45,
+      "Speaker": "S",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1959,
+      "Turn": 46,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to explain the process they used to solve the problem."
+    },
+    {
+      "ID": 1960,
+      "Turn": 46,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts students to share the mathematical steps they took."
+    },
+    {
+      "ID": 1961,
+      "Turn": 46,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks a specific student to explain the math they used to find the answer."
+    },
+    {
+      "ID": 1962,
+      "Turn": 47,
+      "Speaker": "S",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1963,
+      "Turn": 47,
+      "Speaker": "S",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1964,
+      "Turn": 48,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to explain the origin or meaning of the numbers used in their calculation."
+    },
+    {
+      "ID": 1965,
+      "Turn": 49,
+      "Speaker": "S",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1966,
+      "Turn": 49,
+      "Speaker": "S",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1967,
+      "Turn": 50,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks 'why' to prompt the student to explain the reason for a specific mathematical step."
+    },
+    {
+      "ID": 1968,
+      "Turn": 51,
+      "Speaker": "S",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1969,
+      "Turn": 52,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1970,
+      "Turn": 52,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1971,
+      "Turn": 52,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1972,
+      "Turn": 52,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1973,
+      "Turn": 53,
+      "Speaker": "S",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1974,
+      "Turn": 54,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1975,
+      "Turn": 54,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's idea, slightly rephrasing it to clarify the meaning of the numbers for the class."
+    },
+    {
+      "ID": 1976,
+      "Turn": 54,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher continues to summarize and rephrase the student's reasoning for the second step of their calculation."
+    },
+    {
+      "ID": 1977,
+      "Turn": 54,
+      "Speaker": "T",
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher asks other students to compare their own methods to the one just shared by a classmate."
+    },
+    {
+      "ID": 1978,
+      "Turn": 54,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks a specific student to share their method, prompting them to explain their thinking."
+    },
+    {
+      "ID": 1979,
+      "Turn": 55,
+      "Speaker": "S",
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

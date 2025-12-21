@@ -1,0 +1,123 @@
+{
+  "records": [
+    {
+      "ID": 19051,
+      "Turn": 1,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19052,
+      "Turn": 1,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19053,
+      "Turn": 2,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19054,
+      "Turn": 2,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19055,
+      "Turn": 2,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks students to make a specific mathematical contribution by choosing between two options."
+    },
+    {
+      "ID": 19057,
+      "Turn": 3,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Following an incorrect student answer, the teacher prompts students to reconsider and provide a more accurate contribution."
+    },
+    {
+      "ID": 19058,
+      "Turn": 3,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Following an incorrect student answer, the teacher rephrases the question to prompt students for a more accurate contribution."
+    },
+    {
+      "ID": 19059,
+      "Turn": 3,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Following an incorrect student answer, the teacher rephrases the question again to prompt students for a more accurate contribution."
+    },
+    {
+      "ID": 19061,
+      "Turn": 5,
+      "Speaker": "T",
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's contribution ('X') to affirm it."
+    },
+    {
+      "ID": 19062,
+      "Turn": 5,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19063,
+      "Turn": 5,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19064,
+      "Turn": 5,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks students to make a specific mathematical contribution by identifying the type of transformation."
+    },
+    {
+      "ID": 19066,
+      "Turn": 7,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19067,
+      "Turn": 7,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19068,
+      "Turn": 7,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's idea ('We modify the whole function') with a slight change in wording ('modified')."
+    },
+    {
+      "ID": 19069,
+      "Turn": 7,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19071,
+      "Turn": 9,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher repeats a student's idea and adds 'you think?' to prompt the student to share their thinking or justify their answer."
+    }
+  ]
+}

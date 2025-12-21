@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 714,
+      "Speaker": "T",
+      "Turn": 714,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts a student to identify the whole, eliciting a specific mathematical contribution."
+    },
+    {
+      "ID": 716,
+      "Speaker": "T",
+      "Turn": 716,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student’s response verbatim ('two colors')."
+    },
+    {
+      "ID": 718,
+      "Speaker": "T",
+      "Turn": 718,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher reformulates the idea from 'two colors' to the more specific 'two greens,' adjusting wording to clarify."
+    },
+    {
+      "ID": 719,
+      "Speaker": "T",
+      "Turn": 719,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 720,
+      "Speaker": "T",
+      "Turn": 720,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 721,
+      "Speaker": "T",
+      "Turn": 721,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 722,
+      "Speaker": "T",
+      "Turn": 722,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 723,
+      "Speaker": "T",
+      "Turn": 723,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 724,
+      "Speaker": "T",
+      "Turn": 724,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher checks that all students observe the same representation, orienting the class to a shared understanding."
+    },
+    {
+      "ID": 725,
+      "Speaker": "T",
+      "Turn": 725,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 726,
+      "Speaker": "T",
+      "Turn": 726,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 728,
+      "Speaker": "T",
+      "Turn": 728,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 730,
+      "Speaker": "T",
+      "Turn": 730,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 731,
+      "Speaker": "T",
+      "Turn": 731,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 732,
+      "Speaker": "T",
+      "Turn": 732,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 733,
+      "Speaker": "T",
+      "Turn": 733,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 734,
+      "Speaker": "T",
+      "Turn": 734,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to explain how to get from one third to the whole, prompting justification."
+    },
+    {
+      "ID": 735,
+      "Speaker": "T",
+      "Turn": 735,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher presses for explanation of the steps taken beyond having one third."
+    },
+    {
+      "ID": 736,
+      "Speaker": "T",
+      "Turn": 736,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 738,
+      "Speaker": "T",
+      "Turn": 738,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher restates a student’s method and adds to it ('another third and another third') to clarify the idea."
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 8807,
+      "Speaker": "T",
+      "Turn": 8807,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8808,
+      "Speaker": "T",
+      "Turn": 8808,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8809,
+      "Speaker": "T",
+      "Turn": 8809,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks students to supply the next factor of 36, requiring a specific mathematical contribution."
+    },
+    {
+      "ID": 8810,
+      "Speaker": "T",
+      "Turn": 8810,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8811,
+      "Speaker": "T",
+      "Turn": 8811,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher restates the student’s answer, adding the phrase “is a factor of 36,” slightly changing the wording while keeping the idea."
+    },
+    {
+      "ID": 8812,
+      "Speaker": "T",
+      "Turn": 8812,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8813,
+      "Speaker": "T",
+      "Turn": 8813,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8814,
+      "Speaker": "T",
+      "Turn": 8814,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher changes the number to 37 and asks students to determine the factor relationship, requesting a precise mathematical statement."
+    },
+    {
+      "ID": 8815,
+      "Speaker": "T",
+      "Turn": 8815,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Direct question asking whether 3 is a factor of 37 seeks a yes/no mathematical fact."
+    },
+    {
+      "ID": 8816,
+      "Speaker": "T",
+      "Turn": 8816,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Asks students “Why not,” explicitly requesting justification."
+    },
+    {
+      "ID": 8817,
+      "Speaker": "T",
+      "Turn": 8817,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher asks what makes 3 a factor of 36 but not 37, prompting explanation of underlying reasoning."
+    },
+    {
+      "ID": 8819,
+      "Speaker": "T",
+      "Turn": 8819,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8820,
+      "Speaker": "T",
+      "Turn": 8820,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8821,
+      "Speaker": "T",
+      "Turn": 8821,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher asks how students know 3 is a factor of 36, seeking an explanation."
+    },
+    {
+      "ID": 8822,
+      "Speaker": "T",
+      "Turn": 8822,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8824,
+      "Speaker": "T",
+      "Turn": 8824,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher prompts for the specific quantity that can be split into three equal groups, requiring a precise mathematical response."
+    },
+    {
+      "ID": 8826,
+      "Speaker": "T",
+      "Turn": 8826,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8827,
+      "Speaker": "T",
+      "Turn": 8827,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher restates the student’s idea about 36 ÷ 3 yielding equal groups in her own words."
+    },
+    {
+      "ID": 8828,
+      "Speaker": "T",
+      "Turn": 8828,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8829,
+      "Speaker": "T",
+      "Turn": 8829,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher asks for another way to prove the claim, prompting further explanation."
+    }
+  ]
+}

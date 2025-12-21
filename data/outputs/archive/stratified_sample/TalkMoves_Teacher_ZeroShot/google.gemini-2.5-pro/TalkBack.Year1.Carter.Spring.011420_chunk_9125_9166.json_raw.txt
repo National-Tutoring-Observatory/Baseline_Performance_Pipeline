@@ -1,0 +1,252 @@
+{
+  "records": [
+    {
+      "ID": 9125,
+      "Turn": 17,
+      "Speaker": "T",
+      "Sentence": "Im just curious",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9126,
+      "Turn": 17,
+      "Speaker": "T",
+      "Sentence": "I like that you came up with something good job but why would you want to do that",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student 'why would you want to do that,' directly prompting them to explain the thinking behind their action."
+    },
+    {
+      "ID": 9128,
+      "Turn": 19,
+      "Speaker": "T",
+      "Sentence": "Okay",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9129,
+      "Turn": 19,
+      "Speaker": "T",
+      "Sentence": "Youve come up with different equivalent fractions",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases the student's contribution, clarifying that they generated 'different equivalent fractions'."
+    },
+    {
+      "ID": 9130,
+      "Turn": 19,
+      "Speaker": "T",
+      "Sentence": "Who had a different way thank you River that wasnt adding and subtracting",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9131,
+      "Turn": 19,
+      "Speaker": "T",
+      "Sentence": "Anybody have a different idea",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9132,
+      "Turn": 19,
+      "Speaker": "T",
+      "Sentence": "Think for a minute",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9133,
+      "Turn": 19,
+      "Speaker": "T",
+      "Sentence": "What would be another use of having equivalent fractions",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the class to provide a reason or purpose for using equivalent fractions, prompting them to explain their thinking."
+    },
+    {
+      "ID": 9134,
+      "Turn": 19,
+      "Speaker": "T",
+      "Sentence": "ALexis",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9137,
+      "Turn": 21,
+      "Speaker": "T",
+      "Sentence": "More comprehensible easy to use good point",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's idea about simplifying fractions by rephrasing it with more formal language: 'More comprehensible easy to use'."
+    },
+    {
+      "ID": 9138,
+      "Turn": 21,
+      "Speaker": "T",
+      "Sentence": "Hunter",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9140,
+      "Turn": 23,
+      "Speaker": "T",
+      "Sentence": "No other than adding and subtracting buddy",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9141,
+      "Turn": 23,
+      "Speaker": "T",
+      "Sentence": "Thats what I was saying not using adding and subtracting",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9142,
+      "Turn": 23,
+      "Speaker": "T",
+      "Sentence": "Thank you for trying",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9143,
+      "Turn": 23,
+      "Speaker": "T",
+      "Sentence": "Ainsley",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9145,
+      "Turn": 25,
+      "Speaker": "T",
+      "Sentence": "Im not sure how that works",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher begins a press for clarification, indicating they don't understand the student's reasoning."
+    },
+    {
+      "ID": 9146,
+      "Turn": 25,
+      "Speaker": "T",
+      "Sentence": "Youre saying generate a list of fractions",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher continues to press the student to explain their thinking by attempting to clarify the proposed method."
+    },
+    {
+      "ID": 9147,
+      "Turn": 25,
+      "Speaker": "T",
+      "Sentence": "What are you saying",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher concludes a series of prompts by directly asking the student to explain their idea, which is a press for reasoning."
+    },
+    {
+      "ID": 9149,
+      "Turn": 27,
+      "Speaker": "T",
+      "Sentence": "Yes like we did in the journal pages",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9150,
+      "Turn": 27,
+      "Speaker": "T",
+      "Sentence": "Where we brainstormed a list of equivalent fractions and then we found two that were the same denominators so we could work with them",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's idea about finding common denominators and adds detail by connecting it to a specific classroom activity, thus changing the wording."
+    },
+    {
+      "ID": 9151,
+      "Turn": 27,
+      "Speaker": "T",
+      "Sentence": "Last idea",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9152,
+      "Turn": 27,
+      "Speaker": "T",
+      "Sentence": "Victoria",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9156,
+      "Turn": 29,
+      "Speaker": "T",
+      "Sentence": "You cant necessarily picture what 50 thousandths looks like so you put it in lowest terms it might actually be more meaningful and do that for other fractions",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's idea about visualizing fractions by rephrasing it with a specific example ('50 thousandths') and more formal mathematical language ('lowest terms')."
+    },
+    {
+      "ID": 9158,
+      "Turn": 31,
+      "Speaker": "T",
+      "Sentence": "I was thinking comparing fraction",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9159,
+      "Turn": 31,
+      "Speaker": "T",
+      "Sentence": "When they say Put these fractions in order one third two fifths ninetenths",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9160,
+      "Turn": 31,
+      "Speaker": "T",
+      "Sentence": "Sometimes its hard to know",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9161,
+      "Turn": 31,
+      "Speaker": "T",
+      "Sentence": "If you put them in common denominators youd be able to compare the fractions youd know because theyd all have the same denominator and you just look up a numerator to decide",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9162,
+      "Turn": 31,
+      "Speaker": "T",
+      "Sentence": "There are some ideas for relevance",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9163,
+      "Turn": 31,
+      "Speaker": "T",
+      "Sentence": "Lets just quickly review",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9164,
+      "Turn": 31,
+      "Speaker": "T",
+      "Sentence": "Todays learning intention is the one from yesterday",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9165,
+      "Turn": 31,
+      "Speaker": "T",
+      "Sentence": "Read it with me please",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher prompts all students to participate in a shared activity (reading aloud), which serves to orient them together on the task."
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 11013,
+      "Speaker": "T",
+      "Turn": 11013,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11014,
+      "Speaker": "T",
+      "Turn": 11014,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to understand how a diagram demonstrates a mathematical concept (multiplying fractions), which requires connecting representations to concepts."
+    },
+    {
+      "ID": 11015,
+      "Speaker": "T",
+      "Turn": 11015,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11016,
+      "Speaker": "T",
+      "Turn": 11016,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11017,
+      "Speaker": "T",
+      "Turn": 11017,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11018,
+      "Speaker": "T",
+      "Turn": 11018,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11019,
+      "Speaker": "T",
+      "Turn": 11019,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11020,
+      "Speaker": "T",
+      "Turn": 11020,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11021,
+      "Speaker": "T",
+      "Turn": 11021,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher sets up the expectation to explain the connection between the diagram and the mathematical operation."
+    },
+    {
+      "ID": 11022,
+      "Speaker": "T",
+      "Turn": 11022,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher explicitly asks a student to explain the concept mentioned in the previous turn."
+    },
+    {
+      "ID": 11024,
+      "Speaker": "T",
+      "Turn": 11024,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher is monitoring the class's attention and signaling that students should be listening/reacting ('ringing in')."
+    },
+    {
+      "ID": 11025,
+      "Speaker": "T",
+      "Turn": 11025,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher checks if the other students heard the speaker, ensuring the class is following the discussion."
+    },
+    {
+      "ID": 11026,
+      "Speaker": "T",
+      "Turn": 11026,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11027,
+      "Speaker": "T",
+      "Turn": 11027,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher asks the student to repeat their idea so the rest of the class can hear and provide feedback."
+    },
+    {
+      "ID": 11029,
+      "Speaker": "T",
+      "Turn": 11029,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11030,
+      "Speaker": "T",
+      "Turn": 11030,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher directs the student to call on a peer specifically to respond to their idea."
+    },
+    {
+      "ID": 11036,
+      "Speaker": "T",
+      "Turn": 11036,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11037,
+      "Speaker": "T",
+      "Turn": 11037,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher challenges the vague terminology ('blocks') and pushes for more precise language."
+    },
+    {
+      "ID": 11038,
+      "Speaker": "T",
+      "Turn": 11038,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher points out the repeated use of imprecise language ('blocks') to prompt a correction."
+    },
+    {
+      "ID": 11039,
+      "Speaker": "T",
+      "Turn": 11039,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher highlights the visual evidence ('two different shapes') to prompt students to use accurate mathematical distinctions rather than the generic term 'blocks'."
+    }
+  ]
+}

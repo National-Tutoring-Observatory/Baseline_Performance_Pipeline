@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 24279,
+      "Speaker": "T",
+      "Turn": 24279,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 24281,
+      "Speaker": "T",
+      "Turn": 24281,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to write a specific mathematical representation (a number model)."
+    },
+    {
+      "ID": 24282,
+      "Speaker": "T",
+      "Turn": 24282,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the specific components of the number model ('what turns what'), prompting for mathematical precision."
+    },
+    {
+      "ID": 24284,
+      "Speaker": "T",
+      "Turn": 24284,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts the student to connect their current work to a previous representation or method shown on the screen."
+    },
+    {
+      "ID": 24285,
+      "Speaker": "T",
+      "Turn": 24285,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 24286,
+      "Speaker": "T",
+      "Turn": 24286,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to interpret the problem statement ('What is it asking'), prompting them to explain the underlying question."
+    },
+    {
+      "ID": 24287,
+      "Speaker": "T",
+      "Turn": 24287,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts for a specific calculation or operation ('What times this')."
+    },
+    {
+      "ID": 24290,
+      "Speaker": "T",
+      "Turn": 24290,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 24293,
+      "Speaker": "T",
+      "Turn": 24293,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher explicitly prompts the student to engage in cognitive work ('Think through this') rather than just giving an answer."
+    },
+    {
+      "ID": 24294,
+      "Speaker": "T",
+      "Turn": 24294,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to verify their answer ('Check that one again'), implying a need for correctness."
+    },
+    {
+      "ID": 24300,
+      "Speaker": "T",
+      "Turn": 24300,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 24301,
+      "Speaker": "T",
+      "Turn": 24301,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 24302,
+      "Speaker": "T",
+      "Turn": 24302,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 24303,
+      "Speaker": "T",
+      "Turn": 24303,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 24304,
+      "Speaker": "T",
+      "Turn": 24304,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 24305,
+      "Speaker": "T",
+      "Turn": 24305,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher points out a specific step the student took ('you did multiply four times two') and contrasts it with correctness, prompting the student to re-evaluate their process."
+    },
+    {
+      "ID": 24306,
+      "Speaker": "T",
+      "Turn": 24306,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts the student to consider the conceptual requirements of the problem ('think about what of fraction... Number story with a fraction')."
+    },
+    {
+      "ID": 24307,
+      "Speaker": "T",
+      "Turn": 24307,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 24309,
+      "Speaker": "T",
+      "Turn": 24309,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 24310,
+      "Speaker": "T",
+      "Turn": 24310,
+      "TalkMove": "None",
+      "Reasoning": null
+    }
+  ]
+}

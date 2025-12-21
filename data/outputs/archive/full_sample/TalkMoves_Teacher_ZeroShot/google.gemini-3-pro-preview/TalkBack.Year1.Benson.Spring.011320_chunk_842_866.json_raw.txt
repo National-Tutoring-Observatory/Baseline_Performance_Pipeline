@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 842,
+      "Speaker": "T",
+      "Turn": 842,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to explain their strategy for figuring out the solution."
+    },
+    {
+      "ID": 843,
+      "Speaker": "T",
+      "Turn": 843,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 844,
+      "Speaker": "T",
+      "Turn": 844,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 845,
+      "Speaker": "T",
+      "Turn": 845,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 846,
+      "Speaker": "T",
+      "Turn": 846,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 847,
+      "Speaker": "T",
+      "Turn": 847,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to explain the method they will use to solve the problem."
+    },
+    {
+      "ID": 848,
+      "Speaker": "T",
+      "Turn": 848,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher explicitly asks a student to share their thinking."
+    },
+    {
+      "ID": 850,
+      "Speaker": "T",
+      "Turn": 850,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases the student's idea to verify understanding."
+    },
+    {
+      "ID": 851,
+      "Speaker": "T",
+      "Turn": 851,
+      "TalkMove": "Revoicing",
+      "Reasoning": "This utterance completes the revoicing move by checking if the interpretation was correct."
+    },
+    {
+      "ID": 853,
+      "Speaker": "T",
+      "Turn": 853,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher checks if other students were listening to the speaker."
+    },
+    {
+      "ID": 854,
+      "Speaker": "T",
+      "Turn": 854,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher checks for understanding of the previous student's contribution."
+    },
+    {
+      "ID": 855,
+      "Speaker": "T",
+      "Turn": 855,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher asks a student to repeat what another student said."
+    },
+    {
+      "ID": 857,
+      "Speaker": "T",
+      "Turn": 857,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher redirects the student to focus on repeating what the classmate said rather than giving their own answer."
+    },
+    {
+      "ID": 858,
+      "Speaker": "T",
+      "Turn": 858,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher prompts the student to recall the specific strategy mentioned by the classmate."
+    },
+    {
+      "ID": 859,
+      "Speaker": "T",
+      "Turn": 859,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts for the mathematical logic behind the strategy of finding a third from two-thirds."
+    },
+    {
+      "ID": 861,
+      "Speaker": "T",
+      "Turn": 861,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher asks the student to repeat the classmate's idea."
+    },
+    {
+      "ID": 863,
+      "Speaker": "T",
+      "Turn": 863,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats and validates the student's correct restatement of the task."
+    },
+    {
+      "ID": 864,
+      "Speaker": "T",
+      "Turn": 864,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 865,
+      "Speaker": "T",
+      "Turn": 865,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher summarizes and elaborates on the student's strategy."
+    },
+    {
+      "ID": 866,
+      "Speaker": "T",
+      "Turn": 866,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

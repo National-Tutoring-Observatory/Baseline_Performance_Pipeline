@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 23534,
+      "Speaker": "T",
+      "Turn": 23534,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23535,
+      "Speaker": "T",
+      "Turn": 23535,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23536,
+      "Speaker": "T",
+      "Turn": 23536,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23537,
+      "Speaker": "T",
+      "Turn": 23537,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a specific mathematical question about finding equivalent fractions for 2/9 and 5/6, prompting for a procedure/method."
+    },
+    {
+      "ID": 23538,
+      "Speaker": "T",
+      "Turn": 23538,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23539,
+      "Speaker": "T",
+      "Turn": 23539,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23540,
+      "Speaker": "T",
+      "Turn": 23540,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to explain 'how' they would solve it, which prompts for the thinking behind the procedure."
+    },
+    {
+      "ID": 23542,
+      "Speaker": "T",
+      "Turn": 23542,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks the student to show the method/procedure for solving the problem."
+    },
+    {
+      "ID": 23543,
+      "Speaker": "T",
+      "Turn": 23543,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher explicitly asks the student to explain 'what you're doing and why,' prompting for justification."
+    },
+    {
+      "ID": 23545,
+      "Speaker": "T",
+      "Turn": 23545,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats what the student is doing ('listing the factors') but then corrects/changes the wording in the subsequent turn."
+    },
+    {
+      "ID": 23546,
+      "Speaker": "T",
+      "Turn": 23546,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher corrects the previous statement (factors) to 'multiples,' rephrasing the student's action with accurate terminology."
+    },
+    {
+      "ID": 23547,
+      "Speaker": "T",
+      "Turn": 23547,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher continues to narrate/revoice the student's action ('listing the multiples of 9') for the class."
+    },
+    {
+      "ID": 23549,
+      "Speaker": "T",
+      "Turn": 23549,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher calls on another student (Zachary) to pay attention to what the first student did ('did you see that')."
+    },
+    {
+      "ID": 23550,
+      "Speaker": "T",
+      "Turn": 23550,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "This is a continuation of the previous move, orienting the class to the student's method."
+    },
+    {
+      "ID": 23551,
+      "Speaker": "T",
+      "Turn": 23551,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23552,
+      "Speaker": "T",
+      "Turn": 23552,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher recaps the steps taken so far and asks for the next procedural step ('what was your next step')."
+    },
+    {
+      "ID": 23554,
+      "Speaker": "T",
+      "Turn": 23554,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher narrates/repeats the student's action ('He circled what was the multiple that they both had') for the class."
+    },
+    {
+      "ID": 23555,
+      "Speaker": "T",
+      "Turn": 23555,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks 'how is that going to help you,' prompting the student to connect the step (circling multiples) to the goal (common denominators)."
+    },
+    {
+      "ID": 23556,
+      "Speaker": "T",
+      "Turn": 23556,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks the student to demonstrate the procedure ('Show us')."
+    },
+    {
+      "ID": 23557,
+      "Speaker": "T",
+      "Turn": 23557,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the specific mathematical steps to change the fractions for addition."
+    }
+  ]
+}

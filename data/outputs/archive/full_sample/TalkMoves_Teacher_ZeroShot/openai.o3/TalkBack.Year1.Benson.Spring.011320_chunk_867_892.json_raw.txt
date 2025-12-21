@@ -1,0 +1,136 @@
+{
+  "records": [
+    {
+      "ID": 867,
+      "Speaker": "T",
+      "Turn": 867
+    },
+    {
+      "ID": 868,
+      "Speaker": "T",
+      "Turn": 868
+    },
+    {
+      "ID": 869,
+      "Speaker": "T",
+      "Turn": 869,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks Sophie to specify exactly which two pieces she used, requesting a precise mathematical description."
+    },
+    {
+      "ID": 871,
+      "Speaker": "T",
+      "Turn": 871,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student’s answer verbatim: “Two light greens.”"
+    },
+    {
+      "ID": 872,
+      "Speaker": "T",
+      "Turn": 872,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "By asking others to raise their hand if they also used two light greens, the teacher invites students to connect their work to Sophie's idea."
+    },
+    {
+      "ID": 873,
+      "Speaker": "T",
+      "Turn": 873
+    },
+    {
+      "ID": 874,
+      "Speaker": "T",
+      "Turn": 874
+    },
+    {
+      "ID": 875,
+      "Speaker": "T",
+      "Turn": 875,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "Requesting a thumbs-up if students got the same result asks them to relate their findings to the shared class idea."
+    },
+    {
+      "ID": 876,
+      "Speaker": "T",
+      "Turn": 876,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the exact fractional value of one light-green piece, prompting a precise mathematical statement."
+    },
+    {
+      "ID": 877,
+      "Speaker": "T",
+      "Turn": 877,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher refines the context ('If it were a full circle what now') to elicit an exact fraction from students."
+    },
+    {
+      "ID": 879,
+      "Speaker": "T",
+      "Turn": 879,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher states the student’s answer exactly: “Alice says one-third.”"
+    },
+    {
+      "ID": 880,
+      "Speaker": "T",
+      "Turn": 880,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher asks Jen whether she agrees or disagrees with Alice, explicitly prompting reaction to a peer’s idea."
+    },
+    {
+      "ID": 881,
+      "Speaker": "T",
+      "Turn": 881,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "By adding ‘Have a question about,’ the teacher further encourages students to engage directly with Alice’s statement."
+    },
+    {
+      "ID": 883,
+      "Speaker": "T",
+      "Turn": 883,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks, “Why do you agree?” prompting the student to provide justification for her stance."
+    },
+    {
+      "ID": 884,
+      "Speaker": "T",
+      "Turn": 884,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher seeks the precise fraction represented by the light-blue piece."
+    },
+    {
+      "ID": 886,
+      "Speaker": "T",
+      "Turn": 886,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher echoes the student’s answer, ‘Two-thirds,’ exactly."
+    },
+    {
+      "ID": 887,
+      "Speaker": "T",
+      "Turn": 887,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher paraphrases and expands on the earlier conclusion about two light greens equaling two-thirds."
+    },
+    {
+      "ID": 888,
+      "Speaker": "T",
+      "Turn": 888,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to explain why Alice claims the piece is one-third, seeking underlying justification."
+    },
+    {
+      "ID": 890,
+      "Speaker": "T",
+      "Turn": 890,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher summarizes and rephrases the student’s idea about one piece being half of two-thirds."
+    },
+    {
+      "ID": 892,
+      "Speaker": "T",
+      "Turn": 892,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher states the underlying reasoning (‘half of two is one’), echoing and clarifying the student’s explanation."
+    }
+  ]
+}

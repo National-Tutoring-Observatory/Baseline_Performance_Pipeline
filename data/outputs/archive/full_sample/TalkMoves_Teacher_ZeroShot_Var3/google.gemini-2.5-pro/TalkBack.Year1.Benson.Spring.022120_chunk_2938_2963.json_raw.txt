@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 2938,
+      "Speaker": "T",
+      "Turn": 2938,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2939,
+      "Speaker": "T",
+      "Turn": 2939,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2940,
+      "Speaker": "T",
+      "Turn": 2940,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2941,
+      "Speaker": "T",
+      "Turn": 2941,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher is asking a student to explain their thinking and solution process."
+    },
+    {
+      "ID": 2942,
+      "Speaker": "T",
+      "Turn": 2942,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats a key part of the student's stated strategy."
+    },
+    {
+      "ID": 2943,
+      "Speaker": "T",
+      "Turn": 2943,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher asks other students to either offer a different method or add to what the previous student shared."
+    },
+    {
+      "ID": 2945,
+      "Speaker": "T",
+      "Turn": 2945,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher prompts students to evaluate and respond to a classmate's contribution."
+    },
+    {
+      "ID": 2946,
+      "Speaker": "T",
+      "Turn": 2946,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher asks for alternative solution methods, prompting students to compare their thinking to the one already presented."
+    },
+    {
+      "ID": 2947,
+      "Speaker": "T",
+      "Turn": 2947,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks a student to share their solution method."
+    },
+    {
+      "ID": 2949,
+      "Speaker": "T",
+      "Turn": 2949,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's statement to confirm their contribution."
+    },
+    {
+      "ID": 2951,
+      "Speaker": "T",
+      "Turn": 2951,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2952,
+      "Speaker": "T",
+      "Turn": 2952,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2953,
+      "Speaker": "T",
+      "Turn": 2953,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to be specific about the mathematical representation they used (an equation)."
+    },
+    {
+      "ID": 2954,
+      "Speaker": "T",
+      "Turn": 2954,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks the student to clarify whether they used a formal representation or solved it mentally, pressing for a more precise description of their work."
+    },
+    {
+      "ID": 2956,
+      "Speaker": "T",
+      "Turn": 2956,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks the student to state the specific equation they wrote."
+    },
+    {
+      "ID": 2958,
+      "Speaker": "T",
+      "Turn": 2958,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases the student's thinking process into a more formal mathematical statement."
+    },
+    {
+      "ID": 2959,
+      "Speaker": "T",
+      "Turn": 2959,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases a specific step in the student's strategy for clarification."
+    },
+    {
+      "ID": 2960,
+      "Speaker": "T",
+      "Turn": 2960,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2962,
+      "Speaker": "T",
+      "Turn": 2962,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher asks for alternative solution methods, prompting students to compare their thinking to the ones already presented."
+    },
+    {
+      "ID": 2963,
+      "Speaker": "T",
+      "Turn": 2963,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher prompts for a specific alternative strategy (division) to compare with the methods already discussed."
+    }
+  ]
+}

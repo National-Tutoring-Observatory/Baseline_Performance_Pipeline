@@ -1,0 +1,126 @@
+{
+  "records": [
+    {
+      "ID": 6171,
+      "Speaker": "T",
+      "Turn": 6171,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for a specific quantity ('How many more?'), prompting a precise mathematical answer."
+    },
+    {
+      "ID": 6177,
+      "Speaker": "T",
+      "Turn": 6177,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Repeats the prompt 'How many more?' to elicit a precise mathematical quantity."
+    },
+    {
+      "ID": 6178,
+      "Speaker": "T",
+      "Turn": 6178
+    },
+    {
+      "ID": 6180,
+      "Speaker": "T",
+      "Turn": 6180
+    },
+    {
+      "ID": 6183,
+      "Speaker": "T",
+      "Turn": 6183
+    },
+    {
+      "ID": 6185,
+      "Speaker": "T",
+      "Turn": 6185
+    },
+    {
+      "ID": 6186,
+      "Speaker": "T",
+      "Turn": 6186,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Invites the student to share their team’s thinking ('What did your team say?')."
+    },
+    {
+      "ID": 6188,
+      "Speaker": "T",
+      "Turn": 6188
+    },
+    {
+      "ID": 6189,
+      "Speaker": "T",
+      "Turn": 6189
+    },
+    {
+      "ID": 6191,
+      "Speaker": "T",
+      "Turn": 6191,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Asks another student to share their team’s thinking."
+    },
+    {
+      "ID": 6195,
+      "Speaker": "T",
+      "Turn": 6195
+    },
+    {
+      "ID": 6196,
+      "Speaker": "T",
+      "Turn": 6196,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student’s contribution ('Remainder') verbatim."
+    },
+    {
+      "ID": 6198,
+      "Speaker": "T",
+      "Turn": 6198,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "Invites additional students to respond after a peer’s contribution ('Anybody else?')."
+    },
+    {
+      "ID": 6199,
+      "Speaker": "T",
+      "Turn": 6199,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "Prompts students to bring forward ideas from another team, orienting them to peers’ contributions."
+    },
+    {
+      "ID": 6200,
+      "Speaker": "T",
+      "Turn": 6200
+    },
+    {
+      "ID": 6202,
+      "Speaker": "T",
+      "Turn": 6202,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher reformulates a student’s idea about having a fraction as the remainder to clarify it for the class."
+    },
+    {
+      "ID": 6203,
+      "Speaker": "T",
+      "Turn": 6203,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Prompts students to produce precise mathematical vocabulary related to fractions."
+    },
+    {
+      "ID": 6204,
+      "Speaker": "T",
+      "Turn": 6204
+    },
+    {
+      "ID": 6206,
+      "Speaker": "T",
+      "Turn": 6206,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the vocabulary term offered by a student ('Numerator')."
+    },
+    {
+      "ID": 6207,
+      "Speaker": "T",
+      "Turn": 6207,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats another offered term ('Denominator')."
+    }
+  ]
+}

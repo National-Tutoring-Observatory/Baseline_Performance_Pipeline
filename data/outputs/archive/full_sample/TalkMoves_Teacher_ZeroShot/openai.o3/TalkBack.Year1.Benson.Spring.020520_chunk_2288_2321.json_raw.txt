@@ -1,0 +1,124 @@
+{
+  "records": [
+    {
+      "ID": 2288,
+      "Speaker": "T",
+      "Turn": 2288
+    },
+    {
+      "ID": 2289,
+      "Speaker": "T",
+      "Turn": 2289
+    },
+    {
+      "ID": 2290,
+      "Speaker": "T",
+      "Turn": 2290
+    },
+    {
+      "ID": 2291,
+      "Speaker": "T",
+      "Turn": 2291,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to describe additional steps in their solution, prompting them to elaborate on their thinking."
+    },
+    {
+      "ID": 2293,
+      "Speaker": "T",
+      "Turn": 2293,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "By asking \"Why,\" the teacher is requesting the student to justify or explain the reasoning behind the previous answer."
+    },
+    {
+      "ID": 2295,
+      "Speaker": "T",
+      "Turn": 2295,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student-provided fact \"There are eight burritos in a package\" almost word-for-word so that everyone hears it."
+    },
+    {
+      "ID": 2297,
+      "Speaker": "T",
+      "Turn": 2297
+    },
+    {
+      "ID": 2301,
+      "Speaker": "T",
+      "Turn": 2301,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher echoes the student’s estimate of the burrito cost (\"about 2.40\"), repeating it for the class."
+    },
+    {
+      "ID": 2302,
+      "Speaker": "T",
+      "Turn": 2302,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Asking \"What did you do next?\" solicits further explanation of the student’s problem-solving process."
+    },
+    {
+      "ID": 2305,
+      "Speaker": "T",
+      "Turn": 2305,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher paraphrases and organizes the student’s numbers (18 sandwiches per package, 6 each) to clarify the idea for the class."
+    },
+    {
+      "ID": 2307,
+      "Speaker": "T",
+      "Turn": 2307,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Uttering \"Because?\" prompts the student to provide the reasoning that justifies their prior statement."
+    },
+    {
+      "ID": 2309,
+      "Speaker": "T",
+      "Turn": 2309,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher reformulates the student’s calculation (needing 18 packages of five sandwiches) to confirm and share it with everyone."
+    },
+    {
+      "ID": 2312,
+      "Speaker": "T",
+      "Turn": 2312,
+      "TalkMove": "Revoicing",
+      "Reasoning": "She restates/paraphrases the student’s approximate total (\"about $6.00 for sandwiches\") so the whole class hears the result."
+    },
+    {
+      "ID": 2313,
+      "Speaker": "T",
+      "Turn": 2313
+    },
+    {
+      "ID": 2314,
+      "Speaker": "T",
+      "Turn": 2314
+    },
+    {
+      "ID": 2315,
+      "Speaker": "T",
+      "Turn": 2315
+    },
+    {
+      "ID": 2318,
+      "Speaker": "T",
+      "Turn": 2318
+    },
+    {
+      "ID": 2319,
+      "Speaker": "T",
+      "Turn": 2319
+    },
+    {
+      "ID": 2320,
+      "Speaker": "T",
+      "Turn": 2320
+    },
+    {
+      "ID": 2321,
+      "Speaker": "T",
+      "Turn": 2321,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher invites students to indicate if they used a different method, setting up a request for them to share and explain their alternative strategies."
+    }
+  ]
+}

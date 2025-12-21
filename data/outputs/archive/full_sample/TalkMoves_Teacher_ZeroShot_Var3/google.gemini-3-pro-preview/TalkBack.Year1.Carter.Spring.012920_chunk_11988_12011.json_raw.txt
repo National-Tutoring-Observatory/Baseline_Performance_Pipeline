@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 11988,
+      "Speaker": "T",
+      "Turn": 11988,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher references prior partner work, orienting the class to what they should have been discussing together."
+    },
+    {
+      "ID": 11989,
+      "Speaker": "T",
+      "Turn": 11989,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for a specific definition or identification of the algorithm."
+    },
+    {
+      "ID": 11990,
+      "Speaker": "T",
+      "Turn": 11990,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher calls on a specific student to share, managing the flow of conversation."
+    },
+    {
+      "ID": 11992,
+      "Speaker": "T",
+      "Turn": 11992,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to recall the specific definition of a mathematical term ('algorithm')."
+    },
+    {
+      "ID": 11993,
+      "Speaker": "T",
+      "Turn": 11993,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11994,
+      "Speaker": "T",
+      "Turn": 11994,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a leading question to clarify the definition of an algorithm versus an answer."
+    },
+    {
+      "ID": 11996,
+      "Speaker": "T",
+      "Turn": 11996,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11998,
+      "Speaker": "T",
+      "Turn": 11998,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11999,
+      "Speaker": "T",
+      "Turn": 11999,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12000,
+      "Speaker": "T",
+      "Turn": 12000,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher reminds students of the expectation to collaborate with partners."
+    },
+    {
+      "ID": 12001,
+      "Speaker": "T",
+      "Turn": 12001,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to look across their work to identify a pattern, which requires connecting representations and generalizing."
+    },
+    {
+      "ID": 12002,
+      "Speaker": "T",
+      "Turn": 12002,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher reiterates the request for students to identify the underlying pattern."
+    },
+    {
+      "ID": 12003,
+      "Speaker": "T",
+      "Turn": 12003,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12004,
+      "Speaker": "T",
+      "Turn": 12004,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks a specific student to identify the pattern they see."
+    },
+    {
+      "ID": 12006,
+      "Speaker": "T",
+      "Turn": 12006,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12007,
+      "Speaker": "T",
+      "Turn": 12007,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher takes the student's explanation (implied from previous turn) and labels it formally as 'an algorithm'."
+    },
+    {
+      "ID": 12008,
+      "Speaker": "T",
+      "Turn": 12008,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats and refines the student's idea about the pattern into a formal mathematical procedure."
+    },
+    {
+      "ID": 12009,
+      "Speaker": "T",
+      "Turn": 12009,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher continues to rephrase the student's observation into formal steps for multiplying denominators."
+    },
+    {
+      "ID": 12010,
+      "Speaker": "T",
+      "Turn": 12010,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to verify the rule against multiple examples, prompting them to provide evidence."
+    },
+    {
+      "ID": 12011,
+      "Speaker": "T",
+      "Turn": 12011,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to confirm if the rule holds true across examples, requiring justification/verification."
+    }
+  ]
+}

@@ -1,0 +1,164 @@
+{
+  "records": [
+    {
+      "ID": 3211,
+      "Turn": 14,
+      "Speaker": "T",
+      "Sentence": "No",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3212,
+      "Turn": 14,
+      "Speaker": "T",
+      "Sentence": "We already did that",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3213,
+      "Turn": 15,
+      "Speaker": "S",
+      "Sentence": "A digit is given a place  blank times as much as it would be in place"
+    },
+    {
+      "ID": 3214,
+      "Turn": 16,
+      "Speaker": "S",
+      "Sentence": "10 times"
+    },
+    {
+      "ID": 3215,
+      "Turn": 17,
+      "Speaker": "T",
+      "Sentence": "10 times as much as it would be",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's contribution ('10 times') and adds language to make it a more complete phrase within the context of the sentence being constructed."
+    },
+    {
+      "ID": 3216,
+      "Turn": 18,
+      "Speaker": "S",
+      "Sentence": "First place"
+    },
+    {
+      "ID": 3217,
+      "Turn": 19,
+      "Speaker": "T",
+      "Sentence": "Worth in the place to its right",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3218,
+      "Turn": 20,
+      "Speaker": "S",
+      "Sentence": "About one tenths"
+    },
+    {
+      "ID": 3219,
+      "Turn": 20,
+      "Speaker": "S",
+      "Sentence": "About"
+    },
+    {
+      "ID": 3220,
+      "Turn": 21,
+      "Speaker": "T",
+      "Sentence": "Not about",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher corrects the student's use of the word 'About', prompting for more precise mathematical language."
+    },
+    {
+      "ID": 3221,
+      "Turn": 22,
+      "Speaker": "S",
+      "Sentence": "Is exactly"
+    },
+    {
+      "ID": 3222,
+      "Turn": 23,
+      "Speaker": "T",
+      "Sentence": "Worth is not It isnt as is",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3223,
+      "Turn": 23,
+      "Speaker": "T",
+      "Sentence": "Is worth onetenth times as much as it would be worth in the",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher takes the student's idea ('one tenths') and models the full, correct sentence structure, incorporating the student's self-correction from 'about' to 'is exactly'."
+    },
+    {
+      "ID": 3224,
+      "Turn": 24,
+      "Speaker": "S",
+      "Sentence": "Place"
+    },
+    {
+      "ID": 3225,
+      "Turn": 25,
+      "Speaker": "T",
+      "Sentence": "place to its",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's word ('place') and adds 'to its' to scaffold the completion of the sentence."
+    },
+    {
+      "ID": 3226,
+      "Turn": 26,
+      "Speaker": "S",
+      "Sentence": "Left"
+    },
+    {
+      "ID": 3227,
+      "Turn": 27,
+      "Speaker": "T",
+      "Sentence": "left",
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's one-word contribution ('Left') verbatim."
+    },
+    {
+      "ID": 3228,
+      "Turn": 27,
+      "Speaker": "T",
+      "Sentence": "For your notes here is a place value chart with adjustments",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3229,
+      "Turn": 27,
+      "Speaker": "T",
+      "Sentence": "If we think of a regular place chart when we go this way it gets bigger",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3230,
+      "Turn": 27,
+      "Speaker": "T",
+      "Sentence": "Here we have our decimal point",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3231,
+      "Turn": 27,
+      "Speaker": "T",
+      "Sentence": "When it goes this way it gets smaller",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3232,
+      "Turn": 27,
+      "Speaker": "T",
+      "Sentence": "If you have 110 of the piece which is the first one its a bigger piece than 1100",
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

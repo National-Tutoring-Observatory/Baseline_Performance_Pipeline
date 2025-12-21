@@ -1,0 +1,64 @@
+{
+  "records": [
+    {
+      "ID": 6165,
+      "Turn": 27,
+      "Speaker": "T",
+      "TalkMove": null
+    },
+    {
+      "ID": 6167,
+      "Turn": 29,
+      "Speaker": "T",
+      "TalkMove": "Restating"
+    },
+    {
+      "ID": 6169,
+      "Turn": 31,
+      "Speaker": "T",
+      "TalkMove": null
+    },
+    {
+      "ID": 6171,
+      "Turn": 33,
+      "Speaker": "T",
+      "TalkMove": "Restating"
+    },
+    {
+      "ID": 6177,
+      "Turn": 36,
+      "Speaker": "T",
+      "TalkMove": "Restating"
+    },
+    {
+      "ID": 6178,
+      "Turn": 36,
+      "Speaker": "T",
+      "TalkMove": null
+    },
+    {
+      "ID": 6180,
+      "Turn": 38,
+      "Speaker": "T",
+      "TalkMove": null
+    },
+    {
+      "ID": 6183,
+      "Turn": 40,
+      "Speaker": "T",
+      "TalkMove": null
+    },
+    {
+      "ID": 6185,
+      "Turn": 42,
+      "Speaker": "T",
+      "TalkMove": null
+    },
+    {
+      "ID": 6186,
+      "Turn": 42,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy"
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 4521,
+      "Speaker": "T",
+      "Turn": 4521,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4522,
+      "Speaker": "T",
+      "Turn": 4522,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4523,
+      "Speaker": "T",
+      "Turn": 4523,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher is orienting the students' attention to a specific part of the work or board ('This is where I want you to really look')."
+    },
+    {
+      "ID": 4524,
+      "Speaker": "T",
+      "Turn": 4524,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher calls on a student to share their answer/work ('Allison lets hear yours')."
+    },
+    {
+      "ID": 4525,
+      "Speaker": "T",
+      "Turn": 4525,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4526,
+      "Speaker": "T",
+      "Turn": 4526,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher is directing the class to listen to specific students ('Were going to listen to theirs first')."
+    },
+    {
+      "ID": 4527,
+      "Speaker": "T",
+      "Turn": 4527,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts a student to share their contribution ('Allison lets hear yours')."
+    },
+    {
+      "ID": 4530,
+      "Speaker": "T",
+      "Turn": 4530,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the class to evaluate what is missing from the explanation, prompting them to think about the completeness of the reasoning."
+    },
+    {
+      "ID": 4531,
+      "Speaker": "T",
+      "Turn": 4531,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher highlights the absence of justification ('She didnt say why'), implicitly prompting students to consider the importance of the 'why'."
+    },
+    {
+      "ID": 4532,
+      "Speaker": "T",
+      "Turn": 4532,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher reiterates that the student understands the concept but failed to provide the reasoning ('she didnt say why')."
+    },
+    {
+      "ID": 4534,
+      "Speaker": "T",
+      "Turn": 4534,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher calls on another student to share their work ('Adrianna lets hear yours')."
+    },
+    {
+      "ID": 4536,
+      "Speaker": "T",
+      "Turn": 4536,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher specifically asks the student to read their 'explanation', focusing on the reasoning behind the answer."
+    },
+    {
+      "ID": 4539,
+      "Speaker": "T",
+      "Turn": 4539,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher summarizes the student's contribution by confirming she included the justification ('She has the why')."
+    },
+    {
+      "ID": 4540,
+      "Speaker": "T",
+      "Turn": 4540,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4542,
+      "Speaker": "T",
+      "Turn": 4542,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts the class to look for a reason or justification in the work ('lets see if theres a reason')."
+    },
+    {
+      "ID": 4543,
+      "Speaker": "T",
+      "Turn": 4543,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher explains her assessment criteria, focusing on the presence or absence of the 'why' (reasoning)."
+    },
+    {
+      "ID": 4544,
+      "Speaker": "T",
+      "Turn": 4544,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4545,
+      "Speaker": "T",
+      "Turn": 4545,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher calls on a student to share their work ('Lets hear yours Catalina')."
+    },
+    {
+      "ID": 4546,
+      "Speaker": "T",
+      "Turn": 4546,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher evaluates the student's explanation, noting that the reasoning ('her why') is present but not clear."
+    },
+    {
+      "ID": 4547,
+      "Speaker": "T",
+      "Turn": 4547,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher invites the class to analyze what constitutes a good explanation/reasoning ('what would make this good')."
+    }
+  ]
+}

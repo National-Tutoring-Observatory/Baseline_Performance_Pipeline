@@ -1,0 +1,102 @@
+{
+  "records": [
+    {
+      "ID": 3211,
+      "Speaker": "T",
+      "Turn": 14,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3212,
+      "Speaker": "T",
+      "Turn": 14,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3215,
+      "Speaker": "T",
+      "Turn": 17,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher builds on the student's '10 times' by adding 'as much as it would be,' refining the wording."
+    },
+    {
+      "ID": 3217,
+      "Speaker": "T",
+      "Turn": 19,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher adjusts the student's phrasing ('First place') to the precise language 'place to its right.'"
+    },
+    {
+      "ID": 3220,
+      "Speaker": "T",
+      "Turn": 21,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher rejects 'about' to prompt the student to use exact mathematical language."
+    },
+    {
+      "ID": 3222,
+      "Speaker": "T",
+      "Turn": 23,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher pushes for precise phrasing, correcting the student's wording."
+    },
+    {
+      "ID": 3223,
+      "Speaker": "T",
+      "Turn": 23,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts completion of a precise mathematical statement ('one-tenth times as much... in the')."
+    },
+    {
+      "ID": 3225,
+      "Speaker": "T",
+      "Turn": 25,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher cues the exact phrase ('place to its ...'), prompting the student to supply the correct term."
+    },
+    {
+      "ID": 3227,
+      "Speaker": "T",
+      "Turn": 27,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's word 'Left' verbatim."
+    },
+    {
+      "ID": 3228,
+      "Speaker": "T",
+      "Turn": 27,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3229,
+      "Speaker": "T",
+      "Turn": 27,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3230,
+      "Speaker": "T",
+      "Turn": 27,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3231,
+      "Speaker": "T",
+      "Turn": 27,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3232,
+      "Speaker": "T",
+      "Turn": 27,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

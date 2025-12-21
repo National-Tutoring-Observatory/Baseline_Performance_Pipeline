@@ -1,0 +1,116 @@
+{
+  "records": [
+    {
+      "ID": 1434,
+      "Speaker": "T",
+      "Turn": 1434,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to explain their problem-solving process ('How did you solve that problem')."
+    },
+    {
+      "ID": 1435,
+      "Speaker": "T",
+      "Turn": 1435,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher probes further into the student's method, asking if they used a different approach."
+    },
+    {
+      "ID": 1437,
+      "Speaker": "T",
+      "Turn": 1437,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's idea ('You drew a number line') but phrases it as a question/confirmation ('like that'), verifying the student's method."
+    },
+    {
+      "ID": 1439,
+      "Speaker": "T",
+      "Turn": 1439,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1440,
+      "Speaker": "T",
+      "Turn": 1440,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1441,
+      "Speaker": "T",
+      "Turn": 1441,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to explain the steps taken to reach the solution ('Where did you do to figure out...')."
+    },
+    {
+      "ID": 1443,
+      "Speaker": "T",
+      "Turn": 1443,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases the student's action ('So you just did the actual number model problem instead of drawing a picture') to clarify the method used."
+    },
+    {
+      "ID": 1444,
+      "Speaker": "T",
+      "Turn": 1444,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher addresses the whole class to check for alternative strategies ('Did anyone else draw a picture'), orienting students to the different methods used."
+    },
+    {
+      "ID": 1445,
+      "Speaker": "T",
+      "Turn": 1445,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher continues to survey the class about their strategies, checking if anyone used a specific visual representation."
+    },
+    {
+      "ID": 1446,
+      "Speaker": "T",
+      "Turn": 1446,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1447,
+      "Speaker": "T",
+      "Turn": 1447,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1448,
+      "Speaker": "T",
+      "Turn": 1448,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1449,
+      "Speaker": "T",
+      "Turn": 1449,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1451,
+      "Speaker": "T",
+      "Turn": 1451,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1452,
+      "Speaker": "T",
+      "Turn": 1452,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1454,
+      "Speaker": "T",
+      "Turn": 1454,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

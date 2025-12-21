@@ -1,0 +1,228 @@
+{
+  "records": [
+    {
+      "ID": 25865,
+      "Turn": 150,
+      "Speaker": "T",
+      "Sentence": "I want you to go back",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 25866,
+      "Turn": 150,
+      "Speaker": "T",
+      "Sentence": "Try to find where you made the mistake",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 25871,
+      "Turn": 153,
+      "Speaker": "T",
+      "Sentence": "Friends Brendan he just accidentally missed the G dot",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher is orienting the class to what a specific student is doing, keeping the group aware of each other's progress."
+    },
+    {
+      "ID": 25872,
+      "Turn": 153,
+      "Speaker": "T",
+      "Sentence": "Hes just turning it over and filling that in",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher continues to orient the class to what a specific student is doing, keeping the group aware of each other's progress."
+    },
+    {
+      "ID": 25873,
+      "Turn": 153,
+      "Speaker": "T",
+      "Sentence": "Also T a little bit",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 25874,
+      "Turn": 153,
+      "Speaker": "T",
+      "Sentence": "If it wasnt folded perfectly on the line of symmetry it might be a little off too",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 25876,
+      "Turn": 155,
+      "Speaker": "T",
+      "Sentence": "Correctly",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 25877,
+      "Turn": 155,
+      "Speaker": "T",
+      "Sentence": "I would like you to think about something while you re finishing",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 25878,
+      "Turn": 155,
+      "Speaker": "T",
+      "Sentence": "How are each side similar",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to explain their thinking about the similarities between the two sides of the shape."
+    },
+    {
+      "ID": 25879,
+      "Turn": 155,
+      "Speaker": "T",
+      "Sentence": "How is each side similar",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher repeats the question, pressing students to explain their thinking about the similarities."
+    },
+    {
+      "ID": 25880,
+      "Turn": 155,
+      "Speaker": "T",
+      "Sentence": "How is each side different",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to explain their thinking about the differences between the two sides of the shape."
+    },
+    {
+      "ID": 25882,
+      "Turn": 157,
+      "Speaker": "T",
+      "Sentence": "You know what",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 25883,
+      "Turn": 157,
+      "Speaker": "T",
+      "Sentence": "Fold it if you need to fold it and look under the light again to see Wait",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 25884,
+      "Turn": 157,
+      "Speaker": "T",
+      "Sentence": "Maybe I missed a spot or I put that one in the wrong spot",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 25885,
+      "Turn": 157,
+      "Speaker": "T",
+      "Sentence": "What does each side have that is alike",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher rephrases a previous question to prompt students to explain their thinking about the similarities."
+    },
+    {
+      "ID": 25886,
+      "Turn": 157,
+      "Speaker": "T",
+      "Sentence": "They are the same in what ways",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher again rephrases the question, pressing students to provide reasoning for how the sides are the same."
+    },
+    {
+      "ID": 25887,
+      "Turn": 157,
+      "Speaker": "T",
+      "Sentence": "Brendan",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 25890,
+      "Turn": 159,
+      "Speaker": "T",
+      "Sentence": "What I m hearing you say is could we say they are the same shape but facing the different direction",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's idea about direction but refines the wording to 'same shape but facing the different direction'."
+    },
+    {
+      "ID": 25892,
+      "Turn": 161,
+      "Speaker": "T",
+      "Sentence": "Good",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 25893,
+      "Turn": 161,
+      "Speaker": "T",
+      "Sentence": "How else is each side alike",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks a follow-up question to elicit more reasoning about the similarities."
+    },
+    {
+      "ID": 25894,
+      "Turn": 161,
+      "Speaker": "T",
+      "Sentence": "Does each side of the shape have the same number of line segments",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks a specific question to guide students' reasoning process and help them identify evidence for similarity."
+    },
+    {
+      "ID": 25896,
+      "Turn": 163,
+      "Speaker": "T",
+      "Sentence": "Think about that",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 25897,
+      "Turn": 163,
+      "Speaker": "T",
+      "Sentence": "Does each side have the same number of line segments",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher repeats the question to prompt students to reconsider their answer and provide evidence."
+    },
+    {
+      "ID": 25898,
+      "Turn": 163,
+      "Speaker": "T",
+      "Sentence": "Does each side have the same number of vertices or vertex points",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks another specific question to guide students' reasoning process about the properties of the shapes."
+    },
+    {
+      "ID": 25900,
+      "Turn": 165,
+      "Speaker": "T",
+      "Sentence": "How is each side different",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to explain their thinking about the differences between the two sides."
+    },
+    {
+      "ID": 25901,
+      "Turn": 165,
+      "Speaker": "T",
+      "Sentence": "Anna",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 25903,
+      "Turn": 167,
+      "Speaker": "T",
+      "Sentence": "One does not have letters",
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's contribution almost word-for-word."
+    },
+    {
+      "ID": 25904,
+      "Turn": 167,
+      "Speaker": "T",
+      "Sentence": "If it did have letters what would those letters look like",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks a hypothetical question to press students to extend their thinking and explain the consequences of the reflection."
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 16330,
+      "Speaker": "T",
+      "Turn": 16330,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16331,
+      "Speaker": "T",
+      "Turn": 16331,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16332,
+      "Speaker": "T",
+      "Turn": 16332,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16333,
+      "Speaker": "T",
+      "Turn": 16333,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16334,
+      "Speaker": "T",
+      "Turn": 16334,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16335,
+      "Speaker": "T",
+      "Turn": 16335,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16336,
+      "Speaker": "T",
+      "Turn": 16336,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16337,
+      "Speaker": "T",
+      "Turn": 16337,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for a specific mathematical term ('What do we call the...')."
+    },
+    {
+      "ID": 16338,
+      "Speaker": "T",
+      "Turn": 16338,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks 'Why is it called that', prompting the student to explain the rationale behind the terminology."
+    },
+    {
+      "ID": 16340,
+      "Speaker": "T",
+      "Turn": 16340,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher confirms the student's idea ('Right') and rephrases/elaborates on what the form tells us ('it can tell us what the xintercept is')."
+    },
+    {
+      "ID": 16341,
+      "Speaker": "T",
+      "Turn": 16341,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for a specific property of an x-intercept ('Whats always true about an xintercept')."
+    },
+    {
+      "ID": 16342,
+      "Speaker": "T",
+      "Turn": 16342,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher sets up a logical scenario about multiplication and asks students to deduce what must be true ('what has to be true about at least one of the things Im multiplying')."
+    },
+    {
+      "ID": 16343,
+      "Speaker": "T",
+      "Turn": 16343,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks for the mechanism behind getting a zero product ('how do I get zero')."
+    },
+    {
+      "ID": 16344,
+      "Speaker": "T",
+      "Turn": 16344,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16345,
+      "Speaker": "T",
+      "Turn": 16345,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16346,
+      "Speaker": "T",
+      "Turn": 16346,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for a specific value or condition that satisfies the equation ('What would make that equal to zero')."
+    },
+    {
+      "ID": 16347,
+      "Speaker": "T",
+      "Turn": 16347,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16350,
+      "Speaker": "T",
+      "Turn": 16350,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts for a specific mathematical answer ('What would make that')."
+    },
+    {
+      "ID": 16353,
+      "Speaker": "T",
+      "Turn": 16353,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16354,
+      "Speaker": "T",
+      "Turn": 16354,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for a specific mathematical procedure ('How do I find the middle of two numbers')."
+    }
+  ]
+}

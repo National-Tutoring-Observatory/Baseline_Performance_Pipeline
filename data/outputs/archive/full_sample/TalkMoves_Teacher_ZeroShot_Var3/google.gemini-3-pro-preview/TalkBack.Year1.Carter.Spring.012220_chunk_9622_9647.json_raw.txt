@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 9622,
+      "Speaker": "T",
+      "Turn": 9622,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 9623,
+      "Speaker": "T",
+      "Turn": 9623,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 9624,
+      "Speaker": "T",
+      "Turn": 9624,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher directs a student to interact with another student ('Talk to Royce'), orienting them to each other."
+    },
+    {
+      "ID": 9625,
+      "Speaker": "T",
+      "Turn": 9625,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 9627,
+      "Speaker": "T",
+      "Turn": 9627,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 9628,
+      "Speaker": "T",
+      "Turn": 9628,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to perform a specific mathematical calculation ('find 1/5 of it')."
+    },
+    {
+      "ID": 9629,
+      "Speaker": "T",
+      "Turn": 9629,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a specific question about the mathematical setup ('How many groups are we making')."
+    },
+    {
+      "ID": 9631,
+      "Speaker": "T",
+      "Turn": 9631,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to solve a specific division problem ('10 / 5 is how many')."
+    },
+    {
+      "ID": 9633,
+      "Speaker": "T",
+      "Turn": 9633,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher challenges the student's previous answer ('Really'), prompting them to reconsider their thinking."
+    },
+    {
+      "ID": 9634,
+      "Speaker": "T",
+      "Turn": 9634,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 9636,
+      "Speaker": "T",
+      "Turn": 9636,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 9637,
+      "Speaker": "T",
+      "Turn": 9637,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 9638,
+      "Speaker": "T",
+      "Turn": 9638,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 9640,
+      "Speaker": "T",
+      "Turn": 9640,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher guides the student through the calculation steps and prompts for the answer ('so 10 / 5 is')."
+    },
+    {
+      "ID": 9642,
+      "Speaker": "T",
+      "Turn": 9642,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 9643,
+      "Speaker": "T",
+      "Turn": 9643,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher sets up the next step of the calculation and prompts for the result ('So 2/5...')."
+    },
+    {
+      "ID": 9644,
+      "Speaker": "T",
+      "Turn": 9644,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher uses a fill-in-the-blank prompt to get the student to state the mathematical answer."
+    },
+    {
+      "ID": 9645,
+      "Speaker": "T",
+      "Turn": 9645,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 9646,
+      "Speaker": "T",
+      "Turn": 9646,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher focuses the group's attention on a specific task ('lets talk about the first table')."
+    },
+    {
+      "ID": 9647,
+      "Speaker": "T",
+      "Turn": 9647,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for a specific mathematical value to fill in a table."
+    }
+  ]
+}

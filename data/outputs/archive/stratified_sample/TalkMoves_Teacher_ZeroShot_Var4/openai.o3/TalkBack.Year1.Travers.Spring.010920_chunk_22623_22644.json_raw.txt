@@ -1,0 +1,137 @@
+{
+  "records": [
+    {
+      "ID": 22623,
+      "Speaker": "T",
+      "Turn": 79,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22624,
+      "Speaker": "T",
+      "Turn": 79,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to explain how she solved problem 1, explicitly eliciting her thinking process."
+    },
+    {
+      "ID": 22625,
+      "Speaker": "T",
+      "Turn": 79,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "By asking the student to hold up her whiteboard so everyone can see, the teacher orients the whole class to the student’s representation."
+    },
+    {
+      "ID": 22626,
+      "Speaker": "T",
+      "Turn": 79,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher again prompts the student to elaborate on her thought process."
+    },
+    {
+      "ID": 22628,
+      "Speaker": "T",
+      "Turn": 80,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22629,
+      "Speaker": "T",
+      "Turn": 80,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher alerts the student that others cannot see, ensuring the class can follow the explanation."
+    },
+    {
+      "ID": 22630,
+      "Speaker": "T",
+      "Turn": 80,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22632,
+      "Speaker": "T",
+      "Turn": 82,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher restates the student’s description in her own words, confirming the idea that the pieces are the same size."
+    },
+    {
+      "ID": 22633,
+      "Speaker": "T",
+      "Turn": 82,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Again repeats the student’s idea (‘They’re all fifths’) with slightly different wording to affirm understanding."
+    },
+    {
+      "ID": 22634,
+      "Speaker": "T",
+      "Turn": 82,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Paraphrases the student’s statement about having five equal pieces, adding her own phrasing."
+    },
+    {
+      "ID": 22635,
+      "Speaker": "T",
+      "Turn": 82,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22636,
+      "Speaker": "T",
+      "Turn": 82,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher summarizes the work and prompts the student to state the exact total fraction, seeking a precise mathematical answer."
+    },
+    {
+      "ID": 22638,
+      "Speaker": "T",
+      "Turn": 84,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "Invites classmates to stand if their thinking matches Robin’s, explicitly prompting them to connect their ideas to hers."
+    },
+    {
+      "ID": 22639,
+      "Speaker": "T",
+      "Turn": 84,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22640,
+      "Speaker": "T",
+      "Turn": 84,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22641,
+      "Speaker": "T",
+      "Turn": 84,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22642,
+      "Speaker": "T",
+      "Turn": 85,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22643,
+      "Speaker": "T",
+      "Turn": 85,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22644,
+      "Speaker": "T",
+      "Turn": 85,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "Directs students to discuss question 2 with a shoulder partner, which positions them to react to and build on each other’s ideas."
+    }
+  ]
+}

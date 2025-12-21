@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 20859,
+      "Speaker": "T",
+      "Turn": 20859,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20860,
+      "Speaker": "T",
+      "Turn": 20860,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20861,
+      "Speaker": "T",
+      "Turn": 20861,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks for the exact count of factors of 2 needed to reach 24, requesting a specific mathematical fact."
+    },
+    {
+      "ID": 20863,
+      "Speaker": "T",
+      "Turn": 20863,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20865,
+      "Speaker": "T",
+      "Turn": 20865,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher prompts students to supply the exact product of 2 × 2."
+    },
+    {
+      "ID": 20868,
+      "Speaker": "T",
+      "Turn": 20868,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20870,
+      "Speaker": "T",
+      "Turn": 20870,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20879,
+      "Speaker": "T",
+      "Turn": 20879,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20880,
+      "Speaker": "T",
+      "Turn": 20880,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20881,
+      "Speaker": "T",
+      "Turn": 20881,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks for a precise pair of factors whose product is 24."
+    },
+    {
+      "ID": 20884,
+      "Speaker": "T",
+      "Turn": 20884,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "After acknowledging a response, the teacher asks for the exact factors of 12."
+    },
+    {
+      "ID": 20886,
+      "Speaker": "T",
+      "Turn": 20886,
+      "TalkMove": "Restating",
+      "Reasoning": "Teacher repeats the student's suggested factors exactly: \"Six and two.\""
+    },
+    {
+      "ID": 20888,
+      "Speaker": "T",
+      "Turn": 20888,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher continues to prompt for the next exact factorization step."
+    },
+    {
+      "ID": 20890,
+      "Speaker": "T",
+      "Turn": 20890,
+      "TalkMove": "Restating",
+      "Reasoning": "Teacher repeats the student-provided factors verbatim: \"Three and two.\""
+    },
+    {
+      "ID": 20891,
+      "Speaker": "T",
+      "Turn": 20891,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20892,
+      "Speaker": "T",
+      "Turn": 20892,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks whether there are complete groups of four in the factor list, requesting a specific check."
+    },
+    {
+      "ID": 20894,
+      "Speaker": "T",
+      "Turn": 20894,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20895,
+      "Speaker": "T",
+      "Turn": 20895,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks what must be remembered when taking an even root, prompting recall of a specific mathematical rule."
+    },
+    {
+      "ID": 20897,
+      "Speaker": "T",
+      "Turn": 20897,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20898,
+      "Speaker": "T",
+      "Turn": 20898,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

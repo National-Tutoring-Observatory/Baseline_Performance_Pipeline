@@ -1,0 +1,172 @@
+{
+  "records": [
+    {
+      "ID": 16201,
+      "Turn": 137,
+      "Speaker": "T",
+      "Sentence": "All right we have a little bit of a difference here",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16202,
+      "Turn": 137,
+      "Speaker": "T",
+      "Sentence": "Sage why are you where youre at",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks a student to explain the reasoning behind their choice."
+    },
+    {
+      "ID": 16203,
+      "Turn": 138,
+      "Speaker": "S",
+      "Sentence": "Im in this one because"
+    },
+    {
+      "ID": 16204,
+      "Turn": 139,
+      "Speaker": "T",
+      "Sentence": "Whats this one",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to be more specific about the vague term 'this one'."
+    },
+    {
+      "ID": 16205,
+      "Turn": 140,
+      "Speaker": "S",
+      "Sentence": "The none of them because it says that he planted 25 of the garden its kind of dividing it"
+    },
+    {
+      "ID": 16206,
+      "Turn": 140,
+      "Speaker": "S",
+      "Sentence": "Like you have to figure out the fraction of it like just a fraction"
+    },
+    {
+      "ID": 16207,
+      "Turn": 141,
+      "Speaker": "T",
+      "Sentence": "Okay",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16208,
+      "Turn": 141,
+      "Speaker": "T",
+      "Sentence": "Well if youre figuring out what fraction of multiplication is fraction of",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's idea of 'figure out the fraction' and reframes it using mathematical language, connecting it to multiplication."
+    },
+    {
+      "ID": 16209,
+      "Turn": 141,
+      "Speaker": "T",
+      "Sentence": "So what youre saying might support multiplication",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher continues to rephrase the student's contribution, explicitly linking their reasoning to the concept of multiplication."
+    },
+    {
+      "ID": 16210,
+      "Turn": 141,
+      "Speaker": "T",
+      "Sentence": "Remember division is dividing into equal parts",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16211,
+      "Turn": 141,
+      "Speaker": "T",
+      "Sentence": "Are they dividing it into equal parts",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks a question to prompt the student to apply a mathematical definition to the problem and explain their thinking."
+    },
+    {
+      "ID": 16212,
+      "Turn": 142,
+      "Speaker": "T",
+      "Sentence": "Josiah please stop disturbing our learning",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16213,
+      "Turn": 142,
+      "Speaker": "T",
+      "Sentence": "I asked a classmate a question give him the think time",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16214,
+      "Turn": 142,
+      "Speaker": "T",
+      "Sentence": "Are we dividing into equal parts",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher repeats a question to press the student to provide reasoning after an interruption."
+    },
+    {
+      "ID": 16215,
+      "Turn": 143,
+      "Speaker": "S",
+      "Sentence": "No"
+    },
+    {
+      "ID": 16216,
+      "Turn": 144,
+      "Speaker": "T",
+      "Sentence": "My friends all here in the middle the middle is nothing",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16217,
+      "Turn": 144,
+      "Speaker": "T",
+      "Sentence": "You have to choose a side please",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16218,
+      "Turn": 144,
+      "Speaker": "T",
+      "Sentence": "You either are back against the counter Conor or youre over here because I cant tell where you are right now",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16219,
+      "Turn": 144,
+      "Speaker": "T",
+      "Sentence": "Youre just hanging out in no mans land",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16220,
+      "Turn": 144,
+      "Speaker": "T",
+      "Sentence": "All right",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16221,
+      "Turn": 144,
+      "Speaker": "T",
+      "Sentence": "Lea where are you at",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16222,
+      "Turn": 144,
+      "Speaker": "T",
+      "Sentence": "What do you think",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts a student to share their thinking and explain their reasoning."
+    }
+  ]
+}

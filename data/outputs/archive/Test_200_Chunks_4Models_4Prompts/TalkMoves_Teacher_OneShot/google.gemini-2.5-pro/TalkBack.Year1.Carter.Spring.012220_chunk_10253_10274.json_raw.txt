@@ -1,0 +1,123 @@
+{
+  "records": [
+    {
+      "ID": 10253,
+      "Turn": 249,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10255,
+      "Turn": 251,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10257,
+      "Turn": 253,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10258,
+      "Turn": 253,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to explain their thinking by asking 'Do you see why...'"
+    },
+    {
+      "ID": 10259,
+      "Turn": 253,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10261,
+      "Turn": 255,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10262,
+      "Turn": 255,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10263,
+      "Turn": 255,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10264,
+      "Turn": 255,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a direct question to elicit a specific mathematical calculation."
+    },
+    {
+      "ID": 10265,
+      "Turn": 256,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts the student to take the next logical step in the problem, connecting one piece of information to the next."
+    },
+    {
+      "ID": 10267,
+      "Turn": 258,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a direct question to elicit a specific mathematical calculation."
+    },
+    {
+      "ID": 10268,
+      "Turn": 258,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a direct question to elicit a specific mathematical calculation."
+    },
+    {
+      "ID": 10270,
+      "Turn": 260,
+      "Speaker": "T",
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's answer 'Five' verbatim."
+    },
+    {
+      "ID": 10271,
+      "Turn": 260,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts the student to connect their answer to the next step of the problem."
+    },
+    {
+      "ID": 10272,
+      "Turn": 260,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to recognize the reasoning behind a mathematical process by asking 'See how...'"
+    },
+    {
+      "ID": 10273,
+      "Turn": 260,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10274,
+      "Turn": 260,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a direct question to elicit a specific mathematical calculation."
+    }
+  ]
+}

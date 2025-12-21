@@ -1,0 +1,53 @@
+{
+  "records": [
+    {
+      "ID": 3195,
+      "Speaker": "T",
+      "Turn": 1,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3197,
+      "Speaker": "T",
+      "Turn": 3,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3199,
+      "Speaker": "T",
+      "Turn": 5,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3200,
+      "Speaker": "T",
+      "Turn": 5,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3201,
+      "Speaker": "T",
+      "Turn": 5,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to connect a representation ('square A') to the idea it represents."
+    },
+    {
+      "ID": 3204,
+      "Speaker": "T",
+      "Turn": 8,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher redirects the class's attention back to the academic task after a student's off-topic comment."
+    },
+    {
+      "ID": 3205,
+      "Speaker": "T",
+      "Turn": 9,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

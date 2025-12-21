@@ -1,0 +1,95 @@
+{
+  "records": [
+    {
+      "ID": 24820,
+      "Speaker": "T",
+      "Turn": 173,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's 'One' verbatim to acknowledge the contribution."
+    },
+    {
+      "ID": 24821,
+      "Speaker": "T",
+      "Turn": 173,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks 'What's next?' to elicit the next value in the data sequence."
+    },
+    {
+      "ID": 24823,
+      "Speaker": "T",
+      "Turn": 175,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Prompts students to state how many 3 3/4 measurements there were, seeking a precise count."
+    },
+    {
+      "ID": 24826,
+      "Speaker": "T",
+      "Turn": 178,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24827,
+      "Speaker": "T",
+      "Turn": 178,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Enumerates 'one two three four' to validate and restate the student's claim of four occurrences in different wording."
+    },
+    {
+      "ID": 24828,
+      "Speaker": "T",
+      "Turn": 178,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks whether there was a fifth occurrence to check the exact count."
+    },
+    {
+      "ID": 24830,
+      "Speaker": "T",
+      "Turn": 180,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24832,
+      "Speaker": "T",
+      "Turn": 182,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks for the next biggest data point, eliciting a specific value from the dataset."
+    },
+    {
+      "ID": 24833,
+      "Speaker": "T",
+      "Turn": 182,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Requests the number of times 'four' occurred, prompting a precise count."
+    },
+    {
+      "ID": 24835,
+      "Speaker": "T",
+      "Turn": 184,
+      "TalkMove": "Restating",
+      "Reasoning": "Repeats the student's response 'Three times' word-for-word."
+    },
+    {
+      "ID": 24836,
+      "Speaker": "T",
+      "Turn": 184,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Counts 'one two three' to rephrase and affirm the 'three times' answer."
+    },
+    {
+      "ID": 24837,
+      "Speaker": "T",
+      "Turn": 184,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks for the next data point to obtain a specific value."
+    },
+    {
+      "ID": 24839,
+      "Speaker": "T",
+      "Turn": 186,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks if there are any 4 1/4 values, prompting identification within the data."
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 8681,
+      "Speaker": "T",
+      "Turn": 8681,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 8682,
+      "Speaker": "T",
+      "Turn": 8682,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 8685,
+      "Speaker": "T",
+      "Turn": 8685,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to explain their thinking process or what they are struggling with ('what is it that youre grappling with here')."
+    },
+    {
+      "ID": 8686,
+      "Speaker": "T",
+      "Turn": 8686,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases the student's implicit or explicit struggle ('Youre trying to decide if three is a factor of 36') to clarify the mathematical task."
+    },
+    {
+      "ID": 8693,
+      "Speaker": "T",
+      "Turn": 8693,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 8695,
+      "Speaker": "T",
+      "Turn": 8695,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 8698,
+      "Speaker": "T",
+      "Turn": 8698,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to provide a specific mathematical fact ('Four times what equals 36')."
+    },
+    {
+      "ID": 8703,
+      "Speaker": "T",
+      "Turn": 8703,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student for a specific calculation ('Four What times 10 is what')."
+    },
+    {
+      "ID": 8705,
+      "Speaker": "T",
+      "Turn": 8705,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 8709,
+      "Speaker": "T",
+      "Turn": 8709,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher checks for correctness regarding the result of the calculation ('It wont be 36 right')."
+    },
+    {
+      "ID": 8710,
+      "Speaker": "T",
+      "Turn": 8710,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 8711,
+      "Speaker": "T",
+      "Turn": 8711,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 8712,
+      "Speaker": "T",
+      "Turn": 8712,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a specific yes/no mathematical question ('Does five go in')."
+    },
+    {
+      "ID": 8714,
+      "Speaker": "T",
+      "Turn": 8714,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to consider a specific number ('What about your four')."
+    },
+    {
+      "ID": 8718,
+      "Speaker": "T",
+      "Turn": 8718,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 8720,
+      "Speaker": "T",
+      "Turn": 8720,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to complete a multiplication fact ('Six times what is 36')."
+    },
+    {
+      "ID": 8722,
+      "Speaker": "T",
+      "Turn": 8722,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 8724,
+      "Speaker": "T",
+      "Turn": 8724,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 8725,
+      "Speaker": "T",
+      "Turn": 8725,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 8726,
+      "Speaker": "T",
+      "Turn": 8726,
+      "TalkMove": "None",
+      "Reasoning": null
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 21738,
+      "Speaker": "T",
+      "Turn": 21738,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21739,
+      "Speaker": "T",
+      "Turn": 21739,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks a student to name the first mathematical step to take."
+    },
+    {
+      "ID": 21740,
+      "Speaker": "T",
+      "Turn": 21740,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Restates the student's proposed step, adding wording ('we're going to... of the equation')."
+    },
+    {
+      "ID": 21741,
+      "Speaker": "T",
+      "Turn": 21741,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Prompts the student to identify step one using correct procedure language."
+    },
+    {
+      "ID": 21743,
+      "Speaker": "T",
+      "Turn": 21743,
+      "TalkMove": "Restating",
+      "Reasoning": "Repeats the step ('Isolate the radical') word-for-word."
+    },
+    {
+      "ID": 21744,
+      "Speaker": "T",
+      "Turn": 21744,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Checks whether the operation results in the radical being isolated, focusing on correctness of the concept."
+    },
+    {
+      "ID": 21747,
+      "Speaker": "T",
+      "Turn": 21747,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Builds on the student's idea by summarizing and extending it with computation and conclusion."
+    },
+    {
+      "ID": 21748,
+      "Speaker": "T",
+      "Turn": 21748,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks for the next specific mathematical action."
+    },
+    {
+      "ID": 21749,
+      "Speaker": "T",
+      "Turn": 21749,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Requests identification of 'step two' in the procedure."
+    },
+    {
+      "ID": 21751,
+      "Speaker": "T",
+      "Turn": 21751,
+      "TalkMove": "Restating",
+      "Reasoning": "Echoes the student's answer ('cube each side') verbatim."
+    },
+    {
+      "ID": 21752,
+      "Speaker": "T",
+      "Turn": 21752,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Repeats the student's idea with added wording ('we're going to...')."
+    },
+    {
+      "ID": 21753,
+      "Speaker": "T",
+      "Turn": 21753,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks for a specific numerical result (3 cubed)."
+    },
+    {
+      "ID": 21755,
+      "Speaker": "T",
+      "Turn": 21755,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "After confirming 27, prompts students to state what happens algebraically at that step."
+    },
+    {
+      "ID": 21756,
+      "Speaker": "T",
+      "Turn": 21756,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21757,
+      "Speaker": "T",
+      "Turn": 21757,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks the student to list the two procedural steps."
+    },
+    {
+      "ID": 21758,
+      "Speaker": "T",
+      "Turn": 21758,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Again prompts for the two steps to isolate x."
+    },
+    {
+      "ID": 21760,
+      "Speaker": "T",
+      "Turn": 21760,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21762,
+      "Speaker": "T",
+      "Turn": 21762,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Asks the student to justify the choice of adding nine first rather than dividing by two."
+    },
+    {
+      "ID": 21764,
+      "Speaker": "T",
+      "Turn": 21764,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Requests a specific computation (9 divided by 2)."
+    },
+    {
+      "ID": 21766,
+      "Speaker": "T",
+      "Turn": 21766,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

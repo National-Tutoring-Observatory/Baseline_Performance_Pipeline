@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 28420,
+      "Speaker": "T",
+      "Turn": 28420,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 28424,
+      "Speaker": "T",
+      "Turn": 28424,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 28426,
+      "Speaker": "T",
+      "Turn": 28426,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks a student 'Why' to prompt them to explain their thinking."
+    },
+    {
+      "ID": 28428,
+      "Speaker": "T",
+      "Turn": 28428,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's contribution, 'A quarterturn counterclockwise'."
+    },
+    {
+      "ID": 28429,
+      "Speaker": "T",
+      "Turn": 28429,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 28430,
+      "Speaker": "T",
+      "Turn": 28430,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 28432,
+      "Speaker": "T",
+      "Turn": 28432,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 28433,
+      "Speaker": "T",
+      "Turn": 28433,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 28434,
+      "Speaker": "T",
+      "Turn": 28434,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher instructs students to discuss their answer and explain 'why', prompting them to share their reasoning."
+    },
+    {
+      "ID": 28435,
+      "Speaker": "T",
+      "Turn": 28435,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 28444,
+      "Speaker": "T",
+      "Turn": 28444,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks a question to probe the student's strategy, prompting them to share their thinking process."
+    },
+    {
+      "ID": 28445,
+      "Speaker": "T",
+      "Turn": 28445,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 28446,
+      "Speaker": "T",
+      "Turn": 28446,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher directly asks the student to explain their reasoning by saying 'Tell me why'."
+    },
+    {
+      "ID": 28448,
+      "Speaker": "T",
+      "Turn": 28448,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to connect the mathematical term 'obtuse' to the correct answer choice, pressing for a precise mathematical contribution."
+    },
+    {
+      "ID": 28449,
+      "Speaker": "T",
+      "Turn": 28449,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 28450,
+      "Speaker": "T",
+      "Turn": 28450,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 28451,
+      "Speaker": "T",
+      "Turn": 28451,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the answer provided by a group of students."
+    },
+    {
+      "ID": 28452,
+      "Speaker": "T",
+      "Turn": 28452,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher asks another group for their answer, orienting the class to that group's contribution and keeping them engaged in the shared discussion."
+    },
+    {
+      "ID": 28454,
+      "Speaker": "T",
+      "Turn": 28454,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 28455,
+      "Speaker": "T",
+      "Turn": 28455,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

@@ -1,0 +1,186 @@
+{
+  "records": [
+    {
+      "ID": 19991,
+      "Speaker": "T",
+      "Turn": 20,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19992,
+      "Speaker": "T",
+      "Turn": 20,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19993,
+      "Speaker": "T",
+      "Turn": 20,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19995,
+      "Speaker": "T",
+      "Turn": 22,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19996,
+      "Speaker": "T",
+      "Turn": 22,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19997,
+      "Speaker": "T",
+      "Turn": 22,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19998,
+      "Speaker": "T",
+      "Turn": 22,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19999,
+      "Speaker": "T",
+      "Turn": 22,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20001,
+      "Speaker": "T",
+      "Turn": 24,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20003,
+      "Speaker": "T",
+      "Turn": 26,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks the student to state whether the ends of a linear graph go in opposite or the same direction, eliciting a specific mathematical fact."
+    },
+    {
+      "ID": 20005,
+      "Speaker": "T",
+      "Turn": 28,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Restates the student's 'opposite' answer and elaborates by describing the two directions of the line."
+    },
+    {
+      "ID": 20006,
+      "Speaker": "T",
+      "Turn": 28,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Prompts for the mathematical property of a quadratic's end behavior."
+    },
+    {
+      "ID": 20007,
+      "Speaker": "T",
+      "Turn": 28,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20008,
+      "Speaker": "T",
+      "Turn": 28,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20010,
+      "Speaker": "T",
+      "Turn": 30,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20011,
+      "Speaker": "T",
+      "Turn": 30,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20012,
+      "Speaker": "T",
+      "Turn": 30,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20014,
+      "Speaker": "T",
+      "Turn": 32,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20015,
+      "Speaker": "T",
+      "Turn": 32,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks for the degree of the polynomial, eliciting a precise mathematical attribute."
+    },
+    {
+      "ID": 20017,
+      "Speaker": "T",
+      "Turn": 34,
+      "TalkMove": "Restating",
+      "Reasoning": "Repeats the student's answer 'three' verbatim."
+    },
+    {
+      "ID": 20018,
+      "Speaker": "T",
+      "Turn": 34,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks the student to classify the number as odd or even, eliciting a specific fact."
+    },
+    {
+      "ID": 20020,
+      "Speaker": "T",
+      "Turn": 36,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Prompts the student to state whether the ends go in the same or different directions, a specific mathematical property."
+    },
+    {
+      "ID": 20022,
+      "Speaker": "T",
+      "Turn": 38,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Asks how to determine the orientation ('How do I know...'), prompting the student to explain the method/criterion."
+    },
+    {
+      "ID": 20024,
+      "Speaker": "T",
+      "Turn": 40,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Prompts the student to state the sign in this specific case, eliciting a precise value."
+    },
+    {
+      "ID": 20026,
+      "Speaker": "T",
+      "Turn": 42,
+      "TalkMove": "Restating",
+      "Reasoning": "Repeats the student's answer 'positive' verbatim."
+    },
+    {
+      "ID": 20027,
+      "Speaker": "T",
+      "Turn": 42,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Builds on the student's idea about sign by specifying 'the leading coefficient,' refining the mathematical language."
+    }
+  ]
+}

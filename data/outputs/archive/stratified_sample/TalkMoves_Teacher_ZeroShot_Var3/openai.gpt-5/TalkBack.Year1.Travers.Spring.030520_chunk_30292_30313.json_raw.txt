@@ -1,0 +1,102 @@
+{
+  "records": [
+    {
+      "ID": 30292,
+      "Speaker": "T",
+      "Turn": 139,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for a specific quantity ('How many pages'), prompting a mathematical answer."
+    },
+    {
+      "ID": 30293,
+      "Speaker": "T",
+      "Turn": 139,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher focuses students' responses on 'pages,' prompting the correct type of mathematical contribution."
+    },
+    {
+      "ID": 30294,
+      "Speaker": "T",
+      "Turn": 139,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 30295,
+      "Speaker": "T",
+      "Turn": 139,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 30296,
+      "Speaker": "T",
+      "Turn": 139,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 30297,
+      "Speaker": "T",
+      "Turn": 139,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks 'How many go on a page,' eliciting the numerical count per page."
+    },
+    {
+      "ID": 30299,
+      "Speaker": "T",
+      "Turn": 141,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student’s 'Six' and adds context: 'Six cards on a page.'"
+    },
+    {
+      "ID": 30300,
+      "Speaker": "T",
+      "Turn": 141,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher invites the class to participate by counting together ('Count with me')."
+    },
+    {
+      "ID": 30305,
+      "Speaker": "T",
+      "Turn": 145,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher again prompts whole-class participation ('Count with me')."
+    },
+    {
+      "ID": 30306,
+      "Speaker": "T",
+      "Turn": 145,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher restates and modifies the counting sequence, adjusting the numbers to clarify the count."
+    },
+    {
+      "ID": 30307,
+      "Speaker": "T",
+      "Turn": 145,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the key word ('What's the important word'), prompting precise language that affects the math (e.g., 'all')."
+    },
+    {
+      "ID": 30309,
+      "Speaker": "T",
+      "Turn": 147,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 30310,
+      "Speaker": "T",
+      "Turn": 147,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 30312,
+      "Speaker": "T",
+      "Turn": 149,
+      "TalkMove": "None",
+      "Reasoning": null
+    }
+  ]
+}

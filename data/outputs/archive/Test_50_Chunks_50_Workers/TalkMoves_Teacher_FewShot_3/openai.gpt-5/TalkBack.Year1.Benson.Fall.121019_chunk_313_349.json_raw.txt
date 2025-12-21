@@ -1,0 +1,186 @@
+{
+  "records": [
+    {
+      "ID": 313,
+      "Speaker": "T",
+      "Turn": 150,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the product 30×7, prompting a specific mathematical answer."
+    },
+    {
+      "ID": 314,
+      "Speaker": "T",
+      "Turn": 150,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 316,
+      "Speaker": "T",
+      "Turn": 152,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 317,
+      "Speaker": "T",
+      "Turn": 152,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the product 4×10, eliciting a precise computation."
+    },
+    {
+      "ID": 319,
+      "Speaker": "T",
+      "Turn": 154,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 321,
+      "Speaker": "T",
+      "Turn": 156,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "After acknowledging 40, the teacher asks for the exact multiplication expression for the last box."
+    },
+    {
+      "ID": 322,
+      "Speaker": "T",
+      "Turn": 156,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 324,
+      "Speaker": "T",
+      "Turn": 158,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student’s '7 times 4' and adds 'which is' to extend the idea toward a result."
+    },
+    {
+      "ID": 326,
+      "Speaker": "T",
+      "Turn": 160,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 327,
+      "Speaker": "T",
+      "Turn": 160,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 328,
+      "Speaker": "T",
+      "Turn": 160,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 329,
+      "Speaker": "T",
+      "Turn": 160,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher emphasizes correct place-value alignment, prompting procedural precision."
+    },
+    {
+      "ID": 331,
+      "Speaker": "T",
+      "Turn": 162,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher directs students to align ones, tens, and hundreds correctly, emphasizing mathematical precision."
+    },
+    {
+      "ID": 332,
+      "Speaker": "T",
+      "Turn": 162,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 333,
+      "Speaker": "T",
+      "Turn": 162,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher coordinates class participation by asking for a readiness signal (thumbs up)."
+    },
+    {
+      "ID": 334,
+      "Speaker": "T",
+      "Turn": 163,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a student to report their answer."
+    },
+    {
+      "ID": 336,
+      "Speaker": "T",
+      "Turn": 165,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher shares Brant’s answer and asks if anyone got something different, prompting peers to compare their results."
+    },
+    {
+      "ID": 337,
+      "Speaker": "T",
+      "Turn": 165,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks another student to provide their answer."
+    },
+    {
+      "ID": 340,
+      "Speaker": "T",
+      "Turn": 169,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 341,
+      "Speaker": "T",
+      "Turn": 169,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher orients the student to the group’s outcome by noting the class consensus."
+    },
+    {
+      "ID": 343,
+      "Speaker": "T",
+      "Turn": 171,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 344,
+      "Speaker": "T",
+      "Turn": 171,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 345,
+      "Speaker": "T",
+      "Turn": 171,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 346,
+      "Speaker": "T",
+      "Turn": 171,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 347,
+      "Speaker": "T",
+      "Turn": 171,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 348,
+      "Speaker": "T",
+      "Turn": 171,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the value of the indicated digits, prompting a specific mathematical identification."
+    }
+  ]
+}

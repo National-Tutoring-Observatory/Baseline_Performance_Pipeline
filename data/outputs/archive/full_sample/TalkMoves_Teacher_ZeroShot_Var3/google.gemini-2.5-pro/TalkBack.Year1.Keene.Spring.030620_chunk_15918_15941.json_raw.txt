@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 15918,
+      "Speaker": "T",
+      "Turn": 15918,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15919,
+      "Speaker": "T",
+      "Turn": 15919,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to explain the meaning of the word 'show' in the context of the problem, prompting them to share their thinking."
+    },
+    {
+      "ID": 15920,
+      "Speaker": "T",
+      "Turn": 15920,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15922,
+      "Speaker": "T",
+      "Turn": 15922,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases a student's likely suggestion ('draw a picture') into a more formal statement ('You can show with a picture') to confirm and clarify the idea for the class."
+    },
+    {
+      "ID": 15923,
+      "Speaker": "T",
+      "Turn": 15923,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to provide additional mathematical representations beyond just a picture."
+    },
+    {
+      "ID": 15924,
+      "Speaker": "T",
+      "Turn": 15924,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher clarifies a student's suggestion by rephrasing it as a question ('You mean like words?') to confirm their understanding."
+    },
+    {
+      "ID": 15926,
+      "Speaker": "T",
+      "Turn": 15926,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the clarified idea from the previous turn, confirming that 'words' are a valid way to show their work."
+    },
+    {
+      "ID": 15927,
+      "Speaker": "T",
+      "Turn": 15927,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to consider another specific mathematical representation (numbers)."
+    },
+    {
+      "ID": 15929,
+      "Speaker": "T",
+      "Turn": 15929,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats and confirms the idea that numbers can be used as a representation, solidifying it for the class."
+    },
+    {
+      "ID": 15930,
+      "Speaker": "T",
+      "Turn": 15930,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15931,
+      "Speaker": "T",
+      "Turn": 15931,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher explicitly references a student's contribution ('what Rory said') and connects it to the overall task, orienting the class to a peer's idea."
+    },
+    {
+      "ID": 15932,
+      "Speaker": "T",
+      "Turn": 15932,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15933,
+      "Speaker": "T",
+      "Turn": 15933,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to define a key mathematical term, prompting them to explain their understanding."
+    },
+    {
+      "ID": 15934,
+      "Speaker": "T",
+      "Turn": 15934,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15935,
+      "Speaker": "T",
+      "Turn": 15935,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15936,
+      "Speaker": "T",
+      "Turn": 15936,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher repeats the question to the whole group, prompting students to share the reasoning they discussed with their partners."
+    },
+    {
+      "ID": 15938,
+      "Speaker": "T",
+      "Turn": 15938,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher takes a student's likely contribution and rephrases it using more precise mathematical language ('some sort of operation') to define a number model for the class."
+    },
+    {
+      "ID": 15939,
+      "Speaker": "T",
+      "Turn": 15939,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15940,
+      "Speaker": "T",
+      "Turn": 15940,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15941,
+      "Speaker": "T",
+      "Turn": 15941,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

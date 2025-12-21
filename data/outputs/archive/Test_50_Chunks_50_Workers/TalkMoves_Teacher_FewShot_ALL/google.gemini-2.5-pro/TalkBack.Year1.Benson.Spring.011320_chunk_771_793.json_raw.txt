@@ -1,0 +1,116 @@
+{
+  "records": [
+    {
+      "ID": 771,
+      "Turn": 185,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 772,
+      "Turn": 185,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 773,
+      "Turn": 186,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 774,
+      "Turn": 186,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts the student to explain their thinking about what the fraction one-fourth means in the context of the problem."
+    },
+    {
+      "ID": 776,
+      "Turn": 188,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's contribution about the numerator and adds on by explaining the role of the denominator, thus modifying the student's initial idea."
+    },
+    {
+      "ID": 778,
+      "Turn": 190,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's answer 'Four' but adds 'of them' to clarify and make the mathematical contribution more precise."
+    },
+    {
+      "ID": 779,
+      "Turn": 190,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to apply their understanding of the fraction to determine the correct number of pieces to use."
+    },
+    {
+      "ID": 781,
+      "Turn": 192,
+      "Speaker": "T",
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's answer 'Four' word for word."
+    },
+    {
+      "ID": 782,
+      "Turn": 192,
+      "Speaker": "T",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher calls on a specific student to orient her to the teacher's demonstration and the ongoing discussion."
+    },
+    {
+      "ID": 783,
+      "Turn": 192,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts the student to describe the process of building the whole, which requires sharing their thinking about the actions shown."
+    },
+    {
+      "ID": 785,
+      "Turn": 194,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 786,
+      "Turn": 194,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks students to provide the correct mathematical name for the quantity being shown."
+    },
+    {
+      "ID": 787,
+      "Turn": 194,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to state the specific mathematical value of a single piece."
+    },
+    {
+      "ID": 789,
+      "Turn": 196,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 791,
+      "Turn": 198,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to evaluate whether the collection of pieces constitutes a whole, prompting them to apply the definition."
+    },
+    {
+      "ID": 792,
+      "Turn": 198,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students for a specific mathematical answer to the sum of the fractions."
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "records": [
+    {
+      "ID": 28463,
+      "Speaker": "T",
+      "Turn": 110,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to explain their answer to peers by telling them why."
+    },
+    {
+      "ID": 28466,
+      "Speaker": "T",
+      "Turn": 113,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks 'Why,' prompting the student to explain their thinking."
+    },
+    {
+      "ID": 28468,
+      "Speaker": "T",
+      "Turn": 115,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks 'How do you know,' eliciting justification or evidence."
+    },
+    {
+      "ID": 28470,
+      "Speaker": "T",
+      "Turn": 117,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Repeats 'How do you know' to prompt further explanation of the student's idea."
+    },
+    {
+      "ID": 28473,
+      "Speaker": "T",
+      "Turn": 119,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher paraphrases and clarifies the student's incomplete statement about a 90-degree/right angle."
+    },
+    {
+      "ID": 28475,
+      "Speaker": "T",
+      "Turn": 121
+    },
+    {
+      "ID": 28476,
+      "Speaker": "T",
+      "Turn": 121
+    },
+    {
+      "ID": 28477,
+      "Speaker": "T",
+      "Turn": 121
+    },
+    {
+      "ID": 28478,
+      "Speaker": "T",
+      "Turn": 121,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher summarizes the group's conclusion in their own words ('you guys say acute')."
+    },
+    {
+      "ID": 28480,
+      "Speaker": "T",
+      "Turn": 123,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher restates the idea succinctly using the mathematical term 'acute.'"
+    },
+    {
+      "ID": 28481,
+      "Speaker": "T",
+      "Turn": 124
+    },
+    {
+      "ID": 28482,
+      "Speaker": "T",
+      "Turn": 124
+    },
+    {
+      "ID": 28483,
+      "Speaker": "T",
+      "Turn": 124
+    }
+  ]
+}

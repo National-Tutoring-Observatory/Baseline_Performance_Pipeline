@@ -1,0 +1,256 @@
+{
+  "records": [
+    {
+      "ID": 1232,
+      "Speaker": "T",
+      "Turn": 102,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1233,
+      "Speaker": "T",
+      "Turn": 102,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1235,
+      "Speaker": "T",
+      "Turn": 104,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1236,
+      "Speaker": "T",
+      "Turn": 104,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Checks that everyone understands before moving on, orienting the class to stay together."
+    },
+    {
+      "ID": 1238,
+      "Speaker": "T",
+      "Turn": 106,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1239,
+      "Speaker": "T",
+      "Turn": 106,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1241,
+      "Speaker": "T",
+      "Turn": 108,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1242,
+      "Speaker": "T",
+      "Turn": 108,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Invites a student to read aloud to the class, orienting peers to attend."
+    },
+    {
+      "ID": 1243,
+      "Speaker": "T",
+      "Turn": 108,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1247,
+      "Speaker": "T",
+      "Turn": 110,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1248,
+      "Speaker": "T",
+      "Turn": 110,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks for the specific quantity Charice ran."
+    },
+    {
+      "ID": 1250,
+      "Speaker": "T",
+      "Turn": 112,
+      "TalkMove": "Restating",
+      "Reasoning": "Repeats the student's answer '7/8' to confirm."
+    },
+    {
+      "ID": 1251,
+      "Speaker": "T",
+      "Turn": 112,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Restates the '7/8' by embedding it in a complete mathematical statement about Charice's distance."
+    },
+    {
+      "ID": 1252,
+      "Speaker": "T",
+      "Turn": 112,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks students to identify the unknown quantity in the problem."
+    },
+    {
+      "ID": 1253,
+      "Speaker": "T",
+      "Turn": 112,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1255,
+      "Speaker": "T",
+      "Turn": 114,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Prompts students to explain how to determine Ally's distance."
+    },
+    {
+      "ID": 1256,
+      "Speaker": "T",
+      "Turn": 114,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Requests relevant given information to justify the approach."
+    },
+    {
+      "ID": 1259,
+      "Speaker": "T",
+      "Turn": 116,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Directs all students to read carefully, prompting collective attention."
+    },
+    {
+      "ID": 1260,
+      "Speaker": "T",
+      "Turn": 116,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Focuses students on the precise phrase 'she ran 3/8,' emphasizing exact mathematical detail."
+    },
+    {
+      "ID": 1262,
+      "Speaker": "T",
+      "Turn": 118,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Summarizes known information to align the class before proceeding."
+    },
+    {
+      "ID": 1263,
+      "Speaker": "T",
+      "Turn": 118,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks students to choose the correct operation."
+    },
+    {
+      "ID": 1266,
+      "Speaker": "T",
+      "Turn": 121,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1268,
+      "Speaker": "T",
+      "Turn": 123,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Asks Eric to justify why addition is appropriate."
+    },
+    {
+      "ID": 1270,
+      "Speaker": "T",
+      "Turn": 125,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1271,
+      "Speaker": "T",
+      "Turn": 125,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1272,
+      "Speaker": "T",
+      "Turn": 125,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Paraphrases and builds on Eric's and others' idea about adding, confirming and elaborating."
+    },
+    {
+      "ID": 1273,
+      "Speaker": "T",
+      "Turn": 125,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks for the unit or whole being measured."
+    },
+    {
+      "ID": 1275,
+      "Speaker": "T",
+      "Turn": 127,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1277,
+      "Speaker": "T",
+      "Turn": 129,
+      "TalkMove": "Restating",
+      "Reasoning": "Repeats the student's answer 'Miles' to confirm."
+    },
+    {
+      "ID": 1278,
+      "Speaker": "T",
+      "Turn": 129,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Refines the student's 'Miles' to 'A mile,' clarifying the unit."
+    },
+    {
+      "ID": 1279,
+      "Speaker": "T",
+      "Turn": 129,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Builds on the student's idea to specify that one mile is the whole."
+    },
+    {
+      "ID": 1280,
+      "Speaker": "T",
+      "Turn": 129,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Extends the idea by explaining that the mile is partitioned into parts."
+    },
+    {
+      "ID": 1281,
+      "Speaker": "T",
+      "Turn": 129,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Checks readiness to proceed without additional teacher modeling, orienting class workflow."
+    },
+    {
+      "ID": 1284,
+      "Speaker": "T",
+      "Turn": 131,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1285,
+      "Speaker": "T",
+      "Turn": 131,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1286,
+      "Speaker": "T",
+      "Turn": 131,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Orients students to the plan to reconvene and discuss, promoting collective engagement."
+    }
+  ]
+}

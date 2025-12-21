@@ -1,0 +1,118 @@
+{
+  "labels": [
+    {
+      "ID": 92,
+      "Turn": 48,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 94,
+      "Turn": 50,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher paraphrases the student’s experience (a pattern caused confusion) to check understanding."
+    },
+    {
+      "ID": 96,
+      "Turn": 52,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 97,
+      "Turn": 52,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 98,
+      "Turn": 52,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 99,
+      "Turn": 52,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 100,
+      "Turn": 52,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 101,
+      "Turn": 53,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Asks students to compare the current problem to prior work, prompting an explanation of how it’s different."
+    },
+    {
+      "ID": 102,
+      "Turn": 53,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Invites a specific student to explain what is different about the problem."
+    },
+    {
+      "ID": 103,
+      "Turn": 53,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 104,
+      "Turn": 53,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Clarifies what is not different and asks for what is, eliciting reasoning about the new aspect."
+    },
+    {
+      "ID": 106,
+      "Turn": 55,
+      "TalkMove": "Restating",
+      "Reasoning": "Repeats the student’s contribution verbatim about two-digit by two-digit multiplication."
+    },
+    {
+      "ID": 107,
+      "Turn": 55,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Prompts students to specify the mathematical work they had been doing."
+    },
+    {
+      "ID": 108,
+      "Turn": 56,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 109,
+      "Turn": 56,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 110,
+      "Turn": 56,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 111,
+      "Turn": 57,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 112,
+      "Turn": 58,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 113,
+      "Turn": 59,
+      "TalkMove": "None",
+      "Reasoning": null
+    }
+  ]
+}

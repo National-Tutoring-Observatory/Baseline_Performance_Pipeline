@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 990,
+      "Speaker": "T",
+      "Turn": 990,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 991,
+      "Speaker": "T",
+      "Turn": 991,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 992,
+      "Speaker": "T",
+      "Turn": 992,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 993,
+      "Speaker": "T",
+      "Turn": 993,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher highlights a specific student's contribution ('Ross you had an awesome question') to orient the rest of the class to it."
+    },
+    {
+      "ID": 994,
+      "Speaker": "T",
+      "Turn": 994,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher prompts the student to repeat what they asked, effectively setting up a restatement of the student's idea for the class."
+    },
+    {
+      "ID": 995,
+      "Speaker": "T",
+      "Turn": 995,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats what Ross asked ('do I need to figure out what three pieces go on here') to clarify the question for the whole group."
+    },
+    {
+      "ID": 996,
+      "Speaker": "T",
+      "Turn": 996,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a specific mathematical question ('What three pieces would fit on a pink') prompting students to identify the correct shapes."
+    },
+    {
+      "ID": 997,
+      "Speaker": "T",
+      "Turn": 997,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher calls on a specific student ('Luke') to bring them into the conversation."
+    },
+    {
+      "ID": 999,
+      "Speaker": "T",
+      "Turn": 999,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 1000,
+      "Speaker": "T",
+      "Turn": 1000,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 1002,
+      "Speaker": "T",
+      "Turn": 1002,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks 'Does that work', prompting the student to evaluate the validity of the proposed solution."
+    },
+    {
+      "ID": 1003,
+      "Speaker": "T",
+      "Turn": 1003,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a calculation/procedural question ('how many more of those light blues do I need') to get a specific mathematical answer."
+    },
+    {
+      "ID": 1005,
+      "Speaker": "T",
+      "Turn": 1005,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to check their available manipulatives/shapes ('do I have anything thats that shape')."
+    },
+    {
+      "ID": 1007,
+      "Speaker": "T",
+      "Turn": 1007,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a specific verification question about the pieces ('Do I have one pink and one light blue')."
+    },
+    {
+      "ID": 1009,
+      "Speaker": "T",
+      "Turn": 1009,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 1010,
+      "Speaker": "T",
+      "Turn": 1010,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 1011,
+      "Speaker": "T",
+      "Turn": 1011,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 1013,
+      "Speaker": "T",
+      "Turn": 1013,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 1014,
+      "Speaker": "T",
+      "Turn": 1014,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 1015,
+      "Speaker": "T",
+      "Turn": 1015,
+      "TalkMove": "None",
+      "Reasoning": null
+    }
+  ]
+}

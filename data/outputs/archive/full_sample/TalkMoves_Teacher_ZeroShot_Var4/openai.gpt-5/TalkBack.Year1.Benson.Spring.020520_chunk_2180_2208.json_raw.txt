@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 2180,
+      "Speaker": "T",
+      "Turn": 2180,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2181,
+      "Speaker": "T",
+      "Turn": 2181,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher requests a computation (66 × 8), prompting a precise mathematical answer."
+    },
+    {
+      "ID": 2183,
+      "Speaker": "T",
+      "Turn": 2183,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the numerical result (“How much”), seeking a specific value."
+    },
+    {
+      "ID": 2185,
+      "Speaker": "T",
+      "Turn": 2185,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2186,
+      "Speaker": "T",
+      "Turn": 2186,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student’s answer (“528”) verbatim for the class."
+    },
+    {
+      "ID": 2187,
+      "Speaker": "T",
+      "Turn": 2187,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2188,
+      "Speaker": "T",
+      "Turn": 2188,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2189,
+      "Speaker": "T",
+      "Turn": 2189,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to identify the first step, prompting them to articulate their problem-solving plan."
+    },
+    {
+      "ID": 2190,
+      "Speaker": "T",
+      "Turn": 2190,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks what to do to find the answer, eliciting students’ strategy and approach."
+    },
+    {
+      "ID": 2191,
+      "Speaker": "T",
+      "Turn": 2191,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2192,
+      "Speaker": "T",
+      "Turn": 2192,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks how to find the total cost/difference, prompting students to explain their method."
+    },
+    {
+      "ID": 2194,
+      "Speaker": "T",
+      "Turn": 2194,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher seeks the starting point for the calculation, inviting students to share their plan."
+    },
+    {
+      "ID": 2196,
+      "Speaker": "T",
+      "Turn": 2196,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2198,
+      "Speaker": "T",
+      "Turn": 2198,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2199,
+      "Speaker": "T",
+      "Turn": 2199,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2201,
+      "Speaker": "T",
+      "Turn": 2201,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the exact difference (“How much more will it cost”), seeking a specific numerical answer."
+    },
+    {
+      "ID": 2202,
+      "Speaker": "T",
+      "Turn": 2202,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2204,
+      "Speaker": "T",
+      "Turn": 2204,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2206,
+      "Speaker": "T",
+      "Turn": 2206,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2208,
+      "Speaker": "T",
+      "Turn": 2208,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher restates and elaborates the student’s answer by contextualizing the number (“326 more to hire the tumblers than the singers”)."
+    }
+  ]
+}

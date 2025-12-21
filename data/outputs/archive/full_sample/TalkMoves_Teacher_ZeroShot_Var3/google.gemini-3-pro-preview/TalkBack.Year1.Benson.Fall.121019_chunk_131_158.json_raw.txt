@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 131,
+      "Speaker": "T",
+      "Turn": 131,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 132,
+      "Speaker": "T",
+      "Turn": 132,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to explain their process ('talk us through what you did'), which prompts the student to share their thinking."
+    },
+    {
+      "ID": 135,
+      "Speaker": "T",
+      "Turn": 135,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 136,
+      "Speaker": "T",
+      "Turn": 136,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 137,
+      "Speaker": "T",
+      "Turn": 137,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher is prompting the student to notice a specific mathematical outcome ('your answer will change a little bit') related to a correction."
+    },
+    {
+      "ID": 138,
+      "Speaker": "T",
+      "Turn": 138,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 141,
+      "Speaker": "T",
+      "Turn": 141,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher asks the class to react to a specific student's work ('Any disagreements with how Carson set up her partition rectangle')."
+    },
+    {
+      "ID": 142,
+      "Speaker": "T",
+      "Turn": 142,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher calls on a specific student ('Jesse') to ensure they are participating or to solicit their input in the group discussion."
+    },
+    {
+      "ID": 144,
+      "Speaker": "T",
+      "Turn": 144,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 145,
+      "Speaker": "T",
+      "Turn": 145,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks a student to compare their method to another ('What did you do differently'), prompting an explanation of their specific approach."
+    },
+    {
+      "ID": 147,
+      "Speaker": "T",
+      "Turn": 147,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a specific question about a calculation error ('Did you forget to add 2 zeros'), prompting the student to correct their math."
+    },
+    {
+      "ID": 149,
+      "Speaker": "T",
+      "Turn": 149,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to identify where a correction needs to be made in their work."
+    },
+    {
+      "ID": 150,
+      "Speaker": "T",
+      "Turn": 150,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 151,
+      "Speaker": "T",
+      "Turn": 151,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher asks if anyone has a 'different response' to the previous student's work, prompting comparison and reaction."
+    },
+    {
+      "ID": 152,
+      "Speaker": "T",
+      "Turn": 152,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks for alternative methods ('Anyone do it differently'), prompting students to share different strategies or thinking."
+    },
+    {
+      "ID": 153,
+      "Speaker": "T",
+      "Turn": 153,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 154,
+      "Speaker": "T",
+      "Turn": 154,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 156,
+      "Speaker": "T",
+      "Turn": 156,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 157,
+      "Speaker": "T",
+      "Turn": 157,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 158,
+      "Speaker": "T",
+      "Turn": 158,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher is checking for students who successfully completed a specific mathematical procedure ('partial product way')."
+    }
+  ]
+}

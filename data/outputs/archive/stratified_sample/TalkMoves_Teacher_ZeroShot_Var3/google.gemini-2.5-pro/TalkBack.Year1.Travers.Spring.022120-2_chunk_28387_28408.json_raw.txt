@@ -1,0 +1,102 @@
+{
+  "records": [
+    {
+      "ID": 28389,
+      "Turn": 75,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases the student's idea about cutting a half turn in half into more precise mathematical language."
+    },
+    {
+      "ID": 28391,
+      "Turn": 77,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher adds on to the student's idea by providing an equivalent mathematical statement, further clarifying the concept."
+    },
+    {
+      "ID": 28393,
+      "Turn": 79,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to apply the mathematical concept to the specific problem and state the result accurately."
+    },
+    {
+      "ID": 28396,
+      "Turn": 81,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher verbalizes the student's non-verbal response, clarifying the student's demonstrated idea."
+    },
+    {
+      "ID": 28398,
+      "Turn": 83,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases the student's proposed outcome into a clear statement for the class to consider."
+    },
+    {
+      "ID": 28399,
+      "Turn": 83,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher asks for confirmation that their rephrasing of the student's idea is correct."
+    },
+    {
+      "ID": 28400,
+      "Turn": 83,
+      "Speaker": "T",
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 28401,
+      "Turn": 83,
+      "Speaker": "T",
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher explicitly asks other students to state their position (agree/disagree) on the idea that has been presented."
+    },
+    {
+      "ID": 28403,
+      "Turn": 85,
+      "Speaker": "T",
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 28404,
+      "Turn": 85,
+      "Speaker": "T",
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 28405,
+      "Turn": 85,
+      "Speaker": "T",
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 28406,
+      "Turn": 85,
+      "Speaker": "T",
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 28407,
+      "Turn": 85,
+      "Speaker": "T",
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 28408,
+      "Turn": 85,
+      "Speaker": "T",
+      "TalkMove": "None",
+      "Reasoning": null
+    }
+  ]
+}

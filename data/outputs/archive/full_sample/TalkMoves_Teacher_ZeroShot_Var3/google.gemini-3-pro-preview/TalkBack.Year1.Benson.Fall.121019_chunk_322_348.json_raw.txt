@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 322,
+      "Speaker": "T",
+      "Turn": 322,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher calls on a specific student (Josh) to answer, bringing the group's attention to him."
+    },
+    {
+      "ID": 324,
+      "Speaker": "T",
+      "Turn": 324,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to complete the calculation '7 times 4 which is', seeking a specific mathematical answer."
+    },
+    {
+      "ID": 326,
+      "Speaker": "T",
+      "Turn": 326,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 327,
+      "Speaker": "T",
+      "Turn": 327,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 328,
+      "Speaker": "T",
+      "Turn": 328,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 329,
+      "Speaker": "T",
+      "Turn": 329,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks a question about the procedure ('Is this going to be really important...'), prompting students to think about the 'why' or the importance of the step, though it functions rhetorically here."
+    },
+    {
+      "ID": 331,
+      "Speaker": "T",
+      "Turn": 331,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 332,
+      "Speaker": "T",
+      "Turn": 332,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher instructs students to 'solve that', prompting them to perform the calculation."
+    },
+    {
+      "ID": 333,
+      "Speaker": "T",
+      "Turn": 333,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher uses a check-in mechanism ('Thumbs up when you have the...') to monitor the whole class's progress."
+    },
+    {
+      "ID": 334,
+      "Speaker": "T",
+      "Turn": 334,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a specific student for their result ('what did you get')."
+    },
+    {
+      "ID": 336,
+      "Speaker": "T",
+      "Turn": 336,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher asks 'anyone get something different', prompting the class to compare their own answers to the one just stated."
+    },
+    {
+      "ID": 337,
+      "Speaker": "T",
+      "Turn": 337,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks another student for their specific answer."
+    },
+    {
+      "ID": 340,
+      "Speaker": "T",
+      "Turn": 340,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher is checking if the student has identified their error or result."
+    },
+    {
+      "ID": 341,
+      "Speaker": "T",
+      "Turn": 341,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher confirms the consensus answer ('Everyone else got 578'), orienting the class to the correct result."
+    },
+    {
+      "ID": 343,
+      "Speaker": "T",
+      "Turn": 343,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 344,
+      "Speaker": "T",
+      "Turn": 344,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 345,
+      "Speaker": "T",
+      "Turn": 345,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 346,
+      "Speaker": "T",
+      "Turn": 346,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 347,
+      "Speaker": "T",
+      "Turn": 347,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 348,
+      "Speaker": "T",
+      "Turn": 348,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for a specific mathematical value ('What is the value of these three right here')."
+    }
+  ]
+}

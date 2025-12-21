@@ -1,0 +1,109 @@
+{
+  "records": [
+    {
+      "ID": 21721,
+      "Speaker": "T",
+      "Turn": 25,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "By saying “so we end up with x equals,” the teacher prompts students to state the precise value of x."
+    },
+    {
+      "ID": 21724,
+      "Speaker": "T",
+      "Turn": 28,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student’s answer (“Three”) and adds that it is the solution, reframing the contribution."
+    },
+    {
+      "ID": 21725,
+      "Speaker": "T",
+      "Turn": 28,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the next mathematical step, prompting a specific procedural contribution."
+    },
+    {
+      "ID": 21727,
+      "Speaker": "T",
+      "Turn": 30,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21730,
+      "Speaker": "T",
+      "Turn": 33,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21731,
+      "Speaker": "T",
+      "Turn": 33,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21733,
+      "Speaker": "T",
+      "Turn": 35,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher reframes the student’s suggestion to substitute back as “check our answer,” adding clarifying language."
+    },
+    {
+      "ID": 21734,
+      "Speaker": "T",
+      "Turn": 35,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "By introducing the question “does it hold true,” the teacher prompts students to consider evidence for the solution."
+    },
+    {
+      "ID": 21735,
+      "Speaker": "T",
+      "Turn": 35,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks whether the computed left-hand side equals 4, pressing for a correct verification."
+    },
+    {
+      "ID": 21736,
+      "Speaker": "T",
+      "Turn": 35,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21737,
+      "Speaker": "T",
+      "Turn": 35,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21738,
+      "Speaker": "T",
+      "Turn": 35,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21739,
+      "Speaker": "T",
+      "Turn": 35,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the first step, prompting a specific mathematical action."
+    },
+    {
+      "ID": 21740,
+      "Speaker": "T",
+      "Turn": 35,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21741,
+      "Speaker": "T",
+      "Turn": 35,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a student to name step one, eliciting a precise procedural statement."
+    }
+  ]
+}

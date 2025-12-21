@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 517,
+      "Speaker": "T",
+      "Turn": 517,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 518,
+      "Speaker": "T",
+      "Turn": 518,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 519,
+      "Speaker": "T",
+      "Turn": 519,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 520,
+      "Speaker": "T",
+      "Turn": 520,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 521,
+      "Speaker": "T",
+      "Turn": 521,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's mathematical process ('top number and bottom number times 2') but rephrases it slightly to summarize the method used."
+    },
+    {
+      "ID": 522,
+      "Speaker": "T",
+      "Turn": 522,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 523,
+      "Speaker": "T",
+      "Turn": 523,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for a specific mathematical answer or contribution ('Anyone do 8/10')."
+    },
+    {
+      "ID": 524,
+      "Speaker": "T",
+      "Turn": 524,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher calls on a specific student ('Caleb talk to me') to bring their attention to the discussion."
+    },
+    {
+      "ID": 526,
+      "Speaker": "T",
+      "Turn": 526,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to clarify exactly what they did mathematically."
+    },
+    {
+      "ID": 529,
+      "Speaker": "T",
+      "Turn": 529,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats what the student likely just said ('You were doing the one below') to confirm understanding."
+    },
+    {
+      "ID": 531,
+      "Speaker": "T",
+      "Turn": 531,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to explain the process behind their answer ('tell me how you got that')."
+    },
+    {
+      "ID": 535,
+      "Speaker": "T",
+      "Turn": 535,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher explicitly prompts the student to provide an explanation ('Explain that one')."
+    },
+    {
+      "ID": 537,
+      "Speaker": "T",
+      "Turn": 537,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 538,
+      "Speaker": "T",
+      "Turn": 538,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a student if they completed a specific problem ('did you do 6/8')."
+    },
+    {
+      "ID": 541,
+      "Speaker": "T",
+      "Turn": 541,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to explain their work ('Explain please')."
+    },
+    {
+      "ID": 543,
+      "Speaker": "T",
+      "Turn": 543,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student for specific mathematical vocabulary ('What is that called...')."
+    },
+    {
+      "ID": 545,
+      "Speaker": "T",
+      "Turn": 545,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to complete the sentence with the correct mathematical term."
+    },
+    {
+      "ID": 547,
+      "Speaker": "T",
+      "Turn": 547,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 548,
+      "Speaker": "T",
+      "Turn": 548,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the specific mathematical term ('What are those called')."
+    },
+    {
+      "ID": 549,
+      "Speaker": "T",
+      "Turn": 549,
+      "TalkMove": "None",
+      "Reasoning": null
+    }
+  ]
+}

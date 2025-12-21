@@ -1,0 +1,95 @@
+{
+  "records": [
+    {
+      "ID": 4735,
+      "Speaker": "T",
+      "Turn": 50,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4736,
+      "Speaker": "T",
+      "Turn": 50,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the specific amount of spinach, prompting a precise mathematical answer."
+    },
+    {
+      "ID": 4737,
+      "Speaker": "T",
+      "Turn": 51,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher requests a number model and an answer, prompting use of mathematical representation and language."
+    },
+    {
+      "ID": 4738,
+      "Speaker": "T",
+      "Turn": 51,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher directs students to talk with a partner, orienting them to each other and promoting active listening."
+    },
+    {
+      "ID": 4739,
+      "Speaker": "T",
+      "Turn": 51,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks which operation to use and what words in the problem provide hints, prompting justification from the text."
+    },
+    {
+      "ID": 4748,
+      "Speaker": "T",
+      "Turn": 58,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4749,
+      "Speaker": "T",
+      "Turn": 58,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4750,
+      "Speaker": "T",
+      "Turn": 59,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to specify which operation, eliciting a mathematical choice."
+    },
+    {
+      "ID": 4751,
+      "Speaker": "T",
+      "Turn": 59,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks students to identify the appropriate operation from mathematical options."
+    },
+    {
+      "ID": 4753,
+      "Speaker": "T",
+      "Turn": 60,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4754,
+      "Speaker": "T",
+      "Turn": 60,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's contribution by restating the word 'subtraction.'"
+    },
+    {
+      "ID": 4755,
+      "Speaker": "T",
+      "Turn": 60,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "After a student suggests subtraction, the teacher invites others to respond to that idea."
+    },
+    {
+      "ID": 4756,
+      "Speaker": "T",
+      "Turn": 60,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

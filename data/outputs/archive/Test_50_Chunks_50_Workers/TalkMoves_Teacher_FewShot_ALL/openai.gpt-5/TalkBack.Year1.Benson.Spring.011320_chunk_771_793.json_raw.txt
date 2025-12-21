@@ -1,0 +1,116 @@
+{
+  "records": [
+    {
+      "ID": 771,
+      "Speaker": "T",
+      "Turn": 185,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 772,
+      "Speaker": "T",
+      "Turn": 185,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 773,
+      "Speaker": "T",
+      "Turn": 186,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 774,
+      "Speaker": "T",
+      "Turn": 186,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "She asks for how many parts are needed to make the whole, prompting a specific mathematical quantity."
+    },
+    {
+      "ID": 776,
+      "Speaker": "T",
+      "Turn": 188,
+      "TalkMove": "Revoicing",
+      "Reasoning": "She echoes the student’s idea that the numerator is one and adds an explanation about the denominator."
+    },
+    {
+      "ID": 778,
+      "Speaker": "T",
+      "Turn": 190,
+      "TalkMove": "Revoicing",
+      "Reasoning": "She repeats the student’s 'Four' with slightly altered wording to confirm the idea."
+    },
+    {
+      "ID": 779,
+      "Speaker": "T",
+      "Turn": 190,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "She asks for the exact count of light green pieces to take out."
+    },
+    {
+      "ID": 781,
+      "Speaker": "T",
+      "Turn": 192,
+      "TalkMove": "Restating",
+      "Reasoning": "She repeats the student’s answer 'Four' word for word."
+    },
+    {
+      "ID": 782,
+      "Speaker": "T",
+      "Turn": 192,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "She asks the student to explain what was just shown."
+    },
+    {
+      "ID": 783,
+      "Speaker": "T",
+      "Turn": 192,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "She asks what was added together, prompting precise identification of quantities."
+    },
+    {
+      "ID": 785,
+      "Speaker": "T",
+      "Turn": 194,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 786,
+      "Speaker": "T",
+      "Turn": 194,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "She prompts students to name the fraction (three-fourths)."
+    },
+    {
+      "ID": 787,
+      "Speaker": "T",
+      "Turn": 194,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "She asks for the value of the next piece."
+    },
+    {
+      "ID": 789,
+      "Speaker": "T",
+      "Turn": 196,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "She prompts completion of an addition expression using unit fractions."
+    },
+    {
+      "ID": 791,
+      "Speaker": "T",
+      "Turn": 198,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "She asks whether the set forms a whole, inviting evaluation of the representation."
+    },
+    {
+      "ID": 792,
+      "Speaker": "T",
+      "Turn": 198,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "She asks for the exact value of the sum."
+    }
+  ]
+}

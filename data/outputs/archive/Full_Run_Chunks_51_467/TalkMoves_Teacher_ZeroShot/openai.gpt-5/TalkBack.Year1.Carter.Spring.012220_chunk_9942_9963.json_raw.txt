@@ -1,0 +1,130 @@
+{
+  "records": [
+    {
+      "ID": 9943,
+      "Speaker": "T",
+      "Turn": 146,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9944,
+      "Speaker": "T",
+      "Turn": 146,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the use of a specific mathematical method (division) to approach the problem."
+    },
+    {
+      "ID": 9946,
+      "Speaker": "T",
+      "Turn": 148,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9947,
+      "Speaker": "T",
+      "Turn": 148,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks a student who used division to explain their thinking."
+    },
+    {
+      "ID": 9949,
+      "Speaker": "T",
+      "Turn": 150,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9950,
+      "Speaker": "T",
+      "Turn": 150,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher restates the previously obtained result to connect to the next step."
+    },
+    {
+      "ID": 9951,
+      "Speaker": "T",
+      "Turn": 150,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher revoices the known result (one-tenth of 50 is five) to frame the subsequent question."
+    },
+    {
+      "ID": 9952,
+      "Speaker": "T",
+      "Turn": 150,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the specific value of seven-tenths, prompting a mathematical answer."
+    },
+    {
+      "ID": 9953,
+      "Speaker": "T",
+      "Turn": 150,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9954,
+      "Speaker": "T",
+      "Turn": 150,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts students to justify why the answer is 35 with a partner."
+    },
+    {
+      "ID": 9955,
+      "Speaker": "T",
+      "Turn": 151,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9956,
+      "Speaker": "T",
+      "Turn": 151,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9957,
+      "Speaker": "T",
+      "Turn": 151,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9959,
+      "Speaker": "T",
+      "Turn": 153,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9960,
+      "Speaker": "T",
+      "Turn": 153,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9961,
+      "Speaker": "T",
+      "Turn": 153,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to articulate the procedure, prompting explanation of their thinking."
+    },
+    {
+      "ID": 9962,
+      "Speaker": "T",
+      "Turn": 153,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks for the general process to find 7/10 of 50 directly, eliciting justification."
+    },
+    {
+      "ID": 9963,
+      "Speaker": "T",
+      "Turn": 153,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

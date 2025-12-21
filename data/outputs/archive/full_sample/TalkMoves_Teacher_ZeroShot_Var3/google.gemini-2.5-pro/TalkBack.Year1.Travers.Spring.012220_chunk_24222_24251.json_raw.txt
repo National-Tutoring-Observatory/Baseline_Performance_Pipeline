@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 24222,
+      "Speaker": "T",
+      "Turn": 24222,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24223,
+      "Speaker": "T",
+      "Turn": 24223,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24224,
+      "Speaker": "T",
+      "Turn": 24224,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24226,
+      "Speaker": "T",
+      "Turn": 24226,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24231,
+      "Speaker": "T",
+      "Turn": 24231,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24234,
+      "Speaker": "T",
+      "Turn": 24234,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's likely statement ('I don't remember') but changes the wording by shifting the pronoun ('You don't remember')."
+    },
+    {
+      "ID": 24236,
+      "Speaker": "T",
+      "Turn": 24236,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to use a specific mathematical procedure ('find the unit fraction first') to guide them toward a correct solution path."
+    },
+    {
+      "ID": 24237,
+      "Speaker": "T",
+      "Turn": 24237,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher models the precise mathematical question the student should be asking to solve the problem."
+    },
+    {
+      "ID": 24238,
+      "Speaker": "T",
+      "Turn": 24238,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24239,
+      "Speaker": "T",
+      "Turn": 24239,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24240,
+      "Speaker": "T",
+      "Turn": 24240,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24241,
+      "Speaker": "T",
+      "Turn": 24241,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24243,
+      "Speaker": "T",
+      "Turn": 24243,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24244,
+      "Speaker": "T",
+      "Turn": 24244,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher directs the student to perform a specific and correct mathematical step to solve the problem."
+    },
+    {
+      "ID": 24245,
+      "Speaker": "T",
+      "Turn": 24245,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24246,
+      "Speaker": "T",
+      "Turn": 24246,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24247,
+      "Speaker": "T",
+      "Turn": 24247,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24248,
+      "Speaker": "T",
+      "Turn": 24248,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to explain the process or thinking that led to their answer."
+    },
+    {
+      "ID": 24249,
+      "Speaker": "T",
+      "Turn": 24249,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24251,
+      "Speaker": "T",
+      "Turn": 24251,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

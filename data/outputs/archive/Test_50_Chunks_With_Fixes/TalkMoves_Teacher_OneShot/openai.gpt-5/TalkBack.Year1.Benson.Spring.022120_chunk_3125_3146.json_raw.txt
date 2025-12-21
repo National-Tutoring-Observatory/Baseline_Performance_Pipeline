@@ -1,0 +1,116 @@
+{
+  "records": [
+    {
+      "ID": 3125,
+      "Speaker": "T",
+      "Turn": 136,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher proposes an interpretation of the student’s reference and checks if that’s what the student meant."
+    },
+    {
+      "ID": 3127,
+      "Speaker": "T",
+      "Turn": 138,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher restates the likely problem the student is referring to, reframing the context to confirm understanding."
+    },
+    {
+      "ID": 3129,
+      "Speaker": "T",
+      "Turn": 140,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3130,
+      "Speaker": "T",
+      "Turn": 140,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3132,
+      "Speaker": "T",
+      "Turn": 142,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher orients the class to a shared action (redrawing) to focus collective attention on the representation."
+    },
+    {
+      "ID": 3133,
+      "Speaker": "T",
+      "Turn": 143,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher prompts the class to attend to the work by directing them to look at the representation."
+    },
+    {
+      "ID": 3134,
+      "Speaker": "T",
+      "Turn": 143,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3135,
+      "Speaker": "T",
+      "Turn": 143,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher restates the student’s question in new words to confirm the specific calculation being asked about."
+    },
+    {
+      "ID": 3138,
+      "Speaker": "T",
+      "Turn": 145,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks for the rationale behind choosing 100, prompting the student to explain their thinking."
+    },
+    {
+      "ID": 3140,
+      "Speaker": "T",
+      "Turn": 147,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher invites the class to collectively evaluate the proposed approach, focusing their attention on the next step."
+    },
+    {
+      "ID": 3141,
+      "Speaker": "T",
+      "Turn": 148,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3142,
+      "Speaker": "T",
+      "Turn": 148,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3143,
+      "Speaker": "T",
+      "Turn": 148,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3144,
+      "Speaker": "T",
+      "Turn": 148,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3145,
+      "Speaker": "T",
+      "Turn": 148,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3146,
+      "Speaker": "T",
+      "Turn": 148,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

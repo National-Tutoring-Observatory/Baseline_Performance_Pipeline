@@ -1,0 +1,116 @@
+{
+  "records": [
+    {
+      "ID": 771,
+      "Speaker": "T",
+      "Turn": 185,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 772,
+      "Speaker": "T",
+      "Turn": 185,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks Josh to state exactly what problem #2 says, soliciting the precise wording."
+    },
+    {
+      "ID": 773,
+      "Speaker": "T",
+      "Turn": 186,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks for the whole when one-fourth is known, seeking the correct mathematical answer."
+    },
+    {
+      "ID": 774,
+      "Speaker": "T",
+      "Turn": 186,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks Aaron to supply the total number of parts needed to make a whole, focusing on the correct number."
+    },
+    {
+      "ID": 776,
+      "Speaker": "T",
+      "Turn": 188,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher repeats the student's 'one' and expands by explaining what the denominator tells."
+    },
+    {
+      "ID": 778,
+      "Speaker": "T",
+      "Turn": 190,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher echoes the student’s answer 'Four' with slight elaboration ('of them')."
+    },
+    {
+      "ID": 779,
+      "Speaker": "T",
+      "Turn": 190,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks for the exact number of light green pieces needed."
+    },
+    {
+      "ID": 781,
+      "Speaker": "T",
+      "Turn": 192,
+      "TalkMove": "Restating",
+      "Reasoning": "Teacher repeats the student’s answer 'Four' verbatim."
+    },
+    {
+      "ID": 782,
+      "Speaker": "T",
+      "Turn": 192,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher asks Sophie to explain what was just demonstrated, prompting her to describe the representation."
+    },
+    {
+      "ID": 783,
+      "Speaker": "T",
+      "Turn": 192,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks what was added together, requesting specific fraction parts."
+    },
+    {
+      "ID": 785,
+      "Speaker": "T",
+      "Turn": 194,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 786,
+      "Speaker": "T",
+      "Turn": 194,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks students to name the value represented (three-fourths)."
+    },
+    {
+      "ID": 787,
+      "Speaker": "T",
+      "Turn": 194,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks for the value of the final piece, expecting the correct fraction."
+    },
+    {
+      "ID": 789,
+      "Speaker": "T",
+      "Turn": 196,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher prompts students to complete the addition expression accurately."
+    },
+    {
+      "ID": 791,
+      "Speaker": "T",
+      "Turn": 198,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks whether the representation forms a whole, checking correctness."
+    },
+    {
+      "ID": 792,
+      "Speaker": "T",
+      "Turn": 198,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks what the total equals, soliciting the exact fraction name."
+    }
+  ]
+}

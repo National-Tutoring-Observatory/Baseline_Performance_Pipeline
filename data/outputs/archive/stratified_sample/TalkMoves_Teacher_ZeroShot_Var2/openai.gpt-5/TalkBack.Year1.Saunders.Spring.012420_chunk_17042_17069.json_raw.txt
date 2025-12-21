@@ -1,0 +1,158 @@
+{
+  "records": [
+    {
+      "ID": 17042,
+      "Speaker": "T",
+      "Turn": 78,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17044,
+      "Speaker": "T",
+      "Turn": 80,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases the student’s “profit” as “how much profit the company is making,” elaborating the idea."
+    },
+    {
+      "ID": 17045,
+      "Speaker": "T",
+      "Turn": 80,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17046,
+      "Speaker": "T",
+      "Turn": 80,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to identify the sign of the a-value using mathematical terms (positive/negative/zero)."
+    },
+    {
+      "ID": 17048,
+      "Speaker": "T",
+      "Turn": 82,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17050,
+      "Speaker": "T",
+      "Turn": 84,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student’s answer “Positive” word for word."
+    },
+    {
+      "ID": 17051,
+      "Speaker": "T",
+      "Turn": 84,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks students to decide if the parabola opens up or down, requiring a precise mathematical choice."
+    },
+    {
+      "ID": 17053,
+      "Speaker": "T",
+      "Turn": 86,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher echoes the student’s “Up” and adds commentary, repeating with added wording."
+    },
+    {
+      "ID": 17054,
+      "Speaker": "T",
+      "Turn": 87,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks whether it’s a minimum or maximum, prompting correct mathematical terminology."
+    },
+    {
+      "ID": 17056,
+      "Speaker": "T",
+      "Turn": 88,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student’s “A minimum” while adding “value,” modifying the wording."
+    },
+    {
+      "ID": 17057,
+      "Speaker": "T",
+      "Turn": 88,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to explain what the minimum value means in the story, eliciting interpretation."
+    },
+    {
+      "ID": 17058,
+      "Speaker": "T",
+      "Turn": 88,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher requests an interpretation of the minimum value, prompting explanation."
+    },
+    {
+      "ID": 17059,
+      "Speaker": "T",
+      "Turn": 88,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17060,
+      "Speaker": "T",
+      "Turn": 89,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17061,
+      "Speaker": "T",
+      "Turn": 89,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17062,
+      "Speaker": "T",
+      "Turn": 89,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17063,
+      "Speaker": "T",
+      "Turn": 89,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17064,
+      "Speaker": "T",
+      "Turn": 89,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks which axis represents the year, prompting precise identification of X versus Y."
+    },
+    {
+      "ID": 17065,
+      "Speaker": "T",
+      "Turn": 89,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks students to choose whether “year” is on Y or X, requiring correct mathematical labeling."
+    },
+    {
+      "ID": 17067,
+      "Speaker": "T",
+      "Turn": 90,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17068,
+      "Speaker": "T",
+      "Turn": 90,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks how to find the x-value of the minimum from standard form, eliciting method and justification."
+    },
+    {
+      "ID": 17069,
+      "Speaker": "T",
+      "Turn": 91,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

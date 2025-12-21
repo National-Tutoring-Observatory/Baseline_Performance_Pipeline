@@ -1,0 +1,445 @@
+{
+  "records": [
+    {
+      "ID": 810,
+      "Speaker": "T",
+      "Turn": 204,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 812,
+      "Speaker": "T",
+      "Turn": 206,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher rephrases the student’s suggestion, explicitly naming the ‘two light blues’ the student had indicated."
+    },
+    {
+      "ID": 813,
+      "Speaker": "T",
+      "Turn": 206,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 814,
+      "Speaker": "T",
+      "Turn": 206,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 815,
+      "Speaker": "T",
+      "Turn": 206,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 816,
+      "Speaker": "T",
+      "Turn": 206,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "Teacher asks classmates whether they agree with Maddox’s idea."
+    },
+    {
+      "ID": 818,
+      "Speaker": "T",
+      "Turn": 208,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher restates and consolidates the ideas just shared by students, putting them into her own words."
+    },
+    {
+      "ID": 819,
+      "Speaker": "T",
+      "Turn": 208,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 820,
+      "Speaker": "T",
+      "Turn": 208,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 822,
+      "Speaker": "T",
+      "Turn": 210,
+      "TalkMove": "Restating",
+      "Reasoning": "Teacher repeats the student’s answer almost verbatim: 'Three dark blue.'"
+    },
+    {
+      "ID": 823,
+      "Speaker": "T",
+      "Turn": 210,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "Teacher prompts the class to respond to Katie’s idea."
+    },
+    {
+      "ID": 825,
+      "Speaker": "T",
+      "Turn": 212,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 826,
+      "Speaker": "T",
+      "Turn": 212,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 827,
+      "Speaker": "T",
+      "Turn": 212,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 828,
+      "Speaker": "T",
+      "Turn": 212,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 829,
+      "Speaker": "T",
+      "Turn": 212,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 830,
+      "Speaker": "T",
+      "Turn": 212,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 832,
+      "Speaker": "T",
+      "Turn": 214,
+      "TalkMove": "Restating",
+      "Reasoning": "Teacher echoes the student’s choice, saying 'Number three.'"
+    },
+    {
+      "ID": 834,
+      "Speaker": "T",
+      "Turn": 214,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 835,
+      "Speaker": "T",
+      "Turn": 214,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Teacher reminds the class to 'read really carefully,' orienting everyone’s attention to the shared text."
+    },
+    {
+      "ID": 836,
+      "Speaker": "T",
+      "Turn": 214,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "By instructing Stephan to read aloud, the teacher directs all students to listen to a peer."
+    },
+    {
+      "ID": 838,
+      "Speaker": "T",
+      "Turn": 216,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 839,
+      "Speaker": "T",
+      "Turn": 216,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 840,
+      "Speaker": "T",
+      "Turn": 216,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher asks how students will figure out the remaining third, prompting them to describe a strategy."
+    },
+    {
+      "ID": 841,
+      "Speaker": "T",
+      "Turn": 216,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 842,
+      "Speaker": "T",
+      "Turn": 216,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher requests that Liam explain what he would do to find the whole."
+    },
+    {
+      "ID": 843,
+      "Speaker": "T",
+      "Turn": 216,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 844,
+      "Speaker": "T",
+      "Turn": 217,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 845,
+      "Speaker": "T",
+      "Turn": 218,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 846,
+      "Speaker": "T",
+      "Turn": 218,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 847,
+      "Speaker": "T",
+      "Turn": 218,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher asks how students will figure out how to make three parts."
+    },
+    {
+      "ID": 848,
+      "Speaker": "T",
+      "Turn": 218,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher explicitly invites Alice to share her thinking."
+    },
+    {
+      "ID": 850,
+      "Speaker": "T",
+      "Turn": 219,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher paraphrases Alice’s idea to confirm understanding."
+    },
+    {
+      "ID": 851,
+      "Speaker": "T",
+      "Turn": 220,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Phrase 'what I hear you say' continues the teacher’s attempt to restate the student’s idea in her own words."
+    },
+    {
+      "ID": 853,
+      "Speaker": "T",
+      "Turn": 221,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Teacher checks whether the class heard the contribution, ensuring shared attention."
+    },
+    {
+      "ID": 854,
+      "Speaker": "T",
+      "Turn": 221,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Teacher asks if students understood, again orienting everyone to the idea."
+    },
+    {
+      "ID": 855,
+      "Speaker": "T",
+      "Turn": 221,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "Teacher asks Nate to state what he heard Alice say, explicitly connecting to a peer’s idea."
+    },
+    {
+      "ID": 857,
+      "Speaker": "T",
+      "Turn": 223,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "Teacher presses Nate to reflect specifically on Alice’s statement."
+    },
+    {
+      "ID": 858,
+      "Speaker": "T",
+      "Turn": 223,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher asks how Alice will find one-third, prompting explanation."
+    },
+    {
+      "ID": 859,
+      "Speaker": "T",
+      "Turn": 223,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher continues to ask for justification about combining pieces to make a third."
+    },
+    {
+      "ID": 861,
+      "Speaker": "T",
+      "Turn": 225,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "Teacher asks the student to repeat Alice’s idea, fostering connection to her reasoning."
+    },
+    {
+      "ID": 863,
+      "Speaker": "T",
+      "Turn": 227,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher succinctly summarizes the student’s explanation in her own words."
+    },
+    {
+      "ID": 864,
+      "Speaker": "T",
+      "Turn": 227,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher invites the class to test whether Alice’s strategy is correct, prompting justification."
+    },
+    {
+      "ID": 865,
+      "Speaker": "T",
+      "Turn": 227,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 866,
+      "Speaker": "T",
+      "Turn": 227,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher directs students to find two pieces exactly equal to the light blue, a specific mathematical task."
+    },
+    {
+      "ID": 867,
+      "Speaker": "T",
+      "Turn": 227,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 868,
+      "Speaker": "T",
+      "Turn": 227,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 869,
+      "Speaker": "T",
+      "Turn": 227,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks Sophie which exact pieces she used, requesting the concrete mathematical information."
+    },
+    {
+      "ID": 871,
+      "Speaker": "T",
+      "Turn": 229,
+      "TalkMove": "Restating",
+      "Reasoning": "Teacher repeats Sophie’s answer verbatim: 'Two light greens.'"
+    },
+    {
+      "ID": 872,
+      "Speaker": "T",
+      "Turn": 229,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Teacher asks others to raise hands if they obtained the same result, ensuring shared awareness."
+    },
+    {
+      "ID": 873,
+      "Speaker": "T",
+      "Turn": 229,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 874,
+      "Speaker": "T",
+      "Turn": 230,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 875,
+      "Speaker": "T",
+      "Turn": 230,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Teacher uses a thumbs-up check to gauge whole-class agreement and keep everyone involved."
+    },
+    {
+      "ID": 876,
+      "Speaker": "T",
+      "Turn": 230,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks for the specific fractional value of one light green."
+    },
+    {
+      "ID": 877,
+      "Speaker": "T",
+      "Turn": 230,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Follow-up clarifies the mathematical context ('If it were a full circle'), pressing for a precise answer."
+    },
+    {
+      "ID": 879,
+      "Speaker": "T",
+      "Turn": 232,
+      "TalkMove": "Restating",
+      "Reasoning": "Teacher repeats Alice’s contribution: 'Alice says one-third.'"
+    },
+    {
+      "ID": 880,
+      "Speaker": "T",
+      "Turn": 232,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "Teacher asks Jen whether she agrees or disagrees with Alice."
+    },
+    {
+      "ID": 881,
+      "Speaker": "T",
+      "Turn": 232,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "Teacher invites questions about Alice’s statement, encouraging engagement with her idea."
+    },
+    {
+      "ID": 883,
+      "Speaker": "T",
+      "Turn": 234,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher asks Jen to explain why she agrees."
+    },
+    {
+      "ID": 884,
+      "Speaker": "T",
+      "Turn": 234,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks for the exact value of the light blue piece."
+    },
+    {
+      "ID": 886,
+      "Speaker": "T",
+      "Turn": 236,
+      "TalkMove": "Restating",
+      "Reasoning": "Teacher repeats the student’s answer: 'Two-thirds.'"
+    },
+    {
+      "ID": 887,
+      "Speaker": "T",
+      "Turn": 236,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher summarizes the agreed-upon reasoning that two greens equal two-thirds."
+    },
+    {
+      "ID": 888,
+      "Speaker": "T",
+      "Turn": 236,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher asks why Alice claims the light green is one-third, prompting justification."
+    }
+  ]
+}

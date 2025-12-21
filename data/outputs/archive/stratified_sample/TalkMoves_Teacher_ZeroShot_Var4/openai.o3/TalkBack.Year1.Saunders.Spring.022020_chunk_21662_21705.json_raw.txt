@@ -1,0 +1,137 @@
+{
+  "records": [
+    {
+      "ID": 21678,
+      "Speaker": "T",
+      "Turn": 1,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21679,
+      "Speaker": "T",
+      "Turn": 2,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks Joanne to state the first procedural step, prompting a specific mathematical action."
+    },
+    {
+      "ID": 21681,
+      "Speaker": "T",
+      "Turn": 3,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student’s words exactly: \"Isolate the radical on one side of the equation.\""
+    },
+    {
+      "ID": 21682,
+      "Speaker": "T",
+      "Turn": 3,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks David to name the first step for this specific example, requesting a precise mathematical action."
+    },
+    {
+      "ID": 21684,
+      "Speaker": "T",
+      "Turn": 5,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher echoes the student’s answer verbatim: \"Isolate the radical.\""
+    },
+    {
+      "ID": 21685,
+      "Speaker": "T",
+      "Turn": 5,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher probes for the exact operation required to isolate the radical, seeking a concrete mathematical detail."
+    },
+    {
+      "ID": 21687,
+      "Speaker": "T",
+      "Turn": 7,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21688,
+      "Speaker": "T",
+      "Turn": 7,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher restates the student’s idea (divide by 2) while elaborating on the result, adding detail to the student’s contribution."
+    },
+    {
+      "ID": 21689,
+      "Speaker": "T",
+      "Turn": 7,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the next step in the procedure, eliciting a specific mathematical action."
+    },
+    {
+      "ID": 21691,
+      "Speaker": "T",
+      "Turn": 9,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student’s phrase exactly: \"Get rid of the plus one.\""
+    },
+    {
+      "ID": 21692,
+      "Speaker": "T",
+      "Turn": 9,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21694,
+      "Speaker": "T",
+      "Turn": 11,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats Jill’s contribution verbatim: \"Get rid of the radical.\""
+    },
+    {
+      "ID": 21695,
+      "Speaker": "T",
+      "Turn": 11,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks Tobias to explain the conditions under which the radical can be removed, prompting justification."
+    },
+    {
+      "ID": 21697,
+      "Speaker": "T",
+      "Turn": 13,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher restates the student’s explanation in her own words, confirming and refining the idea."
+    },
+    {
+      "ID": 21698,
+      "Speaker": "T",
+      "Turn": 13,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to describe the process for eliminating the radical, soliciting explanation of their method."
+    },
+    {
+      "ID": 21699,
+      "Speaker": "T",
+      "Turn": 13,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21702,
+      "Speaker": "T",
+      "Turn": 15,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher echoes and affirms the student’s suggestion (multiply by itself) using nearly the same words, showing understanding."
+    },
+    {
+      "ID": 21703,
+      "Speaker": "T",
+      "Turn": 15,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21704,
+      "Speaker": "T",
+      "Turn": 15,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

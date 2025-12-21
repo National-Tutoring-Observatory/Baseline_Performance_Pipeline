@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 10212,
+      "Speaker": "T",
+      "Turn": 10212,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10213,
+      "Speaker": "T",
+      "Turn": 10213,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher interprets the student's partial answer as representing '1/4' and adds on by explaining the next step required for the problem."
+    },
+    {
+      "ID": 10214,
+      "Speaker": "T",
+      "Turn": 10214,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10215,
+      "Speaker": "T",
+      "Turn": 10215,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the revoiced idea, clarifying that the student's partial answer ('two') is for '1/4' and that more steps are needed."
+    },
+    {
+      "ID": 10216,
+      "Speaker": "T",
+      "Turn": 10216,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10218,
+      "Speaker": "T",
+      "Turn": 10218,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to make a specific mathematical contribution by asking for the result of a calculation."
+    },
+    {
+      "ID": 10220,
+      "Speaker": "T",
+      "Turn": 10220,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher repeats the prompt for a specific mathematical contribution."
+    },
+    {
+      "ID": 10222,
+      "Speaker": "T",
+      "Turn": 10222,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to explain their understanding of the mathematical process."
+    },
+    {
+      "ID": 10223,
+      "Speaker": "T",
+      "Turn": 10223,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher articulates the student's error by naming the mathematical action they performed ('only finding 1/4')."
+    },
+    {
+      "ID": 10224,
+      "Speaker": "T",
+      "Turn": 10224,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher reframes the student's action (finding 1/4) by explaining its correct purpose as a step toward the final answer."
+    },
+    {
+      "ID": 10225,
+      "Speaker": "T",
+      "Turn": 10225,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10226,
+      "Speaker": "T",
+      "Turn": 10226,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher begins to articulate the student's thinking process for them, making their implicit reasoning explicit."
+    },
+    {
+      "ID": 10228,
+      "Speaker": "T",
+      "Turn": 10228,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts the student to analyze their own work and identify how to correct their mistake."
+    },
+    {
+      "ID": 10230,
+      "Speaker": "T",
+      "Turn": 10230,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10231,
+      "Speaker": "T",
+      "Turn": 10231,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10232,
+      "Speaker": "T",
+      "Turn": 10232,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10233,
+      "Speaker": "T",
+      "Turn": 10233,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10234,
+      "Speaker": "T",
+      "Turn": 10234,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher feigns confusion to prompt the student to explain their work and thinking."
+    },
+    {
+      "ID": 10235,
+      "Speaker": "T",
+      "Turn": 10235,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher uses a direct, open-ended prompt to ask the student to share their thinking."
+    },
+    {
+      "ID": 10236,
+      "Speaker": "T",
+      "Turn": 10236,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a direct question that requires a specific mathematical fact as an answer."
+    }
+  ]
+}

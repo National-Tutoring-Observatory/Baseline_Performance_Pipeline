@@ -1,0 +1,88 @@
+{
+  "records": [
+    {
+      "ID": 5837,
+      "Speaker": "T",
+      "Turn": 159,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5838,
+      "Speaker": "T",
+      "Turn": 159,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5841,
+      "Speaker": "T",
+      "Turn": 161,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher tells the student to \"say three,\" prompting the correct next number in the counting sequence."
+    },
+    {
+      "ID": 5847,
+      "Speaker": "T",
+      "Turn": 166,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5849,
+      "Speaker": "T",
+      "Turn": 168,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "By asking \"Who's the leader?\" the teacher orients the class to group roles so everyone knows who will begin."
+    },
+    {
+      "ID": 5851,
+      "Speaker": "T",
+      "Turn": 170,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher's question \"What's your number?\" asks the student to state a specific numerical value accurately."
+    },
+    {
+      "ID": 5853,
+      "Speaker": "T",
+      "Turn": 172,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5857,
+      "Speaker": "T",
+      "Turn": 174,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Repeating the question about the leader helps ensure all students are oriented to the group's structure."
+    },
+    {
+      "ID": 5858,
+      "Speaker": "T",
+      "Turn": 174,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Again asking \"What's your number?\" prompts the student to provide a precise numerical response."
+    },
+    {
+      "ID": 5861,
+      "Speaker": "T",
+      "Turn": 177,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5862,
+      "Speaker": "T",
+      "Turn": 178,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5863,
+      "Speaker": "T",
+      "Turn": 178,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

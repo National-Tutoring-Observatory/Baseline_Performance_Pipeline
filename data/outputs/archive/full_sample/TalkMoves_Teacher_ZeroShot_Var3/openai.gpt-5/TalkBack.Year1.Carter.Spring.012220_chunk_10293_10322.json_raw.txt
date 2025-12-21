@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 10293,
+      "Speaker": "T",
+      "Turn": 10293,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10294,
+      "Speaker": "T",
+      "Turn": 10294,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10295,
+      "Speaker": "T",
+      "Turn": 10295,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks for the value of 1/4 of 20, prompting a specific computation."
+    },
+    {
+      "ID": 10298,
+      "Speaker": "T",
+      "Turn": 10298,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Prompts students to compute 20 ÷ 4."
+    },
+    {
+      "ID": 10301,
+      "Speaker": "T",
+      "Turn": 10301,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10302,
+      "Speaker": "T",
+      "Turn": 10302,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10303,
+      "Speaker": "T",
+      "Turn": 10303,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10304,
+      "Speaker": "T",
+      "Turn": 10304,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks how many fourths, prompting precise mathematical content."
+    },
+    {
+      "ID": 10306,
+      "Speaker": "T",
+      "Turn": 10306,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Prompts the multiplication 5 × 3."
+    },
+    {
+      "ID": 10308,
+      "Speaker": "T",
+      "Turn": 10308,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10309,
+      "Speaker": "T",
+      "Turn": 10309,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10311,
+      "Speaker": "T",
+      "Turn": 10311,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10312,
+      "Speaker": "T",
+      "Turn": 10312,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10314,
+      "Speaker": "T",
+      "Turn": 10314,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10315,
+      "Speaker": "T",
+      "Turn": 10315,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Invites the student to explain their process ('talk me through this')."
+    },
+    {
+      "ID": 10316,
+      "Speaker": "T",
+      "Turn": 10316,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Prompts the value of 1/4 of 16."
+    },
+    {
+      "ID": 10318,
+      "Speaker": "T",
+      "Turn": 10318,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10319,
+      "Speaker": "T",
+      "Turn": 10319,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Prompts the next calculation ('three of those')."
+    },
+    {
+      "ID": 10321,
+      "Speaker": "T",
+      "Turn": 10321,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Repeats the student's answer ('12') and adds justification ('because you have fourths')."
+    },
+    {
+      "ID": 10322,
+      "Speaker": "T",
+      "Turn": 10322,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

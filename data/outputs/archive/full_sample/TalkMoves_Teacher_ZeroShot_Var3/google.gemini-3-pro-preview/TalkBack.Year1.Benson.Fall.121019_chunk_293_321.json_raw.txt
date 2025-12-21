@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 293,
+      "Speaker": "T",
+      "Turn": 293,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 294,
+      "Speaker": "T",
+      "Turn": 294,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a specific student to identify the value of a digit, prompting for a precise mathematical answer."
+    },
+    {
+      "ID": 296,
+      "Speaker": "T",
+      "Turn": 296,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's answer ('Seven') word for word."
+    },
+    {
+      "ID": 297,
+      "Speaker": "T",
+      "Turn": 297,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 298,
+      "Speaker": "T",
+      "Turn": 298,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 299,
+      "Speaker": "T",
+      "Turn": 299,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 300,
+      "Speaker": "T",
+      "Turn": 300,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks students to identify the specific multiplication fact needed for a box, prompting for a mathematical contribution."
+    },
+    {
+      "ID": 302,
+      "Speaker": "T",
+      "Turn": 302,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the result of a specific calculation (30 times 10)."
+    },
+    {
+      "ID": 304,
+      "Speaker": "T",
+      "Turn": 304,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 305,
+      "Speaker": "T",
+      "Turn": 305,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 307,
+      "Speaker": "T",
+      "Turn": 307,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher repeats the calculation question, prompting for the answer."
+    },
+    {
+      "ID": 309,
+      "Speaker": "T",
+      "Turn": 309,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's correct answer ('300') to confirm it."
+    },
+    {
+      "ID": 310,
+      "Speaker": "T",
+      "Turn": 310,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks students to identify the next multiplication problem to solve."
+    },
+    {
+      "ID": 311,
+      "Speaker": "T",
+      "Turn": 311,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 313,
+      "Speaker": "T",
+      "Turn": 313,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the result of the calculation (30 times 7)."
+    },
+    {
+      "ID": 314,
+      "Speaker": "T",
+      "Turn": 314,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 316,
+      "Speaker": "T",
+      "Turn": 316,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 317,
+      "Speaker": "T",
+      "Turn": 317,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the result of a specific calculation (4 times 10)."
+    },
+    {
+      "ID": 319,
+      "Speaker": "T",
+      "Turn": 319,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 321,
+      "Speaker": "T",
+      "Turn": 321,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher restates the answer '40' and then prompts for the next mathematical step (the problem for the last box)."
+    }
+  ]
+}

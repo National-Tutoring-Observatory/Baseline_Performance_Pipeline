@@ -1,0 +1,124 @@
+{
+  "records": [
+    {
+      "ID": 739,
+      "Speaker": "T",
+      "Turn": 739
+    },
+    {
+      "ID": 740,
+      "Speaker": "T",
+      "Turn": 740,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the result of adding thirds, prompting a mathematical answer."
+    },
+    {
+      "ID": 742,
+      "Speaker": "T",
+      "Turn": 742,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats Brady’s contribution verbatim ('three thirds')."
+    },
+    {
+      "ID": 743,
+      "Speaker": "T",
+      "Turn": 743,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the correct mathematical term for 'three thirds.'"
+    },
+    {
+      "ID": 745,
+      "Speaker": "T",
+      "Turn": 745
+    },
+    {
+      "ID": 746,
+      "Speaker": "T",
+      "Turn": 746
+    },
+    {
+      "ID": 747,
+      "Speaker": "T",
+      "Turn": 747,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks which fractions were added to make a whole, eliciting a mathematical contribution."
+    },
+    {
+      "ID": 748,
+      "Speaker": "T",
+      "Turn": 748,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts a specific student to state which parts were added."
+    },
+    {
+      "ID": 749,
+      "Speaker": "T",
+      "Turn": 749,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher echoes the student's idea ('one fourth') in her own phrasing."
+    },
+    {
+      "ID": 750,
+      "Speaker": "T",
+      "Turn": 750
+    },
+    {
+      "ID": 751,
+      "Speaker": "T",
+      "Turn": 751,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the total, prompting a precise mathematical response."
+    },
+    {
+      "ID": 753,
+      "Speaker": "T",
+      "Turn": 753
+    },
+    {
+      "ID": 754,
+      "Speaker": "T",
+      "Turn": 754,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to evaluate whether a swap would work, inviting justification."
+    },
+    {
+      "ID": 755,
+      "Speaker": "T",
+      "Turn": 755,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher encourages students to test and provide evidence about whether the swap works."
+    },
+    {
+      "ID": 757,
+      "Speaker": "T",
+      "Turn": 757
+    },
+    {
+      "ID": 758,
+      "Speaker": "T",
+      "Turn": 758,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks whether an alternative swap would work, prompting evaluation and justification."
+    },
+    {
+      "ID": 760,
+      "Speaker": "T",
+      "Turn": 760
+    },
+    {
+      "ID": 761,
+      "Speaker": "T",
+      "Turn": 761
+    },
+    {
+      "ID": 762,
+      "Speaker": "T",
+      "Turn": 762
+    },
+    {
+      "ID": 763,
+      "Speaker": "T",
+      "Turn": 763
+    }
+  ]
+}

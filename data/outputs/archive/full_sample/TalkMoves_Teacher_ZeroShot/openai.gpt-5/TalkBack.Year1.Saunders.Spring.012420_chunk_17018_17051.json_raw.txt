@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 17018,
+      "Speaker": "T",
+      "Turn": 17018,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17019,
+      "Speaker": "T",
+      "Turn": 17019,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17021,
+      "Speaker": "T",
+      "Turn": 17021,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17023,
+      "Speaker": "T",
+      "Turn": 17023,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17026,
+      "Speaker": "T",
+      "Turn": 17026,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17029,
+      "Speaker": "T",
+      "Turn": 17029,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17030,
+      "Speaker": "T",
+      "Turn": 17030,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks students to identify what P stands for, prompting precise mathematical terminology."
+    },
+    {
+      "ID": 17032,
+      "Speaker": "T",
+      "Turn": 17032,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17033,
+      "Speaker": "T",
+      "Turn": 17033,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to state what T represents in the context, seeking a correct definition."
+    },
+    {
+      "ID": 17035,
+      "Speaker": "T",
+      "Turn": 17035,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17037,
+      "Speaker": "T",
+      "Turn": 17037,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks students to specify the input and output, eliciting correct identification of variables."
+    },
+    {
+      "ID": 17038,
+      "Speaker": "T",
+      "Turn": 17038,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to name the input variable for the situation."
+    },
+    {
+      "ID": 17040,
+      "Speaker": "T",
+      "Turn": 17040,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher restates a student's idea by framing it as 'we're inputting the number of...', adjusting the wording."
+    },
+    {
+      "ID": 17042,
+      "Speaker": "T",
+      "Turn": 17042,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student’s contribution ('years') and adds on by connecting it to what is found."
+    },
+    {
+      "ID": 17044,
+      "Speaker": "T",
+      "Turn": 17044,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17045,
+      "Speaker": "T",
+      "Turn": 17045,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17046,
+      "Speaker": "T",
+      "Turn": 17046,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks students to determine the sign of the parameter a (positive, negative, or zero)."
+    },
+    {
+      "ID": 17048,
+      "Speaker": "T",
+      "Turn": 17048,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17050,
+      "Speaker": "T",
+      "Turn": 17050,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student’s answer word-for-word: 'Positive.'"
+    },
+    {
+      "ID": 17051,
+      "Speaker": "T",
+      "Turn": 17051,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to state whether the parabola opens up or down given that a is positive."
+    }
+  ]
+}

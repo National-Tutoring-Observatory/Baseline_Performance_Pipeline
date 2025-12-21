@@ -1,0 +1,109 @@
+{
+  "records": [
+    {
+      "ID": 13838,
+      "Speaker": "T",
+      "Turn": 61,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks the student to share what they noticed, eliciting a mathematical observation."
+    },
+    {
+      "ID": 13840,
+      "Speaker": "T",
+      "Turn": 63,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 13841,
+      "Speaker": "T",
+      "Turn": 63,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher solicits additional mathematical observations from the class."
+    },
+    {
+      "ID": 13842,
+      "Speaker": "T",
+      "Turn": 63,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 13844,
+      "Speaker": "T",
+      "Turn": 65,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher restates Parker’s idea in their own words, clarifying that 3 is a factor of 15."
+    },
+    {
+      "ID": 13845,
+      "Speaker": "T",
+      "Turn": 65,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 13846,
+      "Speaker": "T",
+      "Turn": 65,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 13847,
+      "Speaker": "T",
+      "Turn": 65,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 13848,
+      "Speaker": "T",
+      "Turn": 65,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to provide factor pairs for 3."
+    },
+    {
+      "ID": 13850,
+      "Speaker": "T",
+      "Turn": 67,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher follows up to elicit the missing factor in ‘1 × ?’."
+    },
+    {
+      "ID": 13852,
+      "Speaker": "T",
+      "Turn": 69,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student’s suggestion and adds the product, refining the statement."
+    },
+    {
+      "ID": 13854,
+      "Speaker": "T",
+      "Turn": 71,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student’s contribution nearly verbatim."
+    },
+    {
+      "ID": 13855,
+      "Speaker": "T",
+      "Turn": 71,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the missing factor that multiplies with 1 to make 15."
+    },
+    {
+      "ID": 13856,
+      "Speaker": "T",
+      "Turn": 71,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher checks whether 2 is a factor of 15, prompting a precise mathematical assertion."
+    },
+    {
+      "ID": 13858,
+      "Speaker": "T",
+      "Turn": 73,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to consider whether 3 is a factor of 15."
+    }
+  ]
+}

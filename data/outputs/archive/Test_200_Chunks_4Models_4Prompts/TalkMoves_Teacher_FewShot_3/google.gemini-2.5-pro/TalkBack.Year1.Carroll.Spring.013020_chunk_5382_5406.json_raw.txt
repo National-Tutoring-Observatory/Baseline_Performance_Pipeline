@@ -1,0 +1,130 @@
+[
+  {
+    "ID": 5382,
+    "Turn": 100,
+    "Speaker": "T",
+    "Sentence": "Lets hear yours",
+    "TalkMove": "None",
+    "Reasoning": null
+  },
+  {
+    "ID": 5383,
+    "Turn": 100,
+    "Speaker": "T",
+    "Sentence": "Wait",
+    "TalkMove": "None",
+    "Reasoning": null
+  },
+  {
+    "ID": 5384,
+    "Turn": 100,
+    "Speaker": "T",
+    "Sentence": "Before she says I might want you to check yours to see",
+    "TalkMove": "Keeping Everyone Together",
+    "Reasoning": "The teacher directs students to listen to a classmate's upcoming answer and compare it to their own work, orienting them to each other."
+  },
+  {
+    "ID": 5385,
+    "Turn": 100,
+    "Speaker": "T",
+    "Sentence": "If you agree give the the agree sign",
+    "TalkMove": "Keeping Everyone Together",
+    "Reasoning": "The teacher instructs students on how to actively listen and show their agreement with a classmate's contribution."
+  },
+  {
+    "ID": 5388,
+    "Turn": 103,
+    "Speaker": "T",
+    "Sentence": "Okay",
+    "TalkMove": "None",
+    "Reasoning": null
+  },
+  {
+    "ID": 5389,
+    "Turn": 103,
+    "Speaker": "T",
+    "Sentence": "Say it one more time",
+    "TalkMove": "Keeping Everyone Together",
+    "Reasoning": "The teacher asks the student to repeat their answer so that everyone in the class can hear it clearly."
+  },
+  {
+    "ID": 5391,
+    "Turn": 105,
+    "Speaker": "T",
+    "Sentence": "Okay",
+    "TalkMove": "None",
+    "Reasoning": null
+  },
+  {
+    "ID": 5392,
+    "Turn": 105,
+    "Speaker": "T",
+    "Sentence": "All right",
+    "TalkMove": "None",
+    "Reasoning": null
+  },
+  {
+    "ID": 5393,
+    "Turn": 105,
+    "Speaker": "T",
+    "Sentence": "Now number three Roman will you read number three",
+    "TalkMove": "None",
+    "Reasoning": null
+  },
+  {
+    "ID": 5396,
+    "Turn": 107,
+    "Speaker": "T",
+    "Sentence": "Okay",
+    "TalkMove": "None",
+    "Reasoning": null
+  },
+  {
+    "ID": 5397,
+    "Turn": 107,
+    "Speaker": "T",
+    "Sentence": "Lets just review real quick",
+    "TalkMove": "None",
+    "Reasoning": null
+  },
+  {
+    "ID": 5398,
+    "Turn": 107,
+    "Speaker": "T",
+    "Sentence": "What do we do first Asher",
+    "TalkMove": "Pressing for Accuracy",
+    "Reasoning": "The teacher prompts a student for the correct first step in a mathematical procedure."
+  },
+  {
+    "ID": 5401,
+    "Turn": 109,
+    "Speaker": "T",
+    "Sentence": "Okay",
+    "TalkMove": "None",
+    "Reasoning": null
+  },
+  {
+    "ID": 5402,
+    "Turn": 109,
+    "Speaker": "T",
+    "Sentence": "When youre plotting a point",
+    "TalkMove": "Pressing for Accuracy",
+    "Reasoning": "The teacher clarifies the question to prompt the student for a more precise, generalizable mathematical procedure."
+  },
+  {
+    "ID": 5405,
+    "Turn": 111,
+    "Speaker": "T",
+    "Sentence": "Then you find my plotter",
+    "TalkMove": "Restating",
+    "Reasoning": "The teacher repeats a portion of what the student said nearly word for word."
+  },
+  {
+    "ID": 5406,
+    "Turn": 111,
+    "Speaker": "T",
+    "Sentence": "You do X first and then Y and youve bought your point",
+    "TalkMove": "Revoicing",
+    "Reasoning": "The teacher repeats the student's idea but refines it with more precise mathematical language, changing 'find the plotter' to 'do X first and then Y and you plot your point'."
+  }
+]

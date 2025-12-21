@@ -1,0 +1,137 @@
+{
+  "records": [
+    {
+      "ID": 12044,
+      "Speaker": "T",
+      "Turn": 88,
+      "TalkMove": "Restating",
+      "Reasoning": "Teacher repeats the student’s exact word “Multiply,” matching the Restating move."
+    },
+    {
+      "ID": 12045,
+      "Speaker": "T",
+      "Turn": 88,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12047,
+      "Speaker": "T",
+      "Turn": 90,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12048,
+      "Speaker": "T",
+      "Turn": 90,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks students to supply the precise mathematical term for the answer to a multiplication problem."
+    },
+    {
+      "ID": 12049,
+      "Speaker": "T",
+      "Turn": 90,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Invites the whole class to say the term, orienting all students to participate simultaneously."
+    },
+    {
+      "ID": 12051,
+      "Speaker": "T",
+      "Turn": 92,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Requests that students explain the algorithm in their own words, prompting them to articulate reasoning."
+    },
+    {
+      "ID": 12052,
+      "Speaker": "T",
+      "Turn": 92,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Encourages students to rehearse with partners, orienting them to collaborate and listen to each other."
+    },
+    {
+      "ID": 12053,
+      "Speaker": "T",
+      "Turn": 92,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Directs students to share their explanation with a partner, fostering peer interaction."
+    },
+    {
+      "ID": 12054,
+      "Speaker": "T",
+      "Turn": 92,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Prompts students to explain to their shoulder partner, again orienting them toward each other."
+    },
+    {
+      "ID": 12055,
+      "Speaker": "T",
+      "Turn": 92,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Ensures both partners participate, maintaining collective engagement and listening."
+    },
+    {
+      "ID": 12056,
+      "Speaker": "T",
+      "Turn": 92,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12057,
+      "Speaker": "T",
+      "Turn": 92,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12058,
+      "Speaker": "T",
+      "Turn": 93,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12059,
+      "Speaker": "T",
+      "Turn": 93,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks for the correct term 'Factors' to describe numbers being multiplied."
+    },
+    {
+      "ID": 12060,
+      "Speaker": "T",
+      "Turn": 93,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12061,
+      "Speaker": "T",
+      "Turn": 93,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12062,
+      "Speaker": "T",
+      "Turn": 93,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12063,
+      "Speaker": "T",
+      "Turn": 94,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12064,
+      "Speaker": "T",
+      "Turn": 95,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks for the specific method used to multiply fractions, seeking the correct mathematical description."
+    }
+  ]
+}

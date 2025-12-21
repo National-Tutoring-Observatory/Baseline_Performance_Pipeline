@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 23187,
+      "Speaker": "T",
+      "Turn": 23187,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 23188,
+      "Speaker": "T",
+      "Turn": 23188,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher starts a mathematical procedure (listing factors) and prompts for the next part of the pair ('We can do 1...')."
+    },
+    {
+      "ID": 23190,
+      "Speaker": "T",
+      "Turn": 23190,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 23191,
+      "Speaker": "T",
+      "Turn": 23191,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to complete the factor pair for 2 ('We can do 2 what')."
+    },
+    {
+      "ID": 23193,
+      "Speaker": "T",
+      "Turn": 23193,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts for the next factor or factor pair starting with 3."
+    },
+    {
+      "ID": 23195,
+      "Speaker": "T",
+      "Turn": 23195,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts for the next factor or factor pair starting with 4."
+    },
+    {
+      "ID": 23197,
+      "Speaker": "T",
+      "Turn": 23197,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts for the missing factor that pairs with 9."
+    },
+    {
+      "ID": 23199,
+      "Speaker": "T",
+      "Turn": 23199,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher confirms or prompts the final factor pair (6 and 6)."
+    },
+    {
+      "ID": 23200,
+      "Speaker": "T",
+      "Turn": 23200,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 23202,
+      "Speaker": "T",
+      "Turn": 23202,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 23203,
+      "Speaker": "T",
+      "Turn": 23203,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher poses a question about the validity of different representation methods, prompting students to think about whether specific formats are required or if variations are acceptable."
+    },
+    {
+      "ID": 23204,
+      "Speaker": "T",
+      "Turn": 23204,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 23205,
+      "Speaker": "T",
+      "Turn": 23205,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 23206,
+      "Speaker": "T",
+      "Turn": 23206,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 23207,
+      "Speaker": "T",
+      "Turn": 23207,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 23208,
+      "Speaker": "T",
+      "Turn": 23208,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher highlights a specific student's work ('This student in your class listed...'), orienting the class to look at that student's method."
+    },
+    {
+      "ID": 23209,
+      "Speaker": "T",
+      "Turn": 23209,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher highlights another student's work, orienting the class to compare different methods used by peers."
+    },
+    {
+      "ID": 23210,
+      "Speaker": "T",
+      "Turn": 23210,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 23211,
+      "Speaker": "T",
+      "Turn": 23211,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher asks a specific student (Lily) to display her work for the class to see, orienting attention to her contribution."
+    },
+    {
+      "ID": 23212,
+      "Speaker": "T",
+      "Turn": 23212,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher explicitly identifies the work being shown as belonging to a specific student ('This is Lilys'), focusing class attention on it."
+    }
+  ]
+}

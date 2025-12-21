@@ -1,0 +1,158 @@
+{
+  "records": [
+    {
+      "ID": 10215,
+      "Turn": 227,
+      "Speaker": "T",
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 10216,
+      "Turn": 227,
+      "Speaker": "T",
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 10218,
+      "Turn": 229,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Prompts the student to compute a specific product (2 × 3)."
+    },
+    {
+      "ID": 10220,
+      "Turn": 231,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Repeats the prompt to compute the product (2 × 3)."
+    },
+    {
+      "ID": 10222,
+      "Turn": 233,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Asks the student to explain the 'why' behind the idea."
+    },
+    {
+      "ID": 10223,
+      "Turn": 233,
+      "Speaker": "T",
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 10224,
+      "Turn": 233,
+      "Speaker": "T",
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 10225,
+      "Turn": 233,
+      "Speaker": "T",
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 10226,
+      "Turn": 233,
+      "Speaker": "T",
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 10228,
+      "Turn": 235,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Prompts the student to articulate their correction ('fix up')."
+    },
+    {
+      "ID": 10230,
+      "Turn": 237,
+      "Speaker": "T",
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 10231,
+      "Turn": 238,
+      "Speaker": "T",
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 10232,
+      "Turn": 238,
+      "Speaker": "T",
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 10233,
+      "Turn": 238,
+      "Speaker": "T",
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 10234,
+      "Turn": 238,
+      "Speaker": "T",
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 10235,
+      "Turn": 238,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Invites the student to explain their thinking ('Talk to me about this')."
+    },
+    {
+      "ID": 10236,
+      "Turn": 238,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks for a specific computation (1/4 of 8)."
+    },
+    {
+      "ID": 10238,
+      "Turn": 239,
+      "Speaker": "T",
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 10240,
+      "Turn": 241,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Directs attention to the correct fraction (3/4) to be considered."
+    },
+    {
+      "ID": 10241,
+      "Turn": 241,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Prompts the student to determine 3/4 given 1/4 is two."
+    },
+    {
+      "ID": 10243,
+      "Turn": 243,
+      "Speaker": "T",
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 10244,
+      "Turn": 243,
+      "Speaker": "T",
+      "TalkMove": "None",
+      "Reasoning": null
+    }
+  ]
+}

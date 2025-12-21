@@ -1,0 +1,109 @@
+{
+  "records": [
+    {
+      "ID": 10483,
+      "Speaker": "T",
+      "Turn": 8,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10484,
+      "Speaker": "T",
+      "Turn": 8,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10485,
+      "Speaker": "T",
+      "Turn": 8,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher poses a mathematical task, prompting students to provide a precise numerical answer."
+    },
+    {
+      "ID": 10486,
+      "Speaker": "T",
+      "Turn": 8,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10487,
+      "Speaker": "T",
+      "Turn": 8,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher instructs the whole class to respond in unison, orienting all students to participate simultaneously."
+    },
+    {
+      "ID": 10489,
+      "Speaker": "T",
+      "Turn": 10,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks why the answer is 72, prompting students to justify their solution."
+    },
+    {
+      "ID": 10490,
+      "Speaker": "T",
+      "Turn": 10,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10493,
+      "Speaker": "T",
+      "Turn": 12,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks the student to specify the exact place value being referenced, pushing for precise mathematical language."
+    },
+    {
+      "ID": 10494,
+      "Speaker": "T",
+      "Turn": 12,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10495,
+      "Speaker": "T",
+      "Turn": 12,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Again the teacher asks which place value to examine, prompting a precise mathematical identification."
+    },
+    {
+      "ID": 10497,
+      "Speaker": "T",
+      "Turn": 14,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks for the rationale behind rounding up when the digit is five, eliciting explanation."
+    },
+    {
+      "ID": 10500,
+      "Speaker": "T",
+      "Turn": 16,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher continues to probe why 'five or more' leads to rounding up, seeking underlying reasoning."
+    },
+    {
+      "ID": 10501,
+      "Speaker": "T",
+      "Turn": 17,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher restates and slightly elaborates the student’s rule about rounding, using her own wording to clarify."
+    },
+    {
+      "ID": 10503,
+      "Speaker": "T",
+      "Turn": 19,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10504,
+      "Speaker": "T",
+      "Turn": 19,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

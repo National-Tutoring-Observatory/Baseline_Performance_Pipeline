@@ -1,0 +1,32 @@
+{
+  "records": [
+    {
+      "ID": 9145,
+      "Speaker": "T",
+      "Turn": 9145,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher states 'Im not sure how that works', which functions as a prompt for the student to explain the logic or mechanism behind their idea."
+    },
+    {
+      "ID": 9146,
+      "Speaker": "T",
+      "Turn": 9146,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases the student's contribution ('generate a list of fractions') to verify their interpretation of what the student said."
+    },
+    {
+      "ID": 9147,
+      "Speaker": "T",
+      "Turn": 9147,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks 'What are you saying', explicitly prompting the student to articulate or clarify their idea."
+    },
+    {
+      "ID": 9156,
+      "Speaker": "T",
+      "Turn": 9156,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's idea about using lowest terms and adds on an explanation about why that makes the value more meaningful."
+    }
+  ]
+}

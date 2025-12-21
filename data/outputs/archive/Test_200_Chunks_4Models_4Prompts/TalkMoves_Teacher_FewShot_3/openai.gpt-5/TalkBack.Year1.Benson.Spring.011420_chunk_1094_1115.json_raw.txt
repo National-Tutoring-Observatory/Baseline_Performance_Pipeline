@@ -1,0 +1,97 @@
+{
+  "records": [
+    {
+      "ID": 1094,
+      "Turn": 34,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher checks whether students used the mathematical action of adding 30, prompting a specific mathematical contribution."
+    },
+    {
+      "ID": 1095,
+      "Turn": 34,
+      "Speaker": "T",
+      "TalkMove": "None"
+    },
+    {
+      "ID": 1096,
+      "Turn": 34,
+      "Speaker": "T",
+      "TalkMove": "None"
+    },
+    {
+      "ID": 1097,
+      "Turn": 34,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the answer value, prompting a precise mathematical response."
+    },
+    {
+      "ID": 1099,
+      "Turn": 36,
+      "Speaker": "T",
+      "TalkMove": "None"
+    },
+    {
+      "ID": 1100,
+      "Turn": 36,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Prompts students to specify what the number 600 represents in the context."
+    },
+    {
+      "ID": 1102,
+      "Turn": 38,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Requests more specificity and precision in the mathematical description."
+    },
+    {
+      "ID": 1105,
+      "Turn": 41,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "Paraphrases the student’s idea, framing it as what 600 represents."
+    },
+    {
+      "ID": 1107,
+      "Turn": 43,
+      "Speaker": "T",
+      "TalkMove": "None"
+    },
+    {
+      "ID": 1109,
+      "Turn": 45,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks for the unit of measure to ensure precise mathematical language."
+    },
+    {
+      "ID": 1110,
+      "Turn": 45,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Prompts identification of the measurement unit."
+    },
+    {
+      "ID": 1112,
+      "Turn": 47,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "Repeats the student's 'Feet' and extends the phrasing to connect to the context."
+    },
+    {
+      "ID": 1114,
+      "Turn": 49,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "Summarizes and restates the contribution with precise wording tying number and unit to the context."
+    },
+    {
+      "ID": 1115,
+      "Turn": 49,
+      "Speaker": "T",
+      "TalkMove": "None"
+    }
+  ]
+}

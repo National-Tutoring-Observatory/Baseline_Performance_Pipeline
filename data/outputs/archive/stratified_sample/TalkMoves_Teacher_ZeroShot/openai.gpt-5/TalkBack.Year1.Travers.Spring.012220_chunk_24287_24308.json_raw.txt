@@ -1,0 +1,74 @@
+{
+  "records": [
+    {
+      "ID": 24287,
+      "Speaker": "T",
+      "Turn": 282,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for a specific multiplication relationship/product, prompting a mathematical contribution."
+    },
+    {
+      "ID": 24290,
+      "Speaker": "T",
+      "Turn": 284
+    },
+    {
+      "ID": 24293,
+      "Speaker": "T",
+      "Turn": 287,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts the student to think through the problem, encouraging them to work through their reasoning."
+    },
+    {
+      "ID": 24294,
+      "Speaker": "T",
+      "Turn": 287,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks the student to recheck their work, emphasizing correctness."
+    },
+    {
+      "ID": 24300,
+      "Speaker": "T",
+      "Turn": 292
+    },
+    {
+      "ID": 24301,
+      "Speaker": "T",
+      "Turn": 293
+    },
+    {
+      "ID": 24302,
+      "Speaker": "T",
+      "Turn": 293
+    },
+    {
+      "ID": 24303,
+      "Speaker": "T",
+      "Turn": 294
+    },
+    {
+      "ID": 24304,
+      "Speaker": "T",
+      "Turn": 294
+    },
+    {
+      "ID": 24305,
+      "Speaker": "T",
+      "Turn": 294,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher restates the student's method by identifying the specific operation the student performed."
+    },
+    {
+      "ID": 24306,
+      "Speaker": "T",
+      "Turn": 294,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts the student to think about the fraction context and connect to the meaning of a number story."
+    },
+    {
+      "ID": 24307,
+      "Speaker": "T",
+      "Turn": 294
+    }
+  ]
+}

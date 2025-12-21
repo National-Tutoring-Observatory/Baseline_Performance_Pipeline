@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 8085,
+      "Speaker": "T",
+      "Turn": 8085,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher asks a student to repeat their idea for another student's benefit, ensuring everyone is part of the conversation."
+    },
+    {
+      "ID": 8086,
+      "Speaker": "T",
+      "Turn": 8086,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's idea using the phrase \"I hear you saying,\" which serves to rephrase or clarify the student's contribution before building on it."
+    },
+    {
+      "ID": 8087,
+      "Speaker": "T",
+      "Turn": 8087,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher challenges the student's idea that finding a common denominator is just \"easier,\" pushing them to consider if it's a mathematical requirement."
+    },
+    {
+      "ID": 8088,
+      "Speaker": "T",
+      "Turn": 8088,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8089,
+      "Speaker": "T",
+      "Turn": 8089,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher repeats the question, contrasting the student's informal idea (\"easier\") with the precise mathematical rule, pushing for a more accurate understanding."
+    },
+    {
+      "ID": 8090,
+      "Speaker": "T",
+      "Turn": 8090,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8091,
+      "Speaker": "T",
+      "Turn": 8091,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher directs the question to a specific student, pressing them to choose between an informal description (\"easier\") and the correct mathematical principle."
+    },
+    {
+      "ID": 8094,
+      "Speaker": "T",
+      "Turn": 8094,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8095,
+      "Speaker": "T",
+      "Turn": 8095,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8096,
+      "Speaker": "T",
+      "Turn": 8096,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a direct question to confirm the mathematical necessity of finding a common denominator."
+    },
+    {
+      "ID": 8097,
+      "Speaker": "T",
+      "Turn": 8097,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8098,
+      "Speaker": "T",
+      "Turn": 8098,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8100,
+      "Speaker": "T",
+      "Turn": 8100,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8102,
+      "Speaker": "T",
+      "Turn": 8102,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8103,
+      "Speaker": "T",
+      "Turn": 8103,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8105,
+      "Speaker": "T",
+      "Turn": 8105,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8106,
+      "Speaker": "T",
+      "Turn": 8106,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8108,
+      "Speaker": "T",
+      "Turn": 8108,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8110,
+      "Speaker": "T",
+      "Turn": 8110,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to complete a sentence with a precise mathematical term to define \"common denominator.\""
+    },
+    {
+      "ID": 8113,
+      "Speaker": "T",
+      "Turn": 8113,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher acknowledges a student's word choice (\"equal\") and then prompts for a more precise or alternative mathematical term."
+    }
+  ]
+}

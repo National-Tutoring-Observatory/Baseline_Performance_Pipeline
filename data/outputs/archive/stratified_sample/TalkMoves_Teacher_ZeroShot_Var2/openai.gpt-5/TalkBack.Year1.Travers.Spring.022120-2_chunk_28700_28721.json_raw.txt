@@ -1,0 +1,130 @@
+{
+  "records": [
+    {
+      "ID": 28701,
+      "Speaker": "T",
+      "Turn": 239,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks for the specific number of quarters in a dollar, prompting a precise mathematical fact."
+    },
+    {
+      "ID": 28703,
+      "Speaker": "T",
+      "Turn": 241,
+      "TalkMove": "Restating",
+      "Reasoning": "Repeats the student's answer 'Four' verbatim."
+    },
+    {
+      "ID": 28704,
+      "Speaker": "T",
+      "Turn": 241,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 28705,
+      "Speaker": "T",
+      "Turn": 241,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 28706,
+      "Speaker": "T",
+      "Turn": 241,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 28707,
+      "Speaker": "T",
+      "Turn": 241,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 28708,
+      "Speaker": "T",
+      "Turn": 241,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 28709,
+      "Speaker": "T",
+      "Turn": 241,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 28710,
+      "Speaker": "T",
+      "Turn": 241,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 28711,
+      "Speaker": "T",
+      "Turn": 241,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 28712,
+      "Speaker": "T",
+      "Turn": 241,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 28713,
+      "Speaker": "T",
+      "Turn": 241,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 28714,
+      "Speaker": "T",
+      "Turn": 241,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 28717,
+      "Speaker": "T",
+      "Turn": 243,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 28718,
+      "Speaker": "T",
+      "Turn": 243,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Prompts everyone to think and signals how to respond (thumbs up), orienting the class to participate together."
+    },
+    {
+      "ID": 28719,
+      "Speaker": "T",
+      "Turn": 243,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Directs the class's attention to the specific angle, orienting everyone to the representation."
+    },
+    {
+      "ID": 28720,
+      "Speaker": "T",
+      "Turn": 243,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Elicits a specific judgment about the angle's measure (between 0 and 90 degrees)."
+    },
+    {
+      "ID": 28721,
+      "Speaker": "T",
+      "Turn": 243,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Elicits a specific judgment about the angle's measure (between 90 and 180 degrees)."
+    }
+  ]
+}

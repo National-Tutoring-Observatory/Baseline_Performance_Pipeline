@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 405,
+      "Speaker": "T",
+      "Turn": 405,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 406,
+      "Speaker": "T",
+      "Turn": 406,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher requests students to identify who completed the fraction task for 15, prompting a specific mathematical contribution."
+    },
+    {
+      "ID": 407,
+      "Speaker": "T",
+      "Turn": 407,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks Liam to share the solution he obtained, soliciting a precise mathematical answer."
+    },
+    {
+      "ID": 409,
+      "Speaker": "T",
+      "Turn": 409,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks how the student figured the answers out, prompting an explanation of the reasoning process."
+    },
+    {
+      "ID": 410,
+      "Speaker": "T",
+      "Turn": 410,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Again the teacher asks for an explanation of the student’s method (‘What did you do?’)."
+    },
+    {
+      "ID": 412,
+      "Speaker": "T",
+      "Turn": 412,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student’s contribution (‘You added’) in her own words, confirming understanding."
+    },
+    {
+      "ID": 414,
+      "Speaker": "T",
+      "Turn": 414,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher restates the student’s idea with slightly expanded wording to clarify it for the class."
+    },
+    {
+      "ID": 415,
+      "Speaker": "T",
+      "Turn": 415,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks for further explanation about the denominator procedure (‘What did you do on the bottom?’)."
+    },
+    {
+      "ID": 417,
+      "Speaker": "T",
+      "Turn": 417,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher echoes the student’s explanation (‘You counted by 5’), rephrasing it for the class."
+    },
+    {
+      "ID": 418,
+      "Speaker": "T",
+      "Turn": 418,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher asks Bryce to restate Liam’s idea, prompting active listening and ensuring classmates understand."
+    },
+    {
+      "ID": 419,
+      "Speaker": "T",
+      "Turn": 419,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher presses for an explanation of how the specific fraction results (2/10 and 3/15) were obtained."
+    },
+    {
+      "ID": 421,
+      "Speaker": "T",
+      "Turn": 421,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher seeks a precise detail (‘He added what?’) to clarify the student’s method."
+    },
+    {
+      "ID": 423,
+      "Speaker": "T",
+      "Turn": 423,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 424,
+      "Speaker": "T",
+      "Turn": 424,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher directs Liam to repeat his explanation for Bryce, focusing the class on shared understanding."
+    },
+    {
+      "ID": 425,
+      "Speaker": "T",
+      "Turn": 425,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases Liam’s earlier statement to clarify what was said for everyone."
+    },
+    {
+      "ID": 426,
+      "Speaker": "T",
+      "Turn": 426,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher checks whether another student understands the explanation, ensuring collective comprehension."
+    },
+    {
+      "ID": 427,
+      "Speaker": "T",
+      "Turn": 427,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher summarizes Liam’s process in her own words to clarify it for the class."
+    },
+    {
+      "ID": 429,
+      "Speaker": "T",
+      "Turn": 429,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher verifies that the student understands, maintaining shared understanding among participants."
+    },
+    {
+      "ID": 430,
+      "Speaker": "T",
+      "Turn": 430,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher checks another student’s understanding, ensuring the whole class is following."
+    },
+    {
+      "ID": 432,
+      "Speaker": "T",
+      "Turn": 432,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to consider whether the method generalizes to all fractions, prompting justification."
+    }
+  ]
+}

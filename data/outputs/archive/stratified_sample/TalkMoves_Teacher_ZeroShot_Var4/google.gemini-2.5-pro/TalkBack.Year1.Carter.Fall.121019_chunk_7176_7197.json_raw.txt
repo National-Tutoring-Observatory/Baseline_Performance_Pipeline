@@ -1,0 +1,123 @@
+{
+  "records": [
+    {
+      "ID": 7176,
+      "Turn": 114,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 7177,
+      "Turn": 114,
+      "Speaker": "T",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher directs the class to engage in the same activity together."
+    },
+    {
+      "ID": 7178,
+      "Turn": 114,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 7179,
+      "Turn": 114,
+      "Speaker": "T",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher prompts the whole class to participate in a shared activity (reading)."
+    },
+    {
+      "ID": 7181,
+      "Turn": 116,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 7182,
+      "Turn": 116,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 7184,
+      "Turn": 118,
+      "Speaker": "T",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher directs the students' attention to the shared task material."
+    },
+    {
+      "ID": 7185,
+      "Turn": 118,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 7187,
+      "Turn": 120,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 7188,
+      "Turn": 120,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 7190,
+      "Turn": 122,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to provide a more precise mathematical rule after the student pointed out an error."
+    },
+    {
+      "ID": 7192,
+      "Turn": 124,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's idea (that the rule was incomplete) but changes the wording to summarize it."
+    },
+    {
+      "ID": 7193,
+      "Turn": 124,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 7194,
+      "Turn": 124,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts students to explain their thinking and make a prediction."
+    },
+    {
+      "ID": 7195,
+      "Turn": 124,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher follows up the previous prompt by asking for more specific details in the students' explanation."
+    },
+    {
+      "ID": 7196,
+      "Turn": 124,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher provides a sentence starter to scaffold students in sharing their thinking."
+    },
+    {
+      "ID": 7197,
+      "Turn": 124,
+      "Speaker": "T",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher directs the class to engage in the same activity together."
+    }
+  ]
+}

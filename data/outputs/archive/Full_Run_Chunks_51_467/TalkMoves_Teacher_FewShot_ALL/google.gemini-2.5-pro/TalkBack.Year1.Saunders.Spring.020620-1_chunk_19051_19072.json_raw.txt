@@ -1,0 +1,140 @@
+{
+  "records": [
+    {
+      "ID": 19051,
+      "Turn": 1,
+      "Speaker": "T",
+      "Sentence": "Lets talk about exploration one",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19052,
+      "Turn": 1,
+      "Speaker": "T",
+      "Sentence": "Looking at the paired function by comparison Heres actually the answers so you can check your work really quickly",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19053,
+      "Turn": 2,
+      "Speaker": "T",
+      "Sentence": "Now well review transformation theres two choices",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19054,
+      "Turn": 2,
+      "Speaker": "T",
+      "Sentence": "Were either modifying X or were modifying the entire function",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19055,
+      "Turn": 2,
+      "Speaker": "T",
+      "Sentence": "For this first one did we modify X or the entire function",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to make a specific mathematical contribution by choosing between two defined options."
+    },
+    {
+      "ID": 19057,
+      "Turn": 3,
+      "Speaker": "T",
+      "Sentence": "What do you think",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "After an incorrect answer, the teacher prompts for more thinking, encouraging students to reconsider their initial idea."
+    },
+    {
+      "ID": 19058,
+      "Turn": 3,
+      "Speaker": "T",
+      "Sentence": "What did we do",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts students to explain the process ('What did we do?') to guide them toward the correct reasoning."
+    },
+    {
+      "ID": 19059,
+      "Turn": 3,
+      "Speaker": "T",
+      "Sentence": "What did we modify",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher narrows the prompt to focus on the specific action, pressing students to share their thinking about what was modified."
+    },
+    {
+      "ID": 19061,
+      "Turn": 5,
+      "Speaker": "T",
+      "Sentence": "We modified X",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher takes the student's one-word answer ('X') and rephrases it as a complete sentence ('We modified X'), clarifying and appropriating the student's contribution."
+    },
+    {
+      "ID": 19062,
+      "Turn": 5,
+      "Speaker": "T",
+      "Sentence": "If we modify the whole function it would look something like this",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19063,
+      "Turn": 5,
+      "Speaker": "T",
+      "Sentence": "Our first graph is only modifying X just to get this idea",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19064,
+      "Turn": 5,
+      "Speaker": "T",
+      "Sentence": "Now do we just modify X or do we modify the whole function here",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to make a specific mathematical contribution by choosing between two defined options."
+    },
+    {
+      "ID": 19066,
+      "Turn": 7,
+      "Speaker": "T",
+      "Sentence": "Right",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19067,
+      "Turn": 7,
+      "Speaker": "T",
+      "Sentence": "Because weve put a negative sign in front of the existing function",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19068,
+      "Turn": 7,
+      "Speaker": "T",
+      "Sentence": "We modified the whole function",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's idea but changes the verb tense ('modify' to 'modified'), slightly rephrasing the contribution to confirm it."
+    },
+    {
+      "ID": 19069,
+      "Turn": 7,
+      "Speaker": "T",
+      "Sentence": "Then this guy",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19071,
+      "Turn": 9,
+      "Speaker": "T",
+      "Sentence": "Modify X you think",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's contribution and adds a questioning tag ('you think?'), which re-voices the idea as something to be considered or confirmed by the class."
+    }
+  ]
+}

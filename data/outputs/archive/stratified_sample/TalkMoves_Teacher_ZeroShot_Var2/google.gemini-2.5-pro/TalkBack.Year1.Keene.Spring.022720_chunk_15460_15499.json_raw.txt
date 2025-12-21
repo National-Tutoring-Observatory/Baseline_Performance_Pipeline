@@ -1,0 +1,212 @@
+{
+  "records": [
+    {
+      "ID": 15460,
+      "Turn": 161,
+      "Speaker": "T",
+      "Sentence": "Go",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15463,
+      "Turn": 164,
+      "Speaker": "T",
+      "Sentence": "Were on page 100 Oh",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15468,
+      "Turn": 168,
+      "Speaker": "T",
+      "Sentence": "Im sorry math journal page 167 is with the SEC so I apologize if I misspoke",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15470,
+      "Turn": 170,
+      "Speaker": "T",
+      "Sentence": "I didnt they just didnt listen",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15471,
+      "Turn": 171,
+      "Speaker": "T",
+      "Sentence": "Got you",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15474,
+      "Turn": 174,
+      "Speaker": "T",
+      "Sentence": "Oh thats page five because thats the wrong lesson",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15475,
+      "Turn": 174,
+      "Speaker": "T",
+      "Sentence": "Sorry",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15476,
+      "Turn": 174,
+      "Speaker": "T",
+      "Sentence": "I got to fix that",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15477,
+      "Turn": 175,
+      "Speaker": "T",
+      "Sentence": "All right",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15478,
+      "Turn": 175,
+      "Speaker": "T",
+      "Sentence": "Go ahead and do number one",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15479,
+      "Turn": 175,
+      "Speaker": "T",
+      "Sentence": "All right",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15480,
+      "Turn": 175,
+      "Speaker": "T",
+      "Sentence": "What should I write class youre going to tell me the whole class",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the students to provide a specific mathematical contribution for the problem."
+    },
+    {
+      "ID": 15481,
+      "Turn": 175,
+      "Speaker": "T",
+      "Sentence": "Tell me what goes here",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to make a specific mathematical contribution by stating what numbers to write."
+    },
+    {
+      "ID": 15483,
+      "Turn": 177,
+      "Speaker": "T",
+      "Sentence": "Okay",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15484,
+      "Turn": 177,
+      "Speaker": "T",
+      "Sentence": "Thinking about what we just learned talk with your partner whats the pattern between three fifths and this one",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts students to explain their thinking by asking them to identify a pattern and connect ideas."
+    },
+    {
+      "ID": 15485,
+      "Turn": 177,
+      "Speaker": "T",
+      "Sentence": "Three fifths of 10 is six",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15486,
+      "Turn": 177,
+      "Speaker": "T",
+      "Sentence": "Whats the pattern what do you notice",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts students to share their thinking and explain the mathematical relationship they observe."
+    },
+    {
+      "ID": 15487,
+      "Turn": 177,
+      "Speaker": "T",
+      "Sentence": "Thinking about what we just learned",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15488,
+      "Turn": 177,
+      "Speaker": "T",
+      "Sentence": "Go",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15491,
+      "Turn": 180,
+      "Speaker": "T",
+      "Sentence": "Hey waterfall",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15492,
+      "Turn": 180,
+      "Speaker": "T",
+      "Sentence": "Luis can you please share what you noticed",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts a specific student to share their thinking in response to the previous question about patterns."
+    },
+    {
+      "ID": 15494,
+      "Turn": 182,
+      "Speaker": "T",
+      "Sentence": "Well part of the fraction is telling us to multiply by three",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases the student's observation about number patterns into a more formal mathematical operation."
+    },
+    {
+      "ID": 15495,
+      "Turn": 182,
+      "Speaker": "T",
+      "Sentence": "Danhew",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15497,
+      "Turn": 184,
+      "Speaker": "T",
+      "Sentence": "Youre telling me to paraphrase Luis and Todd if we find the unit fraction of a number in the denominator we can sorry ignore me what I just said",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15498,
+      "Turn": 184,
+      "Speaker": "T",
+      "Sentence": "When we find the unit fraction of the number we can multiply that answer by the new numerator to get a fraction of when the numerator is not one",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher synthesizes and rephrases the students' ideas into a general mathematical rule, using more precise language."
+    },
+    {
+      "ID": 15499,
+      "Turn": 184,
+      "Speaker": "T",
+      "Sentence": "Unit fraction remember means one something",
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 15002,
+      "Speaker": "T",
+      "Turn": 15002,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15003,
+      "Speaker": "T",
+      "Turn": 15003,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15004,
+      "Speaker": "T",
+      "Turn": 15004,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15007,
+      "Speaker": "T",
+      "Turn": 15007,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15008,
+      "Speaker": "T",
+      "Turn": 15008,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher challenges a potential oversimplification (doubling) to press for a more accurate definition of multiplication."
+    },
+    {
+      "ID": 15010,
+      "Speaker": "T",
+      "Turn": 15010,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15011,
+      "Speaker": "T",
+      "Turn": 15011,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15012,
+      "Speaker": "T",
+      "Turn": 15012,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts a student to provide a precise mathematical definition for the term 'multiplying'."
+    },
+    {
+      "ID": 15014,
+      "Speaker": "T",
+      "Turn": 15014,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's idea using different words ('adding the same number over and over again') to clarify and formalize the contribution."
+    },
+    {
+      "ID": 15016,
+      "Speaker": "T",
+      "Turn": 15016,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher elaborates on the student's idea by providing a specific example, which serves to re-present and clarify the student's thinking."
+    },
+    {
+      "ID": 15017,
+      "Speaker": "T",
+      "Turn": 15017,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases the student's contribution into a general mathematical rule."
+    },
+    {
+      "ID": 15018,
+      "Speaker": "T",
+      "Turn": 15018,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15020,
+      "Speaker": "T",
+      "Turn": 15020,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a question that requires students to accurately apply the newly established definition of multiplication."
+    },
+    {
+      "ID": 15022,
+      "Speaker": "T",
+      "Turn": 15022,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's one-word answer ('Seven') verbatim."
+    },
+    {
+      "ID": 15023,
+      "Speaker": "T",
+      "Turn": 15023,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15024,
+      "Speaker": "T",
+      "Turn": 15024,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15025,
+      "Speaker": "T",
+      "Turn": 15025,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15026,
+      "Speaker": "T",
+      "Turn": 15026,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15028,
+      "Speaker": "T",
+      "Turn": 15028,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15029,
+      "Speaker": "T",
+      "Turn": 15029,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher summarizes the discussion by stating the formal definition, which is a rephrasing of the students' collective contributions."
+    }
+  ]
+}

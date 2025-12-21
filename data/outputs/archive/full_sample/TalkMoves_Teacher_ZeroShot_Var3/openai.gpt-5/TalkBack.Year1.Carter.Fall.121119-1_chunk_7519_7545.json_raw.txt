@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 7519,
+      "Speaker": "T",
+      "Turn": 7519,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 7520,
+      "Speaker": "T",
+      "Turn": 7520,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Asks students how they know it's decimals, prompting justification."
+    },
+    {
+      "ID": 7521,
+      "Speaker": "T",
+      "Turn": 7521,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Asks how they know the problem is in decimal form, eliciting justification."
+    },
+    {
+      "ID": 7522,
+      "Speaker": "T",
+      "Turn": 7522,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 7524,
+      "Speaker": "T",
+      "Turn": 7524,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Requests evidence about where decimals are referenced."
+    },
+    {
+      "ID": 7525,
+      "Speaker": "T",
+      "Turn": 7525,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Prompts the student to indicate where they see evidence."
+    },
+    {
+      "ID": 7527,
+      "Speaker": "T",
+      "Turn": 7527,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Asks to recall and locate where the class discussed decimals, prompting evidence."
+    },
+    {
+      "ID": 7529,
+      "Speaker": "T",
+      "Turn": 7529,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's answer verbatim."
+    },
+    {
+      "ID": 7530,
+      "Speaker": "T",
+      "Turn": 7530,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 7531,
+      "Speaker": "T",
+      "Turn": 7531,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Restates the student’s idea and adds clarification about decimal operations."
+    },
+    {
+      "ID": 7532,
+      "Speaker": "T",
+      "Turn": 7532,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 7533,
+      "Speaker": "T",
+      "Turn": 7533,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Asks for additional indicators to justify that the problem uses decimals."
+    },
+    {
+      "ID": 7535,
+      "Speaker": "T",
+      "Turn": 7535,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "Invites peers to assist/respond to a classmate’s idea."
+    },
+    {
+      "ID": 7536,
+      "Speaker": "T",
+      "Turn": 7536,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Asks for justification beyond the learning intention."
+    },
+    {
+      "ID": 7537,
+      "Speaker": "T",
+      "Turn": 7537,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 7538,
+      "Speaker": "T",
+      "Turn": 7538,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 7540,
+      "Speaker": "T",
+      "Turn": 7540,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Prompts the student to elaborate on their thinking."
+    },
+    {
+      "ID": 7543,
+      "Speaker": "T",
+      "Turn": 7543,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Summarizes the student’s point about using the grid, rephrasing it."
+    },
+    {
+      "ID": 7544,
+      "Speaker": "T",
+      "Turn": 7544,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Requests the precise value of the whole square."
+    },
+    {
+      "ID": 7545,
+      "Speaker": "T",
+      "Turn": 7545,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Requests a demonstration/representation as evidence."
+    }
+  ]
+}

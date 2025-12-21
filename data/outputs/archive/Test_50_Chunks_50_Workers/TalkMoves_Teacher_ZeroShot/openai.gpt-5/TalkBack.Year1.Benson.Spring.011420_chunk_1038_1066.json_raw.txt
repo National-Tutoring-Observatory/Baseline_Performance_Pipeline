@@ -1,0 +1,90 @@
+{
+  "records": [
+    {
+      "ID": 1044,
+      "Speaker": "T",
+      "Turn": 1
+    },
+    {
+      "ID": 1045,
+      "Speaker": "T",
+      "Turn": 1
+    },
+    {
+      "ID": 1048,
+      "Speaker": "T",
+      "Turn": 3
+    },
+    {
+      "ID": 1049,
+      "Speaker": "T",
+      "Turn": 3
+    },
+    {
+      "ID": 1050,
+      "Speaker": "T",
+      "Turn": 3
+    },
+    {
+      "ID": 1053,
+      "Speaker": "T",
+      "Turn": 5,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks students to identify the unknown in the problem, prompting a specific mathematical contribution."
+    },
+    {
+      "ID": 1054,
+      "Speaker": "T",
+      "Turn": 5,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher directs a specific student to state what needs to be found, focusing on precise problem language."
+    },
+    {
+      "ID": 1056,
+      "Speaker": "T",
+      "Turn": 7,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to state the given information in the problem."
+    },
+    {
+      "ID": 1057,
+      "Speaker": "T",
+      "Turn": 7,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher continues to elicit the known quantities or pieces from the problem."
+    },
+    {
+      "ID": 1058,
+      "Speaker": "T",
+      "Turn": 7
+    },
+    {
+      "ID": 1060,
+      "Speaker": "T",
+      "Turn": 9,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for a number sentence to represent and solve the situation, eliciting formal mathematical representation."
+    },
+    {
+      "ID": 1062,
+      "Speaker": "T",
+      "Turn": 11,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the exact number of beets, prompting a precise numerical answer."
+    },
+    {
+      "ID": 1064,
+      "Speaker": "T",
+      "Turn": 13,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to identify what the '5' represents in the context of the problem."
+    },
+    {
+      "ID": 1065,
+      "Speaker": "T",
+      "Turn": 15,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to specify what the '7' represents in the context."
+    }
+  ]
+}

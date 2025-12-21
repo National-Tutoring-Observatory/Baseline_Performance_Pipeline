@@ -1,0 +1,123 @@
+{
+  "records": [
+    {
+      "ID": 30138,
+      "Turn": 113,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's idea ('left') but adds the specific amount ('Two dollars') to make the contribution more complete and mathematically precise."
+    },
+    {
+      "ID": 30139,
+      "Turn": 113,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 30141,
+      "Turn": 115,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 30142,
+      "Turn": 115,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 30144,
+      "Turn": 117,
+      "Speaker": "T",
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's one-word response verbatim."
+    },
+    {
+      "ID": 30145,
+      "Turn": 117,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 30146,
+      "Turn": 117,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 30147,
+      "Turn": 117,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 30148,
+      "Turn": 117,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 30149,
+      "Turn": 117,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 30150,
+      "Turn": 117,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 30152,
+      "Turn": 119,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to provide the specific numerical value for the remainder."
+    },
+    {
+      "ID": 30154,
+      "Turn": 121,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher takes the student's contribution ('2 left') and rephrases it using the specific mathematical term 'remainder'."
+    },
+    {
+      "ID": 30155,
+      "Turn": 121,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 30156,
+      "Turn": 121,
+      "Speaker": "T",
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's contribution ('2 left') word for word."
+    },
+    {
+      "ID": 30157,
+      "Turn": 121,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 30158,
+      "Turn": 121,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

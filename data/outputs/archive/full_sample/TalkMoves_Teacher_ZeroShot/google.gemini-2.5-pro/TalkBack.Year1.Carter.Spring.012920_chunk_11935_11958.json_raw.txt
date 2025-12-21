@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 11935,
+      "Speaker": "T",
+      "Turn": 11935,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher is prompting students to provide a specific mathematical label for their model."
+    },
+    {
+      "ID": 11937,
+      "Speaker": "T",
+      "Turn": 11937,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the implied student answer ('4/4') and adds clarification by identifying it as the 'fraction component'."
+    },
+    {
+      "ID": 11938,
+      "Speaker": "T",
+      "Turn": 11938,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to provide a correct mathematical label for the y-axis."
+    },
+    {
+      "ID": 11939,
+      "Speaker": "T",
+      "Turn": 11939,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11940,
+      "Speaker": "T",
+      "Turn": 11940,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11942,
+      "Speaker": "T",
+      "Turn": 11942,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11944,
+      "Speaker": "T",
+      "Turn": 11944,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to provide the specific mathematical value for the first tick mark."
+    },
+    {
+      "ID": 11946,
+      "Speaker": "T",
+      "Turn": 11946,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11947,
+      "Speaker": "T",
+      "Turn": 11947,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher begins a series of prompts to orient a student back to the class discussion and encourage active listening."
+    },
+    {
+      "ID": 11948,
+      "Speaker": "T",
+      "Turn": 11948,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher prompts a student to listen to the ongoing discussion."
+    },
+    {
+      "ID": 11949,
+      "Speaker": "T",
+      "Turn": 11949,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher prompts a student to listen to the class discussion and use the information to correct their own work, thus orienting them to the group's activity."
+    },
+    {
+      "ID": 11950,
+      "Speaker": "T",
+      "Turn": 11950,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11951,
+      "Speaker": "T",
+      "Turn": 11951,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11952,
+      "Speaker": "T",
+      "Turn": 11952,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks a student to use their model to explain and demonstrate how it represents the mathematical problem."
+    },
+    {
+      "ID": 11953,
+      "Speaker": "T",
+      "Turn": 11953,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11954,
+      "Speaker": "T",
+      "Turn": 11954,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11955,
+      "Speaker": "T",
+      "Turn": 11955,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11956,
+      "Speaker": "T",
+      "Turn": 11956,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts the student to explain how their model demonstrates the mathematical product, asking for a connection between representation and reasoning."
+    },
+    {
+      "ID": 11957,
+      "Speaker": "T",
+      "Turn": 11957,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11958,
+      "Speaker": "T",
+      "Turn": 11958,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher instructs the presenting student to speak louder so that the rest of the class can hear, thereby facilitating active listening from the group."
+    }
+  ]
+}

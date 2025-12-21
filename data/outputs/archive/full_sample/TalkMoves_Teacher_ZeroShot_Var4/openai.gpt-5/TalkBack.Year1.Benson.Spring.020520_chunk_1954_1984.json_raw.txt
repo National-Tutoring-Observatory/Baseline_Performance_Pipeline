@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 1954,
+      "Speaker": "T",
+      "Turn": 1954,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1955,
+      "Speaker": "T",
+      "Turn": 1955,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1956,
+      "Speaker": "T",
+      "Turn": 1956,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1959,
+      "Speaker": "T",
+      "Turn": 1959,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Asks students how they are finding the cost, prompting them to explain their method."
+    },
+    {
+      "ID": 1960,
+      "Speaker": "T",
+      "Turn": 1960,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Requests students to describe the math they did, eliciting their thinking."
+    },
+    {
+      "ID": 1961,
+      "Speaker": "T",
+      "Turn": 1961,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Asks a specific student to explain the steps used to determine the cost."
+    },
+    {
+      "ID": 1964,
+      "Speaker": "T",
+      "Turn": 1964,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Prompts the student to justify where the two numbers came from."
+    },
+    {
+      "ID": 1967,
+      "Speaker": "T",
+      "Turn": 1967,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Asks why they multiplied by 3, eliciting the rationale behind the step."
+    },
+    {
+      "ID": 1969,
+      "Speaker": "T",
+      "Turn": 1969,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1970,
+      "Speaker": "T",
+      "Turn": 1970,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1971,
+      "Speaker": "T",
+      "Turn": 1971,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1972,
+      "Speaker": "T",
+      "Turn": 1972,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1974,
+      "Speaker": "T",
+      "Turn": 1974,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1975,
+      "Speaker": "T",
+      "Turn": 1975,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Paraphrases Landon’s method (2 × 30 for two hours at $30/hour) and result."
+    },
+    {
+      "ID": 1976,
+      "Speaker": "T",
+      "Turn": 1976,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Continues paraphrasing Landon’s next step of multiplying by 3 for three performers."
+    },
+    {
+      "ID": 1977,
+      "Speaker": "T",
+      "Turn": 1977,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "Invites others to share if they solved it differently from Landon, prompting comparison."
+    },
+    {
+      "ID": 1978,
+      "Speaker": "T",
+      "Turn": 1978,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Asks Grady to explain how he solved it."
+    },
+    {
+      "ID": 1980,
+      "Speaker": "T",
+      "Turn": 1980,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Restates Grady’s approach (30/hour times three performers) to clarify for the class."
+    },
+    {
+      "ID": 1982,
+      "Speaker": "T",
+      "Turn": 1982,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Continues restating Grady’s next step (90 × 2 for two hours)."
+    },
+    {
+      "ID": 1984,
+      "Speaker": "T",
+      "Turn": 1984,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

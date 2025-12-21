@@ -1,0 +1,100 @@
+{
+  "records": [
+    {
+      "ID": 12077,
+      "Speaker": "T",
+      "Turn": 101
+    },
+    {
+      "ID": 12081,
+      "Speaker": "T",
+      "Turn": 102,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher reformulates the student’s statement, replacing “next part of your product” with the precise phrasing “denominator of the product.”"
+    },
+    {
+      "ID": 12082,
+      "Speaker": "T",
+      "Turn": 102
+    },
+    {
+      "ID": 12083,
+      "Speaker": "T",
+      "Turn": 102
+    },
+    {
+      "ID": 12084,
+      "Speaker": "T",
+      "Turn": 102
+    },
+    {
+      "ID": 12085,
+      "Speaker": "T",
+      "Turn": 102
+    },
+    {
+      "ID": 12086,
+      "Speaker": "T",
+      "Turn": 103
+    },
+    {
+      "ID": 12087,
+      "Speaker": "T",
+      "Turn": 103
+    },
+    {
+      "ID": 12088,
+      "Speaker": "T",
+      "Turn": 103
+    },
+    {
+      "ID": 12089,
+      "Speaker": "T",
+      "Turn": 103
+    },
+    {
+      "ID": 12090,
+      "Speaker": "T",
+      "Turn": 103
+    },
+    {
+      "ID": 12092,
+      "Speaker": "T",
+      "Turn": 104
+    },
+    {
+      "ID": 12093,
+      "Speaker": "T",
+      "Turn": 104
+    },
+    {
+      "ID": 12094,
+      "Speaker": "T",
+      "Turn": 104
+    },
+    {
+      "ID": 12095,
+      "Speaker": "T",
+      "Turn": 104,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to name the exact mathematical component by asking, “the new what part of the product?”"
+    },
+    {
+      "ID": 12096,
+      "Speaker": "T",
+      "Turn": 104,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher supplies and rephrases the correct term—“The new denominator of the product”—clarifying the student’s language."
+    },
+    {
+      "ID": 12097,
+      "Speaker": "T",
+      "Turn": 105
+    },
+    {
+      "ID": 12098,
+      "Speaker": "T",
+      "Turn": 105
+    }
+  ]
+}

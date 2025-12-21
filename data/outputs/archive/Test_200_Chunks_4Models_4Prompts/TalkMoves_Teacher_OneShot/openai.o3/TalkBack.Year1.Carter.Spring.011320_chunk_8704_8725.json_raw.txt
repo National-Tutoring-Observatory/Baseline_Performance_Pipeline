@@ -1,0 +1,81 @@
+{
+  "records": [
+    {
+      "ID": 8705,
+      "Speaker": "T",
+      "Turn": 104,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8709,
+      "Speaker": "T",
+      "Turn": 107,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks students to verify whether their previous suggestion would actually result in 36, prompting them to check correctness."
+    },
+    {
+      "ID": 8710,
+      "Speaker": "T",
+      "Turn": 107,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8711,
+      "Speaker": "T",
+      "Turn": 107,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8712,
+      "Speaker": "T",
+      "Turn": 107,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "By asking whether 5 'goes in' to 36, the teacher presses students to test and confirm divisibility, seeking a precise mathematical answer."
+    },
+    {
+      "ID": 8714,
+      "Speaker": "T",
+      "Turn": 109,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher refers back to a student's earlier suggestion of 'four,' encouraging students to engage with and consider that prior idea."
+    },
+    {
+      "ID": 8718,
+      "Speaker": "T",
+      "Turn": 112,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher simply repeats the number 'Six,' echoing the student’s earlier contribution word-for-word."
+    },
+    {
+      "ID": 8720,
+      "Speaker": "T",
+      "Turn": 114,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the missing factor in 'six times what is 36,' prompting students to supply the exact mathematical fact."
+    },
+    {
+      "ID": 8722,
+      "Speaker": "T",
+      "Turn": 116,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8724,
+      "Speaker": "T",
+      "Turn": 118,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8725,
+      "Speaker": "T",
+      "Turn": 118,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

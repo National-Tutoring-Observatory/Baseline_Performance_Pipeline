@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 16379,
+      "Speaker": "T",
+      "Turn": 16379,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 16381,
+      "Speaker": "T",
+      "Turn": 16381,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 16382,
+      "Speaker": "T",
+      "Turn": 16382,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 16383,
+      "Speaker": "T",
+      "Turn": 16383,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 16384,
+      "Speaker": "T",
+      "Turn": 16384,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 16385,
+      "Speaker": "T",
+      "Turn": 16385,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to use specific mathematical language ('those are each called') to identify the term for an expression with two terms."
+    },
+    {
+      "ID": 16386,
+      "Speaker": "T",
+      "Turn": 16386,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a specific factual question about the shape of the graph, prompting for a correct mathematical identification."
+    },
+    {
+      "ID": 16387,
+      "Speaker": "T",
+      "Turn": 16387,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 16388,
+      "Speaker": "T",
+      "Turn": 16388,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks students to determine a specific property of the function (min or max)."
+    },
+    {
+      "ID": 16389,
+      "Speaker": "T",
+      "Turn": 16389,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher follows up the previous question with 'Because', prompting the student to explain the justification for their answer."
+    },
+    {
+      "ID": 16390,
+      "Speaker": "T",
+      "Turn": 16390,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks 'how do you know', explicitly prompting the student to provide evidence or explain their thinking regarding the graph's behavior."
+    },
+    {
+      "ID": 16391,
+      "Speaker": "T",
+      "Turn": 16391,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's idea ('A value is negative') to confirm or amplify the reasoning provided."
+    },
+    {
+      "ID": 16392,
+      "Speaker": "T",
+      "Turn": 16392,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases the student's contribution using more formal language ('Coefficient times quadratic term is negative')."
+    },
+    {
+      "ID": 16393,
+      "Speaker": "T",
+      "Turn": 16393,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks students to identify the specific mathematical concept ('what is it asking for') associated with the 'highest point'."
+    },
+    {
+      "ID": 16394,
+      "Speaker": "T",
+      "Turn": 16394,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 16395,
+      "Speaker": "T",
+      "Turn": 16395,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks 'How can I find...', prompting students to explain a procedure or strategy for solving the problem."
+    },
+    {
+      "ID": 16397,
+      "Speaker": "T",
+      "Turn": 16397,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 16398,
+      "Speaker": "T",
+      "Turn": 16398,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 16399,
+      "Speaker": "T",
+      "Turn": 16399,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 16400,
+      "Speaker": "T",
+      "Turn": 16400,
+      "TalkMove": "None",
+      "Reasoning": null
+    }
+  ]
+}

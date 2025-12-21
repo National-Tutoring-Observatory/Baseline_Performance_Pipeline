@@ -1,0 +1,107 @@
+{
+  "records": [
+    {
+      "ID": 26382,
+      "Speaker": "T",
+      "Turn": 107
+    },
+    {
+      "ID": 26383,
+      "Speaker": "T",
+      "Turn": 107
+    },
+    {
+      "ID": 26384,
+      "Speaker": "T",
+      "Turn": 108
+    },
+    {
+      "ID": 26385,
+      "Speaker": "T",
+      "Turn": 108,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Asks students to interpret the situation ('What does all this mean'), prompting explanation."
+    },
+    {
+      "ID": 26386,
+      "Speaker": "T",
+      "Turn": 108,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Elicits a specific quantity from the context ('how many people are there juggling')."
+    },
+    {
+      "ID": 26388,
+      "Speaker": "T",
+      "Turn": 110,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Encourages all students to participate and listen ('I want to hear all of your voices')."
+    },
+    {
+      "ID": 26389,
+      "Speaker": "T",
+      "Turn": 110,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Requests a precise number ('How many jugglers are there')."
+    },
+    {
+      "ID": 26391,
+      "Speaker": "T",
+      "Turn": 112
+    },
+    {
+      "ID": 26392,
+      "Speaker": "T",
+      "Turn": 112,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks for a specific amount of time ('How many hours do the jugglers perform')."
+    },
+    {
+      "ID": 26394,
+      "Speaker": "T",
+      "Turn": 114,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Seeks a specific cost per performer."
+    },
+    {
+      "ID": 26396,
+      "Speaker": "T",
+      "Turn": 116
+    },
+    {
+      "ID": 26397,
+      "Speaker": "T",
+      "Turn": 116,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Builds on the student's '30 an hour' by adding clarification ('for three people')."
+    },
+    {
+      "ID": 26399,
+      "Speaker": "T",
+      "Turn": 118,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Prompts the student to specify the number of people."
+    },
+    {
+      "ID": 26400,
+      "Speaker": "T",
+      "Turn": 118,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Restates and elaborates the scenario, modifying the student's idea to include people, hours, and rate."
+    },
+    {
+      "ID": 26401,
+      "Speaker": "T",
+      "Turn": 118
+    },
+    {
+      "ID": 26402,
+      "Speaker": "T",
+      "Turn": 118
+    },
+    {
+      "ID": 26403,
+      "Speaker": "T",
+      "Turn": 118
+    }
+  ]
+}

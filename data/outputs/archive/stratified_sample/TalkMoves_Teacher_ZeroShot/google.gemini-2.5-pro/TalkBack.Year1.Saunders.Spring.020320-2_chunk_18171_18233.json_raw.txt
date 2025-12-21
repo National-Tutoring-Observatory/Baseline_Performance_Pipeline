@@ -1,0 +1,326 @@
+{
+  "records": [
+    {
+      "ID": 18171,
+      "Speaker": "T",
+      "Turn": 11,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18173,
+      "Speaker": "T",
+      "Turn": 13,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to make a specific mathematical contribution about the behavior of the graph at a certain point."
+    },
+    {
+      "ID": 18175,
+      "Speaker": "T",
+      "Turn": 15,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's idea ('bounces') and adds more precise mathematical language and a general rule."
+    },
+    {
+      "ID": 18176,
+      "Speaker": "T",
+      "Turn": 15,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to provide a specific mathematical value (the degree of the polynomial)."
+    },
+    {
+      "ID": 18180,
+      "Speaker": "T",
+      "Turn": 19,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18184,
+      "Speaker": "T",
+      "Turn": 23,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's correct answer ('Five') and adds on the reasoning for why it is correct."
+    },
+    {
+      "ID": 18185,
+      "Speaker": "T",
+      "Turn": 23,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to make a mathematical contribution by identifying an attribute of the polynomial."
+    },
+    {
+      "ID": 18188,
+      "Speaker": "T",
+      "Turn": 26,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's contribution ('Positive') and then adds on by explaining what that means for the graph's end behavior."
+    },
+    {
+      "ID": 18189,
+      "Speaker": "T",
+      "Turn": 26,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18190,
+      "Speaker": "T",
+      "Turn": 26,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18191,
+      "Speaker": "T",
+      "Turn": 27,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher prompts the student to speak louder, which serves to make their contribution available to the whole class and keep everyone involved."
+    },
+    {
+      "ID": 18193,
+      "Speaker": "T",
+      "Turn": 29,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18194,
+      "Speaker": "T",
+      "Turn": 29,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18195,
+      "Speaker": "T",
+      "Turn": 29,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18196,
+      "Speaker": "T",
+      "Turn": 30,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18197,
+      "Speaker": "T",
+      "Turn": 30,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18198,
+      "Speaker": "T",
+      "Turn": 30,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18199,
+      "Speaker": "T",
+      "Turn": 31,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18200,
+      "Speaker": "T",
+      "Turn": 31,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18201,
+      "Speaker": "T",
+      "Turn": 31,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to make a mathematical contribution by identifying the function family."
+    },
+    {
+      "ID": 18203,
+      "Speaker": "T",
+      "Turn": 32,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher brings up a student's suggestion ('somebody saying its C') and asks the rest of the class to evaluate it ('could it be')."
+    },
+    {
+      "ID": 18205,
+      "Speaker": "T",
+      "Turn": 34,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to make a mathematical contribution by identifying specific values from the graph."
+    },
+    {
+      "ID": 18208,
+      "Speaker": "T",
+      "Turn": 37,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's answer ('1 and 4') word for word."
+    },
+    {
+      "ID": 18209,
+      "Speaker": "T",
+      "Turn": 37,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts students to explain the process or thinking required to use the x-intercepts to write an equation."
+    },
+    {
+      "ID": 18211,
+      "Speaker": "T",
+      "Turn": 39,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18212,
+      "Speaker": "T",
+      "Turn": 39,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18213,
+      "Speaker": "T",
+      "Turn": 39,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18214,
+      "Speaker": "T",
+      "Turn": 39,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18215,
+      "Speaker": "T",
+      "Turn": 40,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18216,
+      "Speaker": "T",
+      "Turn": 40,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18218,
+      "Speaker": "T",
+      "Turn": 42,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18219,
+      "Speaker": "T",
+      "Turn": 42,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18220,
+      "Speaker": "T",
+      "Turn": 42,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18221,
+      "Speaker": "T",
+      "Turn": 42,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18222,
+      "Speaker": "T",
+      "Turn": 43,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18223,
+      "Speaker": "T",
+      "Turn": 43,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18224,
+      "Speaker": "T",
+      "Turn": 43,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18225,
+      "Speaker": "T",
+      "Turn": 43,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18226,
+      "Speaker": "T",
+      "Turn": 43,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18227,
+      "Speaker": "T",
+      "Turn": 43,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18228,
+      "Speaker": "T",
+      "Turn": 44,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18229,
+      "Speaker": "T",
+      "Turn": 44,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18230,
+      "Speaker": "T",
+      "Turn": 44,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18231,
+      "Speaker": "T",
+      "Turn": 44,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18232,
+      "Speaker": "T",
+      "Turn": 44,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18233,
+      "Speaker": "T",
+      "Turn": 44,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 28420,
+      "Speaker": "T",
+      "Turn": 28420,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 28424,
+      "Speaker": "T",
+      "Turn": 28424,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 28426,
+      "Speaker": "T",
+      "Turn": 28426,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks Zoe to explain the reasoning behind her previous answer by asking \"Why.\""
+    },
+    {
+      "ID": 28428,
+      "Speaker": "T",
+      "Turn": 28428,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student’s phrase \"A quarter-turn counterclockwise\" exactly as stated."
+    },
+    {
+      "ID": 28429,
+      "Speaker": "T",
+      "Turn": 28429,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 28430,
+      "Speaker": "T",
+      "Turn": 28430,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks students to enumerate the answer choices, prompting a precise mathematical contribution."
+    },
+    {
+      "ID": 28432,
+      "Speaker": "T",
+      "Turn": 28432,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 28433,
+      "Speaker": "T",
+      "Turn": 28433,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 28434,
+      "Speaker": "T",
+      "Turn": 28434,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher directs students to explain both their estimated answer and the reasoning behind it."
+    },
+    {
+      "ID": 28435,
+      "Speaker": "T",
+      "Turn": 28435,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to focus on a precise feature of the diagram (the arc) to improve accuracy."
+    },
+    {
+      "ID": 28444,
+      "Speaker": "T",
+      "Turn": 28444,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "By asking if they are measuring where 90° would be, the teacher pushes students to verify the exact reference point."
+    },
+    {
+      "ID": 28445,
+      "Speaker": "T",
+      "Turn": 28445,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 28446,
+      "Speaker": "T",
+      "Turn": 28446,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher requests an explanation for the students’ strategy: \"Tell me why you’re doing that.\""
+    },
+    {
+      "ID": 28448,
+      "Speaker": "T",
+      "Turn": 28448,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks what students are circling for an obtuse angle, seeking a precise mathematical response."
+    },
+    {
+      "ID": 28449,
+      "Speaker": "T",
+      "Turn": 28449,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 28450,
+      "Speaker": "T",
+      "Turn": 28450,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 28451,
+      "Speaker": "T",
+      "Turn": 28451,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher restates the group’s answer while adding framing words: \"You guys got 90 to 180.\""
+    },
+    {
+      "ID": 28452,
+      "Speaker": "T",
+      "Turn": 28452,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks another group for their specific answer, requesting an exact mathematical value."
+    },
+    {
+      "ID": 28454,
+      "Speaker": "T",
+      "Turn": 28454,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 28455,
+      "Speaker": "T",
+      "Turn": 28455,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

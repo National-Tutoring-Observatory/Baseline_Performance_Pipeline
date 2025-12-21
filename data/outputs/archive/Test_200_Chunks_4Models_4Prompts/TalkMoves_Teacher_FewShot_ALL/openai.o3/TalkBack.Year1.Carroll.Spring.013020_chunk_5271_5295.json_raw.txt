@@ -1,0 +1,95 @@
+{
+  "records": [
+    {
+      "ID": 5271,
+      "Speaker": "T",
+      "Turn": 43,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher restates the student's idea in her own words, indicating that the student suggested doubling the figure."
+    },
+    {
+      "ID": 5272,
+      "Speaker": "T",
+      "Turn": 43,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks students to describe specifically what will happen to the trapezoid, prompting a precise mathematical prediction."
+    },
+    {
+      "ID": 5273,
+      "Speaker": "T",
+      "Turn": 43,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "By listing possible outcomes (wider, taller, both), the teacher presses students to choose an accurate mathematical description."
+    },
+    {
+      "ID": 5274,
+      "Speaker": "T",
+      "Turn": 43,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher reiterates the question about the effect of doubling the x-axis, urging students to state precisely what happens to the trapezoid."
+    },
+    {
+      "ID": 5277,
+      "Speaker": "T",
+      "Turn": 46,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5283,
+      "Speaker": "T",
+      "Turn": 51,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5284,
+      "Speaker": "T",
+      "Turn": 51,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5285,
+      "Speaker": "T",
+      "Turn": 51,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5290,
+      "Speaker": "T",
+      "Turn": 55,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks Maya to share what she wrote, prompting her to explain her thinking."
+    },
+    {
+      "ID": 5291,
+      "Speaker": "T",
+      "Turn": 55,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher explicitly asks for Maya's thoughts, encouraging her to elaborate on her reasoning."
+    },
+    {
+      "ID": 5292,
+      "Speaker": "T",
+      "Turn": 55,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher restates Maya's idea ('you think it's gonna get wider') to confirm understanding."
+    },
+    {
+      "ID": 5293,
+      "Speaker": "T",
+      "Turn": 55,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5294,
+      "Speaker": "T",
+      "Turn": 55,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher asks if anyone agrees with Maya, prompting other students to connect their thinking to a peer's idea."
+    }
+  ]
+}

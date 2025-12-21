@@ -1,0 +1,445 @@
+{
+  "records": [
+    {
+      "ID": 810,
+      "Turn": 204,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 812,
+      "Turn": 206,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases the student's contribution 'two of these' with more specific mathematical language, 'two light blues'."
+    },
+    {
+      "ID": 813,
+      "Turn": 206,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 814,
+      "Turn": 206,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 815,
+      "Turn": 206,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 816,
+      "Turn": 206,
+      "Speaker": "T",
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher explicitly asks the class to respond to a specific student's (Maddox's) idea."
+    },
+    {
+      "ID": 818,
+      "Turn": 208,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher summarizes and reframes the students' contributions into a more formal mathematical statement."
+    },
+    {
+      "ID": 819,
+      "Turn": 208,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 820,
+      "Turn": 208,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 822,
+      "Turn": 210,
+      "Speaker": "T",
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's contribution 'Three of the dark blues' nearly verbatim."
+    },
+    {
+      "ID": 823,
+      "Turn": 210,
+      "Speaker": "T",
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher asks the class to evaluate and respond to a specific student's (Katie's) idea."
+    },
+    {
+      "ID": 825,
+      "Turn": 212,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 826,
+      "Turn": 212,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 827,
+      "Turn": 212,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 828,
+      "Turn": 212,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 829,
+      "Turn": 212,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 830,
+      "Turn": 212,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 832,
+      "Turn": 214,
+      "Speaker": "T",
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's contribution 'Number three' word for word."
+    },
+    {
+      "ID": 834,
+      "Turn": 214,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 835,
+      "Turn": 214,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 836,
+      "Turn": 214,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 838,
+      "Turn": 216,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 839,
+      "Turn": 216,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 840,
+      "Turn": 216,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 841,
+      "Turn": 216,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 842,
+      "Turn": 216,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks a student to explain the process they would use to solve the problem."
+    },
+    {
+      "ID": 843,
+      "Turn": 216,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 844,
+      "Turn": 217,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 845,
+      "Turn": 218,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 846,
+      "Turn": 218,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 847,
+      "Turn": 218,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the class for a method to solve the problem."
+    },
+    {
+      "ID": 848,
+      "Turn": 218,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts a student to share their thinking process."
+    },
+    {
+      "ID": 850,
+      "Turn": 219,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases the student's proposed strategy to check for understanding."
+    },
+    {
+      "ID": 851,
+      "Turn": 220,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 853,
+      "Turn": 221,
+      "Speaker": "T",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher prompts the class to be active listeners to a peer's contribution."
+    },
+    {
+      "ID": 854,
+      "Turn": 221,
+      "Speaker": "T",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher checks for whole-class comprehension of a peer's idea."
+    },
+    {
+      "ID": 855,
+      "Turn": 221,
+      "Speaker": "T",
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher asks a student to repeat what a classmate said, prompting them to process the peer's idea."
+    },
+    {
+      "ID": 857,
+      "Turn": 223,
+      "Speaker": "T",
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher presses a student to recall what a peer specifically said, rather than a related fact."
+    },
+    {
+      "ID": 858,
+      "Turn": 223,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher focuses the question on the method proposed by another student, asking for the 'how'."
+    },
+    {
+      "ID": 859,
+      "Turn": 223,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher elaborates on the previous question, pressing for the thinking behind the proposed strategy."
+    },
+    {
+      "ID": 861,
+      "Turn": 225,
+      "Speaker": "T",
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher asks a student to repeat another student's clarified idea, ensuring they process it."
+    },
+    {
+      "ID": 863,
+      "Turn": 227,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases a student's specific observation into a general mathematical procedure for the class to follow."
+    },
+    {
+      "ID": 864,
+      "Turn": 227,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 865,
+      "Turn": 227,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 866,
+      "Turn": 227,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 867,
+      "Turn": 227,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 868,
+      "Turn": 227,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 869,
+      "Turn": 227,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts a student to make a specific mathematical contribution by stating which pieces they used."
+    },
+    {
+      "ID": 871,
+      "Turn": 229,
+      "Speaker": "T",
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's answer 'Two light greens' verbatim."
+    },
+    {
+      "ID": 872,
+      "Turn": 229,
+      "Speaker": "T",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher polls the class to check if others arrived at the same result, orienting students to each other."
+    },
+    {
+      "ID": 873,
+      "Turn": 229,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 874,
+      "Turn": 230,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 875,
+      "Turn": 230,
+      "Speaker": "T",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher polls the class using a physical gesture to ensure everyone is at the same point in the activity."
+    },
+    {
+      "ID": 876,
+      "Turn": 230,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to provide a specific mathematical value ('what is one light green worth as a fraction')."
+    },
+    {
+      "ID": 877,
+      "Turn": 230,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 879,
+      "Turn": 232,
+      "Speaker": "T",
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's answer and attributes it to her."
+    },
+    {
+      "ID": 880,
+      "Turn": 232,
+      "Speaker": "T",
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher asks a student to respond directly to a classmate's answer."
+    },
+    {
+      "ID": 881,
+      "Turn": 232,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 883,
+      "Turn": 234,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks a student to provide justification for their agreement with a peer."
+    },
+    {
+      "ID": 884,
+      "Turn": 234,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks a follow-up question to prompt the student for a specific piece of evidence to support their reasoning."
+    },
+    {
+      "ID": 886,
+      "Turn": 236,
+      "Speaker": "T",
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's answer 'Twothirds' verbatim."
+    },
+    {
+      "ID": 887,
+      "Turn": 236,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher summarizes and rephrases a conclusion the class has reached to set up the next question."
+    },
+    {
+      "ID": 888,
+      "Turn": 236,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to explain the connection between an established fact and a student's claim, pressing for justification."
+    }
+  ]
+}

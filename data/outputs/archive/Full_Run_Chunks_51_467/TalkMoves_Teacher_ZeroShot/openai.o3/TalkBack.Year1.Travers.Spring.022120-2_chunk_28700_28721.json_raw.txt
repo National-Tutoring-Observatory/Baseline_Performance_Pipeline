@@ -1,0 +1,130 @@
+{
+  "records": [
+    {
+      "ID": 28701,
+      "Speaker": "T",
+      "Turn": 239,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks for the exact number of quarters in a dollar, prompting a specific mathematical fact."
+    },
+    {
+      "ID": 28703,
+      "Speaker": "T",
+      "Turn": 241,
+      "TalkMove": "Restating",
+      "Reasoning": "Repeats the student’s answer \"Four\" verbatim."
+    },
+    {
+      "ID": 28704,
+      "Speaker": "T",
+      "Turn": 241,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Paraphrases and elaborates on the student’s idea of \"four\" by explaining its meaning (one out of four)."
+    },
+    {
+      "ID": 28705,
+      "Speaker": "T",
+      "Turn": 241,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 28706,
+      "Speaker": "T",
+      "Turn": 241,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 28707,
+      "Speaker": "T",
+      "Turn": 241,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 28708,
+      "Speaker": "T",
+      "Turn": 241,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 28709,
+      "Speaker": "T",
+      "Turn": 241,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 28710,
+      "Speaker": "T",
+      "Turn": 241,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 28711,
+      "Speaker": "T",
+      "Turn": 241,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 28712,
+      "Speaker": "T",
+      "Turn": 241,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 28713,
+      "Speaker": "T",
+      "Turn": 241,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 28714,
+      "Speaker": "T",
+      "Turn": 241,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Invites a student to read aloud for the class, orienting all students’ attention to the same task."
+    },
+    {
+      "ID": 28717,
+      "Speaker": "T",
+      "Turn": 243,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 28718,
+      "Speaker": "T",
+      "Turn": 243,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Directs all students to think and prepare a response (thumbs up), ensuring collective engagement."
+    },
+    {
+      "ID": 28719,
+      "Speaker": "T",
+      "Turn": 243,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Orients students’ attention to a specific part of the material (“Look at the angle ABC right here”)."
+    },
+    {
+      "ID": 28720,
+      "Speaker": "T",
+      "Turn": 243,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Requests students to decide if the angle is in a precise numeric range (0–90°), prompting a specific mathematical claim."
+    },
+    {
+      "ID": 28721,
+      "Speaker": "T",
+      "Turn": 243,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Similarly asks students to indicate if the angle falls in another precise range (90–180°), eliciting an exact mathematical judgment."
+    }
+  ]
+}

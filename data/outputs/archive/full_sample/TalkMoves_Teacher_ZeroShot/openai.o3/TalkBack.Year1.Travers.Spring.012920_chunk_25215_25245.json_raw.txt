@@ -1,0 +1,116 @@
+{
+  "records": [
+    {
+      "ID": 25215,
+      "Speaker": "T",
+      "Turn": 25215
+    },
+    {
+      "ID": 25217,
+      "Speaker": "T",
+      "Turn": 25217,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks students to supply the exact title for the line plot, prompting them to provide the correct mathematical label."
+    },
+    {
+      "ID": 25220,
+      "Speaker": "T",
+      "Turn": 25220
+    },
+    {
+      "ID": 25222,
+      "Speaker": "T",
+      "Turn": 25222,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student-offered title verbatim: “Class head sizes.”"
+    },
+    {
+      "ID": 25223,
+      "Speaker": "T",
+      "Turn": 25223
+    },
+    {
+      "ID": 25224,
+      "Speaker": "T",
+      "Turn": 25224
+    },
+    {
+      "ID": 25226,
+      "Speaker": "T",
+      "Turn": 25226
+    },
+    {
+      "ID": 25229,
+      "Speaker": "T",
+      "Turn": 25229
+    },
+    {
+      "ID": 25230,
+      "Speaker": "T",
+      "Turn": 25230
+    },
+    {
+      "ID": 25231,
+      "Speaker": "T",
+      "Turn": 25231
+    },
+    {
+      "ID": 25233,
+      "Speaker": "T",
+      "Turn": 25233
+    },
+    {
+      "ID": 25234,
+      "Speaker": "T",
+      "Turn": 25234
+    },
+    {
+      "ID": 25235,
+      "Speaker": "T",
+      "Turn": 25235
+    },
+    {
+      "ID": 25236,
+      "Speaker": "T",
+      "Turn": 25236
+    },
+    {
+      "ID": 25237,
+      "Speaker": "T",
+      "Turn": 25237,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher checks that 49 cm is the smallest value, prompting students to confirm the exact data point."
+    },
+    {
+      "ID": 25239,
+      "Speaker": "T",
+      "Turn": 25239,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks students to state the precise frequency of the 49-cm measurement."
+    },
+    {
+      "ID": 25241,
+      "Speaker": "T",
+      "Turn": 25241
+    },
+    {
+      "ID": 25242,
+      "Speaker": "T",
+      "Turn": 25242,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher inquires whether any 49.5-cm measurements exist, requesting exact data information."
+    },
+    {
+      "ID": 25244,
+      "Speaker": "T",
+      "Turn": 25244
+    },
+    {
+      "ID": 25245,
+      "Speaker": "T",
+      "Turn": 25245,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks if there are any 50-cm measurements, again prompting students for precise data."
+    }
+  ]
+}

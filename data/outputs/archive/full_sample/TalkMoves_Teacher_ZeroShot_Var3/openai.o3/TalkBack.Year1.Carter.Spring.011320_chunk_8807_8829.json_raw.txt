@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 8807,
+      "Speaker": "T",
+      "Turn": 8807,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8808,
+      "Speaker": "T",
+      "Turn": 8808,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8809,
+      "Speaker": "T",
+      "Turn": 8809,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks students to state the next factor of 36, prompting a precise mathematical answer."
+    },
+    {
+      "ID": 8810,
+      "Speaker": "T",
+      "Turn": 8810,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8811,
+      "Speaker": "T",
+      "Turn": 8811,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8812,
+      "Speaker": "T",
+      "Turn": 8812,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher gives directions for partner talk, orienting students to each other’s participation roles."
+    },
+    {
+      "ID": 8813,
+      "Speaker": "T",
+      "Turn": 8813,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The single-word prompt launches the partner discussion, coordinating student participation."
+    },
+    {
+      "ID": 8814,
+      "Speaker": "T",
+      "Turn": 8814,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher poses a new numerical scenario (37) to elicit whether 3 is still a factor, asking for a specific mathematical determination."
+    },
+    {
+      "ID": 8815,
+      "Speaker": "T",
+      "Turn": 8815,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Direct question seeking a yes/no mathematical fact about 37’s factors."
+    },
+    {
+      "ID": 8816,
+      "Speaker": "T",
+      "Turn": 8816,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks “Why not,” prompting students to justify their previous answer."
+    },
+    {
+      "ID": 8817,
+      "Speaker": "T",
+      "Turn": 8817,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Asks students to explain the difference between 36 and 37 regarding the factor 3, eliciting underlying reasoning."
+    },
+    {
+      "ID": 8819,
+      "Speaker": "T",
+      "Turn": 8819,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8820,
+      "Speaker": "T",
+      "Turn": 8820,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher calls the class back to attention, coordinating collective focus."
+    },
+    {
+      "ID": 8821,
+      "Speaker": "T",
+      "Turn": 8821,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Requests an explanation for why 3 is a factor of 36, seeking justification."
+    },
+    {
+      "ID": 8822,
+      "Speaker": "T",
+      "Turn": 8822,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher selects a student to speak, managing participation within the group."
+    },
+    {
+      "ID": 8824,
+      "Speaker": "T",
+      "Turn": 8824,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Prompts the student to specify the quantity that can be equally divided, requesting a precise mathematical statement."
+    },
+    {
+      "ID": 8826,
+      "Speaker": "T",
+      "Turn": 8826,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8827,
+      "Speaker": "T",
+      "Turn": 8827,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher restates and elaborates the student’s idea that 36 divided by 3 produces equal groups, clarifying the reasoning."
+    },
+    {
+      "ID": 8828,
+      "Speaker": "T",
+      "Turn": 8828,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8829,
+      "Speaker": "T",
+      "Turn": 8829,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher invites another student to provide an additional proof, prompting further explanation."
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "records": [
+    {
+      "ID": 2492,
+      "Speaker": "T",
+      "Turn": 2492,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to explain the rationale behind a specific calculation step ('why did you use times three')."
+    },
+    {
+      "ID": 2494,
+      "Speaker": "T",
+      "Turn": 2494,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases the student's previous work or idea, clarifying it as '300 x 3'."
+    },
+    {
+      "ID": 2496,
+      "Speaker": "T",
+      "Turn": 2496,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks 'how did he go,' prompting students to explain the process or steps taken by another student."
+    },
+    {
+      "ID": 2497,
+      "Speaker": "T",
+      "Turn": 2497,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for a specific calculation result ('Whats 300 x 3')."
+    },
+    {
+      "ID": 2499,
+      "Speaker": "T",
+      "Turn": 2499,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for a specific calculation result ('Whats 10 x 3')."
+    },
+    {
+      "ID": 2501,
+      "Speaker": "T",
+      "Turn": 2501,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for a specific calculation result ('What is 2 x 3')."
+    },
+    {
+      "ID": 2503,
+      "Speaker": "T",
+      "Turn": 2503,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks students to sum up the partial products ('900 30 6 equals how much')."
+    },
+    {
+      "ID": 2505,
+      "Speaker": "T",
+      "Turn": 2505,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts the student to connect their current work to prior knowledge or a previously solved problem."
+    },
+    {
+      "ID": 2506,
+      "Speaker": "T",
+      "Turn": 2506,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2507,
+      "Speaker": "T",
+      "Turn": 2507,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2508,
+      "Speaker": "T",
+      "Turn": 2508,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2509,
+      "Speaker": "T",
+      "Turn": 2509,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2510,
+      "Speaker": "T",
+      "Turn": 2510,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

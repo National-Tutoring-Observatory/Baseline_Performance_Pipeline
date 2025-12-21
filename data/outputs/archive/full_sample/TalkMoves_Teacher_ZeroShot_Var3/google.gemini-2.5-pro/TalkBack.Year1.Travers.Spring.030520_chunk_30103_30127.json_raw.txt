@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 30103,
+      "Speaker": "T",
+      "Turn": 30103,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases a student's likely contribution about the remainder into a complete sentence."
+    },
+    {
+      "ID": 30104,
+      "Speaker": "T",
+      "Turn": 30104,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 30106,
+      "Speaker": "T",
+      "Turn": 30106,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 30107,
+      "Speaker": "T",
+      "Turn": 30107,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats a student's answer ('Four') and adds the unit ('notebooks') to make it more complete."
+    },
+    {
+      "ID": 30108,
+      "Speaker": "T",
+      "Turn": 30108,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 30109,
+      "Speaker": "T",
+      "Turn": 30109,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher paraphrases a student's idea using the phrase 'I'm hearing you say' and introduces the mathematical term 'remainder'."
+    },
+    {
+      "ID": 30110,
+      "Speaker": "T",
+      "Turn": 30110,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 30112,
+      "Speaker": "T",
+      "Turn": 30112,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats a student's answer and adds the unit ('dollars') and context ('leftover')."
+    },
+    {
+      "ID": 30113,
+      "Speaker": "T",
+      "Turn": 30113,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 30115,
+      "Speaker": "T",
+      "Turn": 30115,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts a student to be more mathematically precise by asking for the unit ('what?')."
+    },
+    {
+      "ID": 30117,
+      "Speaker": "T",
+      "Turn": 30117,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases a student's contribution into a complete sentence, clarifying the meaning of the remainder."
+    },
+    {
+      "ID": 30118,
+      "Speaker": "T",
+      "Turn": 30118,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 30120,
+      "Speaker": "T",
+      "Turn": 30120,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's one-word answer ('Four') verbatim."
+    },
+    {
+      "ID": 30121,
+      "Speaker": "T",
+      "Turn": 30121,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 30122,
+      "Speaker": "T",
+      "Turn": 30122,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 30123,
+      "Speaker": "T",
+      "Turn": 30123,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 30124,
+      "Speaker": "T",
+      "Turn": 30124,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats a student's likely answer ('two') and adds the unit and context ('dollars leftover')."
+    },
+    {
+      "ID": 30125,
+      "Speaker": "T",
+      "Turn": 30125,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to use precise mathematical language by asking for the unit ('notebooks')."
+    },
+    {
+      "ID": 30126,
+      "Speaker": "T",
+      "Turn": 30126,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats a student's answer ('Four') and adds the unit ('notebooks') to make it more complete."
+    },
+    {
+      "ID": 30127,
+      "Speaker": "T",
+      "Turn": 30127,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

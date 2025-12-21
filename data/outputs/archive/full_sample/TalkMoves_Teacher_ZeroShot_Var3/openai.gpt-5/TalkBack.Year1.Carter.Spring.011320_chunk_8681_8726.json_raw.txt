@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 8681,
+      "Speaker": "T",
+      "Turn": 8681,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8682,
+      "Speaker": "T",
+      "Turn": 8682,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8685,
+      "Speaker": "T",
+      "Turn": 8685,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher invites the student to articulate their difficulty, prompting explanation of their thinking."
+    },
+    {
+      "ID": 8686,
+      "Speaker": "T",
+      "Turn": 8686,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher paraphrases the student's current goal by restating the problem they are trying to decide."
+    },
+    {
+      "ID": 8693,
+      "Speaker": "T",
+      "Turn": 8693,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8695,
+      "Speaker": "T",
+      "Turn": 8695,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8698,
+      "Speaker": "T",
+      "Turn": 8698,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to provide a specific factor pair for 36."
+    },
+    {
+      "ID": 8703,
+      "Speaker": "T",
+      "Turn": 8703,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for a specific calculation (4 times 10), prompting a precise mathematical response."
+    },
+    {
+      "ID": 8705,
+      "Speaker": "T",
+      "Turn": 8705,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8709,
+      "Speaker": "T",
+      "Turn": 8709,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher checks the correctness of a proposed result, prompting the student to evaluate accuracy."
+    },
+    {
+      "ID": 8710,
+      "Speaker": "T",
+      "Turn": 8710,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8711,
+      "Speaker": "T",
+      "Turn": 8711,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8712,
+      "Speaker": "T",
+      "Turn": 8712,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks whether 5 is a factor of 36, prompting a check of divisibility."
+    },
+    {
+      "ID": 8714,
+      "Speaker": "T",
+      "Turn": 8714,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher directs attention to a specific candidate factor (4), prompting a mathematical contribution."
+    },
+    {
+      "ID": 8718,
+      "Speaker": "T",
+      "Turn": 8718,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8720,
+      "Speaker": "T",
+      "Turn": 8720,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to supply the missing factor that multiplies with 6 to make 36."
+    },
+    {
+      "ID": 8722,
+      "Speaker": "T",
+      "Turn": 8722,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8724,
+      "Speaker": "T",
+      "Turn": 8724,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8725,
+      "Speaker": "T",
+      "Turn": 8725,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8726,
+      "Speaker": "T",
+      "Turn": 8726,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "records": [
+    {
+      "ID": 6272,
+      "Turn": 77,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 6274,
+      "Turn": 79,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 6275,
+      "Turn": 79,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 6276,
+      "Turn": 80,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 6278,
+      "Turn": 81,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 6280,
+      "Turn": 83,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 6281,
+      "Turn": 83,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to name the strategy they used, which is a push for using specific mathematical language rather than providing a full explanation."
+    },
+    {
+      "ID": 6284,
+      "Turn": 85,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 6285,
+      "Turn": 86,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 6286,
+      "Turn": 87,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 6288,
+      "Turn": 89,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to use more precise mathematical language by offering specific terms ('long division traditional division') for the student's vague description ('the division thing')."
+    },
+    {
+      "ID": 6289,
+      "Turn": 89,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Continuing the previous utterance, the teacher offers another specific mathematical term ('partial quotients') to help the student accurately name their strategy."
+    },
+    {
+      "ID": 6292,
+      "Turn": 91,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 6293,
+      "Turn": 91,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

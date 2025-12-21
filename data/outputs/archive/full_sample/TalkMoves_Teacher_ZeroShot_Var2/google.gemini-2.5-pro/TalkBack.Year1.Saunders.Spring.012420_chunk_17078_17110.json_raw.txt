@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 17078,
+      "Speaker": "T",
+      "Turn": 17078,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for a specific mathematical contribution, the year of least profit."
+    },
+    {
+      "ID": 17081,
+      "Speaker": "T",
+      "Turn": 17081,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats a student's contribution to the whole class."
+    },
+    {
+      "ID": 17083,
+      "Speaker": "T",
+      "Turn": 17083,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats another student's contribution to the whole class."
+    },
+    {
+      "ID": 17084,
+      "Speaker": "T",
+      "Turn": 17084,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the students' idea ('2008') and adds a mathematical concept ('represents a horizontal line')."
+    },
+    {
+      "ID": 17085,
+      "Speaker": "T",
+      "Turn": 17085,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts students to connect an idea to the graphical representation, asking them to justify the fit."
+    },
+    {
+      "ID": 17086,
+      "Speaker": "T",
+      "Turn": 17086,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17088,
+      "Speaker": "T",
+      "Turn": 17088,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to identify a specific point on the graph."
+    },
+    {
+      "ID": 17090,
+      "Speaker": "T",
+      "Turn": 17090,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats a student's idea about the location of the minimum."
+    },
+    {
+      "ID": 17091,
+      "Speaker": "T",
+      "Turn": 17091,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17092,
+      "Speaker": "T",
+      "Turn": 17092,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to provide a specific numerical answer."
+    },
+    {
+      "ID": 17095,
+      "Speaker": "T",
+      "Turn": 17095,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17096,
+      "Speaker": "T",
+      "Turn": 17096,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17097,
+      "Speaker": "T",
+      "Turn": 17097,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher explicitly directs students to be active listeners."
+    },
+    {
+      "ID": 17100,
+      "Speaker": "T",
+      "Turn": 17100,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17103,
+      "Speaker": "T",
+      "Turn": 17103,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to make a correct mathematical interpretation of the model."
+    },
+    {
+      "ID": 17105,
+      "Speaker": "T",
+      "Turn": 17105,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats a student's one-word answer."
+    },
+    {
+      "ID": 17106,
+      "Speaker": "T",
+      "Turn": 17106,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a follow-up question to check for a correct understanding of the model's behavior."
+    },
+    {
+      "ID": 17108,
+      "Speaker": "T",
+      "Turn": 17108,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17109,
+      "Speaker": "T",
+      "Turn": 17109,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17110,
+      "Speaker": "T",
+      "Turn": 17110,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to reflect on and explain their thinking about the problem-solving process."
+    }
+  ]
+}

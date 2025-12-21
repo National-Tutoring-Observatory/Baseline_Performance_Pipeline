@@ -1,0 +1,292 @@
+{
+  "records": [
+    {
+      "ID": 1232,
+      "Turn": 102,
+      "Speaker": "T",
+      "Sentence": "Its more than a whole right",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1233,
+      "Turn": 102,
+      "Speaker": "T",
+      "Sentence": "Our top number our numerator will be larger than our denominator which means thats more than one whole",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1235,
+      "Turn": 104,
+      "Speaker": "T",
+      "Sentence": "Feel free to draw feel free to figure out both in improper fraction and mixed number fraction if you want to",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1236,
+      "Turn": 104,
+      "Speaker": "T",
+      "Sentence": "Everyone understand how to get to where you need to be on that one",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher checks if all students are on the same page and ready to proceed with the task."
+    },
+    {
+      "ID": 1238,
+      "Turn": 106,
+      "Speaker": "T",
+      "Sentence": "Because Im going to erase that",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1239,
+      "Turn": 106,
+      "Speaker": "T",
+      "Sentence": "Are you good",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1241,
+      "Turn": 108,
+      "Speaker": "T",
+      "Sentence": "All right let me just get this for our problem number two",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1242,
+      "Turn": 108,
+      "Speaker": "T",
+      "Sentence": "This persons name is Charice Emery would you please read that aloud to us",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1243,
+      "Turn": 108,
+      "Speaker": "T",
+      "Sentence": "Her name is Charice",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1247,
+      "Turn": 110,
+      "Speaker": "T",
+      "Sentence": "Okay we need to really dissect what we know",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1248,
+      "Turn": 110,
+      "Speaker": "T",
+      "Sentence": "How far did Charice ran",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1250,
+      "Turn": 112,
+      "Speaker": "T",
+      "Sentence": "78 right",
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's answer '78' verbatim, with a tag question."
+    },
+    {
+      "ID": 1251,
+      "Turn": 112,
+      "Speaker": "T",
+      "Sentence": "Charice ran 78 of a mile",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's answer but adds context ('of a mile') to clarify its meaning within the problem."
+    },
+    {
+      "ID": 1252,
+      "Turn": 112,
+      "Speaker": "T",
+      "Sentence": "What do we have to find out",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1253,
+      "Turn": 112,
+      "Speaker": "T",
+      "Sentence": "We needed to find out how much Ally ran right Eric",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1255,
+      "Turn": 114,
+      "Speaker": "T",
+      "Sentence": "How do we find that out",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to explain the process or method for solving the problem."
+    },
+    {
+      "ID": 1256,
+      "Turn": 114,
+      "Speaker": "T",
+      "Sentence": "What information did they give us Felicity to help us figure that out",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts a student to provide the evidence from the text that will inform their problem-solving strategy."
+    },
+    {
+      "ID": 1259,
+      "Turn": 116,
+      "Speaker": "T",
+      "Sentence": "Read that carefully students",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1260,
+      "Turn": 116,
+      "Speaker": "T",
+      "Sentence": "Just recreate she ran 38",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher interrupts a student's incorrect reading of the problem to prompt them to be more precise with the information."
+    },
+    {
+      "ID": 1262,
+      "Turn": 118,
+      "Speaker": "T",
+      "Sentence": "Okay we know how far has Charice ran we know that Ally ran 38 more than her",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher summarizes and clarifies the information gathered from the text and student contributions to set up the next step."
+    },
+    {
+      "ID": 1263,
+      "Turn": 118,
+      "Speaker": "T",
+      "Sentence": "Will we be adding or subtracting",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1266,
+      "Turn": 121,
+      "Speaker": "T",
+      "Sentence": "Who said adding at that table",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1268,
+      "Turn": 123,
+      "Speaker": "T",
+      "Sentence": "Eric why are we going to add onto this",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks a student to explain the thinking behind their decision to use addition."
+    },
+    {
+      "ID": 1270,
+      "Turn": 125,
+      "Speaker": "T",
+      "Sentence": "Number story problems they give you those clue words",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1271,
+      "Turn": 125,
+      "Speaker": "T",
+      "Sentence": "A lot of times it asks you how many more and thats when we subtract but this ones telling that we know this and then this person ran much farther or that much more of a fraction of a mile",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher takes the student's idea about the word 'more' and expands on it, adding nuance and clarifying its meaning in different contexts."
+    },
+    {
+      "ID": 1272,
+      "Turn": 125,
+      "Speaker": "T",
+      "Sentence": "A lot of times when we hear more we do subtraction and in this case Eric you and whoever else in your table I heard a couple of people say Youre going to add we would be adding that on to okay",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's contribution ('add') and incorporates it into a larger explanation, validating the student's reasoning."
+    },
+    {
+      "ID": 1273,
+      "Turn": 125,
+      "Speaker": "T",
+      "Sentence": "What is the whole thing that were counting",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to identify the specific mathematical unit being used in the problem."
+    },
+    {
+      "ID": 1275,
+      "Turn": 127,
+      "Speaker": "T",
+      "Sentence": "What Lila",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher asks a specific student to repeat their answer, ensuring their contribution is heard by the class."
+    },
+    {
+      "ID": 1277,
+      "Turn": 129,
+      "Speaker": "T",
+      "Sentence": "Miles",
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's one-word answer verbatim."
+    },
+    {
+      "ID": 1278,
+      "Turn": 129,
+      "Speaker": "T",
+      "Sentence": "A mile",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher refines the student's word 'Miles' to the more precise term 'A mile' to clarify the unit."
+    },
+    {
+      "ID": 1279,
+      "Turn": 129,
+      "Speaker": "T",
+      "Sentence": "One mile is the whole",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher takes the student's idea ('Miles') and rephrases it to add mathematical meaning by connecting it to the concept of 'the whole'."
+    },
+    {
+      "ID": 1280,
+      "Turn": 129,
+      "Speaker": "T",
+      "Sentence": "Theyre breaking that mile into parts",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1281,
+      "Turn": 129,
+      "Speaker": "T",
+      "Sentence": "You feel like you can figure that one out now without me even writing the number model for you Beckett",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher checks in with a specific student to ensure they are ready to proceed, keeping them part of the group."
+    },
+    {
+      "ID": 1284,
+      "Turn": 131,
+      "Speaker": "T",
+      "Sentence": "Okay",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1285,
+      "Turn": 131,
+      "Speaker": "T",
+      "Sentence": "Ill now let you guys do it",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1286,
+      "Turn": 131,
+      "Speaker": "T",
+      "Sentence": "Once you guys are done working on your problems then well come back together and talk about them",
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

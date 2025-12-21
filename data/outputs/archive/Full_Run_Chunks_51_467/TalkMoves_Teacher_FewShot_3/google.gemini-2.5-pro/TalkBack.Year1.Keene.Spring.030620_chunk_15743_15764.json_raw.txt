@@ -1,0 +1,155 @@
+{
+  "records": [
+    {
+      "ID": 15743,
+      "Turn": 2,
+      "Speaker": "T",
+      "Sentence": "It s not a whole number",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15744,
+      "Turn": 2,
+      "Speaker": "T",
+      "Sentence": "It has a place value",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15745,
+      "Turn": 2,
+      "Speaker": "T",
+      "Sentence": "It has a place",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15746,
+      "Turn": 2,
+      "Speaker": "T",
+      "Sentence": "It is a whole number but it has a place",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15747,
+      "Turn": 2,
+      "Speaker": "T",
+      "Sentence": "Okay what is to the left Lennox",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts a student to provide a specific mathematical term (the name of a place value)."
+    },
+    {
+      "ID": 15748,
+      "Turn": 2,
+      "Speaker": "T",
+      "Sentence": "What place is this",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher rephrases the question to prompt the student for a specific mathematical term (the name of a place value)."
+    },
+    {
+      "ID": 15750,
+      "Turn": 4,
+      "Speaker": "T",
+      "Sentence": "Okay",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15751,
+      "Turn": 4,
+      "Speaker": "T",
+      "Sentence": "Then Ellie what s this one",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts another student to provide a specific mathematical term for a place value."
+    },
+    {
+      "ID": 15753,
+      "Turn": 6,
+      "Speaker": "T",
+      "Sentence": "Not tenths",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15754,
+      "Turn": 6,
+      "Speaker": "T",
+      "Sentence": "There s a huge difference there friends",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15755,
+      "Turn": 6,
+      "Speaker": "T",
+      "Sentence": "You have to both listen and write it in order to get the right Phoenix what s here",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks another student to provide the correct mathematical term for the place value."
+    },
+    {
+      "ID": 15756,
+      "Turn": 8,
+      "Speaker": "T",
+      "Sentence": "sorry",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15757,
+      "Turn": 8,
+      "Speaker": "T",
+      "Sentence": "Lea is also",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15758,
+      "Turn": 8,
+      "Speaker": "T",
+      "Sentence": "what s here",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher repeats the question, prompting for the correct mathematical term for the place value."
+    },
+    {
+      "ID": 15760,
+      "Turn": 10,
+      "Speaker": "T",
+      "Sentence": "Notice the THS",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher directs students' attention to a specific feature of a mathematical term (the 'ths' suffix) to reinforce its correct usage and meaning."
+    },
+    {
+      "ID": 15761,
+      "Speaker": "T",
+      "Sentence": "Tell your partner what does the THS signal when you hear it",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts students to explain the meaning or significance of a feature of mathematical language ('ths')."
+    },
+    {
+      "ID": 15762,
+      "Turn": 10,
+      "Speaker": "T",
+      "Sentence": "What does it signal",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher repeats the prompt for students to explain the meaning behind the 'ths' suffix."
+    },
+    {
+      "ID": 15763,
+      "Turn": 10,
+      "Speaker": "T",
+      "Sentence": "Tell your partner please",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher instructs students to turn and talk to a partner, thereby orienting them to each other for discussion."
+    },
+    {
+      "ID": 15764,
+      "Turn": 11,
+      "Speaker": "T",
+      "Sentence": "and a pencil",
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

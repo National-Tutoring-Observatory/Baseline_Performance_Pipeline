@@ -1,0 +1,32 @@
+{
+  "records": [
+    {
+      "ID": 27414,
+      "Speaker": "T",
+      "Turn": 27414,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher explicitly asks for a volunteer to explain their thinking, prompting for justification rather than just an answer."
+    },
+    {
+      "ID": 27418,
+      "Speaker": "T",
+      "Turn": 27418,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to explain the conclusion or insight derived from their action ('What did that tell you'), prompting for reflection and explanation."
+    },
+    {
+      "ID": 27422,
+      "Speaker": "T",
+      "Turn": 27422,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher directs the rest of the class to orient their attention physically and visually toward the student speaker (Bryce)."
+    },
+    {
+      "ID": 27423,
+      "Speaker": "T",
+      "Turn": 27423,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to demonstrate the concept ('full turn') physically, prompting them to connect the mathematical idea to a physical representation."
+    }
+  ]
+}

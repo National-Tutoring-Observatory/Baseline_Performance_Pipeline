@@ -1,0 +1,39 @@
+{
+  "records": [
+    {
+      "ID": 1455,
+      "Turn": 1,
+      "Speaker": "T",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher prompts the class to get ready and attend, orienting everyone to the start of the discussion."
+    },
+    {
+      "ID": 1456,
+      "Turn": 1,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for a definition of a mixed number, prompting precise mathematical language."
+    },
+    {
+      "ID": 1457,
+      "Turn": 1,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts students to compare a mixed number and an improper fraction, inviting explanation of their relationship."
+    },
+    {
+      "ID": 1458,
+      "Turn": 1,
+      "Speaker": "T",
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 1459,
+      "Turn": 2,
+      "Speaker": "T",
+      "TalkMove": "None",
+      "Reasoning": null
+    }
+  ]
+}

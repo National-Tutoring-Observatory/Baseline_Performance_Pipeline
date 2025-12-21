@@ -1,0 +1,158 @@
+{
+  "records": [
+    {
+      "ID": 8756,
+      "Turn": 131,
+      "Speaker": "S",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8757,
+      "Turn": 132,
+      "Speaker": "S",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8758,
+      "Turn": 133,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8759,
+      "Turn": 133,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8760,
+      "Turn": 134,
+      "Speaker": "S",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8761,
+      "Turn": 135,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher combines two student ideas ('multiples' and 'repeated addition') and rephrases them into a more complete mathematical statement."
+    },
+    {
+      "ID": 8762,
+      "Turn": 135,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts students to reflect on their thinking process by asking if they made a specific connection during a prior activity."
+    },
+    {
+      "ID": 8763,
+      "Turn": 135,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8764,
+      "Turn": 135,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the entire class to say a specific mathematical term, reinforcing correct vocabulary usage."
+    },
+    {
+      "ID": 8765,
+      "Turn": 136,
+      "Speaker": "S",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8766,
+      "Turn": 137,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases the meaning of 'multiples' by connecting it to the concept of 'repeated addition' that was mentioned earlier."
+    },
+    {
+      "ID": 8767,
+      "Turn": 137,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks for a student to explain the meaning of a mathematical concept."
+    },
+    {
+      "ID": 8768,
+      "Turn": 137,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8769,
+      "Turn": 138,
+      "Speaker": "S",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8770,
+      "Turn": 139,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's idea about having 'both of them' but clarifies it with the mathematical term 'pair'."
+    },
+    {
+      "ID": 8771,
+      "Turn": 140,
+      "Speaker": "S",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8772,
+      "Turn": 141,
+      "Speaker": "T",
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher prompts another student to build on or contribute to what a classmate has just said."
+    },
+    {
+      "ID": 8773,
+      "Turn": 142,
+      "Speaker": "S",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8774,
+      "Turn": 143,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to repeat an unclear statement, signaling a need for clarification of the thinking behind the analogy."
+    },
+    {
+      "ID": 8775,
+      "Turn": 144,
+      "Speaker": "S",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8776,
+      "Turn": 145,
+      "Speaker": "T",
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher explicitly directs a student to choose a peer to respond to their idea."
+    },
+    {
+      "ID": 8777,
+      "Turn": 146,
+      "Speaker": "S",
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

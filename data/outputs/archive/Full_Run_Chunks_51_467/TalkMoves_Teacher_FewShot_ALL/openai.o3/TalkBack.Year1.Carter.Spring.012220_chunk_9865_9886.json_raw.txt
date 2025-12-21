@@ -1,0 +1,116 @@
+{
+  "records": [
+    {
+      "ID": 9865,
+      "Speaker": "T",
+      "Turn": 122,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9866,
+      "Speaker": "T",
+      "Turn": 123,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9867,
+      "Speaker": "T",
+      "Turn": 123,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9868,
+      "Speaker": "T",
+      "Turn": 123,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher directs students’ attention (“Eyes up at the Ms Carter”), prompting them to focus on the speaker and be active listeners."
+    },
+    {
+      "ID": 9871,
+      "Speaker": "T",
+      "Turn": 124,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks the student to 'count it out,' prompting a precise, step-by-step enumeration to verify the mathematical claim."
+    },
+    {
+      "ID": 9872,
+      "Speaker": "T",
+      "Turn": 124,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Requests the student to count ‘2 4 6 8 10’ on the diagram, eliciting an exact mathematical demonstration."
+    },
+    {
+      "ID": 9873,
+      "Speaker": "T",
+      "Turn": 124,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Asks the student to show on the first diagram how it represents the value two, eliciting an explanation of the representation."
+    },
+    {
+      "ID": 9874,
+      "Speaker": "T",
+      "Turn": 124,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Directly probes the student’s justification with 'How do you know that’s two?' seeking the reasoning behind the claim."
+    },
+    {
+      "ID": 9879,
+      "Speaker": "T",
+      "Turn": 126,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Prompts students to produce a precise mathematical expression ('number model') representing the situation."
+    },
+    {
+      "ID": 9880,
+      "Speaker": "T",
+      "Turn": 126,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9881,
+      "Speaker": "T",
+      "Turn": 126,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Repeats the request for a specific number model, continuing to ask for an exact mathematical representation."
+    },
+    {
+      "ID": 9882,
+      "Speaker": "T",
+      "Turn": 126,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9883,
+      "Speaker": "T",
+      "Turn": 126,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9884,
+      "Speaker": "T",
+      "Turn": 127,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Again asks for ‘a number model,’ prompting students to provide the correct mathematical notation."
+    },
+    {
+      "ID": 9885,
+      "Speaker": "T",
+      "Turn": 127,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9886,
+      "Speaker": "T",
+      "Turn": 127,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher restates possible student-generated number models (‘Like 15 … 15 … 15 … 35’), rephrasing their ideas to the class."
+    }
+  ]
+}

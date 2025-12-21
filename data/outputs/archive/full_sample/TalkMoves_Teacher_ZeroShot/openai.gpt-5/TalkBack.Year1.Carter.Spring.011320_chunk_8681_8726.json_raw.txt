@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 8681,
+      "Speaker": "T",
+      "Turn": 8681,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8682,
+      "Speaker": "T",
+      "Turn": 8682,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8685,
+      "Speaker": "T",
+      "Turn": 8685,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks what the student is grappling with, prompting the student to explain their thinking."
+    },
+    {
+      "ID": 8686,
+      "Speaker": "T",
+      "Turn": 8686,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher paraphrases the student's focus as deciding whether 3 is a factor of 36."
+    },
+    {
+      "ID": 8693,
+      "Speaker": "T",
+      "Turn": 8693,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8695,
+      "Speaker": "T",
+      "Turn": 8695,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8698,
+      "Speaker": "T",
+      "Turn": 8698,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the missing factor in 4 × ? = 36, prompting a specific mathematical contribution."
+    },
+    {
+      "ID": 8703,
+      "Speaker": "T",
+      "Turn": 8703,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to compute a multiplication fact, seeking a specific value."
+    },
+    {
+      "ID": 8705,
+      "Speaker": "T",
+      "Turn": 8705,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8709,
+      "Speaker": "T",
+      "Turn": 8709,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher checks whether a result equals 36, prompting the student to verify correctness."
+    },
+    {
+      "ID": 8710,
+      "Speaker": "T",
+      "Turn": 8710,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8711,
+      "Speaker": "T",
+      "Turn": 8711,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8712,
+      "Speaker": "T",
+      "Turn": 8712,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks if 5 goes into 36, prompting use of the factor/divisibility concept."
+    },
+    {
+      "ID": 8714,
+      "Speaker": "T",
+      "Turn": 8714,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to reconsider 4 as a factor, seeking accurate application."
+    },
+    {
+      "ID": 8718,
+      "Speaker": "T",
+      "Turn": 8718,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8720,
+      "Speaker": "T",
+      "Turn": 8720,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the missing factor in 6 × ? = 36, eliciting a mathematical contribution."
+    },
+    {
+      "ID": 8722,
+      "Speaker": "T",
+      "Turn": 8722,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8724,
+      "Speaker": "T",
+      "Turn": 8724,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8725,
+      "Speaker": "T",
+      "Turn": 8725,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8726,
+      "Speaker": "T",
+      "Turn": 8726,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

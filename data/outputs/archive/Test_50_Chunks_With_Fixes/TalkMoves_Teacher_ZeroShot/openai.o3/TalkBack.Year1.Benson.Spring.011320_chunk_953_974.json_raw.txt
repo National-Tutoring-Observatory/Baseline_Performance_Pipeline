@@ -1,0 +1,120 @@
+{
+  "records": [
+    {
+      "ID": 953,
+      "Speaker": "T",
+      "Turn": 266
+    },
+    {
+      "ID": 954,
+      "Speaker": "T",
+      "Turn": 266
+    },
+    {
+      "ID": 955,
+      "Speaker": "T",
+      "Turn": 266,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks students to state the exact number of yellow pieces needed to make a whole, prompting a specific mathematical quantity."
+    },
+    {
+      "ID": 957,
+      "Speaker": "T",
+      "Turn": 268,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "After restating the student’s answer, the teacher asks for the precise color equivalent of two pieces, seeking a correct factual response."
+    },
+    {
+      "ID": 959,
+      "Speaker": "T",
+      "Turn": 270,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student’s answer 'one pink' nearly verbatim to highlight it for the class."
+    },
+    {
+      "ID": 960,
+      "Speaker": "T",
+      "Turn": 270
+    },
+    {
+      "ID": 961,
+      "Speaker": "T",
+      "Turn": 270
+    },
+    {
+      "ID": 962,
+      "Speaker": "T",
+      "Turn": 270,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to describe the process needed to determine the value of 55, prompting an explanation of their strategy."
+    },
+    {
+      "ID": 963,
+      "Speaker": "T",
+      "Turn": 270,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher probes an individual student to explain how they found 55, requesting the reasoning behind the calculation."
+    },
+    {
+      "ID": 965,
+      "Speaker": "T",
+      "Turn": 272,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases the student’s idea (needing another 15) to ensure understanding and share it with the class."
+    },
+    {
+      "ID": 966,
+      "Speaker": "T",
+      "Turn": 272,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher paraphrases and elaborates on Maddox’s idea about splitting the green piece, thereby revoicing and extending the student’s reasoning."
+    },
+    {
+      "ID": 967,
+      "Speaker": "T",
+      "Turn": 272,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks if the correct piece was purple, requesting confirmation of the exact color."
+    },
+    {
+      "ID": 968,
+      "Speaker": "T",
+      "Turn": 272,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher checks another possible color ('dark blue'), seeking the precise correct answer."
+    },
+    {
+      "ID": 969,
+      "Speaker": "T",
+      "Turn": 272,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher offers yet another color option ('light green') to pinpoint the accurate piece, pressing for correctness."
+    },
+    {
+      "ID": 970,
+      "Speaker": "T",
+      "Turn": 272,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks directly, 'What was it?' soliciting the exact identification of the piece."
+    },
+    {
+      "ID": 971,
+      "Speaker": "T",
+      "Turn": 272
+    },
+    {
+      "ID": 973,
+      "Speaker": "T",
+      "Turn": 274,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher restates the student’s answer ('It was a purple') and seeks confirmation, revoicing the contribution."
+    },
+    {
+      "ID": 974,
+      "Speaker": "T",
+      "Turn": 274,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher summarizes the result ('two purples fill in one dark green'), paraphrasing the collective conclusion for the class."
+    }
+  ]
+}

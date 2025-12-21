@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 1592,
+      "Speaker": "T",
+      "Turn": 1592,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 1594,
+      "Speaker": "T",
+      "Turn": 1594,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 1595,
+      "Speaker": "T",
+      "Turn": 1595,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's contribution \"Zero ones\" verbatim."
+    },
+    {
+      "ID": 1596,
+      "Speaker": "T",
+      "Turn": 1596,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 1597,
+      "Speaker": "T",
+      "Turn": 1597,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 1598,
+      "Speaker": "T",
+      "Turn": 1598,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 1599,
+      "Speaker": "T",
+      "Turn": 1599,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 1600,
+      "Speaker": "T",
+      "Turn": 1600,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's answer \"Two\" verbatim."
+    },
+    {
+      "ID": 1602,
+      "Speaker": "T",
+      "Turn": 1602,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's contribution (\"Two\") but adds mathematical language (\"ones\") to clarify the place value."
+    },
+    {
+      "ID": 1603,
+      "Speaker": "T",
+      "Turn": 1603,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the number \"Two\" that is the focus of the discussion."
+    },
+    {
+      "ID": 1604,
+      "Speaker": "T",
+      "Turn": 1604,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to recall and use the correct mathematical language for reading a decimal point."
+    },
+    {
+      "ID": 1606,
+      "Speaker": "T",
+      "Turn": 1606,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's correct response (\"And\") verbatim."
+    },
+    {
+      "ID": 1607,
+      "Speaker": "T",
+      "Turn": 1607,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 1608,
+      "Speaker": "T",
+      "Turn": 1608,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to provide the next part of the number, pressing them to make a specific mathematical contribution."
+    },
+    {
+      "ID": 1611,
+      "Speaker": "T",
+      "Turn": 1611,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 1612,
+      "Speaker": "T",
+      "Turn": 1612,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 1613,
+      "Speaker": "T",
+      "Turn": 1613,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 1614,
+      "Speaker": "T",
+      "Turn": 1614,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 1615,
+      "Speaker": "T",
+      "Turn": 1615,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher poses a new problem, prompting students to make a new mathematical contribution by applying the concept being discussed."
+    },
+    {
+      "ID": 1616,
+      "Speaker": "T",
+      "Turn": 1616,
+      "TalkMove": "None",
+      "Reasoning": null
+    }
+  ]
+}

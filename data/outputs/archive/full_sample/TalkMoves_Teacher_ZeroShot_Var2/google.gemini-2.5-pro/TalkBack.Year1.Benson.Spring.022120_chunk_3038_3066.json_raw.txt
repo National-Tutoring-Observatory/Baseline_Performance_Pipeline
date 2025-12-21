@@ -1,0 +1,143 @@
+{
+  "records": [
+    {
+      "ID": 3038,
+      "Speaker": "T",
+      "Turn": 3038,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases a student's contribution to clarify the mathematical relationship (commutative property)."
+    },
+    {
+      "ID": 3039,
+      "Speaker": "T",
+      "Turn": 3039,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher continues to rephrase the student's idea in more formal mathematical terms."
+    },
+    {
+      "ID": 3040,
+      "Speaker": "T",
+      "Turn": 3040,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3041,
+      "Speaker": "T",
+      "Turn": 3041,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts a student to identify a specific mathematical fact needed to solve the problem."
+    },
+    {
+      "ID": 3042,
+      "Speaker": "T",
+      "Turn": 3042,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3043,
+      "Speaker": "T",
+      "Turn": 3043,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3044,
+      "Speaker": "T",
+      "Turn": 3044,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher repeats the prompt for a student to identify a specific mathematical fact."
+    },
+    {
+      "ID": 3046,
+      "Speaker": "T",
+      "Turn": 3046,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher scaffolds the question, guiding the student toward the specific mathematical fact."
+    },
+    {
+      "ID": 3048,
+      "Speaker": "T",
+      "Turn": 3048,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher uses a keyword to remind the student of the specific mathematical term/concept required."
+    },
+    {
+      "ID": 3049,
+      "Speaker": "T",
+      "Turn": 3049,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher provides a strategy to help the student isolate the accurate basic fact."
+    },
+    {
+      "ID": 3051,
+      "Speaker": "T",
+      "Turn": 3051,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's contribution ('20') before building on it."
+    },
+    {
+      "ID": 3052,
+      "Speaker": "T",
+      "Turn": 3052,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher uses the student's contribution to formulate a new prompt for a specific, accurate number."
+    },
+    {
+      "ID": 3053,
+      "Speaker": "T",
+      "Turn": 3053,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts for the specific numerical answer."
+    },
+    {
+      "ID": 3055,
+      "Speaker": "T",_Turn": 3055,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's answer ('Four') and then rephrases it using the lesson's terminology ('my missing link is four')."
+    },
+    {
+      "ID": 3056,
+      "Speaker": "T",
+      "Turn": 3056,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher checks for whole-class understanding to ensure everyone is following the repeated process."
+    },
+    {
+      "ID": 3058,
+      "Speaker": "T",
+      "Turn": 3058,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3060,
+      "Speaker": "T",
+      "Turn": 3060,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a question to elicit a specific, accurate mathematical value from the student."
+    },
+    {
+      "ID": 3061,
+      "Speaker": "T",
+      "Turn": 3061,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher repeats the question to elicit a specific, accurate mathematical value."
+    },
+    {
+      "ID": 3064,
+      "Speaker": "T",
+      "Turn": 3064,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3066,
+      "Speaker": "T",
+      "Turn": 3066,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

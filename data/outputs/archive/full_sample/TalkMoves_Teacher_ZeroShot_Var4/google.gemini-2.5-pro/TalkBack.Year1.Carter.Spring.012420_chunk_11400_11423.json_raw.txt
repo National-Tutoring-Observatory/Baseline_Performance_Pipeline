@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 11400,
+      "Speaker": "T",
+      "Turn": 11400,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11401,
+      "Speaker": "T",
+      "Turn": 11401,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to provide a visual representation of their thinking process."
+    },
+    {
+      "ID": 11402,
+      "Speaker": "T",
+      "Turn": 11402,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher repeats the request for the student to provide a visual of their thinking."
+    },
+    {
+      "ID": 11403,
+      "Speaker": "T",
+      "Turn": 11403,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11404,
+      "Speaker": "T",
+      "Turn": 11404,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11406,
+      "Speaker": "T",
+      "Turn": 11406,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11407,
+      "Speaker": "T",
+      "Turn": 11407,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts the student to explain their written work."
+    },
+    {
+      "ID": 11408,
+      "Speaker": "T",
+      "Turn": 11408,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher re-articulates the student's written steps to focus the conversation on a specific point."
+    },
+    {
+      "ID": 11409,
+      "Speaker": "T",
+      "Turn": 11409,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to reason about the mathematical significance of the order of numbers."
+    },
+    {
+      "ID": 11410,
+      "Speaker": "T",
+      "Turn": 11410,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks a simpler, analogous question to scaffold the student's reasoning about the commutative property."
+    },
+    {
+      "ID": 11412,
+      "Speaker": "T",
+      "Turn": 11412,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher continues the scaffolding pattern to help the student reason about the commutative property."
+    },
+    {
+      "ID": 11414,
+      "Speaker": "T",
+      "Turn": 11414,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's answer to the previous questions."
+    },
+    {
+      "ID": 11415,
+      "Speaker": "T",
+      "Turn": 11415,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts the student to apply their reasoning from the simpler example back to the original problem."
+    },
+    {
+      "ID": 11416,
+      "Speaker": "T",
+      "Turn": 11416,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher rephrases the question to press the student to articulate the general mathematical principle."
+    },
+    {
+      "ID": 11418,
+      "Speaker": "T",
+      "Turn": 11418,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11419,
+      "Speaker": "T",
+      "Turn": 11419,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11420,
+      "Speaker": "T",
+      "Turn": 11420,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11421,
+      "Speaker": "T",
+      "Turn": 11421,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11422,
+      "Speaker": "T",
+      "Turn": 11422,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11423,
+      "Speaker": "T",
+      "Turn": 11423,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

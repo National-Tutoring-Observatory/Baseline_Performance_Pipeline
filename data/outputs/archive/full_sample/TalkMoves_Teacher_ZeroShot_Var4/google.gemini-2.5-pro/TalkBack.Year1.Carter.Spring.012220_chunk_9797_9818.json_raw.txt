@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 9797,
+      "Speaker": "T",
+      "Turn": 9797,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats a student's idea, likely rephrasing it, to put it forward for class discussion."
+    },
+    {
+      "ID": 9798,
+      "Speaker": "T",
+      "Turn": 9798,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher asks another student to add to the previously stated idea."
+    },
+    {
+      "ID": 9799,
+      "Speaker": "T",
+      "Turn": 9799,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9800,
+      "Speaker": "T",
+      "Turn": 9800,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9801,
+      "Speaker": "T",
+      "Turn": 9801,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to generalize a rule, pushing them to think beyond a single example."
+    },
+    {
+      "ID": 9802,
+      "Speaker": "T",
+      "Turn": 9802,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher explicitly asks for justification."
+    },
+    {
+      "ID": 9803,
+      "Speaker": "T",
+      "Turn": 9803,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher repeats the question, pressing students to explain their reasoning about a general case."
+    },
+    {
+      "ID": 9804,
+      "Speaker": "T",
+      "Turn": 9804,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9805,
+      "Speaker": "T",
+      "Turn": 9805,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9806,
+      "Speaker": "T",
+      "Turn": 9806,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9807,
+      "Speaker": "T",
+      "Turn": 9807,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher highlights a student's contribution from a partner talk and orients the whole class to listen to it."
+    },
+    {
+      "ID": 9808,
+      "Speaker": "T",
+      "Turn": 9808,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9809,
+      "Speaker": "T",
+      "Turn": 9809,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks a student to share their thinking process with the class."
+    },
+    {
+      "ID": 9812,
+      "Speaker": "T",
+      "Turn": 9812,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9813,
+      "Speaker": "T",
+      "Turn": 9813,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats and clarifies a student's idea about multiples for the whole class."
+    },
+    {
+      "ID": 9814,
+      "Speaker": "T",
+      "Turn": 9814,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to provide a visual proof for a rule, which is a form of justification."
+    },
+    {
+      "ID": 9815,
+      "Speaker": "T",
+      "Turn": 9815,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher elaborates on the prompt, specifying what the visual proof should demonstrate."
+    },
+    {
+      "ID": 9816,
+      "Speaker": "T",
+      "Turn": 9816,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher gives a direct command to create the visual representation as a form of reasoning."
+    },
+    {
+      "ID": 9817,
+      "Speaker": "T",
+      "Turn": 9817,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher further clarifies the components that the visual proof (reasoning) should include."
+    },
+    {
+      "ID": 9818,
+      "Speaker": "T",
+      "Turn": 9818,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to use a specific mathematical representation (rectangles) for their proof."
+    }
+  ]
+}

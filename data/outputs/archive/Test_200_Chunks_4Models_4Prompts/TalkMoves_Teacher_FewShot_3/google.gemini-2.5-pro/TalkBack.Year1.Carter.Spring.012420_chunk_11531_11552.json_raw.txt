@@ -1,0 +1,138 @@
+[
+  {
+    "ID": 11531,
+    "Turn": 173,
+    "Speaker": "T",
+    "Sentence": "How many eighths are equivalent to 14",
+    "TalkMove": "None",
+    "Reasoning": null
+  },
+  {
+    "ID": 11533,
+    "Turn": 175,
+    "Speaker": "T",
+    "Sentence": "Two 28 is equivalent to 14",
+    "TalkMove": "Revoicing",
+    "Reasoning": "The teacher repeats the student's answer ('Two') and rephrases it into a complete mathematical statement, adding the relevant fractions."
+  },
+  {
+    "ID": 11534,
+    "Turn": 175,
+    "Speaker": "T",
+    "Sentence": "How can you prove that",
+    "TalkMove": "Pressing for Reasoning",
+    "Reasoning": "The teacher asks the student to provide proof for their mathematical claim, prompting them to explain their thinking."
+  },
+  {
+    "ID": 11536,
+    "Turn": 177,
+    "Speaker": "T",
+    "Sentence": "Draw something that proves it",
+    "TalkMove": "Pressing for Reasoning",
+    "Reasoning": "The teacher prompts the student to provide evidence for their claim by creating a visual representation."
+  },
+  {
+    "ID": 11537,
+    "Turn": 177,
+    "Speaker": "T",
+    "Sentence": "Explain your thinking",
+    "TalkMove": "Pressing for Reasoning",
+    "Reasoning": "The teacher explicitly asks the student to explain their thought process."
+  },
+  {
+    "ID": 11539,
+    "Turn": 179,
+    "Speaker": "T",
+    "Sentence": "What do you guys think",
+    "TalkMove": "Getting Students to Relate to Another’s Ideas",
+    "Reasoning": "The teacher directs the class to consider and react to a classmate's presented idea."
+  },
+  {
+    "ID": 11540,
+    "Turn": 179,
+    "Speaker": "T",
+    "Sentence": "Do you agree",
+    "TalkMove": "Getting Students to Relate to Another’s Ideas",
+    "Reasoning": "The teacher specifically asks the class to state whether they agree with the student's contribution, prompting them to evaluate a peer's idea."
+  },
+  {
+    "ID": 11542,
+    "Turn": 181,
+    "Speaker": "T",
+    "Sentence": "Good",
+    "TalkMove": "None",
+    "Reasoning": null
+  },
+  {
+    "ID": 11543,
+    "Turn": 181,
+    "Speaker": "T",
+    "Sentence": "All right",
+    "TalkMove": "None",
+    "Reasoning": null
+  },
+  {
+    "ID": 11544,
+    "Turn": 181,
+    "Speaker": "T",
+    "Sentence": "What do you think",
+    "TalkMove": "Getting Students to Relate to Another’s Ideas",
+    "Reasoning": "The teacher prompts other students to share their thoughts on the work presented by their classmate."
+  },
+  {
+    "ID": 11545,
+    "Turn": 181,
+    "Speaker": "T",
+    "Sentence": "Can they make a good drawing",
+    "TalkMove": "Getting Students to Relate to Another’s Ideas",
+    "Reasoning": "The teacher asks the class to evaluate the quality of a classmate's drawing, prompting them to engage with the peer's representation."
+  },
+  {
+    "ID": 11546,
+    "Turn": 181,
+    "Speaker": "T",
+    "Sentence": "Can they explain their thinking well",
+    "TalkMove": "Getting Students to Relate to Another’s Ideas",
+    "Reasoning": "The teacher asks the class to evaluate the clarity of a classmate's explanation, prompting them to engage with the peer's reasoning."
+  },
+  {
+    "ID": 11547,
+    "Turn": 181,
+    "Speaker": "T",
+    "Sentence": "Yes nice job",
+    "TalkMove": "None",
+    "Reasoning": null
+  },
+  {
+    "ID": 11548,
+    "Turn": 181,
+    "Speaker": "T",
+    "Sentence": "Give them a round of applause",
+    "TalkMove": "None",
+    "Reasoning": null
+  },
+  {
+    "ID": 11549,
+    "Turn": 182,
+    "Speaker": "T",
+    "Sentence": "Very well done",
+    "TalkMove": "None",
+    "Reasoning": null
+  },
+  {
+    "ID": 11550,
+    "Turn": 182,
+    "Speaker": "T",
+    "Sentence": "Okay lets see the  circle pieces because that might help some of us too",
+    "TalkMove": "Keeping Everyone Together",
+    "Reasoning": "The teacher transitions to a new manipulative with the stated purpose of helping other students understand, thus keeping the group moving forward together."
+  },
+  {
+    "ID": 11551,
+    "Turn": 182,
+    "Speaker": "T",
+    "Sentence": "Nicely done",
+    "TalkMove": "None",
+    "Reasoning": null
+  }
+]

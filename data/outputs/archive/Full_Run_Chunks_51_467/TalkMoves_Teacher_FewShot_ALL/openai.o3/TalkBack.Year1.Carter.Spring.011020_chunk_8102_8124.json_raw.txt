@@ -1,0 +1,109 @@
+{
+  "records": [
+    {
+      "ID": 8102,
+      "Speaker": "T",
+      "Turn": 33,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8103,
+      "Speaker": "T",
+      "Turn": 35,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8105,
+      "Speaker": "T",
+      "Turn": 37,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8106,
+      "Speaker": "T",
+      "Turn": 37,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8108,
+      "Speaker": "T",
+      "Turn": 39,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher asks students whether having something 'in common' is necessary, prompting them to think conceptually about the idea before connecting it to the math concept of common denominators."
+    },
+    {
+      "ID": 8110,
+      "Speaker": "T",
+      "Turn": 41,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher stops mid-sentence so students supply the precise mathematical term that a common denominator must be ('equal')."
+    },
+    {
+      "ID": 8113,
+      "Speaker": "T",
+      "Turn": 44,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher solicits an additional mathematically correct synonym (‘same’) for ‘equal,’ pushing students to use precise language."
+    },
+    {
+      "ID": 8116,
+      "Speaker": "T",
+      "Turn": 47,
+      "TalkMove": "Restating",
+      "Reasoning": "Teacher repeats students’ contributions (‘same’ and ‘equivalent’) almost verbatim to highlight and confirm their responses."
+    },
+    {
+      "ID": 8117,
+      "Speaker": "T",
+      "Turn": 47,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher asks whether a common denominator is required, encouraging students to articulate and justify their understanding."
+    },
+    {
+      "ID": 8118,
+      "Speaker": "T",
+      "Turn": 47,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8119,
+      "Speaker": "T",
+      "Turn": 47,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8120,
+      "Speaker": "T",
+      "Turn": 47,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8121,
+      "Speaker": "T",
+      "Turn": 47,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8122,
+      "Speaker": "T",
+      "Turn": 47,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8123,
+      "Speaker": "T",
+      "Turn": 47,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Teacher directs the whole class to read together (‘Let’s read … ready go’), ensuring all students are oriented and participating."
+    }
+  ]
+}

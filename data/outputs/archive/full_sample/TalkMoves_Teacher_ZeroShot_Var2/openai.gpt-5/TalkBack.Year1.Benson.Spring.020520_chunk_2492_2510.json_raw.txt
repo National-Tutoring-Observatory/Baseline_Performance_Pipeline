@@ -1,0 +1,95 @@
+{
+  "records": [
+    {
+      "ID": 2492,
+      "Speaker": "T",
+      "Turn": 2492,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks why the student chose to use times three, prompting explanation of the decision."
+    },
+    {
+      "ID": 2494,
+      "Speaker": "T",
+      "Turn": 2494,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher reformulates the student's 'times three' into the more precise expression '300 x 3.'"
+    },
+    {
+      "ID": 2496,
+      "Speaker": "T",
+      "Turn": 2496,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks how he proceeded, inviting the student to explain their method."
+    },
+    {
+      "ID": 2497,
+      "Speaker": "T",
+      "Turn": 2497,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the value of 300 x 3, prompting a specific mathematical computation."
+    },
+    {
+      "ID": 2499,
+      "Speaker": "T",
+      "Turn": 2499,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher requests the product of 10 x 3, prompting accurate computation."
+    },
+    {
+      "ID": 2501,
+      "Speaker": "T",
+      "Turn": 2501,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the value of 2 x 3, prompting a precise mathematical answer."
+    },
+    {
+      "ID": 2503,
+      "Speaker": "T",
+      "Turn": 2503,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the total of 900, 30, and 6, prompting a computation."
+    },
+    {
+      "ID": 2505,
+      "Speaker": "T",
+      "Turn": 2505,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2506,
+      "Speaker": "T",
+      "Turn": 2506,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2507,
+      "Speaker": "T",
+      "Turn": 2507,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher invites the class to ask questions about the presented solutions, prompting reactions to a peer’s ideas."
+    },
+    {
+      "ID": 2508,
+      "Speaker": "T",
+      "Turn": 2508,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2509,
+      "Speaker": "T",
+      "Turn": 2509,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2510,
+      "Speaker": "T",
+      "Turn": 2510,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

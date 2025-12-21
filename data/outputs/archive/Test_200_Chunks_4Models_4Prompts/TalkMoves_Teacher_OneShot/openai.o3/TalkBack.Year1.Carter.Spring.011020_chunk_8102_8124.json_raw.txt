@@ -1,0 +1,109 @@
+{
+  "records": [
+    {
+      "ID": 8102,
+      "Speaker": "T",
+      "Turn": 33,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks for a specific detail (the dog's size), prompting the student to provide a precise description."
+    },
+    {
+      "ID": 8103,
+      "Speaker": "T",
+      "Turn": 35,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher seeks confirmation about the exact size relationship, pressing the student to verify or clarify."
+    },
+    {
+      "ID": 8105,
+      "Speaker": "T",
+      "Turn": 37,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8106,
+      "Speaker": "T",
+      "Turn": 37,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8108,
+      "Speaker": "T",
+      "Turn": 39,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8110,
+      "Speaker": "T",
+      "Turn": 41,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher pauses and prompts students to supply the precise term that completes the mathematical statement about denominators."
+    },
+    {
+      "ID": 8113,
+      "Speaker": "T",
+      "Turn": 44,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher encourages students to offer an exact synonym for 'equal,' pushing them to use precise mathematical language."
+    },
+    {
+      "ID": 8116,
+      "Speaker": "T",
+      "Turn": 47,
+      "TalkMove": "Restating",
+      "Reasoning": "Teacher repeats the students’ words 'same' and 'equivalent' verbatim, reinforcing their contributions."
+    },
+    {
+      "ID": 8117,
+      "Speaker": "T",
+      "Turn": 47,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "By asking whether a common denominator is required, the teacher invites students to consider and justify the concept."
+    },
+    {
+      "ID": 8118,
+      "Speaker": "T",
+      "Turn": 47,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8119,
+      "Speaker": "T",
+      "Turn": 47,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8120,
+      "Speaker": "T",
+      "Turn": 47,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8121,
+      "Speaker": "T",
+      "Turn": 47,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8122,
+      "Speaker": "T",
+      "Turn": 47,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8123,
+      "Speaker": "T",
+      "Turn": 47,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher directs the whole class to read together ('ready go'), prompting collective engagement."
+    }
+  ]
+}

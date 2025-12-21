@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 9696,
+      "Speaker": "T",
+      "Turn": 9696,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Teacher instructs students to share with their partners, orienting the whole class to participate."
+    },
+    {
+      "ID": 9697,
+      "Speaker": "T",
+      "Turn": 9697,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Specifies who should speak first, coordinating partner interaction for all students."
+    },
+    {
+      "ID": 9698,
+      "Speaker": "T",
+      "Turn": 9698,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Signals the class to begin the shared activity, keeping the group actions synchronized."
+    },
+    {
+      "ID": 9699,
+      "Speaker": "T",
+      "Turn": 9699,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Calls the class back to attention, re-orienting everyone to the whole-group setting."
+    },
+    {
+      "ID": 9700,
+      "Speaker": "T",
+      "Turn": 9700,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9701,
+      "Speaker": "T",
+      "Turn": 9701,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9703,
+      "Speaker": "T",
+      "Turn": 9703,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9704,
+      "Speaker": "T",
+      "Turn": 9704,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Asks a student to explain the method for finding 1/5 of 10, requesting an explanation of the process."
+    },
+    {
+      "ID": 9705,
+      "Speaker": "T",
+      "Turn": 9705,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Continues to prompt the student to describe the next step, seeking an explanation."
+    },
+    {
+      "ID": 9707,
+      "Speaker": "T",
+      "Turn": 9707,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Requests the specific number of equal groups needed, focusing on obtaining the exact mathematical answer."
+    },
+    {
+      "ID": 9708,
+      "Speaker": "T",
+      "Turn": 9708,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9709,
+      "Speaker": "T",
+      "Turn": 9709,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Repeats the question to elicit the precise numerical answer for the grouping."
+    },
+    {
+      "ID": 9710,
+      "Speaker": "T",
+      "Turn": 9710,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Instructs all students to signal their answers simultaneously, ensuring collective participation."
+    },
+    {
+      "ID": 9711,
+      "Speaker": "T",
+      "Turn": 9711,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher echoes the students' response ('five') and elaborates by counting aloud, confirming the shared answer."
+    },
+    {
+      "ID": 9712,
+      "Speaker": "T",
+      "Turn": 9712,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Asks students to justify why five groups are needed, prompting them to explain their thinking."
+    },
+    {
+      "ID": 9714,
+      "Speaker": "T",
+      "Turn": 9714,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9716,
+      "Speaker": "T",
+      "Turn": 9716,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Seeks the exact quantity contained in fifteen, focusing on a specific mathematical fact."
+    },
+    {
+      "ID": 9718,
+      "Speaker": "T",
+      "Turn": 9718,
+      "TalkMove": "Restating",
+      "Reasoning": "Repeats the student's answer 'Two' verbatim before acknowledging it."
+    },
+    {
+      "ID": 9719,
+      "Speaker": "T",
+      "Turn": 9719,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9720,
+      "Speaker": "T",
+      "Turn": 9720,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Requests an explanation for finding 1/4 of 12, prompting students to describe their method."
+    }
+  ]
+}

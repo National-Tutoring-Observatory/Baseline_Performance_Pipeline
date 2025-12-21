@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 19135,
+      "Speaker": "T",
+      "Turn": 33,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19137,
+      "Speaker": "T",
+      "Turn": 35,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19138,
+      "Speaker": "T",
+      "Turn": 35,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19140,
+      "Speaker": "T",
+      "Turn": 37,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19143,
+      "Speaker": "T",
+      "Turn": 39,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19145,
+      "Speaker": "T",
+      "Turn": 41,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19146,
+      "Speaker": "T",
+      "Turn": 41,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19148,
+      "Speaker": "T",
+      "Turn": 43,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19149,
+      "Speaker": "T",
+      "Turn": 43,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19150,
+      "Speaker": "T",
+      "Turn": 43,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19151,
+      "Speaker": "T",
+      "Turn": 43,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19152,
+      "Speaker": "T",
+      "Turn": 43,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19153,
+      "Speaker": "T",
+      "Turn": 43,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19154,
+      "Speaker": "T",
+      "Turn": 44,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19155,
+      "Speaker": "T",
+      "Turn": 44,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19156,
+      "Speaker": "T",
+      "Turn": 44,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a specific mathematical question—whether X or the whole function is being modified—prompting students to identify the precise mathematical feature."
+    },
+    {
+      "ID": 19158,
+      "Speaker": "T",
+      "Turn": 45,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher restates the student’s idea (‘You’re modifying X’) by paraphrasing it as ‘I’m modifying X,’ maintaining meaning while changing wording."
+    },
+    {
+      "ID": 19160,
+      "Speaker": "T",
+      "Turn": 47,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher echoes the student’s statement (‘That’s the whole function’) with slightly altered wording to affirm and clarify the idea."
+    },
+    {
+      "ID": 19161,
+      "Speaker": "T",
+      "Turn": 47,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19162,
+      "Speaker": "T",
+      "Turn": 47,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "By asking ‘What happens here?’ the teacher prompts students to explain the effect or reasoning behind the mathematical step."
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "coding": [
+    {
+      "ID": 10253,
+      "TalkMove": "None"
+    },
+    {
+      "ID": 10255,
+      "TalkMove": "None"
+    },
+    {
+      "ID": 10257,
+      "TalkMove": "None"
+    },
+    {
+      "ID": 10258,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to explain/see why the answer is six, prompting for justification."
+    },
+    {
+      "ID": 10259,
+      "TalkMove": "None"
+    },
+    {
+      "ID": 10261,
+      "TalkMove": "None"
+    },
+    {
+      "ID": 10262,
+      "TalkMove": "None"
+    },
+    {
+      "ID": 10263,
+      "TalkMove": "None"
+    },
+    {
+      "ID": 10264,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the exact value of 1/4 of 8, eliciting a specific mathematical contribution."
+    },
+    {
+      "ID": 10265,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "By stating \"so\" after noting there are three of them, the teacher prompts the student to extend their reasoning to the next step."
+    },
+    {
+      "ID": 10267,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher requests the precise value of 1/4 of 10."
+    },
+    {
+      "ID": 10268,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the result of 20 ÷ 4, seeking a correct computation."
+    },
+    {
+      "ID": 10270,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's answer \"Five\" word-for-word."
+    },
+    {
+      "ID": 10271,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases and elaborates on the student’s idea, clarifying that 5 is 1/4 and noting there are three of them."
+    },
+    {
+      "ID": 10272,
+      "TalkMove": "None"
+    },
+    {
+      "ID": 10273,
+      "TalkMove": "None"
+    },
+    {
+      "ID": 10274,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the exact value of 1/4 of 16."
+    }
+  ]
+}

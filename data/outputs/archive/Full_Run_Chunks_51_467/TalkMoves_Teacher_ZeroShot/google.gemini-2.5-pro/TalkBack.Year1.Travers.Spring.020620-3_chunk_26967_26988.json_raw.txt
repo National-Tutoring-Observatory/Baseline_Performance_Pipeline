@@ -1,0 +1,102 @@
+{
+  "records": [
+    {
+      "ID": 26968,
+      "Speaker": "T",
+      "Turn": 33,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's exact words, 'They were the same'."
+    },
+    {
+      "ID": 26969,
+      "Speaker": "T",
+      "Turn": 33,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26970,
+      "Speaker": "T",
+      "Turn": 33,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher asks a student to 'add on to' what a previous student said."
+    },
+    {
+      "ID": 26971,
+      "Speaker": "T",
+      "Turn": 33,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher continues the prompt for a student to share something related to the previous contribution."
+    },
+    {
+      "ID": 26973,
+      "Speaker": "T",
+      "Turn": 35,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher asks the student to stand up so that the rest of the class can hear, ensuring everyone can be an active listener."
+    },
+    {
+      "ID": 26974,
+      "Speaker": "T",
+      "Turn": 35,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26975,
+      "Speaker": "T",
+      "Turn": 35,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher directs the student to address the class, orienting the speaker to their peers."
+    },
+    {
+      "ID": 26981,
+      "Speaker": "T",
+      "Turn": 37,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher takes the student's idea about what angle size is not (ray length) and reframes it to clarify what it is (the measurement)."
+    },
+    {
+      "ID": 26982,
+      "Speaker": "T",
+      "Turn": 37,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to provide the specific mathematical term for a part of the angle."
+    },
+    {
+      "ID": 26984,
+      "Speaker": "T",
+      "Turn": 39,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher provides the correct mathematical term ('arc') after a student's incorrect attempt, ensuring accurate language is used."
+    },
+    {
+      "ID": 26985,
+      "Speaker": "T",
+      "Turn": 39,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher refines the students' ideas about angle size by connecting them to the newly introduced term 'arc' and explaining how it is used for measurement."
+    },
+    {
+      "ID": 26986,
+      "Speaker": "T",
+      "Turn": 39,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26987,
+      "Speaker": "T",
+      "Turn": 39,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26988,
+      "Speaker": "T",
+      "Turn": 39,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

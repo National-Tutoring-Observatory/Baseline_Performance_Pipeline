@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 27768,
+      "Speaker": "T",
+      "Turn": 27768,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 27769,
+      "Speaker": "T",
+      "Turn": 27769,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 27770,
+      "Speaker": "T",
+      "Turn": 27770,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 27771,
+      "Speaker": "T",
+      "Turn": 27771,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 27772,
+      "Speaker": "T",
+      "Turn": 27772,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher reminds students to use correct mathematical units and express the rule with powers of 10, emphasizing precise mathematical language."
+    },
+    {
+      "ID": 27774,
+      "Speaker": "T",
+      "Turn": 27774,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 27775,
+      "Speaker": "T",
+      "Turn": 27775,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher checks whether students stated their answer in terms of powers of 10, pushing them toward mathematically precise expression."
+    },
+    {
+      "ID": 27777,
+      "Speaker": "T",
+      "Turn": 27777,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher explicitly directs students to write their rule using exponents, focusing on correct mathematical representation."
+    },
+    {
+      "ID": 27778,
+      "Speaker": "T",
+      "Turn": 27778,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks Jack to articulate what the problem is asking, prompting an explanation of the task."
+    },
+    {
+      "ID": 27780,
+      "Speaker": "T",
+      "Turn": 27780,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher restates (in her own words) the idea that emerged—that they need to find the rule—clarifying it for the class."
+    },
+    {
+      "ID": 27781,
+      "Speaker": "T",
+      "Turn": 27781,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to identify the information available to begin solving, requesting them to explain their starting point."
+    },
+    {
+      "ID": 27783,
+      "Speaker": "T",
+      "Turn": 27783,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "By asking students to tell what the first part of the rule means, the teacher is pressing them to explain their understanding."
+    },
+    {
+      "ID": 27785,
+      "Speaker": "T",
+      "Turn": 27785,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts for the exact conversion between meters and centimeters, seeking a precise numerical answer."
+    },
+    {
+      "ID": 27787,
+      "Speaker": "T",
+      "Turn": 27787,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 27789,
+      "Speaker": "T",
+      "Turn": 27789,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "After stating the conversion for one meter, the teacher asks students to calculate the centimeters for two meters, requiring a precise mathematical answer."
+    },
+    {
+      "ID": 27791,
+      "Speaker": "T",
+      "Turn": 27791,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher says 'Help me out,' inviting all students to participate and stay engaged in the collective task."
+    },
+    {
+      "ID": 27792,
+      "Speaker": "T",
+      "Turn": 27792,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "By indicating 'three meters' and expecting the class to supply the corresponding centimeters, the teacher pushes for a specific numerical response."
+    },
+    {
+      "ID": 27794,
+      "Speaker": "T",
+      "Turn": 27794,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher cues 'Four meters' to prompt students to state the accurate number of centimeters."
+    },
+    {
+      "ID": 27796,
+      "Speaker": "T",
+      "Turn": 27796,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Similarly, the teacher names 'Five meters' expecting students to supply the precise equivalent in centimeters."
+    },
+    {
+      "ID": 27798,
+      "Speaker": "T",
+      "Turn": 27798,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to articulate the overarching rule or pattern, prompting them to explain their reasoning."
+    }
+  ]
+}

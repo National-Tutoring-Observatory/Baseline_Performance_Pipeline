@@ -1,0 +1,112 @@
+{
+  "records": [
+    {
+      "ID": 16,
+      "Speaker": "T",
+      "Turn": 5,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher requests justification for why the student thinks another student is correct."
+    },
+    {
+      "ID": 17,
+      "Speaker": "T",
+      "Turn": 6,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher prompts students to explain the sequence of steps they used, asking for the reasoning behind their solution."
+    },
+    {
+      "ID": 18,
+      "Speaker": "T",
+      "Turn": 6
+    },
+    {
+      "ID": 19,
+      "Speaker": "T",
+      "Turn": 6
+    },
+    {
+      "ID": 20,
+      "Speaker": "T",
+      "Turn": 7,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "Teacher instructs students to ask someone else, directing them to engage with peers’ ideas."
+    },
+    {
+      "ID": 21,
+      "Speaker": "T",
+      "Turn": 7
+    },
+    {
+      "ID": 23,
+      "Speaker": "T",
+      "Turn": 9
+    },
+    {
+      "ID": 24,
+      "Speaker": "T",
+      "Turn": 9
+    },
+    {
+      "ID": 25,
+      "Speaker": "T",
+      "Turn": 9,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks the student to repeat what was said, seeking a clearer and more precise statement."
+    },
+    {
+      "ID": 26,
+      "Speaker": "T",
+      "Turn": 10
+    },
+    {
+      "ID": 27,
+      "Speaker": "T",
+      "Turn": 10
+    },
+    {
+      "ID": 29,
+      "Speaker": "T",
+      "Turn": 12
+    },
+    {
+      "ID": 30,
+      "Speaker": "T",
+      "Turn": 12
+    },
+    {
+      "ID": 31,
+      "Speaker": "T",
+      "Turn": 12
+    },
+    {
+      "ID": 32,
+      "Speaker": "T",
+      "Turn": 12
+    },
+    {
+      "ID": 33,
+      "Speaker": "T",
+      "Turn": 12
+    },
+    {
+      "ID": 34,
+      "Speaker": "T",
+      "Turn": 12
+    },
+    {
+      "ID": 35,
+      "Speaker": "T",
+      "Turn": 12
+    },
+    {
+      "ID": 36,
+      "Speaker": "T",
+      "Turn": 13
+    },
+    {
+      "ID": 37,
+      "Speaker": "T",
+      "Turn": 13
+    }
+  ]
+}

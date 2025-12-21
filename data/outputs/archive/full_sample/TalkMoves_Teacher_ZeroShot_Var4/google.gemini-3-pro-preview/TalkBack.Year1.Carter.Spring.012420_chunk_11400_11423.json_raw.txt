@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 11400,
+      "Speaker": "T",
+      "Turn": 11400,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11401,
+      "Speaker": "T",
+      "Turn": 11401,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to write out their work to show the class, prompting a representation of their thinking."
+    },
+    {
+      "ID": 11402,
+      "Speaker": "T",
+      "Turn": 11402,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher explicitly asks to see a 'visual of your thinking,' prompting the student to represent and share their ideas."
+    },
+    {
+      "ID": 11403,
+      "Speaker": "T",
+      "Turn": 11403,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11404,
+      "Speaker": "T",
+      "Turn": 11404,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11406,
+      "Speaker": "T",
+      "Turn": 11406,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11407,
+      "Speaker": "T",
+      "Turn": 11407,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts the student to 'go through' their work, asking for an explanation of the steps taken."
+    },
+    {
+      "ID": 11408,
+      "Speaker": "T",
+      "Turn": 11408,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher summarizes and reformulates the student's previous actions and statements ('started by saying... then you switched')."
+    },
+    {
+      "ID": 11409,
+      "Speaker": "T",
+      "Turn": 11409,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks 'Does it matter,' prompting the student to provide a justification for their mathematical decision."
+    },
+    {
+      "ID": 11410,
+      "Speaker": "T",
+      "Turn": 11410,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for a specific calculation ('Whats 2 x 3'), prompting a precise mathematical contribution."
+    },
+    {
+      "ID": 11412,
+      "Speaker": "T",
+      "Turn": 11412,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for a specific calculation ('Whats 3 x 2'), prompting a precise mathematical contribution."
+    },
+    {
+      "ID": 11414,
+      "Speaker": "T",
+      "Turn": 11414,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11415,
+      "Speaker": "T",
+      "Turn": 11415,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks if the phrasing order matters, prompting the student to connect ideas about the properties of the operation."
+    },
+    {
+      "ID": 11416,
+      "Speaker": "T",
+      "Turn": 11416,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks 'Does the order matter,' prompting the student to justify the concept of commutativity."
+    },
+    {
+      "ID": 11418,
+      "Speaker": "T",
+      "Turn": 11418,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts the student to 'keep going,' asking them to continue their explanation of their thinking."
+    },
+    {
+      "ID": 11419,
+      "Speaker": "T",
+      "Turn": 11419,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts the student to 'go ahead,' encouraging the continuation of their explanation."
+    },
+    {
+      "ID": 11420,
+      "Speaker": "T",
+      "Turn": 11420,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11421,
+      "Speaker": "T",
+      "Turn": 11421,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11422,
+      "Speaker": "T",
+      "Turn": 11422,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11423,
+      "Speaker": "T",
+      "Turn": 11423,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

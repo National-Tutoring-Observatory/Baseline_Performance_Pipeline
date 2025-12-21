@@ -1,0 +1,39 @@
+{
+  "records": [
+    {
+      "ID": 5550,
+      "Speaker": "T",
+      "Turn": 5550,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5557,
+      "Speaker": "T",
+      "Turn": 5557,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks students to identify or define 'that,' prompting a precise, accurate description."
+    },
+    {
+      "ID": 5563,
+      "Speaker": "T",
+      "Turn": 5563,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher reformulates a student's idea by interpreting it as 'you are ahead,' adding clarification."
+    },
+    {
+      "ID": 5566,
+      "Speaker": "T",
+      "Turn": 5566,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5567,
+      "Speaker": "T",
+      "Turn": 5567,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

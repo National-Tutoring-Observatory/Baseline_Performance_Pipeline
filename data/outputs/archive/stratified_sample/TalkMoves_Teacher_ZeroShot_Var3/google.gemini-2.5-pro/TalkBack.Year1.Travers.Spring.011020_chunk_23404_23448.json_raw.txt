@@ -1,0 +1,228 @@
+{
+  "records": [
+    {
+      "ID": 23405,
+      "Speaker": "T",
+      "Turn": 90,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher prompts the student to repeat their contribution so it can be heard and become part of the public discourse."
+    },
+    {
+      "ID": 23407,
+      "Speaker": "T",
+      "Turn": 92,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's idea, attributing it to the student and making it a public object of discussion."
+    },
+    {
+      "ID": 23408,
+      "Speaker": "T",
+      "Turn": 92,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 23409,
+      "Speaker": "T",
+      "Turn": 92,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher explicitly asks another student to 'add on' to Jon's idea."
+    },
+    {
+      "ID": 23410,
+      "Speaker": "T",
+      "Turn": 92,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a direct question to elicit a specific mathematical fact."
+    },
+    {
+      "ID": 23411,
+      "Speaker": "T",
+      "Turn": 92,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher directs students to listen to a peer and ensures the speaker is audible to the group."
+    },
+    {
+      "ID": 23412,
+      "Speaker": "T",
+      "Turn": 92,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher gives a direct instruction to a student to increase their volume for the benefit of the class."
+    },
+    {
+      "ID": 23415,
+      "Speaker": "T",
+      "Turn": 95,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "After revoicing a student's idea, the teacher explicitly asks other students to 'respond to that'."
+    },
+    {
+      "ID": 23416,
+      "Speaker": "T",
+      "Turn": 95,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher manages turn-taking by having a student select the next speaker, orienting students to each other."
+    },
+    {
+      "ID": 23420,
+      "Speaker": "T",
+      "Turn": 97,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 23421,
+      "Speaker": "T",
+      "Turn": 97,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 23422,
+      "Speaker": "T",
+      "Turn": 97,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 23424,
+      "Speaker": "T",
+      "Turn": 99,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 23425,
+      "Speaker": "T",
+      "Turn": 99,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 23426,
+      "Speaker": "T",
+      "Turn": 99,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for a specific mathematical contribution, the factors of a number."
+    },
+    {
+      "ID": 23427,
+      "Speaker": "T",
+      "Turn": 99,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts students on the thought process for finding factors, asking them to consider the definition ('what times what')."
+    },
+    {
+      "ID": 23428,
+      "Speaker": "T",
+      "Turn": 99,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher makes the prompt for reasoning more explicit by structuring the thought process as 'what times what equals 12'."
+    },
+    {
+      "ID": 23429,
+      "Speaker": "T",
+      "Turn": 100,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 23430,
+      "Speaker": "T",
+      "Turn": 100,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 23431,
+      "Speaker": "T",
+      "Turn": 100,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks students to provide a specific mathematical contribution (two factors)."
+    },
+    {
+      "ID": 23432,
+      "Speaker": "T",
+      "Turn": 100,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 23434,
+      "Speaker": "T",
+      "Turn": 102,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's answer '6 and 2' verbatim."
+    },
+    {
+      "ID": 23435,
+      "Speaker": "T",
+      "Turn": 102,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 23436,
+      "Speaker": "T",
+      "Turn": 102,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 23438,
+      "Speaker": "T",
+      "Turn": 104,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's answer '3 and 4' verbatim."
+    },
+    {
+      "ID": 23439,
+      "Speaker": "T",
+      "Turn": 104,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 23440,
+      "Speaker": "T",
+      "Turn": 104,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 23441,
+      "Speaker": "T",
+      "Turn": 104,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to provide more correct answers (more factors)."
+    },
+    {
+      "ID": 23443,
+      "Speaker": "T",
+      "Turn": 106,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts a specific student to provide another correct answer."
+    },
+    {
+      "ID": 23445,
+      "Speaker": "T",
+      "Turn": 108,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's answer ('4 3') and adds to it ('and 3 4') to highlight a mathematical property."
+    },
+    {
+      "ID": 23446,
+      "Speaker": "T",
+      "Turn": 108,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 23447,
+      "Speaker": "T",
+      "Turn": 108,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to provide more correct answers."
+    }
+  ]
+}

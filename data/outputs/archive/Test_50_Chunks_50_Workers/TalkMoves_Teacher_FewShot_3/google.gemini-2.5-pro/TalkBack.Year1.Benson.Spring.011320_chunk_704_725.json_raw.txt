@@ -1,0 +1,130 @@
+{
+  "records": [
+    {
+      "ID": 704,
+      "Turn": 154,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 705,
+      "Turn": 154,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 706,
+      "Turn": 154,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 707,
+      "Turn": 154,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 708,
+      "Turn": 154,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 710,
+      "Turn": 156,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases the student's answer ('two fifths') into the language of the manipulatives ('two green') to clarify the student's action."
+    },
+    {
+      "ID": 711,
+      "Turn": 156,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher corrects the student's use of the term 'fifth' and explains the precise mathematical meaning to guide them toward more accurate language."
+    },
+    {
+      "ID": 712,
+      "Turn": 156,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks a question to prompt the student to think about and justify what constitutes the 'whole' in the current problem context."
+    },
+    {
+      "ID": 714,
+      "Turn": 158,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to define a key mathematical term ('the whole') for the current problem."
+    },
+    {
+      "ID": 716,
+      "Turn": 160,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher replaces the student's incorrect term ('two fifths') with a more appropriate description ('Two colors') to clarify the idea."
+    },
+    {
+      "ID": 718,
+      "Turn": 162,
+      "Speaker": "T",
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's contribution ('Two greens') verbatim, affirming and amplifying it."
+    },
+    {
+      "ID": 719,
+      "Turn": 162,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 720,
+      "Turn": 163,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 721,
+      "Turn": 163,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 722,
+      "Turn": 163,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 723,
+      "Turn": 163,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 724,
+      "Turn": 163,
+      "Speaker": "T",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher directs all students' attention to a specific observation to ensure the group is progressing together."
+    },
+    {
+      "ID": 725,
+      "Turn": 163,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

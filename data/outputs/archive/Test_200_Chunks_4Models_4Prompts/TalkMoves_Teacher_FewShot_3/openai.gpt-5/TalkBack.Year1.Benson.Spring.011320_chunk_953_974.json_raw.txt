@@ -1,0 +1,130 @@
+{
+  "records": [
+    {
+      "ID": 953,
+      "Turn": 266,
+      "Speaker": "T",
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 954,
+      "Turn": 266,
+      "Speaker": "T",
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 955,
+      "Turn": 266,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks for the number of halves that make a whole, prompting a specific mathematical answer."
+    },
+    {
+      "ID": 957,
+      "Turn": 268,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Prompts students to name the resulting color, seeking a precise contribution."
+    },
+    {
+      "ID": 959,
+      "Turn": 270,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "Repeats the student's idea ('pink') with adjusted wording to confirm."
+    },
+    {
+      "ID": 960,
+      "Turn": 270,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "Restates and elaborates the students’ contributions by connecting two halves to one whole."
+    },
+    {
+      "ID": 961,
+      "Turn": 270,
+      "Speaker": "T",
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 962,
+      "Turn": 270,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Asks students to explain the steps needed to determine the value for 55."
+    },
+    {
+      "ID": 963,
+      "Turn": 270,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Requests a student’s explanation of how they figured out 55."
+    },
+    {
+      "ID": 965,
+      "Turn": 272,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "Paraphrases the student’s idea about needing another 15 and checks understanding."
+    },
+    {
+      "ID": 966,
+      "Turn": 272,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "Summarizes and clarifies Maddox’s method of splitting the piece into equal parts."
+    },
+    {
+      "ID": 967,
+      "Turn": 272,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks for the specific color, prompting a precise identification."
+    },
+    {
+      "ID": 968,
+      "Turn": 272,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Continues to prompt for the exact color."
+    },
+    {
+      "ID": 969,
+      "Turn": 272,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Continues eliciting the specific color."
+    },
+    {
+      "ID": 970,
+      "Turn": 272,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks a direct question to identify the color."
+    },
+    {
+      "ID": 971,
+      "Turn": 272,
+      "Speaker": "T",
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 973,
+      "Turn": 274,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "Restates the student’s answer ('purple') with added wording to confirm."
+    },
+    {
+      "ID": 974,
+      "Turn": 274,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "Summarizes the class conclusion by connecting two purple pieces to the dark green."
+    }
+  ]
+}

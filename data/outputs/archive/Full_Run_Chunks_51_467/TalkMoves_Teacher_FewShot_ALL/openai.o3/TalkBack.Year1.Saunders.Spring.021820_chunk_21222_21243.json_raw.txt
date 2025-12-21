@@ -1,0 +1,67 @@
+{
+  "records": [
+    {
+      "ID": 21224,
+      "Speaker": "T",
+      "Turn": 290,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21230,
+      "Speaker": "T",
+      "Turn": 294,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21231,
+      "Speaker": "T",
+      "Turn": 294,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher directs the student to consult a peer (“Did you ask Cole first?”), prompting the student to engage with a classmate’s thinking before seeking help."
+    },
+    {
+      "ID": 21234,
+      "Speaker": "T",
+      "Turn": 296,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21235,
+      "Speaker": "T",
+      "Turn": 296,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks, “What can I do to simplify that?” requiring students to explain a method for simplification."
+    },
+    {
+      "ID": 21236,
+      "Speaker": "T",
+      "Turn": 298,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher echoes the student’s contribution (“So 25”) verbatim to confirm and highlight it."
+    },
+    {
+      "ID": 21240,
+      "Speaker": "T",
+      "Turn": 302,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "By asking, “Will that get it into two thirds more simple?” the teacher presses the student to justify whether the suggested step truly simplifies the expression."
+    },
+    {
+      "ID": 21242,
+      "Speaker": "T",
+      "Turn": 304,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student’s words (“Not really”) exactly, mirroring the student’s response."
+    },
+    {
+      "ID": 21243,
+      "Speaker": "T",
+      "Turn": 304,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

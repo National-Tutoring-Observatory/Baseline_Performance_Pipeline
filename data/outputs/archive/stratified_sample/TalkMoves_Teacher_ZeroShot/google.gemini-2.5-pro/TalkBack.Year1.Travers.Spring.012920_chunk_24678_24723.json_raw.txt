@@ -1,0 +1,300 @@
+{
+  "records": [
+    {
+      "ID": 24678,
+      "Turn": 118,
+      "Speaker": "T",
+      "Sentence": "The measure of the longest beetle is",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24679,
+      "Turn": 118,
+      "Speaker": "T",
+      "Sentence": "Say it",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24681,
+      "Turn": 120,
+      "Speaker": "T",
+      "Sentence": "Three and a half what",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to include the units ('inches') to make their mathematical contribution more precise."
+    },
+    {
+      "ID": 24683,
+      "Turn": 122,
+      "Speaker": "T",
+      "Sentence": "Three and a half inches",
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's complete answer ('Three and a half inches') word for word after the student supplied the unit."
+    },
+    {
+      "ID": 24684,
+      "Turn": 122,
+      "Speaker": "T",
+      "Sentence": "What is the measurement of the shortest beetle",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24685,
+      "Turn": 122,
+      "Speaker": "T",
+      "Sentence": "Tell your shoulder partner",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24687,
+      "Turn": 124,
+      "Speaker": "T",
+      "Sentence": "One and a half what",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to include the units ('inches') to make their mathematical contribution more precise."
+    },
+    {
+      "ID": 24689,
+      "Turn": 126,
+      "Speaker": "T",
+      "Sentence": "Thank you",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24690,
+      "Turn": 126,
+      "Speaker": "T",
+      "Sentence": "You have to remember those labels in math right",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24691,
+      "Turn": 126,
+      "Speaker": "T",
+      "Sentence": "Lastly this one is going to make you do a little thinking",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24692,
+      "Turn": 126,
+      "Speaker": "T",
+      "Sentence": "What is the difference between the measure of the longest and the shortest insects",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24693,
+      "Turn": 126,
+      "Speaker": "T",
+      "Sentence": "Think about that first",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24694,
+      "Turn": 126,
+      "Speaker": "T",
+      "Sentence": "What is the difference between the longest and the shortest insects",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24695,
+      "Turn": 126,
+      "Speaker": "T",
+      "Sentence": "Tell your shoulder partner",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24696,
+      "Turn": 126,
+      "Speaker": "T",
+      "Sentence": "Go",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24697,
+      "Turn": 127,
+      "Speaker": "T",
+      "Sentence": "When youre ready to share give me a thumbs up",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24698,
+      "Turn": 127,
+      "Speaker": "T",
+      "Sentence": "Noah do your",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24700,
+      "Turn": 129,
+      "Speaker": "T",
+      "Sentence": "Noah Im hearing you say four halves from one and one half to three and one half",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's idea about 'four halves' but clarifies it by adding the range 'from one and one half to three and one half'."
+    },
+    {
+      "ID": 24703,
+      "Turn": 131,
+      "Speaker": "T",
+      "Sentence": "Good thinking",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24705,
+      "Turn": 133,
+      "Speaker": "T",
+      "Sentence": "Noah what Im hearing you say is if you count by each interval each interval is half an inch and there is four halves or if you count three and a half minus one and a half you would get two inches",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher synthesizes and rephrases the student's contributions into a more formal mathematical explanation, connecting 'four halves' to counting intervals and another idea to a subtraction problem."
+    },
+    {
+      "ID": 24706,
+      "Turn": 133,
+      "Speaker": "T",
+      "Sentence": "The difference is two inches",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24707,
+      "Turn": 133,
+      "Speaker": "T",
+      "Sentence": "Friends I wanted you to just be able to see a line plot and recognize how to look at a line plot",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24708,
+      "Turn": 133,
+      "Speaker": "T",
+      "Sentence": "Now I want to have you Would you please go get your whiteboard and markers and come back to your same spot on the carpet",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24709,
+      "Turn": 133,
+      "Speaker": "T",
+      "Sentence": "Go",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24710,
+      "Turn": 133,
+      "Speaker": "T",
+      "Sentence": "Can you do this by the time the bell is done",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24711,
+      "Turn": 133,
+      "Speaker": "T",
+      "Sentence": "Ready",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24712,
+      "Turn": 134,
+      "Speaker": "T",
+      "Sentence": "Thank you so much for being ready",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24713,
+      "Turn": 134,
+      "Speaker": "T",
+      "Sentence": "Here we go",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24714,
+      "Turn": 134,
+      "Speaker": "T",
+      "Sentence": "We have some more data here",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24715,
+      "Turn": 134,
+      "Speaker": "T",
+      "Sentence": "Chuck planted sunflower seeds",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24716,
+      "Turn": 134,
+      "Speaker": "T",
+      "Sentence": "Two weeks later he measured the heights of the plants",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24717,
+      "Turn": 134,
+      "Speaker": "T",
+      "Sentence": "Here is the data",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24718,
+      "Turn": 134,
+      "Speaker": "T",
+      "Sentence": "My friends we have this list of data and we have some directions here how to help us organize the data",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24719,
+      "Turn": 134,
+      "Speaker": "T",
+      "Sentence": "Our first step to organize and think about the data is to put the measurements in order from what",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24721,
+      "Turn": 136,
+      "Speaker": "T",
+      "Sentence": "Lets find out the smallest piece of data in the group",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24722,
+      "Turn": 136,
+      "Speaker": "T",
+      "Sentence": "What do you think it is",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24723,
+      "Turn": 136,
+      "Speaker": "T",
+      "Sentence": "Look at the data",
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "records": [
+    {
+      "ID": 25247,
+      "Speaker": "T",
+      "Turn": 429,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to perform a count, eliciting a specific mathematical contribution."
+    },
+    {
+      "ID": 25249,
+      "Speaker": "T",
+      "Turn": 431,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher reformulates the student’s count into a precise statement with units."
+    },
+    {
+      "ID": 25251,
+      "Speaker": "T",
+      "Turn": 433,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks whether there are any measurements of 50½, prompting specific numerical information."
+    },
+    {
+      "ID": 25253,
+      "Speaker": "T",
+      "Turn": 435,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher echoes the student’s response (“one”) with adjusted wording (“Just one”)."
+    },
+    {
+      "ID": 25254,
+      "Speaker": "T",
+      "Turn": 436,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 25255,
+      "Speaker": "T",
+      "Turn": 436,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 25256,
+      "Speaker": "T",
+      "Turn": 436,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher orients the class to stay engaged and follow along."
+    },
+    {
+      "ID": 25257,
+      "Speaker": "T",
+      "Turn": 436,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher requests the next value, prompting a specific mathematical contribution."
+    },
+    {
+      "ID": 25258,
+      "Speaker": "T",
+      "Turn": 436,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks if the measurement 51 is present, eliciting precise numerical information."
+    },
+    {
+      "ID": 25259,
+      "Speaker": "T",
+      "Turn": 437,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 25260,
+      "Speaker": "T",
+      "Turn": 437,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 25262,
+      "Speaker": "T",
+      "Turn": 439,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher restates the student’s idea (“We have two”) with altered wording (“Just two”)."
+    },
+    {
+      "ID": 25264,
+      "Speaker": "T",
+      "Turn": 441,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats part of the student’s prior statement word-for-word (“two”)."
+    },
+    {
+      "ID": 25265,
+      "Speaker": "T",
+      "Turn": 442,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 25266,
+      "Speaker": "T",
+      "Turn": 442,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 25267,
+      "Speaker": "T",
+      "Turn": 442,
+      "TalkMove": "None",
+      "Reasoning": null
+    }
+  ]
+}

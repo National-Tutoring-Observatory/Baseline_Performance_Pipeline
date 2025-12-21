@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 7138,
+      "Speaker": "T",
+      "Turn": 7138,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 7139,
+      "Speaker": "T",
+      "Turn": 7139,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher directs all students to engage with the question, ensuring the whole class is focused on the same task."
+    },
+    {
+      "ID": 7140,
+      "Speaker": "T",
+      "Turn": 7140,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher directs the entire class to think about a specific mathematical problem, ensuring shared focus."
+    },
+    {
+      "ID": 7141,
+      "Speaker": "T",
+      "Turn": 7141,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to consider the process ('how can you...') for performing a specific mathematical transformation."
+    },
+    {
+      "ID": 7142,
+      "Speaker": "T",
+      "Turn": 7142,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher instructs students to work in pairs, orienting them to each other to discuss their ideas."
+    },
+    {
+      "ID": 7143,
+      "Speaker": "T",
+      "Turn": 7143,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 7144,
+      "Speaker": "T",
+      "Turn": 7144,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 7145,
+      "Speaker": "T",
+      "Turn": 7145,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher calls for the whole class's attention, bringing them back together after a partner talk."
+    },
+    {
+      "ID": 7146,
+      "Speaker": "T",
+      "Turn": 7146,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks a student to share the conclusion reached during their partner discussion, prompting them to share their thinking."
+    },
+    {
+      "ID": 7148,
+      "Speaker": "T",
+      "Turn": 7148,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts the student to explain the method ('how could I...') for completing the mathematical task."
+    },
+    {
+      "ID": 7149,
+      "Speaker": "T",
+      "Turn": 7149,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a specific question about a feature of the mathematical representation to guide the student toward a precise answer."
+    },
+    {
+      "ID": 7150,
+      "Speaker": "T",
+      "Turn": 7150,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for a specific numerical value related to the representation, pressing for a precise mathematical contribution."
+    },
+    {
+      "ID": 7151,
+      "Speaker": "T",
+      "Turn": 7151,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student for a specific numerical value required to correctly perform the transformation."
+    },
+    {
+      "ID": 7152,
+      "Speaker": "T",
+      "Turn": 7152,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "After establishing a value, the teacher asks the student to explain the next step in their process ('where will we put it then')."
+    },
+    {
+      "ID": 7153,
+      "Speaker": "T",
+      "Turn": 7153,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher re-frames the problem, asking the student to explain how they can apply the established facts to find a solution."
+    },
+    {
+      "ID": 7155,
+      "Speaker": "T",
+      "Turn": 7155,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 7156,
+      "Speaker": "T",
+      "Turn": 7156,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 7163,
+      "Speaker": "T",
+      "Turn": 7163,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher explicitly directs one student to respond to another student's contribution."
+    },
+    {
+      "ID": 7165,
+      "Speaker": "T",
+      "Turn": 7165,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher clarifies a key mathematical constraint of the problem (that the shape must get larger)."
+    },
+    {
+      "ID": 7167,
+      "Speaker": "T",
+      "Turn": 7167,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks a student to evaluate the work of a peer and explain the implications of a specific condition."
+    }
+  ]
+}

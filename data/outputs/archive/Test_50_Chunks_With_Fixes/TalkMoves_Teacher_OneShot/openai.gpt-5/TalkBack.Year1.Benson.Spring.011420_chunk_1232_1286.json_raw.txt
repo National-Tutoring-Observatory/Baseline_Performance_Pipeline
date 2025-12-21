@@ -1,0 +1,256 @@
+{
+  "records": [
+    {
+      "ID": 1232,
+      "Speaker": "T",
+      "Turn": 102,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1233,
+      "Speaker": "T",
+      "Turn": 102,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1235,
+      "Speaker": "T",
+      "Turn": 104,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1236,
+      "Speaker": "T",
+      "Turn": 104,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1238,
+      "Speaker": "T",
+      "Turn": 106,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1239,
+      "Speaker": "T",
+      "Turn": 106,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1241,
+      "Speaker": "T",
+      "Turn": 108,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1242,
+      "Speaker": "T",
+      "Turn": 108,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1243,
+      "Speaker": "T",
+      "Turn": 108,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1247,
+      "Speaker": "T",
+      "Turn": 110,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1248,
+      "Speaker": "T",
+      "Turn": 110,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for a specific quantity from the problem (how far Charice ran), prompting a precise mathematical contribution."
+    },
+    {
+      "ID": 1250,
+      "Speaker": "T",
+      "Turn": 112,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's answer ('78') and slightly modifies it by adding 'right' to confirm understanding."
+    },
+    {
+      "ID": 1251,
+      "Speaker": "T",
+      "Turn": 112,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher reformulates the student’s contribution into a full sentence, adding context ('Charice ran 7/8 of a mile')."
+    },
+    {
+      "ID": 1252,
+      "Speaker": "T",
+      "Turn": 112,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks students to state the unknown they must solve for, prompting a clear mathematical target."
+    },
+    {
+      "ID": 1253,
+      "Speaker": "T",
+      "Turn": 112,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher restates the problem’s question (how much Ally ran), echoing the student’s earlier reading to focus the task."
+    },
+    {
+      "ID": 1255,
+      "Speaker": "T",
+      "Turn": 114,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks how to find the answer, prompting students to explain their approach."
+    },
+    {
+      "ID": 1256,
+      "Speaker": "T",
+      "Turn": 114,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks what information is given to help figure it out, prompting students to cite evidence from the problem."
+    },
+    {
+      "ID": 1259,
+      "Speaker": "T",
+      "Turn": 116,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1260,
+      "Speaker": "T",
+      "Turn": 116,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1262,
+      "Speaker": "T",
+      "Turn": 118,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1263,
+      "Speaker": "T",
+      "Turn": 118,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks students to choose the correct operation (add or subtract), prompting a precise mathematical decision."
+    },
+    {
+      "ID": 1266,
+      "Speaker": "T",
+      "Turn": 121,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1268,
+      "Speaker": "T",
+      "Turn": 123,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks 'why' they will add, prompting justification of the operation choice."
+    },
+    {
+      "ID": 1270,
+      "Speaker": "T",
+      "Turn": 125,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1271,
+      "Speaker": "T",
+      "Turn": 125,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1272,
+      "Speaker": "T",
+      "Turn": 125,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1273,
+      "Speaker": "T",
+      "Turn": 125,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks students to name the whole unit being measured, prompting precise mathematical language."
+    },
+    {
+      "ID": 1275,
+      "Speaker": "T",
+      "Turn": 127,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1277,
+      "Speaker": "T",
+      "Turn": 129,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student’s response ('Miles') word for word."
+    },
+    {
+      "ID": 1278,
+      "Speaker": "T",
+      "Turn": 129,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher modifies the student’s contribution ('Miles') to 'A mile,' refining the wording."
+    },
+    {
+      "ID": 1279,
+      "Speaker": "T",
+      "Turn": 129,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1280,
+      "Speaker": "T",
+      "Turn": 129,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1281,
+      "Speaker": "T",
+      "Turn": 129,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1284,
+      "Speaker": "T",
+      "Turn": 131,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1285,
+      "Speaker": "T",
+      "Turn": 131,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1286,
+      "Speaker": "T",
+      "Turn": 131,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

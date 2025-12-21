@@ -1,0 +1,17 @@
+Prompt,Model,N,Accuracy,Kappa,Run_Name,Sample_Type,Analysis_Time
+TalkMoves_Teacher_OneShot,openai.o3,9427,0.6878116049644638,0.37384049953622034,Full_Run_Chunks_51_467,experiment_800,2025-12-19T21:43:14Z
+TalkMoves_Teacher_FewShot_ALL,openai.o3,9427,0.6878116049644638,0.37076105638316537,Full_Run_Chunks_51_467,experiment_800,2025-12-19T21:43:14Z
+TalkMoves_Teacher_FewShot_3,openai.o3,9425,0.6714058355437665,0.36752159475982804,Full_Run_Chunks_51_467,experiment_800,2025-12-19T21:43:14Z
+TalkMoves_Teacher_ZeroShot,openai.o3,9400,0.6812765957446808,0.3653636336758394,Full_Run_Chunks_51_467,experiment_800,2025-12-19T21:43:14Z
+TalkMoves_Teacher_FewShot_ALL,openai.gpt-5,9434,0.6818952724189103,0.34882837825492286,Full_Run_Chunks_51_467,experiment_800,2025-12-19T21:43:14Z
+TalkMoves_Teacher_ZeroShot,openai.gpt-5,9434,0.6774432902268391,0.3443046577141165,Full_Run_Chunks_51_467,experiment_800,2025-12-19T21:43:14Z
+TalkMoves_Teacher_FewShot_3,anthropic.claude-4.5-sonnet,9349,0.6751524227190073,0.3406188290234223,Full_Run_Chunks_51_467,experiment_800,2025-12-19T21:43:14Z
+TalkMoves_Teacher_OneShot,anthropic.claude-4.5-sonnet,9425,0.6920954907161804,0.3404022643415214,Full_Run_Chunks_51_467,experiment_800,2025-12-19T21:43:14Z
+TalkMoves_Teacher_OneShot,openai.gpt-5,9434,0.6757472970108119,0.33892444867793503,Full_Run_Chunks_51_467,experiment_800,2025-12-19T21:43:14Z
+TalkMoves_Teacher_FewShot_ALL,anthropic.claude-4.5-sonnet,9425,0.6910344827586207,0.33867483792405934,Full_Run_Chunks_51_467,experiment_800,2025-12-19T21:43:14Z
+TalkMoves_Teacher_OneShot,google.gemini-2.5-pro,9124,0.6930074528715475,0.33149376995196744,Full_Run_Chunks_51_467,experiment_800,2025-12-19T21:43:14Z
+TalkMoves_Teacher_FewShot_ALL,google.gemini-2.5-pro,8985,0.6914858096828047,0.32927044215564116,Full_Run_Chunks_51_467,experiment_800,2025-12-19T21:43:14Z
+TalkMoves_Teacher_ZeroShot,anthropic.claude-4.5-sonnet,9434,0.6850752596989612,0.3282125355731351,Full_Run_Chunks_51_467,experiment_800,2025-12-19T21:43:14Z
+TalkMoves_Teacher_FewShot_3,google.gemini-2.5-pro,9430,0.6868504772004241,0.32241633602368697,Full_Run_Chunks_51_467,experiment_800,2025-12-19T21:43:14Z
+TalkMoves_Teacher_ZeroShot,google.gemini-2.5-pro,9434,0.6874072503709985,0.31953658019074144,Full_Run_Chunks_51_467,experiment_800,2025-12-19T21:43:14Z
+TalkMoves_Teacher_FewShot_3,openai.gpt-5,9433,0.6346867380472808,0.31765644956104383,Full_Run_Chunks_51_467,experiment_800,2025-12-19T21:43:14Z

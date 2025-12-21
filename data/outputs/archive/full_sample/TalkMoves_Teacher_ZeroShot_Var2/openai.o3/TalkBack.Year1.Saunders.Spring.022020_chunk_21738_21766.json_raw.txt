@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 21738,
+      "Speaker": "T",
+      "Turn": 21738,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21739,
+      "Speaker": "T",
+      "Turn": 21739,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks Jimmy to name the first procedural step, eliciting a specific mathematical action."
+    },
+    {
+      "ID": 21740,
+      "Speaker": "T",
+      "Turn": 21740,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher restates the student-provided step (adding 1 to both sides) in her own words to affirm and clarify it."
+    },
+    {
+      "ID": 21741,
+      "Speaker": "T",
+      "Turn": 21741,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks Joel to state what step one is, requesting the precise mathematical step."
+    },
+    {
+      "ID": 21743,
+      "Speaker": "T",
+      "Turn": 21743,
+      "TalkMove": "Restating",
+      "Reasoning": "Teacher repeats the student’s answer verbatim: “Isolate the radical.”"
+    },
+    {
+      "ID": 21744,
+      "Speaker": "T",
+      "Turn": 21744,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher prompts students to consider whether the radical is isolated, pushing them to justify if the step is complete."
+    },
+    {
+      "ID": 21747,
+      "Speaker": "T",
+      "Turn": 21747,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher paraphrases the collective solution steps—adding 1, getting 3, radical isolated—adding clarification to students’ ideas."
+    },
+    {
+      "ID": 21748,
+      "Speaker": "T",
+      "Turn": 21748,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks Carson to name the next operation, seeking the exact mathematical step."
+    },
+    {
+      "ID": 21749,
+      "Speaker": "T",
+      "Turn": 21749,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Follow-up request for the specific second step in the procedure."
+    },
+    {
+      "ID": 21751,
+      "Speaker": "T",
+      "Turn": 21751,
+      "TalkMove": "Restating",
+      "Reasoning": "Teacher repeats student’s contribution word-for-word: “cube each side.”"
+    },
+    {
+      "ID": 21752,
+      "Speaker": "T",
+      "Turn": 21752,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher slightly rephrases the student’s idea (“we’re going to cube each side”) to confirm and clarify it."
+    },
+    {
+      "ID": 21753,
+      "Speaker": "T",
+      "Turn": 21753,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks for the numerical result of 3³, requesting a precise mathematical value."
+    },
+    {
+      "ID": 21755,
+      "Speaker": "T",
+      "Turn": 21755,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "After restating the answer 27, teacher asks, “and what happens here?” prompting students to explain the effect of cubing."
+    },
+    {
+      "ID": 21756,
+      "Speaker": "T",
+      "Turn": 21756,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher summarizes the expected student explanation—radical and exponent cancel—adding clarification."
+    },
+    {
+      "ID": 21757,
+      "Speaker": "T",
+      "Turn": 21757,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks Zach to state the two remaining steps, eliciting specific procedural details."
+    },
+    {
+      "ID": 21758,
+      "Speaker": "T",
+      "Turn": 21758,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Reiterates request for the exact two steps needed to isolate x."
+    },
+    {
+      "ID": 21760,
+      "Speaker": "T",
+      "Turn": 21760,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21762,
+      "Speaker": "T",
+      "Turn": 21762,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher asks why the student chose to add nine first, prompting justification of strategy."
+    },
+    {
+      "ID": 21764,
+      "Speaker": "T",
+      "Turn": 21764,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks for the numerical result of 9 ÷ 2, requesting a specific value."
+    },
+    {
+      "ID": 21766,
+      "Speaker": "T",
+      "Turn": 21766,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

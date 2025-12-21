@@ -1,0 +1,256 @@
+{
+  "records": [
+    {
+      "ID": 1232,
+      "Speaker": "T",
+      "Turn": 102,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1233,
+      "Speaker": "T",
+      "Turn": 102,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1235,
+      "Speaker": "T",
+      "Turn": 104,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1236,
+      "Speaker": "T",
+      "Turn": 104,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher checks that all students understand the task, ensuring the whole class is on the same page."
+    },
+    {
+      "ID": 1238,
+      "Speaker": "T",
+      "Turn": 106,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1239,
+      "Speaker": "T",
+      "Turn": 106,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1241,
+      "Speaker": "T",
+      "Turn": 108,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1242,
+      "Speaker": "T",
+      "Turn": 108,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "By asking a student to read aloud, the teacher orients the class to listen to a peer and stay engaged."
+    },
+    {
+      "ID": 1243,
+      "Speaker": "T",
+      "Turn": 108,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1247,
+      "Speaker": "T",
+      "Turn": 110,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1248,
+      "Speaker": "T",
+      "Turn": 110,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the exact distance Charice ran, prompting students to state the precise number."
+    },
+    {
+      "ID": 1250,
+      "Speaker": "T",
+      "Turn": 112,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student’s answer '7/8' exactly to confirm it."
+    },
+    {
+      "ID": 1251,
+      "Speaker": "T",
+      "Turn": 112,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases the student’s answer, adding context ('Charice ran 7/8 of a mile')."
+    },
+    {
+      "ID": 1252,
+      "Speaker": "T",
+      "Turn": 112,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to identify what needs to be found, prompting them to think about the problem structure."
+    },
+    {
+      "ID": 1253,
+      "Speaker": "T",
+      "Turn": 112,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1255,
+      "Speaker": "T",
+      "Turn": 114,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks how to find the answer, seeking an explanation of the method."
+    },
+    {
+      "ID": 1256,
+      "Speaker": "T",
+      "Turn": 114,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks what information helps solve the problem, prompting students to justify their thinking."
+    },
+    {
+      "ID": 1259,
+      "Speaker": "T",
+      "Turn": 116,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher instructs all students to read carefully, directing collective attention to the text."
+    },
+    {
+      "ID": 1260,
+      "Speaker": "T",
+      "Turn": 116,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher urges the student to state the fraction precisely ('3/8')."
+    },
+    {
+      "ID": 1262,
+      "Speaker": "T",
+      "Turn": 118,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher summarizes and rephrases the known information from the problem for the class."
+    },
+    {
+      "ID": 1263,
+      "Speaker": "T",
+      "Turn": 118,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks whether to add or subtract, prompting students to reason about the correct operation."
+    },
+    {
+      "ID": 1266,
+      "Speaker": "T",
+      "Turn": 121,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher identifies who suggested 'adding,' inviting the class to consider that peer’s idea."
+    },
+    {
+      "ID": 1268,
+      "Speaker": "T",
+      "Turn": 123,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks Eric to explain why addition is appropriate, requesting justification."
+    },
+    {
+      "ID": 1270,
+      "Speaker": "T",
+      "Turn": 125,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1271,
+      "Speaker": "T",
+      "Turn": 125,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1272,
+      "Speaker": "T",
+      "Turn": 125,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases students’ contributions about adding versus subtracting, clarifying their idea for the class."
+    },
+    {
+      "ID": 1273,
+      "Speaker": "T",
+      "Turn": 125,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks what the 'whole thing' is, prompting students to articulate the unit of measure."
+    },
+    {
+      "ID": 1275,
+      "Speaker": "T",
+      "Turn": 127,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1277,
+      "Speaker": "T",
+      "Turn": 129,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher echoes the student’s answer 'Miles' verbatim."
+    },
+    {
+      "ID": 1278,
+      "Speaker": "T",
+      "Turn": 129,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases the student’s answer by specifying 'A mile.'"
+    },
+    {
+      "ID": 1279,
+      "Speaker": "T",
+      "Turn": 129,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1280,
+      "Speaker": "T",
+      "Turn": 129,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1281,
+      "Speaker": "T",
+      "Turn": 129,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1284,
+      "Speaker": "T",
+      "Turn": 131,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1285,
+      "Speaker": "T",
+      "Turn": 131,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1286,
+      "Speaker": "T",
+      "Turn": 131,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher outlines the plan to regroup and discuss, aligning the class toward a common activity."
+    }
+  ]
+}

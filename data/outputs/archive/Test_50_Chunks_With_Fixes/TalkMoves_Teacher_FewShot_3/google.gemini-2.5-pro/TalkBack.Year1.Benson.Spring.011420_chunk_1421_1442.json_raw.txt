@@ -1,0 +1,132 @@
+{
+  "records": [
+    {
+      "ID": 1422,
+      "Turn": 189,
+      "Speaker": "T",
+      "Sentence": "Yes",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1423,
+      "Turn": 189,
+      "Speaker": "T",
+      "Sentence": "If I start at Charice I need to go how many more eighths",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students for a specific mathematical value needed to continue solving the problem."
+    },
+    {
+      "ID": 1425,
+      "Turn": 191,
+      "Speaker": "T",
+      "Sentence": "One two three",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1426,
+      "Turn": 191,
+      "Speaker": "T",
+      "Sentence": "This is where Ally ran",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1427,
+      "Turn": 191,
+      "Speaker": "T",
+      "Sentence": "I need to figure out what that fraction is okay",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1428,
+      "Turn": 191,
+      "Speaker": "T",
+      "Sentence": "I ran or Charice ran 78 Allys going to add on 38 to her distance we need to figure out how far that is",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1429,
+      "Turn": 191,
+      "Speaker": "T",
+      "Sentence": "When Dilly and I worked this problem we literally just counted eighths",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1430,
+      "Turn": 191,
+      "Speaker": "T",
+      "Sentence": "We went 18 28 38 48 58 68 78 88 98 108 or you could pay attention to the whole number",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1431,
+      "Turn": 191,
+      "Speaker": "T",
+      "Sentence": "This was one whole mile and there were two more eights after that so she ran one whole mile and 28 of the next mile",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1432,
+      "Turn": 191,
+      "Speaker": "T",
+      "Sentence": "Did she run more than a mile or less than a mile",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1434,
+      "Turn": 193,
+      "Speaker": "T",
+      "Sentence": "How did you solve that problem Brandon",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks a student to explain the method they used to solve the problem."
+    },
+    {
+      "ID": 1435,
+      "Turn": 193,
+      "Speaker": "T",
+      "Sentence": "Did you use something different",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks a student to clarify if their problem-solving method was different, prompting them to share their thinking."
+    },
+    {
+      "ID": 1437,
+      "Turn": 195,
+      "Speaker": "T",
+      "Sentence": "You drew a number line like that",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher interprets the student's response and rephrases it as a specific action to confirm their understanding of the student's method."
+    },
+    {
+      "ID": 1439,
+      "Turn": 197,
+      "Speaker": "T",
+      "Sentence": "Youre on your decimal page no wonder why youre confused",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1440,
+      "Turn": 197,
+      "Speaker": "T",
+      "Sentence": "Can you switch to the fraction page",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1441,
+      "Turn": 197,
+      "Speaker": "T",
+      "Sentence": "Where did you do to figure out how far Ally ran",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to explain the process they used to find the answer."
+    }
+  ]
+}

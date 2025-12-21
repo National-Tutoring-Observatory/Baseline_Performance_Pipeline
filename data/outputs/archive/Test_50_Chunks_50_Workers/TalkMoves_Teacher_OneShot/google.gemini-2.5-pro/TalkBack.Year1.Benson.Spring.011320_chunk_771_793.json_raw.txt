@@ -1,0 +1,116 @@
+{
+  "records": [
+    {
+      "ID": 771,
+      "Turn": 185,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 772,
+      "Turn": 185,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 773,
+      "Turn": 186,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 774,
+      "Turn": 186,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to use the mathematical information in the fraction (the denominator) to determine the number of parts in the whole."
+    },
+    {
+      "ID": 776,
+      "Turn": 188,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's contribution about the numerator ('One') and then adds on by explaining the function of the denominator, thus rephrasing and extending the student's idea."
+    },
+    {
+      "ID": 778,
+      "Turn": 190,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's answer ('Four') and adds clarifying language ('of them') to make the contribution more complete."
+    },
+    {
+      "ID": 779,
+      "Turn": 190,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to apply the conclusion from the previous exchange (that four parts make a whole) to the physical task, prompting them to connect the concept to the action."
+    },
+    {
+      "ID": 781,
+      "Turn": 192,
+      "Speaker": "T",
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's one-word answer verbatim."
+    },
+    {
+      "ID": 782,
+      "Turn": 192,
+      "Speaker": "T",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher calls on a specific student to check for understanding and orient her to the ongoing demonstration."
+    },
+    {
+      "ID": 783,
+      "Turn": 192,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to describe the mathematical action being demonstrated, prompting them to explain the process of combining the fractional parts."
+    },
+    {
+      "ID": 785,
+      "Turn": 194,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 786,
+      "Turn": 194,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher pauses during a demonstration to ask students to provide the correct mathematical term for the amount shown."
+    },
+    {
+      "ID": 787,
+      "Turn": 194,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks students to state the specific mathematical value of a piece being shown."
+    },
+    {
+      "ID": 789,
+      "Turn": 196,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases the student's likely intended but incomplete answer ('One') into the more precise mathematical term ('One-fourth')."
+    },
+    {
+      "ID": 791,
+      "Turn": 198,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to evaluate the result of the demonstration and determine if the goal (creating a whole) has been met, prompting them to connect the action to the concept."
+    },
+    {
+      "ID": 792,
+      "Turn": 198,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the specific mathematical sum of the fractions that have been combined."
+    }
+  ]
+}

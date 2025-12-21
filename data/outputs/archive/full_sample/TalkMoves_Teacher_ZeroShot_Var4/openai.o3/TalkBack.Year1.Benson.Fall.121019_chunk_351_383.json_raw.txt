@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 351,
+      "Speaker": "T",
+      "Turn": 351,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher prompts students to state the numerical value of the specified digit."
+    },
+    {
+      "ID": 353,
+      "Speaker": "T",
+      "Turn": 353,
+      "TalkMove": "Restating",
+      "Reasoning": "Teacher repeats the student-supplied answer \"10\" verbatim."
+    },
+    {
+      "ID": 354,
+      "Speaker": "T",
+      "Turn": 354,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks students to recall the value of the digit."
+    },
+    {
+      "ID": 356,
+      "Speaker": "T",
+      "Turn": 356,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher requests the exact value of another digit."
+    },
+    {
+      "ID": 358,
+      "Speaker": "T",
+      "Turn": 358,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher presses students again to provide the digit’s value."
+    },
+    {
+      "ID": 361,
+      "Speaker": "T",
+      "Turn": 361,
+      "TalkMove": "Restating",
+      "Reasoning": "Teacher echoes the student’s response that the digit is worth 10."
+    },
+    {
+      "ID": 362,
+      "Speaker": "T",
+      "Turn": 362,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 363,
+      "Speaker": "T",
+      "Turn": 363,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks, \"What’s this digit worth?\" seeking a precise numerical answer."
+    },
+    {
+      "ID": 366,
+      "Speaker": "T",
+      "Turn": 366,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 367,
+      "Speaker": "T",
+      "Turn": 367,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher prompts students to supply the multiplication result."
+    },
+    {
+      "ID": 369,
+      "Speaker": "T",
+      "Turn": 369,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 370,
+      "Speaker": "T",
+      "Turn": 370,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 371,
+      "Speaker": "T",
+      "Turn": 371,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 372,
+      "Speaker": "T",
+      "Turn": 372,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks for the exact product of 3 × 1."
+    },
+    {
+      "ID": 374,
+      "Speaker": "T",
+      "Turn": 374,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 375,
+      "Speaker": "T",
+      "Turn": 375,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks for the product of 3 × 7."
+    },
+    {
+      "ID": 378,
+      "Speaker": "T",
+      "Turn": 378,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 379,
+      "Speaker": "T",
+      "Turn": 379,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Utterance \"10 times 4\" is posed to elicit the precise product."
+    },
+    {
+      "ID": 381,
+      "Speaker": "T",
+      "Turn": 381,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Utterance \"7 times 4\" seeks an exact numerical answer from students."
+    },
+    {
+      "ID": 383,
+      "Speaker": "T",
+      "Turn": 383,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

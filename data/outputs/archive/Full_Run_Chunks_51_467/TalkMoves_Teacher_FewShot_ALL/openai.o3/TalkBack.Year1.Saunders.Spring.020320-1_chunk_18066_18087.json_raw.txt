@@ -1,0 +1,60 @@
+{
+  "records": [
+    {
+      "ID": 18066,
+      "Speaker": "T",
+      "Turn": 365,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18073,
+      "Speaker": "T",
+      "Turn": 369,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher restates the student's claim ('it doesn’t') in question form to clarify and confirm understanding."
+    },
+    {
+      "ID": 18075,
+      "Speaker": "T",
+      "Turn": 371,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher repeats the student's idea of having no curve by rephrasing it as 'no min or max' and adds 'point of inflection,' thus revoicing with added precision."
+    },
+    {
+      "ID": 18076,
+      "Speaker": "T",
+      "Turn": 371,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18078,
+      "Speaker": "T",
+      "Turn": 373,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The single-word prompt 'What' seeks clarification of the student's statement, pressing the student to articulate more precisely."
+    },
+    {
+      "ID": 18080,
+      "Speaker": "T",
+      "Turn": 375,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18083,
+      "Speaker": "T",
+      "Turn": 378,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher summarizes and clarifies what the student is describing about the cubic function, adjusting wording for the group."
+    },
+    {
+      "ID": 18086,
+      "Speaker": "T",
+      "Turn": 380,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

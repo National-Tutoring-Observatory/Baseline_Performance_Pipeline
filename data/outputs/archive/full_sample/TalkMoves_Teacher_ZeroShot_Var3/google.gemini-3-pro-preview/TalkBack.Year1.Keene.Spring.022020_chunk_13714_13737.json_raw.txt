@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 13714,
+      "Speaker": "T",
+      "Turn": 13714,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 13715,
+      "Speaker": "T",
+      "Turn": 13715,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 13716,
+      "Speaker": "T",
+      "Turn": 13716,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to think about connections to prior knowledge ('what is something I already knew'), which prompts them to explain their thinking and connect ideas."
+    },
+    {
+      "ID": 13717,
+      "Speaker": "T",
+      "Turn": 13717,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to identify new learning ('what is something new I learned'), prompting reflection and explanation of ideas."
+    },
+    {
+      "ID": 13718,
+      "Speaker": "T",
+      "Turn": 13718,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "This is a continuation of the previous prompt, asking students to provide evidence of their knowledge if they didn't learn anything new."
+    },
+    {
+      "ID": 13719,
+      "Speaker": "T",
+      "Turn": 13719,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher is managing the flow and ensuring students are focused on the thinking task before moving to discussion."
+    },
+    {
+      "ID": 13720,
+      "Speaker": "T",
+      "Turn": 13720,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher is organizing students into groups/partners to facilitate discussion."
+    },
+    {
+      "ID": 13721,
+      "Speaker": "T",
+      "Turn": 13721,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher is arranging student grouping to ensure everyone participates in the upcoming talk."
+    },
+    {
+      "ID": 13722,
+      "Speaker": "T",
+      "Turn": 13722,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher initiates the partner talk, orienting the class to the activity."
+    },
+    {
+      "ID": 13723,
+      "Speaker": "T",
+      "Turn": 13723,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher is monitoring the class status and bringing the group back together."
+    },
+    {
+      "ID": 13724,
+      "Speaker": "T",
+      "Turn": 13724,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher explicitly asks a student to report on what their partner said ('tell what your partner said she learned')."
+    },
+    {
+      "ID": 13727,
+      "Speaker": "T",
+      "Turn": 13727,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 13728,
+      "Speaker": "T",
+      "Turn": 13728,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher is managing the logistics of the discussion (passing the mic) to ensure the next speaker is heard."
+    },
+    {
+      "ID": 13729,
+      "Speaker": "T",
+      "Turn": 13729,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher asks the student to share their partner's thinking ('tell me something your partner already knew')."
+    },
+    {
+      "ID": 13731,
+      "Speaker": "T",
+      "Turn": 13731,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 13732,
+      "Speaker": "T",
+      "Turn": 13732,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to recall a specific mathematical requirement for adding fractions ('in order to add fractions you need what')."
+    },
+    {
+      "ID": 13733,
+      "Speaker": "T",
+      "Turn": 13733,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher pauses to ensure all students are thinking before calling on someone."
+    },
+    {
+      "ID": 13734,
+      "Speaker": "T",
+      "Turn": 13734,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher repeats the prompt asking for the specific mathematical condition needed to add fractions."
+    },
+    {
+      "ID": 13735,
+      "Speaker": "T",
+      "Turn": 13735,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher calls on a specific student to share their answer with the class."
+    },
+    {
+      "ID": 13737,
+      "Speaker": "T",
+      "Turn": 13737,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to explain the meaning or implication of their previous answer ('Which means what'), pushing for elaboration."
+    }
+  ]
+}

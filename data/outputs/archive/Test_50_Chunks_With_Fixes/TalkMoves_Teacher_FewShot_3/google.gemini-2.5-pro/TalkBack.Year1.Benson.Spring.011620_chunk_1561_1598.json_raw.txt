@@ -1,0 +1,264 @@
+{
+  "records": [
+    {
+      "ID": 1561,
+      "Turn": 30,
+      "Speaker": "S",
+      "Sentence": "Zero point zero"
+    },
+    {
+      "ID": 1562,
+      "Turn": 31,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1563,
+      "Turn": 31,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases the student's number using precise mathematical language."
+    },
+    {
+      "ID": 1564,
+      "Turn": 31,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1565,
+      "Turn": 31,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1566,
+      "Turn": 31,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1567,
+      "Turn": 32,
+      "Speaker": "S",
+      "Sentence": "008"
+    },
+    {
+      "ID": 1568,
+      "Turn": 33,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts the student to connect their numerical answer to a physical representation to justify their thinking."
+    },
+    {
+      "ID": 1569,
+      "Turn": 33,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks a question to guide the student's thinking process by connecting a decimal to a concrete quantity."
+    },
+    {
+      "ID": 1570,
+      "Turn": 34,
+      "Speaker": "S",
+      "Sentence": "80 of them"
+    },
+    {
+      "ID": 1571,
+      "Turn": 35,
+      "Speaker": "T",
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's contribution word for word."
+    },
+    {
+      "ID": 1572,
+      "Turn": 36,
+      "Speaker": "S",
+      "Sentence": "Or just 008"
+    },
+    {
+      "ID": 1573,
+      "Turn": 37,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases the student's numerical answer by connecting it to the physical representation being discussed."
+    },
+    {
+      "ID": 1574,
+      "Turn": 37,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1575,
+      "Turn": 37,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to provide an equivalent and accurate mathematical representation."
+    },
+    {
+      "ID": 1576,
+      "Turn": 38,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1577,
+      "Turn": 38,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1578,
+      "Turn": 38,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1579,
+      "Turn": 38,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1580,
+      "Turn": 38,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1581,
+      "Turn": 38,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1582,
+      "Turn": 38,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1583,
+      "Turn": 38,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1584,
+      "Turn": 38,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1585,
+      "Turn": 39,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1586,
+      "Turn": 39,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1587,
+      "Turn": 39,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1588,
+      "Turn": 39,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to explain the steps of their process, which prompts them to share their thinking."
+    },
+    {
+      "ID": 1589,
+      "Turn": 39,
+      "Speaker": "S",
+      "Sentence": "What I did is I did zero and 26"
+    },
+    {
+      "ID": 1590,
+      "Turn": 40,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1591,
+      "Turn": 40,
+      "Speaker": "T",
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's numerical contribution."
+    },
+    {
+      "ID": 1592,
+      "Turn": 40,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a student to use precise mathematical language to read a number written on the board."
+    },
+    {
+      "ID": 1593,
+      "Turn": 41,
+      "Speaker": "S",
+      "Sentence": "Zero ones and 26 hundredths"
+    },
+    {
+      "ID": 1594,
+      "Turn": 42,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the students to compare a contribution with the original problem, prompting them to evaluate and justify."
+    },
+    {
+      "ID": 1595,
+      "Turn": 42,
+      "Speaker": "T",
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats a key part of the student's contribution to emphasize it."
+    },
+    {
+      "ID": 1596,
+      "Turn": 42,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1597,
+      "Turn": 42,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1598,
+      "Turn": 42,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks another student to read a number, prompting for a correct mathematical contribution."
+    }
+  ]
+}

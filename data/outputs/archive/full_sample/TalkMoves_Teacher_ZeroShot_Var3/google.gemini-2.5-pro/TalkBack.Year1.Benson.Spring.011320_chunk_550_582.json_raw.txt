@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 550,
+      "Speaker": "T",
+      "Turn": 550,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 551,
+      "Speaker": "T",
+      "Turn": 551,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases the student's action of multiplying into more accessible language before introducing the formal mathematical term."
+    },
+    {
+      "ID": 553,
+      "Speaker": "T",
+      "Turn": 553,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher provides the specific mathematical term ('multiples') to prompt the student to use precise language."
+    },
+    {
+      "ID": 554,
+      "Speaker": "T",
+      "Turn": 554,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases the student's action by applying the correct mathematical term to their work."
+    },
+    {
+      "ID": 555,
+      "Speaker": "T",
+      "Turn": 555,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to provide another specific mathematical contribution."
+    },
+    {
+      "ID": 557,
+      "Speaker": "T",
+      "Turn": 557,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 558,
+      "Speaker": "T",
+      "Turn": 558,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 560,
+      "Speaker": "T",
+      "Turn": 560,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 562,
+      "Speaker": "T",
+      "Turn": 562,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 564,
+      "Speaker": "T",
+      "Turn": 564,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 566,
+      "Speaker": "T",
+      "Turn": 566,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 567,
+      "Speaker": "T",
+      "Turn": 567,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 568,
+      "Speaker": "T",
+      "Turn": 568,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 569,
+      "Speaker": "T",
+      "Turn": 569,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts a specific student to provide a mathematical contribution (an answer)."
+    },
+    {
+      "ID": 572,
+      "Speaker": "T",
+      "Turn": 572,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts the student to explain their process or thinking."
+    },
+    {
+      "ID": 577,
+      "Speaker": "T",
+      "Turn": 577,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 578,
+      "Speaker": "T",
+      "Turn": 578,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 579,
+      "Speaker": "T",
+      "Turn": 579,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 581,
+      "Speaker": "T",
+      "Turn": 581,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 582,
+      "Speaker": "T",
+      "Turn": 582,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

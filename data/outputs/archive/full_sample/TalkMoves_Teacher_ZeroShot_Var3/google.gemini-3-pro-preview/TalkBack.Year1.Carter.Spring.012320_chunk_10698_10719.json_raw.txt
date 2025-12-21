@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 10698,
+      "Speaker": "T",
+      "Turn": 10698,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 10699,
+      "Speaker": "T",
+      "Turn": 10699,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 10701,
+      "Speaker": "T",
+      "Turn": 10701,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the mathematical phrase 'Multiplying by 15' which was likely said by a student previously."
+    },
+    {
+      "ID": 10703,
+      "Speaker": "T",
+      "Turn": 10703,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 10704,
+      "Speaker": "T",
+      "Turn": 10704,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher uses 'Hold on a second here' to pause the class and bring everyone's attention back to a central point."
+    },
+    {
+      "ID": 10705,
+      "Speaker": "T",
+      "Turn": 10705,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks students to recall a specific mathematical rule ('division rule') learned earlier, prompting for factual recall."
+    },
+    {
+      "ID": 10706,
+      "Speaker": "T",
+      "Turn": 10706,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 10707,
+      "Speaker": "T",
+      "Turn": 10707,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher repeats the question asking for the specific 'division rule', prompting students to provide the correct mathematical definition."
+    },
+    {
+      "ID": 10708,
+      "Speaker": "T",
+      "Turn": 10708,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 10709,
+      "Speaker": "T",
+      "Turn": 10709,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 10710,
+      "Speaker": "T",
+      "Turn": 10710,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher asks students to 'Raise your hand', which is a move to gauge the whole class's engagement and understanding."
+    },
+    {
+      "ID": 10711,
+      "Speaker": "T",
+      "Turn": 10711,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 10712,
+      "Speaker": "T",
+      "Turn": 10712,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher directs students to 'Talk at your teams', facilitating peer interaction and keeping the group focused on the task."
+    },
+    {
+      "ID": 10713,
+      "Speaker": "T",
+      "Turn": 10713,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher gives instructions on how to manage the group discussion ('People that remember go first'), orienting students to each other."
+    },
+    {
+      "ID": 10714,
+      "Speaker": "T",
+      "Turn": 10714,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 10715,
+      "Speaker": "T",
+      "Turn": 10715,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 10716,
+      "Speaker": "T",
+      "Turn": 10716,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher restates the concept ('numerator divided by the denominator') likely discussed by students, formalizing the language."
+    },
+    {
+      "ID": 10717,
+      "Speaker": "T",
+      "Turn": 10717,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher frames the previous statement as 'another way of thinking about this', connecting representations."
+    },
+    {
+      "ID": 10718,
+      "Speaker": "T",
+      "Turn": 10718,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the phrase 'numerator divided by the denominator' verbatim to emphasize the rule."
+    },
+    {
+      "ID": 10719,
+      "Speaker": "T",
+      "Turn": 10719,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher introduces a new problem ('What if I have this 2/3'), prompting students to apply the rule to a specific case."
+    }
+  ]
+}

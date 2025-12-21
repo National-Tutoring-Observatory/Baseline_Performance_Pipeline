@@ -1,0 +1,140 @@
+{
+  "records": [
+    {
+      "ID": 12384,
+      "Turn": 3,
+      "Speaker": "T",
+      "Sentence": "On the count of threeSSyoure going to tell me",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12385,
+      "Turn": 3,
+      "Speaker": "T",
+      "Sentence": "One two three",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12387,
+      "Turn": 5,
+      "Speaker": "T",
+      "Sentence": "Charlotte whats the denominator",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts a student to make a specific mathematical contribution by identifying the value of the denominator."
+    },
+    {
+      "ID": 12389,
+      "Turn": 7,
+      "Speaker": "T",
+      "Sentence": "Class whats the denominator",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the whole class to make a specific mathematical contribution by identifying the denominator."
+    },
+    {
+      "ID": 12390,
+      "Turn": 7,
+      "Speaker": "T",
+      "Sentence": "Thank you for the active listening thumbs",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12391,
+      "Turn": 7,
+      "Speaker": "T",
+      "Sentence": "Whats the denominator",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher repeats the question, continuing to press the class for a specific mathematical contribution."
+    },
+    {
+      "ID": 12392,
+      "Turn": 7,
+      "Speaker": "T",
+      "Sentence": "The bottom number",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12393,
+      "Turn": 7,
+      "Speaker": "T",
+      "Sentence": "What number is the bottom number",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher rephrases the question to prompt students for a specific numerical answer, which is a mathematical contribution."
+    },
+    {
+      "ID": 12395,
+      "Turn": 9,
+      "Speaker": "T",
+      "Sentence": "So circle that two for me",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12396,
+      "Turn": 9,
+      "Speaker": "T",
+      "Sentence": "All right Skylar continue",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12397,
+      "Turn": 9,
+      "Speaker": "T",
+      "Sentence": "Tell her what she needs to do",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher orients one student to another student's task, prompting them to engage with and help each other."
+    },
+    {
+      "ID": 12399,
+      "Turn": 11,
+      "Speaker": "T",
+      "Sentence": "You need six exits",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12401,
+      "Turn": 13,
+      "Speaker": "T",
+      "Sentence": "Talk to your partner",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12402,
+      "Turn": 13,
+      "Speaker": "T",
+      "Sentence": "Why is Charlotte only circling one group",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts students to explain the mathematical thinking behind another student's action."
+    },
+    {
+      "ID": 12403,
+      "Turn": 13,
+      "Speaker": "T",
+      "Sentence": "Actually before you talk ET high five",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12404,
+      "Turn": 13,
+      "Speaker": "T",
+      "Sentence": "I want to make sure everybody has a partner",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12405,
+      "Turn": 13,
+      "Speaker": "T",
+      "Sentence": "Go ahead",
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "records": [
+    {
+      "ID": 2587,
+      "Turn": 44,
+      "Speaker": "T",
+      "Sentence": "Our answer would be up here and Eva Im going to give it a seat",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2588,
+      "Turn": 44,
+      "Speaker": "T",
+      "Sentence": "Thats where we would write our answer once we figure it out",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2589,
+      "Turn": 44,
+      "Speaker": "T",
+      "Sentence": "That looks really funny",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2590,
+      "Turn": 44,
+      "Speaker": "T",
+      "Sentence": "Let me erase that",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2591,
+      "Turn": 44,
+      "Speaker": "T",
+      "Sentence": "That was one way to show our equation",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2592,
+      "Turn": 44,
+      "Speaker": "T",
+      "Sentence": "Who did an equation differently",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to provide another mathematical contribution by asking for a different equation."
+    },
+    {
+      "ID": 2593,
+      "Turn": 44,
+      "Speaker": "T",
+      "Sentence": "Mike",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2595,
+      "Turn": 46,
+      "Speaker": "T",
+      "Sentence": "Tell me your equation",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to make a specific mathematical contribution by stating their equation."
+    },
+    {
+      "ID": 2597,
+      "Turn": 48,
+      "Speaker": "T",
+      "Sentence": "You got it",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2598,
+      "Turn": 48,
+      "Speaker": "T",
+      "Sentence": "Does that work as well",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2599,
+      "Turn": 48,
+      "Speaker": "T",
+      "Sentence": "Why does that work",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts the student to explain their thinking and provide a justification for why their equation is valid."
+    },
+    {
+      "ID": 2601,
+      "Turn": 50,
+      "Speaker": "T",
+      "Sentence": "Its just demonstrating it in a different way",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases the student's explanation from the previous turn, changing the wording to summarize the idea that the equation works because it shows the problem differently."
+    },
+    {
+      "ID": 2602,
+      "Turn": 50,
+      "Speaker": "T",
+      "Sentence": "We know that this letter right here is going to tell us how many bags are in the carton",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2603,
+      "Turn": 50,
+      "Speaker": "T",
+      "Sentence": "This is the cartons and this is how many total bags there are",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2604,
+      "Turn": 50,
+      "Speaker": "T",
+      "Sentence": "We just know were missing this piece and thats what we need to find out",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2605,
+      "Turn": 50,
+      "Speaker": "T",
+      "Sentence": "Did anyone do it in a different way",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to make another mathematical contribution by asking for a different method."
+    },
+    {
+      "ID": 2606,
+      "Turn": 50,
+      "Speaker": "T",
+      "Sentence": "What if I wanted to start with 540 equals what would I do for the rest of my equation",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to make a specific mathematical contribution by asking them to complete a new form of the equation."
+    },
+    {
+      "ID": 2607,
+      "Turn": 50,
+      "Speaker": "T",
+      "Sentence": "Hailey",
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "records": [
+    {
+      "ID": 8758,
+      "Speaker": "T",
+      "Turn": 133,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8759,
+      "Speaker": "T",
+      "Turn": 133,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8761,
+      "Speaker": "T",
+      "Turn": 135,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher confirms the student's term 'multiples' and adds on by connecting it to the concept of 'repeated addition'."
+    },
+    {
+      "ID": 8762,
+      "Speaker": "T",
+      "Turn": 135,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts students to reflect on and connect their current understanding to a previous partner activity."
+    },
+    {
+      "ID": 8763,
+      "Speaker": "T",
+      "Turn": 135,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8764,
+      "Speaker": "T",
+      "Turn": 135,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the entire class to use a specific mathematical term by having them repeat it."
+    },
+    {
+      "ID": 8766,
+      "Speaker": "T",
+      "Turn": 137,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8767,
+      "Speaker": "T",
+      "Turn": 137,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks for a student to explain the definition of a mathematical concept."
+    },
+    {
+      "ID": 8768,
+      "Speaker": "T",
+      "Turn": 137,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8770,
+      "Speaker": "T",
+      "Turn": 139,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases a key part of the student's explanation to make it more concise and clear for the class."
+    },
+    {
+      "ID": 8772,
+      "Speaker": "T",
+      "Turn": 141,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher explicitly asks another student to build upon the previous student's explanation."
+    },
+    {
+      "ID": 8774,
+      "Speaker": "T",
+      "Turn": 143,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher asks the student to repeat their idea to ensure it is clear and can be processed by the teacher and the class, promoting shared understanding."
+    },
+    {
+      "ID": 8776,
+      "Speaker": "T",
+      "Turn": 145,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher directs a student to select a peer to respond to their idea, explicitly fostering student-to-student interaction."
+    }
+  ]
+}

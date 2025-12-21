@@ -1,0 +1,95 @@
+{
+  "records": [
+    {
+      "ID": 2829,
+      "Speaker": "T",
+      "Turn": 1,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2830,
+      "Speaker": "T",
+      "Turn": 1,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher asks all students who wrote a decimal to raise their hands, coordinating class participation."
+    },
+    {
+      "ID": 2831,
+      "Speaker": "T",
+      "Turn": 1,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a student to state exactly what she wrote, eliciting a specific mathematical contribution."
+    },
+    {
+      "ID": 2833,
+      "Speaker": "T",
+      "Turn": 3,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher seeks confirmation of the correctness of a written representation ('Is it okay to write this?')."
+    },
+    {
+      "ID": 2835,
+      "Speaker": "T",
+      "Turn": 5,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Again asks whether a particular written form is acceptable, requesting evaluation of mathematical correctness."
+    },
+    {
+      "ID": 2837,
+      "Speaker": "T",
+      "Turn": 7,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Repeats the question about the acceptability of the representation, prompting students to judge accuracy."
+    },
+    {
+      "ID": 2839,
+      "Speaker": "T",
+      "Turn": 9,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2840,
+      "Speaker": "T",
+      "Turn": 9,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2841,
+      "Speaker": "T",
+      "Turn": 9,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2842,
+      "Speaker": "T",
+      "Turn": 9,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2843,
+      "Speaker": "T",
+      "Turn": 9,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2844,
+      "Speaker": "T",
+      "Turn": 9,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher asks all students who completed a related task to raise hands, orienting and involving the whole class."
+    },
+    {
+      "ID": 2845,
+      "Speaker": "T",
+      "Turn": 9,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Calls on a student to state his written answer, requesting the specific mathematical content."
+    }
+  ]
+}

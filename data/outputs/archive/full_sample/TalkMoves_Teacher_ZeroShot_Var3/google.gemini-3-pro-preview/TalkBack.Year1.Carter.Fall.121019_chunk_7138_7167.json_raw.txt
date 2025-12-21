@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 7138,
+      "Speaker": "T",
+      "Turn": 7138,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 7139,
+      "Speaker": "T",
+      "Turn": 7139,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher prompts the whole class to focus their attention on a specific question."
+    },
+    {
+      "ID": 7140,
+      "Speaker": "T",
+      "Turn": 7140,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to think about the process ('how could you') of transforming the shape, requiring them to conceptualize the steps."
+    },
+    {
+      "ID": 7141,
+      "Speaker": "T",
+      "Turn": 7141,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher expands on the previous prompt, asking 'how can you make this twice as large,' which requires explaining the mathematical process of dilation and translation."
+    },
+    {
+      "ID": 7142,
+      "Speaker": "T",
+      "Turn": 7142,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher directs students to engage with a partner, orienting them to each other."
+    },
+    {
+      "ID": 7143,
+      "Speaker": "T",
+      "Turn": 7143,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 7144,
+      "Speaker": "T",
+      "Turn": 7144,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 7145,
+      "Speaker": "T",
+      "Turn": 7145,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher brings the class focus back to the whole group."
+    },
+    {
+      "ID": 7146,
+      "Speaker": "T",
+      "Turn": 7146,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher asks a student to report on what they discussed with their partner, maintaining the collective focus."
+    },
+    {
+      "ID": 7148,
+      "Speaker": "T",
+      "Turn": 7148,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks 'how could I move that and make it twice as large,' prompting for an explanation of the method."
+    },
+    {
+      "ID": 7149,
+      "Speaker": "T",
+      "Turn": 7149,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a specific factual question about the width ('how many sections wide') to establish a mathematical fact."
+    },
+    {
+      "ID": 7150,
+      "Speaker": "T",
+      "Turn": 7150,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher repeats the specific question about counting sections to ensure the student identifies the correct number."
+    },
+    {
+      "ID": 7151,
+      "Speaker": "T",
+      "Turn": 7151,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts for the specific target width ('how many sections wide') based on the scale factor."
+    },
+    {
+      "ID": 7152,
+      "Speaker": "T",
+      "Turn": 7152,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks 'where will we put it then,' prompting the student to determine and justify the new location."
+    },
+    {
+      "ID": 7153,
+      "Speaker": "T",
+      "Turn": 7153,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks if the student can make it larger at different coordinates, prompting them to connect the concept of size change with location change."
+    },
+    {
+      "ID": 7155,
+      "Speaker": "T",
+      "Turn": 7155,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 7156,
+      "Speaker": "T",
+      "Turn": 7156,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 7163,
+      "Speaker": "T",
+      "Turn": 7163,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher explicitly asks one student (Sandra) to respond to another student's (Vanessa's) contribution."
+    },
+    {
+      "ID": 7165,
+      "Speaker": "T",
+      "Turn": 7165,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 7167,
+      "Speaker": "T",
+      "Turn": 7167,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks if a change in location changes the work, prompting students to reason about the properties of the transformation."
+    }
+  ]
+}

@@ -1,0 +1,500 @@
+{
+  "records": [
+    {
+      "ID": 12511,
+      "Turn": 57,
+      "Speaker": "T",
+      "Sentence": "How many of you Thank you for the thumbs up Josie and Taylor",
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 12512,
+      "Turn": 57,
+      "Speaker": "T",
+      "Sentence": "How many of you talked about money with your partner",
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 12513,
+      "Turn": 57,
+      "Speaker": "T",
+      "Sentence": "Except for Josie and Taylor",
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 12514,
+      "Turn": 57,
+      "Speaker": "T",
+      "Sentence": "Money is probably the most common place Were going to put our pencil down please Josie that you see decimals in the real world money",
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 12515,
+      "Turn": 58,
+      "Speaker": "T",
+      "Sentence": "Lets think about whats money",
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 12516,
+      "Turn": 58,
+      "Speaker": "T",
+      "Sentence": "When I have 25 cents what do I have",
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 12517,
+      "Turn": 58,
+      "Speaker": "T",
+      "Sentence": "It is a quarter",
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 12518,
+      "Turn": 58,
+      "Speaker": "T",
+      "Sentence": "Lets think first before we speak out",
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 12519,
+      "Turn": 58,
+      "Speaker": "T",
+      "Sentence": "Youre on the right track",
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 12520,
+      "Turn": 58,
+      "Speaker": "T",
+      "Sentence": "When I have a 25 cents or a quarter what does that mean",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to explain the meaning of a concept, prompting them to share their thinking."
+    },
+    {
+      "ID": 12521,
+      "Turn": 58,
+      "Speaker": "T",
+      "Sentence": "What do I have",
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 12522,
+      "Turn": 58,
+      "Speaker": "T",
+      "Sentence": "Go ahead and talk about it",
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 12523,
+      "Turn": 59,
+      "Speaker": "T",
+      "Sentence": "Five four three two one",
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 12524,
+      "Turn": 59,
+      "Speaker": "T",
+      "Sentence": "Josie what do I have when I have a quarter",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts a specific student to make a mathematical contribution by answering a direct question."
+    },
+    {
+      "ID": 12526,
+      "Turn": 61,
+      "Speaker": "T",
+      "Sentence": "I have onefourth of a dollar",
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's exact words."
+    },
+    {
+      "ID": 12527,
+      "Turn": 61,
+      "Speaker": "T",
+      "Sentence": "I like how you converted 25 into a fraction because remember my very original question was what fractions and decimals have in common",
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 12528,
+      "Turn": 61,
+      "Speaker": "T",
+      "Sentence": "If a quarter is onefourth of a dollar and a fraction is pieces of a whole whats a decimal also",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to make a logical connection between fractions and decimals based on the information provided."
+    },
+    {
+      "ID": 12529,
+      "Turn": 61,
+      "Speaker": "T",
+      "Sentence": "What do you think",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts students to share their thinking in response to the previous reasoning question."
+    },
+    {
+      "ID": 12530,
+      "Turn": 62,
+      "Speaker": "T",
+      "Sentence": "Lets think about what I just said",
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 12531,
+      "Turn": 62,
+      "Speaker": "T",
+      "Sentence": "Im going to give you a little more think time before we answer",
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 12532,
+      "Turn": 62,
+      "Speaker": "T",
+      "Sentence": "Josie told us Dont worry were going to cap our marker please Blackstar and put it down in front of us because right now were thinking about what Im talking about",
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 12533,
+      "Turn": 63,
+      "Speaker": "T",
+      "Sentence": "Josie said that 25 cents is onefourth of a dollar",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats a student's idea but changes the wording to fit the teacher's sentence structure."
+    },
+    {
+      "ID": 12534,
+      "Turn": 63,
+      "Speaker": "T",
+      "Sentence": "and you guys all told me so nicely that fractions are equal parts of a whole equals pieces of something",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher summarizes and paraphrases previous contributions from the class about the definition of a fraction."
+    },
+    {
+      "ID": 12535,
+      "Turn": 63,
+      "Speaker": "T",
+      "Sentence": "If 25 cents and one fourth are the same thing that would lead us to think what",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts students to draw a logical conclusion based on the evidence and ideas just summarized."
+    },
+    {
+      "ID": 12536,
+      "Turn": 63,
+      "Speaker": "T",
+      "Sentence": "Think about what I said before you raise your hand to volunteer",
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 12537,
+      "Turn": 63,
+      "Speaker": "T",
+      "Sentence": "Share your thinking with your partner",
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 12538,
+      "Turn": 63,
+      "Speaker": "T",
+      "Sentence": "Go",
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 12539,
+      "Turn": 63,
+      "Speaker": "T",
+      "Sentence": "Five four three two and one Bailey",
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 12541,
+      "Turn": 65,
+      "Speaker": "T",
+      "Sentence": "Exactly",
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 12542,
+      "Turn": 65,
+      "Speaker": "T",
+      "Sentence": "This is for Ella",
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 12543,
+      "Turn": 65,
+      "Speaker": "T",
+      "Sentence": "I love how she turned and looked at Bailey",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher highlights a student's positive listening behavior to prompt other students to be active listeners and orient to their peers."
+    },
+    {
+      "ID": 12544,
+      "Turn": 65,
+      "Speaker": "T",
+      "Sentence": "If 25 cents is the same thing as a fourth that means a decimal is the same thing as a fraction",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher articulates and completes a student's partially formed idea, putting their implied thought into a complete sentence."
+    },
+    {
+      "ID": 12545,
+      "Turn": 65,
+      "Speaker": "T",
+      "Sentence": "If a fraction is part of a whole equal parts of a whole that must mean decimals are also what",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts students to make a logical deduction based on the premise that fractions and decimals are the same."
+    },
+    {
+      "ID": 12546,
+      "Turn": 65,
+      "Speaker": "T",
+      "Sentence": "Part of a whole",
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 12547,
+      "Turn": 65,
+      "Speaker": "T",
+      "Sentence": "Go ahead and share that with your partner what we just said",
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 12548,
+      "Turn": 65,
+      "Speaker": "T",
+      "Sentence": "A decimal is part of a whole",
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 12549,
+      "Turn": 65,
+      "Speaker": "T",
+      "Sentence": "Share that with your partner",
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 12550,
+      "Turn": 66,
+      "Speaker": "T",
+      "Sentence": "Today were going to be working with decimals",
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 12551,
+      "Turn": 66,
+      "Speaker": "T",
+      "Sentence": "Can you please read our first success criteria Brooke",
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 12552,
+      "Turn": 67,
+      "Speaker": "T",
+      "Sentence": "Okay Julia the next one",
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 12554,
+      "Turn": 69,
+      "Speaker": "T",
+      "Sentence": "Way back at the beginning when we started our lesson Audrey was telling us that decimals are the place value tenths hundredths and thousandths",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats a student's contribution from earlier in the lesson, paraphrasing it to connect it to the current discussion."
+    },
+    {
+      "ID": 12555,
+      "Turn": 69,
+      "Speaker": "T",
+      "Sentence": "Today were going to be working on writing decimals all the way up to the thousands Nate and then weve also just talked about and Bailey told us on how they are Fractions and decimals are really the same thing",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher summarizes and attributes a key idea to a student, paraphrasing their contribution for the whole class."
+    },
+    {
+      "ID": 12556,
+      "Turn": 70,
+      "Speaker": "T",
+      "Sentence": "If theyre the same thing that means we can do what Josie did and convert a decimal to a fraction",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher models the reasoning process by connecting a general principle to a specific student's action, prompting students to see the logical implication."
+    },
+    {
+      "ID": 12557,
+      "Turn": 70,
+      "Speaker": "T",
+      "Sentence": "Thats going to be our focus today",
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 12558,
+      "Turn": 70,
+      "Speaker": "T",
+      "Sentence": "Im going to read a number to you right now and youre going to write it on your",
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 12559,
+      "Turn": 70,
+      "Speaker": "T",
+      "Sentence": "Listen carefully",
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 12560,
+      "Turn": 70,
+      "Speaker": "T",
+      "Sentence": "37000124 37124",
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 12561,
+      "Turn": 70,
+      "Speaker": "T",
+      "Sentence": "nan",
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 12562,
+      "Turn": 70,
+      "Speaker": "T",
+      "Sentence": "On a count of three you are going to show it to your partner",
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 12563,
+      "Turn": 70,
+      "Speaker": "T",
+      "Sentence": "If you guys agree do a high five",
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 12564,
+      "Turn": 70,
+      "Speaker": "T",
+      "Sentence": "If you disagree talk it out",
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 12565,
+      "Turn": 70,
+      "Speaker": "T",
+      "Sentence": "See whos correct",
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 12566,
+      "Turn": 70,
+      "Speaker": "T",
+      "Sentence": "Go",
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 12567,
+      "Turn": 70,
+      "Speaker": "T",
+      "Sentence": "On the count of three friends",
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 12568,
+      "Turn": 70,
+      "Speaker": "T",
+      "Sentence": "I said go that was confusing",
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 12569,
+      "Turn": 70,
+      "Speaker": "T",
+      "Sentence": "Confused me too",
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 12570,
+      "Turn": 70,
+      "Speaker": "T",
+      "Sentence": "Get ready",
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 12571,
+      "Turn": 70,
+      "Speaker": "T",
+      "Sentence": "One two three",
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 12572,
+      "Turn": 71,
+      "Speaker": "T",
+      "Sentence": "Okay",
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 12573,
+      "Turn": 71,
+      "Speaker": "T",
+      "Sentence": "Five four three two and one",
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 12574,
+      "Turn": 71,
+      "Speaker": "T",
+      "Sentence": "Gael can I see your board",
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 12575,
+      "Turn": 71,
+      "Speaker": "T",
+      "Sentence": "This is what you should have written down",
+      "TalkMove": "None",
+      "Reasoning": null
+    }
+  ]
+}

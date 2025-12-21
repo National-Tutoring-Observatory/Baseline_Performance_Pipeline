@@ -1,0 +1,277 @@
+{
+  "records": [
+    {
+      "ID": 25320,
+      "Speaker": "T",
+      "Turn": 476,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 25322,
+      "Speaker": "T",
+      "Turn": 478,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 25323,
+      "Speaker": "T",
+      "Turn": 478,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Asks students to articulate what they are working on, prompting an explanation they could give to an outsider."
+    },
+    {
+      "ID": 25324,
+      "Speaker": "T",
+      "Turn": 478,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Prompts students to explain what the class is working on."
+    },
+    {
+      "ID": 25325,
+      "Speaker": "T",
+      "Turn": 478,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks students to identify what the Xs represent, prompting precise mathematical description."
+    },
+    {
+      "ID": 25326,
+      "Speaker": "T",
+      "Turn": 478,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Asks students what they would tell someone about what they worked on, eliciting justification/summary."
+    },
+    {
+      "ID": 25327,
+      "Speaker": "T",
+      "Turn": 478,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 25328,
+      "Speaker": "T",
+      "Turn": 478,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Directly asks why they did the activities, prompting justification."
+    },
+    {
+      "ID": 25329,
+      "Speaker": "T",
+      "Turn": 478,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 25330,
+      "Speaker": "T",
+      "Turn": 478,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 25331,
+      "Speaker": "T",
+      "Turn": 478,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 25332,
+      "Speaker": "T",
+      "Turn": 479,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 25333,
+      "Speaker": "T",
+      "Turn": 479,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Asks what they worked on and why, explicitly eliciting explanation and purpose."
+    },
+    {
+      "ID": 25334,
+      "Speaker": "T",
+      "Turn": 479,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 25335,
+      "Speaker": "T",
+      "Turn": 480,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Prompts students to supply the correct mathematical term for the objects being discussed."
+    },
+    {
+      "ID": 25336,
+      "Speaker": "T",
+      "Turn": 480,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Provides and prompts agreement with the precise mathematical term ('data'), encouraging accurate language."
+    },
+    {
+      "ID": 25337,
+      "Speaker": "T",
+      "Turn": 480,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 25338,
+      "Speaker": "T",
+      "Turn": 481,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 25339,
+      "Speaker": "T",
+      "Turn": 481,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 25340,
+      "Speaker": "T",
+      "Turn": 481,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Directs the class to focus their attention and listen to a specific student speaker."
+    },
+    {
+      "ID": 25342,
+      "Speaker": "T",
+      "Turn": 483,
+      "TalkMove": "Restating",
+      "Reasoning": "Repeats the student's identification of the speaker ('Aiden') word for word."
+    },
+    {
+      "ID": 25344,
+      "Speaker": "T",
+      "Turn": 485,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 25345,
+      "Speaker": "T",
+      "Turn": 485,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Invites the student to explain the purpose of the activity."
+    },
+    {
+      "ID": 25346,
+      "Speaker": "T",
+      "Turn": 485,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Prompts the student to identify the representation precisely (e.g., line plot)."
+    },
+    {
+      "ID": 25349,
+      "Speaker": "T",
+      "Turn": 487,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Signals an upcoming paraphrase of Aiden's contribution ('this is what I think I'm hearing you say')."
+    },
+    {
+      "ID": 25350,
+      "Speaker": "T",
+      "Turn": 487,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Asks the class to give attention and listen, orienting them to the speaker."
+    },
+    {
+      "ID": 25351,
+      "Speaker": "T",
+      "Turn": 487,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Paraphrases and elaborates the student's idea about difficulty interpreting a long data list."
+    },
+    {
+      "ID": 25352,
+      "Speaker": "T",
+      "Turn": 487,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Continues paraphrasing the student's point by articulating the advantage of a line plot."
+    },
+    {
+      "ID": 25353,
+      "Speaker": "T",
+      "Turn": 487,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Further condenses the student's idea that line plots are easier to understand."
+    },
+    {
+      "ID": 25354,
+      "Speaker": "T",
+      "Turn": 487,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks for a specific value (largest head size) read from the representation."
+    },
+    {
+      "ID": 25356,
+      "Speaker": "T",
+      "Turn": 489,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Restates the student's answer while adding the unit, refining the contribution."
+    },
+    {
+      "ID": 25357,
+      "Speaker": "T",
+      "Turn": 489,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks for the exact count at a given value on the line plot."
+    },
+    {
+      "ID": 25359,
+      "Speaker": "T",
+      "Turn": 491,
+      "TalkMove": "Restating",
+      "Reasoning": "Repeats the student's numerical answer word for word."
+    },
+    {
+      "ID": 25360,
+      "Speaker": "T",
+      "Turn": 491,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 25361,
+      "Speaker": "T",
+      "Turn": 491,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 25362,
+      "Speaker": "T",
+      "Turn": 491,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 25363,
+      "Speaker": "T",
+      "Turn": 491,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 25364,
+      "Speaker": "T",
+      "Turn": 492,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 25365,
+      "Speaker": "T",
+      "Turn": 492,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

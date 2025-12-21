@@ -1,0 +1,138 @@
+{
+  "records": [
+    {
+      "ID": 17042,
+      "Speaker": "T",
+      "Turn": 78
+    },
+    {
+      "ID": 17044,
+      "Speaker": "T",
+      "Turn": 80,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher repeats the student’s response \"The profit\" and elaborates it into a full phrase, clarifying the idea."
+    },
+    {
+      "ID": 17045,
+      "Speaker": "T",
+      "Turn": 80
+    },
+    {
+      "ID": 17046,
+      "Speaker": "T",
+      "Turn": 80,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks students to specify whether the A-value is positive, negative, or zero, prompting a precise mathematical classification."
+    },
+    {
+      "ID": 17048,
+      "Speaker": "T",
+      "Turn": 82
+    },
+    {
+      "ID": 17050,
+      "Speaker": "T",
+      "Turn": 84,
+      "TalkMove": "Restating",
+      "Reasoning": "Teacher exactly repeats the student’s one-word answer \"Positive.\""
+    },
+    {
+      "ID": 17051,
+      "Speaker": "T",
+      "Turn": 84,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher asks students to connect the positive A-value to whether the parabola opens up or down, requesting conceptual reasoning."
+    },
+    {
+      "ID": 17053,
+      "Speaker": "T",
+      "Turn": 86,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher repeats the student’s word \"Up\" and adds commentary, expanding on the student’s contribution."
+    },
+    {
+      "ID": 17054,
+      "Speaker": "T",
+      "Turn": 87,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher asks whether an upward-opening parabola has a minimum or maximum, pushing students to reason about the concept."
+    },
+    {
+      "ID": 17056,
+      "Speaker": "T",
+      "Turn": 88,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher restates the student’s answer \"A minimum\" while slightly elaborating it to \"A minimum value.\""
+    },
+    {
+      "ID": 17057,
+      "Speaker": "T",
+      "Turn": 88,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher requests an interpretation of the minimum value within the story context, asking for explanation."
+    },
+    {
+      "ID": 17058,
+      "Speaker": "T",
+      "Turn": 88,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher again prompts students to interpret the minimum value, seeking their reasoning."
+    },
+    {
+      "ID": 17059,
+      "Speaker": "T",
+      "Turn": 88
+    },
+    {
+      "ID": 17060,
+      "Speaker": "T",
+      "Turn": 89
+    },
+    {
+      "ID": 17061,
+      "Speaker": "T",
+      "Turn": 89
+    },
+    {
+      "ID": 17062,
+      "Speaker": "T",
+      "Turn": 89
+    },
+    {
+      "ID": 17063,
+      "Speaker": "T",
+      "Turn": 89
+    },
+    {
+      "ID": 17064,
+      "Speaker": "T",
+      "Turn": 89,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks students to identify on which axis the year is located, prompting precise use of the graph’s coordinates."
+    },
+    {
+      "ID": 17065,
+      "Speaker": "T",
+      "Turn": 89,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher clarifies by directly asking whether the year is on the Y-axis or X-axis, seeking an exact answer."
+    },
+    {
+      "ID": 17067,
+      "Speaker": "T",
+      "Turn": 90
+    },
+    {
+      "ID": 17068,
+      "Speaker": "T",
+      "Turn": 90,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher asks how to find the X-value of the minimum from standard form, prompting students to explain their method."
+    },
+    {
+      "ID": 17069,
+      "Speaker": "T",
+      "Turn": 91
+    }
+  ]
+}

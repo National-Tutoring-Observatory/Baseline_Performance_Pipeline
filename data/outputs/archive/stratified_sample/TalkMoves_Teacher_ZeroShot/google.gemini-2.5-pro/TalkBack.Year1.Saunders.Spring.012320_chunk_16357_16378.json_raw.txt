@@ -1,0 +1,156 @@
+{
+  "records": [
+    {
+      "ID": 16357,
+      "Turn": 22,
+      "Speaker": "T",
+      "Sentence": "Now youve got the xvalue of the",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16358,
+      "Turn": 22,
+      "Speaker": "T",
+      "Sentence": "If you have the xvalue how do you find the one",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to explain the process or method for finding a value, prompting them to share their thinking."
+    },
+    {
+      "ID": 16359,
+      "Turn": 22,
+      "Speaker": "T",
+      "Sentence": "There you go",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16360,
+      "Turn": 23,
+      "Speaker": "T",
+      "Sentence": "Number four",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16361,
+      "Turn": 23,
+      "Speaker": "T",
+      "Sentence": "All right so if you want to  its all multiplied out",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16362,
+      "Turn": 23,
+      "Speaker": "T",
+      "Sentence": "Its all individual numbers theres no multiplication",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16363,
+      "Turn": 23,
+      "Speaker": "T",
+      "Sentence": "Right",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16364,
+      "Turn": 23,
+      "Speaker": "T",
+      "Sentence": "Theres no  If I asked you to multiply 2 x 3 x 4 how would you",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks a hypothetical 'how' question to prompt students to explain their thinking process for multiplication."
+    },
+    {
+      "ID": 16365,
+      "Turn": 23,
+      "Speaker": "T",
+      "Sentence": "multiply 2 x 3 x 4",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher repeats the core of the question to focus students on explaining their process."
+    },
+    {
+      "ID": 16366,
+      "Turn": 23,
+      "Speaker": "T",
+      "Sentence": "Does it matter if I do that first and then multiply it by 10 or multiply those and then multiply that one",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to reason about a mathematical property (associative property of multiplication) by considering whether the order of operations affects the outcome."
+    },
+    {
+      "ID": 16368,
+      "Turn": 25,
+      "Speaker": "T",
+      "Sentence": "It still doesnt matter",
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's idea (that the order of multiplication doesn't matter) to affirm and amplify it for the class."
+    },
+    {
+      "ID": 16369,
+      "Turn": 25,
+      "Speaker": "T",
+      "Sentence": "You just got to make sure you multiply them all",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16370,
+      "Turn": 25,
+      "Speaker": "T",
+      "Sentence": "Now what is the answer to this",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16371,
+      "Turn": 25,
+      "Speaker": "T",
+      "Sentence": "Whats 2 x 3",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16373,
+      "Turn": 27,
+      "Speaker": "T",
+      "Sentence": "Times four",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16374,
+      "Turn": 29,
+      "Speaker": "T",
+      "Sentence": "All right",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16375,
+      "Turn": 29,
+      "Speaker": "T",
+      "Sentence": "Now what I dont know Trish is if what you were saying was do you have to multiply that times that and that times that",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher attempts to clarify a specific student's prior contribution by rephrasing it as a question to check for understanding."
+    },
+    {
+      "ID": 16376,
+      "Turn": 30,
+      "Speaker": "T",
+      "Sentence": "They already did that",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16377,
+      "Turn": 30,
+      "Speaker": "T",
+      "Sentence": "You could multiply the two final  and then multiply",
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

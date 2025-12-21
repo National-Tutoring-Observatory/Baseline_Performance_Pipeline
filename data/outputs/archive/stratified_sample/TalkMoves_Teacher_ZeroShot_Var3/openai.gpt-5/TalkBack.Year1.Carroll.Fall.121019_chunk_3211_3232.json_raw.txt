@@ -1,0 +1,102 @@
+{
+  "records": [
+    {
+      "ID": 3211,
+      "Speaker": "T",
+      "Turn": 14,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3212,
+      "Speaker": "T",
+      "Turn": 14,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3215,
+      "Speaker": "T",
+      "Turn": 17,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher echoes the student's '10 times' and adds wording to clarify the idea."
+    },
+    {
+      "ID": 3217,
+      "Speaker": "T",
+      "Turn": 19,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3220,
+      "Speaker": "T",
+      "Turn": 21,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher rejects 'about' to prompt the use of precise mathematical language."
+    },
+    {
+      "ID": 3222,
+      "Speaker": "T",
+      "Turn": 23,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3223,
+      "Speaker": "T",
+      "Turn": 23,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher leaves the statement incomplete to elicit the next mathematical term from students."
+    },
+    {
+      "ID": 3225,
+      "Speaker": "T",
+      "Turn": 25,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to supply the precise term to complete the mathematical phrase."
+    },
+    {
+      "ID": 3227,
+      "Speaker": "T",
+      "Turn": 27,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's word 'left' exactly to confirm it."
+    },
+    {
+      "ID": 3228,
+      "Speaker": "T",
+      "Turn": 27,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3229,
+      "Speaker": "T",
+      "Turn": 27,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3230,
+      "Speaker": "T",
+      "Turn": 27,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3231,
+      "Speaker": "T",
+      "Turn": 27,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3232,
+      "Speaker": "T",
+      "Turn": 27,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

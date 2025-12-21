@@ -1,0 +1,158 @@
+{
+  "records": [
+    {
+      "ID": 16201,
+      "Speaker": "T",
+      "Turn": 137,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16202,
+      "Speaker": "T",
+      "Turn": 137,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks a student 'why' they chose their position, directly prompting for an explanation of their thinking."
+    },
+    {
+      "ID": 16203,
+      "Speaker": "S",
+      "Turn": 138,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16204,
+      "Speaker": "T",
+      "Turn": 139,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to be more specific about what 'this one' refers to, pushing for more precise language."
+    },
+    {
+      "ID": 16205,
+      "Speaker": "S",
+      "Turn": 140,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16206,
+      "Speaker": "S",
+      "Turn": 140,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16207,
+      "Speaker": "T",
+      "Turn": 141,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16208,
+      "Speaker": "T",
+      "Turn": 141,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's idea of 'figuring out the fraction' but rephrases it to add the mathematical connection that 'multiplication is fraction of'."
+    },
+    {
+      "ID": 16209,
+      "Speaker": "T",
+      "Turn": 141,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher continues the revoicing by summarizing the implication of the student's idea, explicitly connecting it to multiplication."
+    },
+    {
+      "ID": 16210,
+      "Speaker": "T",
+      "Turn": 141,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16211,
+      "Speaker": "T",
+      "Turn": 141,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks a question that requires the student to apply the definition of division to the problem, pressing them to justify their thinking."
+    },
+    {
+      "ID": 16212,
+      "Speaker": "T",
+      "Turn": 142,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16213,
+      "Speaker": "T",
+      "Turn": 142,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher instructs a student to stop interrupting and give a classmate 'think time,' which orients students to be active and respectful listeners."
+    },
+    {
+      "ID": 16214,
+      "Speaker": "T",
+      "Turn": 142,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher repeats a question to refocus the student on explaining their thinking after an interruption."
+    },
+    {
+      "ID": 16215,
+      "Speaker": "S",
+      "Turn": 143,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16216,
+      "Speaker": "T",
+      "Turn": 144,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16217,
+      "Speaker": "T",
+      "Turn": 144,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16218,
+      "Speaker": "T",
+      "Turn": 144,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16219,
+      "Speaker": "T",
+      "Turn": 144,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16220,
+      "Speaker": "T",
+      "Turn": 144,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16221,
+      "Speaker": "T",
+      "Turn": 144,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16222,
+      "Speaker": "T",
+      "Turn": 144,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks a student 'What do you think?', which is a direct prompt for the student to share their thinking and reasoning."
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "records": [
+    {
+      "ID": 13838,
+      "Speaker": "T",
+      "Turn": 61,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Asks Eloise to share what she and her partner noticed, prompting her thinking."
+    },
+    {
+      "ID": 13840,
+      "Speaker": "T",
+      "Turn": 63,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 13841,
+      "Speaker": "T",
+      "Turn": 63,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "Invites others to share something different from Eloise’s idea, orienting responses to the prior contribution."
+    },
+    {
+      "ID": 13842,
+      "Speaker": "T",
+      "Turn": 63,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 13844,
+      "Speaker": "T",
+      "Turn": 65,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Paraphrases Parker’s idea, reframing it as ‘three is a factor of 15.’"
+    },
+    {
+      "ID": 13845,
+      "Speaker": "T",
+      "Turn": 65,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 13846,
+      "Speaker": "T",
+      "Turn": 65,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 13847,
+      "Speaker": "T",
+      "Turn": 65,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 13848,
+      "Speaker": "T",
+      "Turn": 65,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Prompts students to provide a specific multiplication fact to identify factors of 3."
+    },
+    {
+      "ID": 13850,
+      "Speaker": "T",
+      "Turn": 67,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Presses for the complete multiplication statement."
+    },
+    {
+      "ID": 13852,
+      "Speaker": "T",
+      "Turn": 69,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Repeats the student’s product and adds the result to clarify."
+    },
+    {
+      "ID": 13854,
+      "Speaker": "T",
+      "Turn": 71,
+      "TalkMove": "Restating",
+      "Reasoning": "Repeats the student’s phrase verbatim."
+    },
+    {
+      "ID": 13855,
+      "Speaker": "T",
+      "Turn": 71,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks for the factor pair that makes 15."
+    },
+    {
+      "ID": 13856,
+      "Speaker": "T",
+      "Turn": 71,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Checks whether 2 is a factor of 15."
+    },
+    {
+      "ID": 13858,
+      "Speaker": "T",
+      "Turn": 73,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks whether 3 is a factor of 15."
+    }
+  ]
+}

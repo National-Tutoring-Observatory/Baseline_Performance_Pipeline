@@ -1,0 +1,168 @@
+{
+  "records": [
+    {
+      "ID": 17281,
+      "Turn": 198,
+      "Speaker": "S",
+      "Sentence": "We are going to need"
+    },
+    {
+      "ID": 17282,
+      "Turn": 199,
+      "Speaker": "T",
+      "Sentence": "Thats all you have to do",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17283,
+      "Turn": 199,
+      "Speaker": "T",
+      "Sentence": "You check your answers",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17284,
+      "Turn": 199,
+      "Speaker": "T",
+      "Sentence": "You can go take a break out there",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17285,
+      "Turn": 199,
+      "Speaker": "T",
+      "Sentence": "Just dont cause a scene",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17286,
+      "Turn": 200,
+      "Speaker": "T",
+      "Sentence": "How are you guys",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17287,
+      "Turn": 201,
+      "Speaker": "S",
+      "Sentence": "I dont know the actual answer"
+    },
+    {
+      "ID": 17288,
+      "Turn": 202,
+      "Speaker": "S",
+      "Sentence": "What were we asking what is what"
+    },
+    {
+      "ID": 17289,
+      "Turn": 203,
+      "Speaker": "T",
+      "Sentence": "He really does need to work",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17290,
+      "Turn": 204,
+      "Speaker": "T",
+      "Sentence": "What was not correct",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to identify a specific incorrect part of their work, which is a request for a precise mathematical contribution."
+    },
+    {
+      "ID": 17291,
+      "Turn": 204,
+      "Speaker": "T",
+      "Sentence": "Theyre all correct cool",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17292,
+      "Turn": 204,
+      "Speaker": "T",
+      "Sentence": "you just going to catch up",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17293,
+      "Turn": 204,
+      "Speaker": "T",
+      "Sentence": "Youve got one more to catch up on",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17294,
+      "Turn": 204,
+      "Speaker": "T",
+      "Sentence": "Let me know when youre done",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17295,
+      "Turn": 205,
+      "Speaker": "T",
+      "Sentence": "Oh my goodness",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17296,
+      "Turn": 205,
+      "Speaker": "T",
+      "Sentence": "You got two more done",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17297,
+      "Turn": 206,
+      "Speaker": "T",
+      "Sentence": "They do look very similar",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17298,
+      "Turn": 207,
+      "Speaker": "S",
+      "Sentence": "Whats the difference"
+    },
+    {
+      "ID": 17299,
+      "Turn": 208,
+      "Speaker": "T",
+      "Sentence": "This one has",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17300,
+      "Turn": 209,
+      "Speaker": "S",
+      "Sentence": "Okay and"
+    },
+    {
+      "ID": 17301,
+      "Turn": 210,
+      "Speaker": "T",
+      "Sentence": "Im sure it somehow or another",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17302,
+      "Turn": 211,
+      "Speaker": "S",
+      "Sentence": "Is there a camera in this one"
+    }
+  ]
+}

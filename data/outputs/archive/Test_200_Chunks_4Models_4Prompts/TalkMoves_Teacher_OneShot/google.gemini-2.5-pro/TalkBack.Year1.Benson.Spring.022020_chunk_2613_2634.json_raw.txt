@@ -1,0 +1,150 @@
+{
+  "records": [
+    {
+      "ID": 2613,
+      "Turn": 56,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2614,
+      "Turn": 56,
+      "Speaker": "T",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher directs students' attention to the problem, prompting them to be active listeners."
+    },
+    {
+      "ID": 2615,
+      "Turn": 57,
+      "Speaker": "S"
+    },
+    {
+      "ID": 2616,
+      "Turn": 58,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's idea to 'multiply' and adds specific details from the problem context."
+    },
+    {
+      "ID": 2617,
+      "Turn": 58,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks students to confirm the validity of a specific mathematical representation (the structure of an equation)."
+    },
+    {
+      "ID": 2618,
+      "Turn": 59,
+      "Speaker": "S"
+    },
+    {
+      "ID": 2619,
+      "Turn": 60,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2620,
+      "Turn": 60,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2621,
+      "Turn": 60,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2622,
+      "Turn": 60,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2623,
+      "Turn": 60,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2624,
+      "Turn": 60,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2625,
+      "Turn": 61,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2626,
+      "Turn": 61,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2627,
+      "Turn": 61,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2628,
+      "Turn": 61,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2629,
+      "Turn": 62,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks students to identify a mathematical object, pressing for the correct terminology."
+    },
+    {
+      "ID": 2630,
+      "Turn": 63,
+      "Speaker": "S"
+    },
+    {
+      "ID": 2631,
+      "Turn": 64,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2632,
+      "Turn": 65,
+      "Speaker": "S"
+    },
+    {
+      "ID": 2633,
+      "Turn": 66,
+      "Speaker": "T",
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's word 'triangle' verbatim."
+    },
+    {
+      "ID": 2634,
+      "Turn": 66,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

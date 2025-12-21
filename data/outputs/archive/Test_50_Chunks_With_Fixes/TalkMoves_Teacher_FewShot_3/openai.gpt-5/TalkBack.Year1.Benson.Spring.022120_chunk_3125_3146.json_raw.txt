@@ -1,0 +1,116 @@
+{
+  "records": [
+    {
+      "ID": 3125,
+      "Speaker": "T",
+      "Turn": 136,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases the student's intended topic to check understanding, asking if that is what the student is talking about."
+    },
+    {
+      "ID": 3127,
+      "Speaker": "T",
+      "Turn": 138,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher builds on the student's partial utterance ('Area of') by specifying the prior problem, paraphrasing to clarify the student's idea."
+    },
+    {
+      "ID": 3129,
+      "Speaker": "T",
+      "Turn": 140,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3130,
+      "Speaker": "T",
+      "Turn": 140,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3132,
+      "Speaker": "T",
+      "Turn": 142,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3133,
+      "Speaker": "T",
+      "Turn": 143,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher orients the class to a shared representation by saying 'let's look at it,' prompting collective attention."
+    },
+    {
+      "ID": 3134,
+      "Speaker": "T",
+      "Turn": 143,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3135,
+      "Speaker": "T",
+      "Turn": 143,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher restates the student's question in their own words ('did 200 divided by 50'), checking for alignment."
+    },
+    {
+      "ID": 3138,
+      "Speaker": "T",
+      "Turn": 145,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "By asking 'Why 100?' the teacher prompts the student to justify their choice and explain their thinking."
+    },
+    {
+      "ID": 3140,
+      "Speaker": "T",
+      "Turn": 147,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3141,
+      "Speaker": "T",
+      "Turn": 148,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3142,
+      "Speaker": "T",
+      "Turn": 148,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3143,
+      "Speaker": "T",
+      "Turn": 148,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3144,
+      "Speaker": "T",
+      "Turn": 148,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3145,
+      "Speaker": "T",
+      "Turn": 148,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3146,
+      "Speaker": "T",
+      "Turn": 148,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

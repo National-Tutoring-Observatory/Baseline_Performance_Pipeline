@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 28586,
+      "Speaker": "T",
+      "Turn": 28586,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 28587,
+      "Speaker": "T",
+      "Turn": 28587,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Prompts students to identify the appropriate operation using mathematical language (addition vs multiplication)."
+    },
+    {
+      "ID": 28589,
+      "Speaker": "T",
+      "Turn": 28589,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Checks correctness, prompting the student to verify their answer."
+    },
+    {
+      "ID": 28591,
+      "Speaker": "T",
+      "Turn": 28591,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 28592,
+      "Speaker": "T",
+      "Turn": 28592,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Asks students to articulate what information or steps are needed to proceed."
+    },
+    {
+      "ID": 28593,
+      "Speaker": "T",
+      "Turn": 28593,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Requests a justification for choosing addition over multiplication."
+    },
+    {
+      "ID": 28595,
+      "Speaker": "T",
+      "Turn": 28595,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 28596,
+      "Speaker": "T",
+      "Turn": 28596,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Requests a specific value (the cost), a mathematical contribution."
+    },
+    {
+      "ID": 28597,
+      "Speaker": "T",
+      "Turn": 28597,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Prompts naming the other item and its cost to move forward mathematically."
+    },
+    {
+      "ID": 28599,
+      "Speaker": "T",
+      "Turn": 28599,
+      "TalkMove": "Restating",
+      "Reasoning": "Repeats the student's one-word answer verbatim."
+    },
+    {
+      "ID": 28600,
+      "Speaker": "T",
+      "Turn": 28600,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 28602,
+      "Speaker": "T",
+      "Turn": 28602,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Invites students to summarize known information and connect it to the problem."
+    },
+    {
+      "ID": 28603,
+      "Speaker": "T",
+      "Turn": 28603,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Requests the specific cost value."
+    },
+    {
+      "ID": 28605,
+      "Speaker": "T",
+      "Turn": 28605,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Prompts the count of boys, a needed quantity for computation."
+    },
+    {
+      "ID": 28607,
+      "Speaker": "T",
+      "Turn": 28607,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Prompts setting up the correct multiplication expression."
+    },
+    {
+      "ID": 28608,
+      "Speaker": "T",
+      "Turn": 28608,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 28609,
+      "Speaker": "T",
+      "Turn": 28609,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 28611,
+      "Speaker": "T",
+      "Turn": 28611,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 28612,
+      "Speaker": "T",
+      "Turn": 28612,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks what operation should be performed on the two amounts."
+    },
+    {
+      "ID": 28614,
+      "Speaker": "T",
+      "Turn": 28614,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Prompts use of appropriate notation/units (dollars)."
+    }
+  ]
+}

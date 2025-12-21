@@ -1,0 +1,137 @@
+{
+  "records": [
+    {
+      "ID": 12014,
+      "Speaker": "T",
+      "Turn": 79,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12015,
+      "Speaker": "T",
+      "Turn": 80,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts students to test their rule against the provided examples, asking them to provide evidence for their thinking."
+    },
+    {
+      "ID": 12017,
+      "Speaker": "T",
+      "Turn": 82,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's one-word answer verbatim."
+    },
+    {
+      "ID": 12018,
+      "Speaker": "T",
+      "Turn": 82,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12019,
+      "Speaker": "T",
+      "Turn": 82,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12020,
+      "Speaker": "T",
+      "Turn": 82,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12021,
+      "Speaker": "T",
+      "Turn": 82,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12022,
+      "Speaker": "T",
+      "Turn": 82,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12023,
+      "Speaker": "T",
+      "Turn": 82,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12024,
+      "Speaker": "T",
+      "Turn": 82,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12026,
+      "Speaker": "T",
+      "Turn": 84,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's contribution ('Denominator') word for word."
+    },
+    {
+      "ID": 12027,
+      "Speaker": "T",
+      "Turn": 84,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12028,
+      "Speaker": "T",
+      "Turn": 84,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12030,
+      "Speaker": "T",
+      "Turn": 86,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's contribution ('Algorithm') word for word."
+    },
+    {
+      "ID": 12031,
+      "Speaker": "T",
+      "Turn": 86,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12032,
+      "Speaker": "T",
+      "Turn": 86,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12033,
+      "Speaker": "T",
+      "Turn": 86,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to be more precise about their mathematical rule by asking if a specific component ('common denominator') is needed."
+    },
+    {
+      "ID": 12034,
+      "Speaker": "T",
+      "Turn": 86,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher rephrases the previous question, continuing to press students to make their mathematical rule more precise."
+    },
+    {
+      "ID": 12035,
+      "Speaker": "T",
+      "Turn": 86,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts students to use evidence ('the examples') to support their answer about the rule."
+    }
+  ]
+}

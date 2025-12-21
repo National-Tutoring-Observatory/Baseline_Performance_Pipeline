@@ -1,0 +1,102 @@
+{
+  "records": [
+    {
+      "ID": 10286,
+      "Speaker": "T",
+      "Turn": 266,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks for the specific value of one–quarter of eight, prompting a precise mathematical answer."
+    },
+    {
+      "ID": 10288,
+      "Speaker": "T",
+      "Turn": 268,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 10289,
+      "Speaker": "T",
+      "Turn": 268,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 10290,
+      "Speaker": "T",
+      "Turn": 268,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher prompts student to calculate 2 × 3, seeking a specific numerical result."
+    },
+    {
+      "ID": 10292,
+      "Speaker": "T",
+      "Turn": 270,
+      "TalkMove": "Restating",
+      "Reasoning": "Teacher repeats the student’s answer 'Six' exactly, mirroring the student’s contribution."
+    },
+    {
+      "ID": 10293,
+      "Speaker": "T",
+      "Turn": 270,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 10294,
+      "Speaker": "T",
+      "Turn": 270,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 10295,
+      "Speaker": "T",
+      "Turn": 270,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks for the exact value of one–quarter of 20, requesting a specific mathematical answer."
+    },
+    {
+      "ID": 10298,
+      "Speaker": "T",
+      "Turn": 272,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher requires the student to state the quotient of 20 ÷ 4, eliciting a precise computation."
+    },
+    {
+      "ID": 10301,
+      "Speaker": "T",
+      "Turn": 274,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 10302,
+      "Speaker": "T",
+      "Turn": 274,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 10303,
+      "Speaker": "T",
+      "Turn": 275,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 10304,
+      "Speaker": "T",
+      "Turn": 275,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher encourages the student to connect the idea of ‘five is 1/4’ to determining how many fourths are in the quantity, prompting conceptual reasoning."
+    },
+    {
+      "ID": 10306,
+      "Speaker": "T",
+      "Turn": 277,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks for the specific product of 5 × 3, prompting an exact numerical response."
+    }
+  ]
+}

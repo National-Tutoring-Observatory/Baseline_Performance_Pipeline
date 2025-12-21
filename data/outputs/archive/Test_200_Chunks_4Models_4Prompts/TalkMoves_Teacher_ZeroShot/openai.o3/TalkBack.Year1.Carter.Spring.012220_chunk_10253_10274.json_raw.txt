@@ -1,0 +1,123 @@
+{
+  "records": [
+    {
+      "ID": 10253,
+      "Speaker": "T",
+      "Turn": 249,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10255,
+      "Speaker": "T",
+      "Turn": 251,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10257,
+      "Speaker": "T",
+      "Turn": 253,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10258,
+      "Speaker": "T",
+      "Turn": 253,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher asks the student to explain/justify why the correct answer is six."
+    },
+    {
+      "ID": 10259,
+      "Speaker": "T",
+      "Turn": 253,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher restates the student’s idea (¼ is 2, so ¾ is more) using her own wording to clarify."
+    },
+    {
+      "ID": 10261,
+      "Speaker": "T",
+      "Turn": 255,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10262,
+      "Speaker": "T",
+      "Turn": 255,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10263,
+      "Speaker": "T",
+      "Turn": 255,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10264,
+      "Speaker": "T",
+      "Turn": 255,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher requests a specific calculation: “What’s ¼ of eight?”"
+    },
+    {
+      "ID": 10265,
+      "Speaker": "T",
+      "Turn": 256,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher prompts student to extend thinking: after finding one part, consider having three of them."
+    },
+    {
+      "ID": 10267,
+      "Speaker": "T",
+      "Turn": 258,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks for a precise numerical answer: “What’s ¼ of 10?”"
+    },
+    {
+      "ID": 10268,
+      "Speaker": "T",
+      "Turn": 258,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Prompts student to complete a computation: “Twenty divided by four is …”"
+    },
+    {
+      "ID": 10270,
+      "Speaker": "T",
+      "Turn": 260,
+      "TalkMove": "Restating",
+      "Reasoning": "Teacher repeats the student’s answer 'Five' verbatim."
+    },
+    {
+      "ID": 10271,
+      "Speaker": "T",
+      "Turn": 260,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10272,
+      "Speaker": "T",
+      "Turn": 260,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10273,
+      "Speaker": "T",
+      "Turn": 260,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10274,
+      "Speaker": "T",
+      "Turn": 260,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher solicits a specific numerical result: “What’s ¼ of 16?”"
+    }
+  ]
+}

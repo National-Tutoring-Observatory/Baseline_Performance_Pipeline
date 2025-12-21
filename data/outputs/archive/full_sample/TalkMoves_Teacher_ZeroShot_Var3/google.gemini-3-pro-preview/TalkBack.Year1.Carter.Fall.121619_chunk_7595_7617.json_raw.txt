@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 7595,
+      "Speaker": "T",
+      "Turn": 7595,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 7596,
+      "Speaker": "T",
+      "Turn": 7596,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 7597,
+      "Speaker": "T",
+      "Turn": 7597,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to explain the thinking behind an incorrect answer ('What did people do that said eight'), prompting them to analyze the error."
+    },
+    {
+      "ID": 7598,
+      "Speaker": "T",
+      "Turn": 7598,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher continues to press for an explanation of the specific error made by students who wrote 'eight'."
+    },
+    {
+      "ID": 7600,
+      "Speaker": "T",
+      "Turn": 7600,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 7601,
+      "Speaker": "T",
+      "Turn": 7601,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases the student's explanation of the error ('You rounded it to the nearest one rather than the tenths right'), clarifying the mathematical reasoning behind the mistake."
+    },
+    {
+      "ID": 7603,
+      "Speaker": "T",
+      "Turn": 7603,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher explicitly prompts students to pay attention ('better be careful listeners')."
+    },
+    {
+      "ID": 7604,
+      "Speaker": "T",
+      "Turn": 7604,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 7605,
+      "Speaker": "T",
+      "Turn": 7605,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to perform a specific mathematical task ('write 093')."
+    },
+    {
+      "ID": 7606,
+      "Speaker": "T",
+      "Turn": 7606,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 7607,
+      "Speaker": "T",
+      "Turn": 7607,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to perform a calculation/rounding task ('round it to the nearest tenth')."
+    },
+    {
+      "ID": 7608,
+      "Speaker": "T",
+      "Turn": 7608,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 7609,
+      "Speaker": "T",
+      "Turn": 7609,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher asks the whole class to choral respond ('everybody say that number with me'), keeping the group oriented together."
+    },
+    {
+      "ID": 7611,
+      "Speaker": "T",
+      "Turn": 7611,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 7612,
+      "Speaker": "T",
+      "Turn": 7612,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to write a specific number ('Write 265')."
+    },
+    {
+      "ID": 7613,
+      "Speaker": "T",
+      "Turn": 7613,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 7614,
+      "Speaker": "T",
+      "Turn": 7614,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 7615,
+      "Speaker": "T",
+      "Turn": 7615,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to perform a rounding task ('round it to the nearest tenth')."
+    },
+    {
+      "ID": 7616,
+      "Speaker": "T",
+      "Turn": 7616,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 7617,
+      "Speaker": "T",
+      "Turn": 7617,
+      "TalkMove": "None",
+      "Reasoning": null
+    }
+  ]
+}

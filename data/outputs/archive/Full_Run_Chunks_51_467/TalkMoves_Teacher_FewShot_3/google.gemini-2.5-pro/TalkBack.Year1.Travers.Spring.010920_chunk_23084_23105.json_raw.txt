@@ -1,0 +1,148 @@
+{
+  "records": [
+    {
+      "ID": 23084,
+      "Turn": 246,
+      "Speaker": "T",
+      "Sentence": "Great",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23085,
+      "Turn": 246,
+      "Speaker": "T",
+      "Sentence": "Now we do subtraction",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23086,
+      "Turn": 246,
+      "Speaker": "T",
+      "Sentence": "Whats 12 equivalent",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to provide a specific mathematical value (an equivalent fraction)."
+    },
+    {
+      "ID": 23088,
+      "Turn": 248,
+      "Speaker": "T",
+      "Sentence": "Whats 25 equivalent to",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to provide a specific mathematical value (an equivalent fraction)."
+    },
+    {
+      "ID": 23090,
+      "Turn": 250,
+      "Speaker": "T",
+      "Sentence": "What is 510  410",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to perform a calculation and provide the answer."
+    },
+    {
+      "ID": 23092,
+      "Turn": 252,
+      "Speaker": "T",
+      "Sentence": "Youre brilliant",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23093,
+      "Turn": 252,
+      "Speaker": "T",
+      "Sentence": "We did the hard work up here",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23094,
+      "Turn": 252,
+      "Speaker": "T",
+      "Sentence": "We did the multiplication rule up here in the chart",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23095,
+      "Turn": 252,
+      "Speaker": "T",
+      "Sentence": "We use that information",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23096,
+      "Turn": 252,
+      "Speaker": "T",
+      "Sentence": "After you have equivalent fractions then you can add and subtract",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23097,
+      "Turn": 252,
+      "Speaker": "T",
+      "Sentence": "So my friends what is greater 12 or 25",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to make a mathematical comparison and state the result."
+    },
+    {
+      "ID": 23099,
+      "Turn": 254,
+      "Speaker": "T",
+      "Sentence": "Got it",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23100,
+      "Turn": 254,
+      "Speaker": "T",
+      "Sentence": "If you are feNoahng likeTand Ms Franklin I am like I got this",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23101,
+      "Turn": 254,
+      "Speaker": "T",
+      "Sentence": "I can keep going on my own",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23102,
+      "Turn": 254,
+      "Speaker": "T",
+      "Sentence": "You will have about five minutes on your own",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23103,
+      "Turn": 255,
+      "Speaker": "T",
+      "Sentence": "No because were going to the library so well have to come back and finish",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23104,
+      "Turn": 256,
+      "Speaker": "T",
+      "Sentence": "If you are needing a help then well do about five minutes of some help time after",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23105,
+      "Turn": 256,
+      "Speaker": "T",
+      "Sentence": "So stop and think right now",
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

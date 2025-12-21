@@ -1,0 +1,60 @@
+{
+  "records": [
+    {
+      "ID": 18066,
+      "Speaker": "T",
+      "Turn": 365,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18073,
+      "Speaker": "T",
+      "Turn": 369,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher echoes the student’s idea ('it doesn’t ...?') in question form to confirm and clarify understanding."
+    },
+    {
+      "ID": 18075,
+      "Speaker": "T",
+      "Turn": 371,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher restates the student’s claim (no curve) and adds mathematical language (‘no min or max … point of inflection’) to clarify it."
+    },
+    {
+      "ID": 18076,
+      "Speaker": "T",
+      "Turn": 371,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18078,
+      "Speaker": "T",
+      "Turn": 373,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student 'What?' prompting the student to elaborate or clarify their statement."
+    },
+    {
+      "ID": 18080,
+      "Speaker": "T",
+      "Turn": 375,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18083,
+      "Speaker": "T",
+      "Turn": 378,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher restates and elaborates the student’s idea about a cubic with a point of inflection, adding terminology (‘mins and maxes’)."
+    },
+    {
+      "ID": 18086,
+      "Speaker": "T",
+      "Turn": 380,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

@@ -1,0 +1,196 @@
+{
+  "records": [
+    {
+      "ID": 15085,
+      "Turn": 45,
+      "Speaker": "S",
+      "Sentence": "What do I do about the screen",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15086,
+      "Turn": 46,
+      "Speaker": "T",
+      "Sentence": "It is on the screen but the counters are on the screen",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15087,
+      "Turn": 46,
+      "Speaker": "T",
+      "Sentence": "Thats what I want you to use",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15088,
+      "Turn": 46,
+      "Speaker": "T",
+      "Sentence": "Show us what you did",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts the student to demonstrate and explain their process."
+    },
+    {
+      "ID": 15089,
+      "Turn": 47,
+      "Speaker": "S",
+      "Sentence": "Onefourth of eight",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15090,
+      "Turn": 47,
+      "Speaker": "S",
+      "Sentence": "What we did",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15091,
+      "Turn": 47,
+      "Speaker": "S",
+      "Sentence": "What we did is",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15092,
+      "Turn": 48,
+      "Speaker": "T",
+      "Sentence": "Not what we did",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15093,
+      "Turn": 48,
+      "Speaker": "T",
+      "Sentence": "Please dont start with a question word",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15094,
+      "Turn": 48,
+      "Speaker": "T",
+      "Sentence": "Please just start with we",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15095,
+      "Turn": 48,
+      "Speaker": "T",
+      "Sentence": "Thats the subject of your sentence",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15096,
+      "Turn": 49,
+      "Speaker": "S",
+      "Sentence": "We did",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15097,
+      "Turn": 50,
+      "Speaker": "T",
+      "Sentence": "Not we did",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15098,
+      "Turn": 50,
+      "Speaker": "T",
+      "Sentence": "Say what like when Im sorry to talk about the grammar piece but boys and girls I see this in your writing",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15099,
+      "Turn": 50,
+      "Speaker": "T",
+      "Sentence": "I went through that writing yesterday some peoples writing and grammar is a really big issue that interferes with understanding",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15100,
+      "Turn": 50,
+      "Speaker": "T",
+      "Sentence": "We dont say we did this",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15101,
+      "Turn": 50,
+      "Speaker": "T",
+      "Sentence": "Thats why we learn subject and",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15102,
+      "Turn": 51,
+      "Speaker": "S",
+      "Sentence": "Predicate",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15103,
+      "Turn": 52,
+      "Speaker": "T",
+      "Sentence": "predicate",
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's contribution ('predicate') verbatim."
+    },
+    {
+      "ID": 15104,
+      "Turn": 52,
+      "Speaker": "T",
+      "Sentence": "Subject is what Whos the sentence about",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15105,
+      "Turn": 52,
+      "Speaker": "T",
+      "Sentence": "We",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15106,
+      "Turn": 52,
+      "Speaker": "T",
+      "Sentence": "Predicate is whats the action",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15107,
+      "Turn": 52,
+      "Speaker": "T",
+      "Sentence": "You could say we moved",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher models a precise verb ('moved') to help the student accurately describe their mathematical action."
+    },
+    {
+      "ID": 15108,
+      "Turn": 52,
+      "Speaker": "T",
+      "Sentence": "We grouped",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher models a specific mathematical verb ('grouped') to encourage the student to use more precise language for their process."
+    }
+  ]
+}

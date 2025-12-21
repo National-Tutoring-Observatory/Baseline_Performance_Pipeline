@@ -1,0 +1,116 @@
+{
+  "records": [
+    {
+      "ID": 17094,
+      "Speaker": "T",
+      "Turn": 107,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17095,
+      "Speaker": "T",
+      "Turn": 107,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher directs students to perform a specific calculation, prompting them to apply precise mathematical steps."
+    },
+    {
+      "ID": 17096,
+      "Speaker": "T",
+      "Turn": 107,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17097,
+      "Speaker": "T",
+      "Turn": 108,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher asks the whole class to listen, orienting everyone to attend to the discussion."
+    },
+    {
+      "ID": 17100,
+      "Speaker": "T",
+      "Turn": 110,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The question seeks a specific factual value (the current year), prompting students to supply accurate information."
+    },
+    {
+      "ID": 17102,
+      "Speaker": "T",
+      "Turn": 112,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17103,
+      "Speaker": "T",
+      "Turn": 112,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks students to classify the trend precisely as increasing, decreasing, or constant."
+    },
+    {
+      "ID": 17105,
+      "Speaker": "T",
+      "Turn": 114,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's single-word response 'Increasing' exactly as the student stated it."
+    },
+    {
+      "ID": 17106,
+      "Speaker": "T",
+      "Turn": 114,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher follows up by asking whether the increase continues, prompting students to commit to a precise claim."
+    },
+    {
+      "ID": 17108,
+      "Speaker": "T",
+      "Turn": 116,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher echoes the student's response 'Yes' verbatim."
+    },
+    {
+      "ID": 17109,
+      "Speaker": "T",
+      "Turn": 116,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher restates the student's idea (profits increasing) while elaborating on the context of using the model."
+    },
+    {
+      "ID": 17110,
+      "Speaker": "T",
+      "Turn": 116,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher invites students to articulate any difficulties in translating abstract math to a contextual story."
+    },
+    {
+      "ID": 17111,
+      "Speaker": "T",
+      "Turn": 116,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17112,
+      "Speaker": "T",
+      "Turn": 116,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "By asking for questions, the teacher encourages students to voice uncertainties or explanations about the process."
+    },
+    {
+      "ID": 17113,
+      "Speaker": "T",
+      "Turn": 116,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17114,
+      "Speaker": "T",
+      "Turn": 116,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

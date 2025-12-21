@@ -1,0 +1,116 @@
+{
+  "records": [
+    {
+      "ID": 1422,
+      "Turn": 189,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1423,
+      "Turn": 189,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students for a specific mathematical value needed to solve the problem."
+    },
+    {
+      "ID": 1425,
+      "Turn": 191,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1426,
+      "Turn": 191,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1427,
+      "Turn": 191,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1428,
+      "Turn": 191,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1429,
+      "Turn": 191,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1430,
+      "Turn": 191,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1431,
+      "Turn": 191,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1432,
+      "Turn": 191,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a question to check for understanding of a mathematical comparison."
+    },
+    {
+      "ID": 1434,
+      "Turn": 193,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks a student to explain their problem-solving method."
+    },
+    {
+      "ID": 1435,
+      "Turn": 193,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher follows up to probe for the specifics of the student's strategy."
+    },
+    {
+      "ID": 1437,
+      "Turn": 195,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher offers a possible strategy to prompt the student to begin explaining their own method."
+    },
+    {
+      "ID": 1439,
+      "Turn": 197,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1440,
+      "Turn": 197,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1441,
+      "Turn": 197,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher re-asks a question to prompt the student to share their thinking process."
+    }
+  ]
+}

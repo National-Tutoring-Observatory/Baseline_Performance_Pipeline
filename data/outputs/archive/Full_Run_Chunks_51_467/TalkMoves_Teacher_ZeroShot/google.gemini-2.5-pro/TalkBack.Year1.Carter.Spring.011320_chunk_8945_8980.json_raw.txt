@@ -1,0 +1,250 @@
+{
+  "records": [
+    {
+      "ID": 8945,
+      "Turn": 206,
+      "Speaker": "S",
+      "Sentence": "Five"
+    },
+    {
+      "ID": 8946,
+      "Turn": 207,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8947,
+      "Turn": 207,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8948,
+      "Turn": 207,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8949,
+      "Turn": 207,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to represent a mathematical concept (multiples) through a physical gesture, which is a form of mathematical contribution."
+    },
+    {
+      "ID": 8950,
+      "Turn": 207,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8951,
+      "Turn": 207,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher translates a student's non-verbal gesture into a verbal mathematical sequence, adding language and structure to the student's idea."
+    },
+    {
+      "ID": 8952,
+      "Turn": 208,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8953,
+      "Turn": 208,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8954,
+      "Turn": 208,
+      "Speaker": "T",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher asks a student to share their gesture with the whole class, thereby orienting other students to their classmate's idea."
+    },
+    {
+      "ID": 8955,
+      "Turn": 208,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher interprets a student's gesture for the class, adding language and explanation to the student's non-verbal contribution."
+    },
+    {
+      "ID": 8956,
+      "Turn": 208,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher continues to interpret the student's gesture, adding the idea that multiples form a 'whole list'."
+    },
+    {
+      "ID": 8957,
+      "Turn": 208,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8958,
+      "Turn": 208,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8959,
+      "Turn": 208,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8960,
+      "Turn": 208,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8961,
+      "Turn": 208,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8962,
+      "Turn": 208,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a question that requires students to make a precise distinction about a mathematical property (whether multiples are a closed set)."
+    },
+    {
+      "ID": 8963,
+      "Turn": 208,
+      "Speaker": "S",
+      "Sentence": "No"
+    },
+    {
+      "ID": 8964,
+      "Turn": 209,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's answer ('No') and adds the mathematical reasoning ('it goes on for infinity')."
+    },
+    {
+      "ID": 8965,
+      "Turn": 209,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher continues to elaborate on the student's 'No' by rephrasing the concept of infinity in simpler terms."
+    },
+    {
+      "ID": 8966,
+      "Turn": 209,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8967,
+      "Turn": 209,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8968,
+      "Turn": 209,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8969,
+      "Turn": 209,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to provide a specific mathematical contribution (the factors of 12)."
+    },
+    {
+      "ID": 8970,
+      "Turn": 209,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher rephrases the previous prompt to clarify the mathematical task, still pressing for a specific contribution."
+    },
+    {
+      "ID": 8971,
+      "Turn": 209,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8972,
+      "Turn": 210,
+      "Speaker": "S",
+      "Sentence": "1 x 12"
+    },
+    {
+      "ID": 8973,
+      "Turn": 211,
+      "Speaker": "T",
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats a key part ('One') of the student's contribution ('1 x 12') word for word."
+    },
+    {
+      "ID": 8974,
+      "Turn": 211,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students for the next mathematical contribution in a systematic process of finding factors."
+    },
+    {
+      "ID": 8975,
+      "Turn": 212,
+      "Speaker": "S",
+      "Sentence": "Yes"
+    },
+    {
+      "ID": 8976,
+      "Turn": 213,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher takes the student's one-word answer ('Yes') and adds the mathematical justification ('because 2 x 6')."
+    },
+    {
+      "ID": 8977,
+      "Turn": 214,
+      "Speaker": "S",
+      "Sentence": "Six yes"
+    },
+    {
+      "ID": 8978,
+      "Turn": 215,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8979,
+      "Turn": 215,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher uses an elliptical question ('Then 3?') to prompt for the next mathematical contribution in the sequence."
+    },
+    {
+      "ID": 8980,
+      "Turn": 216,
+      "Speaker": "S",
+      "Sentence": "Yes"
+    }
+  ]
+}

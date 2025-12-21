@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 1248,
+      "Speaker": "T",
+      "Turn": 1248,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks students to state the specific numeric distance Charice ran, prompting a precise mathematical fact."
+    },
+    {
+      "ID": 1250,
+      "Speaker": "T",
+      "Turn": 1250,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher repeats the student-supplied answer \"78\" while adding the tag \"right,\" slightly altering the original wording."
+    },
+    {
+      "ID": 1251,
+      "Speaker": "T",
+      "Turn": 1251,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher restates the answer in a fuller sentence, rephrasing the student’s contribution."
+    },
+    {
+      "ID": 1252,
+      "Speaker": "T",
+      "Turn": 1252,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks students to identify the unknown quantity the problem is asking for."
+    },
+    {
+      "ID": 1253,
+      "Speaker": "T",
+      "Turn": 1253,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher paraphrases the idea that they need to find Ally’s distance, attributing it to Eric."
+    },
+    {
+      "ID": 1255,
+      "Speaker": "T",
+      "Turn": 1255,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher asks students to explain the method they will use to find the unknown."
+    },
+    {
+      "ID": 1256,
+      "Speaker": "T",
+      "Turn": 1256,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher prompts students to cite the exact information given in the problem."
+    },
+    {
+      "ID": 1259,
+      "Speaker": "T",
+      "Turn": 1259,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Directive to the whole class to read carefully ensures all students are attending to the same text."
+    },
+    {
+      "ID": 1260,
+      "Speaker": "T",
+      "Turn": 1260,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher repeats the key fact from the problem ('she ran 38') in her own words."
+    },
+    {
+      "ID": 1262,
+      "Speaker": "T",
+      "Turn": 1262,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher summarizes previously stated facts, rephrasing them for the class."
+    },
+    {
+      "ID": 1263,
+      "Speaker": "T",
+      "Turn": 1263,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher asks students to decide between addition or subtraction, prompting them to justify the operation choice."
+    },
+    {
+      "ID": 1266,
+      "Speaker": "T",
+      "Turn": 1266,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Teacher identifies which students said 'adding,' directing class attention to that contribution."
+    },
+    {
+      "ID": 1268,
+      "Speaker": "T",
+      "Turn": 1268,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher asks Eric to explain why addition is appropriate, eliciting justification."
+    },
+    {
+      "ID": 1270,
+      "Speaker": "T",
+      "Turn": 1270,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1271,
+      "Speaker": "T",
+      "Turn": 1271,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1272,
+      "Speaker": "T",
+      "Turn": 1272,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1273,
+      "Speaker": "T",
+      "Turn": 1273,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks students to specify the unit or 'whole' being counted, prompting precise mathematical language."
+    },
+    {
+      "ID": 1275,
+      "Speaker": "T",
+      "Turn": 1275,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1277,
+      "Speaker": "T",
+      "Turn": 1277,
+      "TalkMove": "Restating",
+      "Reasoning": "Teacher repeats the student’s one-word answer 'Miles' exactly."
+    },
+    {
+      "ID": 1278,
+      "Speaker": "T",
+      "Turn": 1278,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher modifies the repeated word to 'A mile,' slightly altering the student’s wording."
+    }
+  ]
+}

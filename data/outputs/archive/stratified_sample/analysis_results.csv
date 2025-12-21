@@ -1,0 +1,17 @@
+Prompt,Model,N,Accuracy,Kappa,Run_Name,Sample_Type,Analysis_Time
+TalkMoves_Teacher_ZeroShot,openai.gpt-5,10535,0.7356430944470812,0.47710031596605695,Diagnostic_FullSample_2Combos,full_sample,2025-12-20T12:07:08Z
+TalkMoves_Teacher_ZeroShot_Var4,openai.gpt-5,10535,0.7363075462743237,0.4746303340955735,Diagnostic_FullSample_2Combos,full_sample,2025-12-20T12:07:08Z
+TalkMoves_Teacher_ZeroShot_Var2,openai.o3,10527,0.7273677210981286,0.4693300041643887,Diagnostic_FullSample_2Combos,full_sample,2025-12-20T12:07:08Z
+TalkMoves_Teacher_ZeroShot_Var4,openai.o3,10527,0.727747696399734,0.4684577540170266,Diagnostic_FullSample_2Combos,full_sample,2025-12-20T12:07:08Z
+TalkMoves_Teacher_ZeroShot,openai.o3,10501,0.7245976573659652,0.46739791608017495,Diagnostic_FullSample_2Combos,full_sample,2025-12-20T12:07:08Z
+TalkMoves_Teacher_ZeroShot_Var2,openai.gpt-5,10534,0.7309663945319916,0.4665222632402911,Diagnostic_FullSample_2Combos,full_sample,2025-12-20T12:07:08Z
+TalkMoves_Teacher_ZeroShot_Var3,openai.o3,10526,0.7147064411932358,0.4650617356783472,Diagnostic_FullSample_2Combos,full_sample,2025-12-20T12:07:08Z
+TalkMoves_Teacher_ZeroShot_Var3,openai.gpt-5,10533,0.6920155701129782,0.434518738180853,Diagnostic_FullSample_2Combos,full_sample,2025-12-20T12:07:08Z
+TalkMoves_Teacher_ZeroShot_Var3,anthropic.claude-4.5-sonnet,10448,0.6939127105666156,0.40185293149529006,Diagnostic_FullSample_2Combos,full_sample,2025-12-20T12:07:08Z
+TalkMoves_Teacher_ZeroShot,anthropic.claude-4.5-sonnet,10533,0.7054020696857496,0.3970946342621679,Diagnostic_FullSample_2Combos,full_sample,2025-12-20T12:07:08Z
+TalkMoves_Teacher_ZeroShot_Var2,anthropic.claude-4.5-sonnet,10524,0.7046750285062714,0.3951721341902869,Diagnostic_FullSample_2Combos,full_sample,2025-12-20T12:07:08Z
+TalkMoves_Teacher_ZeroShot_Var4,anthropic.claude-4.5-sonnet,10524,0.7027746104142911,0.39177178160924325,Diagnostic_FullSample_2Combos,full_sample,2025-12-20T12:07:08Z
+TalkMoves_Teacher_ZeroShot_Var2,google.gemini-2.5-pro,10144,0.7067231861198738,0.3863505745022911,Diagnostic_FullSample_2Combos,full_sample,2025-12-20T12:07:08Z
+TalkMoves_Teacher_ZeroShot_Var4,google.gemini-2.5-pro,10050,0.7052736318407961,0.3828619634692329,Diagnostic_FullSample_2Combos,full_sample,2025-12-20T12:07:08Z
+TalkMoves_Teacher_ZeroShot,google.gemini-2.5-pro,10535,0.7027052681537731,0.37871851026295544,Diagnostic_FullSample_2Combos,full_sample,2025-12-20T12:07:08Z
+TalkMoves_Teacher_ZeroShot_Var3,google.gemini-2.5-pro,10531,0.6962301775709809,0.37018079535268167,Diagnostic_FullSample_2Combos,full_sample,2025-12-20T12:07:08Z

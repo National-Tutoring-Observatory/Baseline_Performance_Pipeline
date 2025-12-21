@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 17380,
+      "Speaker": "T",
+      "Turn": 17380,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17382,
+      "Speaker": "T",
+      "Turn": 17382,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17383,
+      "Speaker": "T",
+      "Turn": 17383,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17385,
+      "Speaker": "T",
+      "Turn": 17385,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17386,
+      "Speaker": "T",
+      "Turn": 17386,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17389,
+      "Speaker": "T",
+      "Turn": 17389,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17390,
+      "Speaker": "T",
+      "Turn": 17390,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17392,
+      "Speaker": "T",
+      "Turn": 17392,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17393,
+      "Speaker": "T",
+      "Turn": 17393,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17394,
+      "Speaker": "T",
+      "Turn": 17394,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17401,
+      "Speaker": "T",
+      "Turn": 17401,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17402,
+      "Speaker": "T",
+      "Turn": 17402,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17403,
+      "Speaker": "T",
+      "Turn": 17403,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17404,
+      "Speaker": "T",
+      "Turn": 17404,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17405,
+      "Speaker": "T",
+      "Turn": 17405,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17406,
+      "Speaker": "T",
+      "Turn": 17406,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks students to recall a specific mathematical term ('factored form is also called what')."
+    },
+    {
+      "ID": 17407,
+      "Speaker": "T",
+      "Turn": 17407,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher re-asks the question, prompting students to provide the specific vocabulary word used in class."
+    },
+    {
+      "ID": 17409,
+      "Speaker": "T",
+      "Turn": 17409,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher acknowledges a partial answer ('Intercept') but prompts for greater precision by asking 'what kinds of intercepts'."
+    },
+    {
+      "ID": 17411,
+      "Speaker": "T",
+      "Turn": 17411,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's correct answer ('Xintercepts') word for word to confirm it."
+    },
+    {
+      "ID": 17412,
+      "Speaker": "T",
+      "Turn": 17412,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to supply the specific term used for roots in the context of a calculator."
+    }
+  ]
+}

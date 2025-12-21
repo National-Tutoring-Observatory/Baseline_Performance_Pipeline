@@ -1,0 +1,140 @@
+{
+  "records": [
+    {
+      "ID": 17253,
+      "Turn": 185,
+      "Speaker": "T",
+      "Sentence": "4As",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17255,
+      "Turn": 187,
+      "Speaker": "T",
+      "Sentence": "But why",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to explain the reasoning behind their proposed mathematical step."
+    },
+    {
+      "ID": 17256,
+      "Turn": 187,
+      "Speaker": "T",
+      "Sentence": "Why cant you not do that",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to explain the reasoning behind a mathematical constraint."
+    },
+    {
+      "ID": 17259,
+      "Turn": 189,
+      "Speaker": "T",
+      "Sentence": "Its part of the A and",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's idea ('Its part of the A') and adds 'and' to prompt for further explanation."
+    },
+    {
+      "ID": 17260,
+      "Turn": 190,
+      "Speaker": "T",
+      "Sentence": "Keep at it this way",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17261,
+      "Turn": 190,
+      "Speaker": "T",
+      "Sentence": "If its 4X plus 3 why cant you say thats 7X",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher poses a hypothetical scenario and asks 'why cant you,' prompting the student to explain the underlying mathematical principle."
+    },
+    {
+      "ID": 17263,
+      "Turn": 192,
+      "Speaker": "T",
+      "Sentence": "Exactly",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17264,
+      "Turn": 192,
+      "Speaker": "T",
+      "Sentence": "Math term we would say theyre not like terms",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17265,
+      "Turn": 192,
+      "Speaker": "T",
+      "Sentence": "Youre taking Xs and think about the three as popsicle sticks",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17266,
+      "Turn": 192,
+      "Speaker": "T",
+      "Sentence": "You cant combine As and popsicle sticks because its not the same thing",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17267,
+      "Turn": 192,
+      "Speaker": "T",
+      "Sentence": "Then what we do is we use reverse PEMDAS to decide which we do first",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17268,
+      "Turn": 192,
+      "Speaker": "T",
+      "Sentence": "The reverse of that the last two is adding subtracting",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17269,
+      "Turn": 192,
+      "Speaker": "T",
+      "Sentence": "When Im solving for X I go backwards so I do the adding or subtracting at first then multiplication or division part",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17271,
+      "Turn": 194,
+      "Speaker": "T",
+      "Sentence": "Really important question",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17272,
+      "Turn": 194,
+      "Speaker": "T",
+      "Sentence": "How are you doing",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17273,
+      "Turn": 194,
+      "Speaker": "T",
+      "Sentence": "You getting ready answers",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17274,
+      "Turn": 195,
+      "Speaker": "T",
+      "Sentence": "You havent checked yet",
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

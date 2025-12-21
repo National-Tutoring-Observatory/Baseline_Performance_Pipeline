@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 17053,
+      "Speaker": "T",
+      "Turn": 17053,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17054,
+      "Speaker": "T",
+      "Turn": 17054,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a specific mathematical question ('do I have a min or a max') prompting students to identify the correct feature of the parabola."
+    },
+    {
+      "ID": 17056,
+      "Speaker": "T",
+      "Turn": 17056,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's answer ('A minimum value') to confirm it before moving on."
+    },
+    {
+      "ID": 17057,
+      "Speaker": "T",
+      "Turn": 17057,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to explain the meaning of the mathematical concept in the context of the story ('what does that minimum value mean')."
+    },
+    {
+      "ID": 17058,
+      "Speaker": "T",
+      "Turn": 17058,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher rephrases the previous prompt, asking students to 'Interpret the minimum value for this story,' which requires connecting the math to the context."
+    },
+    {
+      "ID": 17059,
+      "Speaker": "T",
+      "Turn": 17059,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher directs specific students ('Person number three') to share, managing the flow of participation."
+    },
+    {
+      "ID": 17060,
+      "Speaker": "T",
+      "Turn": 17060,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17061,
+      "Speaker": "T",
+      "Turn": 17061,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats and expands on a student's contribution about what the minimum value shows ('lowest profit in that year')."
+    },
+    {
+      "ID": 17062,
+      "Speaker": "T",
+      "Turn": 17062,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher continues to revoice and elaborate on the student's idea regarding the specificity of the year."
+    },
+    {
+      "ID": 17063,
+      "Speaker": "T",
+      "Turn": 17063,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher further refines the student's answer, clarifying that it involves both a dollar value and a year."
+    },
+    {
+      "ID": 17064,
+      "Speaker": "T",
+      "Turn": 17064,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a specific question about the axis orientation ('which way is my year')."
+    },
+    {
+      "ID": 17065,
+      "Speaker": "T",
+      "Turn": 17065,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to identify the correct variable/axis for the year ('is it on the X')."
+    },
+    {
+      "ID": 17067,
+      "Speaker": "T",
+      "Turn": 17067,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher confirms the student's response by restating the connection between finding the year and finding the X value."
+    },
+    {
+      "ID": 17068,
+      "Speaker": "T",
+      "Turn": 17068,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for a specific procedure or formula ('how do I find the X value of the minimum')."
+    },
+    {
+      "ID": 17069,
+      "Speaker": "T",
+      "Turn": 17069,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17070,
+      "Speaker": "T",
+      "Turn": 17070,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17071,
+      "Speaker": "T",
+      "Turn": 17071,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases the student's answer about using the quadratic formula to find the X value."
+    },
+    {
+      "ID": 17073,
+      "Speaker": "T",
+      "Turn": 17073,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's procedural step ('Plug it in') to confirm the method."
+    },
+    {
+      "ID": 17074,
+      "Speaker": "T",
+      "Turn": 17074,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher calls on a specific student ('Jordan') to read, managing classroom activity."
+    },
+    {
+      "ID": 17075,
+      "Speaker": "T",
+      "Turn": 17075,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

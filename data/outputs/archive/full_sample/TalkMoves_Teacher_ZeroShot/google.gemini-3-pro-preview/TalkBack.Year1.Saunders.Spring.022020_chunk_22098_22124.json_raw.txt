@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 22098,
+      "Speaker": "T",
+      "Turn": 22098,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22099,
+      "Speaker": "T",
+      "Turn": 22099,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22100,
+      "Speaker": "T",
+      "Turn": 22100,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22102,
+      "Speaker": "T",
+      "Turn": 22102,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22103,
+      "Speaker": "T",
+      "Turn": 22103,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts a specific student to be precise ('be very careful') about the wording of the first mathematical step."
+    },
+    {
+      "ID": 22104,
+      "Speaker": "T",
+      "Turn": 22104,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the specific mathematical procedure ('What are we going to do')."
+    },
+    {
+      "ID": 22105,
+      "Speaker": "T",
+      "Turn": 22105,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the specific goal of the problem solving process."
+    },
+    {
+      "ID": 22106,
+      "Speaker": "T",
+      "Turn": 22106,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the explicit first step in the procedure."
+    },
+    {
+      "ID": 22108,
+      "Speaker": "T",
+      "Turn": 22108,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases a mathematical idea (likely from a student or the board context) into a different form ('treat it as the fourth root to x cubed')."
+    },
+    {
+      "ID": 22111,
+      "Speaker": "T",
+      "Turn": 22111,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22112,
+      "Speaker": "T",
+      "Turn": 22112,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22114,
+      "Speaker": "T",
+      "Turn": 22114,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's answer ('Isolate the exponent') word for word to confirm it."
+    },
+    {
+      "ID": 22115,
+      "Speaker": "T",
+      "Turn": 22115,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22116,
+      "Speaker": "T",
+      "Turn": 22116,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22117,
+      "Speaker": "T",
+      "Turn": 22117,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22118,
+      "Speaker": "T",
+      "Turn": 22118,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22119,
+      "Speaker": "T",
+      "Turn": 22119,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher calls on a student to provide the specific first mathematical step."
+    },
+    {
+      "ID": 22121,
+      "Speaker": "T",
+      "Turn": 22121,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher confirms the student's idea ('Yes') and rephrases/elaborates on the action ('so we'll subtract two from both sides')."
+    },
+    {
+      "ID": 22122,
+      "Speaker": "T",
+      "Turn": 22122,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to calculate the result on the left side."
+    },
+    {
+      "ID": 22124,
+      "Speaker": "T",
+      "Turn": 22124,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's answer ('eight') to confirm the calculation."
+    }
+  ]
+}

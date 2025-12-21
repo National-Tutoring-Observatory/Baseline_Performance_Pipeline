@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 26391,
+      "Speaker": "T",
+      "Turn": 26391,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 26392,
+      "Speaker": "T",
+      "Turn": 26392,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a specific question about the problem data ('How many hours'), prompting students to provide a precise numerical answer."
+    },
+    {
+      "ID": 26394,
+      "Speaker": "T",
+      "Turn": 26394,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for a specific value from the problem context ('How much money does it cost'), prompting for a factual mathematical contribution."
+    },
+    {
+      "ID": 26396,
+      "Speaker": "T",
+      "Turn": 26396,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 26397,
+      "Speaker": "T",
+      "Turn": 26397,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 26399,
+      "Speaker": "T",
+      "Turn": 26399,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher challenges a student's response or prompts for a specific detail ('but for how many people') to ensure the mathematical setup is correct."
+    },
+    {
+      "ID": 26400,
+      "Speaker": "T",
+      "Turn": 26400,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 26401,
+      "Speaker": "T",
+      "Turn": 26401,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 26402,
+      "Speaker": "T",
+      "Turn": 26402,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 26403,
+      "Speaker": "T",
+      "Turn": 26403,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 26404,
+      "Speaker": "T",
+      "Turn": 26404,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a specific question retrieving data from the problem ('how many performers'), prompting a precise answer."
+    },
+    {
+      "ID": 26406,
+      "Speaker": "T",
+      "Turn": 26406,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 26408,
+      "Speaker": "T",
+      "Turn": 26408,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for a specific numerical value ('How many hours'), prompting students to identify the correct data point."
+    },
+    {
+      "ID": 26410,
+      "Speaker": "T",
+      "Turn": 26410,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for a specific rate ('How much money... per hour'), prompting students to provide accurate mathematical information."
+    },
+    {
+      "ID": 26412,
+      "Speaker": "T",
+      "Turn": 26412,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 26413,
+      "Speaker": "T",
+      "Turn": 26413,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 26414,
+      "Speaker": "T",
+      "Turn": 26414,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 26415,
+      "Speaker": "T",
+      "Turn": 26415,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher directs students to talk to their 'shoulder partner' about the problem, orienting them to work with each other."
+    },
+    {
+      "ID": 26416,
+      "Speaker": "T",
+      "Turn": 26416,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 26417,
+      "Speaker": "T",
+      "Turn": 26417,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks 'What is this problem asking', which prompts students to explain their understanding of the problem's goal rather than just giving a number."
+    }
+  ]
+}

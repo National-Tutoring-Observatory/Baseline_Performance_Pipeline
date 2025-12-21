@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 1985,
+      "Speaker": "T",
+      "Turn": 1985,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for a specific calculation result to check correctness."
+    },
+    {
+      "ID": 1987,
+      "Speaker": "T",
+      "Turn": 1987,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks a conceptual question about the properties of multiplication (order of operations), prompting students to think about whether the order affects the outcome."
+    },
+    {
+      "ID": 1989,
+      "Speaker": "T",
+      "Turn": 1989,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1990,
+      "Speaker": "T",
+      "Turn": 1990,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the students to verify the specific numbers and units being used in the calculation."
+    },
+    {
+      "ID": 1992,
+      "Speaker": "T",
+      "Turn": 1992,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to evaluate the validity of a proposed method."
+    },
+    {
+      "ID": 1993,
+      "Speaker": "T",
+      "Turn": 1993,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the result of a specific multiplication fact."
+    },
+    {
+      "ID": 1995,
+      "Speaker": "T",
+      "Turn": 1995,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the result of a specific calculation."
+    },
+    {
+      "ID": 1997,
+      "Speaker": "T",
+      "Turn": 1997,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1998,
+      "Speaker": "T",
+      "Turn": 1998,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher repeats the multiplication problem, prompting the student to provide the answer."
+    },
+    {
+      "ID": 1999,
+      "Speaker": "T",
+      "Turn": 1999,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher scaffolds the previous question by asking for a simpler multiplication fact."
+    },
+    {
+      "ID": 2001,
+      "Speaker": "T",
+      "Turn": 2001,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2002,
+      "Speaker": "T",
+      "Turn": 2002,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2003,
+      "Speaker": "T",
+      "Turn": 2003,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2004,
+      "Speaker": "T",
+      "Turn": 2004,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher explicitly asks a student to provide a 'number model,' which is a request for a specific mathematical representation."
+    },
+    {
+      "ID": 2006,
+      "Speaker": "T",
+      "Turn": 2006,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to explain the 'why' behind their choice of numbers/operation."
+    },
+    {
+      "ID": 2008,
+      "Speaker": "T",
+      "Turn": 2008,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2009,
+      "Speaker": "T",
+      "Turn": 2009,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2010,
+      "Speaker": "T",
+      "Turn": 2010,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the specific numerical result of the student's calculation."
+    },
+    {
+      "ID": 2012,
+      "Speaker": "T",
+      "Turn": 2012,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2014,
+      "Speaker": "T",
+      "Turn": 2014,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

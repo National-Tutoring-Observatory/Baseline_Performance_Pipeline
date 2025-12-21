@@ -1,0 +1,158 @@
+{
+  "records": [
+    {
+      "ID": 11972,
+      "Turn": 65,
+      "Speaker": "S",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11973,
+      "Turn": 65,
+      "Speaker": "S",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11974,
+      "Turn": 66,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11975,
+      "Turn": 66,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's idea of efficiency but adds their own wording and confirmation."
+    },
+    {
+      "ID": 11976,
+      "Turn": 66,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11977,
+      "Turn": 66,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11978,
+      "Turn": 67,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11979,
+      "Turn": 67,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher instructs students that they will need to explain their thinking for the next problem."
+    },
+    {
+      "ID": 11980,
+      "Turn": 67,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11981,
+      "Turn": 67,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11982,
+      "Turn": 68,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11983,
+      "Turn": 68,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11984,
+      "Turn": 68,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to provide a strategy, which requires them to share their thinking."
+    },
+    {
+      "ID": 11985,
+      "Turn": 68,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts students to connect ideas by looking for a pattern or algorithm based on their area model work."
+    },
+    {
+      "ID": 11986,
+      "Turn": 69,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to share their conjectures, which requires them to explain their thinking."
+    },
+    {
+      "ID": 11987,
+      "Turn": 69,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher repeats the prompt for students to share their thinking about the algorithm."
+    },
+    {
+      "ID": 11988,
+      "Turn": 69,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11989,
+      "Turn": 69,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher again presses students to share their thinking about the algorithm."
+    },
+    {
+      "ID": 11990,
+      "Turn": 69,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11991,
+      "Turn": 70,
+      "Speaker": "S",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11992,
+      "Turn": 71,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to consider the precise mathematical meaning of the word 'algorithm'."
+    },
+    {
+      "ID": 11993,
+      "Turn": 71,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

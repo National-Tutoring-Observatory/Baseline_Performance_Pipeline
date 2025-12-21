@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 2882,
+      "Speaker": "T",
+      "Turn": 2882,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2884,
+      "Speaker": "T",
+      "Turn": 2884,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher is repeating what they believe the student is saying to confirm their understanding of the student's idea."
+    },
+    {
+      "ID": 2886,
+      "Speaker": "T",
+      "Turn": 2886,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts the student to think about and explain the meaning of their answer."
+    },
+    {
+      "ID": 2887,
+      "Speaker": "T",
+      "Turn": 2887,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to use precise mathematical language by asking them to read the number correctly."
+    },
+    {
+      "ID": 2889,
+      "Speaker": "T",
+      "Turn": 2889,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's idea, framing it as a clear mathematical statement for the class to consider."
+    },
+    {
+      "ID": 2890,
+      "Speaker": "T",
+      "Turn": 2890,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2892,
+      "Speaker": "T",
+      "Turn": 2892,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher asks the rest of the class to respond to a specific student's idea by asking if they agree."
+    },
+    {
+      "ID": 2893,
+      "Speaker": "T",
+      "Turn": 2893,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher states the logical conclusion of the students' agreement, implicitly pressing them to evaluate the reasoning behind that conclusion."
+    },
+    {
+      "ID": 2894,
+      "Speaker": "T",
+      "Turn": 2894,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2895,
+      "Speaker": "T",
+      "Turn": 2895,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2896,
+      "Speaker": "T",
+      "Turn": 2896,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2898,
+      "Speaker": "T",
+      "Turn": 2898,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts students to provide alternative representations, which requires them to share their thinking about mathematical equivalence."
+    },
+    {
+      "ID": 2902,
+      "Speaker": "T",
+      "Turn": 2902,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2903,
+      "Speaker": "T",
+      "Turn": 2903,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2904,
+      "Speaker": "T",
+      "Turn": 2904,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2905,
+      "Speaker": "T",
+      "Turn": 2905,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2906,
+      "Speaker": "T",
+      "Turn": 2906,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2907,
+      "Speaker": "T",
+      "Turn": 2907,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2908,
+      "Speaker": "T",
+      "Turn": 2908,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher prompts students to be active listeners by directing their attention to the front of the room."
+    },
+    {
+      "ID": 2909,
+      "Speaker": "T",
+      "Turn": 2909,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher continues to direct student attention to ensure they are focused on the lesson."
+    }
+  ]
+}

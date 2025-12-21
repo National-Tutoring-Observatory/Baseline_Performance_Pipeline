@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 1218,
+      "Speaker": "T",
+      "Turn": 1218,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1219,
+      "Speaker": "T",
+      "Turn": 1219,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to \"talk through\" how they know what to include in the number model, prompting them to explain their thinking."
+    },
+    {
+      "ID": 1220,
+      "Speaker": "T",
+      "Turn": 1220,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks specifically which quantities will be added, requesting a precise mathematical statement."
+    },
+    {
+      "ID": 1221,
+      "Speaker": "T",
+      "Turn": 1221,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "By asking Xander what things he will add in his number model, the teacher seeks an exact mathematical contribution."
+    },
+    {
+      "ID": 1223,
+      "Speaker": "T",
+      "Turn": 1223,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to explain what the number 23 represents in the context, urging justification of its meaning."
+    },
+    {
+      "ID": 1225,
+      "Speaker": "T",
+      "Turn": 1225,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1226,
+      "Speaker": "T",
+      "Turn": 1226,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks what each 1/3 represents, prompting students to connect quantities to the context."
+    },
+    {
+      "ID": 1228,
+      "Speaker": "T",
+      "Turn": 1228,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher restates the student’s answer ('sister one, sister two and sister three'), echoing the student’s words."
+    },
+    {
+      "ID": 1229,
+      "Speaker": "T",
+      "Turn": 1229,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher checks whether the resulting number should be an improper fraction, focusing on correct mathematical form."
+    },
+    {
+      "ID": 1230,
+      "Speaker": "T",
+      "Turn": 1230,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the precise definition of an improper fraction, encouraging correct mathematical language."
+    },
+    {
+      "ID": 1232,
+      "Speaker": "T",
+      "Turn": 1232,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher paraphrases the expected student response ('It’s more than a whole, right?'), revoicing the idea for clarity."
+    },
+    {
+      "ID": 1233,
+      "Speaker": "T",
+      "Turn": 1233,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1235,
+      "Speaker": "T",
+      "Turn": 1235,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1236,
+      "Speaker": "T",
+      "Turn": 1236,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher checks the whole class’s understanding before moving on, ensuring all are on the same page."
+    },
+    {
+      "ID": 1238,
+      "Speaker": "T",
+      "Turn": 1238,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1239,
+      "Speaker": "T",
+      "Turn": 1239,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher verifies that students are ready to proceed ('Are you good?'), orienting the group."
+    },
+    {
+      "ID": 1241,
+      "Speaker": "T",
+      "Turn": 1241,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1242,
+      "Speaker": "T",
+      "Turn": 1242,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "By inviting a student to read aloud for the class, the teacher orients everyone’s attention to a common text."
+    },
+    {
+      "ID": 1243,
+      "Speaker": "T",
+      "Turn": 1243,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1247,
+      "Speaker": "T",
+      "Turn": 1247,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher directs students to 'really dissect what we know,' prompting analysis and explanation."
+    }
+  ]
+}

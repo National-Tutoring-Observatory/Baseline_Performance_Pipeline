@@ -1,0 +1,109 @@
+{
+  "records": [
+    {
+      "ID": 13838,
+      "Speaker": "T",
+      "Turn": 61,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Asks Eloise to share what she and her partner noticed, prompting explanation of their thinking."
+    },
+    {
+      "ID": 13840,
+      "Speaker": "T",
+      "Turn": 63,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 13841,
+      "Speaker": "T",
+      "Turn": 63,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "Invites others to offer a different observation in relation to the previous student's idea."
+    },
+    {
+      "ID": 13842,
+      "Speaker": "T",
+      "Turn": 63,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 13844,
+      "Speaker": "T",
+      "Turn": 65,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Paraphrases Parker’s contribution by framing it as noticing that 3 is a factor of 15."
+    },
+    {
+      "ID": 13845,
+      "Speaker": "T",
+      "Turn": 65,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 13846,
+      "Speaker": "T",
+      "Turn": 65,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 13847,
+      "Speaker": "T",
+      "Turn": 65,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 13848,
+      "Speaker": "T",
+      "Turn": 65,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Prompts students to provide a specific multiplication fact for 3 (a factor pair)."
+    },
+    {
+      "ID": 13850,
+      "Speaker": "T",
+      "Turn": 67,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Pushes the student to specify the second factor in the product involving 1."
+    },
+    {
+      "ID": 13852,
+      "Speaker": "T",
+      "Turn": 69,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Repeats the student’s multiplication and adds the result to clarify the idea."
+    },
+    {
+      "ID": 13854,
+      "Speaker": "T",
+      "Turn": 71,
+      "TalkMove": "Restating",
+      "Reasoning": "Repeats the student’s phrase verbatim (“one times three”) with minimal addition."
+    },
+    {
+      "ID": 13855,
+      "Speaker": "T",
+      "Turn": 71,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks for a specific factor pair for 15 by prompting “one times what equals 15.”"
+    },
+    {
+      "ID": 13856,
+      "Speaker": "T",
+      "Turn": 71,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Checks whether a multiple of 2 can equal 15, prompting precise mathematical facts."
+    },
+    {
+      "ID": 13858,
+      "Speaker": "T",
+      "Turn": 73,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Prompts students to consider if 3 is a factor of 15, eliciting a specific multiplication fact."
+    }
+  ]
+}

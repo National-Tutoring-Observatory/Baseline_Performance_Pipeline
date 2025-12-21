@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 2261,
+      "Speaker": "T",
+      "Turn": 2261,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2263,
+      "Speaker": "T",
+      "Turn": 2263,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Asks whether a large number can be subtracted from a small one, pushing students to think about the underlying concept."
+    },
+    {
+      "ID": 2265,
+      "Speaker": "T",
+      "Turn": 2265,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Encourages students to consider the steps needed to solve the problem, requesting an explanation of their thinking."
+    },
+    {
+      "ID": 2266,
+      "Speaker": "T",
+      "Turn": 2266,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Directs students to include the correct mathematical notation (dollar sign)."
+    },
+    {
+      "ID": 2267,
+      "Speaker": "T",
+      "Turn": 2267,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2268,
+      "Speaker": "T",
+      "Turn": 2268,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Reminds students to use the dollar sign to denote units, focusing on precise notation."
+    },
+    {
+      "ID": 2269,
+      "Speaker": "T",
+      "Turn": 2269,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2270,
+      "Speaker": "T",
+      "Turn": 2270,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2271,
+      "Speaker": "T",
+      "Turn": 2271,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Invites students to explain the process they used to solve the problem."
+    },
+    {
+      "ID": 2272,
+      "Speaker": "T",
+      "Turn": 2272,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Encourages all students to actively listen to classmates’ explanations."
+    },
+    {
+      "ID": 2273,
+      "Speaker": "T",
+      "Turn": 2273,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Requests that students justify why they chose particular numbers in their solution."
+    },
+    {
+      "ID": 2274,
+      "Speaker": "T",
+      "Turn": 2274,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Specifically asks students to explain the reasoning behind multiplying 13 by 3."
+    },
+    {
+      "ID": 2275,
+      "Speaker": "T",
+      "Turn": 2275,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2276,
+      "Speaker": "T",
+      "Turn": 2276,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2277,
+      "Speaker": "T",
+      "Turn": 2277,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2279,
+      "Speaker": "T",
+      "Turn": 2279,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2281,
+      "Speaker": "T",
+      "Turn": 2281,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Directs the student to explain their estimates and the steps of their solution."
+    },
+    {
+      "ID": 2283,
+      "Speaker": "T",
+      "Turn": 2283,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Restates the student’s contribution (‘they were 3 per’) using the teacher’s own wording."
+    },
+    {
+      "ID": 2285,
+      "Speaker": "T",
+      "Turn": 2285,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Continues to restate the numerical information (‘13 per package’) to clarify and confirm understanding."
+    },
+    {
+      "ID": 2286,
+      "Speaker": "T",
+      "Turn": 2286,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks for a precise clarification about whether the items are burritos or sandwiches."
+    }
+  ]
+}

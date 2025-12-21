@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 27515,
+      "Speaker": "T",
+      "Turn": 27515,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to explain the method ('how do you know far to move it'), prompting for justification."
+    },
+    {
+      "ID": 27516,
+      "Speaker": "T",
+      "Turn": 27516,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher repeats the request for explanation regarding the decimal placement."
+    },
+    {
+      "ID": 27517,
+      "Speaker": "T",
+      "Turn": 27517,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the specific procedure ('How do you move the decimal'), focusing on the correct steps."
+    },
+    {
+      "ID": 27518,
+      "Speaker": "T",
+      "Turn": 27518,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks for the underlying knowledge or justification for the distance the decimal moves."
+    },
+    {
+      "ID": 27520,
+      "Speaker": "T",
+      "Turn": 27520,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 27521,
+      "Speaker": "T",
+      "Turn": 27521,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher explicitly asks students to think about 'why does that rule work', which is a deep prompt for justification and conceptual understanding."
+    },
+    {
+      "ID": 27522,
+      "Speaker": "T",
+      "Turn": 27522,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher repeats the question 'Why does that rule work', continuing to press for conceptual explanation."
+    },
+    {
+      "ID": 27523,
+      "Speaker": "T",
+      "Turn": 27523,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher directs students to consider the underlying logic ('why does that rule work') while they finish their explanations."
+    },
+    {
+      "ID": 27524,
+      "Speaker": "T",
+      "Turn": 27524,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Asking 'Will it always work' prompts students to generalize their reasoning and consider the validity of the rule across contexts."
+    },
+    {
+      "ID": 27525,
+      "Speaker": "T",
+      "Turn": 27525,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 27526,
+      "Speaker": "T",
+      "Turn": 27526,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 27527,
+      "Speaker": "T",
+      "Turn": 27527,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher instructs students to share their work with their table mates, orienting them to listen to and engage with each other."
+    },
+    {
+      "ID": 27528,
+      "Speaker": "T",
+      "Turn": 27528,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 27529,
+      "Speaker": "T",
+      "Turn": 27529,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 27530,
+      "Speaker": "T",
+      "Turn": 27530,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 27531,
+      "Speaker": "T",
+      "Turn": 27531,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 27532,
+      "Speaker": "T",
+      "Turn": 27532,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher sets up a structure ('roundrobin') specifically designed for sharing thinking among the group."
+    },
+    {
+      "ID": 27533,
+      "Speaker": "T",
+      "Turn": 27533,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher explains the protocol for group interaction, ensuring students understand how to orient toward one another."
+    },
+    {
+      "ID": 27534,
+      "Speaker": "T",
+      "Turn": 27534,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher defines the specific activity for group sharing, maintaining the focus on collective participation."
+    },
+    {
+      "ID": 27535,
+      "Speaker": "T",
+      "Turn": 27535,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher provides instructions on how to conclude the group sharing activity, ensuring the class moves together."
+    }
+  ]
+}

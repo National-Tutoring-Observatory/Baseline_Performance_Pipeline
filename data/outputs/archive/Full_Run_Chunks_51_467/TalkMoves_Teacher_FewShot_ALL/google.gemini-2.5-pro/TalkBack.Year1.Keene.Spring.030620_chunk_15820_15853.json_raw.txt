@@ -1,0 +1,212 @@
+{
+  "records": [
+    {
+      "ID": 15820,
+      "Turn": 30,
+      "Speaker": "T",
+      "Sentence": "My pen is next to my computer",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15821,
+      "Turn": 30,
+      "Speaker": "T",
+      "Sentence": "Write what you have",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15822,
+      "Turn": 30,
+      "Speaker": "T",
+      "Sentence": "Share your thinking",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts the student to explain their thinking process."
+    },
+    {
+      "ID": 15823,
+      "Turn": 30,
+      "Speaker": "T",
+      "Sentence": "Use the mic friends",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15825,
+      "Turn": 31,
+      "Speaker": "T",
+      "Sentence": "What number is that",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to state the specific number they are referring to, pressing for a precise mathematical contribution."
+    },
+    {
+      "ID": 15827,
+      "Turn": 33,
+      "Speaker": "T",
+      "Sentence": "Almost",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15828,
+      "Turn": 33,
+      "Speaker": "T",
+      "Sentence": "Who can coach Mila",
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher asks other students to help a classmate, prompting them to engage with her contribution."
+    },
+    {
+      "ID": 15829,
+      "Turn": 33,
+      "Speaker": "T",
+      "Sentence": "What is the one thing she s missing when she read that number",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the class to identify the missing mathematical language in a student's response."
+    },
+    {
+      "ID": 15830,
+      "Turn": 33,
+      "Speaker": "T",
+      "Sentence": "Go ahead and  number",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15831,
+      "Turn": 35,
+      "Speaker": "T",
+      "Sentence": "What",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15832,
+      "Turn": 35,
+      "Speaker": "T",
+      "Sentence": "You forgot to say what  the place value",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher explicitly points out that the student needs to include the place value name, pressing for correct mathematical language."
+    },
+    {
+      "ID": 15834,
+      "Turn": 37,
+      "Speaker": "T",
+      "Sentence": "Say the whole thing again",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks the student to repeat the full number correctly after identifying the missing term, reinforcing the use of accurate mathematical language."
+    },
+    {
+      "ID": 15836,
+      "Turn": 39,
+      "Speaker": "T",
+      "Sentence": "Perfect",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15837,
+      "Turn": 39,
+      "Speaker": "T",
+      "Sentence": "Now class say that number",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher directs the entire class to say the number, ensuring they are all focused on the same correct information."
+    },
+    {
+      "ID": 15838,
+      "Turn": 40,
+      "Speaker": "T",
+      "Sentence": "Thank you",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15839,
+      "Turn": 40,
+      "Speaker": "T",
+      "Sentence": "It s been a while since we practiced",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15840,
+      "Turn": 40,
+      "Speaker": "T",
+      "Sentence": "Go ahead",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15845,
+      "Turn": 42,
+      "Speaker": "T",
+      "Sentence": "All right",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15846,
+      "Turn": 42,
+      "Speaker": "T",
+      "Sentence": "I really like how Mila put a zero as a place holder",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's idea of putting a zero and adds the mathematical term 'place holder'."
+    },
+    {
+      "ID": 15847,
+      "Turn": 42,
+      "Speaker": "T",
+      "Sentence": "Because if you used these lines to help you and you put the three in the tenths and you had the five here you noticed there is a place value in the middle of the two numbers that s blank",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher elaborates on the student's contribution by explaining the reasoning behind using a zero as a placeholder, thus adding to and clarifying the student's idea."
+    },
+    {
+      "ID": 15848,
+      "Turn": 42,
+      "Speaker": "T",
+      "Sentence": "We can never have blank",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15849,
+      "Turn": 42,
+      "Speaker": "T",
+      "Sentence": "Zero means nothing is there",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15850,
+      "Turn": 42,
+      "Speaker": "T",
+      "Sentence": "Now my friends who wrote this my guess is you did not use the strategy of the two lines and you wrote the three but what place value does this three have",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks students to identify the specific place value of a digit, pressing for a precise mathematical contribution."
+    },
+    {
+      "ID": 15851,
+      "Turn": 43,
+      "Speaker": "T",
+      "Sentence": "What place value does this three right here have",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher repeats the question about the place value of a digit, continuing to press for a precise mathematical answer."
+    },
+    {
+      "ID": 15852,
+      "Turn": 44,
+      "Speaker": "T",
+      "Sentence": "It does not have the tens",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15853,
+      "Turn": 44,
+      "Speaker": "T",
+      "Sentence": "Let s take a look at our chart",
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

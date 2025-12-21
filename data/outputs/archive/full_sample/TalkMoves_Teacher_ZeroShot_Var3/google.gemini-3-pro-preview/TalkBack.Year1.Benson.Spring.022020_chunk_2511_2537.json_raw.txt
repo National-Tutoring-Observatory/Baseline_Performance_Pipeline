@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 2511,
+      "Speaker": "T",
+      "Turn": 2511,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 2512,
+      "Speaker": "T",
+      "Turn": 2512,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher is orienting the students to the group activity and asking them to focus."
+    },
+    {
+      "ID": 2513,
+      "Speaker": "T",
+      "Turn": 2513,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 2514,
+      "Speaker": "T",
+      "Turn": 2514,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher checks if the students are ready to proceed together."
+    },
+    {
+      "ID": 2516,
+      "Speaker": "T",
+      "Turn": 2516,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher polls the class to see who has completed a specific problem, keeping the group oriented to the task."
+    },
+    {
+      "ID": 2517,
+      "Speaker": "T",
+      "Turn": 2517,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a specific student for the answer to a calculation (20 x 3)."
+    },
+    {
+      "ID": 2519,
+      "Speaker": "T",
+      "Turn": 2519,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 2520,
+      "Speaker": "T",
+      "Turn": 2520,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher polls the class again to orient them to the next problem."
+    },
+    {
+      "ID": 2521,
+      "Speaker": "T",
+      "Turn": 2521,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a student for the specific answer to the problem."
+    },
+    {
+      "ID": 2523,
+      "Speaker": "T",
+      "Turn": 2523,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 2524,
+      "Speaker": "T",
+      "Turn": 2524,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher directs a student to a specific problem, implying a request for the answer."
+    },
+    {
+      "ID": 2525,
+      "Speaker": "T",
+      "Turn": 2525,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher explicitly asks for the result of a calculation (30 x 5)."
+    },
+    {
+      "ID": 2527,
+      "Speaker": "T",
+      "Turn": 2527,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 2528,
+      "Speaker": "T",
+      "Turn": 2528,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher calls on a student to provide the answer for the 'green one'."
+    },
+    {
+      "ID": 2530,
+      "Speaker": "T",
+      "Turn": 2530,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 2531,
+      "Speaker": "T",
+      "Turn": 2531,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a student to solve 50 x 5."
+    },
+    {
+      "ID": 2533,
+      "Speaker": "T",
+      "Turn": 2533,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's correct answer verbatim."
+    },
+    {
+      "ID": 2534,
+      "Speaker": "T",
+      "Turn": 2534,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a student to solve 80 x 8."
+    },
+    {
+      "ID": 2536,
+      "Speaker": "T",
+      "Turn": 2536,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's answer verbatim."
+    },
+    {
+      "ID": 2537,
+      "Speaker": "T",
+      "Turn": 2537,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to correct a specific part of their answer (the zeros)."
+    }
+  ]
+}

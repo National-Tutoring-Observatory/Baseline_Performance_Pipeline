@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 1191,
+      "Speaker": "T",
+      "Turn": 1191,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1192,
+      "Speaker": "T",
+      "Turn": 1192,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1193,
+      "Speaker": "T",
+      "Turn": 1193,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1194,
+      "Speaker": "T",
+      "Turn": 1194,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1198,
+      "Speaker": "T",
+      "Turn": 1198,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1199,
+      "Speaker": "T",
+      "Turn": 1199,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1200,
+      "Speaker": "T",
+      "Turn": 1200,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1202,
+      "Speaker": "T",
+      "Turn": 1202,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks for the exact number of people involved, prompting a specific mathematical contribution."
+    },
+    {
+      "ID": 1204,
+      "Speaker": "T",
+      "Turn": 1204,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Restates the student’s answer and adds justification (‘because it’s Ryan and his three sisters’), rephrasing the idea."
+    },
+    {
+      "ID": 1205,
+      "Speaker": "T",
+      "Turn": 1205,
+      "TalkMove": "Restating",
+      "Reasoning": "Repeats the student’s answer word-for-word to confirm (‘Four people are working’)."
+    },
+    {
+      "ID": 1206,
+      "Speaker": "T",
+      "Turn": 1206,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1207,
+      "Speaker": "T",
+      "Turn": 1207,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Prompts for the precise amount of paint Ryan will use, eliciting accurate mathematical language (e.g., a fraction)."
+    },
+    {
+      "ID": 1209,
+      "Speaker": "T",
+      "Turn": 1209,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Rephrases and extends a student contribution about amounts used, adding structure to the problem context."
+    },
+    {
+      "ID": 1210,
+      "Speaker": "T",
+      "Turn": 1210,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1211,
+      "Speaker": "T",
+      "Turn": 1211,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1212,
+      "Speaker": "T",
+      "Turn": 1212,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1213,
+      "Speaker": "T",
+      "Turn": 1213,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks students to identify the referent of the whole, prompting precise mathematical identification."
+    },
+    {
+      "ID": 1214,
+      "Speaker": "T",
+      "Turn": 1214,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Directs a student to specify what is being partitioned, pressing for precise mathematical description."
+    },
+    {
+      "ID": 1215,
+      "Speaker": "T",
+      "Turn": 1215,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Prompts a student to define what ‘a third’ refers to, seeking accurate mathematical language."
+    },
+    {
+      "ID": 1217,
+      "Speaker": "T",
+      "Turn": 1217,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Echoes the student’s answer (‘a can of paint’) and adds clarification about the whole, rephrasing the idea."
+    }
+  ]
+}

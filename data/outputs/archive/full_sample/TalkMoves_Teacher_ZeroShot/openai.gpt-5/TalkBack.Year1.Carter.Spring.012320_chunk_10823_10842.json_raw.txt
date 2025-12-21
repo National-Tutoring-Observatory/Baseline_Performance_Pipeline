@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 10823,
+      "Speaker": "T",
+      "Turn": 10823,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10824,
+      "Speaker": "T",
+      "Turn": 10824,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks whether the student is dividing by a 'rule,' prompting identification of the correct mathematical object."
+    },
+    {
+      "ID": 10825,
+      "Speaker": "T",
+      "Turn": 10825,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks which part of the fraction to divide by, eliciting precise mathematical language (e.g., numerator or denominator)."
+    },
+    {
+      "ID": 10826,
+      "Speaker": "T",
+      "Turn": 10826,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher again prompts for the specific part of the fraction, seeking precise terminology."
+    },
+    {
+      "ID": 10827,
+      "Speaker": "T",
+      "Turn": 10827,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's answer word-for-word: 'The numerator.'"
+    },
+    {
+      "ID": 10828,
+      "Speaker": "T",
+      "Turn": 10828,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10829,
+      "Speaker": "T",
+      "Turn": 10829,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "By saying '...and then,' the teacher invites students to explain the next step in the procedure."
+    },
+    {
+      "ID": 10830,
+      "Speaker": "T",
+      "Turn": 10830,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to supply a specific mathematical vocabulary term."
+    },
+    {
+      "ID": 10831,
+      "Speaker": "T",
+      "Turn": 10831,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher restates the student's vocabulary ('unit fraction') and embeds it in a fuller explanation."
+    },
+    {
+      "ID": 10832,
+      "Speaker": "T",
+      "Turn": 10832,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10833,
+      "Speaker": "T",
+      "Turn": 10833,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10834,
+      "Speaker": "T",
+      "Turn": 10834,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10835,
+      "Speaker": "T",
+      "Turn": 10835,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10836,
+      "Speaker": "T",
+      "Turn": 10836,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10837,
+      "Speaker": "T",
+      "Turn": 10837,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to describe the next step after finding the unit fraction, eliciting procedural reasoning."
+    },
+    {
+      "ID": 10838,
+      "Speaker": "T",
+      "Turn": 10838,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher requests a demonstration, prompting students to show their thinking or representation."
+    },
+    {
+      "ID": 10839,
+      "Speaker": "T",
+      "Turn": 10839,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher again asks for the subsequent step, eliciting explanation of the process."
+    },
+    {
+      "ID": 10840,
+      "Speaker": "T",
+      "Turn": 10840,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to specify the quantity to multiply by, seeking precise mathematical language."
+    },
+    {
+      "ID": 10841,
+      "Speaker": "T",
+      "Turn": 10841,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher elicits and confirms the exact term ('numerator'), focusing on correct mathematical language."
+    },
+    {
+      "ID": 10842,
+      "Speaker": "T",
+      "Turn": 10842,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

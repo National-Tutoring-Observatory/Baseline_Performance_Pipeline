@@ -1,0 +1,116 @@
+{
+  "records": [
+    {
+      "ID": 1422,
+      "Speaker": "T",
+      "Turn": 189,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1423,
+      "Speaker": "T",
+      "Turn": 189,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for a specific numerical value ('how many more eighths') needed to carry out the next step of the mathematical procedure."
+    },
+    {
+      "ID": 1425,
+      "Speaker": "T",
+      "Turn": 191,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1426,
+      "Speaker": "T",
+      "Turn": 191,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1427,
+      "Speaker": "T",
+      "Turn": 191,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1428,
+      "Speaker": "T",
+      "Turn": 191,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1429,
+      "Speaker": "T",
+      "Turn": 191,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1430,
+      "Speaker": "T",
+      "Turn": 191,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1431,
+      "Speaker": "T",
+      "Turn": 191,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1432,
+      "Speaker": "T",
+      "Turn": 191,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks students to make a precise mathematical comparison based on the result they just found."
+    },
+    {
+      "ID": 1434,
+      "Speaker": "T",
+      "Turn": 193,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks a student to explain the method they used to solve the problem."
+    },
+    {
+      "ID": 1435,
+      "Speaker": "T",
+      "Turn": 193,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher continues to press the student to share their specific problem-solving strategy."
+    },
+    {
+      "ID": 1437,
+      "Speaker": "T",
+      "Turn": 195,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher interprets the student's implied strategy and states it explicitly for confirmation, thereby rephrasing the student's contribution."
+    },
+    {
+      "ID": 1439,
+      "Speaker": "T",
+      "Turn": 197,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1440,
+      "Speaker": "T",
+      "Turn": 197,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1441,
+      "Speaker": "T",
+      "Turn": 197,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "After a brief interruption, the teacher re-asks the student to explain their thinking process."
+    }
+  ]
+}

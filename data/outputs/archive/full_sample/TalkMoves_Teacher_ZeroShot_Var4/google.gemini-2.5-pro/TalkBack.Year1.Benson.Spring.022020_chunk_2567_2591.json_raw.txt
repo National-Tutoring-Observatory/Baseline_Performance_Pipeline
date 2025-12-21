@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 2567,
+      "Speaker": "T",
+      "Turn": 2567,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2569,
+      "Speaker": "T",
+      "Turn": 2569,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's contribution about the symbol they used."
+    },
+    {
+      "ID": 2570,
+      "Speaker": "T",
+      "Turn": 2570,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2572,
+      "Speaker": "T",
+      "Turn": 2572,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2573,
+      "Speaker": "T",
+      "Turn": 2573,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2574,
+      "Speaker": "T",
+      "Turn": 2574,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to contribute the correct mathematical representation for division."
+    },
+    {
+      "ID": 2575,
+      "Speaker": "T",
+      "Turn": 2575,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2576,
+      "Speaker": "T",
+      "Turn": 2576,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2577,
+      "Speaker": "T",
+      "Turn": 2577,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts a student for the correct placement of a number in a mathematical algorithm."
+    },
+    {
+      "ID": 2578,
+      "Speaker": "T",
+      "Turn": 2578,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher follows up to press the student for a more specific and accurate contribution about the algorithm."
+    },
+    {
+      "ID": 2580,
+      "Speaker": "T",
+      "Turn": 2580,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2582,
+      "Speaker": "T",
+      "Turn": 2582,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases the problem, adding conceptual language to clarify the meaning of the division operation for the class."
+    },
+    {
+      "ID": 2583,
+      "Speaker": "T",
+      "Turn": 2583,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students for the correct procedure in writing the answer for the long division algorithm."
+    },
+    {
+      "ID": 2584,
+      "Speaker": "T",
+      "Turn": 2584,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2586,
+      "Speaker": "T",
+      "Turn": 2586,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats a student's answer verbatim to confirm it for the class."
+    },
+    {
+      "ID": 2587,
+      "Speaker": "T",
+      "Turn": 2587,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases the student's answer ('On the top') by saying 'Our answer would be up here,' making it a collective understanding."
+    },
+    {
+      "ID": 2588,
+      "Speaker": "T",
+      "Turn": 2588,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2589,
+      "Speaker": "T",
+      "Turn": 2589,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2590,
+      "Speaker": "T",
+      "Turn": 2590,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2591,
+      "Speaker": "T",
+      "Turn": 2591,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

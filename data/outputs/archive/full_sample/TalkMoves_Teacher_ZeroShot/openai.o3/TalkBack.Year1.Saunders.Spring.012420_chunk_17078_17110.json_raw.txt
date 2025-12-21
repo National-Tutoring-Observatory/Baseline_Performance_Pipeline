@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 17078,
+      "Speaker": "T",
+      "Turn": 17078,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks students to identify the specific year with the least profit, prompting a precise mathematical answer."
+    },
+    {
+      "ID": 17081,
+      "Speaker": "T",
+      "Turn": 17081,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher repeats a student’s contribution (“2008”) while acknowledging its source."
+    },
+    {
+      "ID": 17083,
+      "Speaker": "T",
+      "Turn": 17083,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Again restates another student’s answer, signaling that more than one student offered the same idea."
+    },
+    {
+      "ID": 17084,
+      "Speaker": "T",
+      "Turn": 17084,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Summarizes the class’s shared answer (2008) and rephrases it, connecting it to the concept of a horizontal line."
+    },
+    {
+      "ID": 17085,
+      "Speaker": "T",
+      "Turn": 17085,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks students to confirm whether the profits at two times are the same, seeking a precise mathematical assertion."
+    },
+    {
+      "ID": 17086,
+      "Speaker": "T",
+      "Turn": 17086,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17088,
+      "Speaker": "T",
+      "Turn": 17088,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Requests the exact point (time) when the least profit occurs."
+    },
+    {
+      "ID": 17090,
+      "Speaker": "T",
+      "Turn": 17090,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17091,
+      "Speaker": "T",
+      "Turn": 17091,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17092,
+      "Speaker": "T",
+      "Turn": 17092,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Prompts students to state the computed year explicitly."
+    },
+    {
+      "ID": 17095,
+      "Speaker": "T",
+      "Turn": 17095,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17096,
+      "Speaker": "T",
+      "Turn": 17096,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Selects a student to speak, directing class attention to that student."
+    },
+    {
+      "ID": 17097,
+      "Speaker": "T",
+      "Turn": 17097,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Instructs all students to listen, orienting them toward the forthcoming contribution."
+    },
+    {
+      "ID": 17100,
+      "Speaker": "T",
+      "Turn": 17100,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks for the specific current year, eliciting a precise factual response."
+    },
+    {
+      "ID": 17103,
+      "Speaker": "T",
+      "Turn": 17103,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Requests students to categorize the trend (increasing, decreasing, or constant), seeking a correct mathematical description."
+    },
+    {
+      "ID": 17105,
+      "Speaker": "T",
+      "Turn": 17105,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17106,
+      "Speaker": "T",
+      "Turn": 17106,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks if the trend continues to increase, prompting confirmation or correction."
+    },
+    {
+      "ID": 17108,
+      "Speaker": "T",
+      "Turn": 17108,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17109,
+      "Speaker": "T",
+      "Turn": 17109,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17110,
+      "Speaker": "T",
+      "Turn": 17110,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Invites students to explain difficulties in moving from pure mathematics to a contextual story, eliciting their reasoning."
+    }
+  ]
+}

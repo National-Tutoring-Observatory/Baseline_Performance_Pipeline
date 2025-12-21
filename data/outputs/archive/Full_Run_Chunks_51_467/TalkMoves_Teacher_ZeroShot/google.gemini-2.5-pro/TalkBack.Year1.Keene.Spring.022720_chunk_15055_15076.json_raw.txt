@@ -1,0 +1,172 @@
+{
+  "records": [
+    {
+      "ID": 15055,
+      "Turn": 40,
+      "Speaker": "T",
+      "Sentence": "The next one write it down",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15056,
+      "Turn": 41,
+      "Speaker": "T",
+      "Sentence": "You have 51 seconds left youre supposed to have done all three and be ready to explain how you used the counters",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15057,
+      "Turn": 42,
+      "Speaker": "T",
+      "Sentence": "Thats what you were supposed to be doing right now",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15058,
+      "Turn": 42,
+      "Speaker": "T",
+      "Sentence": "I didnt ask you to solve the problems I asked you to use the counters to solve the problems",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to use a specific mathematical tool (counters) as part of the required process, pressing for accuracy in their method."
+    },
+    {
+      "ID": 15059,
+      "Turn": 42,
+      "Speaker": "T",
+      "Sentence": "You figure it out",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15060,
+      "Turn": 42,
+      "Speaker": "T",
+      "Sentence": "You persevere",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15061,
+      "Turn": 42,
+      "Speaker": "T",
+      "Sentence": "The first step",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15062,
+      "Turn": 42,
+      "Speaker": "T",
+      "Sentence": "Find to break these into steps",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15063,
+      "Turn": 42,
+      "Speaker": "T",
+      "Sentence": "Onefourth of eight",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15064,
+      "Turn": 42,
+      "Speaker": "T",
+      "Sentence": "How many counters do you think you need to look at",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to share their thinking about the first step in setting up the problem."
+    },
+    {
+      "ID": 15065,
+      "Turn": 42,
+      "Speaker": "T",
+      "Sentence": "Eight okay",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats a student's (implied) answer and adds 'okay' to affirm and broadcast the contribution."
+    },
+    {
+      "ID": 15066,
+      "Turn": 42,
+      "Speaker": "T",
+      "Sentence": "What does onefourth mean",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts students to explain the meaning of a mathematical term."
+    },
+    {
+      "ID": 15067,
+      "Turn": 43,
+      "Speaker": "T",
+      "Sentence": "What have we already learned about doing a fraction of a whole",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts students to connect their current task to prior learning and explain their understanding."
+    },
+    {
+      "ID": 15068,
+      "Turn": 43,
+      "Speaker": "T",
+      "Sentence": "Because weve already done this this is a review",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15069,
+      "Turn": 43,
+      "Speaker": "T",
+      "Sentence": "We actually already did it with pictures I think",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15070,
+      "Turn": 43,
+      "Speaker": "T",
+      "Sentence": "What does it mean one fourth",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher repeats the prompt for students to explain the meaning of a mathematical term."
+    },
+    {
+      "ID": 15071,
+      "Turn": 43,
+      "Speaker": "T",
+      "Sentence": "How many groups do we need to make our eight into",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks a more specific question to guide students toward explaining the meaning of 'one-fourth'."
+    },
+    {
+      "ID": 15072,
+      "Turn": 43,
+      "Speaker": "T",
+      "Sentence": "How many equal groups",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher refines the previous question to prompt the use of more precise mathematical language ('equal groups')."
+    },
+    {
+      "ID": 15073,
+      "Turn": 43,
+      "Speaker": "T",
+      "Sentence": "We need two groups or four groups",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher provides a forced-choice question to scaffold student thinking and press them to reason about the correct number of groups."
+    },
+    {
+      "ID": 15075,
+      "Turn": 44,
+      "Speaker": "T",
+      "Sentence": "No",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15076,
+      "Turn": 44,
+      "Speaker": "T",
+      "Sentence": "Four groups of two",
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

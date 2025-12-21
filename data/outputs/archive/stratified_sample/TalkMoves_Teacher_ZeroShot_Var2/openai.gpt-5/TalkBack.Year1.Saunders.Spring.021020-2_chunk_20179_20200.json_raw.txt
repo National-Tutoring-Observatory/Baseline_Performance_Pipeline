@@ -1,0 +1,130 @@
+{
+  "records": [
+    {
+      "ID": 20179,
+      "Speaker": "T",
+      "Turn": 103,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20180,
+      "Speaker": "T",
+      "Turn": 103,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the result of multiplying three negatives, prompting a specific mathematical fact."
+    },
+    {
+      "ID": 20182,
+      "Speaker": "T",
+      "Turn": 104,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher builds on the student's 'Negative' by rephrasing it as 'a negative x^3,' adding mathematical context."
+    },
+    {
+      "ID": 20183,
+      "Speaker": "T",
+      "Turn": 104,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20184,
+      "Speaker": "T",
+      "Turn": 104,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20185,
+      "Speaker": "T",
+      "Turn": 104,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks if there is a way to rewrite an expression to match another, soliciting a correct mathematical reformulation."
+    },
+    {
+      "ID": 20186,
+      "Speaker": "T",
+      "Turn": 104,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20187,
+      "Speaker": "T",
+      "Turn": 104,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20188,
+      "Speaker": "T",
+      "Turn": 104,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20189,
+      "Speaker": "T",
+      "Turn": 104,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20190,
+      "Speaker": "T",
+      "Turn": 105,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to describe how the property applies to other functions, seeking a specific mathematical characterization."
+    },
+    {
+      "ID": 20191,
+      "Speaker": "T",
+      "Turn": 105,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20192,
+      "Speaker": "T",
+      "Turn": 105,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the result of raising a negative to the fourth power, eliciting a precise mathematical outcome."
+    },
+    {
+      "ID": 20194,
+      "Speaker": "T",
+      "Turn": 106,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to compare the new result with the original, prompting them to articulate the relationship."
+    },
+    {
+      "ID": 20196,
+      "Speaker": "T",
+      "Turn": 108,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's contribution ('It's the exact same') nearly verbatim."
+    },
+    {
+      "ID": 20198,
+      "Speaker": "T",
+      "Turn": 110,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20199,
+      "Speaker": "T",
+      "Turn": 110,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20200,
+      "Speaker": "T",
+      "Turn": 110,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

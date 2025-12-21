@@ -1,0 +1,132 @@
+{
+  "records": [
+    {
+      "ID": 10215,
+      "Speaker": "T",
+      "Turn": 227,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher restates the student's idea about 1/4 of 8 being 2 and extends it to three of them."
+    },
+    {
+      "ID": 10216,
+      "Speaker": "T",
+      "Turn": 227
+    },
+    {
+      "ID": 10218,
+      "Speaker": "T",
+      "Turn": 229,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks for the exact product of 2 × 3."
+    },
+    {
+      "ID": 10220,
+      "Speaker": "T",
+      "Turn": 231,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher repeats the prompt to obtain the correct multiplication fact."
+    },
+    {
+      "ID": 10222,
+      "Speaker": "T",
+      "Turn": 233,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher asks the student to explain why the calculation works."
+    },
+    {
+      "ID": 10223,
+      "Speaker": "T",
+      "Turn": 233,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher paraphrases the student’s current step—only finding 1/4."
+    },
+    {
+      "ID": 10224,
+      "Speaker": "T",
+      "Turn": 233
+    },
+    {
+      "ID": 10225,
+      "Speaker": "T",
+      "Turn": 233
+    },
+    {
+      "ID": 10226,
+      "Speaker": "T",
+      "Turn": 233
+    },
+    {
+      "ID": 10228,
+      "Speaker": "T",
+      "Turn": 235,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher prompts the student to articulate how they will correct their solution."
+    },
+    {
+      "ID": 10230,
+      "Speaker": "T",
+      "Turn": 237
+    },
+    {
+      "ID": 10231,
+      "Speaker": "T",
+      "Turn": 238
+    },
+    {
+      "ID": 10232,
+      "Speaker": "T",
+      "Turn": 238
+    },
+    {
+      "ID": 10233,
+      "Speaker": "T",
+      "Turn": 238
+    },
+    {
+      "ID": 10234,
+      "Speaker": "T",
+      "Turn": 238
+    },
+    {
+      "ID": 10235,
+      "Speaker": "T",
+      "Turn": 238,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher invites the student to explain their current work ('Talk to me about this')."
+    },
+    {
+      "ID": 10236,
+      "Speaker": "T",
+      "Turn": 238,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks for the exact value of 1/4 of 8."
+    },
+    {
+      "ID": 10238,
+      "Speaker": "T",
+      "Turn": 239
+    },
+    {
+      "ID": 10240,
+      "Speaker": "T",
+      "Turn": 241
+    },
+    {
+      "ID": 10241,
+      "Speaker": "T",
+      "Turn": 241,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher prompts the student to compute 3/4 once 1/4 is known."
+    },
+    {
+      "ID": 10243,
+      "Speaker": "T",
+      "Turn": 243
+    },
+    {
+      "ID": 10244,
+      "Speaker": "T",
+      "Turn": 243
+    }
+  ]
+}

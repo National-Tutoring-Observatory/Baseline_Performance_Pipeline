@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 11706,
+      "Speaker": "T",
+      "Turn": 11706,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11707,
+      "Speaker": "T",
+      "Turn": 11707,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher is checking if all students have completed a step in the task, ensuring the class is progressing together."
+    },
+    {
+      "ID": 11708,
+      "Speaker": "T",
+      "Turn": 11708,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher polls the class to check their readiness for the next step, ensuring everyone is on the same page."
+    },
+    {
+      "ID": 11709,
+      "Speaker": "T",
+      "Turn": 11709,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11710,
+      "Speaker": "T",
+      "Turn": 11710,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11711,
+      "Speaker": "T",
+      "Turn": 11711,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11712,
+      "Speaker": "T",
+      "Turn": 11712,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11713,
+      "Speaker": "T",
+      "Turn": 11713,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11714,
+      "Speaker": "T",
+      "Turn": 11714,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher asks the whole class to compare their work to a model, ensuring everyone is at the same point in the task."
+    },
+    {
+      "ID": 11715,
+      "Speaker": "T",
+      "Turn": 11715,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to evaluate their representation against the problem's conditions, prompting them to think about the meaning of their work."
+    },
+    {
+      "ID": 11716,
+      "Speaker": "T",
+      "Turn": 11716,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks a question to guide students' thinking about how to apply the problem's constraints to their visual model."
+    },
+    {
+      "ID": 11718,
+      "Speaker": "T",
+      "Turn": 11718,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher explicitly asks for the reason behind a decision by linking it to the information given in the problem."
+    },
+    {
+      "ID": 11720,
+      "Speaker": "T",
+      "Turn": 11720,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's correct answer, confirming the amount eaten."
+    },
+    {
+      "ID": 11721,
+      "Speaker": "T",
+      "Turn": 11721,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to provide a specific mathematical value, shifting the frame of reference from a part to the whole."
+    },
+    {
+      "ID": 11722,
+      "Speaker": "T",
+      "Turn": 11722,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11723,
+      "Speaker": "T",
+      "Turn": 11723,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher repeats the question to refocus students on providing a specific mathematical value relative to the whole."
+    },
+    {
+      "ID": 11724,
+      "Speaker": "T",
+      "Turn": 11724,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher translates the visual information from the model (six total parts) into precise mathematical language by identifying it as the denominator."
+    },
+    {
+      "ID": 11725,
+      "Speaker": "T",
+      "Turn": 11725,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher synthesizes the numerator and the newly established denominator to state the final answer as a fraction of the whole, articulating the students' implicit understanding."
+    },
+    {
+      "ID": 11726,
+      "Speaker": "T",
+      "Turn": 11726,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11728,
+      "Speaker": "T",
+      "Turn": 11728,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

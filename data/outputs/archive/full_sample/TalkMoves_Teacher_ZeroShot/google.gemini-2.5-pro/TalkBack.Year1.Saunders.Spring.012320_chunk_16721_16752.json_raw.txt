@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 16721,
+      "Speaker": "T",
+      "Turn": 16721,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to make a specific mathematical contribution by checking if any combination of factors adds up to a specific number."
+    },
+    {
+      "ID": 16724,
+      "Speaker": "T",
+      "Turn": 16724,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts a student to be more specific in their mathematical contribution."
+    },
+    {
+      "ID": 16730,
+      "Speaker": "T",
+      "Turn": 16730,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts students to explain the implication of a mathematical condition."
+    },
+    {
+      "ID": 16731,
+      "Speaker": "T",
+      "Turn": 16731,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a question to guide students to apply a specific mathematical rule (checking for factors of C that sum to B)."
+    },
+    {
+      "ID": 16734,
+      "Speaker": "T",
+      "Turn": 16734,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts students to explain the next step in the process, based on the previous conclusion that the expression is not factorable."
+    },
+    {
+      "ID": 16736,
+      "Speaker": "T",
+      "Turn": 16736,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's contribution ('The quadratic formula') verbatim."
+    },
+    {
+      "ID": 16737,
+      "Speaker": "T",
+      "Turn": 16737,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16738,
+      "Speaker": "T",
+      "Turn": 16738,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16739,
+      "Speaker": "T",
+      "Turn": 16739,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher poses a hypothetical question that requires students to think about the structure of the problem and how a change would affect the solution method."
+    },
+    {
+      "ID": 16740,
+      "Speaker": "T",
+      "Turn": 16740,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16741,
+      "Speaker": "T",
+      "Turn": 16741,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16742,
+      "Speaker": "T",
+      "Turn": 16742,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16743,
+      "Speaker": "T",
+      "Turn": 16743,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16744,
+      "Speaker": "T",
+      "Turn": 16744,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16745,
+      "Speaker": "T",
+      "Turn": 16745,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to make a specific mathematical contribution by checking if any of the listed factor pairs sum to three."
+    },
+    {
+      "ID": 16747,
+      "Speaker": "T",
+      "Turn": 16747,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16748,
+      "Speaker": "T",
+      "Turn": 16748,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16749,
+      "Speaker": "T",
+      "Turn": 16749,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to provide a specific piece of mathematical knowledge, the definition of an x-intercept."
+    },
+    {
+      "ID": 16751,
+      "Speaker": "T",
+      "Turn": 16751,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's contribution ('Y is zero') verbatim."
+    },
+    {
+      "ID": 16752,
+      "Speaker": "T",
+      "Turn": 16752,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher connects a student's idea to the problem and then asks for the underlying mathematical principle (the zero product property)."
+    }
+  ]
+}

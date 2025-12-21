@@ -1,0 +1,164 @@
+{
+  "records": [
+    {
+      "ID": 26967,
+      "Turn": 32,
+      "Speaker": "S",
+      "Sentence": "I put angle A and angle B and they were the same"
+    },
+    {
+      "ID": 26968,
+      "Turn": 33,
+      "Speaker": "T",
+      "Sentence": "They were the same",
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's exact words from the end of their turn."
+    },
+    {
+      "ID": 26969,
+      "Turn": 33,
+      "Speaker": "T",
+      "Sentence": "Lets have one more",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26970,
+      "Turn": 33,
+      "Speaker": "T",
+      "Sentence": "Damian would you add on to that",
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher explicitly asks a student to 'add on' to what a previous student said."
+    },
+    {
+      "ID": 26971,
+      "Turn": 33,
+      "Speaker": "T",
+      "Sentence": "Would you share something that",
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "This is a continuation of the prompt for a student to add to a classmate's idea."
+    },
+    {
+      "ID": 26972,
+      "Turn": 34,
+      "Speaker": "S",
+      "Sentence": "I agree with"
+    },
+    {
+      "ID": 26973,
+      "Turn": 35,
+      "Speaker": "T",
+      "Sentence": "Do you mind standing up so we can really hear you",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26974,
+      "Turn": 35,
+      "Speaker": "T",
+      "Sentence": "Thank you honey",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26975,
+      "Turn": 35,
+      "Speaker": "T",
+      "Sentence": "Tell your class",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher directs the student to address the entire class, orienting the speaker to the group."
+    },
+    {
+      "ID": 26976,
+      "Turn": 36,
+      "Speaker": "S",
+      "Sentence": "I agree with Brady and Fern because theyre both the same size but ones just smaller and ones bigger"
+    },
+    {
+      "ID": 26977,
+      "Turn": 36,
+      "Speaker": "S",
+      "Sentence": "Like Brady said the degree matters too"
+    },
+    {
+      "ID": 26978,
+      "Turn": 36,
+      "Speaker": "S",
+      "Sentence": "I just draw that right here like Ms Miller told us and I put it against the bigger one"
+    },
+    {
+      "ID": 26979,
+      "Turn": 36,
+      "Speaker": "S",
+      "Sentence": "They go the same way and of the same size but theyre not ones smaller and ones bigger"
+    },
+    {
+      "ID": 26980,
+      "Turn": 37,
+      "Speaker": "S",
+      "Sentence": "What Im hearing you say is when we talk about angles being bigger and smaller were not talking about the length of the ray"
+    },
+    {
+      "ID": 26981,
+      "Turn": 37,
+      "Speaker": "T",
+      "Sentence": "What were talking about is the measurement where the Did you name this yesterday",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases the student's idea about what angle size is not (ray length) into what it is (measurement), clarifying the concept."
+    },
+    {
+      "ID": 26982,
+      "Turn": 37,
+      "Speaker": "T",
+      "Sentence": "You guys know what this little arrows called",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students for a specific mathematical term."
+    },
+    {
+      "ID": 26983,
+      "Turn": 38,
+      "Speaker": "S",
+      "Sentence": "Vertex"
+    },
+    {
+      "ID": 26984,
+      "Turn": 39,
+      "Speaker": "T",
+      "Sentence": "Its called an arc okay",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26985,
+      "Turn": 39,
+      "Speaker": "T",
+      "Sentence": "So you look at where the arc is and thats where you measure the size of the angle later",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26986,
+      "Turn": 39,
+      "Speaker": "T",
+      "Sentence": "You measure the size of the angle by the arc",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26987,
+      "Turn": 39,
+      "Speaker": "T",
+      "Sentence": "Ms Miller they have some amazing conversations about the size of the angle",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26988,
+      "Turn": 39,
+      "Speaker": "T",
+      "Sentence": "Yes",
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

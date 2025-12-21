@@ -1,0 +1,132 @@
+{
+  "records": [
+    {
+      "ID": 27152,
+      "Turn": 116,
+      "Speaker": "T",
+      "Sentence": "I think were supposed to have the light purple",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 27154,
+      "Turn": 118,
+      "Speaker": "T",
+      "Sentence": "Do they mean this one",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 27156,
+      "Turn": 120,
+      "Speaker": "T",
+      "Sentence": "About how much of the fourth wedge is inside the angle",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 27159,
+      "Turn": 123,
+      "Speaker": "T",
+      "Sentence": "We could fit 412",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's idea ('you can fit 412') but changes the pronoun to 'we,' making it a shared classroom idea."
+    },
+    {
+      "ID": 27161,
+      "Turn": 125,
+      "Speaker": "T",
+      "Sentence": "How did you know we could fit 412",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to explain the thinking process behind their statement that 'we could fit 412'."
+    },
+    {
+      "ID": 27162,
+      "Turn": 125,
+      "Speaker": "T",
+      "Sentence": "Who said that",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 27163,
+      "Turn": 125,
+      "Speaker": "T",
+      "Sentence": "Yes Alyssa",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 27165,
+      "Turn": 127,
+      "Speaker": "T",
+      "Sentence": "You know what I think",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 27166,
+      "Turn": 128,
+      "Speaker": "T",
+      "Sentence": "Tell us more",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts the student to elaborate on their initial explanation, asking for more detail about their thinking process."
+    },
+    {
+      "ID": 27167,
+      "Turn": 128,
+      "Speaker": "T",
+      "Sentence": "Heres what I think its really asking when it comes down to it",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 27168,
+      "Turn": 128,
+      "Speaker": "T",
+      "Sentence": "What does it mean to measure an angle",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 27169,
+      "Turn": 128,
+      "Speaker": "T",
+      "Sentence": "When we measure something we need to use a standard unit",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 27170,
+      "Turn": 128,
+      "Speaker": "T",
+      "Sentence": "That means we have to use something like an inch a centimeter a mile a kilometer or a wedge a colored wedge",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 27171,
+      "Turn": 128,
+      "Speaker": "T",
+      "Sentence": "When we measure something we need to use a standard unit so when were talking about measuring an angle what were really talking about is measuring the distance between this ray and this ray",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 27172,
+      "Turn": 129,
+      "Speaker": "T",
+      "Sentence": "Now we could go on a walk raise your hand if you go on walks with your family",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 27173,
+      "Turn": 129,
+      "Speaker": "T",
+      "Sentence": "I might go for a walk and I might measure my walk in steps",
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

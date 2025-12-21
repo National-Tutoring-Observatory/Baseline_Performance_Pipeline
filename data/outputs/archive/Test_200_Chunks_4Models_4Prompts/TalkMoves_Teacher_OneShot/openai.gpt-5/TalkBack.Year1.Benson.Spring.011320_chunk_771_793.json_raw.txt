@@ -1,0 +1,116 @@
+{
+  "records": [
+    {
+      "ID": 771,
+      "Speaker": "T",
+      "Turn": 185,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 772,
+      "Speaker": "T",
+      "Turn": 185,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 773,
+      "Speaker": "T",
+      "Turn": 186,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the value of the whole given that light green represents one fourth."
+    },
+    {
+      "ID": 774,
+      "Speaker": "T",
+      "Turn": 186,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts for the exact number of parts needed to make the whole."
+    },
+    {
+      "ID": 776,
+      "Speaker": "T",
+      "Turn": 188,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher echoes the student’s idea about the numerator and adds an explanation about the denominator."
+    },
+    {
+      "ID": 778,
+      "Speaker": "T",
+      "Turn": 190,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student’s ‘Four’ while adding ‘of them,’ slightly changing and extending the wording."
+    },
+    {
+      "ID": 779,
+      "Speaker": "T",
+      "Turn": 190,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the exact number of light green pieces to take out."
+    },
+    {
+      "ID": 781,
+      "Speaker": "T",
+      "Turn": 192,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student’s answer word for word."
+    },
+    {
+      "ID": 782,
+      "Speaker": "T",
+      "Turn": 192,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to explain what was demonstrated."
+    },
+    {
+      "ID": 783,
+      "Speaker": "T",
+      "Turn": 192,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts the student to identify and connect which pieces were added together to form the whole."
+    },
+    {
+      "ID": 785,
+      "Speaker": "T",
+      "Turn": 194,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher paraphrases the student’s idea of ‘the fourths’ by enumerating multiple fourths."
+    },
+    {
+      "ID": 786,
+      "Speaker": "T",
+      "Turn": 194,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the precise fractional name of the amount shown."
+    },
+    {
+      "ID": 787,
+      "Speaker": "T",
+      "Turn": 194,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher requests the exact value of the final piece to complete the whole."
+    },
+    {
+      "ID": 789,
+      "Speaker": "T",
+      "Turn": 196,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to continue a mathematical expression using correct fractional language."
+    },
+    {
+      "ID": 791,
+      "Speaker": "T",
+      "Turn": 198,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher checks whether the constructed sum equals the whole."
+    },
+    {
+      "ID": 792,
+      "Speaker": "T",
+      "Turn": 198,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the exact value of the expression."
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 11424,
+      "Speaker": "T",
+      "Turn": 11424,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11425,
+      "Speaker": "T",
+      "Turn": 11425,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher tells Hank that his task is to explain while working, explicitly requesting that he share his thinking."
+    },
+    {
+      "ID": 11426,
+      "Speaker": "T",
+      "Turn": 11426,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher asks Hank if he can in fact explain his thinking while working, pressing for the articulation of reasoning."
+    },
+    {
+      "ID": 11431,
+      "Speaker": "T",
+      "Turn": 11431,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks for the specific result obtained when dividing 12 by 5, prompting an exact mathematical answer."
+    },
+    {
+      "ID": 11432,
+      "Speaker": "T",
+      "Turn": 11432,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher probes what component of the fraction the student was determining, requesting conceptual explanation."
+    },
+    {
+      "ID": 11433,
+      "Speaker": "T",
+      "Turn": 11433,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Teacher directs all students to talk with a partner, orienting the whole class to participate in the discussion."
+    },
+    {
+      "ID": 11434,
+      "Speaker": "T",
+      "Turn": 11434,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "Teacher asks classmates to interpret what ‘he’ found when dividing, explicitly referencing another student’s work."
+    },
+    {
+      "ID": 11435,
+      "Speaker": "T",
+      "Turn": 11435,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "Repeat prompt for students to analyze a peer’s earlier step, encouraging them to connect to that idea."
+    },
+    {
+      "ID": 11436,
+      "Speaker": "T",
+      "Turn": 11436,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11438,
+      "Speaker": "T",
+      "Turn": 11438,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher asks why the student multiplied by two, seeking justification of the step."
+    },
+    {
+      "ID": 11441,
+      "Speaker": "T",
+      "Turn": 11441,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher requests a method to check the reasonableness of the list, prompting students to explain their approach."
+    },
+    {
+      "ID": 11442,
+      "Speaker": "T",
+      "Turn": 11442,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Follow-up question ‘How do you check?’ asks students to spell out their checking process."
+    },
+    {
+      "ID": 11443,
+      "Speaker": "T",
+      "Turn": 11443,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11444,
+      "Speaker": "T",
+      "Turn": 11444,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11445,
+      "Speaker": "T",
+      "Turn": 11445,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11446,
+      "Speaker": "T",
+      "Turn": 11446,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher asks how students would know if their product is correct, requesting justification."
+    },
+    {
+      "ID": 11447,
+      "Speaker": "T",
+      "Turn": 11447,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11448,
+      "Speaker": "T",
+      "Turn": 11448,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11452,
+      "Speaker": "T",
+      "Turn": 11452,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher states a claim about the product and asks for confirmation (‘shouldn’t it?’), prompting students to reason about the property."
+    },
+    {
+      "ID": 11453,
+      "Speaker": "T",
+      "Turn": 11453,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

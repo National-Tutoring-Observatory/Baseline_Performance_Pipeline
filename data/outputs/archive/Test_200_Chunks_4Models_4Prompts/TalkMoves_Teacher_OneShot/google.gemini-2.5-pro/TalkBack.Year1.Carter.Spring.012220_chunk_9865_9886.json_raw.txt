@@ -1,0 +1,116 @@
+{
+  "records": [
+    {
+      "ID": 9865,
+      "Turn": 122,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9866,
+      "Turn": 123,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9867,
+      "Turn": 123,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9868,
+      "Turn": 123,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9871,
+      "Turn": 124,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to demonstrate their process, which prompts them to share their thinking."
+    },
+    {
+      "ID": 9872,
+      "Turn": 124,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to show 'how that works,' prompting them to provide evidence for their method."
+    },
+    {
+      "ID": 9873,
+      "Turn": 124,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher directs the student to a specific part of their representation and asks them to show 'how' it works, pressing for justification."
+    },
+    {
+      "ID": 9874,
+      "Turn": 124,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks 'How do you know,' directly prompting the student to explain their thinking and provide evidence."
+    },
+    {
+      "ID": 9879,
+      "Turn": 126,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for a 'number model,' prompting the student to use a formal mathematical representation."
+    },
+    {
+      "ID": 9880,
+      "Turn": 126,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9881,
+      "Turn": 126,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher repeats the request for a 'number model,' prompting for a specific mathematical contribution."
+    },
+    {
+      "ID": 9882,
+      "Turn": 126,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher directs students to produce the requested mathematical contribution (the number model)."
+    },
+    {
+      "ID": 9883,
+      "Turn": 126,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9884,
+      "Turn": 127,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher again asks the class for a 'number model,' prompting for a formal mathematical representation."
+    },
+    {
+      "ID": 9885,
+      "Turn": 127,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher directs students to produce the requested mathematical contribution on their slates."
+    },
+    {
+      "ID": 9886,
+      "Turn": 127,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

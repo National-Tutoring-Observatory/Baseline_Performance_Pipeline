@@ -1,0 +1,214 @@
+{
+  "records": [
+    {
+      "ID": 10215,
+      "Turn": 227,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher verbalizes the student's implicit work (finding 1/4 is 2) and adds on to it ('but you have three of them') to scaffold the next step."
+    },
+    {
+      "ID": 10216,
+      "Turn": 227,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10217,
+      "Turn": 228,
+      "Speaker": "S",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10218,
+      "Turn": 229,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student for the result of a specific calculation."
+    },
+    {
+      "ID": 10219,
+      "Turn": 230,
+      "Speaker": "S",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10220,
+      "Turn": 231,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher repeats the prompt for a calculation after the student hesitates."
+    },
+    {
+      "ID": 10221,
+      "Turn": 232,
+      "Speaker": "S",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10222,
+      "Turn": 233,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to confirm their understanding of the process by asking 'why'."
+    },
+    {
+      "ID": 10223,
+      "Turn": 233,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10224,
+      "Turn": 233,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10225,
+      "Turn": 233,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10226,
+      "Turn": 233,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10227,
+      "Turn": 234,
+      "Speaker": "S",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10228,
+      "Turn": 235,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to reflect on and confirm their understanding of their corrected strategy."
+    },
+    {
+      "ID": 10229,
+      "Turn": 236,
+      "Speaker": "S",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10230,
+      "Turn": 237,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10231,
+      "Turn": 238,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10232,
+      "Turn": 238,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10233,
+      "Turn": 238,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10234,
+      "Turn": 238,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10235,
+      "Turn": 238,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher uses an open-ended prompt to ask the student to explain their work."
+    },
+    {
+      "ID": 10236,
+      "Turn": 238,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for a specific mathematical value as a step in the problem."
+    },
+    {
+      "ID": 10237,
+      "Turn": 238,
+      "Speaker": "S",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10238,
+      "Turn": 239,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10239,
+      "Turn": 240,
+      "Speaker": "S",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10240,
+      "Turn": 241,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10241,
+      "Turn": 241,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher explicitly asks the student to connect one idea (the value of 1/4) to another (the value of 3/4)."
+    },
+    {
+      "ID": 10242,
+      "Turn": 242,
+      "Speaker": "S",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10243,
+      "Turn": 243,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10244,
+      "Turn": 243,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

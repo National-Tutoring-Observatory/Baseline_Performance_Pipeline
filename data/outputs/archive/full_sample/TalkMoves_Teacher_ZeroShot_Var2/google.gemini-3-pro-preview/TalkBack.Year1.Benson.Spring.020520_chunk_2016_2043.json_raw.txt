@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 2016,
+      "Speaker": "T",
+      "Turn": 2016,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks for a different answer or method, prompting students to share alternative thinking or strategies."
+    },
+    {
+      "ID": 2017,
+      "Speaker": "T",
+      "Turn": 2017,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher asks a student (Ruth) to rephrase or explain what another student (Lee) just did, ensuring the class is following the previous contribution."
+    },
+    {
+      "ID": 2018,
+      "Speaker": "T",
+      "Turn": 2018,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher explicitly asks a student to repeat what another student said."
+    },
+    {
+      "ID": 2020,
+      "Speaker": "T",
+      "Turn": 2020,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks 'Why did she do 33 x 2', prompting the student to explain the logic behind a specific calculation."
+    },
+    {
+      "ID": 2021,
+      "Speaker": "T",
+      "Turn": 2021,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2023,
+      "Speaker": "T",
+      "Turn": 2023,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks 'why did she do that x 2', continuing to press for the justification of the mathematical step."
+    },
+    {
+      "ID": 2025,
+      "Speaker": "T",
+      "Turn": 2025,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's idea ('They are going to be there for two hours') to clarify or verify the reasoning just given."
+    },
+    {
+      "ID": 2026,
+      "Speaker": "T",
+      "Turn": 2026,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks for the rationale behind the next step ('why did she take that and multiply x 6')."
+    },
+    {
+      "ID": 2028,
+      "Speaker": "T",
+      "Turn": 2028,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases the student's answer ('They were six actual tap dancers') to confirm the reasoning."
+    },
+    {
+      "ID": 2029,
+      "Speaker": "T",
+      "Turn": 2029,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks 'what do we do with that information', prompting students to identify the next correct mathematical step."
+    },
+    {
+      "ID": 2030,
+      "Speaker": "T",
+      "Turn": 2030,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2031,
+      "Speaker": "T",
+      "Turn": 2031,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to determine the specific mathematical operation needed now that they have the component costs."
+    },
+    {
+      "ID": 2032,
+      "Speaker": "T",
+      "Turn": 2032,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a specific student what to do with the numbers, looking for the correct operation."
+    },
+    {
+      "ID": 2034,
+      "Speaker": "T",
+      "Turn": 2034,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's suggestion ('Divide them') word for word."
+    },
+    {
+      "ID": 2035,
+      "Speaker": "T",
+      "Turn": 2035,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher challenges the student's choice of division by asking if they know how to perform that specific calculation, implicitly asking them to reconsider if it is the correct path."
+    },
+    {
+      "ID": 2036,
+      "Speaker": "T",
+      "Turn": 2036,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2037,
+      "Speaker": "T",
+      "Turn": 2037,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher re-asks the question about the operation ('What do you do with those two totals') to steer the student toward the correct method."
+    },
+    {
+      "ID": 2038,
+      "Speaker": "T",
+      "Turn": 2038,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher directs the question to a specific student to identify the correct operation."
+    },
+    {
+      "ID": 2040,
+      "Speaker": "T",
+      "Turn": 2040,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to connect the phrase 'how much more' to a mathematical concept or operation."
+    },
+    {
+      "ID": 2043,
+      "Speaker": "T",
+      "Turn": 2043,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher lists operations and asks 'what are you doing', prompting the student to select the correct mathematical procedure."
+    }
+  ]
+}

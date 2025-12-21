@@ -1,0 +1,116 @@
+{
+  "records": [
+    {
+      "ID": 8841,
+      "Turn": 169,
+      "Speaker": "T",
+      "Sentence": "Missy had an interesting way of knowing that 3 is a factor of 36 Ema",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8844,
+      "Turn": 171,
+      "Speaker": "T",
+      "Sentence": "You didnt explain the first part of how you knew that three was part of 36",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts the student to provide the missing part of their explanation for how they arrived at their answer."
+    },
+    {
+      "ID": 8846,
+      "Turn": 173,
+      "Speaker": "T",
+      "Sentence": "I see some puzzled looks here",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8847,
+      "Turn": 173,
+      "Speaker": "T",
+      "Sentence": "Shelby",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8850,
+      "Turn": 175,
+      "Speaker": "T",
+      "Sentence": "Is that what youre saying",
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher asks the original student to confirm another student's interpretation of their idea, prompting a direct reaction."
+    },
+    {
+      "ID": 8852,
+      "Turn": 177,
+      "Speaker": "T",
+      "Sentence": "Kind of like partial products",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's confirmed idea while adding the mathematical term 'partial products' to it."
+    },
+    {
+      "ID": 8854,
+      "Turn": 179,
+      "Speaker": "T",
+      "Sentence": "People that are engaged are getting a lot out of this",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8855,
+      "Turn": 179,
+      "Speaker": "T",
+      "Sentence": "People that are not stay with us because thats why were sharing multiple ways of getting our thinking",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher explicitly directs students to pay attention and listen to the ongoing discussion."
+    },
+    {
+      "ID": 8856,
+      "Turn": 179,
+      "Speaker": "T",
+      "Sentence": "Rate how well you understand factor and factor pair at this point",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8857,
+      "Turn": 179,
+      "Speaker": "T",
+      "Sentence": "Fabulous because this is really going to help you today and were going to go to the learning intention because I realized I didnt go over that",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8858,
+      "Turn": 179,
+      "Speaker": "T",
+      "Sentence": "Heres the learning intention",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8859,
+      "Turn": 179,
+      "Speaker": "T",
+      "Sentence": "Read this with me",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8861,
+      "Turn": 181,
+      "Speaker": "T",
+      "Sentence": "Think for a minute",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8862,
+      "Turn": 181,
+      "Speaker": "T",
+      "Sentence": "How would knowing factors maybe help you find the common denominator because weve really dug into the word factor here just now",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to explain the connection between two mathematical concepts, prompting them to share their thinking."
+    }
+  ]
+}

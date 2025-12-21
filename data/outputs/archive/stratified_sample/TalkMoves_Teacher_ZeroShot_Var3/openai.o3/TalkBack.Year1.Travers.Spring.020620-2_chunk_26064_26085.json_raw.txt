@@ -1,0 +1,32 @@
+{
+  "records": [
+    {
+      "ID": 26082,
+      "Speaker": "T",
+      "Turn": 3,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26083,
+      "Speaker": "T",
+      "Turn": 3,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher uses a class signal to focus students' attention and ensure they are all following along together."
+    },
+    {
+      "ID": 26084,
+      "Speaker": "T",
+      "Turn": 3,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26085,
+      "Speaker": "T",
+      "Turn": 3,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "By instructing students to put their hands down, the teacher is managing participation and aligning the class to listen collectively."
+    }
+  ]
+}

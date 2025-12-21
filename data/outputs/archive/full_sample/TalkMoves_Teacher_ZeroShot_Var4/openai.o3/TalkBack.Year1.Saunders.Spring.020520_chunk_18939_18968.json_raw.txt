@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 18939,
+      "Speaker": "T",
+      "Turn": 18939,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18940,
+      "Speaker": "T",
+      "Turn": 18940,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18941,
+      "Speaker": "T",
+      "Turn": 18941,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18942,
+      "Speaker": "T",
+      "Turn": 18942,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18943,
+      "Speaker": "T",
+      "Turn": 18943,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks students whether 2 is a factor of 120, eliciting a precise mathematical fact."
+    },
+    {
+      "ID": 18945,
+      "Speaker": "T",
+      "Turn": 18945,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Prompts students to determine if 3 is a factor, seeking an accurate mathematical response."
+    },
+    {
+      "ID": 18947,
+      "Speaker": "T",
+      "Turn": 18947,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Utters \"Four\" as a candidate factor, implicitly requesting students to verify its correctness."
+    },
+    {
+      "ID": 18949,
+      "Speaker": "T",
+      "Turn": 18949,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Offers \"Five\" for students to confirm whether it is a factor of 120."
+    },
+    {
+      "ID": 18951,
+      "Speaker": "T",
+      "Turn": 18951,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Presents \"Six\" as a possible factor, prompting students to check its validity."
+    },
+    {
+      "ID": 18953,
+      "Speaker": "T",
+      "Turn": 18953,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "States \"Seven\" to have students decide if it divides 120 exactly."
+    },
+    {
+      "ID": 18955,
+      "Speaker": "T",
+      "Turn": 18955,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Lists \"Eight\" to prompt students to confirm or deny it as a factor."
+    },
+    {
+      "ID": 18957,
+      "Speaker": "T",
+      "Turn": 18957,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Mentions \"Nine\" for students to evaluate its factor status."
+    },
+    {
+      "ID": 18959,
+      "Speaker": "T",
+      "Turn": 18959,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Provides \"10\" to have students verify if it is a factor."
+    },
+    {
+      "ID": 18961,
+      "Speaker": "T",
+      "Turn": 18961,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Adds \"20\" as a potential factor, prompting students to confirm its correctness."
+    },
+    {
+      "ID": 18963,
+      "Speaker": "T",
+      "Turn": 18963,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18964,
+      "Speaker": "T",
+      "Turn": 18964,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18965,
+      "Speaker": "T",
+      "Turn": 18965,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks for the factors of 1, requesting a specific mathematical contribution."
+    },
+    {
+      "ID": 18966,
+      "Speaker": "T",
+      "Turn": 18966,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18967,
+      "Speaker": "T",
+      "Turn": 18967,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18968,
+      "Speaker": "T",
+      "Turn": 18968,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

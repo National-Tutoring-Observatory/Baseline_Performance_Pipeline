@@ -1,0 +1,156 @@
+{
+  "records": [
+    {
+      "ID": 1775,
+      "Turn": 123,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to provide a specific mathematical contribution, in this case, an equation."
+    },
+    {
+      "ID": 1776,
+      "Turn": 124,
+      "Speaker": "S",
+      "Sentence": "One plus threeeighths plus two seveneights"
+    },
+    {
+      "ID": 1777,
+      "Turn": 125,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1778,
+      "Turn": 125,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1779,
+      "Turn": 125,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1780,
+      "Turn": 125,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1781,
+      "Turn": 126,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1782,
+      "Turn": 126,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks a student to explain their thinking or process that led to their answer."
+    },
+    {
+      "ID": 1783,
+      "Turn": 126,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1784,
+      "Turn": 126,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1785,
+      "Turn": 127,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher explicitly states they will ask a student to explain their process ('how you got that')."
+    },
+    {
+      "ID": 1786,
+      "Turn": 127,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1787,
+      "Turn": 127,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1788,
+      "Turn": 127,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1789,
+      "Turn": 127,
+      "Speaker": "T",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher polls the class to see who arrived at a common answer, orienting students to the group's collective work."
+    },
+    {
+      "ID": 1790,
+      "Turn": 127,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1791,
+      "Turn": 127,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1792,
+      "Turn": 127,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1793,
+      "Turn": 127,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts a student to make a mathematical contribution by sharing the answer they wrote."
+    },
+    {
+      "ID": 1794,
+      "Turn": 127,
+      "Speaker": "S",
+      "Sentence": "Four and twoeighths"
+    },
+    {
+      "ID": 1795,
+      "Turn": 128,
+      "Speaker": "T",
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's answer verbatim."
+    },
+    {
+      "ID": 1796,
+      "Turn": 128,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "records": [
+    {
+      "ID": 8758,
+      "Speaker": "T",
+      "Turn": 133,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8759,
+      "Speaker": "T",
+      "Turn": 133,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Teacher asks the student to repeat the answer louder so all classmates can hear."
+    },
+    {
+      "ID": 8761,
+      "Speaker": "T",
+      "Turn": 135,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher restates and elaborates the student’s idea, linking ‘multiples’ with ‘repeated addition.’"
+    },
+    {
+      "ID": 8762,
+      "Speaker": "T",
+      "Turn": 135,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher asks whether students made the conceptual connection, prompting them to explain their thinking."
+    },
+    {
+      "ID": 8763,
+      "Speaker": "T",
+      "Turn": 135,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8764,
+      "Speaker": "T",
+      "Turn": 135,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher calls for the exact mathematical term ‘multiples,’ prompting correct vocabulary use."
+    },
+    {
+      "ID": 8766,
+      "Speaker": "T",
+      "Turn": 137,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher rephrases the student’s idea, connecting ‘multiples’ with ‘repeated addition.’"
+    },
+    {
+      "ID": 8767,
+      "Speaker": "T",
+      "Turn": 137,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher invites someone to explain what a ‘factor pair’ is, requesting an explanation."
+    },
+    {
+      "ID": 8768,
+      "Speaker": "T",
+      "Turn": 137,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8770,
+      "Speaker": "T",
+      "Turn": 139,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher summarizes the student’s contribution that having both numbers forms a pair."
+    },
+    {
+      "ID": 8772,
+      "Speaker": "T",
+      "Turn": 141,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "Teacher asks another student if they want to add to the previous explanation, prompting connection to a peer’s idea."
+    },
+    {
+      "ID": 8774,
+      "Speaker": "T",
+      "Turn": 143,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Teacher asks the student to repeat their statement so that the teacher (and class) can fully understand it."
+    },
+    {
+      "ID": 8776,
+      "Speaker": "T",
+      "Turn": 145,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "Teacher instructs a student to choose a peer to respond, fostering student-to-student interaction."
+    }
+  ]
+}

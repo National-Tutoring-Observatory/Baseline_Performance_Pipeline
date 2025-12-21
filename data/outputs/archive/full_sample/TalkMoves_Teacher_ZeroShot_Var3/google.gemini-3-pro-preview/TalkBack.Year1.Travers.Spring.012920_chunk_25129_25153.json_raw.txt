@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 25129,
+      "Speaker": "T",
+      "Turn": 25129,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 25131,
+      "Speaker": "T",
+      "Turn": 25131,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 25133,
+      "Speaker": "T",
+      "Turn": 25133,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 25134,
+      "Speaker": "T",
+      "Turn": 25134,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher sets up a decision-making scenario about intervals (whole, half, or quarter) and implicitly asks for the logic behind the choice."
+    },
+    {
+      "ID": 25135,
+      "Speaker": "T",
+      "Turn": 25135,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher explicitly asks 'How do we know,' prompting students to explain the basis for their decision on intervals."
+    },
+    {
+      "ID": 25136,
+      "Speaker": "T",
+      "Turn": 25136,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher gives a directive to manage the classroom flow and prepare students for partner work."
+    },
+    {
+      "ID": 25137,
+      "Speaker": "T",
+      "Turn": 25137,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher orients students towards their partners to facilitate discussion."
+    },
+    {
+      "ID": 25138,
+      "Speaker": "T",
+      "Turn": 25138,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher instructs students to engage in conversation with their partners."
+    },
+    {
+      "ID": 25139,
+      "Speaker": "T",
+      "Turn": 25139,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts students to discuss their thinking regarding the setup of the line plot interval."
+    },
+    {
+      "ID": 25140,
+      "Speaker": "T",
+      "Turn": 25140,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 25141,
+      "Speaker": "T",
+      "Turn": 25141,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the specific mathematical setup of the line plot."
+    },
+    {
+      "ID": 25142,
+      "Speaker": "T",
+      "Turn": 25142,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks 'Why do you think is that,' prompting a justification for the student's idea."
+    },
+    {
+      "ID": 25143,
+      "Speaker": "T",
+      "Turn": 25143,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 25144,
+      "Speaker": "T",
+      "Turn": 25144,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 25145,
+      "Speaker": "T",
+      "Turn": 25145,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 25147,
+      "Speaker": "T",
+      "Turn": 25147,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks for the rationale behind choosing 'halves' specifically."
+    },
+    {
+      "ID": 25149,
+      "Speaker": "T",
+      "Turn": 25149,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher uses a countdown to bring the class back to attention."
+    },
+    {
+      "ID": 25150,
+      "Speaker": "T",
+      "Turn": 25150,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher invites a specific student to share their group's thinking with the whole class."
+    },
+    {
+      "ID": 25152,
+      "Speaker": "T",
+      "Turn": 25152,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats what Christian said ('I heard Christian say...') but rephrases it slightly to clarify the reasoning about representing all data."
+    },
+    {
+      "ID": 25153,
+      "Speaker": "T",
+      "Turn": 25153,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher asks students to physically signal (stand up) if their thinking aligns with the previous student's idea."
+    }
+  ]
+}

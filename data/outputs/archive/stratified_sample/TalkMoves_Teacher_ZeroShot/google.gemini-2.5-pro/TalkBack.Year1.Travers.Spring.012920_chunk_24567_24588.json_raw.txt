@@ -1,0 +1,88 @@
+{
+  "records": [
+    {
+      "ID": 24572,
+      "Turn": 68,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases the student's idea of a 'pattern' by adding more specific language about the numbers."
+    },
+    {
+      "ID": 24574,
+      "Turn": 70,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher continues to rephrase the student's idea by adding the more precise mathematical concept of 'equal amount of space'."
+    },
+    {
+      "ID": 24576,
+      "Turn": 72,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24577,
+      "Turn": 72,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24578,
+      "Turn": 72,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24579,
+      "Turn": 72,
+      "Speaker": "T",
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats a student's contribution about having the 'same interval or space' to make it public for the class."
+    },
+    {
+      "ID": 24580,
+      "Turn": 72,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts students to explain the meaning and significance of their contribution ('same interval or space')."
+    },
+    {
+      "ID": 24582,
+      "Turn": 74,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases the student's specific example ('inches') into the more general mathematical concept of a 'unit of measurement'."
+    },
+    {
+      "ID": 24583,
+      "Turn": 74,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24584,
+      "Turn": 74,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24587,
+      "Turn": 77,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks the student to clarify the pronoun 'them' to make their mathematical statement more precise."
+    },
+    {
+      "ID": 24588,
+      "Turn": 77,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to complete the phrase with a more precise mathematical term, continuing the press for accuracy."
+    }
+  ]
+}

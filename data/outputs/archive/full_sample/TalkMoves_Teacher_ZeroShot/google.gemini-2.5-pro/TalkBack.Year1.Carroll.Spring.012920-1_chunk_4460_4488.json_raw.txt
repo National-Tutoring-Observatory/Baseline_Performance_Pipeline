@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 4460,
+      "Speaker": "T",
+      "Turn": 4460,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4461,
+      "Speaker": "T",
+      "Turn": 4461,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4462,
+      "Speaker": "T",
+      "Turn": 4462,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4463,
+      "Speaker": "T",
+      "Turn": 4463,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4466,
+      "Speaker": "T",
+      "Turn": 4466,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases the student's idea that two numbers need to be switched, making it a public statement for the class."
+    },
+    {
+      "ID": 4467,
+      "Speaker": "T",
+      "Turn": 4467,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the core idea from the student, specifying which numbers need to be switched."
+    },
+    {
+      "ID": 4469,
+      "Speaker": "T",
+      "Turn": 4469,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to provide the reasoning behind their team's suggestion."
+    },
+    {
+      "ID": 4471,
+      "Speaker": "T",
+      "Turn": 4471,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4473,
+      "Speaker": "T",
+      "Turn": 4473,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats a student's observation about a number's place value."
+    },
+    {
+      "ID": 4474,
+      "Speaker": "T",
+      "Turn": 4474,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a clarifying question to push the student to be more precise about their mathematical proposal."
+    },
+    {
+      "ID": 4476,
+      "Speaker": "T",
+      "Turn": 4476,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher invites other students to contribute to or build upon the current speaker's idea."
+    },
+    {
+      "ID": 4477,
+      "Speaker": "T",
+      "Turn": 4477,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to be more specific about which 'five' they are referring to, pushing for more precise mathematical language."
+    },
+    {
+      "ID": 4479,
+      "Speaker": "T",
+      "Turn": 4479,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases the student's idea while likely pointing to a representation, making the student's thinking public and verifiable."
+    },
+    {
+      "ID": 4480,
+      "Speaker": "T",
+      "Turn": 4480,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4483,
+      "Speaker": "T",
+      "Turn": 4483,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's contribution about where the number eight should be placed."
+    },
+    {
+      "ID": 4484,
+      "Speaker": "T",
+      "Turn": 4484,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher asks the entire class to show their position on an idea, ensuring everyone is engaged and following the discussion."
+    },
+    {
+      "ID": 4485,
+      "Speaker": "T",
+      "Turn": 4485,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4486,
+      "Speaker": "T",
+      "Turn": 4486,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher asks one student to help another, orienting them to each other and promoting a shared learning environment."
+    },
+    {
+      "ID": 4487,
+      "Speaker": "T",
+      "Turn": 4487,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher explicitly asks 'why' after confirming that an answer is correct, demanding justification for the answer."
+    },
+    {
+      "ID": 4488,
+      "Speaker": "T",
+      "Turn": 4488,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher reinforces the need for an explanation by stating 'I need to know why' and directing the question to a specific student."
+    }
+  ]
+}

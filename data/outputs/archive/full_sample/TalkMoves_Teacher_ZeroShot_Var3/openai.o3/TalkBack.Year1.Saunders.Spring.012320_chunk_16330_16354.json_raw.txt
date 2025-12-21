@@ -1,0 +1,134 @@
+{
+  "records": [
+    {
+      "ID": 16330,
+      "Speaker": "T",
+      "Turn": 16330,
+      "TalkMove": null
+    },
+    {
+      "ID": 16331,
+      "Speaker": "T",
+      "Turn": 16331,
+      "TalkMove": null
+    },
+    {
+      "ID": 16332,
+      "Speaker": "T",
+      "Turn": 16332,
+      "TalkMove": null
+    },
+    {
+      "ID": 16333,
+      "Speaker": "T",
+      "Turn": 16333,
+      "TalkMove": null
+    },
+    {
+      "ID": 16334,
+      "Speaker": "T",
+      "Turn": 16334,
+      "TalkMove": null
+    },
+    {
+      "ID": 16335,
+      "Speaker": "T",
+      "Turn": 16335,
+      "TalkMove": null
+    },
+    {
+      "ID": 16336,
+      "Speaker": "T",
+      "Turn": 16336,
+      "TalkMove": null
+    },
+    {
+      "ID": 16337,
+      "Speaker": "T",
+      "Turn": 16337,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks students to supply the correct mathematical term: \"What do we call the ...?\""
+    },
+    {
+      "ID": 16338,
+      "Speaker": "T",
+      "Turn": 16338,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to explain why the term has that name, prompting justification."
+    },
+    {
+      "ID": 16340,
+      "Speaker": "T",
+      "Turn": 16340,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher restates a student’s idea in her own words, adding clarity about the x-intercept."
+    },
+    {
+      "ID": 16341,
+      "Speaker": "T",
+      "Turn": 16341,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher presses students to state the defining property of an x-intercept."
+    },
+    {
+      "ID": 16342,
+      "Speaker": "T",
+      "Turn": 16342,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to reason about what must be true when a product equals zero."
+    },
+    {
+      "ID": 16343,
+      "Speaker": "T",
+      "Turn": 16343,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher probes students to explain how an answer of zero is obtained."
+    },
+    {
+      "ID": 16344,
+      "Speaker": "T",
+      "Turn": 16344,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student’s contribution word-for-word: \"One of them has to be zero.\""
+    },
+    {
+      "ID": 16345,
+      "Speaker": "T",
+      "Turn": 16345,
+      "TalkMove": null
+    },
+    {
+      "ID": 16346,
+      "Speaker": "T",
+      "Turn": 16346,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks what value would make the expression equal zero, eliciting reasoning."
+    },
+    {
+      "ID": 16347,
+      "Speaker": "T",
+      "Turn": 16347,
+      "TalkMove": null
+    },
+    {
+      "ID": 16350,
+      "Speaker": "T",
+      "Turn": 16350,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher poses another ‘what would make that…?’ question, requesting students’ reasoning."
+    },
+    {
+      "ID": 16353,
+      "Speaker": "T",
+      "Turn": 16353,
+      "TalkMove": null
+    },
+    {
+      "ID": 16354,
+      "Speaker": "T",
+      "Turn": 16354,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks how to find the midpoint of two numbers, prompting an explanation."
+    }
+  ]
+}

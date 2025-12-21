@@ -1,0 +1,476 @@
+{
+  "records": [
+    {
+      "ID": 1599,
+      "Turn": 42,
+      "Speaker": "T",
+      "Sentence": "This one",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1600,
+      "Turn": 42,
+      "Speaker": "T",
+      "Sentence": "Two",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1602,
+      "Turn": 44,
+      "Speaker": "T",
+      "Sentence": "Two ones",
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats part of the student's utterance ('two ones') verbatim."
+    },
+    {
+      "ID": 1603,
+      "Turn": 44,
+      "Speaker": "T",
+      "Sentence": "Two",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1604,
+      "Turn": 44,
+      "Speaker": "T",
+      "Sentence": "What do we say when we see the decimal",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to use the correct mathematical language ('and') for a decimal point."
+    },
+    {
+      "ID": 1606,
+      "Turn": 46,
+      "Speaker": "T",
+      "Sentence": "And",
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's one-word contribution verbatim."
+    },
+    {
+      "ID": 1607,
+      "Turn": 46,
+      "Speaker": "T",
+      "Sentence": "When you have a whole number and then a fraction after this is a mixed number",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1608,
+      "Turn": 46,
+      "Speaker": "T",
+      "Sentence": "Two and how many hundredths do we want",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to provide a specific mathematical contribution to complete the number."
+    },
+    {
+      "ID": 1610,
+      "Turn": 48,
+      "Speaker": "T",
+      "Sentence": "nan",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1611,
+      "Turn": 48,
+      "Speaker": "T",
+      "Sentence": "Really well have 213",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1612,
+      "Turn": 48,
+      "Speaker": "T",
+      "Sentence": "Two means the whole number",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1613,
+      "Turn": 48,
+      "Speaker": "T",
+      "Sentence": "If the numbers bigger that is how many ones there are",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1614,
+      "Turn": 48,
+      "Speaker": "T",
+      "Sentence": "Okay",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1615,
+      "Turn": 48,
+      "Speaker": "T",
+      "Sentence": "What about nine and 56 hundredths",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1616,
+      "Turn": 48,
+      "Speaker": "T",
+      "Sentence": "Byron",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1618,
+      "Turn": 50,
+      "Speaker": "T",
+      "Sentence": "Read it",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1619,
+      "Turn": 50,
+      "Speaker": "T",
+      "Sentence": "Nine",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1620,
+      "Turn": 51,
+      "Speaker": "T",
+      "Sentence": "Last one 12 and 87 hundredths",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1621,
+      "Turn": 51,
+      "Speaker": "T",
+      "Sentence": "Graham",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1623,
+      "Turn": 53,
+      "Speaker": "T",
+      "Sentence": "I need a new column dont I",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1625,
+      "Turn": 55,
+      "Speaker": "T",
+      "Sentence": "Okay",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1626,
+      "Turn": 55,
+      "Speaker": "T",
+      "Sentence": "Read that now",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1628,
+      "Turn": 57,
+      "Speaker": "T",
+      "Sentence": "Try it again",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to make the mathematical contribution again, pressing for a clear and correct statement."
+    },
+    {
+      "ID": 1630,
+      "Turn": 59,
+      "Speaker": "T",
+      "Sentence": "Okay",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1631,
+      "Turn": 59,
+      "Speaker": "T",
+      "Sentence": "Think of that as money",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts the student to connect ideas by using a different representation (money) to think about the number."
+    },
+    {
+      "ID": 1632,
+      "Turn": 59,
+      "Speaker": "T",
+      "Sentence": "That would be like 12 dollars and 87 cents",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1633,
+      "Turn": 59,
+      "Speaker": "T",
+      "Sentence": "Okay",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1634,
+      "Turn": 59,
+      "Speaker": "T",
+      "Sentence": "Thats that",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1635,
+      "Turn": 59,
+      "Speaker": "T",
+      "Sentence": "Going back and spiraling back to things that weve practiced in the past",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1636,
+      "Turn": 59,
+      "Speaker": "T",
+      "Sentence": "Not like it ever goes away my friends",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1637,
+      "Turn": 59,
+      "Speaker": "T",
+      "Sentence": "We will continue practicing over and over",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1638,
+      "Turn": 59,
+      "Speaker": "T",
+      "Sentence": "All right",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1639,
+      "Turn": 59,
+      "Speaker": "T",
+      "Sentence": "Now to our math",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1640,
+      "Turn": 59,
+      "Speaker": "T",
+      "Sentence": "You think fraction circles in your brain or drawing fraction circles or using that number line poster two and onefourths is equal to how many fourths",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1641,
+      "Turn": 59,
+      "Speaker": "T",
+      "Sentence": "Only one person two people got that threefourths",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1642,
+      "Turn": 59,
+      "Speaker": "T",
+      "Sentence": "Caleb what were you doing to help you figure that out",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to explain the thinking process used to arrive at an answer."
+    },
+    {
+      "ID": 1644,
+      "Turn": 61,
+      "Speaker": "T",
+      "Sentence": "Why four plus four",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to provide the reasoning behind a specific step in their calculation."
+    },
+    {
+      "ID": 1645,
+      "Turn": 61,
+      "Speaker": "T",
+      "Sentence": "Tell me more about that",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts the student to elaborate and provide more detail about their thinking."
+    },
+    {
+      "ID": 1648,
+      "Turn": 63,
+      "Speaker": "T",
+      "Sentence": "I can follow your thinking however I still dont know that youve explained how you figured out four plus four where did you get four",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher pushes the student to provide a more complete explanation for a specific part of their reasoning."
+    },
+    {
+      "ID": 1649,
+      "Turn": 63,
+      "Speaker": "T",
+      "Sentence": "You keep telling me the denominator is a four but we dont add denominators",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher corrects a potential mathematical misconception and presses the student to be more precise in their explanation."
+    },
+    {
+      "ID": 1650,
+      "Turn": 63,
+      "Speaker": "T",
+      "Sentence": "Were talking about fourths",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to use more precise mathematical language ('fourths' instead of just 'four')."
+    },
+    {
+      "ID": 1651,
+      "Turn": 63,
+      "Speaker": "T",
+      "Sentence": "Tell me a little bit more about that",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher again prompts the student to elaborate on their thinking after a press for accuracy."
+    },
+    {
+      "ID": 1653,
+      "Turn": 65,
+      "Speaker": "T",
+      "Sentence": "Thank you thats what we were looking for",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1654,
+      "Turn": 65,
+      "Speaker": "T",
+      "Sentence": "What is one whole if we cut it into four parts",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a question to elicit a specific mathematical fact needed for the explanation."
+    },
+    {
+      "ID": 1655,
+      "Turn": 65,
+      "Speaker": "T",
+      "Sentence": "How many fourths would that be",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher rephrases the previous question to press for a specific mathematical contribution."
+    },
+    {
+      "ID": 1657,
+      "Turn": 67,
+      "Speaker": "T",
+      "Sentence": "Four",
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's one-word answer verbatim."
+    },
+    {
+      "ID": 1658,
+      "Turn": 67,
+      "Speaker": "T",
+      "Sentence": "Thats what you are missing my dear friend",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1659,
+      "Turn": 67,
+      "Speaker": "T",
+      "Sentence": "Fourfourths is one whole thing",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher takes the student's answer ('Four') and rephrases it as a complete mathematical statement, adding language and meaning."
+    },
+    {
+      "ID": 1660,
+      "Turn": 67,
+      "Speaker": "T",
+      "Sentence": "So if we have one whole thing here and one whole thing here that takes care of the two whole things",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1661,
+      "Turn": 67,
+      "Speaker": "T",
+      "Sentence": "We can add fourfourths plus another fourfourths and thats where Caleb got eight",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases and clarifies the student's (Caleb's) reasoning for the rest of the class, adding structure to the idea."
+    },
+    {
+      "ID": 1662,
+      "Turn": 67,
+      "Speaker": "T",
+      "Sentence": "We have eight fourths right now but are we done with all of our fourths",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a question to prompt students to assess the completeness of the mathematical procedure."
+    },
+    {
+      "ID": 1664,
+      "Turn": 69,
+      "Speaker": "T",
+      "Sentence": "We have another Okay",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1665,
+      "Turn": 69,
+      "Speaker": "T",
+      "Sentence": "We actually have how many total fourths",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students for the final mathematical answer."
+    },
+    {
+      "ID": 1666,
+      "Turn": 69,
+      "Speaker": "T",
+      "Sentence": "If we have fourfourths",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1668,
+      "Turn": 71,
+      "Speaker": "T",
+      "Sentence": "plus fourfourths and another fourth",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher scaffolds the final calculation, prompting students to make the final mathematical contribution."
+    },
+    {
+      "ID": 1670,
+      "Turn": 73,
+      "Speaker": "T",
+      "Sentence": "ninefourths",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher takes the student's answer ('Nine') and adds the correct mathematical unit ('fourths'), clarifying the contribution."
+    },
+    {
+      "ID": 1671,
+      "Turn": 73,
+      "Speaker": "T",
+      "Sentence": "We just took a mixed number and turned it into an improper fraction",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1672,
+      "Turn": 73,
+      "Speaker": "T",
+      "Sentence": "When your top number is bigger then your bottom number is called improper because its too heavy on top",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1673,
+      "Turn": 73,
+      "Speaker": "T",
+      "Sentence": "Okay",
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

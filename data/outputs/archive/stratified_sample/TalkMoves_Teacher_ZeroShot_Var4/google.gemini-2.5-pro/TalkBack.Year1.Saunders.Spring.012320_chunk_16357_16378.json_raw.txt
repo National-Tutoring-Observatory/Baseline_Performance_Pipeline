@@ -1,0 +1,156 @@
+{
+  "records": [
+    {
+      "ID": 16357,
+      "Turn": 22,
+      "Speaker": "T",
+      "Sentence": "Now youve got the xvalue of the",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16358,
+      "Turn": 22,
+      "Speaker": "T",
+      "Sentence": "If you have the xvalue how do you find the one",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to explain the process ('how do you find') for solving the problem."
+    },
+    {
+      "ID": 16359,
+      "Turn": 22,
+      "Speaker": "T",
+      "Sentence": "There you go",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16360,
+      "Turn": 23,
+      "Speaker": "T",
+      "Sentence": "Number four",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16361,
+      "Turn": 23,
+      "Speaker": "T",
+      "Sentence": "All right so if you want to  its all multiplied out",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16362,
+      "Turn": 23,
+      "Speaker": "T",
+      "Sentence": "Its all individual numbers theres no multiplication",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16363,
+      "Turn": 23,
+      "Speaker": "T",
+      "Sentence": "Right",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16364,
+      "Turn": 23,
+      "Speaker": "T",
+      "Sentence": "Theres no  If I asked you to multiply 2 x 3 x 4 how would you",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks a hypothetical question ('how would you') to prompt students to explain their thinking about a mathematical process."
+    },
+    {
+      "ID": 16365,
+      "Turn": 23,
+      "Speaker": "T",
+      "Sentence": "multiply 2 x 3 x 4",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16366,
+      "Turn": 23,
+      "Speaker": "T",
+      "Sentence": "Does it matter if I do that first and then multiply it by 10 or multiply those and then multiply that one",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to reason about a mathematical property ('Does it matter if...') to justify the order of operations."
+    },
+    {
+      "ID": 16368,
+      "Turn": 25,
+      "Speaker": "T",
+      "Sentence": "It still doesnt matter",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's idea ('No') by changing the wording to a full sentence, affirming their contribution."
+    },
+    {
+      "ID": 16369,
+      "Turn": 25,
+      "Speaker": "T",
+      "Sentence": "You just got to make sure you multiply them all",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16370,
+      "Turn": 25,
+      "Speaker": "T",
+      "Sentence": "Now what is the answer to this",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to provide a specific mathematical contribution, the final answer."
+    },
+    {
+      "ID": 16371,
+      "Turn": 25,
+      "Speaker": "T",
+      "Sentence": "Whats 2 x 3",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students for a specific mathematical contribution as part of a larger calculation."
+    },
+    {
+      "ID": 16373,
+      "Turn": 27,
+      "Speaker": "T",
+      "Sentence": "Times four",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts for the next step in the calculation, seeking an accurate mathematical contribution."
+    },
+    {
+      "ID": 16374,
+      "Turn": 29,
+      "Speaker": "T",
+      "Sentence": "All right",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16375,
+      "Turn": 29,
+      "Speaker": "T",
+      "Sentence": "Now what I dont know Trish is if what you were saying was do you have to multiply that times that and that times that",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats what they believe a student said, changing the wording to clarify the student's idea and check for understanding."
+    },
+    {
+      "ID": 16376,
+      "Turn": 30,
+      "Speaker": "T",
+      "Sentence": "They already did that",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16377,
+      "Turn": 30,
+      "Speaker": "T",
+      "Sentence": "You could multiply the two final  and then multiply",
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

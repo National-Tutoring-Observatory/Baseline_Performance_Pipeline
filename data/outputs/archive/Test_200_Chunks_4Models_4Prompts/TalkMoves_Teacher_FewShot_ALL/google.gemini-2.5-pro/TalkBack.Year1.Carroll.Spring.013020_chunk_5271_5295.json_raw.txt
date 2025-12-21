@@ -1,0 +1,95 @@
+{
+  "records": [
+    {
+      "ID": 5271,
+      "Turn": 43,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases a student's contribution to clarify the proposed mathematical action for the class."
+    },
+    {
+      "ID": 5272,
+      "Turn": 43,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5273,
+      "Turn": 43,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5274,
+      "Turn": 43,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to provide a specific and accurate mathematical description of the transformation's effect."
+    },
+    {
+      "ID": 5277,
+      "Turn": 46,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5283,
+      "Turn": 51,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5284,
+      "Turn": 51,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5285,
+      "Turn": 51,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5290,
+      "Turn": 55,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts a student to make a mathematical contribution by sharing what they wrote."
+    },
+    {
+      "ID": 5291,
+      "Turn": 55,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts the student to explain the thinking behind their answer."
+    },
+    {
+      "ID": 5292,
+      "Turn": 55,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats a student's idea, slightly rephrasing it to confirm and broadcast it to the class."
+    },
+    {
+      "ID": 5293,
+      "Turn": 55,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5294,
+      "Turn": 55,
+      "Speaker": "T",
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher prompts other students to evaluate their own ideas in relation to a classmate's contribution."
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "records": [
+    {
+      "ID": 1821,
+      "Turn": 139,
+      "Speaker": "T",
+      "Sentence": "Ready to start practicing",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1822,
+      "Turn": 140,
+      "Speaker": "T",
+      "Sentence": "Jeremy has a very important question for you all to hear can you repeat that very important question",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher directs the class's attention to a student's question to ensure everyone can hear it."
+    },
+    {
+      "ID": 1824,
+      "Turn": 142,
+      "Speaker": "T",
+      "Sentence": "If you write your mixed number your whole number with your fraction and this is bigger in value than this technically not the right way to do it",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1825,
+      "Turn": 142,
+      "Speaker": "T",
+      "Sentence": "For today if thats the only way you can get there Im going to let that slide but we have to really work hard at knowing if I have ninefifths thats more than one whole thing how many of those fifths does it take to make another whole thing",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a question that prompts students to provide a specific numerical value needed for the mathematical procedure."
+    },
+    {
+      "ID": 1827,
+      "Turn": 144,
+      "Speaker": "T",
+      "Sentence": "Five of them",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's answer ('Five') and adds the words 'of them' to clarify and complete the student's contribution."
+    },
+    {
+      "ID": 1828,
+      "Turn": 144,
+      "Speaker": "T",
+      "Sentence": "I could take those fivefifths out and bump it over to my whole number bump my whole number up one",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1829,
+      "Turn": 144,
+      "Speaker": "T",
+      "Sentence": "Its a lot like when youre adding normal numbers and you get to too many digits in the ones place you have to carry it over",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1830,
+      "Turn": 14

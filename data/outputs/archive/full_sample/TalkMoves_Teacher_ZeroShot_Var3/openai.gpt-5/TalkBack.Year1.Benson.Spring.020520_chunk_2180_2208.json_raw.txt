@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 2180,
+      "Speaker": "T",
+      "Turn": 2180,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2181,
+      "Speaker": "T",
+      "Turn": 2181,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Requests a student to compute 66 x 8, prompting a specific mathematical answer."
+    },
+    {
+      "ID": 2183,
+      "Speaker": "T",
+      "Turn": 2183,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks for the numerical result, prompting a precise value."
+    },
+    {
+      "ID": 2185,
+      "Speaker": "T",
+      "Turn": 2185,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2186,
+      "Speaker": "T",
+      "Turn": 2186,
+      "TalkMove": "Restating",
+      "Reasoning": "Repeats the student's answer word for word for the class."
+    },
+    {
+      "ID": 2187,
+      "Speaker": "T",
+      "Turn": 2187,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2188,
+      "Speaker": "T",
+      "Turn": 2188,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2189,
+      "Speaker": "T",
+      "Turn": 2189,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Asks students what to start with, eliciting their plan or strategy."
+    },
+    {
+      "ID": 2190,
+      "Speaker": "T",
+      "Turn": 2190,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Prompts students to describe the method to find the answer."
+    },
+    {
+      "ID": 2191,
+      "Speaker": "T",
+      "Turn": 2191,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2192,
+      "Speaker": "T",
+      "Turn": 2192,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Asks how to find the total or difference, eliciting strategy."
+    },
+    {
+      "ID": 2194,
+      "Speaker": "T",
+      "Turn": 2194,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Asks what to begin with to solve the problem, eliciting approach."
+    },
+    {
+      "ID": 2196,
+      "Speaker": "T",
+      "Turn": 2196,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2198,
+      "Speaker": "T",
+      "Turn": 2198,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2199,
+      "Speaker": "T",
+      "Turn": 2199,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2201,
+      "Speaker": "T",
+      "Turn": 2201,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Requests the exact difference, prompting a specific numerical answer."
+    },
+    {
+      "ID": 2202,
+      "Speaker": "T",
+      "Turn": 2202,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2204,
+      "Speaker": "T",
+      "Turn": 2204,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2206,
+      "Speaker": "T",
+      "Turn": 2206,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Directs a student to state the answer explicitly."
+    },
+    {
+      "ID": 2208,
+      "Speaker": "T",
+      "Turn": 2208,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher restates a student's answer, adding context about what the number represents."
+    }
+  ]
+}

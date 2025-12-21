@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 20526,
+      "Speaker": "T",
+      "Turn": 20526,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20527,
+      "Speaker": "T",
+      "Turn": 20527,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a specific calculation question ('What would 2^3 be'), prompting students for a precise mathematical answer."
+    },
+    {
+      "ID": 20529,
+      "Speaker": "T",
+      "Turn": 20529,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the correct answer ('Eight') that a student likely provided."
+    },
+    {
+      "ID": 20530,
+      "Speaker": "T",
+      "Turn": 20530,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts for the next calculation ('3^3')."
+    },
+    {
+      "ID": 20532,
+      "Speaker": "T",
+      "Turn": 20532,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts for the next calculation ('4^3')."
+    },
+    {
+      "ID": 20536,
+      "Speaker": "T",
+      "Turn": 20536,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher breaks down the calculation ('Four times four you have') to help students arrive at the answer."
+    },
+    {
+      "ID": 20538,
+      "Speaker": "T",
+      "Turn": 20538,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher continues guiding the calculation ('Times four')."
+    },
+    {
+      "ID": 20539,
+      "Speaker": "T",
+      "Turn": 20539,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20542,
+      "Speaker": "T",
+      "Turn": 20542,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20543,
+      "Speaker": "T",
+      "Turn": 20543,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20544,
+      "Speaker": "T",
+      "Turn": 20544,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20545,
+      "Speaker": "T",
+      "Turn": 20545,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for a specific calculation ('Whats 5^3')."
+    },
+    {
+      "ID": 20547,
+      "Speaker": "T",
+      "Turn": 20547,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's answer ('125')."
+    },
+    {
+      "ID": 20548,
+      "Speaker": "T",
+      "Turn": 20548,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20550,
+      "Speaker": "T",
+      "Turn": 20550,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20551,
+      "Speaker": "T",
+      "Turn": 20551,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20552,
+      "Speaker": "T",
+      "Turn": 20552,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20553,
+      "Speaker": "T",
+      "Turn": 20553,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20557,
+      "Speaker": "T",
+      "Turn": 20557,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20558,
+      "Speaker": "T",
+      "Turn": 20558,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

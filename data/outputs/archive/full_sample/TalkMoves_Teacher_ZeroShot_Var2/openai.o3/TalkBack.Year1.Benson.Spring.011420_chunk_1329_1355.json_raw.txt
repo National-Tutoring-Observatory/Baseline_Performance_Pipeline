@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 1329,
+      "Speaker": "T",
+      "Turn": 1329,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1330,
+      "Speaker": "T",
+      "Turn": 1330,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1332,
+      "Speaker": "T",
+      "Turn": 1332,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1333,
+      "Speaker": "T",
+      "Turn": 1333,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1338,
+      "Speaker": "T",
+      "Turn": 1338,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1339,
+      "Speaker": "T",
+      "Turn": 1339,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1340,
+      "Speaker": "T",
+      "Turn": 1340,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1341,
+      "Speaker": "T",
+      "Turn": 1341,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks Max to specify the exact ‘whole’ being discussed, prompting precise mathematical identification."
+    },
+    {
+      "ID": 1342,
+      "Speaker": "T",
+      "Turn": 1342,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1343,
+      "Speaker": "T",
+      "Turn": 1343,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher repeats the idea of one can of paint and adds clarification about splitting it into parts."
+    },
+    {
+      "ID": 1344,
+      "Speaker": "T",
+      "Turn": 1344,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher summarizes the previously stated amounts of paint used, restating the scenario for the class."
+    },
+    {
+      "ID": 1345,
+      "Speaker": "T",
+      "Turn": 1345,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1346,
+      "Speaker": "T",
+      "Turn": 1346,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher asks if anyone drew pictures, inviting students to share their representational reasoning."
+    },
+    {
+      "ID": 1347,
+      "Speaker": "T",
+      "Turn": 1347,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher prompts Quinn to explain the drawing used to solve the problem, asking for explanation of thinking."
+    },
+    {
+      "ID": 1348,
+      "Speaker": "T",
+      "Turn": 1348,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher restates Quinn’s idea about four cans of paint, using her own wording to capture the student’s contribution."
+    },
+    {
+      "ID": 1350,
+      "Speaker": "T",
+      "Turn": 1350,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher echoes and labels part of the student’s diagram as representing Ryan."
+    },
+    {
+      "ID": 1352,
+      "Speaker": "T",
+      "Turn": 1352,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher restates and labels the remaining parts of the diagram as belonging to each sister."
+    },
+    {
+      "ID": 1353,
+      "Speaker": "T",
+      "Turn": 1353,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks whether they are adding whole things, seeking precise conceptual clarification."
+    },
+    {
+      "ID": 1354,
+      "Speaker": "T",
+      "Turn": 1354,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher refines the previous question, focusing on whether they are adding entire cans of paint."
+    },
+    {
+      "ID": 1355,
+      "Speaker": "T",
+      "Turn": 1355,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks for the exact number of whole cans used, prompting a precise numerical answer."
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 11254,
+      "Speaker": "T",
+      "Turn": 11254,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 11255,
+      "Speaker": "T",
+      "Turn": 11255,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 11256,
+      "Speaker": "T",
+      "Turn": 11256,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 11257,
+      "Speaker": "T",
+      "Turn": 11257,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to explain the difference between the current lesson and the previous one, prompting them to analyze and compare."
+    },
+    {
+      "ID": 11258,
+      "Speaker": "T",
+      "Turn": 11258,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 11259,
+      "Speaker": "T",
+      "Turn": 11259,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 11260,
+      "Speaker": "T",
+      "Turn": 11260,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 11261,
+      "Speaker": "T",
+      "Turn": 11261,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 11262,
+      "Speaker": "T",
+      "Turn": 11262,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 11264,
+      "Speaker": "T",
+      "Turn": 11264,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 11265,
+      "Speaker": "T",
+      "Turn": 11265,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher repeats the prompt for students to explain the difference between the new lesson and the previous one, requiring them to reason about the content."
+    },
+    {
+      "ID": 11266,
+      "Speaker": "T",
+      "Turn": 11266,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 11267,
+      "Speaker": "T",
+      "Turn": 11267,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 11268,
+      "Speaker": "T",
+      "Turn": 11268,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts a specific student to explain how the new lesson is different, asking for her reasoning."
+    },
+    {
+      "ID": 11270,
+      "Speaker": "T",
+      "Turn": 11270,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher interprets the student's contribution as describing past work (\"That's what we've been doing\") and then uses that interpretation to refocus the question on the new topic."
+    },
+    {
+      "ID": 11271,
+      "Speaker": "T",
+      "Turn": 11271,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 11273,
+      "Speaker": "T",
+      "Turn": 11273,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher confirms a student's correct idea and rephrases it for the class, clarifying the new learning objective."
+    },
+    {
+      "ID": 11274,
+      "Speaker": "T",
+      "Turn": 11274,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher polls the class to see who shared the same idea, thereby orienting students to a common understanding."
+    },
+    {
+      "ID": 11275,
+      "Speaker": "T",
+      "Turn": 11275,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 11276,
+      "Speaker": "T",
+      "Turn": 11276,
+      "TalkMove": "None",
+      "Reasoning": null
+    }
+  ]
+}

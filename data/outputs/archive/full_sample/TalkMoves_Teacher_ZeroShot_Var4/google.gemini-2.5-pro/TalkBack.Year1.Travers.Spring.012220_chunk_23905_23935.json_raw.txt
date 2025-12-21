@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 23905,
+      "Speaker": "T",
+      "Turn": 23905,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23906,
+      "Speaker": "T",
+      "Turn": 23906,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks a student to share their thinking process."
+    },
+    {
+      "ID": 23908,
+      "Speaker": "T",
+      "Turn": 23908,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to provide a reason for their previous statement."
+    },
+    {
+      "ID": 23913,
+      "Speaker": "T",
+      "Turn": 23913,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher restates a student's action and prompts them to explain the reasoning behind it by ending with 'because'."
+    },
+    {
+      "ID": 23916,
+      "Speaker": "T",
+      "Turn": 23916,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases the student's contribution and connects it to the lesson's learning intention, adding new context."
+    },
+    {
+      "ID": 23917,
+      "Speaker": "T",
+      "Turn": 23917,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher directs all students to engage in a shared cognitive task, ensuring the whole class is participating."
+    },
+    {
+      "ID": 23918,
+      "Speaker": "T",
+      "Turn": 23918,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher asks the class to evaluate whether a specific student's idea meets the lesson's criteria, prompting them to engage with that student's contribution."
+    },
+    {
+      "ID": 23919,
+      "Speaker": "T",
+      "Turn": 23919,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to explain the process or evidence behind their previous affirmative answer."
+    },
+    {
+      "ID": 23920,
+      "Speaker": "T",
+      "Turn": 23920,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23922,
+      "Speaker": "T",
+      "Turn": 23922,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23923,
+      "Speaker": "T",
+      "Turn": 23923,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23925,
+      "Speaker": "T",
+      "Turn": 23925,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23926,
+      "Speaker": "T",
+      "Turn": 23926,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23927,
+      "Speaker": "T",
+      "Turn": 23927,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher directs the whole class to focus their attention on a key mathematical concept being presented."
+    },
+    {
+      "ID": 23929,
+      "Speaker": "T",
+      "Turn": 23929,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher explicitly asks the class to provide feedback and comments on a student's (Avery's) contribution."
+    },
+    {
+      "ID": 23930,
+      "Speaker": "T",
+      "Turn": 23930,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23931,
+      "Speaker": "T",
+      "Turn": 23931,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23932,
+      "Speaker": "T",
+      "Turn": 23932,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23933,
+      "Speaker": "T",
+      "Turn": 23933,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher explicitly asks one student (Elijah) to share his thoughts on another student's (Avery's) solution method."
+    },
+    {
+      "ID": 23935,
+      "Speaker": "T",
+      "Turn": 23935,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher summarizes and rephrases a student's description of another student's strategy, clarifying the key mathematical steps."
+    }
+  ]
+}

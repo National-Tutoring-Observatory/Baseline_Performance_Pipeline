@@ -1,0 +1,212 @@
+{
+  "records": [
+    {
+      "ID": 313,
+      "Turn": 150,
+      "Speaker": "T",
+      "Sentence": "What is 30 times 7",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 314,
+      "Turn": 150,
+      "Speaker": "T",
+      "Sentence": "David",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 316,
+      "Turn": 152,
+      "Speaker": "T",
+      "Sentence": "I have more multiplication problems to solve",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 317,
+      "Turn": 152,
+      "Speaker": "T",
+      "Sentence": "What is 4 times 10",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 319,
+      "Turn": 154,
+      "Speaker": "T",
+      "Sentence": "Joel",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 321,
+      "Turn": 156,
+      "Speaker": "T",
+      "Sentence": "40 and then whats the multiplication problem for this last box",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 322,
+      "Turn": 156,
+      "Speaker": "T",
+      "Sentence": "Josh",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 324,
+      "Turn": 158,
+      "Speaker": "T",
+      "Sentence": "7 times 4 which is",
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's exact words, '7 times 4', to hold the contribution for consideration and prompt for the next step."
+    },
+    {
+      "ID": 326,
+      "Turn": 160,
+      "Speaker": "T",
+      "Sentence": "Just 28 because there are no extra zeros just 28",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 327,
+      "Turn": 160,
+      "Speaker": "T",
+      "Sentence": "Now Im going to add up all these products small products that I got in the middle of my boxes Im going to add all those together",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 328,
+      "Turn": 160,
+      "Speaker": "T",
+      "Sentence": "I have to do 3002104028",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 329,
+      "Turn": 160,
+      "Speaker": "T",
+      "Sentence": "Is this going to be really important for you to line up your places properly",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to affirm a critical procedural step (lining up place values) necessary for mathematical accuracy."
+    },
+    {
+      "ID": 331,
+      "Turn": 162,
+      "Speaker": "T",
+      "Sentence": "Yes make sure all your ones are lined up all your tens are lined up all your 100 are lined up",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 332,
+      "Turn": 162,
+      "Speaker": "T",
+      "Sentence": "Im going to let you solve that real quick",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 333,
+      "Turn": 162,
+      "Speaker": "T",
+      "Sentence": "Thumbs up when you have the",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 334,
+      "Turn": 163,
+      "Speaker": "T",
+      "Sentence": "Brant what did you get",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 336,
+      "Turn": 165,
+      "Speaker": "T",
+      "Sentence": "578 anyone get something different",
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher shares one student's answer and then explicitly asks other students to compare their own answers to it."
+    },
+    {
+      "ID": 337,
+      "Turn": 165,
+      "Speaker": "T",
+      "Sentence": "Joel what did you get",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 340,
+      "Turn": 169,
+      "Speaker": "T",
+      "Sentence": "You see what you got",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases the student's realization ('Oh I see that') to confirm the student's self-correction."
+    },
+    {
+      "ID": 341,
+      "Turn": 169,
+      "Speaker": "T",
+      "Sentence": "Everyone else got 578",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher polls the class to check for consensus and ensure the group is on the same page before proceeding."
+    },
+    {
+      "ID": 343,
+      "Turn": 171,
+      "Speaker": "T",
+      "Sentence": "Go to the next box over",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 344,
+      "Turn": 171,
+      "Speaker": "T",
+      "Sentence": "Were going to write this problem as 34 times 17",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 345,
+      "Turn": 171,
+      "Speaker": "T",
+      "Sentence": "I want you to get used to going Oh yes oh yes oh yes oh yes",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 346,
+      "Turn": 171,
+      "Speaker": "T",
+      "Sentence": "The reason why Im having you go here and here is because you have to multiply all the values times each other and it looks like this",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 347,
+      "Turn": 171,
+      "Speaker": "T",
+      "Sentence": "Ill show you what I mean",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 348,
+      "Turn": 171,
+      "Speaker": "T",
+      "Sentence": "What is the value of these three right here",
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

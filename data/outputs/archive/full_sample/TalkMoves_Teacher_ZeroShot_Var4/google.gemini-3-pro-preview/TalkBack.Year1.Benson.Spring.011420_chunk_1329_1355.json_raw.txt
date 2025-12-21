@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 1329,
+      "Speaker": "T",
+      "Turn": 1329,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1330,
+      "Speaker": "T",
+      "Turn": 1330,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1332,
+      "Speaker": "T",
+      "Turn": 1332,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1333,
+      "Speaker": "T",
+      "Turn": 1333,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1338,
+      "Speaker": "T",
+      "Turn": 1338,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1339,
+      "Speaker": "T",
+      "Turn": 1339,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1340,
+      "Speaker": "T",
+      "Turn": 1340,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1341,
+      "Speaker": "T",
+      "Turn": 1341,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts a student to recall and state a specific mathematical definition or concept established earlier regarding the 'whole'."
+    },
+    {
+      "ID": 1342,
+      "Speaker": "T",
+      "Turn": 1342,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1343,
+      "Speaker": "T",
+      "Turn": 1343,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1344,
+      "Speaker": "T",
+      "Turn": 1344,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1345,
+      "Speaker": "T",
+      "Turn": 1345,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1346,
+      "Speaker": "T",
+      "Turn": 1346,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1347,
+      "Speaker": "T",
+      "Turn": 1347,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher explicitly prompts the student to explain their representation and the thinking behind their drawing."
+    },
+    {
+      "ID": 1348,
+      "Speaker": "T",
+      "Turn": 1348,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher summarizes and verbalizes the student's visual representation for the class."
+    },
+    {
+      "ID": 1350,
+      "Speaker": "T",
+      "Turn": 1350,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher articulates a specific label from the student's drawing, broadcasting the student's idea."
+    },
+    {
+      "ID": 1352,
+      "Speaker": "T",
+      "Turn": 1352,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher continues to interpret and verbalize the student's diagram, adding wording to clarify the representation."
+    },
+    {
+      "ID": 1353,
+      "Speaker": "T",
+      "Turn": 1353,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks a question that prompts the student to connect their representation to the mathematical concept of the unit, challenging the validity of the model."
+    },
+    {
+      "ID": 1354,
+      "Speaker": "T",
+      "Turn": 1354,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher rephrases the previous prompt, continuing to press the student to justify the use of 'whole cans' in their model."
+    },
+    {
+      "ID": 1355,
+      "Speaker": "T",
+      "Turn": 1355,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to retrieve a specific fact from the problem statement to correct their mathematical thinking."
+    }
+  ]
+}

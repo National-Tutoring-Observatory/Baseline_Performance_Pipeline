@@ -1,0 +1,95 @@
+{
+  "records": [
+    {
+      "ID": 2829,
+      "Turn": 1,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2830,
+      "Turn": 1,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2831,
+      "Turn": 1,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts a student to make a specific mathematical contribution by stating their answer."
+    },
+    {
+      "ID": 2833,
+      "Turn": 3,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to evaluate the correctness of a representation, which requires them to access their reasoning about decimal equivalency."
+    },
+    {
+      "ID": 2835,
+      "Turn": 5,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher continues to probe student understanding by asking for an evaluation of another mathematical representation, pushing them to apply their reasoning."
+    },
+    {
+      "ID": 2837,
+      "Turn": 7,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher repeats the prompt with a new representation to press students to consider the underlying mathematical principles of equivalent decimals."
+    },
+    {
+      "ID": 2839,
+      "Turn": 9,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2840,
+      "Turn": 9,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2841,
+      "Turn": 9,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2842,
+      "Turn": 9,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2843,
+      "Turn": 9,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2844,
+      "Turn": 9,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2845,
+      "Turn": 9,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts a student to make a specific mathematical contribution by stating their answer."
+    }
+  ]
+}

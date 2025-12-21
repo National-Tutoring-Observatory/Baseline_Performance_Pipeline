@@ -1,0 +1,74 @@
+{
+  "records": [
+    {
+      "ID": 6165,
+      "Speaker": "T",
+      "Turn": 27,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 6167,
+      "Speaker": "T",
+      "Turn": 29,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's term 'several' with modified wording to highlight and focus attention on it."
+    },
+    {
+      "ID": 6169,
+      "Speaker": "T",
+      "Turn": 31,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 6171,
+      "Speaker": "T",
+      "Turn": 33,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to focus on the precise mathematical question 'How many more,' encouraging correct language."
+    },
+    {
+      "ID": 6177,
+      "Speaker": "T",
+      "Turn": 36,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher reiterates the specific mathematical prompt 'How many more' to elicit a precise contribution."
+    },
+    {
+      "ID": 6178,
+      "Speaker": "T",
+      "Turn": 36,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 6180,
+      "Speaker": "T",
+      "Turn": 38,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 6183,
+      "Speaker": "T",
+      "Turn": 40,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 6185,
+      "Speaker": "T",
+      "Turn": 42,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 6186,
+      "Speaker": "T",
+      "Turn": 42,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to share what their team discussed, prompting explanation of their ideas."
+    }
+  ]
+}

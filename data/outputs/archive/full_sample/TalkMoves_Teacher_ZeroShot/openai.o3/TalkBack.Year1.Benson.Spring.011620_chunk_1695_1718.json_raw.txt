@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 1695,
+      "Speaker": "T",
+      "Turn": 1695,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1696,
+      "Speaker": "T",
+      "Turn": 1696,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1697,
+      "Speaker": "T",
+      "Turn": 1697,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1698,
+      "Speaker": "T",
+      "Turn": 1698,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks Zach to state exactly how many whole tubs there are, eliciting a precise numerical answer."
+    },
+    {
+      "ID": 1700,
+      "Speaker": "T",
+      "Turn": 1700,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's response \"Two\" for the class."
+    },
+    {
+      "ID": 1701,
+      "Speaker": "T",
+      "Turn": 1701,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to supply the exact fraction that is being added."
+    },
+    {
+      "ID": 1703,
+      "Speaker": "T",
+      "Turn": 1703,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the fraction \"three-fifths\" stated by a student."
+    },
+    {
+      "ID": 1704,
+      "Speaker": "T",
+      "Turn": 1704,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1705,
+      "Speaker": "T",
+      "Turn": 1705,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1706,
+      "Speaker": "T",
+      "Turn": 1706,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the exact fractional part of the next tub, seeking a precise mathematical contribution."
+    },
+    {
+      "ID": 1707,
+      "Speaker": "T",
+      "Turn": 1707,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher again prompts students to supply the specific fraction."
+    },
+    {
+      "ID": 1709,
+      "Speaker": "T",
+      "Turn": 1709,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher restates the student-supplied answer \"another fifth.\""
+    },
+    {
+      "ID": 1710,
+      "Speaker": "T",
+      "Turn": 1710,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases the idea \"another fifth\" as \"one more fifth,\" altering wording while keeping meaning."
+    },
+    {
+      "ID": 1711,
+      "Speaker": "T",
+      "Turn": 1711,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1712,
+      "Speaker": "T",
+      "Turn": 1712,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1713,
+      "Speaker": "T",
+      "Turn": 1713,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks what they could start with to solve the problem, prompting students to propose and justify a strategy."
+    },
+    {
+      "ID": 1714,
+      "Speaker": "T",
+      "Turn": 1714,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher directs the reasoning prompt to Elizabeth, again asking for an explanatory strategy."
+    },
+    {
+      "ID": 1716,
+      "Speaker": "T",
+      "Turn": 1716,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats Elizabeth’s idea about starting with the whole numbers."
+    },
+    {
+      "ID": 1717,
+      "Speaker": "T",
+      "Turn": 1717,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher expands on the student’s idea by stating the specific whole numbers involved, adding detail."
+    },
+    {
+      "ID": 1718,
+      "Speaker": "T",
+      "Turn": 1718,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the exact total number of whole tubs, prompting a precise numerical answer."
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "records": [
+    {
+      "ID": 11695,
+      "Speaker": "T",
+      "Turn": 239,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11696,
+      "Speaker": "T",
+      "Turn": 239,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to think about whether to repeat a previous action, prompting them to consider the reasoning for their next step."
+    },
+    {
+      "ID": 11697,
+      "Speaker": "S",
+      "Turn": 240
+    },
+    {
+      "ID": 11698,
+      "Speaker": "T",
+      "Turn": 241,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's one-word answer verbatim."
+    },
+    {
+      "ID": 11699,
+      "Speaker": "T",
+      "Turn": 241,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks for the thinking behind the 'No' answer by prompting students to recall a key detail from the problem."
+    },
+    {
+      "ID": 11700,
+      "Speaker": "S",
+      "Turn": 242
+    },
+    {
+      "ID": 11701,
+      "Speaker": "T",
+      "Turn": 243,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to make a specific mathematical contribution (the number of parts)."
+    },
+    {
+      "ID": 11702,
+      "Speaker": "T",
+      "Turn": 243,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11703,
+      "Speaker": "T",
+      "Turn": 243,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher verbalizes and clarifies a student's action or idea, putting it into the shared space for the class."
+    },
+    {
+      "ID": 11704,
+      "Speaker": "T",
+      "Turn": 243,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the idea of folding into three parts but adds the precise mathematical language 'equal parts' to refine the contribution."
+    },
+    {
+      "ID": 11705,
+      "Speaker": "T",
+      "Turn": 244,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher repeats and emphasizes a key mathematical term to highlight its importance."
+    },
+    {
+      "ID": 11706,
+      "Speaker": "T",
+      "Turn": 245,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11707,
+      "Speaker": "T",
+      "Turn": 245,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher polls the class to check if they have all completed the step,

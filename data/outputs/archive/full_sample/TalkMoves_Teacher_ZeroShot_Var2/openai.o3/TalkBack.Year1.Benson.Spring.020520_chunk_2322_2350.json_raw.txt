@@ -1,0 +1,137 @@
+{
+  "records": [
+    {
+      "ID": 2322,
+      "Speaker": "T",
+      "Turn": 2322,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks Lillian to explain how her estimate differs, prompting her to articulate her thinking."
+    },
+    {
+      "ID": 2324,
+      "Speaker": "T",
+      "Turn": 2324,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student’s numerical expression exactly (‘5 x 8’)."
+    },
+    {
+      "ID": 2325,
+      "Speaker": "T",
+      "Turn": 2325,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks where the number five came from, requesting the student’s reasoning."
+    },
+    {
+      "ID": 2327,
+      "Speaker": "T",
+      "Turn": 2327,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher reformulates the student’s idea about rounding three to five, adding explanatory language."
+    },
+    {
+      "ID": 2329,
+      "Speaker": "T",
+      "Turn": 2329,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher restates—using her own words—that the student rounded six to five."
+    },
+    {
+      "ID": 2331,
+      "Speaker": "T",
+      "Turn": 2331,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "By asking whether the student then multiplied by 18, the teacher presses for confirmation of the specific mathematical step."
+    },
+    {
+      "ID": 2334,
+      "Speaker": "T",
+      "Turn": 2334,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks if adding 600 and 240 produced a similar number, prompting the student to check and state a precise result."
+    },
+    {
+      "ID": 2336,
+      "Speaker": "T",
+      "Turn": 2336,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2337,
+      "Speaker": "T",
+      "Turn": 2337,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2338,
+      "Speaker": "T",
+      "Turn": 2338,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2339,
+      "Speaker": "T",
+      "Turn": 2339,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher invites Jasper to describe his different method, asking for his thinking."
+    },
+    {
+      "ID": 2340,
+      "Speaker": "T",
+      "Turn": 2340,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2341,
+      "Speaker": "T",
+      "Turn": 2341,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher queries whether Jasper merely changed the order, prompting him to explain his approach."
+    },
+    {
+      "ID": 2342,
+      "Speaker": "T",
+      "Turn": 2342,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2344,
+      "Speaker": "T",
+      "Turn": 2344,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2346,
+      "Speaker": "T",
+      "Turn": 2346,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2347,
+      "Speaker": "T",
+      "Turn": 2347,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2349,
+      "Speaker": "T",
+      "Turn": 2349,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2350,
+      "Speaker": "T",
+      "Turn": 2350,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "records": [
+    {
+      "ID": 8785,
+      "Speaker": "T",
+      "Turn": 148,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks students to state the first number in order, seeking a specific mathematical response."
+    },
+    {
+      "ID": 8786,
+      "Speaker": "T",
+      "Turn": 148,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Urges students to show (produce) the correct first factor, focusing on the mathematical content."
+    },
+    {
+      "ID": 8787,
+      "Speaker": "T",
+      "Turn": 148,
+      "TalkMove": "Restating",
+      "Reasoning": "Repeats the student-supplied answer 'number one' almost verbatim, confirming it."
+    },
+    {
+      "ID": 8788,
+      "Speaker": "T",
+      "Turn": 148,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks a yes/no question about a mathematical fact to verify correctness."
+    },
+    {
+      "ID": 8790,
+      "Speaker": "T",
+      "Turn": 150,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8791,
+      "Speaker": "T",
+      "Turn": 150,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Requests the specific next number in the sequence of factors."
+    },
+    {
+      "ID": 8792,
+      "Speaker": "T",
+      "Turn": 150,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Asks students to justify why 2 is the next number, eliciting their reasoning."
+    },
+    {
+      "ID": 8793,
+      "Speaker": "T",
+      "Turn": 150,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Repeats prompt for an explanation, continuing to seek students’ reasoning."
+    },
+    {
+      "ID": 8794,
+      "Speaker": "T",
+      "Turn": 150,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Encourages students to think about and articulate their reasoning."
+    },
+    {
+      "ID": 8795,
+      "Speaker": "T",
+      "Turn": 150,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Directs students to discuss with partners, orienting them toward each other’s ideas."
+    },
+    {
+      "ID": 8796,
+      "Speaker": "T",
+      "Turn": 150,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8800,
+      "Speaker": "T",
+      "Turn": 152,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Asks students to explain why 2 is a factor of 36, soliciting justification."
+    },
+    {
+      "ID": 8801,
+      "Speaker": "T",
+      "Turn": 152,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8803,
+      "Speaker": "T",
+      "Turn": 154,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "References a student’s explanation (Jackson’s) to connect current contribution to a peer’s idea."
+    },
+    {
+      "ID": 8804,
+      "Speaker": "T",
+      "Turn": 154,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "Invites others to provide a different explanation, prompting comparison to the prior idea."
+    },
+    {
+      "ID": 8805,
+      "Speaker": "T",
+      "Turn": 154,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

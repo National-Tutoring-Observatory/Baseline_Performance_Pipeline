@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 664,
+      "Speaker": "T",
+      "Turn": 664,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 665,
+      "Speaker": "T",
+      "Turn": 665,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 667,
+      "Speaker": "T",
+      "Turn": 667,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 668,
+      "Speaker": "T",
+      "Turn": 668,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 670,
+      "Speaker": "T",
+      "Turn": 670,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 671,
+      "Speaker": "T",
+      "Turn": 671,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher checks that all students have their materials, orienting everyone before moving on."
+    },
+    {
+      "ID": 673,
+      "Speaker": "T",
+      "Turn": 673,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Asks students to determine how many one-fourth pieces make a whole, requiring them to reason about fractions."
+    },
+    {
+      "ID": 674,
+      "Speaker": "T",
+      "Turn": 674,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Requests students to show their numeric answer, prompting a specific mathematical contribution."
+    },
+    {
+      "ID": 675,
+      "Speaker": "T",
+      "Turn": 675,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the students’ answer \"four\" verbatim multiple times."
+    },
+    {
+      "ID": 676,
+      "Speaker": "T",
+      "Turn": 676,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Builds on the students’ answer by counting out each of the four pieces, elaborating their idea."
+    },
+    {
+      "ID": 677,
+      "Speaker": "T",
+      "Turn": 677,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks students to classify whether the new fraction piece represents more or less, eliciting a precise comparison."
+    },
+    {
+      "ID": 679,
+      "Speaker": "T",
+      "Turn": 679,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Follows up with \"why is it less,\" prompting students to justify their comparison."
+    },
+    {
+      "ID": 680,
+      "Speaker": "T",
+      "Turn": 680,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Directly asks a student to explain why one-fourth is less than one-third, seeking underlying reasoning."
+    },
+    {
+      "ID": 682,
+      "Speaker": "T",
+      "Turn": 682,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Restates and elaborates on the student’s explanation by describing the missing space when pieces are overlaid."
+    },
+    {
+      "ID": 683,
+      "Speaker": "T",
+      "Turn": 683,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 684,
+      "Speaker": "T",
+      "Turn": 684,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks what shape would represent the whole, eliciting a specific mathematical identification."
+    },
+    {
+      "ID": 685,
+      "Speaker": "T",
+      "Turn": 685,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Rephrases the question about which piece would complete the whole, again seeking a precise answer."
+    },
+    {
+      "ID": 686,
+      "Speaker": "T",
+      "Turn": 686,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 687,
+      "Speaker": "T",
+      "Turn": 687,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 688,
+      "Speaker": "T",
+      "Turn": 688,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Checks if the orange piece correctly represents the whole, prompting a yes/no accuracy judgment."
+    }
+  ]
+}

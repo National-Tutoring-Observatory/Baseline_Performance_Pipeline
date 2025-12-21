@@ -1,0 +1,53 @@
+{
+  "records": [
+    {
+      "ID": 3195,
+      "Speaker": "T",
+      "Turn": 1,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3197,
+      "Speaker": "T",
+      "Turn": 3,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher checks that everyone has the note sheet, orienting the class so all can follow along together."
+    },
+    {
+      "ID": 3199,
+      "Speaker": "T",
+      "Turn": 5,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3200,
+      "Speaker": "T",
+      "Turn": 5,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher directs the class to focus on 'the first one' and square A, orienting everyone to the same part of the task."
+    },
+    {
+      "ID": 3201,
+      "Speaker": "T",
+      "Turn": 5,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks what square A represents, prompting students to identify it using appropriate mathematical language."
+    },
+    {
+      "ID": 3204,
+      "Speaker": "T",
+      "Turn": 8,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher refocuses the group on 'the first one,' keeping the class coordinated on the same item."
+    },
+    {
+      "ID": 3205,
+      "Speaker": "T",
+      "Turn": 9,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "By listing 'one, ten, a hundred,' the teacher provides mathematical categories and prompts students to select/apply the correct term."
+    }
+  ]
+}

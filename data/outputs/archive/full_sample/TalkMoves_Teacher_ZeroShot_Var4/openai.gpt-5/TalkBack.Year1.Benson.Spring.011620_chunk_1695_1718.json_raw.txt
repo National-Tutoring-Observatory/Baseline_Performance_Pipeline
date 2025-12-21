@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 1695,
+      "Speaker": "T",
+      "Turn": 1695,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1696,
+      "Speaker": "T",
+      "Turn": 1696,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1697,
+      "Speaker": "T",
+      "Turn": 1697,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1698,
+      "Speaker": "T",
+      "Turn": 1698,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks for the number of whole tubs, prompting a specific mathematical value."
+    },
+    {
+      "ID": 1700,
+      "Speaker": "T",
+      "Turn": 1700,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Rephrases the student's answer by adding wording ('of them') to confirm the quantity."
+    },
+    {
+      "ID": 1701,
+      "Speaker": "T",
+      "Turn": 1701,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Prompts students to name the fraction being added."
+    },
+    {
+      "ID": 1703,
+      "Speaker": "T",
+      "Turn": 1703,
+      "TalkMove": "Restating",
+      "Reasoning": "Repeats the student's fraction word-for-word."
+    },
+    {
+      "ID": 1704,
+      "Speaker": "T",
+      "Turn": 1704,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1705,
+      "Speaker": "T",
+      "Turn": 1705,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1706,
+      "Speaker": "T",
+      "Turn": 1706,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Prompts for how many parts of the next tub are included (the fractional amount)."
+    },
+    {
+      "ID": 1707,
+      "Speaker": "T",
+      "Turn": 1707,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks students to state the fraction explicitly."
+    },
+    {
+      "ID": 1709,
+      "Speaker": "T",
+      "Turn": 1709,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Rephrases the student's fraction as 'another fifth' to connect to the context."
+    },
+    {
+      "ID": 1710,
+      "Speaker": "T",
+      "Turn": 1710,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Changes the wording to 'one more fifth' to clarify the idea."
+    },
+    {
+      "ID": 1711,
+      "Speaker": "T",
+      "Turn": 1711,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1712,
+      "Speaker": "T",
+      "Turn": 1712,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1713,
+      "Speaker": "T",
+      "Turn": 1713,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Invites students to propose a starting strategy and explain their approach."
+    },
+    {
+      "ID": 1714,
+      "Speaker": "T",
+      "Turn": 1714,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Directs a student to suggest how to start solving, prompting strategy and thinking."
+    },
+    {
+      "ID": 1716,
+      "Speaker": "T",
+      "Turn": 1716,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Paraphrases the student's idea as starting with the whole numbers."
+    },
+    {
+      "ID": 1717,
+      "Speaker": "T",
+      "Turn": 1717,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1718,
+      "Speaker": "T",
+      "Turn": 1718,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Requests the total count of whole tubs."
+    }
+  ]
+}

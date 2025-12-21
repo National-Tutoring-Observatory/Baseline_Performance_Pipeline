@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 462,
+      "Speaker": "T",
+      "Turn": 462,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for a specific factor to multiply 2 by to get 6, eliciting a precise mathematical value."
+    },
+    {
+      "ID": 464,
+      "Speaker": "T",
+      "Turn": 464,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 467,
+      "Speaker": "T",
+      "Turn": 467,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 468,
+      "Speaker": "T",
+      "Turn": 468,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher requests the exact number 4 was multiplied by to get 12, prompting a specific mathematical fact."
+    },
+    {
+      "ID": 469,
+      "Speaker": "T",
+      "Turn": 469,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 471,
+      "Speaker": "T",
+      "Turn": 471,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 472,
+      "Speaker": "T",
+      "Turn": 472,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 473,
+      "Speaker": "T",
+      "Turn": 473,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 474,
+      "Speaker": "T",
+      "Turn": 474,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 475,
+      "Speaker": "T",
+      "Turn": 475,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 476,
+      "Speaker": "T",
+      "Turn": 476,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 477,
+      "Speaker": "T",
+      "Turn": 477,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks a student to describe their approach, prompting an explanation of thinking."
+    },
+    {
+      "ID": 479,
+      "Speaker": "T",
+      "Turn": 479,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's contribution ('multiples') essentially word for word."
+    },
+    {
+      "ID": 480,
+      "Speaker": "T",
+      "Turn": 480,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher reformulates the student's idea by adding specificity ('multiples of 2')."
+    },
+    {
+      "ID": 482,
+      "Speaker": "T",
+      "Turn": 482,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher paraphrases and elaborates the student's method by listing the multiples ('2, 4, 6')."
+    },
+    {
+      "ID": 484,
+      "Speaker": "T",
+      "Turn": 484,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 485,
+      "Speaker": "T",
+      "Turn": 485,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher invites Ryder to explain how Bryce's method makes sense to him, prompting a reaction to a peer's idea."
+    },
+    {
+      "ID": 486,
+      "Speaker": "T",
+      "Turn": 486,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks for the rationale behind Bryce's choice to use multiples."
+    },
+    {
+      "ID": 489,
+      "Speaker": "T",
+      "Turn": 489,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 490,
+      "Speaker": "T",
+      "Turn": 490,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher seeks additional suggestions about the discussed method, inviting students to build on or respond to a peer's approach."
+    }
+  ]
+}

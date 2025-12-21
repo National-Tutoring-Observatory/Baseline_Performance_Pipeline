@@ -1,0 +1,148 @@
+{
+  "records": [
+    {
+      "ID": 21001,
+      "Turn": 173,
+      "Speaker": "T",
+      "Sentence": "No",
+      "TalkMove": null
+    },
+    {
+      "ID": 21002,
+      "Turn": 173,
+      "Speaker": "T",
+      "Sentence": "Chase",
+      "TalkMove": null
+    },
+    {
+      "ID": 21003,
+      "Turn": 174,
+      "Speaker": "S",
+      "Sentence": "I have a question on two and three"
+    },
+    {
+      "ID": 21004,
+      "Turn": 174,
+      "Speaker": "S",
+      "Sentence": "I have  two and three"
+    },
+    {
+      "ID": 21005,
+      "Turn": 175,
+      "Speaker": "S",
+      "Sentence": "Whyd she say my name"
+    },
+    {
+      "ID": 21006,
+      "Turn": 176,
+      "Speaker": "T",
+      "Sentence": "Two and three",
+      "TalkMove": "Restating"
+    },
+    {
+      "ID": 21007,
+      "Turn": 176,
+      "Speaker": "T",
+      "Sentence": "All right so if you look",
+      "TalkMove": null
+    },
+    {
+      "ID": 21008,
+      "Turn": 177,
+      "Speaker": "S",
+      "Sentence": "Lets pretend that you just asked for two and three"
+    },
+    {
+      "ID": 21009,
+      "Turn": 178,
+      "Speaker": "S",
+      "Sentence": "What"
+    },
+    {
+      "ID": 21010,
+      "Turn": 179,
+      "Speaker": "T",
+      "Sentence": "With these types of problems you have to be careful",
+      "TalkMove": null
+    },
+    {
+      "ID": 21011,
+      "Turn": 179,
+      "Speaker": "T",
+      "Sentence": "What is the 6 on",
+      "TalkMove": "Pressing for Accuracy"
+    },
+    {
+      "ID": 21012,
+      "Turn": 180,
+      "Speaker": "S",
+      "Sentence": "The X"
+    },
+    {
+      "ID": 21013,
+      "Turn": 181,
+      "Speaker": "T",
+      "Sentence": "Just the X",
+      "TalkMove": "Revoicing"
+    },
+    {
+      "ID": 21014,
+      "Turn": 182,
+      "Speaker": "S",
+      "Sentence": "Oh my God were stupid"
+    },
+    {
+      "ID": 21015,
+      "Turn": 183,
+      "Speaker": "T",
+      "Sentence": "If I wanted positive Ive got to flip it to the other side of the fraction",
+      "TalkMove": null
+    },
+    {
+      "ID": 21016,
+      "Turn": 183,
+      "Speaker": "T",
+      "Sentence": "We dont see a fraction but its says if its over one and then were done",
+      "TalkMove": null
+    },
+    {
+      "ID": 21017,
+      "Turn": 183,
+      "Speaker": "T",
+      "Sentence": "So once I flipped it I can change it from a negative six to a positive six and Im done",
+      "TalkMove": null
+    },
+    {
+      "ID": 21018,
+      "Turn": 184,
+      "Speaker": "S",
+      "Sentence": "I dont understand"
+    },
+    {
+      "ID": 21019,
+      "Turn": 185,
+      "Speaker": "S",
+      "Sentence": "The problem is that every single one is a different formula which makes it really hard"
+    },
+    {
+      "ID": 21020,
+      "Turn": 186,
+      "Speaker": "T",
+      "Sentence": "Three its negative here",
+      "TalkMove": null
+    },
+    {
+      "ID": 21021,
+      "Turn": 186,
+      "Speaker": "T",
+      "Sentence": "Put it up there and make it positive",
+      "TalkMove": null
+    },
+    {
+      "ID": 21022,
+      "Turn": 187,
+      "Speaker": "S",
+      "Sentence": "negative"
+    }
+  ]
+}

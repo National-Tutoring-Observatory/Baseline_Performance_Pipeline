@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 9937,
+      "Speaker": "T",
+      "Turn": 9937,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9938,
+      "Speaker": "T",
+      "Turn": 9938,
+      "TalkMove": "Restating",
+      "Reasoning": "Teacher repeats the student’s numerical answer ('five') almost exactly, echoing the contribution."
+    },
+    {
+      "ID": 9939,
+      "Speaker": "T",
+      "Turn": 9939,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Asks Eli to explain how the answer was obtained."
+    },
+    {
+      "ID": 9943,
+      "Speaker": "T",
+      "Turn": 9943,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9944,
+      "Speaker": "T",
+      "Turn": 9944,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Invites consideration of an alternative method (division) and explanation of that approach."
+    },
+    {
+      "ID": 9946,
+      "Speaker": "T",
+      "Turn": 9946,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9947,
+      "Speaker": "T",
+      "Turn": 9947,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Calls on a student who used division to explain their thinking."
+    },
+    {
+      "ID": 9949,
+      "Speaker": "T",
+      "Turn": 9949,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9950,
+      "Speaker": "T",
+      "Turn": 9950,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Summarizes the result just found to orient the whole class to the shared understanding."
+    },
+    {
+      "ID": 9951,
+      "Speaker": "T",
+      "Turn": 9951,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Restates the known result to make sure all students are on the same page before moving on."
+    },
+    {
+      "ID": 9952,
+      "Speaker": "T",
+      "Turn": 9952,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks students to compute a specific numerical value ('What is 7/10 …?')."
+    },
+    {
+      "ID": 9953,
+      "Speaker": "T",
+      "Turn": 9953,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9954,
+      "Speaker": "T",
+      "Turn": 9954,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Instructs students to discuss why the answer is 35, prompting them to articulate justification."
+    },
+    {
+      "ID": 9955,
+      "Speaker": "T",
+      "Turn": 9955,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher restates a student’s explanation, adding clarification about having seven groups of five."
+    },
+    {
+      "ID": 9956,
+      "Speaker": "T",
+      "Turn": 9956,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Paraphrases the student’s method by summarizing it as multiplying 5 by 7 to get 35."
+    },
+    {
+      "ID": 9957,
+      "Speaker": "T",
+      "Turn": 9957,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Further elaborates the student’s reasoning in the teacher’s own words to clarify the process."
+    },
+    {
+      "ID": 9959,
+      "Speaker": "T",
+      "Turn": 9959,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9960,
+      "Speaker": "T",
+      "Turn": 9960,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9961,
+      "Speaker": "T",
+      "Turn": 9961,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Asks students to articulate the steps (‘process’) they would use."
+    },
+    {
+      "ID": 9962,
+      "Speaker": "T",
+      "Turn": 9962,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Poses a specific scenario and asks what the process would be, eliciting an explanation."
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 12697,
+      "Speaker": "T",
+      "Turn": 12697,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 12698,
+      "Speaker": "T",
+      "Turn": 12698,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 12699,
+      "Speaker": "T",
+      "Turn": 12699,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks Lennox to explain their thinking, prompting the student to articulate the reasoning behind their answer."
+    },
+    {
+      "ID": 12700,
+      "Speaker": "T",
+      "Turn": 12700,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks why the student thinks the number is a whole, requesting justification."
+    },
+    {
+      "ID": 12702,
+      "Speaker": "T",
+      "Turn": 12702,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher restates the central question to orient and focus the class."
+    },
+    {
+      "ID": 12703,
+      "Speaker": "T",
+      "Turn": 12703,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks students to classify the numbers precisely as whole numbers or decimals."
+    },
+    {
+      "ID": 12704,
+      "Speaker": "T",
+      "Turn": 12704,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher probes for an explanation of why the numbers are considered whole."
+    },
+    {
+      "ID": 12706,
+      "Speaker": "T",
+      "Turn": 12706,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "By asking whether they see decimal points, the teacher directs students to examine precise mathematical notation."
+    },
+    {
+      "ID": 12708,
+      "Speaker": "T",
+      "Turn": 12708,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 12709,
+      "Speaker": "T",
+      "Turn": 12709,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 12710,
+      "Speaker": "T",
+      "Turn": 12710,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks students to recall and state the definition of a decimal, seeking precision."
+    },
+    {
+      "ID": 12711,
+      "Speaker": "T",
+      "Turn": 12711,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher references Bailey’s earlier contribution, encouraging students to connect to a peer’s idea."
+    },
+    {
+      "ID": 12712,
+      "Speaker": "T",
+      "Turn": 12712,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 12713,
+      "Speaker": "T",
+      "Turn": 12713,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher redirects attention to Bailey’s idea, prompting students to consider and build on a classmate’s thinking."
+    },
+    {
+      "ID": 12714,
+      "Speaker": "T",
+      "Turn": 12714,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 12716,
+      "Speaker": "T",
+      "Turn": 12716,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 12717,
+      "Speaker": "T",
+      "Turn": 12717,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher revisits an earlier comparison from the lesson to align everyone’s thinking and context."
+    },
+    {
+      "ID": 12718,
+      "Speaker": "T",
+      "Turn": 12718,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher instructs students to discuss with neighbors, orienting them toward collaborative engagement."
+    },
+    {
+      "ID": 12719,
+      "Speaker": "T",
+      "Turn": 12719,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher directs students to review prior discussion collectively, maintaining shared understanding."
+    },
+    {
+      "ID": 12720,
+      "Speaker": "T",
+      "Turn": 12720,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks students to state what was previously concluded, eliciting the precise mathematical idea."
+    }
+  ]
+}

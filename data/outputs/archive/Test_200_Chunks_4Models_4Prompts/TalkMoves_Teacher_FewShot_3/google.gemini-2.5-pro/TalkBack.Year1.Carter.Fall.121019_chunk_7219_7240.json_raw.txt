@@ -1,0 +1,98 @@
+[
+  {
+    "ID": 7219,
+    "Turn": 139,
+    "Speaker": "T",
+    "Sentence": "Yes so that would work",
+    "TalkMove": "None",
+    "Reasoning": null
+  },
+  {
+    "ID": 7220,
+    "Turn": 140,
+    "Speaker": "T",
+    "Sentence": "What else did you notice Brendan",
+    "TalkMove": "None",
+    "Reasoning": null
+  },
+  {
+    "ID": 7228,
+    "Turn": 141,
+    "Speaker": "T",
+    "Sentence": "I see a lot of people agreeing with you",
+    "TalkMove": "Keeping Everyone Together",
+    "Reasoning": "The teacher is making the class aware of their peers' reactions to a student's contribution, thus orienting them to each other."
+  },
+  {
+    "ID": 7229,
+    "Turn": 141,
+    "Speaker": "T",
+    "Sentence": "Thank you",
+    "TalkMove": "None",
+    "Reasoning": null
+  },
+  {
+    "ID": 7230,
+    "Turn": 141,
+    "Speaker": "T",
+    "Sentence": "Lastly there should be one more observation",
+    "TalkMove": "None",
+    "Reasoning": null
+  },
+  {
+    "ID": 7231,
+    "Turn": 141,
+    "Speaker": "T",
+    "Sentence": "Whats the other observation Leslie",
+    "TalkMove": "None",
+    "Reasoning": null
+  },
+  {
+    "ID": 7233,
+    "Turn": 143,
+    "Speaker": "T",
+    "Sentence": "Tune here Leslie right here",
+    "TalkMove": "None",
+    "Reasoning": null
+  },
+  {
+    "ID": 7236,
+    "Turn": 145,
+    "Speaker": "T",
+    "Sentence": "I see a lot of people nodding their heads thumbs up",
+    "TalkMove": "Keeping Everyone Together",
+    "Reasoning": "The teacher highlights the non-verbal agreement of the class to a student's idea, orienting students to their peers' thinking."
+  },
+  {
+    "ID": 7237,
+    "Turn": 145,
+    "Speaker": "T",
+    "Sentence": "Yes you need to make sure you address that",
+    "TalkMove": "Pressing for Accuracy",
+    "Reasoning": "The teacher confirms a student's critique and emphasizes the need to address all parts of the prompt, pressing for a complete and therefore more accurate response."
+  },
+  {
+    "ID": 7238,
+    "Turn": 145,
+    "Speaker": "T",
+    "Sentence": "If there was nothing incorrect you still say that",
+    "TalkMove": "Pressing for Accuracy",
+    "Reasoning": "The teacher provides a specific instruction on how to fulfill the requirement for a complete and accurate explanation."
+  },
+  {
+    "ID": 7239,
+    "Turn": 145,
+    "Speaker": "T",
+    "Sentence": "Based on my prediction it came out the way I expected",
+    "TalkMove": "Pressing for Accuracy",
+    "Reasoning": "The teacher models the specific language students can use to provide a complete and accurate response, reinforcing the expectation."
+  },
+  {
+    "ID": 7240,
+    "Turn": 145,
+    "Speaker": "T",
+    "Sentence": "I didnt see anything that was different so that you at least address the answer to the question",
+    "TalkMove": "Pressing for Accuracy",
+    "Reasoning": "The teacher concludes the modeling by explaining its purpose: to ensure the student's response is complete and addresses the prompt, which is a form of accuracy."
+  }
+]

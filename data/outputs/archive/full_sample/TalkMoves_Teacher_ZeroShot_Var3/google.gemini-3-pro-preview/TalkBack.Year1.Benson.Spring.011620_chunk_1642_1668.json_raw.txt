@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 1642,
+      "Speaker": "T",
+      "Turn": 1642,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to explain the process or strategy used to solve the problem ('what were you doing to help you figure that out')."
+    },
+    {
+      "ID": 1644,
+      "Speaker": "T",
+      "Turn": 1644,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks 'Why', prompting the student to justify the specific calculation of 'four plus four'."
+    },
+    {
+      "ID": 1645,
+      "Speaker": "T",
+      "Turn": 1645,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to elaborate on their thinking ('Tell me more about that')."
+    },
+    {
+      "ID": 1648,
+      "Speaker": "T",
+      "Turn": 1648,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher explicitly states that the explanation is incomplete and asks for the source of the numbers ('where did you get four'), prompting further justification."
+    },
+    {
+      "ID": 1649,
+      "Speaker": "T",
+      "Turn": 1649,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher corrects a misconception about adding denominators, prompting the student to use correct mathematical logic regarding fractions."
+    },
+    {
+      "ID": 1650,
+      "Speaker": "T",
+      "Turn": 1650,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 1651,
+      "Speaker": "T",
+      "Turn": 1651,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts the student to expand on their explanation ('Tell me a little bit more about that')."
+    },
+    {
+      "ID": 1653,
+      "Speaker": "T",
+      "Turn": 1653,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 1654,
+      "Speaker": "T",
+      "Turn": 1654,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a specific mathematical question ('What is one whole if we cut it into four parts') to elicit a precise answer."
+    },
+    {
+      "ID": 1655,
+      "Speaker": "T",
+      "Turn": 1655,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for a specific quantity ('How many fourths would that be')."
+    },
+    {
+      "ID": 1657,
+      "Speaker": "T",
+      "Turn": 1657,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's answer ('Four')."
+    },
+    {
+      "ID": 1658,
+      "Speaker": "T",
+      "Turn": 1658,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 1659,
+      "Speaker": "T",
+      "Turn": 1659,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher takes the student's answer ('Four') and expands it into a complete mathematical statement ('Fourfourths is one whole thing')."
+    },
+    {
+      "ID": 1660,
+      "Speaker": "T",
+      "Turn": 1660,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 1661,
+      "Speaker": "T",
+      "Turn": 1661,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases and connects the mathematical steps back to the student's original idea ('thats where Caleb got eight')."
+    },
+    {
+      "ID": 1662,
+      "Speaker": "T",
+      "Turn": 1662,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the students to check if the calculation is complete ('are we done with all of our fourths')."
+    },
+    {
+      "ID": 1664,
+      "Speaker": "T",
+      "Turn": 1664,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 1665,
+      "Speaker": "T",
+      "Turn": 1665,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for a specific total calculation ('how many total fourths')."
+    },
+    {
+      "ID": 1666,
+      "Speaker": "T",
+      "Turn": 1666,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher sets up a calculation prompt ('If we have fourfourths...')."
+    },
+    {
+      "ID": 1668,
+      "Speaker": "T",
+      "Turn": 1668,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher continues the calculation prompt, asking students to compute the sum."
+    }
+  ]
+}

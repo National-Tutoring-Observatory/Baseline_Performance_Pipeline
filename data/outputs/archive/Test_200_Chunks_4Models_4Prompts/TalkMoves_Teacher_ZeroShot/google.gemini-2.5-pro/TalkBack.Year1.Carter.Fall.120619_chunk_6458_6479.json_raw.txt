@@ -1,0 +1,25 @@
+{
+  "records": [
+    {
+      "ID": 6477,
+      "Speaker": "T",
+      "Turn": 1,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 6478,
+      "Speaker": "T",
+      "Turn": 1,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher directs the entire class to focus their attention on a specific question, ensuring they are all oriented to the same task."
+    },
+    {
+      "ID": 6479,
+      "Speaker": "T",
+      "Turn": 1,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats a question that came from a student, prefacing it with 'They said' to indicate it is the student's idea being brought to the class."
+    }
+  ]
+}

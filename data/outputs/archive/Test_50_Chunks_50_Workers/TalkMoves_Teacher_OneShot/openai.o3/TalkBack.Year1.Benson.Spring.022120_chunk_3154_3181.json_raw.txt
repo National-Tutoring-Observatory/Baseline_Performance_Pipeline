@@ -1,0 +1,130 @@
+{
+  "records": [
+    {
+      "ID": 3154,
+      "Speaker": "T",
+      "Turn": 153,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher asks the student to articulate what specific conflict or confusion they have, requesting an explanation."
+    },
+    {
+      "ID": 3155,
+      "Speaker": "T",
+      "Turn": 154,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher presses the student to clarify what they do not understand."
+    },
+    {
+      "ID": 3156,
+      "Speaker": "T",
+      "Turn": 154,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Repeated prompt for the student to specify what they don’t understand, seeking their thinking."
+    },
+    {
+      "ID": 3158,
+      "Speaker": "T",
+      "Turn": 156,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks students to state the precise mathematical topic they are working on."
+    },
+    {
+      "ID": 3160,
+      "Speaker": "T",
+      "Turn": 158,
+      "TalkMove": "Restating",
+      "Reasoning": "Teacher repeats the student’s one-word answer \"Area\" verbatim."
+    },
+    {
+      "ID": 3161,
+      "Speaker": "T",
+      "Turn": 158,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks for a definition of the mathematical term \"area,\" prompting precise content."
+    },
+    {
+      "ID": 3162,
+      "Speaker": "T",
+      "Turn": 159,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3163,
+      "Speaker": "T",
+      "Turn": 159,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3164,
+      "Speaker": "T",
+      "Turn": 159,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3165,
+      "Speaker": "T",
+      "Turn": 159,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3166,
+      "Speaker": "T",
+      "Turn": 159,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3169,
+      "Speaker": "T",
+      "Turn": 161,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3170,
+      "Speaker": "T",
+      "Turn": 161,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3171,
+      "Speaker": "T",
+      "Turn": 161,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3172,
+      "Speaker": "T",
+      "Turn": 161,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3173,
+      "Speaker": "T",
+      "Turn": 161,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3174,
+      "Speaker": "T",
+      "Turn": 162,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3180,
+      "Speaker": "T",
+      "Turn": 167,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks students to determine the specific multiplicative factor needed to reach a given product."
+    }
+  ]
+}

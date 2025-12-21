@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 23534,
+      "Speaker": "T",
+      "Turn": 23534,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23535,
+      "Speaker": "T",
+      "Turn": 23535,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23536,
+      "Speaker": "T",
+      "Turn": 23536,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23537,
+      "Speaker": "T",
+      "Turn": 23537,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks a broad question about the process ('How do we find...') which prompts students to explain the method for finding equivalent fractions."
+    },
+    {
+      "ID": 23538,
+      "Speaker": "T",
+      "Turn": 23538,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23539,
+      "Speaker": "T",
+      "Turn": 23539,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23540,
+      "Speaker": "T",
+      "Turn": 23540,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher explicitly asks the student to 'Talk to us about how would you solve this,' prompting an explanation of the procedure."
+    },
+    {
+      "ID": 23542,
+      "Speaker": "T",
+      "Turn": 23542,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to 'show me how you want to do it,' which is a prompt for explaining or demonstrating their thinking."
+    },
+    {
+      "ID": 23543,
+      "Speaker": "T",
+      "Turn": 23543,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to 'Talk to us about what you're doing and why,' which is a clear prompt for justification and explanation."
+    },
+    {
+      "ID": 23545,
+      "Speaker": "T",
+      "Turn": 23545,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats what the student is doing ('listing the factors') but frames it as 'I'm hearing Tim say,' which is a revoicing move to amplify the student's contribution."
+    },
+    {
+      "ID": 23546,
+      "Speaker": "T",
+      "Turn": 23546,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher corrects the terminology from 'factors' (implied in previous turn) to 'multiples,' prompting for mathematical precision."
+    },
+    {
+      "ID": 23547,
+      "Speaker": "T",
+      "Turn": 23547,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher restates the student's action ('listing the multiples of 9') to clarify what is happening for the class."
+    },
+    {
+      "ID": 23549,
+      "Speaker": "T",
+      "Turn": 23549,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher calls out a specific student ('Zachary') to ensure they are paying attention to the board ('did you see that')."
+    },
+    {
+      "ID": 23550,
+      "Speaker": "T",
+      "Turn": 23550,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "This continues the previous move, focusing attention on the specific method the student used."
+    },
+    {
+      "ID": 23551,
+      "Speaker": "T",
+      "Turn": 23551,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23552,
+      "Speaker": "T",
+      "Turn": 23552,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher narrates the steps taken so far and then asks 'what was your next step,' prompting the student to explain the continuation of their process."
+    },
+    {
+      "ID": 23554,
+      "Speaker": "T",
+      "Turn": 23554,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher re-states the student's non-verbal or verbal action ('He circled what was the multiple that they both had') to make it public for the class."
+    },
+    {
+      "ID": 23555,
+      "Speaker": "T",
+      "Turn": 23555,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks 'how is that going to help you,' which prompts the student to connect the step (finding multiples) to the goal (common denominators)."
+    },
+    {
+      "ID": 23556,
+      "Speaker": "T",
+      "Turn": 23556,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The command 'Show us' prompts the student to demonstrate their mathematical thinking."
+    },
+    {
+      "ID": 23557,
+      "Speaker": "T",
+      "Turn": 23557,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks 'How are you going to change those two fractions,' prompting an explanation of the procedure for creating equivalent fractions."
+    }
+  ]
+}

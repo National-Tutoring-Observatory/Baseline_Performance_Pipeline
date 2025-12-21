@@ -1,0 +1,67 @@
+{
+  "records": [
+    {
+      "ID": 21224,
+      "Speaker": "T",
+      "Turn": 290,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21230,
+      "Speaker": "T",
+      "Turn": 294,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21231,
+      "Speaker": "T",
+      "Turn": 294,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher prompts the student to check with Cole first, encouraging them to engage with a peer’s thinking."
+    },
+    {
+      "ID": 21234,
+      "Speaker": "T",
+      "Turn": 296,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21235,
+      "Speaker": "T",
+      "Turn": 296,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "By asking \"What can I do to simplify that?\" the teacher presses students to explain the steps or reasoning behind simplifying the expression."
+    },
+    {
+      "ID": 21236,
+      "Speaker": "T",
+      "Turn": 298,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21240,
+      "Speaker": "T",
+      "Turn": 302,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher challenges the student’s suggestion by asking whether it actually makes the expression simpler, prompting the student to justify their thinking."
+    },
+    {
+      "ID": 21242,
+      "Speaker": "T",
+      "Turn": 304,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student’s exact words \"Not really,\" mirroring the student’s response."
+    },
+    {
+      "ID": 21243,
+      "Speaker": "T",
+      "Turn": 304,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

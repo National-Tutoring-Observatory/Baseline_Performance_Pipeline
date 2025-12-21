@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 689,
+      "Speaker": "T",
+      "Turn": 689,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 690,
+      "Speaker": "T",
+      "Turn": 690,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks whether the student's attempt works, prompting a check for correctness."
+    },
+    {
+      "ID": 692,
+      "Speaker": "T",
+      "Turn": 692,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 693,
+      "Speaker": "T",
+      "Turn": 693,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 694,
+      "Speaker": "T",
+      "Turn": 694,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 695,
+      "Speaker": "T",
+      "Turn": 695,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks if a single piece will fit, pressing for a precise, correct solution."
+    },
+    {
+      "ID": 697,
+      "Speaker": "T",
+      "Turn": 697,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher requests proof, eliciting justification."
+    },
+    {
+      "ID": 698,
+      "Speaker": "T",
+      "Turn": 698,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher requires evidence for the student's 'yes' claim."
+    },
+    {
+      "ID": 699,
+      "Speaker": "T",
+      "Turn": 699,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher clarifies the precise condition to be met ('one single piece' covering four purples)."
+    },
+    {
+      "ID": 700,
+      "Speaker": "T",
+      "Turn": 700,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts identification of a piece size between two options, focusing on correctness."
+    },
+    {
+      "ID": 702,
+      "Speaker": "T",
+      "Turn": 702,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 703,
+      "Speaker": "T",
+      "Turn": 703,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 704,
+      "Speaker": "T",
+      "Turn": 704,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 705,
+      "Speaker": "T",
+      "Turn": 705,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 706,
+      "Speaker": "T",
+      "Turn": 706,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 707,
+      "Speaker": "T",
+      "Turn": 707,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 708,
+      "Speaker": "T",
+      "Turn": 708,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to share what they tried, eliciting their thinking."
+    },
+    {
+      "ID": 710,
+      "Speaker": "T",
+      "Turn": 710,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher paraphrases the student's strategy ('two green'), revoicing it."
+    },
+    {
+      "ID": 711,
+      "Speaker": "T",
+      "Turn": 711,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher presses for precise mathematical language about 'fifth' and the whole."
+    },
+    {
+      "ID": 712,
+      "Speaker": "T",
+      "Turn": 712,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts students to connect their representation to the concept of the whole."
+    }
+  ]
+}

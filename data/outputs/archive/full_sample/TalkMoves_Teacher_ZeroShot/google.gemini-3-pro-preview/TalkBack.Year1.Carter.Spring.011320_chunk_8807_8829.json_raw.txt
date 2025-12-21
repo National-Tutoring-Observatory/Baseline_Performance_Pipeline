@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 8807,
+      "Speaker": "T",
+      "Turn": 8807,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8808,
+      "Speaker": "T",
+      "Turn": 8808,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher highlights that other students are agreeing ('nodding'), which orients the class to the reactions of their peers."
+    },
+    {
+      "ID": 8809,
+      "Speaker": "T",
+      "Turn": 8809,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for a specific mathematical fact: the next factor of 36."
+    },
+    {
+      "ID": 8810,
+      "Speaker": "T",
+      "Turn": 8810,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8811,
+      "Speaker": "T",
+      "Turn": 8811,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's implied answer ('[3] is a factor of 36') to confirm and amplify it for the class."
+    },
+    {
+      "ID": 8812,
+      "Speaker": "T",
+      "Turn": 8812,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8813,
+      "Speaker": "T",
+      "Turn": 8813,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8814,
+      "Speaker": "T",
+      "Turn": 8814,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher poses a hypothetical ('what if the number was 37') to prompt students to extend their thinking and justify why the rule might change."
+    },
+    {
+      "ID": 8815,
+      "Speaker": "T",
+      "Turn": 8815,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a specific yes/no question about a mathematical fact (is 3 a factor of 37)."
+    },
+    {
+      "ID": 8816,
+      "Speaker": "T",
+      "Turn": 8816,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks 'Why not', explicitly prompting the student to explain the reasoning behind their answer."
+    },
+    {
+      "ID": 8817,
+      "Speaker": "T",
+      "Turn": 8817,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks for a comparison and justification of what makes a number a factor in one case but not the other."
+    },
+    {
+      "ID": 8819,
+      "Speaker": "T",
+      "Turn": 8819,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8820,
+      "Speaker": "T",
+      "Turn": 8820,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8821,
+      "Speaker": "T",
+      "Turn": 8821,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks 'How do you know', prompting the student to provide evidence or an explanation for their assertion."
+    },
+    {
+      "ID": 8822,
+      "Speaker": "T",
+      "Turn": 8822,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8824,
+      "Speaker": "T",
+      "Turn": 8824,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to be precise about the object of the sentence ('split what')."
+    },
+    {
+      "ID": 8826,
+      "Speaker": "T",
+      "Turn": 8826,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases the student's idea about splitting into groups as 'dividing it', connecting the student's language to formal mathematical terminology."
+    },
+    {
+      "ID": 8827,
+      "Speaker": "T",
+      "Turn": 8827,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher continues to revoice the student's concept into a formal mathematical sentence ('36 divided by 3 would be even groups')."
+    },
+    {
+      "ID": 8828,
+      "Speaker": "T",
+      "Turn": 8828,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8829,
+      "Speaker": "T",
+      "Turn": 8829,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks for 'another way to prove that', prompting a different student to provide alternative evidence or justification."
+    }
+  ]
+}

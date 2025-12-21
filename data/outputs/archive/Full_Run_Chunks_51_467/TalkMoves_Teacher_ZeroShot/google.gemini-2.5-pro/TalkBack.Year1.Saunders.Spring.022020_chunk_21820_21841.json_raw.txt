@@ -1,0 +1,74 @@
+{
+  "records": [
+    {
+      "ID": 21824,
+      "Speaker": "T",
+      "Turn": 76,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21826,
+      "Speaker": "T",
+      "Turn": 78,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the beginning of the student's phrase verbatim."
+    },
+    {
+      "ID": 21827,
+      "Speaker": "T",
+      "Turn": 78,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases the student's informal language 'the thing' with the more precise mathematical term 'the radical'."
+    },
+    {
+      "ID": 21829,
+      "Speaker": "T",
+      "Turn": 80,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's exact phrase 'Get rid of the radical' before prompting for the next step."
+    },
+    {
+      "ID": 21831,
+      "Speaker": "T",
+      "Turn": 82,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's phrase 'A second power' verbatim before continuing the problem."
+    },
+    {
+      "ID": 21835,
+      "Speaker": "T",
+      "Turn": 85,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21836,
+      "Speaker": "T",
+      "Turn": 85,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21838,
+      "Speaker": "T",
+      "Turn": 87,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's answer 'Three' verbatim."
+    },
+    {
+      "ID": 21839,
+      "Speaker": "T",
+      "Turn": 87,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21840,
+      "Speaker": "T",
+      "Turn": 87,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

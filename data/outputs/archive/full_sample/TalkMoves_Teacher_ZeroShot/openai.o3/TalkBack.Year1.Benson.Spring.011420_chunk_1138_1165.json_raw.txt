@@ -1,0 +1,128 @@
+{
+  "records": [
+    {
+      "ID": 1138,
+      "Speaker": "T",
+      "Turn": 1138
+    },
+    {
+      "ID": 1139,
+      "Speaker": "T",
+      "Turn": 1139
+    },
+    {
+      "ID": 1140,
+      "Speaker": "T",
+      "Turn": 1140
+    },
+    {
+      "ID": 1141,
+      "Speaker": "T",
+      "Turn": 1141,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks students how much the girls ate together, prompting them to state the correct numerical result."
+    },
+    {
+      "ID": 1143,
+      "Speaker": "T",
+      "Turn": 1143,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "By asking Miles to repeat what he said, the teacher orients the entire class to Miles’ contribution."
+    },
+    {
+      "ID": 1145,
+      "Speaker": "T",
+      "Turn": 1145,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher restates Miles’s idea (that together they ate 2/3) in her own words, adding clarification."
+    },
+    {
+      "ID": 1146,
+      "Speaker": "T",
+      "Turn": 1146,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher again paraphrases the student’s reasoning, explaining that each ate 1/3 and these were added."
+    },
+    {
+      "ID": 1147,
+      "Speaker": "T",
+      "Turn": 1147,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher invites others to explain the same idea in a different way, prompting students to connect to Miles’s explanation."
+    },
+    {
+      "ID": 1148,
+      "Speaker": "T",
+      "Turn": 1148
+    },
+    {
+      "ID": 1151,
+      "Speaker": "T",
+      "Turn": 1151,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher paraphrases Mason’s method, reiterating his thinking for the class."
+    },
+    {
+      "ID": 1152,
+      "Speaker": "T",
+      "Turn": 1152,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher checks whether anyone obtained the answer 2/6, seeking a specific mathematical response."
+    },
+    {
+      "ID": 1153,
+      "Speaker": "T",
+      "Turn": 1153
+    },
+    {
+      "ID": 1154,
+      "Speaker": "T",
+      "Turn": 1154,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks what the bottom number of a fraction means, prompting students to explain the underlying concept."
+    },
+    {
+      "ID": 1155,
+      "Speaker": "T",
+      "Turn": 1155
+    },
+    {
+      "ID": 1157,
+      "Speaker": "T",
+      "Turn": 1157,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher restates Liam’s contribution about the denominator representing how many are in the whole."
+    },
+    {
+      "ID": 1159,
+      "Speaker": "T",
+      "Turn": 1159,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher asks Wes to add to or clarify Liam’s idea, encouraging students to build on each other’s thoughts."
+    },
+    {
+      "ID": 1161,
+      "Speaker": "T",
+      "Turn": 1161,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases the concept—total number of pieces in the whole—in her own words."
+    },
+    {
+      "ID": 1162,
+      "Speaker": "T",
+      "Turn": 1162
+    },
+    {
+      "ID": 1163,
+      "Speaker": "T",
+      "Turn": 1163
+    },
+    {
+      "ID": 1165,
+      "Speaker": "T",
+      "Turn": 1165,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks Leo to confirm whether the whole had six pieces, requesting the precise count."
+    }
+  ]
+}

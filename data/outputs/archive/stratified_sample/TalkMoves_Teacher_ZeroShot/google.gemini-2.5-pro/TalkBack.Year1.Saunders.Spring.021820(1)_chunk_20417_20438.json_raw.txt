@@ -1,0 +1,116 @@
+{
+  "records": [
+    {
+      "ID": 20417,
+      "Turn": 37,
+      "Speaker": "T",
+      "Sentence": "Those answers are on the board for you to check your work",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20418,
+      "Turn": 38,
+      "Speaker": "T",
+      "Sentence": "So how can I use maybe this portion",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to explain the process or method for using a specific part of the problem, prompting them to share their thinking."
+    },
+    {
+      "ID": 20420,
+      "Turn": 40,
+      "Speaker": "T",
+      "Sentence": "Anything to the zero power is what",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher is asking for a specific mathematical rule or definition, prompting students to provide an accurate fact."
+    },
+    {
+      "ID": 20422,
+      "Turn": 42,
+      "Speaker": "T",
+      "Sentence": "No",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20424,
+      "Turn": 44,
+      "Speaker": "T",
+      "Sentence": "One",
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's correct answer verbatim."
+    },
+    {
+      "ID": 20425,
+      "Turn": 44,
+      "Speaker": "T",
+      "Sentence": "is the answer to that one",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20429,
+      "Turn": 47,
+      "Speaker": "T",
+      "Sentence": "If were starting right now with what was it 98 or 96",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20431,
+      "Turn": 49,
+      "Speaker": "T",
+      "Sentence": "98   and two to the half",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20432,
+      "Turn": 49,
+      "Speaker": "T",
+      "Sentence": "How can I rewrite it using this property",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to explain the process of applying a specific property, prompting them to share their thinking."
+    },
+    {
+      "ID": 20434,
+      "Turn": 51,
+      "Speaker": "T",
+      "Sentence": "1024 is it a multiple of four",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a direct question to guide students toward a specific mathematical fact needed for the problem."
+    },
+    {
+      "ID": 20435,
+      "Turn": 51,
+      "Speaker": "T",
+      "Sentence": "So think about that would be four times of what",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts students to think through the relationship between numbers ('four times of what'), asking them to explain the underlying calculation or reasoning."
+    },
+    {
+      "ID": 20436,
+      "Turn": 52,
+      "Speaker": "T",
+      "Sentence": "Okay so what would this simplify to if I have a four  and Im taking the what root of that",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to explain the simplification process by connecting the numbers to the mathematical operation, prompting them to articulate their thinking."
+    },
+    {
+      "ID": 20437,
+      "Turn": 53,
+      "Speaker": "T",
+      "Sentence": "All right have you checked your answers to one and two",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20438,
+      "Turn": 53,
+      "Speaker": "T",
+      "Sentence": "Have you checked your answers",
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

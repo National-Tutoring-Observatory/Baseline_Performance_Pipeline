@@ -1,0 +1,102 @@
+{
+  "records": [
+    {
+      "ID": 20417,
+      "Speaker": "T",
+      "Turn": 37,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher directs students to a shared resource (answers on the board) to coordinate the class’s attention and activity."
+    },
+    {
+      "ID": 20418,
+      "Speaker": "T",
+      "Turn": 38,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks how to use a portion/strategy, prompting students to describe their approach."
+    },
+    {
+      "ID": 20420,
+      "Speaker": "T",
+      "Turn": 40,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts for a specific mathematical fact (the value of any expression to the zero power)."
+    },
+    {
+      "ID": 20422,
+      "Speaker": "T",
+      "Turn": 42,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20424,
+      "Speaker": "T",
+      "Turn": 44,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student’s corrected answer ('one')."
+    },
+    {
+      "ID": 20425,
+      "Speaker": "T",
+      "Turn": 44,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20429,
+      "Speaker": "T",
+      "Turn": 47,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher clarifies which problem the class is starting with to align everyone’s focus."
+    },
+    {
+      "ID": 20431,
+      "Speaker": "T",
+      "Turn": 49,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher states the example expression so the class is focused on the same problem."
+    },
+    {
+      "ID": 20432,
+      "Speaker": "T",
+      "Turn": 49,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks how to rewrite the expression using a property, eliciting students’ strategy."
+    },
+    {
+      "ID": 20434,
+      "Speaker": "T",
+      "Turn": 51,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher checks a specific mathematical property (whether 1024 is a multiple of four)."
+    },
+    {
+      "ID": 20435,
+      "Speaker": "T",
+      "Turn": 51,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts for the specific factorization ('four times what')."
+    },
+    {
+      "ID": 20436,
+      "Speaker": "T",
+      "Turn": 52,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the simplified result and the associated root, seeking precise mathematical contributions."
+    },
+    {
+      "ID": 20437,
+      "Speaker": "T",
+      "Turn": 53,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher orients students to the shared task of checking answers to specific items."
+    },
+    {
+      "ID": 20438,
+      "Speaker": "T",
+      "Turn": 53,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher prompts students to check their answers, maintaining class coordination."
+    }
+  ]
+}

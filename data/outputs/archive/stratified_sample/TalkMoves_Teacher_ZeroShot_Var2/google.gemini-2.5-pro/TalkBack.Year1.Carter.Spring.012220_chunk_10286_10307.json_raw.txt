@@ -1,0 +1,116 @@
+{
+  "records": [
+    {
+      "ID": 10286,
+      "Turn": 266,
+      "Speaker": "T",
+      "Sentence": "Whats 14 of eight",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10288,
+      "Turn": 268,
+      "Speaker": "T",
+      "Sentence": "No thats half because 2 x 4  8",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10289,
+      "Turn": 268,
+      "Speaker": "T",
+      "Sentence": "So two is 14 but you have 34",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10290,
+      "Turn": 268,
+      "Speaker": "T",
+      "Sentence": "So 2 x 3 is",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to make a specific mathematical contribution by completing a calculation."
+    },
+    {
+      "ID": 10292,
+      "Turn": 270,
+      "Speaker": "T",
+      "Sentence": "Six",
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's one-word answer verbatim."
+    },
+    {
+      "ID": 10293,
+      "Turn": 270,
+      "Speaker": "T",
+      "Sentence": "You dont need to put six over four",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10294,
+      "Turn": 270,
+      "Speaker": "T",
+      "Sentence": "Okay",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10295,
+      "Turn": 270,
+      "Speaker": "T",
+      "Sentence": "So whats 14 of 20",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10298,
+      "Turn": 272,
+      "Speaker": "T",
+      "Sentence": "Twenty divided by four is",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher scaffolds the problem by prompting the student to complete a specific calculation."
+    },
+    {
+      "ID": 10301,
+      "Turn": 274,
+      "Speaker": "T",
+      "Sentence": "Four times four is 16",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10302,
+      "Turn": 274,
+      "Speaker": "T",
+      "Sentence": "Thats four times five",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10303,
+      "Turn": 275,
+      "Speaker": "T",
+      "Sentence": "Four times five is 20",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10304,
+      "Turn": 275,
+      "Speaker": "T",
+      "Sentence": "So five is 14 but how many fourths do we have",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to contribute a specific piece of mathematical information needed to solve the problem."
+    },
+    {
+      "ID": 10306,
+      "Turn": 277,
+      "Speaker": "T",
+      "Sentence": "Five times three is",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to complete the final calculation in the problem."
+    }
+  ]
+}

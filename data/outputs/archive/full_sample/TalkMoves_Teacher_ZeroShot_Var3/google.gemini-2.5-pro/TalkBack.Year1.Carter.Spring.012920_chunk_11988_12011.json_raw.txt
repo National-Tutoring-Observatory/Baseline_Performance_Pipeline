@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 11988,
+      "Speaker": "T",
+      "Turn": 11988,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher orients the students by connecting the current conversation to a previous partner activity."
+    },
+    {
+      "ID": 11989,
+      "Speaker": "T",
+      "Turn": 11989,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to share their thinking about the definition of a key mathematical term."
+    },
+    {
+      "ID": 11990,
+      "Speaker": "T",
+      "Turn": 11990,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11992,
+      "Speaker": "T",
+      "Turn": 11992,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher orients the class by directing their collective attention back to a key concept."
+    },
+    {
+      "ID": 11993,
+      "Speaker": "T",
+      "Turn": 11993,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11994,
+      "Speaker": "T",
+      "Turn": 11994,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks a question to prompt students to think more deeply about the nature of an algorithm."
+    },
+    {
+      "ID": 11996,
+      "Speaker": "T",
+      "Turn": 11996,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11998,
+      "Speaker": "T",
+      "Turn": 11998,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11999,
+      "Speaker": "T",
+      "Turn": 11999,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12000,
+      "Speaker": "T",
+      "Turn": 12000,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12001,
+      "Speaker": "T",
+      "Turn": 12001,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts students to analyze their work and explain the pattern they observe."
+    },
+    {
+      "ID": 12002,
+      "Speaker": "T",
+      "Turn": 12002,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher repeats the prompt for students to share their thinking about a pattern."
+    },
+    {
+      "ID": 12003,
+      "Speaker": "T",
+      "Turn": 12003,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12004,
+      "Speaker": "T",
+      "Turn": 12004,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher repeats the prompt for a student to explain the pattern they observed."
+    },
+    {
+      "ID": 12006,
+      "Speaker": "T",
+      "Turn": 12006,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12007,
+      "Speaker": "T",
+      "Turn": 12007,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher adds the mathematical term 'algorithm' to a student's explanation of a process."
+    },
+    {
+      "ID": 12008,
+      "Speaker": "T",
+      "Turn": 12008,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats a student's idea while adding more precise mathematical language ('numerators', 'product')."
+    },
+    {
+      "ID": 12009,
+      "Speaker": "T",
+      "Turn": 12009,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher continues to repeat a student's idea while adding more precise mathematical language ('denominators')."
+    },
+    {
+      "ID": 12010,
+      "Speaker": "T",
+      "Turn": 12010,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher directs all students to look at the same material to prepare for the next question."
+    },
+    {
+      "ID": 12011,
+      "Speaker": "T",
+      "Turn": 12011,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts students to provide evidence by checking if their examples follow a newly articulated rule."
+    }
+  ]
+}

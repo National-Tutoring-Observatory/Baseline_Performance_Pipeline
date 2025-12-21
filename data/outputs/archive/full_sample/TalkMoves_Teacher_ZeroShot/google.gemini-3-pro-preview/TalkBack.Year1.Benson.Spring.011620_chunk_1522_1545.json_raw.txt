@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 1522,
+      "Speaker": "T",
+      "Turn": 1522,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1525,
+      "Speaker": "T",
+      "Turn": 1525,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a specific mathematical question about the equivalence of fractions, prompting students for a correct answer."
+    },
+    {
+      "ID": 1526,
+      "Speaker": "T",
+      "Turn": 1526,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher asks who completed a specific problem, orienting the class to the task at hand."
+    },
+    {
+      "ID": 1527,
+      "Speaker": "T",
+      "Turn": 1527,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher calls on a specific student (Ada) to provide the correct decimal representation."
+    },
+    {
+      "ID": 1529,
+      "Speaker": "T",
+      "Turn": 1529,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1530,
+      "Speaker": "T",
+      "Turn": 1530,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's answer ('Zero whole ones three tenths') and reformulates it slightly ('so 0.3')."
+    },
+    {
+      "ID": 1531,
+      "Speaker": "T",
+      "Turn": 1531,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks if a specific variation of the answer (0.30) is mathematically acceptable."
+    },
+    {
+      "ID": 1532,
+      "Speaker": "T",
+      "Turn": 1532,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1533,
+      "Speaker": "T",
+      "Turn": 1533,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1534,
+      "Speaker": "T",
+      "Turn": 1534,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1535,
+      "Speaker": "T",
+      "Turn": 1535,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1536,
+      "Speaker": "T",
+      "Turn": 1536,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher directs the students' attention to the next problem ('the last pink one')."
+    },
+    {
+      "ID": 1537,
+      "Speaker": "T",
+      "Turn": 1537,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a student (Trey) to provide a specific part of the answer ('what I need to have in the ones')."
+    },
+    {
+      "ID": 1539,
+      "Speaker": "T",
+      "Turn": 1539,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1540,
+      "Speaker": "T",
+      "Turn": 1540,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's answer to confirm it ('Zero and ninetenths')."
+    },
+    {
+      "ID": 1541,
+      "Speaker": "T",
+      "Turn": 1541,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher checks in with the whole class to ensure understanding ('Are we clear')."
+    },
+    {
+      "ID": 1542,
+      "Speaker": "T",
+      "Turn": 1542,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1543,
+      "Speaker": "T",
+      "Turn": 1543,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1544,
+      "Speaker": "T",
+      "Turn": 1544,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher checks for general understanding or agreement ('Is that okay')."
+    },
+    {
+      "ID": 1545,
+      "Speaker": "T",
+      "Turn": 1545,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 2938,
+      "Speaker": "T",
+      "Turn": 2938,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2939,
+      "Speaker": "T",
+      "Turn": 2939,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2940,
+      "Speaker": "T",
+      "Turn": 2940,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2941,
+      "Speaker": "T",
+      "Turn": 2941,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks a student to explain her thinking process and how she solved the problem."
+    },
+    {
+      "ID": 2942,
+      "Speaker": "T",
+      "Turn": 2942,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher verbalizes a part of the student's strategy, likely from their written work, putting the idea into words."
+    },
+    {
+      "ID": 2943,
+      "Speaker": "T",
+      "Turn": 2943,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher asks other students to add on to what a classmate said."
+    },
+    {
+      "ID": 2945,
+      "Speaker": "T",
+      "Turn": 2945,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher asks students to state whether they disagree with a classmate's solution."
+    },
+    {
+      "ID": 2946,
+      "Speaker": "T",
+      "Turn": 2946,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher asks students to compare their method to the one just shared and offer an alternative."
+    },
+    {
+      "ID": 2947,
+      "Speaker": "T",
+      "Turn": 2947,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks a specific student to share her method."
+    },
+    {
+      "ID": 2949,
+      "Speaker": "T",
+      "Turn": 2949,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases the student's contribution to confirm understanding of their action."
+    },
+    {
+      "ID": 2951,
+      "Speaker": "T",
+      "Turn": 2951,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to use more complete mathematical notation."
+    },
+    {
+      "ID": 2952,
+      "Speaker": "T",
+      "Turn": 2952,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks a clarifying question to understand the student's process."
+    },
+    {
+      "ID": 2953,
+      "Speaker": "T",
+      "Turn": 2953,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks for more specific information about the student's method, specifically if they wrote an equation."
+    },
+    {
+      "ID": 2954,
+      "Speaker": "T",
+      "Turn": 2954,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher continues to press the student to clarify their exact thought process."
+    },
+    {
+      "ID": 2956,
+      "Speaker": "T",
+      "Turn": 2956,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to state the specific equation they wrote as part of their solution."
+    },
+    {
+      "ID": 2958,
+      "Speaker": "T",
+      "Turn": 2958,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases a part of the student's explanation to confirm understanding of their strategy."
+    },
+    {
+      "ID": 2959,
+      "Speaker": "T",
+      "Turn": 2959,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases another part of the student's explanation, clarifying the value assigned to a variable."
+    },
+    {
+      "ID": 2960,
+      "Speaker": "T",
+      "Turn": 2960,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher asks for confirmation after rephrasing the student's ideas."
+    },
+    {
+      "ID": 2962,
+      "Speaker": "T",
+      "Turn": 2962,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher asks students to compare their method to the ones previously shared and offer an alternative."
+    },
+    {
+      "ID": 2963,
+      "Speaker": "T",
+      "Turn": 2963,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to contribute a specific type of mathematical representation."
+    }
+  ]
+}

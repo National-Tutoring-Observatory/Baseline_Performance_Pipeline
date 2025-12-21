@@ -1,0 +1,165 @@
+{
+  "records": [
+    {
+      "ID": 350,
+      "Speaker": "T",
+      "Turn": 173,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 351,
+      "Speaker": "T",
+      "Turn": 173,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher prompts students to supply the exact value of the digit."
+    },
+    {
+      "ID": 353,
+      "Speaker": "T",
+      "Turn": 175,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 354,
+      "Speaker": "T",
+      "Turn": 175,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks students to state the numerical value of the digit."
+    },
+    {
+      "ID": 356,
+      "Speaker": "T",
+      "Turn": 177,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Requests the exact value of a specific digit."
+    },
+    {
+      "ID": 358,
+      "Speaker": "T",
+      "Turn": 179,
+      "TalkMove": "Restating",
+      "Reasoning": "Teacher repeats the student’s answer \"Seven\" verbatim before continuing."
+    },
+    {
+      "ID": 361,
+      "Speaker": "T",
+      "Turn": 182,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 362,
+      "Speaker": "T",
+      "Turn": 182,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 363,
+      "Speaker": "T",
+      "Turn": 182,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Solicits the precise value of the highlighted digit."
+    },
+    {
+      "ID": 366,
+      "Speaker": "T",
+      "Turn": 185,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 367,
+      "Speaker": "T",
+      "Turn": 185,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Prompts students to calculate a specific multiplication fact."
+    },
+    {
+      "ID": 369,
+      "Speaker": "T",
+      "Turn": 187,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 370,
+      "Speaker": "T",
+      "Turn": 187,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 371,
+      "Speaker": "T",
+      "Turn": 187,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 372,
+      "Speaker": "T",
+      "Turn": 187,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks for an exact multiplication fact (3 × 1)."
+    },
+    {
+      "ID": 374,
+      "Speaker": "T",
+      "Turn": 189,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 375,
+      "Speaker": "T",
+      "Turn": 189,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Requests the specific product of 3 × 7."
+    },
+    {
+      "ID": 378,
+      "Speaker": "T",
+      "Turn": 192,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 379,
+      "Speaker": "T",
+      "Turn": 192,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Prompts for the exact result of 10 × 4."
+    },
+    {
+      "ID": 381,
+      "Speaker": "T",
+      "Turn": 194,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks for the precise product of 7 × 4."
+    },
+    {
+      "ID": 383,
+      "Speaker": "T",
+      "Turn": 196,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 384,
+      "Speaker": "T",
+      "Turn": 196,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 386,
+      "Speaker": "T",
+      "Turn": 198,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 739,
+      "Speaker": "T",
+      "Turn": 739,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 740,
+      "Speaker": "T",
+      "Turn": 740,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks students to provide the result of an addition problem, prompting a specific mathematical contribution."
+    },
+    {
+      "ID": 742,
+      "Speaker": "T",
+      "Turn": 742,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats a student's contribution (\"Three-thirds\") and attributes it to the student."
+    },
+    {
+      "ID": 743,
+      "Speaker": "T",
+      "Turn": 743,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to provide an equivalent mathematical term for \"three-thirds,\" pressing for more specific mathematical language."
+    },
+    {
+      "ID": 745,
+      "Speaker": "T",
+      "Turn": 745,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's correct answer, \"One whole,\" confirming the equivalent term for \"three-thirds.\""
+    },
+    {
+      "ID": 746,
+      "Speaker": "T",
+      "Turn": 746,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 747,
+      "Speaker": "T",
+      "Turn": 747,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks students to identify the specific fractional parts that were added together, prompting for a mathematical contribution."
+    },
+    {
+      "ID": 748,
+      "Speaker": "T",
+      "Turn": 748,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher directs the previous question to a specific student, pressing them to make a mathematical contribution."
+    },
+    {
+      "ID": 749,
+      "Speaker": "T",
+      "Turn": 749,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 750,
+      "Speaker": "T",
+      "Turn": 750,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 751,
+      "Speaker": "T",
+      "Turn": 751,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a direct question that requires a specific numerical answer, prompting a mathematical contribution."
+    },
+    {
+      "ID": 753,
+      "Speaker": "T",
+      "Turn": 753,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's answer (\"Four of them\") before continuing the explanation."
+    },
+    {
+      "ID": 754,
+      "Speaker": "T",
+      "Turn": 754,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher poses a hypothetical question about swapping pieces, prompting students to reason about fractional equivalence."
+    },
+    {
+      "ID": 755,
+      "Speaker": "T",
+      "Turn": 755,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher encourages students to test their hypothesis with manipulatives, prompting them to find evidence for their thinking."
+    },
+    {
+      "ID": 757,
+      "Speaker": "T",
+      "Turn": 757,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher confirms the students' finding by restating the conclusion that the swap would not work."
+    },
+    {
+      "ID": 758,
+      "Speaker": "T",
+      "Turn": 758,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher poses another hypothetical question about swapping pieces, again prompting students to reason about fractional equivalence."
+    },
+    {
+      "ID": 760,
+      "Speaker": "T",
+      "Turn": 760,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 761,
+      "Speaker": "T",
+      "Turn": 761,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 762,
+      "Speaker": "T",
+      "Turn": 762,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 763,
+      "Speaker": "T",
+      "Turn": 763,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

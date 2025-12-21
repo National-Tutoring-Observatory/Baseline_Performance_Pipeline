@@ -1,0 +1,123 @@
+{
+  "records": [
+    {
+      "ID": 5091,
+      "Turn": 215,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5092,
+      "Turn": 215,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5093,
+      "Turn": 215,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5097,
+      "Turn": 217,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5098,
+      "Turn": 217,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases the student's contribution by comparing it to a previous student's idea, summarizing it as 'kind of the same'."
+    },
+    {
+      "ID": 5101,
+      "Turn": 220,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5102,
+      "Turn": 220,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher synthesizes the contributions from multiple groups, rephrasing their common idea about the denominator."
+    },
+    {
+      "ID": 5103,
+      "Turn": 220,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5104,
+      "Turn": 220,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5105,
+      "Turn": 220,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5106,
+      "Turn": 220,
+      "Speaker": "T",
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's contribution from Turn 216 ('you dont subtract the denominator') almost word for word."
+    },
+    {
+      "ID": 5107,
+      "Turn": 220,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's idea but adds a clarifying condition ('if they're different'), thus changing the wording."
+    },
+    {
+      "ID": 5108,
+      "Turn": 220,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher adds on to the student's idea about not subtracting denominators by including a related rule about not adding them."
+    },
+    {
+      "ID": 5109,
+      "Turn": 220,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5110,
+      "Turn": 220,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5111,
+      "Turn": 221,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5112,
+      "Turn": 221,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

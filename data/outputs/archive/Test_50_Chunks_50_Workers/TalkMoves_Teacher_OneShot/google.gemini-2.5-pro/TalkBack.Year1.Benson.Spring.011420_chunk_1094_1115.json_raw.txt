@@ -1,0 +1,102 @@
+{
+  "records": [
+    {
+      "ID": 1094,
+      "Turn": 34,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1095,
+      "Turn": 34,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1096,
+      "Turn": 34,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1097,
+      "Turn": 34,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1099,
+      "Turn": 36,
+      "Speaker": "T",
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's numerical answer."
+    },
+    {
+      "ID": 1100,
+      "Turn": 36,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts the student to explain what the numerical answer represents in the context of the problem."
+    },
+    {
+      "ID": 1102,
+      "Turn": 38,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to provide a more specific and complete description."
+    },
+    {
+      "ID": 1105,
+      "Turn": 41,
+      "Speaker": "T",
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats a portion of the student's previous contribution to focus the discussion."
+    },
+    {
+      "ID": 1107,
+      "Turn": 43,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1109,
+      "Turn": 45,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to provide the unit of measure, pushing for a more mathematically precise answer."
+    },
+    {
+      "ID": 1110,
+      "Turn": 45,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher rephrases the previous question to continue pressing the student for the unit of measure."
+    },
+    {
+      "ID": 1112,
+      "Turn": 47,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's word ('Feet') and adds on ('in the') to scaffold the completion of the phrase."
+    },
+    {
+      "ID": 1114,
+      "Turn": 49,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher synthesizes multiple student contributions into a single, complete, and mathematically precise statement."
+    },
+    {
+      "ID": 1115,
+      "Turn": 49,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

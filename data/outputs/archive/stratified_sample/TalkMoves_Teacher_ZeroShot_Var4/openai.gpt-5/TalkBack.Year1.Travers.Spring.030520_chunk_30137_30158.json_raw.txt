@@ -1,0 +1,123 @@
+{
+  "records": [
+    {
+      "ID": 30138,
+      "Speaker": "T",
+      "Turn": 113,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Rephrases the student's 'left' by specifying 'two dollars left,' adding clarity."
+    },
+    {
+      "ID": 30139,
+      "Speaker": "T",
+      "Turn": 113,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 30141,
+      "Speaker": "T",
+      "Turn": 115,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 30142,
+      "Speaker": "T",
+      "Turn": 115,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Prompts students to check inclusion of the required representation (a picture)."
+    },
+    {
+      "ID": 30144,
+      "Speaker": "T",
+      "Turn": 117,
+      "TalkMove": "Restating",
+      "Reasoning": "Repeats the student’s 'No' verbatim."
+    },
+    {
+      "ID": 30145,
+      "Speaker": "T",
+      "Turn": 117,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 30146,
+      "Speaker": "T",
+      "Turn": 117,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 30147,
+      "Speaker": "T",
+      "Turn": 117,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 30148,
+      "Speaker": "T",
+      "Turn": 117,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Checks whether a drawing was included, focusing on accurate components."
+    },
+    {
+      "ID": 30149,
+      "Speaker": "T",
+      "Turn": 117,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Prompts for the number model, using mathematical language."
+    },
+    {
+      "ID": 30150,
+      "Speaker": "T",
+      "Turn": 117,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Prompts addressing what to do with the remainder (a precise mathematical decision)."
+    },
+    {
+      "ID": 30152,
+      "Speaker": "T",
+      "Turn": 119,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Elicits the exact quantity she will have, prompting a precise answer."
+    },
+    {
+      "ID": 30154,
+      "Speaker": "T",
+      "Turn": 121,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Interprets '2 left' as 'remainder,' connecting the student’s idea to a math term."
+    },
+    {
+      "ID": 30155,
+      "Speaker": "T",
+      "Turn": 121,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 30156,
+      "Speaker": "T",
+      "Turn": 121,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Rephrases the student’s '2 left' with clearer wording."
+    },
+    {
+      "ID": 30157,
+      "Speaker": "T",
+      "Turn": 121,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Asks whether the thinking was explained, prompting justification."
+    },
+    {
+      "ID": 30158,
+      "Speaker": "T",
+      "Turn": 121,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

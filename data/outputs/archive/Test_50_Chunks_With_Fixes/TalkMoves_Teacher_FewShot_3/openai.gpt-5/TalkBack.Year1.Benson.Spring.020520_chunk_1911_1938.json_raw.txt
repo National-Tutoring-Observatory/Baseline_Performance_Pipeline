@@ -1,0 +1,130 @@
+{
+  "records": [
+    {
+      "ID": 1911,
+      "Speaker": "T",
+      "Turn": 14,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a student to share the specific answer they obtained, prompting a mathematical contribution."
+    },
+    {
+      "ID": 1913,
+      "Speaker": "T",
+      "Turn": 16,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher invites others to report if they wrote a particular numerical answer, prompting mathematical contributions."
+    },
+    {
+      "ID": 1914,
+      "Speaker": "T",
+      "Turn": 16,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1916,
+      "Speaker": "T",
+      "Turn": 18,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1918,
+      "Speaker": "T",
+      "Turn": 20,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher restates the student's clarification in slightly different words to confirm understanding."
+    },
+    {
+      "ID": 1919,
+      "Speaker": "T",
+      "Turn": 20,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1920,
+      "Speaker": "T",
+      "Turn": 20,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a student to state what they wrote, eliciting a precise mathematical response."
+    },
+    {
+      "ID": 1922,
+      "Speaker": "T",
+      "Turn": 22,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1923,
+      "Speaker": "T",
+      "Turn": 22,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher poses a specific problem and asks the student what they wrote, seeking a precise numeric answer."
+    },
+    {
+      "ID": 1925,
+      "Speaker": "T",
+      "Turn": 24,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher paraphrases the student's answer to check and clarify what was said."
+    },
+    {
+      "ID": 1927,
+      "Speaker": "T",
+      "Turn": 26,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher checks the exact numerical representation the student wrote, pressing for precision."
+    },
+    {
+      "ID": 1929,
+      "Speaker": "T",
+      "Turn": 28,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks the student to specify the missing component, pressing for precise mathematical language."
+    },
+    {
+      "ID": 1931,
+      "Speaker": "T",
+      "Turn": 30,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher restates the student's clarification (“one”) in their own words to confirm understanding."
+    },
+    {
+      "ID": 1933,
+      "Speaker": "T",
+      "Turn": 32,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher reformulates the student's written number to check understanding of the representation."
+    },
+    {
+      "ID": 1934,
+      "Speaker": "T",
+      "Turn": 32,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks for how to correct the work, prompting explanation of the fix."
+    },
+    {
+      "ID": 1935,
+      "Speaker": "T",
+      "Turn": 32,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1937,
+      "Speaker": "T",
+      "Turn": 34,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts the student to identify and reflect on the error, inviting explanation of their thinking."
+    },
+    {
+      "ID": 1938,
+      "Speaker": "T",
+      "Turn": 34,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

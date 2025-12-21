@@ -1,0 +1,165 @@
+{
+  "records": [
+    {
+      "ID": 467,
+      "Turn": 44,
+      "Speaker": "T",
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 468,
+      "Turn": 44,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks for the factor multiplied by 4 to reach 12, prompting a specific mathematical detail."
+    },
+    {
+      "ID": 469,
+      "Turn": 44,
+      "Speaker": "T",
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 471,
+      "Turn": 46,
+      "Speaker": "T",
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 472,
+      "Turn": 46,
+      "Speaker": "T",
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 473,
+      "Turn": 46,
+      "Speaker": "T",
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 474,
+      "Turn": 46,
+      "Speaker": "T",
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 475,
+      "Turn": 46,
+      "Speaker": "T",
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 476,
+      "Turn": 46,
+      "Speaker": "T",
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 477,
+      "Turn": 46,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Invites Bryce to explain the approach he used."
+    },
+    {
+      "ID": 479,
+      "Turn": 48,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "Restates the student's method as using multiples, in teacher's words."
+    },
+    {
+      "ID": 480,
+      "Turn": 48,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "Adds specificity by rephrasing as multiples of 2."
+    },
+    {
+      "ID": 482,
+      "Turn": 50,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "Paraphrases and extends the student's multiples list (2, 4, 6)."
+    },
+    {
+      "ID": 484,
+      "Turn": 52,
+      "Speaker": "T",
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 485,
+      "Turn": 52,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Requests Ryder to explain how the idea makes sense."
+    },
+    {
+      "ID": 486,
+      "Turn": 52,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Asks for justification of why Bryce used multiples."
+    },
+    {
+      "ID": 489,
+      "Turn": 54,
+      "Speaker": "T",
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 490,
+      "Turn": 54,
+      "Speaker": "T",
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "Encourages peers to offer additional ways the approach could work, building on a classmate's idea."
+    },
+    {
+      "ID": 491,
+      "Turn": 54,
+      "Speaker": "T",
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 492,
+      "Turn": 54,
+      "Speaker": "T",
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 493,
+      "Turn": 54,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Prompts Taylor to state an equivalent fraction."
+    },
+    {
+      "ID": 495,
+      "Turn": 56,
+      "Speaker": "T",
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 496,
+      "Turn": 56,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Prompts for another example/result."
+    }
+  ]
+}

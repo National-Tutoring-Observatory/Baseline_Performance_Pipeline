@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 18344,
+      "Speaker": "T",
+      "Turn": 18344,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher repeats the student’s answer “x4” and adds the clarification that it is the factor form."
+    },
+    {
+      "ID": 18345,
+      "Speaker": "T",
+      "Turn": 18345,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18347,
+      "Speaker": "T",
+      "Turn": 18347,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18348,
+      "Speaker": "T",
+      "Turn": 18348,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18349,
+      "Speaker": "T",
+      "Turn": 18349,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks for the specific numerical fact, the square root of 25."
+    },
+    {
+      "ID": 18351,
+      "Speaker": "T",
+      "Turn": 18351,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Prompts students to explain how to find the square root of x^6 and what to do with the exponent, asking for the underlying rule."
+    },
+    {
+      "ID": 18353,
+      "Speaker": "T",
+      "Turn": 18353,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18354,
+      "Speaker": "T",
+      "Turn": 18354,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Requests that the expression be rewritten as a perfect square, focusing on correct mathematical form."
+    },
+    {
+      "ID": 18355,
+      "Speaker": "T",
+      "Turn": 18355,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18356,
+      "Speaker": "T",
+      "Turn": 18356,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Asks whether the expression can be factored further, prompting students to justify additional steps."
+    },
+    {
+      "ID": 18357,
+      "Speaker": "T",
+      "Turn": 18357,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18359,
+      "Speaker": "T",
+      "Turn": 18359,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18360,
+      "Speaker": "T",
+      "Turn": 18360,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18361,
+      "Speaker": "T",
+      "Turn": 18361,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18362,
+      "Speaker": "T",
+      "Turn": 18362,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18363,
+      "Speaker": "T",
+      "Turn": 18363,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18364,
+      "Speaker": "T",
+      "Turn": 18364,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Asks students what can be factored out, requiring them to analyze and explain the expression."
+    },
+    {
+      "ID": 18365,
+      "Speaker": "T",
+      "Turn": 18365,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Restates the solution (“there’s a 2x that can come out”) presumably after a student identified the factor."
+    },
+    {
+      "ID": 18366,
+      "Speaker": "T",
+      "Turn": 18366,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18367,
+      "Speaker": "T",
+      "Turn": 18367,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

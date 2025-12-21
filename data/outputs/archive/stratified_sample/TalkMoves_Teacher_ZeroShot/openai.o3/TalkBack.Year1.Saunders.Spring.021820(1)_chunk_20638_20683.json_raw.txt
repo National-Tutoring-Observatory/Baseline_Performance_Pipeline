@@ -1,0 +1,262 @@
+{
+  "records": [
+    {
+      "ID": 20638,
+      "Speaker": "T",
+      "Turn": 127
+    },
+    {
+      "ID": 20639,
+      "Speaker": "T",
+      "Turn": 127
+    },
+    {
+      "ID": 20640,
+      "Speaker": "T",
+      "Turn": 127
+    },
+    {
+      "ID": 20641,
+      "Speaker": "T",
+      "Turn": 127
+    },
+    {
+      "ID": 20642,
+      "Speaker": "T",
+      "Turn": 127
+    },
+    {
+      "ID": 20643,
+      "Speaker": "T",
+      "Turn": 127
+    },
+    {
+      "ID": 20644,
+      "Speaker": "T",
+      "Turn": 127
+    },
+    {
+      "ID": 20645,
+      "Speaker": "T",
+      "Turn": 127,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks students to state which form was chosen, prompting a specific mathematical answer."
+    },
+    {
+      "ID": 20646,
+      "Speaker": "S",
+      "Turn": 127
+    },
+    {
+      "ID": 20647,
+      "Speaker": "T",
+      "Turn": 128,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher acknowledges the student's \"conjugate\" idea and restates/extends it with additional explanation."
+    },
+    {
+      "ID": 20648,
+      "Speaker": "S",
+      "Turn": 129
+    },
+    {
+      "ID": 20649,
+      "Speaker": "T",
+      "Turn": 130,
+      "TalkMove": "Restating",
+      "Reasoning": "Teacher repeats the student’s phrase \"difference of two squares\" verbatim."
+    },
+    {
+      "ID": 20650,
+      "Speaker": "T",
+      "Turn": 130,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Asks students to explain what happens when multiplying the two square roots, soliciting the underlying reasoning."
+    },
+    {
+      "ID": 20651,
+      "Speaker": "S",
+      "Turn": 131
+    },
+    {
+      "ID": 20652,
+      "Speaker": "T",
+      "Turn": 132
+    },
+    {
+      "ID": 20653,
+      "Speaker": "T",
+      "Turn": 132
+    },
+    {
+      "ID": 20654,
+      "Speaker": "T",
+      "Turn": 132,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Requests an explanation of what happens when the index and power are the same, probing conceptual understanding."
+    },
+    {
+      "ID": 20655,
+      "Speaker": "T",
+      "Turn": 132
+    },
+    {
+      "ID": 20656,
+      "Speaker": "T",
+      "Turn": 132
+    },
+    {
+      "ID": 20657,
+      "Speaker": "T",
+      "Turn": 132
+    },
+    {
+      "ID": 20658,
+      "Speaker": "T",
+      "Turn": 132
+    },
+    {
+      "ID": 20659,
+      "Speaker": "T",
+      "Turn": 132
+    },
+    {
+      "ID": 20660,
+      "Speaker": "T",
+      "Turn": 133,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher references and paraphrases Santiago's earlier comment about using a conjugate, adding detail about the strategy."
+    },
+    {
+      "ID": 20661,
+      "Speaker": "S",
+      "Turn": 133
+    },
+    {
+      "ID": 20662,
+      "Speaker": "T",
+      "Turn": 134
+    },
+    {
+      "ID": 20663,
+      "Speaker": "T",
+      "Turn": 134,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "By asking \"Questions on that one?\" the teacher checks that all students are following and invites participation."
+    },
+    {
+      "ID": 20664,
+      "Speaker": "T",
+      "Turn": 134
+    },
+    {
+      "ID": 20665,
+      "Speaker": "T",
+      "Turn": 134
+    },
+    {
+      "ID": 20666,
+      "Speaker": "T",
+      "Turn": 134
+    },
+    {
+      "ID": 20667,
+      "Speaker": "T",
+      "Turn": 134,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks students to specify what operation was done in the example, seeking a precise mathematical description."
+    },
+    {
+      "ID": 20668,
+      "Speaker": "S",
+      "Turn": 135
+    },
+    {
+      "ID": 20669,
+      "Speaker": "T",
+      "Turn": 136,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to justify the origin of the 'one' they stated, probing the reasoning behind the answer."
+    },
+    {
+      "ID": 20670,
+      "Speaker": "S",
+      "Turn": 137
+    },
+    {
+      "ID": 20671,
+      "Speaker": "S",
+      "Turn": 137
+    },
+    {
+      "ID": 20672,
+      "Speaker": "T",
+      "Turn": 138
+    },
+    {
+      "ID": 20673,
+      "Speaker": "T",
+      "Turn": 138
+    },
+    {
+      "ID": 20674,
+      "Speaker": "T",
+      "Turn": 138,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Asks \"What's going to happen?\" prompting students to predict and explain the next mathematical step."
+    },
+    {
+      "ID": 20675,
+      "Speaker": "T",
+      "Turn": 138,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Requests a specific factor of 54, eliciting a correct mathematical fact."
+    },
+    {
+      "ID": 20676,
+      "Speaker": "S",
+      "Turn": 139
+    },
+    {
+      "ID": 20677,
+      "Speaker": "T",
+      "Turn": 140,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Follows up by asking \"two times what?\" to get the precise complementary factor."
+    },
+    {
+      "ID": 20678,
+      "Speaker": "T",
+      "Turn": 141,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher partially supplies the answer and prompts students to name the mathematical concept (a perfect cube)."
+    },
+    {
+      "ID": 20679,
+      "Speaker": "S",
+      "Turn": 141
+    },
+    {
+      "ID": 20680,
+      "Speaker": "T",
+      "Turn": 142,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's phrase \"perfect cube\" verbatim."
+    },
+    {
+      "ID": 20681,
+      "Speaker": "T",
+      "Turn": 142
+    },
+    {
+      "ID": 20682,
+      "Speaker": "T",
+      "Turn": 142
+    },
+    {
+      "ID": 20683,
+      "Speaker": "T",
+      "Turn": 142
+    }
+  ]
+}

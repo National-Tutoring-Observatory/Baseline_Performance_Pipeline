@@ -1,0 +1,44 @@
+{
+  "records": [
+    {
+      "ID": 1455,
+      "Turn": 1,
+      "Speaker": "T",
+      "Sentence": "Okay you ready",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1456,
+      "Turn": 1,
+      "Speaker": "T",
+      "Sentence": "We are going to try various strategies to add mixed numbers that have denominators who can remind us what a mixed number is",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to make a mathematical contribution by asking for a definition."
+    },
+    {
+      "ID": 1457,
+      "Turn": 1,
+      "Speaker": "T",
+      "Sentence": "Compared to an improper fraction those two things we touched about yesterday mixed number compared to an improper fraction",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher refines the question, prompting students to use specific mathematical language to compare two types of fractions."
+    },
+    {
+      "ID": 1458,
+      "Turn": 1,
+      "Speaker": "T",
+      "Sentence": "Jeremy remembers Georgia remembers Kyle remembers",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1459,
+      "Turn": 2,
+      "Speaker": "T",
+      "Sentence": "Theres more stuff you can just put them right here on there thank you",
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

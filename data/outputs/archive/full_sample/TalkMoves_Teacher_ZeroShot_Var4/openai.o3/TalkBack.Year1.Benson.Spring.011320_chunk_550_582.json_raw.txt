@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 550,
+      "Speaker": "T",
+      "Turn": 550,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 551,
+      "Speaker": "T",
+      "Turn": 551,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher rephrases a student’s described strategy of enlarging numbers, reflecting the idea back in concise wording."
+    },
+    {
+      "ID": 553,
+      "Speaker": "T",
+      "Turn": 553,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher echoes the key term (“Multiples”) that the student has likely offered, reinforcing it for the class."
+    },
+    {
+      "ID": 554,
+      "Speaker": "T",
+      "Turn": 554,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher restates/paraphrases what the student accomplished—finding multiples—adding a bit of wording."
+    },
+    {
+      "ID": 555,
+      "Speaker": "T",
+      "Turn": 555,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks the student to supply another correct equivalent fraction—a specific mathematical contribution."
+    },
+    {
+      "ID": 557,
+      "Speaker": "T",
+      "Turn": 557,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 558,
+      "Speaker": "T",
+      "Turn": 558,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 560,
+      "Speaker": "T",
+      "Turn": 560,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 562,
+      "Speaker": "T",
+      "Turn": 562,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 564,
+      "Speaker": "T",
+      "Turn": 564,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher paraphrases the student’s intention, confirming/clarifying it for the class."
+    },
+    {
+      "ID": 566,
+      "Speaker": "T",
+      "Turn": 566,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 567,
+      "Speaker": "T",
+      "Turn": 567,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 568,
+      "Speaker": "T",
+      "Turn": 568,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 569,
+      "Speaker": "T",
+      "Turn": 569,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher solicits Katie’s specific answer for 25/100, requesting a precise mathematical result."
+    },
+    {
+      "ID": 572,
+      "Speaker": "T",
+      "Turn": 572,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to explain how the answers were obtained, eliciting the thinking process."
+    },
+    {
+      "ID": 577,
+      "Speaker": "T",
+      "Turn": 577,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 578,
+      "Speaker": "T",
+      "Turn": 578,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks if any student worked out 16/100, inviting them to provide that specific computation."
+    },
+    {
+      "ID": 579,
+      "Speaker": "T",
+      "Turn": 579,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 581,
+      "Speaker": "T",
+      "Turn": 581,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 582,
+      "Speaker": "T",
+      "Turn": 582,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher again prompts students to state whether they have completed any of the required math problems."
+    }
+  ]
+}

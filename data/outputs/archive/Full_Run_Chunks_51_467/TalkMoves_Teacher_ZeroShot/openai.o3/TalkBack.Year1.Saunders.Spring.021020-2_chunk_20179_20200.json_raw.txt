@@ -1,0 +1,130 @@
+{
+  "records": [
+    {
+      "ID": 20179,
+      "Speaker": "T",
+      "Turn": 103,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20180,
+      "Speaker": "T",
+      "Turn": 103,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher prompts students to state the result of multiplying three negatives, eliciting a specific correct value."
+    },
+    {
+      "ID": 20182,
+      "Speaker": "T",
+      "Turn": 104,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher repeats the student’s answer ('negative') while elaborating it as 'a negative x^3', rephrasing and extending the idea."
+    },
+    {
+      "ID": 20183,
+      "Speaker": "T",
+      "Turn": 104,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20184,
+      "Speaker": "T",
+      "Turn": 104,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20185,
+      "Speaker": "T",
+      "Turn": 104,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher asks whether there is a way to rewrite an expression, prompting students to explain or justify a method."
+    },
+    {
+      "ID": 20186,
+      "Speaker": "T",
+      "Turn": 104,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20187,
+      "Speaker": "T",
+      "Turn": 104,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20188,
+      "Speaker": "T",
+      "Turn": 104,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20189,
+      "Speaker": "T",
+      "Turn": 104,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20190,
+      "Speaker": "T",
+      "Turn": 105,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher asks students to analyze and describe how the pattern applies to other functions, requesting explanatory thinking."
+    },
+    {
+      "ID": 20191,
+      "Speaker": "T",
+      "Turn": 105,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20192,
+      "Speaker": "T",
+      "Turn": 105,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks for the exact result of multiplying a negative four times, seeking a specific correct answer."
+    },
+    {
+      "ID": 20194,
+      "Speaker": "T",
+      "Turn": 106,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher asks students to compare the new result with the original, prompting them to articulate their reasoning."
+    },
+    {
+      "ID": 20196,
+      "Speaker": "T",
+      "Turn": 108,
+      "TalkMove": "Restating",
+      "Reasoning": "Teacher repeats the student’s phrase 'It's the exact same' almost verbatim, confirming the student’s contribution."
+    },
+    {
+      "ID": 20198,
+      "Speaker": "T",
+      "Turn": 110,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20199,
+      "Speaker": "T",
+      "Turn": 110,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20200,
+      "Speaker": "T",
+      "Turn": 110,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

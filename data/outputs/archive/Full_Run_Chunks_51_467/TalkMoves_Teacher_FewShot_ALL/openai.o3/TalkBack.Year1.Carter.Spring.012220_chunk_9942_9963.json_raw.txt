@@ -1,0 +1,130 @@
+{
+  "records": [
+    {
+      "ID": 9943,
+      "Speaker": "T",
+      "Turn": 146,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9944,
+      "Speaker": "T",
+      "Turn": 146,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts the student to consider and explain an alternative method (division) for solving the problem."
+    },
+    {
+      "ID": 9946,
+      "Speaker": "T",
+      "Turn": 148,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9947,
+      "Speaker": "T",
+      "Turn": 148,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks a student to \"explain their thinking,\" requesting justification for the division approach."
+    },
+    {
+      "ID": 9949,
+      "Speaker": "T",
+      "Turn": 150,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9950,
+      "Speaker": "T",
+      "Turn": 150,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher summarizes the class’s previous result to orient everyone to the shared understanding before moving on."
+    },
+    {
+      "ID": 9951,
+      "Speaker": "T",
+      "Turn": 150,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Again restates the known result so the whole class is on the same page before posing the next question."
+    },
+    {
+      "ID": 9952,
+      "Speaker": "T",
+      "Turn": 150,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the specific value of 7/10, prompting students to produce a correct mathematical answer."
+    },
+    {
+      "ID": 9953,
+      "Speaker": "T",
+      "Turn": 150,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9954,
+      "Speaker": "T",
+      "Turn": 150,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher directs students to discuss with partners why the answer is 35, prompting explanation and justification."
+    },
+    {
+      "ID": 9955,
+      "Speaker": "T",
+      "Turn": 151,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9956,
+      "Speaker": "T",
+      "Turn": 151,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9957,
+      "Speaker": "T",
+      "Turn": 151,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9959,
+      "Speaker": "T",
+      "Turn": 153,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9960,
+      "Speaker": "T",
+      "Turn": 153,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9961,
+      "Speaker": "T",
+      "Turn": 153,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to articulate the steps ('What would the process be?'), eliciting explanation of their method."
+    },
+    {
+      "ID": 9962,
+      "Speaker": "T",
+      "Turn": 153,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "By asking how to go \"straight\" to finding 7/10 of 50, the teacher seeks students’ reasoning about an efficient procedure."
+    },
+    {
+      "ID": 9963,
+      "Speaker": "T",
+      "Turn": 153,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher references having guided the class already, situating everyone in the shared learning process."
+    }
+  ]
+}

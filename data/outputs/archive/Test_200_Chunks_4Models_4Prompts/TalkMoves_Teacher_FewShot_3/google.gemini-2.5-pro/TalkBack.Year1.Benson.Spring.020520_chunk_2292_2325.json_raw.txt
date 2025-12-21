@@ -1,0 +1,154 @@
+[
+  {
+    "ID": 2293,
+    "Turn": 221,
+    "Speaker": "T",
+    "Sentence": "Why",
+    "TalkMove": "Pressing for Reasoning",
+    "Reasoning": "The teacher asks the student to explain why they performed a specific calculation."
+  },
+  {
+    "ID": 2295,
+    "Turn": 223,
+    "Speaker": "T",
+    "Sentence": "There are eight burritos in a package okay",
+    "TalkMove": "Revoicing",
+    "Reasoning": "The teacher rephrases the student's justification ('Because the numbers of pieces I get is per package') to clarify the specific detail from the problem."
+  },
+  {
+    "ID": 2297,
+    "Turn": 225,
+    "Speaker": "T",
+    "Sentence": "Okay",
+    "TalkMove": "None",
+    "Reasoning": null
+  },
+  {
+    "ID": 2301,
+    "Turn": 227,
+    "Speaker": "T",
+    "Sentence": "Burritos cost about 240 approximately",
+    "TalkMove": "Revoicing",
+    "Reasoning": "The teacher repeats the student's calculated result (240) while adding context and mathematical language ('Burritos cost about... approximately') to clarify its meaning."
+  },
+  {
+    "ID": 2302,
+    "Turn": 227,
+    "Speaker": "T",
+    "Sentence": "What did you do next",
+    "TalkMove": "None",
+    "Reasoning": null
+  },
+  {
+    "ID": 2305,
+    "Turn": 229,
+    "Speaker": "T",
+    "Sentence": "Okay so there were 18 sandwiches per package 6 each",
+    "TalkMove": "Revoicing",
+    "Reasoning": "The teacher attempts to rephrase the student's calculation ('18 x 6') by putting it back into the context of the problem to check for understanding."
+  },
+  {
+    "ID": 2307,
+    "Turn": 231,
+    "Speaker": "T",
+    "Sentence": "Because",
+    "TalkMove": "Pressing for Reasoning",
+    "Reasoning": "The teacher prompts the student to provide the reason for their calculation ('x 5')."
+  },
+  {
+    "ID": 2309,
+    "Turn": 233,
+    "Speaker": "T",
+    "Sentence": "Oh so we needed 18 packages theyre five sandwiches",
+    "TalkMove": "Revoicing",
+    "Reasoning": "The teacher rephrases the student's explanation to confirm their understanding of the student's reasoning about the number of sandwiches and packages."
+  },
+  {
+    "ID": 2312,
+    "Turn": 235,
+    "Speaker": "T",
+    "Sentence": "Its about 600 for sandwiches",
+    "TalkMove": "Revoicing",
+    "Reasoning": "The teacher repeats the student's answer (600) while adding context ('for sandwiches') and estimation language ('Its about') to summarize the finding."
+  },
+  {
+    "ID": 2313,
+    "Turn": 235,
+    "Speaker": "T",
+    "Sentence": "Wow did you see that",
+    "TalkMove": "None",
+    "Reasoning": null
+  },
+  {
+    "ID": 2314,
+    "Turn": 235,
+    "Speaker": "T",
+    "Sentence": "My pen just randomly marked up there",
+    "TalkMove": "None",
+    "Reasoning": null
+  },
+  {
+    "ID": 2315,
+    "Turn": 235,
+    "Speaker": "T",
+    "Sentence": "Can you see that",
+    "TalkMove": "None",
+    "Reasoning": null
+  },
+  {
+    "ID": 2318,
+    "Turn": 238,
+    "Speaker": "T",
+    "Sentence": "Aliens in the classroom",
+    "TalkMove": "None",
+    "Reasoning": null
+  },
+  {
+    "ID": 2319,
+    "Turn": 238,
+    "Speaker": "T",
+    "Sentence": "Okay great",
+    "TalkMove": "None",
+    "Reasoning": null
+  },
+  {
+    "ID": 2320,
+    "Turn": 238,
+    "Speaker": "T",
+    "Sentence": "Were done with our estimate",
+    "TalkMove": "None",
+    "Reasoning": null
+  },
+  {
+    "ID": 2321,
+    "Turn": 238,
+    "Speaker": "T",
+    "Sentence": "Raise your hand if you did a different way of finding your estimate",
+    "TalkMove": "None",
+    "Reasoning": null
+  },
+  {
+    "ID": 2322,
+    "Turn": 238,
+    "Speaker": "T",
+    "Sentence": "Lillian how was estimate different",
+    "TalkMove": "Pressing for Reasoning",
+    "Reasoning": "The teacher asks a student to explain their different method, prompting them to share their thinking process."
+  },
+  {
+    "ID": 2324,
+    "Turn": 240,
+    "Speaker": "T",
+    "Sentence": "5 x 8",
+    "TalkMove": "Restating",
+    "Reasoning": "The teacher repeats the student's contribution ('5 x 8') word for word."
+  },
+  {
+    "ID": 2325,
+    "Turn": 240,
+    "Speaker": "T",
+    "Sentence": "Where did you get five",
+    "TalkMove": "Pressing for Reasoning",
+    "Reasoning": "The teacher asks the student to explain the source of a number in their calculation, pressing them to justify their thinking."
+  }
+]

@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 25247,
+      "Speaker": "T",
+      "Turn": 25247,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 25249,
+      "Speaker": "T",
+      "Turn": 25249,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 25251,
+      "Speaker": "T",
+      "Turn": 25251,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 25253,
+      "Speaker": "T",
+      "Turn": 25253,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's answer to confirm the count."
+    },
+    {
+      "ID": 25254,
+      "Speaker": "T",
+      "Turn": 25254,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's answer to confirm the count."
+    },
+    {
+      "ID": 25255,
+      "Speaker": "T",
+      "Turn": 25255,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 25256,
+      "Speaker": "T",
+      "Turn": 25256,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 25257,
+      "Speaker": "T",
+      "Turn": 25257,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 25258,
+      "Speaker": "T",
+      "Turn": 25258,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 25259,
+      "Speaker": "T",
+      "Turn": 25259,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 25260,
+      "Speaker": "T",
+      "Turn": 25260,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 25262,
+      "Speaker": "T",
+      "Turn": 25262,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's answer to confirm the count."
+    },
+    {
+      "ID": 25264,
+      "Speaker": "T",
+      "Turn": 25264,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's answer to confirm the count."
+    },
+    {
+      "ID": 25265,
+      "Speaker": "T",
+      "Turn": 25265,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's answer to confirm the count."
+    },
+    {
+      "ID": 25266,
+      "Speaker": "T",
+      "Turn": 25266,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 25267,
+      "Speaker": "T",
+      "Turn": 25267,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 25268,
+      "Speaker": "T",
+      "Turn": 25268,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 25269,
+      "Speaker": "T",
+      "Turn": 25269,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 25271,
+      "Speaker": "T",
+      "Turn": 25271,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's negative response to confirm there are no data points for this value."
+    },
+    {
+      "ID": 25272,
+      "Speaker": "T",
+      "Turn": 25272,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases the student's answer of \"No\" into the mathematical term \"Zero,\" clarifying the quantity."
+    }
+  ]
+}

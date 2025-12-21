@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 22185,
+      "Speaker": "T",
+      "Turn": 22185,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a specific student (Joel) for the next procedural step in solving an equation with quadratic, constant, and linear terms."
+    },
+    {
+      "ID": 22187,
+      "Speaker": "T",
+      "Turn": 22187,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's answer ('Subtract the x over') word for word to confirm the step."
+    },
+    {
+      "ID": 22189,
+      "Speaker": "T",
+      "Turn": 22189,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts for the next step in the procedure."
+    },
+    {
+      "ID": 22192,
+      "Speaker": "T",
+      "Turn": 22192,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher solicits a contribution from a student regarding the next step."
+    },
+    {
+      "ID": 22193,
+      "Speaker": "T",
+      "Turn": 22193,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22195,
+      "Speaker": "T",
+      "Turn": 22195,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats part of the student's idea ('We've got the 30') likely to set up the next logical step."
+    },
+    {
+      "ID": 22196,
+      "Speaker": "T",
+      "Turn": 22196,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the students to complete the mathematical sentence ('this whole thing is going to equal')."
+    },
+    {
+      "ID": 22198,
+      "Speaker": "T",
+      "Turn": 22198,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a specific calculation question about factors of negative 30."
+    },
+    {
+      "ID": 22201,
+      "Speaker": "T",
+      "Turn": 22201,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's answer ('Five and six')."
+    },
+    {
+      "ID": 22202,
+      "Speaker": "T",
+      "Turn": 22202,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a follow-up question to determine the correct sign for the factors."
+    },
+    {
+      "ID": 22204,
+      "Speaker": "T",
+      "Turn": 22204,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's conclusion that six must be negative."
+    },
+    {
+      "ID": 22205,
+      "Speaker": "T",
+      "Turn": 22205,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22206,
+      "Speaker": "T",
+      "Turn": 22206,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks Joel to recall the general procedure for handling these specific terms."
+    },
+    {
+      "ID": 22208,
+      "Speaker": "T",
+      "Turn": 22208,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher guides the student to identify the specific intermediate step before factoring."
+    },
+    {
+      "ID": 22210,
+      "Speaker": "T",
+      "Turn": 22210,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's correct answer ('Set it equal to zero')."
+    },
+    {
+      "ID": 22211,
+      "Speaker": "T",
+      "Turn": 22211,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22212,
+      "Speaker": "T",
+      "Turn": 22212,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the class to provide the final two solutions."
+    },
+    {
+      "ID": 22214,
+      "Speaker": "T",
+      "Turn": 22214,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22215,
+      "Speaker": "T",
+      "Turn": 22215,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22216,
+      "Speaker": "T",
+      "Turn": 22216,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 2016,
+      "Speaker": "T",
+      "Turn": 2016,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2017,
+      "Speaker": "T",
+      "Turn": 2017,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher asks one student (Ruth) to explain the thinking of another student (Lee), prompting her to engage with her classmate's idea."
+    },
+    {
+      "ID": 2018,
+      "Speaker": "T",
+      "Turn": 2018,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher asks a student to repeat what another student said, which promotes active listening and orients students to each other."
+    },
+    {
+      "ID": 2020,
+      "Speaker": "T",
+      "Turn": 2020,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks 'Why' to prompt a student to explain the reasoning behind a specific mathematical step."
+    },
+    {
+      "ID": 2021,
+      "Speaker": "T",
+      "Turn": 2021,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2023,
+      "Speaker": "T",
+      "Turn": 2023,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks 'why' to prompt a student to provide the reasoning for a specific calculation."
+    },
+    {
+      "ID": 2025,
+      "Speaker": "T",
+      "Turn": 2025,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats a student's idea (the reason for multiplying by two) but rephrases it to clarify it for the class."
+    },
+    {
+      "ID": 2026,
+      "Speaker": "T",
+      "Turn": 2026,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks 'why' to prompt students to explain the justification for the next step in the calculation."
+    },
+    {
+      "ID": 2028,
+      "Speaker": "T",
+      "Turn": 2028,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats a student's idea (the reason for multiplying by six) but rephrases it to clarify it for the class."
+    },
+    {
+      "ID": 2029,
+      "Speaker": "T",
+      "Turn": 2029,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks what the next step is, prompting students to make a correct mathematical contribution."
+    },
+    {
+      "ID": 2030,
+      "Speaker": "T",
+      "Turn": 2030,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2031,
+      "Speaker": "T",
+      "Turn": 2031,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks what to do next, prompting students to provide the correct subsequent mathematical procedure."
+    },
+    {
+      "ID": 2032,
+      "Speaker": "T",
+      "Turn": 2032,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher directs the question about the next mathematical step to a specific student."
+    },
+    {
+      "ID": 2034,
+      "Speaker": "T",
+      "Turn": 2034,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's one-word answer verbatim."
+    },
+    {
+      "ID": 2035,
+      "Speaker": "T",
+      "Turn": 2035,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2036,
+      "Speaker": "T",
+      "Turn": 2036,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2037,
+      "Speaker": "T",
+      "Turn": 2037,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "After dismissing a prior suggestion, the teacher re-asks the question to elicit the correct mathematical procedure."
+    },
+    {
+      "ID": 2038,
+      "Speaker": "T",
+      "Turn": 2038,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher directs the question about the next mathematical step to a specific student."
+    },
+    {
+      "ID": 2040,
+      "Speaker": "T",
+      "Turn": 2040,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to explain their thinking process by connecting a phrase ('how much more') to a mathematical concept."
+    },
+    {
+      "ID": 2043,
+      "Speaker": "T",
+      "Turn": 2043,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher provides a list of options to prompt the student to name the correct mathematical operation."
+    }
+  ]
+}

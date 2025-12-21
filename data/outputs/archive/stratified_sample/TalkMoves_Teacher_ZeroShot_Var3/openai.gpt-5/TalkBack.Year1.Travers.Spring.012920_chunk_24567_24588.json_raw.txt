@@ -1,0 +1,88 @@
+{
+  "records": [
+    {
+      "ID": 24572,
+      "Speaker": "T",
+      "Turn": 68,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24574,
+      "Speaker": "T",
+      "Turn": 70,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher reformulates the student’s vague idea (“the same thing”) into precise language (“equal amount of space”)."
+    },
+    {
+      "ID": 24576,
+      "Speaker": "T",
+      "Turn": 72,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher orients the whole class to attend to a peer group’s discussion."
+    },
+    {
+      "ID": 24577,
+      "Speaker": "T",
+      "Turn": 72,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Invites a student/group to share with the class, promoting collective attention."
+    },
+    {
+      "ID": 24578,
+      "Speaker": "T",
+      "Turn": 72,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24579,
+      "Speaker": "T",
+      "Turn": 72,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Paraphrases a student’s contribution and introduces/clarifies the term “interval.”"
+    },
+    {
+      "ID": 24580,
+      "Speaker": "T",
+      "Turn": 72,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Asks students to explain the meaning and justify its importance."
+    },
+    {
+      "ID": 24582,
+      "Speaker": "T",
+      "Turn": 74,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Restates and generalizes the student’s idea about inches into the broader concept of specifying a unit of measurement."
+    },
+    {
+      "ID": 24583,
+      "Speaker": "T",
+      "Turn": 74,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24584,
+      "Speaker": "T",
+      "Turn": 74,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Manages turn-taking by asking a student to call on the next speaker, orienting students to one another."
+    },
+    {
+      "ID": 24587,
+      "Speaker": "T",
+      "Turn": 77,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Prompts the student to clarify the referent of “them,” encouraging precise language."
+    },
+    {
+      "ID": 24588,
+      "Speaker": "T",
+      "Turn": 77,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Begins a prompt that pushes the student to specify 'between what,' aiming for precise mathematical language."
+    }
+  ]
+}

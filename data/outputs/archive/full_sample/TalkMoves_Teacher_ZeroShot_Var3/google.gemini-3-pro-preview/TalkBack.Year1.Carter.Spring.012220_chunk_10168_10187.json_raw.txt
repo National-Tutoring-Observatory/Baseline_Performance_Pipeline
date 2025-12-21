@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 10168,
+      "Speaker": "T",
+      "Turn": 10168,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases the student's actions and findings ('You divided this into three groups you found 13 first but you had two of them') to clarify the mathematical steps taken."
+    },
+    {
+      "ID": 10169,
+      "Speaker": "T",
+      "Turn": 10169,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher explains the logic connecting the groups to the total ('So one group plus another group is 23 because two times two is four'), implicitly prompting the student to follow this reasoning."
+    },
+    {
+      "ID": 10170,
+      "Speaker": "T",
+      "Turn": 10170,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 10171,
+      "Speaker": "T",
+      "Turn": 10171,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 10172,
+      "Speaker": "T",
+      "Turn": 10172,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 10173,
+      "Speaker": "T",
+      "Turn": 10173,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 10174,
+      "Speaker": "T",
+      "Turn": 10174,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a specific calculation question ('How many more do I need') to prompt a precise mathematical answer."
+    },
+    {
+      "ID": 10175,
+      "Speaker": "T",
+      "Turn": 10175,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 10176,
+      "Speaker": "T",
+      "Turn": 10176,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 10177,
+      "Speaker": "T",
+      "Turn": 10177,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher checks for understanding ('Do you see that') to ensure the student is following the demonstration."
+    },
+    {
+      "ID": 10178,
+      "Speaker": "T",
+      "Turn": 10178,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 10179,
+      "Speaker": "T",
+      "Turn": 10179,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a direct calculation question ('Whats 13 of this') requiring a specific numerical answer."
+    },
+    {
+      "ID": 10180,
+      "Speaker": "T",
+      "Turn": 10180,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts the student to connect the concept of 'making a third' to the procedure of grouping ('How many groups do we make that into if were making a third')."
+    },
+    {
+      "ID": 10181,
+      "Speaker": "T",
+      "Turn": 10181,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 10182,
+      "Speaker": "T",
+      "Turn": 10182,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the correct answer ('Three groups') likely provided by the student, confirming the mathematical idea."
+    },
+    {
+      "ID": 10183,
+      "Speaker": "T",
+      "Turn": 10183,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher contrasts the current finding with the goal ('13 is four but we need 23'), prompting the student to think about the next step in the logic."
+    },
+    {
+      "ID": 10184,
+      "Speaker": "T",
+      "Turn": 10184,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher describes what the student did ('You just divided it into half') to clarify the student's action in mathematical terms."
+    },
+    {
+      "ID": 10185,
+      "Speaker": "T",
+      "Turn": 10185,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 10186,
+      "Speaker": "T",
+      "Turn": 10186,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a calculation question ('13 plus 13 is how many thirds') to prompt a specific mathematical fact."
+    },
+    {
+      "ID": 10187,
+      "Speaker": "T",
+      "Turn": 10187,
+      "TalkMove": "None",
+      "Reasoning": null
+    }
+  ]
+}

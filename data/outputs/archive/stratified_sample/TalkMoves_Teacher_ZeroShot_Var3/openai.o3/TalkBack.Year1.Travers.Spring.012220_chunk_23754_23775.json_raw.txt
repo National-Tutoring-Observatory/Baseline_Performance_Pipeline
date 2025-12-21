@@ -1,0 +1,109 @@
+{
+  "records": [
+    {
+      "ID": 23754,
+      "Speaker": "T",
+      "Turn": 49,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher begins a definition and implicitly prompts students to supply the precise mathematical wording for the denominator."
+    },
+    {
+      "ID": 23756,
+      "Speaker": "T",
+      "Turn": 51,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23758,
+      "Speaker": "T",
+      "Turn": 53,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to elaborate (“Tell me more”), prompting further explanation of the idea."
+    },
+    {
+      "ID": 23760,
+      "Speaker": "T",
+      "Turn": 55,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23762,
+      "Speaker": "T",
+      "Turn": 57,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23764,
+      "Speaker": "T",
+      "Turn": 59,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23765,
+      "Speaker": "T",
+      "Turn": 59,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher directs students’ attention back to the screen, ensuring shared focus."
+    },
+    {
+      "ID": 23766,
+      "Speaker": "T",
+      "Turn": 59,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23767,
+      "Speaker": "T",
+      "Turn": 59,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher manages classroom participation by inviting a student to the front, coordinating class attention on that student’s work."
+    },
+    {
+      "ID": 23770,
+      "Speaker": "T",
+      "Turn": 62,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher restates the student’s idea in her own words to clarify it for the class."
+    },
+    {
+      "ID": 23771,
+      "Speaker": "T",
+      "Turn": 62,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher asks the class, “What do we think about that?” prompting them to react to the peer’s statement."
+    },
+    {
+      "ID": 23772,
+      "Speaker": "T",
+      "Turn": 62,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher again repeats the idea so all can consider it, slightly rephrasing the student’s words."
+    },
+    {
+      "ID": 23773,
+      "Speaker": "T",
+      "Turn": 62,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "Requesting “Hand signals please” encourages students to show agreement or disagreement with the idea just discussed."
+    },
+    {
+      "ID": 23774,
+      "Speaker": "T",
+      "Turn": 62,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23775,
+      "Speaker": "T",
+      "Turn": 64,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks the class to supply the exact mathematical term (‘numerator’) to complete the definition correctly."
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "records": [
+    {
+      "ID": 24649,
+      "Turn": 105,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24650,
+      "Turn": 105,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24652,
+      "Turn": 107,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to explain the process used to arrive at their answer."
+    },
+    {
+      "ID": 24654,
+      "Turn": 109,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's idea but clarifies 'the top' as 'this first row'."
+    },
+    {
+      "ID": 24655,
+      "Turn": 109,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to state a specific, correct value from the data set."
+    },
+    {
+      "ID": 24657,
+      "Turn": 111,
+      "Speaker": "T",
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's answer '11' verbatim."
+    },
+    {
+      "ID": 24660,
+      "Turn": 113,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24661,
+      "Turn": 113,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to complete the calculation based on the student's stated method."
+    },
+    {
+      "ID": 24663,
+      "Turn": 115,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24664,
+      "Turn": 115,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24665,
+      "Turn": 115,
+      "Speaker": "T",
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher asks a student if their method was different from the one just shared, prompting a comparison of ideas."
+    },
+    {
+      "ID": 24669,
+      "Turn": 117,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher summarizes and rephrases the student's complex strategy in more general terms."
+    },
+    {
+      "ID": 24670,
+      "Turn": 117,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24671,
+      "Turn": 117,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24672,
+      "Turn": 117,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24673,
+      "Turn": 117,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24674,
+      "Turn": 117,
+      "Speaker": "T",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher directs students to engage with each other in a turn-and-talk activity."
+    },
+    {
+      "ID": 24675,
+      "Turn": 117,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24676,
+      "Turn": 118,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

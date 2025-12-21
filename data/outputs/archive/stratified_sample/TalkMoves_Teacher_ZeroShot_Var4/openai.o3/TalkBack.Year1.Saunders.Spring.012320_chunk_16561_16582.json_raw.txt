@@ -1,0 +1,53 @@
+{
+  "records": [
+    {
+      "ID": 16562,
+      "Speaker": "T",
+      "Turn": 133,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16565,
+      "Speaker": "T",
+      "Turn": 135,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher identifies the specific problems (“five and six”) so all students know exactly which items are under discussion."
+    },
+    {
+      "ID": 16577,
+      "Speaker": "T",
+      "Turn": 141,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher restates and elaborates on the student’s idea about symmetry, keeping the core of the student’s contribution but adding clarification."
+    },
+    {
+      "ID": 16578,
+      "Speaker": "T",
+      "Turn": 141,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Continues to restate and elaborate the student’s explanation, maintaining the student’s reasoning while adding detail."
+    },
+    {
+      "ID": 16579,
+      "Speaker": "T",
+      "Turn": 141,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16581,
+      "Speaker": "T",
+      "Turn": 143,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16582,
+      "Speaker": "T",
+      "Turn": 143,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher begins summarizing what the prior discussion ('that whole thing') conveys, effectively paraphrasing the student’s ideas."
+    }
+  ]
+}

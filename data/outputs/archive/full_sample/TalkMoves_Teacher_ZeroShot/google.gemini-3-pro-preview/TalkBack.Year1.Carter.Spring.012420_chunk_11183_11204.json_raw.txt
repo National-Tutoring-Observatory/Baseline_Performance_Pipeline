@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 11183,
+      "Speaker": "T",
+      "Turn": 11183,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11184,
+      "Speaker": "T",
+      "Turn": 11184,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11185,
+      "Speaker": "T",
+      "Turn": 11185,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11186,
+      "Speaker": "T",
+      "Turn": 11186,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11187,
+      "Speaker": "T",
+      "Turn": 11187,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher explicitly asks for the 'number model' and the 'answer', prompting the student to provide specific mathematical components."
+    },
+    {
+      "ID": 11188,
+      "Speaker": "T",
+      "Turn": 11188,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11190,
+      "Speaker": "T",
+      "Turn": 11190,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11191,
+      "Speaker": "T",
+      "Turn": 11191,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11192,
+      "Speaker": "T",
+      "Turn": 11192,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11193,
+      "Speaker": "T",
+      "Turn": 11193,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11195,
+      "Speaker": "T",
+      "Turn": 11195,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher corrects the student's representation by instructing them to 'Just put the variable', ensuring the mathematical notation is correct."
+    },
+    {
+      "ID": 11196,
+      "Speaker": "T",
+      "Turn": 11196,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher instructs students to add a variable if missing, enforcing correct mathematical modeling."
+    },
+    {
+      "ID": 11197,
+      "Speaker": "T",
+      "Turn": 11197,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher questions the operation being used ('Are you dividing'), prompting the student to think about the correct operation."
+    },
+    {
+      "ID": 11198,
+      "Speaker": "T",
+      "Turn": 11198,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11199,
+      "Speaker": "T",
+      "Turn": 11199,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks the student to verify the specific numbers in the problem ('Does it say 48 or 45')."
+    },
+    {
+      "ID": 11200,
+      "Speaker": "T",
+      "Turn": 11200,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher reads the problem text to prompt the student to identify the correct mathematical operation required."
+    },
+    {
+      "ID": 11201,
+      "Speaker": "T",
+      "Turn": 11201,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11202,
+      "Speaker": "T",
+      "Turn": 11202,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher explains why division is incorrect ('Youre not breaking it into groups'), providing the reasoning behind the operation choice."
+    },
+    {
+      "ID": 11203,
+      "Speaker": "T",
+      "Turn": 11203,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11204,
+      "Speaker": "T",
+      "Turn": 11204,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the 'actual answer', prompting for the final mathematical result."
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "records": [
+    {
+      "ID": 4935,
+      "Speaker": "T",
+      "Turn": 144,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4936,
+      "Speaker": "T",
+      "Turn": 144,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4941,
+      "Speaker": "T",
+      "Turn": 148,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4942,
+      "Speaker": "T",
+      "Turn": 148,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4943,
+      "Speaker": "T",
+      "Turn": 148,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4944,
+      "Speaker": "T",
+      "Turn": 148,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4949,
+      "Speaker": "T",
+      "Turn": 152,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4950,
+      "Speaker": "T",
+      "Turn": 152,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts the student to reflect on their own understanding to make a decision about whether they need to listen to the explanation."
+    },
+    {
+      "ID": 4952,
+      "Speaker": "T",
+      "Turn": 154,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4953,
+      "Speaker": "T",
+      "Turn": 154,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4954,
+      "Speaker": "T",
+      "Turn": 154,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher checks to ensure all students are attentive and ready to move on with the group."
+    },
+    {
+      "ID": 4955,
+      "Speaker": "T",
+      "Turn": 154,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher calls a student by name to bring their attention to the group activity, prompting them to be an active listener."
+    }
+  ]
+}

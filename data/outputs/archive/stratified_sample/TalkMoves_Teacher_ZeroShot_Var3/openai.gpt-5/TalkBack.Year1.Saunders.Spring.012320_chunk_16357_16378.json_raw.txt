@@ -1,0 +1,137 @@
+{
+  "records": [
+    {
+      "ID": 16357,
+      "Speaker": "T",
+      "Turn": 22,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16358,
+      "Speaker": "T",
+      "Turn": 22,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks how to find a corresponding value given x, prompting a specific mathematical procedure."
+    },
+    {
+      "ID": 16359,
+      "Speaker": "T",
+      "Turn": 22,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16360,
+      "Speaker": "T",
+      "Turn": 23,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16361,
+      "Speaker": "T",
+      "Turn": 23,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16362,
+      "Speaker": "T",
+      "Turn": 23,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16363,
+      "Speaker": "T",
+      "Turn": 23,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16364,
+      "Speaker": "T",
+      "Turn": 23,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks how students would multiply 2 × 3 × 4, eliciting an explanation of their method."
+    },
+    {
+      "ID": 16365,
+      "Speaker": "T",
+      "Turn": 23,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts a specific computation (2 × 3 × 4)."
+    },
+    {
+      "ID": 16366,
+      "Speaker": "T",
+      "Turn": 23,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks whether order matters, prompting reasoning about multiplication properties."
+    },
+    {
+      "ID": 16368,
+      "Speaker": "T",
+      "Turn": 25,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher restates the student's 'No' as 'It still doesn’t matter,' clarifying the idea."
+    },
+    {
+      "ID": 16369,
+      "Speaker": "T",
+      "Turn": 25,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16370,
+      "Speaker": "T",
+      "Turn": 25,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher requests the numerical answer."
+    },
+    {
+      "ID": 16371,
+      "Speaker": "T",
+      "Turn": 25,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the result of a specific multiplication (2 × 3)."
+    },
+    {
+      "ID": 16373,
+      "Speaker": "T",
+      "Turn": 27,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher cues the next computation step (multiply by 4)."
+    },
+    {
+      "ID": 16374,
+      "Speaker": "T",
+      "Turn": 29,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16375,
+      "Speaker": "T",
+      "Turn": 29,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher paraphrases Trish’s question to clarify her idea for the class."
+    },
+    {
+      "ID": 16376,
+      "Speaker": "T",
+      "Turn": 30,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16377,
+      "Speaker": "T",
+      "Turn": 30,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

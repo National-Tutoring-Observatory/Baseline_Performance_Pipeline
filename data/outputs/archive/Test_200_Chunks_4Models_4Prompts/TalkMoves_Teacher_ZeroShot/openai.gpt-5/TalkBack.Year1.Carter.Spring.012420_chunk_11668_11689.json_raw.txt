@@ -1,0 +1,91 @@
+{
+  "records": [
+    {
+      "ID": 11668,
+      "Speaker": "T",
+      "Turn": 225
+    },
+    {
+      "ID": 11669,
+      "Speaker": "T",
+      "Turn": 226
+    },
+    {
+      "ID": 11671,
+      "Speaker": "T",
+      "Turn": 226
+    },
+    {
+      "ID": 11674,
+      "Speaker": "T",
+      "Turn": 228,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks students to identify what the paper represents mathematically, prompting a specific mathematical description."
+    },
+    {
+      "ID": 11675,
+      "Speaker": "T",
+      "Turn": 229
+    },
+    {
+      "ID": 11677,
+      "Speaker": "T",
+      "Turn": 231,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Checks for the correct interpretation of the situation (whether it's a whole pizza), prompting a precise mathematical claim."
+    },
+    {
+      "ID": 11680,
+      "Speaker": "T",
+      "Turn": 234
+    },
+    {
+      "ID": 11681,
+      "Speaker": "T",
+      "Turn": 235,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Asks what to do and why, eliciting students’ explanations and justifications for their actions on the representation."
+    },
+    {
+      "ID": 11682,
+      "Speaker": "T",
+      "Turn": 235,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Directs students to talk with their shoulder partner and specifies whose turn it is, orienting students to each other as speakers/listeners."
+    },
+    {
+      "ID": 11683,
+      "Speaker": "T",
+      "Turn": 235
+    },
+    {
+      "ID": 11684,
+      "Speaker": "T",
+      "Turn": 236
+    },
+    {
+      "ID": 11685,
+      "Speaker": "T",
+      "Turn": 237
+    },
+    {
+      "ID": 11686,
+      "Speaker": "T",
+      "Turn": 237,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Requests students to state what the representation stands for, seeking the correct mathematical meaning."
+    },
+    {
+      "ID": 11687,
+      "Speaker": "T",
+      "Turn": 237,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Repeats the prompt to identify the representation, again eliciting a precise mathematical description."
+    },
+    {
+      "ID": 11688,
+      "Speaker": "T",
+      "Turn": 237
+    }
+  ]
+}

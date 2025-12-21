@@ -1,0 +1,30 @@
+[
+  {
+    "ID": 8476,
+    "Turn": 160,
+    "Speaker": "T",
+    "TalkMove": "Pressing for Reasoning",
+    "Reasoning": "The teacher asks a 'why' question, prompting the student to explain their thinking."
+  },
+  {
+    "ID": 8479,
+    "Turn": 162,
+    "Speaker": "T",
+    "TalkMove": "Pressing for Reasoning",
+    "Reasoning": "The teacher re-poses the original 'why' question to redirect the student's thinking and elicit a more focused explanation."
+  },
+  {
+    "ID": 8490,
+    "Turn": 164,
+    "Speaker": "T",
+    "TalkMove": "Getting Students to Relate to Another’s Ideas",
+    "Reasoning": "The teacher explicitly asks a student to 'connect' their idea to what a previous student said."
+  },
+  {
+    "ID": 8493,
+    "Turn": 166,
+    "Speaker": "T",
+    "TalkMove": "Revoicing",
+    "Reasoning": "The teacher takes the students' ideas about fractions having different denominators/sizes and rephrases them using an analogy of 'different units' to clarify the concept."
+  }
+]

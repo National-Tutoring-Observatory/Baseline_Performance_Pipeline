@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 1138,
+      "Speaker": "T",
+      "Turn": 1138,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 1139,
+      "Speaker": "T",
+      "Turn": 1139,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 1140,
+      "Speaker": "T",
+      "Turn": 1140,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 1141,
+      "Speaker": "T",
+      "Turn": 1141,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for a specific solution to the word problem."
+    },
+    {
+      "ID": 1143,
+      "Speaker": "T",
+      "Turn": 1143,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 1145,
+      "Speaker": "T",
+      "Turn": 1145,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats and rephrases the student's explanation using 'So you said that...' to verify understanding."
+    },
+    {
+      "ID": 1146,
+      "Speaker": "T",
+      "Turn": 1146,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher continues to rephrase and summarize the student's mathematical steps."
+    },
+    {
+      "ID": 1147,
+      "Speaker": "T",
+      "Turn": 1147,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks for a different explanation or strategy for the same problem."
+    },
+    {
+      "ID": 1148,
+      "Speaker": "T",
+      "Turn": 1148,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 1151,
+      "Speaker": "T",
+      "Turn": 1151,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher summarizes the student's strategy, clarifying how they 'thought of it'."
+    },
+    {
+      "ID": 1152,
+      "Speaker": "T",
+      "Turn": 1152,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher checks for a specific common incorrect answer (2/6) to address a misconception."
+    },
+    {
+      "ID": 1153,
+      "Speaker": "T",
+      "Turn": 1153,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 1154,
+      "Speaker": "T",
+      "Turn": 1154,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for a specific mathematical definition regarding the denominator."
+    },
+    {
+      "ID": 1155,
+      "Speaker": "T",
+      "Turn": 1155,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 1157,
+      "Speaker": "T",
+      "Turn": 1157,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's answer and verifies it using 'So you think that...'."
+    },
+    {
+      "ID": 1159,
+      "Speaker": "T",
+      "Turn": 1159,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher asks a student to add on to or clarify a peer's contribution."
+    },
+    {
+      "ID": 1161,
+      "Speaker": "T",
+      "Turn": 1161,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's definition to broadcast it to the class."
+    },
+    {
+      "ID": 1162,
+      "Speaker": "T",
+      "Turn": 1162,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 1163,
+      "Speaker": "T",
+      "Turn": 1163,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 1165,
+      "Speaker": "T",
+      "Turn": 1165,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a specific factual question about the model to correct a misconception."
+    }
+  ]
+}

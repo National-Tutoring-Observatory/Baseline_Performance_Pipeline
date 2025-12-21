@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 2538,
+      "Speaker": "T",
+      "Turn": 2538,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher poses a specific calculation problem (400 x 6) to a student, prompting for a mathematical answer."
+    },
+    {
+      "ID": 2540,
+      "Speaker": "T",
+      "Turn": 2540,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 2541,
+      "Speaker": "T",
+      "Turn": 2541,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher poses a specific calculation problem (700 x 5) to a student, prompting for a mathematical answer."
+    },
+    {
+      "ID": 2543,
+      "Speaker": "T",
+      "Turn": 2543,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to check a specific detail (number of zeros) to correct their calculation."
+    },
+    {
+      "ID": 2545,
+      "Speaker": "T",
+      "Turn": 2545,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher guides the student to the correct answer by confirming the number of zeros and prompting for the result."
+    },
+    {
+      "ID": 2547,
+      "Speaker": "T",
+      "Turn": 2547,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 2548,
+      "Speaker": "T",
+      "Turn": 2548,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's corrected answer (3500) and labels it as a 'good revision'."
+    },
+    {
+      "ID": 2549,
+      "Speaker": "T",
+      "Turn": 2549,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher poses a specific calculation problem (900 x 8) to a student, prompting for a mathematical answer."
+    },
+    {
+      "ID": 2551,
+      "Speaker": "T",
+      "Turn": 2551,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 2552,
+      "Speaker": "T",
+      "Turn": 2552,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks students to provide the specific number model or equation they wrote."
+    },
+    {
+      "ID": 2553,
+      "Speaker": "T",
+      "Turn": 2553,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher calls on a specific student to share the equation they wrote."
+    },
+    {
+      "ID": 2555,
+      "Speaker": "T",
+      "Turn": 2555,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher explicitly asks for the equation again, focusing the student on providing the mathematical representation."
+    },
+    {
+      "ID": 2557,
+      "Speaker": "T",
+      "Turn": 2557,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 2558,
+      "Speaker": "T",
+      "Turn": 2558,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher reminds students of the requirement to use a variable (letter) for the unknown, pressing for correct notation."
+    },
+    {
+      "ID": 2559,
+      "Speaker": "T",
+      "Turn": 2559,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks the student to choose a specific variable to complete the equation."
+    },
+    {
+      "ID": 2561,
+      "Speaker": "T",
+      "Turn": 2561,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher restates the mathematical expression (540 / 9) that was likely discussed or written, formalizing it."
+    },
+    {
+      "ID": 2562,
+      "Speaker": "T",
+      "Turn": 2562,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks specifically about the notation used (division symbol)."
+    },
+    {
+      "ID": 2564,
+      "Speaker": "T",
+      "Turn": 2564,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 2565,
+      "Speaker": "T",
+      "Turn": 2565,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 2566,
+      "Speaker": "T",
+      "Turn": 2566,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher asks the rest of the class if anyone used a different symbol for the same operation, inviting others to compare their work."
+    }
+  ]
+}

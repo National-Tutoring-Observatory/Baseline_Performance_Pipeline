@@ -1,0 +1,404 @@
+{
+  "records": [
+    {
+      "ID": 22804,
+      "Turn": 140,
+      "Speaker": "T",
+      "Sentence": "Three",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22805,
+      "Turn": 140,
+      "Speaker": "T",
+      "Sentence": "So what I know now is 14 is equivalent to 312",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher summarizes the mathematical conclusion from the previous steps, rephrasing it as a formal statement of equivalency."
+    },
+    {
+      "ID": 22806,
+      "Turn": 140,
+      "Speaker": "T",
+      "Sentence": "Okay",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22807,
+      "Turn": 140,
+      "Speaker": "T",
+      "Sentence": "How would you do it this one",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22808,
+      "Turn": 141,
+      "Speaker": "T",
+      "Sentence": "It is one",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22809,
+      "Turn": 142,
+      "Speaker": "T",
+      "Sentence": "Then what would we do to 13",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22810,
+      "Turn": 142,
+      "Speaker": "T",
+      "Sentence": "What would we multiply 13 times",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22811,
+      "Turn": 143,
+      "Speaker": "T",
+      "Sentence": "Show her",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher directs one student to demonstrate a process for another student, orienting them to each other's work."
+    },
+    {
+      "ID": 22812,
+      "Turn": 143,
+      "Speaker": "T",
+      "Sentence": "You can do it on your",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22813,
+      "Turn": 144,
+      "Speaker": "T",
+      "Sentence": "times say it Katie",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts a specific student to provide the correct mathematical term or number needed for the calculation."
+    },
+    {
+      "ID": 22815,
+      "Turn": 146,
+      "Speaker": "T",
+      "Sentence": "Times 44 which equals one",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher takes a student's contribution and modifies it into the correct mathematical operation needed for the problem, while also adding a conceptual explanation."
+    },
+    {
+      "ID": 22816,
+      "Turn": 146,
+      "Speaker": "T",
+      "Sentence": "What would we get",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22817,
+      "Turn": 147,
+      "Speaker": "T",
+      "Sentence": "Four twelves",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22818,
+      "Turn": 147,
+      "Speaker": "T",
+      "Sentence": "Now I have a new problem 312  412 equals what",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22819,
+      "Turn": 147,
+      "Speaker": "T",
+      "Sentence": "What did you guys get",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22821,
+      "Turn": 149,
+      "Speaker": "T",
+      "Sentence": "Thats what we call the multiplication rule for finding equivalent fractions and well do a couple more before you do it on your own",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22822,
+      "Turn": 149,
+      "Speaker": "T",
+      "Sentence": "Okay",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22823,
+      "Turn": 150,
+      "Speaker": "T",
+      "Sentence": "Lets give Julie a round of applause",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22824,
+      "Turn": 150,
+      "Speaker": "T",
+      "Sentence": "Thank you my dear",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22825,
+      "Turn": 151,
+      "Speaker": "T",
+      "Sentence": "All right",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22826,
+      "Turn": 151,
+      "Speaker": "T",
+      "Sentence": "So friends weve been sitting for a while",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22827,
+      "Turn": 151,
+      "Speaker": "T",
+      "Sentence": "Its time for a mix and mingle",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22828,
+      "Turn": 151,
+      "Speaker": "T",
+      "Sentence": "Okay",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22829,
+      "Turn": 151,
+      "Speaker": "T",
+      "Sentence": "Its okay",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22830,
+      "Turn": 151,
+      "Speaker": "T",
+      "Sentence": "Were going to take it step by step",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22831,
+      "Turn": 151,
+      "Speaker": "T",
+      "Sentence": "Go ahead and take your math spiral and your pencil and stand up please",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22832,
+      "Turn": 152,
+      "Speaker": "T",
+      "Sentence": "You know what",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22833,
+      "Turn": 152,
+      "Speaker": "T",
+      "Sentence": "Im going to change my thinking because I think if we do a couple of the problems in the journal then we will be more on track",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22834,
+      "Turn": 152,
+      "Speaker": "T",
+      "Sentence": "Your math spiral might help you but also grab your new math journal and please turn to Page 154",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22835,
+      "Turn": 152,
+      "Speaker": "T",
+      "Sentence": "Ms Franklin that would be on my screen on practice on the factors",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22836,
+      "Turn": 152,
+      "Speaker": "T",
+      "Sentence": "Math message",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22838,
+      "Turn": 154,
+      "Speaker": "T",
+      "Sentence": "There we go",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22839,
+      "Turn": 154,
+      "Speaker": "T",
+      "Sentence": "That was a good guess Mrs",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22840,
+      "Turn": 154,
+      "Speaker": "T",
+      "Sentence": "Okay",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22841,
+      "Turn": 154,
+      "Speaker": "T",
+      "Sentence": "My friends would you turn to this page 154",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22842,
+      "Turn": 154,
+      "Speaker": "T",
+      "Sentence": "Its not weird the first page in your journal is 154",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22843,
+      "Turn": 154,
+      "Speaker": "T",
+      "Sentence": "I always think thats funny when youre in the new version",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22845,
+      "Turn": 156,
+      "Speaker": "T",
+      "Sentence": "Its what",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22849,
+      "Turn": 160,
+      "Speaker": "T",
+      "Sentence": "Turn to Page 154 for me please",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22850,
+      "Turn": 160,
+      "Speaker": "T",
+      "Sentence": "Okay",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22851,
+      "Turn": 160,
+      "Speaker": "T",
+      "Sentence": "Here were going to try the multiplication rule for equivalent fractions",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22852,
+      "Turn": 160,
+      "Speaker": "T",
+      "Sentence": "My friends youre seeing 12",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22853,
+      "Turn": 160,
+      "Speaker": "T",
+      "Sentence": "Were going to use the multiplication rule to multiply",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22854,
+      "Turn": 160,
+      "Speaker": "T",
+      "Sentence": "If we are multiplying the denominator by two youre going to multiply 1  2 is 2 and 2  4 is 4",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22855,
+      "Turn": 160,
+      "Speaker": "T",
+      "Sentence": "You will have a new equivalent fraction",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22856,
+      "Turn": 160,
+      "Speaker": "T",
+      "Sentence": "12 is equivalent to 24",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22857,
+      "Turn": 161,
+      "Speaker": "T",
+      "Sentence": "Theres like a little saying I like to tell",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22858,
+      "Turn": 162,
+      "Speaker": "T",
+      "Sentence": "Say it",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22859,
+      "Turn": 163,
+      "Speaker": "T",
+      "Sentence": "Whatever you do to the bottom you do to the top",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22860,
+      "Turn": 163,
+      "Speaker": "T",
+      "Sentence": "Everybody say it with me",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher prompts the entire class to recite a mathematical rule together, ensuring collective participation."
+    }
+  ]
+}

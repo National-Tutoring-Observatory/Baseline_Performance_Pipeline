@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 5251,
+      "Speaker": "T",
+      "Turn": 5251,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5256,
+      "Speaker": "T",
+      "Turn": 5256,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher asks students to consider the effect of doubling, prompting them to think through the implications."
+    },
+    {
+      "ID": 5257,
+      "Speaker": "T",
+      "Turn": 5257,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher poses a yes/no question that seeks a specific factual claim about the figure (whether it becomes taller)."
+    },
+    {
+      "ID": 5258,
+      "Speaker": "T",
+      "Turn": 5258,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks for a precise description of the change (whether it becomes wider)."
+    },
+    {
+      "ID": 5259,
+      "Speaker": "T",
+      "Turn": 5259,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher requests a specific, accurate statement about both dimensions changing."
+    },
+    {
+      "ID": 5260,
+      "Speaker": "T",
+      "Turn": 5260,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5261,
+      "Speaker": "T",
+      "Turn": 5261,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5263,
+      "Speaker": "T",
+      "Turn": 5263,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher explicitly asks students to explain why they think a certain change will occur."
+    },
+    {
+      "ID": 5265,
+      "Speaker": "T",
+      "Turn": 5265,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher solicits Hunter’s thinking about the geometric consequence of changing only the x-axis."
+    },
+    {
+      "ID": 5266,
+      "Speaker": "T",
+      "Turn": 5266,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5267,
+      "Speaker": "T",
+      "Turn": 5267,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5268,
+      "Speaker": "T",
+      "Turn": 5268,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5269,
+      "Speaker": "T",
+      "Turn": 5269,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5270,
+      "Speaker": "T",
+      "Turn": 5270,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5271,
+      "Speaker": "T",
+      "Turn": 5271,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5272,
+      "Speaker": "T",
+      "Turn": 5272,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher asks for students’ ideas about the outcome of the transformation, inviting explanation."
+    },
+    {
+      "ID": 5273,
+      "Speaker": "T",
+      "Turn": 5273,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher poses specific factual options (wider, taller, or both), seeking a precise answer."
+    },
+    {
+      "ID": 5274,
+      "Speaker": "T",
+      "Turn": 5274,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher again prompts students to articulate what will happen and why when the x-axis is doubled."
+    },
+    {
+      "ID": 5277,
+      "Speaker": "T",
+      "Turn": 5277,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5283,
+      "Speaker": "T",
+      "Turn": 5283,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

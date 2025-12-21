@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 11729,
+      "Speaker": "T",
+      "Turn": 11729,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks for the answer ('What is 2/3 of 1/2') but explicitly asks for the justification ('how can you tell')."
+    },
+    {
+      "ID": 11730,
+      "Speaker": "T",
+      "Turn": 11730,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 11731,
+      "Speaker": "T",
+      "Turn": 11731,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher repeats the request for justification ('How do you know that... how can you tell')."
+    },
+    {
+      "ID": 11732,
+      "Speaker": "T",
+      "Turn": 11732,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts students to use a specific representation (model) to support their explanation while talking to a partner."
+    },
+    {
+      "ID": 11733,
+      "Speaker": "T",
+      "Turn": 11733,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher is managing the flow of the partner talk, ensuring students know who speaks first."
+    },
+    {
+      "ID": 11734,
+      "Speaker": "T",
+      "Turn": 11734,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 11735,
+      "Speaker": "T",
+      "Turn": 11735,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher calls the class back to attention ('Okay back to me')."
+    },
+    {
+      "ID": 11736,
+      "Speaker": "T",
+      "Turn": 11736,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the core question again, requiring both the answer and the explanation ('how can you tell')."
+    },
+    {
+      "ID": 11737,
+      "Speaker": "T",
+      "Turn": 11737,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 11739,
+      "Speaker": "T",
+      "Turn": 11739,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher repeats the prompt for justification to a specific student."
+    },
+    {
+      "ID": 11741,
+      "Speaker": "T",
+      "Turn": 11741,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher directs the student to use a representation ('paperfolding model') to support their thinking."
+    },
+    {
+      "ID": 11743,
+      "Speaker": "T",
+      "Turn": 11743,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 11744,
+      "Speaker": "T",
+      "Turn": 11744,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher challenges the student to check their thinking against the model ('Does your model not show that')."
+    },
+    {
+      "ID": 11746,
+      "Speaker": "T",
+      "Turn": 11746,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher models reasoning by describing evidence from the representation ('I see that theres two squares... that have double shading')."
+    },
+    {
+      "ID": 11747,
+      "Speaker": "T",
+      "Turn": 11747,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks the student to confirm if their model matches the correct mathematical representation described."
+    },
+    {
+      "ID": 11749,
+      "Speaker": "T",
+      "Turn": 11749,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 11750,
+      "Speaker": "T",
+      "Turn": 11750,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher explicitly asks for the explanation behind the answer ('How can you tell that its 2/6')."
+    },
+    {
+      "ID": 11754,
+      "Speaker": "T",
+      "Turn": 11754,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 11756,
+      "Speaker": "T",
+      "Turn": 11756,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 11758,
+      "Speaker": "T",
+      "Turn": 11758,
+      "TalkMove": "None",
+      "Reasoning": null
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "records": [
+    {
+      "ID": 14970,
+      "Turn": 9,
+      "Speaker": "T",
+      "Sentence": "Here is two orange pieces in here",
+      "TalkMove": null
+    },
+    {
+      "ID": 14971,
+      "Turn": 9,
+      "Speaker": "T",
+      "Sentence": "Its three orange pieces",
+      "TalkMove": null
+    },
+    {
+      "ID": 14972,
+      "Turn": 9,
+      "Speaker": "T",
+      "Sentence": "Two plus three equals five",
+      "TalkMove": null
+    },
+    {
+      "ID": 14973,
+      "Turn": 9,
+      "Speaker": "T",
+      "Sentence": "Adding is when you put two groups together",
+      "TalkMove": null
+    },
+    {
+      "ID": 14974,
+      "Turn": 9,
+      "Speaker": "T",
+      "Sentence": "Thats what adding is",
+      "TalkMove": null
+    },
+    {
+      "ID": 14975,
+      "Turn": 9,
+      "Speaker": "T",
+      "Sentence": "What is adding",
+      "TalkMove": "Pressing for Accuracy"
+    },
+    {
+      "ID": 14976,
+      "Turn": 9,
+      "Speaker": "T",
+      "Sentence": "Adding is when you put two groups together",
+      "TalkMove": null
+    },
+    {
+      "ID": 14977,
+      "Turn": 9,
+      "Speaker": "T",
+      "Sentence": "What is adding",
+      "TalkMove": "Pressing for Accuracy"
+    },
+    {
+      "ID": 14978,
+      "Turn": 10,
+      "Speaker": "S",
+      "Sentence": "When you put two groups together"
+    },
+    {
+      "ID": 14979,
+      "Turn": 11,
+      "Speaker": "T",
+      "Sentence": "Start with a complete sentence please",
+      "TalkMove": null
+    },
+    {
+      "ID": 14980,
+      "Turn": 12,
+      "Speaker": "S",
+      "Sentence": "Adding is when you put two groups together"
+    },
+    {
+      "ID": 14981,
+      "Turn": 13,
+      "Speaker": "T",
+      "Sentence": "My question that you were supposed to be talking about was what is multiplication",
+      "TalkMove": null
+    },
+    {
+      "ID": 14982,
+      "Turn": 13,
+      "Speaker": "T",
+      "Sentence": "I dont want strategies",
+      "TalkMove": null
+    },
+    {
+      "ID": 14983,
+      "Turn": 13,
+      "Speaker": "T",
+      "Sentence": "I dont want examples",
+      "TalkMove": null
+    },
+    {
+      "ID": 14984,
+      "Turn": 13,
+      "Speaker": "T",
+      "Sentence": "I want to literally know when Im multiplying what am I doing with numbers",
+      "TalkMove": "Pressing for Accuracy"
+    },
+    {
+      "ID": 14985,
+      "Turn": 13,
+      "Speaker": "T",
+      "Sentence": "Bailey",
+      "TalkMove": null
+    },
+    {
+      "ID": 14986,
+      "Turn": 14,
+      "Speaker": "S",
+      "Sentence": "Youre doubling the numbers"
+    },
+    {
+      "ID": 14987,
+      "Turn": 14,
+      "Speaker": "S",
+      "Sentence": "The number youre"
+    },
+    {
+      "ID": 14988,
+      "Turn": 15,
+      "Speaker": "T",
+      "Sentence": "Okay",
+      "TalkMove": null
+    },
+    {
+      "ID": 14989,
+      "Turn": 15,
+      "Speaker": "T",
+      "Sentence": "Im doubling",
+      "TalkMove": "Restating"
+    },
+    {
+      "ID": 14990,
+      "Turn": 15,
+      "Speaker": "T",
+      "Sentence": "What does doubling mean",
+      "TalkMove": "Pressing for Reasoning"
+    },
+    {
+      "ID": 14991,
+      "Turn": 15,
+      "Speaker": "T",
+      "Sentence": "Can you give me more to that",
+      "TalkMove": "Pressing for Reasoning"
+    }
+  ]
+}

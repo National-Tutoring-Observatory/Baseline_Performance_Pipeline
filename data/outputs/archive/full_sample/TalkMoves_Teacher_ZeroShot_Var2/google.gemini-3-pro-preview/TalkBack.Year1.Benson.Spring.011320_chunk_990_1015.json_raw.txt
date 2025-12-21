@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 990,
+      "Speaker": "T",
+      "Turn": 990,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 991,
+      "Speaker": "T",
+      "Turn": 991,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 992,
+      "Speaker": "T",
+      "Turn": 992,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 993,
+      "Speaker": "T",
+      "Turn": 993,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 994,
+      "Speaker": "T",
+      "Turn": 994,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 995,
+      "Speaker": "T",
+      "Turn": 995,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's question to the whole class, broadcasting the idea."
+    },
+    {
+      "ID": 996,
+      "Speaker": "T",
+      "Turn": 996,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks students to identify the specific geometric pieces that fit a constraint."
+    },
+    {
+      "ID": 997,
+      "Speaker": "T",
+      "Turn": 997,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 999,
+      "Speaker": "T",
+      "Turn": 999,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's answer ('The blue') word for word."
+    },
+    {
+      "ID": 1000,
+      "Speaker": "T",
+      "Turn": 1000,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's contribution but adds precision by specifying 'light blue'."
+    },
+    {
+      "ID": 1002,
+      "Speaker": "T",
+      "Turn": 1002,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1003,
+      "Speaker": "T",
+      "Turn": 1003,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for a specific calculation of how many more pieces are needed."
+    },
+    {
+      "ID": 1005,
+      "Speaker": "T",
+      "Turn": 1005,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to check their manipulatives for a specific shape."
+    },
+    {
+      "ID": 1007,
+      "Speaker": "T",
+      "Turn": 1007,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks students to confirm the specific combination of pieces they possess."
+    },
+    {
+      "ID": 1009,
+      "Speaker": "T",
+      "Turn": 1009,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1010,
+      "Speaker": "T",
+      "Turn": 1010,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1011,
+      "Speaker": "T",
+      "Turn": 1011,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1013,
+      "Speaker": "T",
+      "Turn": 1013,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1014,
+      "Speaker": "T",
+      "Turn": 1014,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1015,
+      "Speaker": "T",
+      "Turn": 1015,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

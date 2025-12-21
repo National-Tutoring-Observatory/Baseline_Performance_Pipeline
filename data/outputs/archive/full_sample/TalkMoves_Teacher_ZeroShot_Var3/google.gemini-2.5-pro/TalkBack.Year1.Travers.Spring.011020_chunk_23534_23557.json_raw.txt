@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 23534,
+      "Speaker": "T",
+      "Turn": 23534,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23535,
+      "Speaker": "T",
+      "Turn": 23535,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23536,
+      "Speaker": "T",
+      "Turn": 23536,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23537,
+      "Speaker": "T",
+      "Turn": 23537,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the class to explain the process for finding equivalent fractions, prompting them to share their thinking."
+    },
+    {
+      "ID": 23538,
+      "Speaker": "T",
+      "Turn": 23538,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23539,
+      "Speaker": "T",
+      "Turn": 23539,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23540,
+      "Speaker": "T",
+      "Turn": 23540,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts the student to explain his method for solving the problem, asking for the thinking behind the solution."
+    },
+    {
+      "ID": 23542,
+      "Speaker": "T",
+      "Turn": 23542,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23543,
+      "Speaker": "T",
+      "Turn": 23543,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher explicitly asks the student to explain both the action (\"what you're doing\") and the justification for it (\"and why\")."
+    },
+    {
+      "ID": 23545,
+      "Speaker": "T",
+      "Turn": 23545,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher attempts to repeat the student's idea for the class, attributing the idea to the student."
+    },
+    {
+      "ID": 23546,
+      "Speaker": "T",
+      "Turn": 23546,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher corrects the mathematical term from \"factors\" to \"multiples,\" prompting for more precise language."
+    },
+    {
+      "ID": 23547,
+      "Speaker": "T",
+      "Turn": 23547,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's action using the corrected, more precise mathematical term for the benefit of the class."
+    },
+    {
+      "ID": 23549,
+      "Speaker": "T",
+      "Turn": 23549,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher directs one student's attention to what another student is doing, prompting them to be an active listener/observer."
+    },
+    {
+      "ID": 23550,
+      "Speaker": "T",
+      "Turn": 23550,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher continues to orient one student's attention to another student's work."
+    },
+    {
+      "ID": 23551,
+      "Speaker": "T",
+      "Turn": 23551,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23552,
+      "Speaker": "T",
+      "Turn": 23552,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "After summarizing the students' actions, the teacher asks for the next step in the process, prompting the student to continue explaining their method."
+    },
+    {
+      "ID": 23554,
+      "Speaker": "T",
+      "Turn": 23554,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher verbalizes the student's non-verbal action, repeating their contribution for the rest of the class."
+    },
+    {
+      "ID": 23555,
+      "Speaker": "T",
+      "Turn": 23555,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to explain how their action connects to the mathematical goal, prompting them to provide justification and connect ideas."
+    },
+    {
+      "ID": 23556,
+      "Speaker": "T",
+      "Turn": 23556,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23557,
+      "Speaker": "T",
+      "Turn": 23557,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to explain the next step in their process, prompting them to share their thinking about how to apply their findings."
+    }
+  ]
+}

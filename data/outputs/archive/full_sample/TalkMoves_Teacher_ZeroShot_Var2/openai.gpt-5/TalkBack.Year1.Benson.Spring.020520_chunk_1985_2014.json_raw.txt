@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 1985,
+      "Speaker": "T",
+      "Turn": 1985,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for a specific computed result, prompting an accurate mathematical contribution."
+    },
+    {
+      "ID": 1987,
+      "Speaker": "T",
+      "Turn": 1987,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks whether order matters in multiplication, inviting explanation of the concept."
+    },
+    {
+      "ID": 1989,
+      "Speaker": "T",
+      "Turn": 1989,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1990,
+      "Speaker": "T",
+      "Turn": 1990,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher checks the correctness of the multiplication setup using the given quantities."
+    },
+    {
+      "ID": 1992,
+      "Speaker": "T",
+      "Turn": 1992,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to evaluate if an approach would work, prompting justification."
+    },
+    {
+      "ID": 1993,
+      "Speaker": "T",
+      "Turn": 1993,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher requests the product of 3 × 2, eliciting a precise calculation."
+    },
+    {
+      "ID": 1995,
+      "Speaker": "T",
+      "Turn": 1995,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the product of 6 × 30, prompting a correct numerical answer."
+    },
+    {
+      "ID": 1997,
+      "Speaker": "T",
+      "Turn": 1997,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1998,
+      "Speaker": "T",
+      "Turn": 1998,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1999,
+      "Speaker": "T",
+      "Turn": 1999,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the product of 6 × 3, eliciting a specific computation."
+    },
+    {
+      "ID": 2001,
+      "Speaker": "T",
+      "Turn": 2001,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher summarizes a student’s conclusion that the method works, restating it in her own words."
+    },
+    {
+      "ID": 2002,
+      "Speaker": "T",
+      "Turn": 2002,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2003,
+      "Speaker": "T",
+      "Turn": 2003,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2004,
+      "Speaker": "T",
+      "Turn": 2004,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts a student to provide a number model, eliciting a mathematical representation."
+    },
+    {
+      "ID": 2006,
+      "Speaker": "T",
+      "Turn": 2006,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks for the rationale behind choosing 33 × 2, prompting explanation."
+    },
+    {
+      "ID": 2008,
+      "Speaker": "T",
+      "Turn": 2008,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2009,
+      "Speaker": "T",
+      "Turn": 2009,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2010,
+      "Speaker": "T",
+      "Turn": 2010,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the result of 33 × 2, eliciting a precise calculation."
+    },
+    {
+      "ID": 2012,
+      "Speaker": "T",
+      "Turn": 2012,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2014,
+      "Speaker": "T",
+      "Turn": 2014,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

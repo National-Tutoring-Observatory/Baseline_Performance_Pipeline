@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 1329,
+      "Speaker": "T",
+      "Turn": 1329,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1330,
+      "Speaker": "T",
+      "Turn": 1330,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1332,
+      "Speaker": "T",
+      "Turn": 1332,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1333,
+      "Speaker": "T",
+      "Turn": 1333,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1338,
+      "Speaker": "T",
+      "Turn": 1338,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1339,
+      "Speaker": "T",
+      "Turn": 1339,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1340,
+      "Speaker": "T",
+      "Turn": 1340,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher instructs all students to have their math journals ready so they can participate in the upcoming explanation, orienting the whole class to be prepared and engaged."
+    },
+    {
+      "ID": 1341,
+      "Speaker": "T",
+      "Turn": 1341,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks Max to specify the referent of the fraction ('the whole thing'), prompting a precise mathematical description."
+    },
+    {
+      "ID": 1342,
+      "Speaker": "T",
+      "Turn": 1342,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student’s answer ('a can of paint') and tags it with 'right,' confirming and slightly rephrasing the student’s idea."
+    },
+    {
+      "ID": 1343,
+      "Speaker": "T",
+      "Turn": 1343,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher restates and elaborates on the student's idea, emphasizing that one can of paint is being partitioned."
+    },
+    {
+      "ID": 1344,
+      "Speaker": "T",
+      "Turn": 1344,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher summarizes the quantities previously discussed to ensure the whole class is aligned on the problem context."
+    },
+    {
+      "ID": 1345,
+      "Speaker": "T",
+      "Turn": 1345,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1346,
+      "Speaker": "T",
+      "Turn": 1346,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "By asking if anyone else drew pictures, the teacher is inviting broader participation and ensuring all students are connected to the discussion."
+    },
+    {
+      "ID": 1347,
+      "Speaker": "T",
+      "Turn": 1347,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks Quinn to describe the drawing used to solve the problem, prompting explanation of the student’s thinking."
+    },
+    {
+      "ID": 1348,
+      "Speaker": "T",
+      "Turn": 1348,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher restates the student’s contribution (‘there were four cans of paint’) to confirm and clarify it for the class."
+    },
+    {
+      "ID": 1350,
+      "Speaker": "T",
+      "Turn": 1350,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1352,
+      "Speaker": "T",
+      "Turn": 1352,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher labels parts of the student’s representation (‘sister one, sister two, sister three’), rephrasing and clarifying the student’s idea for everyone."
+    },
+    {
+      "ID": 1353,
+      "Speaker": "T",
+      "Turn": 1353,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks whether they are adding whole things, prompting students to verify the correctness of the quantities being added."
+    },
+    {
+      "ID": 1354,
+      "Speaker": "T",
+      "Turn": 1354,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher restates the question with specific mathematical language (‘whole cans of paint’) to ensure precise understanding."
+    },
+    {
+      "ID": 1355,
+      "Speaker": "T",
+      "Turn": 1355,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the exact number of whole cans used, seeking a precise numerical response."
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 1044,
+      "Speaker": "T",
+      "Turn": 1044,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1045,
+      "Speaker": "T",
+      "Turn": 1045,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1048,
+      "Speaker": "T",
+      "Turn": 1048,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1049,
+      "Speaker": "T",
+      "Turn": 1049,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1050,
+      "Speaker": "T",
+      "Turn": 1050,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1053,
+      "Speaker": "T",
+      "Turn": 1053,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts students to interpret the word problem and identify the question being asked, which is a key part of the reasoning process."
+    },
+    {
+      "ID": 1054,
+      "Speaker": "T",
+      "Turn": 1054,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher directs a specific student to interpret the word problem and identify the question, prompting them to share their reasoning."
+    },
+    {
+      "ID": 1056,
+      "Speaker": "T",
+      "Turn": 1056,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts students to identify the given information in the problem, a foundational step in mathematical reasoning."
+    },
+    {
+      "ID": 1057,
+      "Speaker": "T",
+      "Turn": 1057,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher rephrases the prompt for students to identify the given information, pressing them to share their thinking about the problem's components."
+    },
+    {
+      "ID": 1058,
+      "Speaker": "T",
+      "Turn": 1058,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1060,
+      "Speaker": "T",
+      "Turn": 1060,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks a student to explain the process or strategy for solving the problem, directly pressing for their reasoning."
+    },
+    {
+      "ID": 1062,
+      "Speaker": "T",
+      "Turn": 1062,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts for a specific, accurate numerical value from the problem, pressing for accuracy in understanding the problem's details."
+    },
+    {
+      "ID": 1064,
+      "Speaker": "T",
+      "Turn": 1064,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher presses the student to be more precise by connecting a number to its specific meaning within the problem's context."
+    },
+    {
+      "ID": 1065,
+      "Speaker": "T",
+      "Turn": 1065,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to accurately define what the number seven represents in the context of the problem."
+    },
+    {
+      "ID": 1068,
+      "Speaker": "T",
+      "Turn": 1068,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats a student's idea while adding more precise mathematical language, clarifying the concept for the class."
+    },
+    {
+      "ID": 1069,
+      "Speaker": "T",
+      "Turn": 1069,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher presses the student to accurately state the meaning of the number 35 within the problem's context."
+    },
+    {
+      "ID": 1071,
+      "Speaker": "T",
+      "Turn": 1071,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1072,
+      "Speaker": "T",
+      "Turn": 1072,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1075,
+      "Speaker": "T",
+      "Turn": 1075,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts a student to interpret the problem and state the goal, which is the first step in the reasoning process."
+    },
+    {
+      "ID": 1077,
+      "Speaker": "T",
+      "Turn": 1077,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "After likely revoicing the student's idea, the teacher explicitly asks for justification with 'how do you know that,' pressing for the reasoning behind the student's conclusion."
+    }
+  ]
+}

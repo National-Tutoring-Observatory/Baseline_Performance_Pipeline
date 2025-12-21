@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 15392,
+      "Speaker": "T",
+      "Turn": 15392,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15393,
+      "Speaker": "T",
+      "Turn": 15393,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks students to recall a specific definition or meaning of a mathematical term ('denominator') established earlier."
+    },
+    {
+      "ID": 15394,
+      "Speaker": "T",
+      "Turn": 15394,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher orients the class back to a shared prior experience ('our warmup') to ensure everyone is focused on the same context."
+    },
+    {
+      "ID": 15395,
+      "Speaker": "T",
+      "Turn": 15395,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the specific mathematical meaning of the denominator in a given context."
+    },
+    {
+      "ID": 15396,
+      "Speaker": "T",
+      "Turn": 15396,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher repeats the question asking for the specific function or definition of the denominator."
+    },
+    {
+      "ID": 15397,
+      "Speaker": "T",
+      "Turn": 15397,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15398,
+      "Speaker": "T",
+      "Turn": 15398,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher directs students to talk to their partners, ensuring active engagement and orientation toward peers."
+    },
+    {
+      "ID": 15399,
+      "Speaker": "T",
+      "Turn": 15399,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15400,
+      "Speaker": "T",
+      "Turn": 15400,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15402,
+      "Speaker": "T",
+      "Turn": 15402,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15404,
+      "Speaker": "T",
+      "Turn": 15404,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15405,
+      "Speaker": "T",
+      "Turn": 15405,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15406,
+      "Speaker": "T",
+      "Turn": 15406,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to compare two expressions and identify what is different, prompting them to analyze the relationship between the numbers."
+    },
+    {
+      "ID": 15407,
+      "Speaker": "T",
+      "Turn": 15407,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher prompts students to discuss the question with a neighbor."
+    },
+    {
+      "ID": 15408,
+      "Speaker": "T",
+      "Turn": 15408,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats a student's contribution ('Somebody said top number') to the whole class."
+    },
+    {
+      "ID": 15409,
+      "Speaker": "T",
+      "Turn": 15409,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher calls the class back to attention ('five four three...') and selects a specific student to share, orienting the class to that speaker."
+    },
+    {
+      "ID": 15410,
+      "Speaker": "T",
+      "Turn": 15410,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15411,
+      "Speaker": "T",
+      "Turn": 15411,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15412,
+      "Speaker": "T",
+      "Turn": 15412,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher begins to rephrase what the student said ('What youre telling me then...'), though the thought is completed in the next turn."
+    },
+    {
+      "ID": 15413,
+      "Speaker": "T",
+      "Turn": 15413,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases the student's idea to connect the strategy used previously to the current problem ('What youre telling me then is...')."
+    }
+  ]
+}

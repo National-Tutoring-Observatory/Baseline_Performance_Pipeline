@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 4460,
+      "Speaker": "T",
+      "Turn": 4460,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4461,
+      "Speaker": "T",
+      "Turn": 4461,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4462,
+      "Speaker": "T",
+      "Turn": 4462,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4463,
+      "Speaker": "T",
+      "Turn": 4463,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4466,
+      "Speaker": "T",
+      "Turn": 4466,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's idea but changes the wording to 'these two need to be switched'."
+    },
+    {
+      "ID": 4467,
+      "Speaker": "T",
+      "Turn": 4467,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher clarifies the revoiced idea by specifying which two numbers need to be switched, based on the student's contribution."
+    },
+    {
+      "ID": 4469,
+      "Speaker": "T",
+      "Turn": 4469,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to provide the reasoning behind their team's idea by asking 'why they think that'."
+    },
+    {
+      "ID": 4471,
+      "Speaker": "T",
+      "Turn": 4471,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4473,
+      "Speaker": "T",
+      "Turn": 4473,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4474,
+      "Speaker": "T",
+      "Turn": 4474,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher attempts to clarify a student's idea by rephrasing it as a question to check for understanding."
+    },
+    {
+      "ID": 4476,
+      "Speaker": "T",
+      "Turn": 4476,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher prompts other students to contribute to or build upon what a classmate has said."
+    },
+    {
+      "ID": 4477,
+      "Speaker": "T",
+      "Turn": 4477,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to be more specific in their mathematical contribution by asking them to clarify which 'five' they are referring to."
+    },
+    {
+      "ID": 4479,
+      "Speaker": "T",
+      "Turn": 4479,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases the student's idea while gesturing, saying 'so you want to change this right here... to look like that'."
+    },
+    {
+      "ID": 4480,
+      "Speaker": "T",
+      "Turn": 4480,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4483,
+      "Speaker": "T",
+      "Turn": 4483,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's contribution word for word."
+    },
+    {
+      "ID": 4484,
+      "Speaker": "T",
+      "Turn": 4484,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher asks the entire class to participate in evaluating an idea by showing if they agree or disagree."
+    },
+    {
+      "ID": 4485,
+      "Speaker": "T",
+      "Turn": 4485,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher provides the specific action for the whole-class poll, ensuring everyone is participating in the same way."
+    },
+    {
+      "ID": 4486,
+      "Speaker": "T",
+      "Turn": 4486,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher orients one student to another to provide help, ensuring all students are following along."
+    },
+    {
+      "ID": 4487,
+      "Speaker": "T",
+      "Turn": 4487,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students who agreed with an idea to explain their thinking by asking 'but why'."
+    },
+    {
+      "ID": 4488,
+      "Speaker": "T",
+      "Turn": 4488,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher explicitly asks for justification by stating, 'I need to know why'."
+    }
+  ]
+}

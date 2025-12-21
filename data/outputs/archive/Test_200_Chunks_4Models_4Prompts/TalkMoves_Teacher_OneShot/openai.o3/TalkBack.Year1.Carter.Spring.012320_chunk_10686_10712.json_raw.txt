@@ -1,0 +1,130 @@
+{
+  "records": [
+    {
+      "ID": 10688,
+      "Speaker": "T",
+      "Turn": 74,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Teacher orients the class to listen to Rebecca, ensuring collective attention."
+    },
+    {
+      "ID": 10689,
+      "Speaker": "T",
+      "Turn": 74,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "Teacher tells the student to explain after hearing Rebecca, explicitly prompting a response to a peer’s explanation."
+    },
+    {
+      "ID": 10690,
+      "Speaker": "T",
+      "Turn": 74,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10691,
+      "Speaker": "T",
+      "Turn": 74,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Teacher designates the next speaker, helping the class follow the discussion flow."
+    },
+    {
+      "ID": 10696,
+      "Speaker": "T",
+      "Turn": 76,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher restates the student’s idea with slightly different wording to clarify it for the class."
+    },
+    {
+      "ID": 10698,
+      "Speaker": "T",
+      "Turn": 78,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10699,
+      "Speaker": "T",
+      "Turn": 78,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "Teacher invites the original student to articulate the idea just expressed by Rebecca, fostering connection to a peer’s thinking."
+    },
+    {
+      "ID": 10701,
+      "Speaker": "T",
+      "Turn": 80,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher repeats and refines the student’s partial statement ('15') as the mathematically precise phrase 'multiplying by 15'."
+    },
+    {
+      "ID": 10703,
+      "Speaker": "T",
+      "Turn": 82,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10704,
+      "Speaker": "T",
+      "Turn": 82,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10705,
+      "Speaker": "T",
+      "Turn": 82,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks students to state the specific division rule, requesting a precise mathematical fact."
+    },
+    {
+      "ID": 10706,
+      "Speaker": "T",
+      "Turn": 82,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10707,
+      "Speaker": "T",
+      "Turn": 82,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher repeats the question about the division rule, continuing to seek the exact mathematical statement."
+    },
+    {
+      "ID": 10708,
+      "Speaker": "T",
+      "Turn": 82,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10709,
+      "Speaker": "T",
+      "Turn": 82,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10710,
+      "Speaker": "T",
+      "Turn": 82,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "By asking students to raise their hands if they remember, the teacher monitors understanding and keeps the class engaged."
+    },
+    {
+      "ID": 10711,
+      "Speaker": "T",
+      "Turn": 82,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Teacher selects a student to speak ('Go ahead'), managing turn-taking and maintaining group focus."
+    },
+    {
+      "ID": 10712,
+      "Speaker": "T",
+      "Turn": 82,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Teacher directs students to talk with their teams, organizing collaborative discussion and involving all students."
+    }
+  ]
+}

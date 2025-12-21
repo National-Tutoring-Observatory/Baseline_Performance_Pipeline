@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 2538,
+      "Speaker": "T",
+      "Turn": 2538,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2540,
+      "Speaker": "T",
+      "Turn": 2540,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2541,
+      "Speaker": "T",
+      "Turn": 2541,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2543,
+      "Speaker": "T",
+      "Turn": 2543,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to reconsider a specific part of their calculation (the number of zeros) to arrive at a more accurate answer."
+    },
+    {
+      "ID": 2545,
+      "Speaker": "T",
+      "Turn": 2545,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher confirms the student's intermediate step and prompts them to use that information to complete the final, accurate answer."
+    },
+    {
+      "ID": 2547,
+      "Speaker": "T",
+      "Turn": 2547,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2548,
+      "Speaker": "T",
+      "Turn": 2548,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2549,
+      "Speaker": "T",
+      "Turn": 2549,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2551,
+      "Speaker": "T",
+      "Turn": 2551,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2552,
+      "Speaker": "T",
+      "Turn": 2552,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to provide a specific mathematical representation (a number model or equation)."
+    },
+    {
+      "ID": 2553,
+      "Speaker": "T",
+      "Turn": 2553,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher calls on a specific student to provide the requested mathematical representation."
+    },
+    {
+      "ID": 2555,
+      "Speaker": "T",
+      "Turn": 2555,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher redirects the student to provide the specific mathematical representation (the equation) that was requested."
+    },
+    {
+      "ID": 2557,
+      "Speaker": "T",
+      "Turn": 2557,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2558,
+      "Speaker": "T",
+      "Turn": 2558,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher reminds the student of a specific instruction (using a letter for the unknown) to encourage a more precise and conventional mathematical representation."
+    },
+    {
+      "ID": 2559,
+      "Speaker": "T",
+      "Turn": 2559,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to apply the rule of using a variable by asking them to choose one for their equation."
+    },
+    {
+      "ID": 2561,
+      "Speaker": "T",
+      "Turn": 2561,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2562,
+      "Speaker": "T",
+      "Turn": 2562,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts a student to check their own work for a specific, accurate mathematical symbol."
+    },
+    {
+      "ID": 2564,
+      "Speaker": "T",
+      "Turn": 2564,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher repeats the prompt for the student to check their work for a specific mathematical symbol."
+    },
+    {
+      "ID": 2565,
+      "Speaker": "T",
+      "Turn": 2565,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2566,
+      "Speaker": "T",
+      "Turn": 2566,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts other students to share their mathematical representations, focusing on the specific symbols used, to gather different accurate forms of the equation."
+    }
+  ]
+}

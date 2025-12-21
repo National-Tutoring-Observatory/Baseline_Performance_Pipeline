@@ -1,0 +1,148 @@
+{
+  "records": [
+    {
+      "ID": 22339,
+      "Turn": 10,
+      "Speaker": "T",
+      "Sentence": "Thats exciting isnt it",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22341,
+      "Turn": 12,
+      "Speaker": "T",
+      "Sentence": "I would like to hear all of our if you are wearing a long sleeve shirt right now you are going to read todays lesson objective",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22342,
+      "Turn": 12,
+      "Speaker": "T",
+      "Sentence": "Ready",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22343,
+      "Turn": 12,
+      "Speaker": "T",
+      "Sentence": "Go",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22345,
+      "Turn": 14,
+      "Speaker": "T",
+      "Sentence": "Thats a lot of information",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22346,
+      "Turn": 14,
+      "Speaker": "T",
+      "Sentence": "I want you to think about what that is saying right now",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22347,
+      "Turn": 14,
+      "Speaker": "T",
+      "Sentence": "Think about it",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22348,
+      "Turn": 14,
+      "Speaker": "T",
+      "Sentence": "Reread it",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22349,
+      "Turn": 14,
+      "Speaker": "T",
+      "Sentence": "Think what is this asking us to do today",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts students to explain the learning objective, which requires them to share their thinking and interpretation."
+    },
+    {
+      "ID": 22350,
+      "Turn": 14,
+      "Speaker": "T",
+      "Sentence": "Is there someone whod be willing to share your own words",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts students to explain the learning objective in their own words, which requires them to share their thinking."
+    },
+    {
+      "ID": 22351,
+      "Turn": 14,
+      "Speaker": "T",
+      "Sentence": "What is our learning objective today",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks a direct question prompting students to explain the learning objective, requiring them to share their thinking."
+    },
+    {
+      "ID": 22352,
+      "Turn": 14,
+      "Speaker": "T",
+      "Sentence": "What is this asking us to do today",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher rephrases the prompt for students to explain the learning objective, requiring them to share their thinking."
+    },
+    {
+      "ID": 22353,
+      "Turn": 14,
+      "Speaker": "T",
+      "Sentence": "Bobby are you willing to",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher nominates a specific student to provide the explanation, pressing them to share their reasoning."
+    },
+    {
+      "ID": 22355,
+      "Turn": 16,
+      "Speaker": "T",
+      "Sentence": "Okay",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22356,
+      "Turn": 16,
+      "Speaker": "T",
+      "Sentence": "Tell us",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts the nominated student to begin sharing their reasoning."
+    },
+    {
+      "ID": 22358,
+      "Turn": 18,
+      "Speaker": "T",
+      "Sentence": "Youre close",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22359,
+      "Turn": 18,
+      "Speaker": "T",
+      "Sentence": "You found some keywords in there today",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22360,
+      "Turn": 18,
+      "Speaker": "T",
+      "Sentence": "We are going to be using a multiplication rule to help us with common denominators",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher takes the student's idea about multiplication and reframes it to more accurately describe its use in finding common denominators."
+    }
+  ]
+}

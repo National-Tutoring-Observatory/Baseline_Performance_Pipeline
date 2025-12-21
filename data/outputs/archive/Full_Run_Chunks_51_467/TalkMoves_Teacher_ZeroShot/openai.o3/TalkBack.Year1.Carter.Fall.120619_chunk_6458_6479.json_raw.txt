@@ -1,0 +1,25 @@
+{
+  "records": [
+    {
+      "ID": 6477,
+      "Speaker": "T",
+      "Turn": 1,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 6478,
+      "Speaker": "T",
+      "Turn": 1,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 6479,
+      "Speaker": "T",
+      "Turn": 1,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats and reformulates a student’s earlier question for the class, conveying the same idea in her own words to make it clear to everyone."
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 11695,
+      "Speaker": "T",
+      "Turn": 239,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11696,
+      "Speaker": "T",
+      "Turn": 239,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Asks students to consider whether they should fold in half, prompting them to justify or rethink the procedure."
+    },
+    {
+      "ID": 11698,
+      "Speaker": "T",
+      "Turn": 241,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11699,
+      "Speaker": "T",
+      "Turn": 241,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Requests an explanation (how much was eaten) to justify why folding in half is not appropriate."
+    },
+    {
+      "ID": 11701,
+      "Speaker": "T",
+      "Turn": 243,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Seeks a precise numerical answer about how many parts the paper must be folded into."
+    },
+    {
+      "ID": 11702,
+      "Speaker": "T",
+      "Turn": 243,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Invites students to demonstrate their thinking by showing how they would fold, eliciting their reasoning."
+    },
+    {
+      "ID": 11703,
+      "Speaker": "T",
+      "Turn": 243,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Restates and slightly rephrases a student’s idea (‘two folded into three’) to clarify it for the class."
+    },
+    {
+      "ID": 11704,
+      "Speaker": "T",
+      "Turn": 243,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11705,
+      "Speaker": "T",
+      "Turn": 244,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11706,
+      "Speaker": "T",
+      "Turn": 245,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11707,
+      "Speaker": "T",
+      "Turn": 245,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Polls the whole class to ensure everyone has achieved the same step, coordinating collective progress."
+    },
+    {
+      "ID": 11708,
+      "Speaker": "T",
+      "Turn": 245,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Checks who is ready to proceed with shading, aligning the class before moving on."
+    },
+    {
+      "ID": 11709,
+      "Speaker": "T",
+      "Turn": 245,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11710,
+      "Speaker": "T",
+      "Turn": 245,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11711,
+      "Speaker": "T",
+      "Turn": 245,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11712,
+      "Speaker": "T",
+      "Turn": 245,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11713,
+      "Speaker": "T",
+      "Turn": 245,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11714,
+      "Speaker": "T",
+      "Turn": 246,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Solicits a show of hands to verify that students' work matches the model, keeping the group coordinated."
+    },
+    {
+      "ID": 11715,
+      "Speaker": "T",
+      "Turn": 247,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Asks students to evaluate whether the shaded area represents half, prompting them to justify their understanding."
+    },
+    {
+      "ID": 11716,
+      "Speaker": "T",
+      "Turn": 247,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Seeks a specific determination about which parts should be shaded, focusing on the correct mathematical action."
+    }
+  ]
+}

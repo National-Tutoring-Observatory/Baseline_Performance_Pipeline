@@ -1,0 +1,102 @@
+{
+  "records": [
+    {
+      "ID": 6272,
+      "Speaker": "T",
+      "Turn": 77,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks whether anyone used a specific mathematical representation (a picture), prompting a concrete mathematical contribution."
+    },
+    {
+      "ID": 6274,
+      "Speaker": "T",
+      "Turn": 79,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 6275,
+      "Speaker": "T",
+      "Turn": 79,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher invites students to share an alternative strategy, prompting them to articulate their mathematical approach."
+    },
+    {
+      "ID": 6276,
+      "Speaker": "T",
+      "Turn": 80,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 6278,
+      "Speaker": "T",
+      "Turn": 81,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher asks a specific student whether she used another strategy, pushing her to articulate her method."
+    },
+    {
+      "ID": 6280,
+      "Speaker": "T",
+      "Turn": 83,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher requests the student to state what strategy she used, seeking an explanation of her thinking."
+    },
+    {
+      "ID": 6281,
+      "Speaker": "T",
+      "Turn": 83,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher directs the student to focus on naming the specific strategy, prompting a concise and precise mathematical description."
+    },
+    {
+      "ID": 6284,
+      "Speaker": "T",
+      "Turn": 85,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Teacher invites additional participation from the class, encouraging collective engagement."
+    },
+    {
+      "ID": 6285,
+      "Speaker": "T",
+      "Turn": 86,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 6286,
+      "Speaker": "T",
+      "Turn": 87,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "By saying \"Show me,\" the teacher prompts the student to present and justify her work."
+    },
+    {
+      "ID": 6288,
+      "Speaker": "T",
+      "Turn": 89,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks the student to specify the exact division method, requesting precise mathematical terminology."
+    },
+    {
+      "ID": 6289,
+      "Speaker": "T",
+      "Turn": 89,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Follow-up question further probes which specific algorithm (partial quotients) was used, reinforcing accurate mathematical language."
+    },
+    {
+      "ID": 6292,
+      "Speaker": "T",
+      "Turn": 91,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 6293,
+      "Speaker": "T",
+      "Turn": 91,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher asks the whole class to signal their understanding, ensuring collective engagement and monitoring everyone’s status."
+    }
+  ]
+}

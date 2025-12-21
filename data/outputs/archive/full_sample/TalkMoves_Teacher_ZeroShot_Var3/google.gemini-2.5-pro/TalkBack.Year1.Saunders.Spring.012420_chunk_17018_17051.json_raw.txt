@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 17018,
+      "Speaker": "T",
+      "Turn": 17018,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17019,
+      "Speaker": "T",
+      "Turn": 17019,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17021,
+      "Speaker": "T",
+      "Turn": 17021,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17023,
+      "Speaker": "T",
+      "Turn": 17023,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17026,
+      "Speaker": "T",
+      "Turn": 17026,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17029,
+      "Speaker": "T",
+      "Turn": 17029,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17030,
+      "Speaker": "T",
+      "Turn": 17030,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to define a variable, which is a form of using accurate mathematical language."
+    },
+    {
+      "ID": 17032,
+      "Speaker": "T",
+      "Turn": 17032,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's one-word answer, \"Profit,\" verbatim."
+    },
+    {
+      "ID": 17033,
+      "Speaker": "T",
+      "Turn": 17033,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to define a variable, which is a form of using accurate mathematical language."
+    },
+    {
+      "ID": 17035,
+      "Speaker": "T",
+      "Turn": 17035,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's likely answer (\"Time\") and adds \"and\" to prompt for more information, thus adding to the student's contribution."
+    },
+    {
+      "ID": 17037,
+      "Speaker": "T",
+      "Turn": 17037,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts students to connect the variables in the problem to the mathematical concepts of input and output."
+    },
+    {
+      "ID": 17038,
+      "Speaker": "T",
+      "Turn": 17038,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to identify the input variable, prompting them to connect the problem's context to a mathematical concept."
+    },
+    {
+      "ID": 17040,
+      "Speaker": "T",
+      "Turn": 17040,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's answer (\"T\") and then elaborates on its meaning in the context of the problem, adding to the student's contribution."
+    },
+    {
+      "ID": 17042,
+      "Speaker": "T",
+      "Turn": 17042,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's contribution (\"Years\") and adds on to it to prompt for the next logical step in the reasoning process."
+    },
+    {
+      "ID": 17044,
+      "Speaker": "T",
+      "Turn": 17044,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher elaborates on a likely student contribution about the output, rephrasing it in the full context of the problem."
+    },
+    {
+      "ID": 17045,
+      "Speaker": "T",
+      "Turn": 17045,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17046,
+      "Speaker": "T",
+      "Turn": 17046,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to make a specific mathematical contribution about the sign of the 'a' value."
+    },
+    {
+      "ID": 17048,
+      "Speaker": "T",
+      "Turn": 17048,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17050,
+      "Speaker": "T",
+      "Turn": 17050,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's one-word answer, \"Positive,\" verbatim."
+    },
+    {
+      "ID": 17051,
+      "Speaker": "T",
+      "Turn": 17051,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts students to explain the consequence of the 'a' value being positive, asking them to connect an idea to its graphical representation."
+    }
+  ]
+}

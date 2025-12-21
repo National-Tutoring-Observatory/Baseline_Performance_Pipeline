@@ -1,0 +1,156 @@
+{
+  "records": [
+    {
+      "ID": 8000,
+      "Turn": 156,
+      "Speaker": "T",
+      "Sentence": "Questions about what to do at the top",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8001,
+      "Turn": 156,
+      "Speaker": "T",
+      "Sentence": "And down below is except you practicing some division",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8002,
+      "Turn": 156,
+      "Speaker": "T",
+      "Sentence": "Thank you",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8003,
+      "Turn": 156,
+      "Speaker": "T",
+      "Sentence": "Lets put some closure on what we did today",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8004,
+      "Turn": 156,
+      "Speaker": "T",
+      "Sentence": "what was an effective strategy for adding and subtracting amounts of money for you",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts students to explain their thinking behind their choice of an effective strategy."
+    },
+    {
+      "ID": 8005,
+      "Turn": 156,
+      "Speaker": "T",
+      "Sentence": "What were the effective strategies",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher rephrases the prompt for students to explain which strategies they found effective."
+    },
+    {
+      "ID": 8006,
+      "Turn": 156,
+      "Speaker": "T",
+      "Sentence": "Not with your shoulder partner about that partner",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8007,
+      "Turn": 156,
+      "Speaker": "T",
+      "Sentence": "B goes first",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8008,
+      "Turn": 156,
+      "Speaker": "T",
+      "Sentence": "Ready go",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8009,
+      "Turn": 157,
+      "Speaker": "T",
+      "Sentence": "Okay",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8010,
+      "Turn": 157,
+      "Speaker": "T",
+      "Sentence": "Your success criteria you will know you are successful when you can explain what strategy was most efficient to add and subtract decimals",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8011,
+      "Turn": 157,
+      "Speaker": "T",
+      "Sentence": "Go Quinn",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8012,
+      "Turn": 157,
+      "Speaker": "T",
+      "Sentence": "Can you please answer",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8015,
+      "Turn": 158,
+      "Speaker": "T",
+      "Sentence": "Brody why are you using that",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks a student to explain the thinking behind their choice of strategy."
+    },
+    {
+      "ID": 8017,
+      "Turn": 160,
+      "Speaker": "T",
+      "Sentence": "Good point if you dont understand the strategy then it can be a more timeconsuming one",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's idea that a strategy can be inefficient, but clarifies it by adding the condition 'if you don't understand the strategy'."
+    },
+    {
+      "ID": 8018,
+      "Turn": 160,
+      "Speaker": "T",
+      "Sentence": "Can we agree that whats efficient for you might not be efficient for somebody else potentially",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher asks the whole class to orient to and consider a key idea that emerged from a student's contribution."
+    },
+    {
+      "ID": 8019,
+      "Turn": 160,
+      "Speaker": "T",
+      "Sentence": "I know when I was a kid my mom shed always say when we were playing Monopoly Here count up to make change I never understood",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8020,
+      "Turn": 160,
+      "Speaker": "T",
+      "Sentence": "She never demonstrated it to me",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8021,
+      "Turn": 160,
+      "Speaker": "T",
+      "Sentence": "She would just do it so I never understood it until I was a Ms Carter and I had to make sure people knew how to do it and I could show them",
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

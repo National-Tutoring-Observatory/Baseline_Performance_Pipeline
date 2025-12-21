@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 2180,
+      "Speaker": "T",
+      "Turn": 2180,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2181,
+      "Speaker": "T",
+      "Turn": 2181,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks students to provide the result of a specific calculation, which is a prompt for a mathematical contribution."
+    },
+    {
+      "ID": 2183,
+      "Speaker": "T",
+      "Turn": 2183,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts a student for a specific numerical answer."
+    },
+    {
+      "ID": 2185,
+      "Speaker": "T",
+      "Turn": 2185,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2186,
+      "Speaker": "T",
+      "Turn": 2186,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's correct answer word for word."
+    },
+    {
+      "ID": 2187,
+      "Speaker": "T",
+      "Turn": 2187,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2188,
+      "Speaker": "T",
+      "Turn": 2188,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2189,
+      "Speaker": "T",
+      "Turn": 2189,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to share their thinking about the first step in the problem-solving process."
+    },
+    {
+      "ID": 2190,
+      "Speaker": "T",
+      "Turn": 2190,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to explain the method they will use to solve the problem."
+    },
+    {
+      "ID": 2191,
+      "Speaker": "T",
+      "Turn": 2191,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher directs the previous question about reasoning to a specific student."
+    },
+    {
+      "ID": 2192,
+      "Speaker": "T",
+      "Turn": 2192,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher rephrases the question to explicitly ask 'how' to find the answer, prompting for a method."
+    },
+    {
+      "ID": 2194,
+      "Speaker": "T",
+      "Turn": 2194,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher again asks students to explain the first step of their problem-solving process."
+    },
+    {
+      "ID": 2196,
+      "Speaker": "T",
+      "Turn": 2196,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats a student's idea (subtraction) and adds the specific numbers involved, thus clarifying and adding to the student's contribution."
+    },
+    {
+      "ID": 2198,
+      "Speaker": "T",
+      "Turn": 2198,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the number a student provided for the subtraction problem."
+    },
+    {
+      "ID": 2199,
+      "Speaker": "T",
+      "Turn": 2199,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2201,
+      "Speaker": "T",
+      "Turn": 2201,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the specific numerical result of the subtraction."
+    },
+    {
+      "ID": 2202,
+      "Speaker": "T",
+      "Turn": 2202,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher directs the question for a numerical answer to a specific student."
+    },
+    {
+      "ID": 2204,
+      "Speaker": "T",
+      "Turn": 2204,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2206,
+      "Speaker": "T",
+      "Turn": 2206,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts a specific student to provide the mathematical answer."
+    },
+    {
+      "ID": 2208,
+      "Speaker": "T",
+      "Turn": 2208,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's numerical answer while adding contextual language to form a complete mathematical statement."
+    }
+  ]
+}

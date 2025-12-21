@@ -1,0 +1,88 @@
+{
+  "records": [
+    {
+      "ID": 24572,
+      "Speaker": "T",
+      "Turn": 68,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher partially restates the student’s idea (“Each number has the same…”) in her own words to clarify it for the class."
+    },
+    {
+      "ID": 24574,
+      "Speaker": "T",
+      "Turn": 70,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Adds wording (“With an equal amount of space”) to rephrase the student’s notion of a repeating pattern."
+    },
+    {
+      "ID": 24576,
+      "Speaker": "T",
+      "Turn": 72,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Directs class attention to another group’s discussion so all students remain engaged with peers’ ideas."
+    },
+    {
+      "ID": 24577,
+      "Speaker": "T",
+      "Turn": 72,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Invites a student group to share their thinking with the whole class, orienting everyone to listen."
+    },
+    {
+      "ID": 24578,
+      "Speaker": "T",
+      "Turn": 72,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24579,
+      "Speaker": "T",
+      "Turn": 72,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Restates what a student reportedly said about having the same interval or space between numbers."
+    },
+    {
+      "ID": 24580,
+      "Speaker": "T",
+      "Turn": 72,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Asks students to explain the meaning and importance of equal spacing, probing their underlying reasoning."
+    },
+    {
+      "ID": 24582,
+      "Speaker": "T",
+      "Turn": 74,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Paraphrases and extends the student’s idea about needing a consistent unit of measurement."
+    },
+    {
+      "ID": 24583,
+      "Speaker": "T",
+      "Turn": 74,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24584,
+      "Speaker": "T",
+      "Turn": 74,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Facilitates turn-taking by asking a student to select the next speaker, keeping the class engaged."
+    },
+    {
+      "ID": 24587,
+      "Speaker": "T",
+      "Turn": 77,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Requests clarification of the term “them,” prompting the student to specify the referent."
+    },
+    {
+      "ID": 24588,
+      "Speaker": "T",
+      "Turn": 77,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Begins to restate the student’s idea (“The difference in between the…”) to clarify it for the class."
+    }
+  ]
+}

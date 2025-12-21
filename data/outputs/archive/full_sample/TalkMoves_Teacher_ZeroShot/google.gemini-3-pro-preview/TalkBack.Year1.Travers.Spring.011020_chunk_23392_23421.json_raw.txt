@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 23392,
+      "Speaker": "T",
+      "Turn": 23392,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23393,
+      "Speaker": "T",
+      "Turn": 23393,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to explain the underlying reason for a mathematical property (why multiples start at the number itself)."
+    },
+    {
+      "ID": 23394,
+      "Speaker": "T",
+      "Turn": 23394,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23395,
+      "Speaker": "T",
+      "Turn": 23395,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher repeats the question asking for an explanation of the mathematical concept."
+    },
+    {
+      "ID": 23396,
+      "Speaker": "T",
+      "Turn": 23396,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher explicitly invites students to share their thinking and justification."
+    },
+    {
+      "ID": 23397,
+      "Speaker": "T",
+      "Turn": 23397,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23399,
+      "Speaker": "T",
+      "Turn": 23399,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23400,
+      "Speaker": "T",
+      "Turn": 23400,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23403,
+      "Speaker": "T",
+      "Turn": 23403,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a specific closed question requiring a factual mathematical answer (yes/no regarding a multiple)."
+    },
+    {
+      "ID": 23405,
+      "Speaker": "T",
+      "Turn": 23405,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23407,
+      "Speaker": "T",
+      "Turn": 23407,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats and attributes the student's idea ('Jon is saying...') to broadcast it to the class."
+    },
+    {
+      "ID": 23408,
+      "Speaker": "T",
+      "Turn": 23408,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23409,
+      "Speaker": "T",
+      "Turn": 23409,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher asks students to 'add on' to Jon's statement, prompting them to build on a classmate's idea."
+    },
+    {
+      "ID": 23410,
+      "Speaker": "T",
+      "Turn": 23410,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher reiterates the specific mathematical question to prompt a correct response."
+    },
+    {
+      "ID": 23411,
+      "Speaker": "T",
+      "Turn": 23411,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher checks if the other students can hear the speaker, ensuring everyone is part of the conversation."
+    },
+    {
+      "ID": 23412,
+      "Speaker": "T",
+      "Turn": 23412,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher prompts the student to speak louder so the rest of the class can hear."
+    },
+    {
+      "ID": 23415,
+      "Speaker": "T",
+      "Turn": 23415,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher repeats the student's claim and explicitly asks who can 'respond to that', prompting reaction to the idea."
+    },
+    {
+      "ID": 23416,
+      "Speaker": "T",
+      "Turn": 23416,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23420,
+      "Speaker": "T",
+      "Turn": 23420,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23421,
+      "Speaker": "T",
+      "Turn": 23421,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

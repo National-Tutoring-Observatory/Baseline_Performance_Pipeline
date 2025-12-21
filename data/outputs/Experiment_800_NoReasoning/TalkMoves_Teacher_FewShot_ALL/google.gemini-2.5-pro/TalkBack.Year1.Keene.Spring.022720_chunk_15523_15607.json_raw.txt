@@ -1,0 +1,581 @@
+{
+  "records": [
+    {
+      "ID": 15523,
+      "Turn": 198,
+      "Speaker": "S",
+      "Sentence": "I agree with him because he came through with eight"
+    },
+    {
+      "ID": 15524,
+      "Turn": 199,
+      "Speaker": "T",
+      "Sentence": "But how did she get it",
+      "TalkMove": "Pressing for Reasoning"
+    },
+    {
+      "ID": 15525,
+      "Turn": 200,
+      "Speaker": "S",
+      "Sentence": "She divided it by three"
+    },
+    {
+      "ID": 15526,
+      "Turn": 201,
+      "Speaker": "T",
+      "Sentence": "Divided what by three",
+      "TalkMove": "Pressing for Accuracy"
+    },
+    {
+      "ID": 15527,
+      "Turn": 202,
+      "Speaker": "S",
+      "Sentence": "Four and then subtracted whats the she subtracted"
+    },
+    {
+      "ID": 15528,
+      "Turn": 203,
+      "Speaker": "T",
+      "Sentence": "She didnt subtract anything friend",
+      "TalkMove": null
+    },
+    {
+      "ID": 15529,
+      "Turn": 203,
+      "Speaker": "T",
+      "Sentence": "Please pay attention when your classmates are talking",
+      "TalkMove": null
+    },
+    {
+      "ID": 15530,
+      "Turn": 203,
+      "Speaker": "T",
+      "Sentence": "Your eyes should be on them",
+      "TalkMove": null
+    },
+    {
+      "ID": 15531,
+      "Turn": 203,
+      "Speaker": "T",
+      "Sentence": "Thats how you pay attention",
+      "TalkMove": null
+    },
+    {
+      "ID": 15532,
+      "Turn": 203,
+      "Speaker": "T",
+      "Sentence": "All right Anna tell me about six",
+      "TalkMove": "Keeping Everyone Together"
+    },
+    {
+      "ID": 15533,
+      "Turn": 203,
+      "Speaker": "T",
+      "Sentence": "What should I write and why",
+      "TalkMove": "Pressing for Reasoning"
+    },
+    {
+      "ID": 15534,
+      "Turn": 204,
+      "Speaker": "S",
+      "Sentence": "I think you should write"
+    },
+    {
+      "ID": 15535,
+      "Turn": 205,
+      "Speaker": "S",
+      "Sentence": "Can I tell her"
+    },
+    {
+      "ID": 15536,
+      "Turn": 206,
+      "Speaker": "T",
+      "Sentence": "Friend numerator end I need you to coach dont tell",
+      "TalkMove": null
+    },
+    {
+      "ID": 15537,
+      "Turn": 206,
+      "Speaker": "T",
+      "Sentence": "Give her maybe a hint on the first step but dont tell and yes you can",
+      "TalkMove": null
+    },
+    {
+      "ID": 15538,
+      "Turn": 207,
+      "Speaker": "S",
+      "Sentence": "Well get the numerator think what you should do with the numerator of the rule and six"
+    },
+    {
+      "ID": 15539,
+      "Turn": 207,
+      "Speaker": "S",
+      "Sentence": "What to do with both of them"
+    },
+    {
+      "ID": 15540,
+      "Turn": 208,
+      "Speaker": "T",
+      "Sentence": "Im going to tweak what Ali said a little bit I love her coaching",
+      "TalkMove": null
+    },
+    {
+      "ID": 15541,
+      "Turn": 208,
+      "Speaker": "T",
+      "Sentence": "First you need to look at the denominator because notice what I wrote right here",
+      "TalkMove": null
+    },
+    {
+      "ID": 15542,
+      "Turn": 208,
+      "Speaker": "T",
+      "Sentence": "What Melanie explained she first found 13 of 12 first so thats our first step",
+      "TalkMove": "Revoicing"
+    },
+    {
+      "ID": 15543,
+      "Turn": 208,
+      "Speaker": "T",
+      "Sentence": "Whats 13 of 6",
+      "TalkMove": "Pressing for Accuracy"
+    },
+    {
+      "ID": 15544,
+      "Turn": 208,
+      "Speaker": "T",
+      "Sentence": "Then we can look at our poster and look at our numerator to think What do I need to do with that two",
+      "TalkMove": null
+    },
+    {
+      "ID": 15545,
+      "Turn": 208,
+      "Speaker": "T",
+      "Sentence": "The numerator tells you what Anna",
+      "TalkMove": "Pressing for Accuracy"
+    },
+    {
+      "ID": 15546,
+      "Turn": 208,
+      "Speaker": "T",
+      "Sentence": "Look at the green",
+      "TalkMove": null
+    },
+    {
+      "ID": 15547,
+      "Turn": 208,
+      "Speaker": "T",
+      "Sentence": "You tell me what the green says read it for Me",
+      "TalkMove": "Pressing for Accuracy"
+    },
+    {
+      "ID": 15548,
+      "Turn": 209,
+      "Speaker": "S",
+      "Sentence": "How many of equal groups do we have"
+    },
+    {
+      "ID": 15549,
+      "Turn": 210,
+      "Speaker": "T",
+      "Sentence": "This is how many are in one equal group",
+      "TalkMove": "Revoicing"
+    },
+    {
+      "ID": 15550,
+      "Turn": 210,
+      "Speaker": "T",
+      "Sentence": "This says I need to figure out how many are in two equal groups",
+      "TalkMove": "Revoicing"
+    },
+    {
+      "ID": 15551,
+      "Turn": 210,
+      "Speaker": "T",
+      "Sentence": "If theres two in one group how many would be in two groups",
+      "TalkMove": "Pressing for Accuracy"
+    },
+    {
+      "ID": 15552,
+      "Turn": 211,
+      "Speaker": "S",
+      "Sentence": "Two groups would be a third"
+    },
+    {
+      "ID": 15553,
+      "Turn": 212,
+      "Speaker": "T",
+      "Sentence": "Two is in one group how many are in two groups",
+      "TalkMove": "Pressing for Accuracy"
+    },
+    {
+      "ID": 15554,
+      "Turn": 213,
+      "Speaker": "S",
+      "Sentence": "Four"
+    },
+    {
+      "ID": 15555,
+      "Turn": 214,
+      "Speaker": "T",
+      "Sentence": "Four this is how many are in one because my numerator is one",
+      "TalkMove": "Restating"
+    },
+    {
+      "ID": 15556,
+      "Turn": 214,
+      "Speaker": "T",
+      "Sentence": "The new numerator tells me I need to figure out how many are in two equal groups",
+      "TalkMove": null
+    },
+    {
+      "ID": 15557,
+      "Turn": 214,
+      "Speaker": "T",
+      "Sentence": "Any questions",
+      "TalkMove": "Keeping Everyone Together"
+    },
+    {
+      "ID": 15558,
+      "Turn": 214,
+      "Speaker": "T",
+      "Sentence": "You have a question sir",
+      "TalkMove": "Keeping Everyone Together"
+    },
+    {
+      "ID": 15559,
+      "Turn": 214,
+      "Speaker": "T",
+      "Sentence": "Please complete number four independently not with your partner",
+      "TalkMove": null
+    },
+    {
+      "ID": 15560,
+      "Turn": 215,
+      "Speaker": "T",
+      "Sentence": "After you do number four",
+      "TalkMove": null
+    },
+    {
+      "ID": 15561,
+      "Turn": 216,
+      "Speaker": "T",
+      "Sentence": "Can you pick it up for me",
+      "TalkMove": null
+    },
+    {
+      "ID": 15562,
+      "Turn": 217,
+      "Speaker": "T",
+      "Sentence": "Sit Im almost done",
+      "TalkMove": null
+    },
+    {
+      "ID": 15563,
+      "Turn": 217,
+      "Speaker": "T",
+      "Sentence": "I just want to finish writing this last rule",
+      "TalkMove": null
+    },
+    {
+      "ID": 15564,
+      "Turn": 217,
+      "Speaker": "T",
+      "Sentence": "If youre finished compare with your neighbor and see if you agree",
+      "TalkMove": "Getting Students to Relate to Another’s Ideas"
+    },
+    {
+      "ID": 15565,
+      "Turn": 218,
+      "Speaker": "T",
+      "Sentence": "Nos you can talk to other people that are actually here",
+      "TalkMove": null
+    },
+    {
+      "ID": 15566,
+      "Turn": 219,
+      "Speaker": "T",
+      "Sentence": "Red Robin",
+      "TalkMove": null
+    },
+    {
+      "ID": 15567,
+      "Turn": 220,
+      "Speaker": "S",
+      "Sentence": "Yoh"
+    },
+    {
+      "ID": 15568,
+      "Turn": 221,
+      "Speaker": "T",
+      "Sentence": "Red Robin",
+      "TalkMove": null
+    },
+    {
+      "ID": 15569,
+      "Turn": 222,
+      "Speaker": "S",
+      "Sentence": "Yoh"
+    },
+    {
+      "ID": 15570,
+      "Turn": 223,
+      "Speaker": "T",
+      "Sentence": "I also need to see eyes",
+      "TalkMove": null
+    },
+    {
+      "ID": 15571,
+      "Turn": 223,
+      "Speaker": "T",
+      "Sentence": "Sean I need to see your eyes",
+      "TalkMove": null
+    },
+    {
+      "ID": 15572,
+      "Turn": 223,
+      "Speaker": "T",
+      "Sentence": "Thank you so much",
+      "TalkMove": null
+    },
+    {
+      "ID": 15573,
+      "Turn": 223,
+      "Speaker": "T",
+      "Sentence": "Luis",
+      "TalkMove": "Keeping Everyone Together"
+    },
+    {
+      "ID": 15574,
+      "Turn": 223,
+      "Speaker": "T",
+      "Sentence": "All write I wrote friends can you move",
+      "TalkMove": null
+    },
+    {
+      "ID": 15575,
+      "Turn": 223,
+      "Speaker": "T",
+      "Sentence": "I wrote some step by step steps because I noticed when I said to start some people were just sitting there not able to start",
+      "TalkMove": null
+    },
+    {
+      "ID": 15576,
+      "Turn": 223,
+      "Speaker": "T",
+      "Sentence": "I put these steps here to use as a resource",
+      "TalkMove": null
+    },
+    {
+      "ID": 15577,
+      "Turn": 223,
+      "Speaker": "T",
+      "Sentence": "Well go through 34 of eight as our example",
+      "TalkMove": null
+    },
+    {
+      "ID": 15578,
+      "Turn": 223,
+      "Speaker": "T",
+      "Sentence": "It says to look at the denominator and find how many equal groups",
+      "TalkMove": null
+    },
+    {
+      "ID": 15579,
+      "Turn": 223,
+      "Speaker": "T",
+      "Sentence": "Class when I point at me youre going to tell me how many equal groups are we going to make",
+      "TalkMove": "Pressing for Accuracy"
+    },
+    {
+      "ID": 15580,
+      "Turn": 223,
+      "Speaker": "T",
+      "Sentence": "Ready",
+      "TalkMove": "Keeping Everyone Together"
+    },
+    {
+      "ID": 15581,
+      "Turn": 224,
+      "Speaker": "S",
+      "Sentence": "Four"
+    },
+    {
+      "ID": 15582,
+      "Turn": 225,
+      "Speaker": "T",
+      "Sentence": "Four so if I do four equal groups and eight is my whole number how many are in one group",
+      "TalkMove": "Revoicing"
+    },
+    {
+      "ID": 15583,
+      "Turn": 225,
+      "Speaker": "T",
+      "Sentence": "Bree how did you get two",
+      "TalkMove": "Pressing for Reasoning"
+    },
+    {
+      "ID": 15584,
+      "Turn": 225,
+      "Speaker": "T",
+      "Sentence": "Because youre the only one who answered",
+      "TalkMove": null
+    },
+    {
+      "ID": 15585,
+      "Turn": 225,
+      "Speaker": "T",
+      "Sentence": "The rest of your eyes need to be here",
+      "TalkMove": null
+    },
+    {
+      "ID": 15586,
+      "Turn": 225,
+      "Speaker": "T",
+      "Sentence": "Here answering these questions not one person 26 people",
+      "TalkMove": null
+    },
+    {
+      "ID": 15587,
+      "Turn": 225,
+      "Speaker": "T",
+      "Sentence": "How did you get two",
+      "TalkMove": "Pressing for Reasoning"
+    },
+    {
+      "ID": 15588,
+      "Turn": 226,
+      "Speaker": "S",
+      "Sentence": "How I got two is by I know that four times two is eight and there is four"
+    },
+    {
+      "ID": 15589,
+      "Turn": 227,
+      "Speaker": "T",
+      "Sentence": "Yes thank you Luis for your active listening Luis",
+      "TalkMove": null
+    },
+    {
+      "ID": 15590,
+      "Turn": 227,
+      "Speaker": "T",
+      "Sentence": "Another way you could think is eight divided by four equals two either way its the same thing",
+      "TalkMove": "Revoicing"
+    },
+    {
+      "ID": 15591,
+      "Turn": 227,
+      "Speaker": "T",
+      "Sentence": "Tell your partner what did Bree do to figure out two",
+      "TalkMove": "Getting Students to Relate to Another’s Ideas"
+    },
+    {
+      "ID": 15592,
+      "Turn": 227,
+      "Speaker": "T",
+      "Sentence": "How many are in one group",
+      "TalkMove": "Getting Students to Relate to Another’s Ideas"
+    },
+    {
+      "ID": 15593,
+      "Turn": 227,
+      "Speaker": "T",
+      "Sentence": "Go",
+      "TalkMove": "Keeping Everyone Together"
+    },
+    {
+      "ID": 15594,
+      "Turn": 228,
+      "Speaker": "T",
+      "Sentence": "Five four three two and one my third step is multiply the amount in one group so thats going to be two times my numerator",
+      "TalkMove": null
+    },
+    {
+      "ID": 15595,
+      "Turn": 228,
+      "Speaker": "T",
+      "Sentence": "Class when I point to you youre going to tell me my numerator",
+      "TalkMove": "Pressing for Accuracy"
+    },
+    {
+      "ID": 15596,
+      "Turn": 228,
+      "Speaker": "T",
+      "Sentence": "Henry what do you have tell me when I point",
+      "TalkMove": null
+    },
+    {
+      "ID": 15597,
+      "Turn": 229,
+      "Speaker": "S",
+      "Sentence": "We tell you the denominator"
+    },
+    {
+      "ID": 15598,
+      "Turn": 230,
+      "Speaker": "T",
+      "Sentence": "No thats why your eyes should be on me when Im talking",
+      "TalkMove": null
+    },
+    {
+      "ID": 15599,
+      "Turn": 230,
+      "Speaker": "T",
+      "Sentence": "Youre going to tell me the numerator",
+      "TalkMove": "Pressing for Accuracy"
+    },
+    {
+      "ID": 15600,
+      "Turn": 230,
+      "Speaker": "T",
+      "Sentence": "What are you going to tell me Henry",
+      "TalkMove": "Keeping Everyone Together"
+    },
+    {
+      "ID": 15601,
+      "Turn": 231,
+      "Speaker": "S",
+      "Sentence": "The numerator"
+    },
+    {
+      "ID": 15602,
+      "Turn": 232,
+      "Speaker": "T",
+      "Sentence": "When I point whats the numerator",
+      "TalkMove": "Pressing for Accuracy"
+    },
+    {
+      "ID": 15603,
+      "Turn": 233,
+      "Speaker": "S",
+      "Sentence": "Three"
+    },
+    {
+      "ID": 15604,
+      "Turn": 234,
+      "Speaker": "T",
+      "Sentence": "Two times three equals",
+      "TalkMove": "Pressing for Accuracy"
+    },
+    {
+      "ID": 15605,
+      "Turn": 235,
+      "Speaker": "S",
+      "Sentence": "Six"
+    },
+    {
+      "ID": 15606,
+      "Turn": 236,
+      "Speaker": "T",
+      "Sentence": "Show me thumbs up if you have six in that first in and out place thumbs down if you did not",
+      "TalkMove": "Getting Students to Relate to Another’s Ideas"
+    },
+    {
+      "ID": 15607,
+      "Turn": 236,
+      "Speaker": "T",
+      "Sentence": "If you did not please use this learning and quickly fix while I go get my pen",
+      "TalkMove": null
+    }
+  ]
+}

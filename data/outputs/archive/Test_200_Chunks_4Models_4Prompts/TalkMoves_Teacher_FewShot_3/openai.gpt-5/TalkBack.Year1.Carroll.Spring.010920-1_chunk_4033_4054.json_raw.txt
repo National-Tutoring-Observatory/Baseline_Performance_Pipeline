@@ -1,0 +1,100 @@
+{
+  "records": [
+    {
+      "ID": 4035,
+      "Turn": 98,
+      "Speaker": "T",
+      "TalkMove": "None"
+    },
+    {
+      "ID": 4037,
+      "Turn": 100,
+      "Speaker": "T",
+      "TalkMove": "None"
+    },
+    {
+      "ID": 4038,
+      "Turn": 101,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks students to identify which decimal is larger, prompting a precise mathematical comparison."
+    },
+    {
+      "ID": 4039,
+      "Turn": 101,
+      "Speaker": "T",
+      "TalkMove": "None"
+    },
+    {
+      "ID": 4040,
+      "Turn": 101,
+      "Speaker": "T",
+      "TalkMove": "None"
+    },
+    {
+      "ID": 4042,
+      "Turn": 102,
+      "Speaker": "T",
+      "TalkMove": "None"
+    },
+    {
+      "ID": 4043,
+      "Turn": 103,
+      "Speaker": "T",
+      "TalkMove": "None"
+    },
+    {
+      "ID": 4044,
+      "Turn": 103,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Prompts students to name the correct place value to start, using mathematical language."
+    },
+    {
+      "ID": 4046,
+      "Turn": 104,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "Restates the student's 'Ones' answer by rephrasing it as 'start in the ones place,' preserving the same idea."
+    },
+    {
+      "ID": 4047,
+      "Turn": 104,
+      "Speaker": "T",
+      "TalkMove": "None"
+    },
+    {
+      "ID": 4049,
+      "Turn": 106,
+      "Speaker": "T",
+      "TalkMove": "None"
+    },
+    {
+      "ID": 4050,
+      "Turn": 106,
+      "Speaker": "T",
+      "TalkMove": "None"
+    },
+    {
+      "ID": 4051,
+      "Turn": 106,
+      "Speaker": "T",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Directs attention to who has the microphone, orienting the class to the next speaker."
+    },
+    {
+      "ID": 4053,
+      "Turn": 108,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks a specific student to identify which value is larger."
+    },
+    {
+      "ID": 4054,
+      "Turn": 108,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Provides two decimal options, prompting a mathematically precise comparison using place-value terms."
+    }
+  ]
+}

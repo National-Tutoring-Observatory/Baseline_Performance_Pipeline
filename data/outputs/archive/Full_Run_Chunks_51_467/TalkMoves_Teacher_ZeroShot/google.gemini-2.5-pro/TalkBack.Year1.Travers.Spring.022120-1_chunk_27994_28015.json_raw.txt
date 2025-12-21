@@ -1,0 +1,156 @@
+{
+  "records": [
+    {
+      "ID": 27994,
+      "Turn": 208,
+      "Speaker": "T",
+      "Sentence": "Are you comfortable drawing somewhere so its a triangle",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 27995,
+      "Turn": 209,
+      "Speaker": "T",
+      "Sentence": "Erase",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 27996,
+      "Turn": 210,
+      "Speaker": "T",
+      "Sentence": "Its trying to erase it",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 27997,
+      "Turn": 211,
+      "Speaker": "T",
+      "Sentence": "Yes I thought about it",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 27998,
+      "Turn": 211,
+      "Speaker": "T",
+      "Sentence": "I just want to show them how to relate the answer key",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 27999,
+      "Turn": 211,
+      "Speaker": "T",
+      "Sentence": "Right",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 28000,
+      "Turn": 211,
+      "Speaker": "T",
+      "Sentence": "Okay",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 28001,
+      "Turn": 211,
+      "Speaker": "T",
+      "Sentence": "All right my friends if you could please take a quick look up here on the screen",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher directs all students to focus their attention on a common point (the screen) to ensure the class is following along together."
+    },
+    {
+      "ID": 28002,
+      "Turn": 211,
+      "Speaker": "T",
+      "Sentence": "I want you to check your thinking",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher instructs all students to engage in the same activity of self-assessment, keeping the class focused on a common task."
+    },
+    {
+      "ID": 28003,
+      "Turn": 211,
+      "Speaker": "T",
+      "Sentence": "I stopped by a couple of kids desks and we were talking about is the rule multiply times 10",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 28004,
+      "Turn": 211,
+      "Speaker": "T",
+      "Sentence": "That is correct but we talked about in our success criteria we need to have our rule be written as a what",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher confirms an answer is correct but pushes for a more specific mathematical representation as required by the lesson's success criteria."
+    },
+    {
+      "ID": 28005,
+      "Turn": 211,
+      "Speaker": "T",
+      "Sentence": "Power of",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher provides a verbal scaffold to prompt students for the specific mathematical term required."
+    },
+    {
+      "ID": 28007,
+      "Turn": 213,
+      "Speaker": "T",
+      "Sentence": "I want you to check your rules",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher directs all students to perform the same action (checking their rules), ensuring the class moves forward together."
+    },
+    {
+      "ID": 28008,
+      "Turn": 213,
+      "Speaker": "T",
+      "Sentence": "Do you have times 10 to the first power",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks students to verify if they have used the specific and correct mathematical notation for the rule."
+    },
+    {
+      "ID": 28010,
+      "Turn": 215,
+      "Speaker": "T",
+      "Sentence": "Okay",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 28011,
+      "Turn": 215,
+      "Speaker": "T",
+      "Sentence": "If you dont I asked you to bring your pencils so you can check it right now please okay",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 28012,
+      "Turn": 215,
+      "Speaker": "T",
+      "Sentence": "Then my friends in number three the rule would be divided by 10 to the what",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to provide a specific mathematical term to complete the rule, focusing on correct notation."
+    },
+    {
+      "ID": 28014,
+      "Turn": 217,
+      "Speaker": "T",
+      "Sentence": "Third power",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's idea ('Power of three') but refines the mathematical language to a more conventional form ('Third power')."
+    },
+    {
+      "ID": 28015,
+      "Turn": 217,
+      "Speaker": "T",
+      "Sentence": "Okay",
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

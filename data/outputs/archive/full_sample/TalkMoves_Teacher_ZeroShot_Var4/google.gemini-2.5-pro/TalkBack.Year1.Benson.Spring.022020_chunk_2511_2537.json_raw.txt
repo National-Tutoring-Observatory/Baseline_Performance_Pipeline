@@ -1,0 +1,110 @@
+{
+  "records": [
+    {
+      "ID": 2511,
+      "Speaker": "T",
+      "Turn": 2511
+    },
+    {
+      "ID": 2512,
+      "Speaker": "T",
+      "Turn": 2512
+    },
+    {
+      "ID": 2513,
+      "Speaker": "T",
+      "Turn": 2513
+    },
+    {
+      "ID": 2514,
+      "Speaker": "T",
+      "Turn": 2514
+    },
+    {
+      "ID": 2516,
+      "Speaker": "T",
+      "Turn": 2516
+    },
+    {
+      "ID": 2517,
+      "Speaker": "T",
+      "Turn": 2517
+    },
+    {
+      "ID": 2519,
+      "Speaker": "T",
+      "Turn": 2519
+    },
+    {
+      "ID": 2520,
+      "Speaker": "T",
+      "Turn": 2520
+    },
+    {
+      "ID": 2521,
+      "Speaker": "T",
+      "Turn": 2521
+    },
+    {
+      "ID": 2523,
+      "Speaker": "T",
+      "Turn": 2523
+    },
+    {
+      "ID": 2524,
+      "Speaker": "T",
+      "Turn": 2524
+    },
+    {
+      "ID": 2525,
+      "Speaker": "T",
+      "Turn": 2525
+    },
+    {
+      "ID": 2527,
+      "Speaker": "T",
+      "Turn": 2527
+    },
+    {
+      "ID": 2528,
+      "Speaker": "T",
+      "Turn": 2528
+    },
+    {
+      "ID": 2530,
+      "Speaker": "T",
+      "Turn": 2530
+    },
+    {
+      "ID": 2531,
+      "Speaker": "T",
+      "Turn": 2531
+    },
+    {
+      "ID": 2533,
+      "Speaker": "T",
+      "Turn": 2533,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's answer verbatim."
+    },
+    {
+      "ID": 2534,
+      "Speaker": "T",
+      "Turn": 2534
+    },
+    {
+      "ID": 2536,
+      "Speaker": "T",
+      "Turn": 2536,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's answer verbatim."
+    },
+    {
+      "ID": 2537,
+      "Speaker": "T",
+      "Turn": 2537,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts a student to revise their answer by focusing on a specific mathematical detail."
+    }
+  ]
+}

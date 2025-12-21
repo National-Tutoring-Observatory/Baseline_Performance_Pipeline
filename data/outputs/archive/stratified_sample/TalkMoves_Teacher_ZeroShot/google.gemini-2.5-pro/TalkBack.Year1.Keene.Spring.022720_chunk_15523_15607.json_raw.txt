@@ -1,0 +1,473 @@
+{
+  "records": [
+    {
+      "ID": 15524,
+      "Turn": 199,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to explain the process another student used to get their answer."
+    },
+    {
+      "ID": 15526,
+      "Turn": 201,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to be more specific about the mathematical term 'it' by asking what number was divided."
+    },
+    {
+      "ID": 15528,
+      "Turn": 203,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15529,
+      "Turn": 203,
+      "Speaker": "T",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher is instructing a student to be an active listener while classmates are contributing."
+    },
+    {
+      "ID": 15530,
+      "Turn": 203,
+      "Speaker": "T",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher gives a specific instruction on how to be an active listener by orienting their attention to the speaker."
+    },
+    {
+      "ID": 15531,
+      "Turn": 203,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15532,
+      "Turn": 203,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15533,
+      "Turn": 203,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher explicitly asks the student to provide the reasoning ('why') for their mathematical suggestion."
+    },
+    {
+      "ID": 15536,
+      "Turn": 206,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15537,
+      "Turn": 206,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15540,
+      "Turn": 208,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15541,
+      "Turn": 208,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15542,
+      "Turn": 208,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases and highlights a previous student's explanation to frame it as the correct first step for the current problem."
+    },
+    {
+      "ID": 15543,
+      "Turn": 208,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15544,
+      "Turn": 208,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15545,
+      "Turn": 208,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to state the mathematical function of the numerator, pressing for a correct definition."
+    },
+    {
+      "ID": 15546,
+      "Turn": 208,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15547,
+      "Turn": 208,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15549,
+      "Turn": 210,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher corrects and rephrases the student's reading of a poster to clarify its specific mathematical meaning in the current context."
+    },
+    {
+      "ID": 15550,
+      "Turn": 210,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15551,
+      "Turn": 210,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15553,
+      "Turn": 212,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "After an incorrect student response, the teacher repeats the question to prompt for the correct numerical answer."
+    },
+    {
+      "ID": 15555,
+      "Turn": 214,
+      "Speaker": "T",
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's correct answer 'Four' verbatim before elaborating on it."
+    },
+    {
+      "ID": 15556,
+      "Turn": 214,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15557,
+      "Turn": 214,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15558,
+      "Turn": 214,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15559,
+      "Turn": 214,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15560,
+      "Turn": 215,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15561,
+      "Turn": 216,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15562,
+      "Turn": 217,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15563,
+      "Turn": 217,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15564,
+      "Turn": 217,
+      "Speaker": "T",
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher instructs students to compare their work with a neighbor and discuss agreement, prompting them to engage with a classmate's ideas."
+    },
+    {
+      "ID": 15565,
+      "Turn": 218,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15566,
+      "Turn": 219,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15568,
+      "Turn": 221,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15570,
+      "Turn": 223,
+      "Speaker": "T",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher uses a common classroom management phrase to direct all students' attention to the front."
+    },
+    {
+      "ID": 15571,
+      "Turn": 223,
+      "Speaker": "T",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher directs a specific student to pay attention, ensuring they are part of the collective group focus."
+    },
+    {
+      "ID": 15572,
+      "Turn": 223,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15573,
+      "Turn": 223,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15574,
+      "Turn": 223,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15575,
+      "Turn": 223,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15576,
+      "Turn": 223,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15577,
+      "Turn": 223,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15578,
+      "Turn": 223,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15579,
+      "Turn": 223,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15580,
+      "Turn": 223,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15582,
+      "Turn": 225,
+      "Speaker": "T",
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the students' choral response 'Four' before asking a follow-up question."
+    },
+    {
+      "ID": 15583,
+      "Turn": 225,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks a student to explain the thinking process ('how did you get') behind her answer."
+    },
+    {
+      "ID": 15584,
+      "Turn": 225,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15585,
+      "Turn": 225,
+      "Speaker": "T",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher directs the rest of the class to focus their attention on the current discussion."
+    },
+    {
+      "ID": 15586,
+      "Turn": 225,
+      "Speaker": "T",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher sets the expectation that all students, not just one, should be engaged and ready to answer."
+    },
+    {
+      "ID": 15587,
+      "Turn": 225,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher repeats the question, pressing the student to explain her thinking process."
+    },
+    {
+      "ID": 15589,
+      "Turn": 227,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15590,
+      "Turn": 227,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher takes the student's multiplication-based reasoning and rephrases it as an equivalent division operation, adding a new mathematical perspective."
+    },
+    {
+      "ID": 15591,
+      "Turn": 227,
+      "Speaker": "T",
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher directs students to turn to a partner and discuss the reasoning just shared by a classmate (Bree)."
+    },
+    {
+      "ID": 15592,
+      "Turn": 227,
+      "Speaker": "T",
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher clarifies the topic for the partner talk, focusing it on the classmate's (Bree's) method."
+    },
+    {
+      "ID": 15593,
+      "Turn": 227,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15594,
+      "Turn": 228,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15595,
+      "Turn": 228,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15596,
+      "Turn": 228,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15598,
+      "Turn": 230,
+      "Speaker": "T",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher corrects a student and reminds them to be an active listener by keeping their eyes on the speaker."
+    },
+    {
+      "ID": 15599,
+      "Turn": 230,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15600,
+      "Turn": 230,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15602,
+      "Turn": 232,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15604,
+      "Turn": 234,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15606,
+      "Turn": 236,
+      "Speaker": "T",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher asks for a whole-class, non-verbal response to gauge understanding and ensure everyone is at the same point."
+    },
+    {
+      "ID": 15607,
+      "Turn": 236,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

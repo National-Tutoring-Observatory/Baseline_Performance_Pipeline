@@ -1,0 +1,356 @@
+{
+  "records": [
+    {
+      "ID": 22122,
+      "Turn": 231,
+      "Speaker": "T",
+      "Sentence": "On the left side we get an",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22124,
+      "Turn": 233,
+      "Speaker": "T",
+      "Sentence": "eight",
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's answer 'Eight' word for word."
+    },
+    {
+      "ID": 22125,
+      "Turn": 233,
+      "Speaker": "T",
+      "Sentence": "Now what do we do Cordelia",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22127,
+      "Turn": 235,
+      "Speaker": "T",
+      "Sentence": "The flippy thingy",
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's informal phrase 'the flippy thingy' word for word."
+    },
+    {
+      "ID": 22129,
+      "Turn": 237,
+      "Speaker": "T",
+      "Sentence": "What are we going to flip",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to be more specific about their contribution, clarifying what 'the flippy thingy' refers to."
+    },
+    {
+      "ID": 22131,
+      "Turn": 239,
+      "Speaker": "T",
+      "Sentence": "The three fourth",
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the core of the student's phrase 'The three fourth thing'."
+    },
+    {
+      "ID": 22132,
+      "Turn": 239,
+      "Speaker": "T",
+      "Sentence": "What do we call that when we flip it",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to use precise mathematical language instead of the informal 'flip it'."
+    },
+    {
+      "ID": 22135,
+      "Turn": 242,
+      "Speaker": "T",
+      "Sentence": "Reciprocal",
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's contribution 'Reciprocal' word for word."
+    },
+    {
+      "ID": 22137,
+      "Turn": 244,
+      "Speaker": "T",
+      "Sentence": "We have four thirds and we got to do that as well",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22138,
+      "Turn": 244,
+      "Speaker": "T",
+      "Sentence": "Because three fourth times fourthirds equals",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22140,
+      "Turn": 246,
+      "Speaker": "T",
+      "Sentence": "Now we have to take eight and raise it to the fourthirds power",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22141,
+      "Turn": 246,
+      "Speaker": "T",
+      "Sentence": "Lets imagine this is a test question and you dont have a calculator",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22142,
+      "Turn": 246,
+      "Speaker": "T",
+      "Sentence": "How do you want to think about eight to the fourthirds power",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts students to share their thinking process or strategy for solving the problem."
+    },
+    {
+      "ID": 22145,
+      "Turn": 249,
+      "Speaker": "T",
+      "Sentence": "Heres where weve got to make sure we understand which one of those numbers goes where",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22146,
+      "Turn": 249,
+      "Speaker": "T",
+      "Sentence": "If you remember that if we said the square root of four is the same thing as four to the one half that helps us remember that the index is the denominator",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22147,
+      "Turn": 249,
+      "Speaker": "T",
+      "Sentence": "I dont know if we could think index has a D in it and its a denominator",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22148,
+      "Turn": 249,
+      "Speaker": "T",
+      "Sentence": "Figure out some way of remembering that",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22149,
+      "Turn": 249,
+      "Speaker": "T",
+      "Sentence": "Obviously it was easier to find the cube root of eight first than it would have been to do the other way around",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22150,
+      "Turn": 250,
+      "Speaker": "T",
+      "Sentence": "We could have said we wanted to find eight to the fourth and then take the cube root of that but I really dont want to multiply eight times eight times eight times eight",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22151,
+      "Turn": 250,
+      "Speaker": "T",
+      "Sentence": "There is a route thats going to simplify that",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22152,
+      "Turn": 250,
+      "Speaker": "T",
+      "Sentence": "Okay",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22153,
+      "Turn": 250,
+      "Speaker": "T",
+      "Sentence": "Last step here Jared",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22155,
+      "Turn": 251,
+      "Speaker": "T",
+      "Sentence": "Divide by two",
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats part of the student's answer 'Divide both sides by two'."
+    },
+    {
+      "ID": 22156,
+      "Turn": 251,
+      "Speaker": "T",
+      "Sentence": "X is going to equal",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22158,
+      "Turn": 253,
+      "Speaker": "T",
+      "Sentence": "Yes we check our answer",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22159,
+      "Turn": 253,
+      "Speaker": "T",
+      "Sentence": "Plug eight in",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22160,
+      "Turn": 253,
+      "Speaker": "T",
+      "Sentence": "Turns out it works",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22161,
+      "Turn": 253,
+      "Speaker": "T",
+      "Sentence": "We have our solution",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22164,
+      "Turn": 256,
+      "Speaker": "T",
+      "Sentence": "Yes",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22166,
+      "Turn": 258,
+      "Speaker": "T",
+      "Sentence": "Right because whatever we do to one side we got to do to the other and we do it to everything",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's idea about using the reciprocal, but adds on a general mathematical principle to clarify and extend the student's contribution."
+    },
+    {
+      "ID": 22167,
+      "Turn": 258,
+      "Speaker": "T",
+      "Sentence": "Another example",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22168,
+      "Turn": 258,
+      "Speaker": "T",
+      "Sentence": "Whats our first step Brittany",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22170,
+      "Turn": 260,
+      "Speaker": "T",
+      "Sentence": "It is isolated",
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's phrase 'it already is isolated' with a slight modification."
+    },
+    {
+      "ID": 22171,
+      "Turn": 260,
+      "Speaker": "T",
+      "Sentence": "What is isolated",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to replace the pronoun 'it' with a more precise mathematical term."
+    },
+    {
+      "ID": 22173,
+      "Turn": 262,
+      "Speaker": "T",
+      "Sentence": "Nice good good",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22174,
+      "Turn": 262,
+      "Speaker": "T",
+      "Sentence": "What are we going to raise both sides to",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22176,
+      "Turn": 264,
+      "Speaker": "T",
+      "Sentence": "Two over one",
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's answer 'Two over one' word for word."
+    },
+    {
+      "ID": 22177,
+      "Turn": 264,
+      "Speaker": "T",
+      "Sentence": "Two over one just is",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to simplify their contribution 'two over one' into a more conventional form."
+    },
+    {
+      "ID": 22179,
+      "Turn": 266,
+      "Speaker": "T",
+      "Sentence": "Were just going to square both sides",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher takes the student's one-word answer 'Squared' and rephrases it as a complete sentence describing the mathematical action."
+    },
+    {
+      "ID": 22181,
+      "Turn": 268,
+      "Speaker": "T",
+      "Sentence": "Typically you see if theres parentheses that use brackets but more parentheses is fine",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22183,
+      "Turn": 270,
+      "Speaker": "T",
+      "Sentence": "Yes thats fine",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22184,
+      "Turn": 270,
+      "Speaker": "T",
+      "Sentence": "We end up with x plus 30 equals x squared",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22185,
+      "Turn": 270,
+      "Speaker": "T",
+      "Sentence": "Joel what are you going to do if I got a quadratic a constant and a linear term",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts the student to explain their strategy or thinking based on the structure of the equation."
+    },
+    {
+      "ID": 22187,
+      "Turn": 272,
+      "Speaker": "T",
+      "Sentence": "Subtract the x over okay",
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's contribution 'Subtract the x over' and adds a confirmation."
+    }
+  ]
+}

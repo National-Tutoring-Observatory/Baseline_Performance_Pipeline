@@ -1,0 +1,116 @@
+{
+  "records": [
+    {
+      "ID": 9865,
+      "Speaker": "T",
+      "Turn": 122,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9866,
+      "Speaker": "T",
+      "Turn": 123,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9867,
+      "Speaker": "T",
+      "Turn": 123,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9868,
+      "Speaker": "T",
+      "Turn": 123,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Prompts students to attend to the speaker, orienting the class to listen."
+    },
+    {
+      "ID": 9871,
+      "Speaker": "T",
+      "Turn": 124,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks the student to count to demonstrate the mathematical steps precisely."
+    },
+    {
+      "ID": 9872,
+      "Speaker": "T",
+      "Turn": 124,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Directs the student to count by twos on the diagram to show the procedure."
+    },
+    {
+      "ID": 9873,
+      "Speaker": "T",
+      "Turn": 124,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Requests evidence from the first diagram to show why the value is two."
+    },
+    {
+      "ID": 9874,
+      "Speaker": "T",
+      "Turn": 124,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Asks the student to explain how they know the quantity is two."
+    },
+    {
+      "ID": 9879,
+      "Speaker": "T",
+      "Turn": 126,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Prompts students to state a formal number model for the situation."
+    },
+    {
+      "ID": 9880,
+      "Speaker": "T",
+      "Turn": 126,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9881,
+      "Speaker": "T",
+      "Turn": 126,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Prompts students to provide a number model representation."
+    },
+    {
+      "ID": 9882,
+      "Speaker": "T",
+      "Turn": 126,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9883,
+      "Speaker": "T",
+      "Turn": 126,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9884,
+      "Speaker": "T",
+      "Turn": 127,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks for a number model that matches the work shown."
+    },
+    {
+      "ID": 9885,
+      "Speaker": "T",
+      "Turn": 127,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9886,
+      "Speaker": "T",
+      "Turn": 127,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Offers a candidate number model, reformulating the student's idea into notation and checking it."
+    }
+  ]
+}

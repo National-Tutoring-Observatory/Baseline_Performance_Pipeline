@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 2261,
+      "Speaker": "T",
+      "Turn": 2261,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2263,
+      "Speaker": "T",
+      "Turn": 2263,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts the student to consider the mathematical logic of their subtraction operation."
+    },
+    {
+      "ID": 2265,
+      "Speaker": "T",
+      "Turn": 2265,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2266,
+      "Speaker": "T",
+      "Turn": 2266,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to use correct mathematical notation (the dollar sign)."
+    },
+    {
+      "ID": 2267,
+      "Speaker": "T",
+      "Turn": 2267,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2268,
+      "Speaker": "T",
+      "Turn": 2268,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher directs the student to use correct mathematical notation (the dollar sign)."
+    },
+    {
+      "ID": 2269,
+      "Speaker": "T",
+      "Turn": 2269,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2270,
+      "Speaker": "T",
+      "Turn": 2270,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2271,
+      "Speaker": "T",
+      "Turn": 2271,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2272,
+      "Speaker": "T",
+      "Turn": 2272,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher explicitly instructs students to listen to their classmates' explanations to help their own understanding."
+    },
+    {
+      "ID": 2273,
+      "Speaker": "T",
+      "Turn": 2273,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher sets the expectation for students to explain the reasoning behind their choice of numbers and operations."
+    },
+    {
+      "ID": 2274,
+      "Speaker": "T",
+      "Turn": 2274,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher provides a specific example of the type of reasoning they expect students to share."
+    },
+    {
+      "ID": 2275,
+      "Speaker": "T",
+      "Turn": 2275,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2276,
+      "Speaker": "T",
+      "Turn": 2276,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2277,
+      "Speaker": "T",
+      "Turn": 2277,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2279,
+      "Speaker": "T",
+      "Turn": 2279,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2281,
+      "Speaker": "T",
+      "Turn": 2281,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts the student to explain their solution process."
+    },
+    {
+      "ID": 2283,
+      "Speaker": "T",
+      "Turn": 2283,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats a key piece of information a student likely contributed about the problem."
+    },
+    {
+      "ID": 2285,
+      "Speaker": "T",
+      "Turn": 2285,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats another key piece of information a student likely contributed about the problem."
+    },
+    {
+      "ID": 2286,
+      "Speaker": "T",
+      "Turn": 2286,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to be precise about the details of the word problem."
+    }
+  ]
+}

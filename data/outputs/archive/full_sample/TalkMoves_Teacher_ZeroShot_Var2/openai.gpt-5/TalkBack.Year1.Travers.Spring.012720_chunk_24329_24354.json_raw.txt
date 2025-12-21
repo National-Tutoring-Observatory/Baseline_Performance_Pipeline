@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 24329,
+      "Speaker": "T",
+      "Turn": 24329,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24330,
+      "Speaker": "T",
+      "Turn": 24330,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24331,
+      "Speaker": "T",
+      "Turn": 24331,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for a specific mathematical way to change six twelfths, prompting a concrete mathematical contribution."
+    },
+    {
+      "ID": 24332,
+      "Speaker": "T",
+      "Turn": 24332,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher repeats the prompt for a mathematical method to change six twelfths."
+    },
+    {
+      "ID": 24333,
+      "Speaker": "T",
+      "Turn": 24333,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24334,
+      "Speaker": "T",
+      "Turn": 24334,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to explain how they obtained seventy-three twelfths."
+    },
+    {
+      "ID": 24336,
+      "Speaker": "T",
+      "Turn": 24336,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts the student to describe their next step in the solution."
+    },
+    {
+      "ID": 24338,
+      "Speaker": "T",
+      "Turn": 24338,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's listed numbers verbatim."
+    },
+    {
+      "ID": 24339,
+      "Speaker": "T",
+      "Turn": 24339,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24340,
+      "Speaker": "T",
+      "Turn": 24340,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher orients the class to connect one student's approach with Gavin and T's idea."
+    },
+    {
+      "ID": 24341,
+      "Speaker": "T",
+      "Turn": 24341,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher paraphrases the student's strategy (changing to twelfths) and adds that it works."
+    },
+    {
+      "ID": 24342,
+      "Speaker": "T",
+      "Turn": 24342,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher solicits an alternative mathematical approach to the problem."
+    },
+    {
+      "ID": 24343,
+      "Speaker": "T",
+      "Turn": 24343,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24345,
+      "Speaker": "T",
+      "Turn": 24345,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher summarizes Alyssa’s idea of converting all parts into twelfths."
+    },
+    {
+      "ID": 24348,
+      "Speaker": "T",
+      "Turn": 24348,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24349,
+      "Speaker": "T",
+      "Turn": 24349,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24351,
+      "Speaker": "T",
+      "Turn": 24351,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher directs students' attention to the representation, prompting them to focus together."
+    },
+    {
+      "ID": 24352,
+      "Speaker": "T",
+      "Turn": 24352,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks students to evaluate a mathematical statement for correctness."
+    },
+    {
+      "ID": 24353,
+      "Speaker": "T",
+      "Turn": 24353,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24354,
+      "Speaker": "T",
+      "Turn": 24354,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the precise number of twelfths, prompting a specific computation."
+    }
+  ]
+}

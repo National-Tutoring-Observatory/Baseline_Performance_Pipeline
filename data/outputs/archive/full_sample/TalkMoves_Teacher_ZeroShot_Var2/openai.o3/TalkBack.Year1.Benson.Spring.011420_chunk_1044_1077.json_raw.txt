@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 1044,
+      "Speaker": "T",
+      "Turn": 1044,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1045,
+      "Speaker": "T",
+      "Turn": 1045,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1048,
+      "Speaker": "T",
+      "Turn": 1048,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1049,
+      "Speaker": "T",
+      "Turn": 1049,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1050,
+      "Speaker": "T",
+      "Turn": 1050,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1053,
+      "Speaker": "T",
+      "Turn": 1053,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks students to state the specific unknown they must find, eliciting an accurate mathematical detail from the problem."
+    },
+    {
+      "ID": 1054,
+      "Speaker": "T",
+      "Turn": 1054,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Direct question to a student to name the quantity that needs to be determined, seeking a precise mathematical statement."
+    },
+    {
+      "ID": 1056,
+      "Speaker": "T",
+      "Turn": 1056,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks what information is given, prompting students to supply correct problem facts."
+    },
+    {
+      "ID": 1057,
+      "Speaker": "T",
+      "Turn": 1057,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Further request for known quantities, again eliciting accurate facts from the problem."
+    },
+    {
+      "ID": 1058,
+      "Speaker": "T",
+      "Turn": 1058,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1060,
+      "Speaker": "T",
+      "Turn": 1060,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks how to write the exact number sentence, prompting a correct mathematical representation."
+    },
+    {
+      "ID": 1062,
+      "Speaker": "T",
+      "Turn": 1062,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Question seeks the specific numeric value Kennedy has, requiring an accurate answer."
+    },
+    {
+      "ID": 1064,
+      "Speaker": "T",
+      "Turn": 1064,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks which person the number 5 corresponds to, pressing for the correct interpretation of the number."
+    },
+    {
+      "ID": 1065,
+      "Speaker": "T",
+      "Turn": 1065,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher seeks the correct interpretation of the number 7 in the context of the problem."
+    },
+    {
+      "ID": 1068,
+      "Speaker": "T",
+      "Turn": 1068,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1069,
+      "Speaker": "T",
+      "Turn": 1069,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks students to state what the total 35 represents, eliciting an exact contextual meaning."
+    },
+    {
+      "ID": 1071,
+      "Speaker": "T",
+      "Turn": 1071,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1072,
+      "Speaker": "T",
+      "Turn": 1072,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1075,
+      "Speaker": "T",
+      "Turn": 1075,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks again for the unknown quantity in the problem, requesting a precise mathematical statement."
+    },
+    {
+      "ID": 1077,
+      "Speaker": "T",
+      "Turn": 1077,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "After stating what needs to be found, the teacher asks 'how do you know that', prompting the student to justify and explain their thinking."
+    }
+  ]
+}

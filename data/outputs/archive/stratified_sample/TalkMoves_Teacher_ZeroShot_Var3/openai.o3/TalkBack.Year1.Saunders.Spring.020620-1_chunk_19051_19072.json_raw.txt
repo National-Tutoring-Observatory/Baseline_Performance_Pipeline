@@ -1,0 +1,114 @@
+{
+  "records": [
+    {
+      "ID": 19051,
+      "Speaker": "T",
+      "Turn": 1,
+      "TalkMove": null
+    },
+    {
+      "ID": 19052,
+      "Speaker": "T",
+      "Turn": 1,
+      "TalkMove": null
+    },
+    {
+      "ID": 19053,
+      "Speaker": "T",
+      "Turn": 2,
+      "TalkMove": null
+    },
+    {
+      "ID": 19054,
+      "Speaker": "T",
+      "Turn": 2,
+      "TalkMove": null
+    },
+    {
+      "ID": 19055,
+      "Speaker": "T",
+      "Turn": 2,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks students to specify whether X or the entire function was modified, prompting precise mathematical identification."
+    },
+    {
+      "ID": 19057,
+      "Speaker": "T",
+      "Turn": 3,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "After one student responds, the teacher invites others with “What do you think,” prompting them to react to the previous idea."
+    },
+    {
+      "ID": 19058,
+      "Speaker": "T",
+      "Turn": 3,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "By asking “What did we do,” the teacher urges students to explain the action taken rather than just naming it."
+    },
+    {
+      "ID": 19059,
+      "Speaker": "T",
+      "Turn": 3,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher requests the specific element that was modified, seeking a precise mathematical answer."
+    },
+    {
+      "ID": 19061,
+      "Speaker": "T",
+      "Turn": 5,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student’s answer “X” almost word-for-word."
+    },
+    {
+      "ID": 19062,
+      "Speaker": "T",
+      "Turn": 5,
+      "TalkMove": null
+    },
+    {
+      "ID": 19063,
+      "Speaker": "T",
+      "Turn": 5,
+      "TalkMove": null
+    },
+    {
+      "ID": 19064,
+      "Speaker": "T",
+      "Turn": 5,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher again asks students to decide whether they modified X or the whole function, requiring a correct classification."
+    },
+    {
+      "ID": 19066,
+      "Speaker": "T",
+      "Turn": 7,
+      "TalkMove": null
+    },
+    {
+      "ID": 19067,
+      "Speaker": "T",
+      "Turn": 7,
+      "TalkMove": null
+    },
+    {
+      "ID": 19068,
+      "Speaker": "T",
+      "Turn": 7,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student’s statement about modifying the whole function nearly verbatim."
+    },
+    {
+      "ID": 19069,
+      "Speaker": "T",
+      "Turn": 7,
+      "TalkMove": null
+    },
+    {
+      "ID": 19071,
+      "Speaker": "T",
+      "Turn": 9,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases the student’s comment “Modifies X” as a clarifying question, adding slight wording change to confirm understanding."
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "records": [
+    {
+      "ID": 8878,
+      "Turn": 186,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a direct question to elicit a specific mathematical fact."
+    },
+    {
+      "ID": 8879,
+      "Turn": 187,
+      "Speaker": "S"
+    },
+    {
+      "ID": 8880,
+      "Turn": 188,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8881,
+      "Turn": 188,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8882,
+      "Turn": 188,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8883,
+      "Turn": 188,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8884,
+      "Turn": 189,
+      "Speaker": "S"
+    },
+    {
+      "ID": 8885,
+      "Turn": 190,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8886,
+      "Turn": 190,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8887,
+      "Turn": 190,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8888,
+      "Turn": 190,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks 'How do you know,' prompting the student to explain their thinking process."
+    },
+    {
+      "ID": 8889,
+      "Turn": 190,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8890,
+      "Turn": 191,
+      "Speaker": "S"
+    },
+    {
+      "ID": 8891,
+      "Turn": 191,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases the student's implied idea, confirming that factors are the correct tool for the example the student provided."
+    },
+    {
+      "ID": 8892,
+      "Turn": 191,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for a specific mathematical contribution (a number) to advance the problem."
+    },
+    {
+      "ID": 8893,
+      "Turn": 191,
+      "Speaker": "S"
+    },
+    {
+      "ID": 8894,
+      "Turn": 192,
+      "Speaker": "T",
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats part of the student's phrase 'least common multiple' verbatim."
+    },
+    {
+      "ID": 8895,
+      "Turn": 193,
+      "Speaker": "S"
+    },
+    {
+      "ID": 8896,
+      "Turn": 194,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8897,
+      "Turn": 194,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8898,
+      "Turn": 194,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8899,
+      "Turn": 194,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

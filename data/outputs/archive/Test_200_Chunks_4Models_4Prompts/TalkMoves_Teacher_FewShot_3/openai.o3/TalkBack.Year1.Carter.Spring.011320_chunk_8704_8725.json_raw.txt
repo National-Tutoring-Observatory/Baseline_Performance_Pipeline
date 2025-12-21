@@ -1,0 +1,59 @@
+{
+  "Analysis": [
+    {
+      "Turn": 104,
+      "TalkMove": "None",
+      "Reasoning": ""
+    },
+    {
+      "Turn": 107,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks students to confirm that the result is not 36, prompting them to check the correctness of their answer."
+    },
+    {
+      "Turn": 107.1,
+      "TalkMove": "None",
+      "Reasoning": ""
+    },
+    {
+      "Turn": 107.2,
+      "TalkMove": "None",
+      "Reasoning": ""
+    },
+    {
+      "Turn": 107.3,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks if 5 is a factor, pushing students to verify divisibility."
+    },
+    {
+      "Turn": 109,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "By asking \"What about your four\", the teacher pushes the student to test whether 4 is indeed a correct factor."
+    },
+    {
+      "Turn": 112,
+      "TalkMove": "None",
+      "Reasoning": ""
+    },
+    {
+      "Turn": 114,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher requests the missing multiplier of 6 to reach 36, prompting a precise calculation."
+    },
+    {
+      "Turn": 116,
+      "TalkMove": "None",
+      "Reasoning": ""
+    },
+    {
+      "Turn": 118,
+      "TalkMove": "None",
+      "Reasoning": ""
+    },
+    {
+      "Turn": 118.1,
+      "TalkMove": "None",
+      "Reasoning": ""
+    }
+  ]
+}

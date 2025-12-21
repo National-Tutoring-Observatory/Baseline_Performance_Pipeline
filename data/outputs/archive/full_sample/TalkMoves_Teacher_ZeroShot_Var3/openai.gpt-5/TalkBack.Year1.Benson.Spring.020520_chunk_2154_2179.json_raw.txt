@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 2154,
+      "Speaker": "T",
+      "Turn": 2154,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2155,
+      "Speaker": "T",
+      "Turn": 2155,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2156,
+      "Speaker": "T",
+      "Turn": 2156,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks whether they should subtract the estimate, prompting the correct mathematical decision."
+    },
+    {
+      "ID": 2158,
+      "Speaker": "T",
+      "Turn": 2158,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2159,
+      "Speaker": "T",
+      "Turn": 2159,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2160,
+      "Speaker": "T",
+      "Turn": 2160,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2161,
+      "Speaker": "T",
+      "Turn": 2161,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2162,
+      "Speaker": "T",
+      "Turn": 2162,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Solicits a computation (16 × 4) from students."
+    },
+    {
+      "ID": 2164,
+      "Speaker": "T",
+      "Turn": 2164,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Calls on a student to state the result, prompting a mathematical contribution."
+    },
+    {
+      "ID": 2166,
+      "Speaker": "T",
+      "Turn": 2166,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Repeats the student’s answer, confirming it."
+    },
+    {
+      "ID": 2167,
+      "Speaker": "T",
+      "Turn": 2167,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2168,
+      "Speaker": "T",
+      "Turn": 2168,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Checks whether the class has finished the 'singers' part, orienting everyone to the shared task."
+    },
+    {
+      "ID": 2170,
+      "Speaker": "T",
+      "Turn": 2170,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2171,
+      "Speaker": "T",
+      "Turn": 2171,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Requests a quick computation, prompting a mathematical contribution."
+    },
+    {
+      "ID": 2172,
+      "Speaker": "T",
+      "Turn": 2172,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2174,
+      "Speaker": "T",
+      "Turn": 2174,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Restates the student’s numeric answer and adds context (total cost for singers)."
+    },
+    {
+      "ID": 2175,
+      "Speaker": "T",
+      "Turn": 2175,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Prompts students to include labels, emphasizing precise mathematical communication."
+    },
+    {
+      "ID": 2176,
+      "Speaker": "T",
+      "Turn": 2176,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Transitions the class to the next shared task (tumblers)."
+    },
+    {
+      "ID": 2177,
+      "Speaker": "T",
+      "Turn": 2177,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks for the product of 22 × 3, prompting a mathematical answer."
+    },
+    {
+      "ID": 2179,
+      "Speaker": "T",
+      "Turn": 2179,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Echoes a student’s answer, confirming it."
+    }
+  ]
+}

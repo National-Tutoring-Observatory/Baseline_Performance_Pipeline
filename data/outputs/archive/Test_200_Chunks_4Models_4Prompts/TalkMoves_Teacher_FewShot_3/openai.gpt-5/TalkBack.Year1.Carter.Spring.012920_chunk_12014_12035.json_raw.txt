@@ -1,0 +1,127 @@
+{
+  "records": [
+    {
+      "ID": 12014,
+      "Speaker": "T",
+      "Turn": 79,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Invites students to analyze, prompting them to explain or examine the idea."
+    },
+    {
+      "ID": 12015,
+      "Speaker": "T",
+      "Turn": 80,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Asks whether a rule applies across instances, prompting evaluation and justification."
+    },
+    {
+      "ID": 12017,
+      "Speaker": "T",
+      "Turn": 82,
+      "TalkMove": "Restating",
+      "Reasoning": "Repeats the student's response verbatim."
+    },
+    {
+      "ID": 12018,
+      "Speaker": "T",
+      "Turn": 82,
+      "TalkMove": "None"
+    },
+    {
+      "ID": 12019,
+      "Speaker": "T",
+      "Turn": 82,
+      "TalkMove": "None"
+    },
+    {
+      "ID": 12020,
+      "Speaker": "T",
+      "Turn": 82,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Directs the class’s attention to shared text, orienting everyone to the task."
+    },
+    {
+      "ID": 12021,
+      "Speaker": "T",
+      "Turn": 82,
+      "TalkMove": "None"
+    },
+    {
+      "ID": 12022,
+      "Speaker": "T",
+      "Turn": 82,
+      "TalkMove": "None"
+    },
+    {
+      "ID": 12023,
+      "Speaker": "T",
+      "Turn": 82,
+      "TalkMove": "None"
+    },
+    {
+      "ID": 12024,
+      "Speaker": "T",
+      "Turn": 82,
+      "TalkMove": "None"
+    },
+    {
+      "ID": 12026,
+      "Speaker": "T",
+      "Turn": 84,
+      "TalkMove": "Restating",
+      "Reasoning": "Repeats the student's word verbatim."
+    },
+    {
+      "ID": 12027,
+      "Speaker": "T",
+      "Turn": 84,
+      "TalkMove": "None"
+    },
+    {
+      "ID": 12028,
+      "Speaker": "T",
+      "Turn": 84,
+      "TalkMove": "None"
+    },
+    {
+      "ID": 12030,
+      "Speaker": "T",
+      "Turn": 86,
+      "TalkMove": "Restating",
+      "Reasoning": "Repeats the student's word verbatim."
+    },
+    {
+      "ID": 12031,
+      "Speaker": "T",
+      "Turn": 86,
+      "TalkMove": "None"
+    },
+    {
+      "ID": 12032,
+      "Speaker": "T",
+      "Turn": 86,
+      "TalkMove": "None"
+    },
+    {
+      "ID": 12033,
+      "Speaker": "T",
+      "Turn": 86,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Prompts correctness about whether a common denominator is needed."
+    },
+    {
+      "ID": 12034,
+      "Speaker": "T",
+      "Turn": 86,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks if the rule requires a common denominator, focusing on mathematical correctness."
+    },
+    {
+      "ID": 12035,
+      "Speaker": "T",
+      "Turn": 86,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Directs students to attend to the shared examples."
+    }
+  ]
+}

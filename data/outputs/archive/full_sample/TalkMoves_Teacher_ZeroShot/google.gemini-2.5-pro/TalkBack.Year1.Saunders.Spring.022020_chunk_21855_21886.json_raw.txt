@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 21855,
+      "Speaker": "T",
+      "Turn": 21855,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21857,
+      "Speaker": "T",
+      "Turn": 21857,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21858,
+      "Speaker": "T",
+      "Turn": 21858,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to provide the specific mathematical procedure needed to solve the problem."
+    },
+    {
+      "ID": 21860,
+      "Speaker": "T",
+      "Turn": 21860,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats a student's contribution ('Square both sides') to affirm it and make it public."
+    },
+    {
+      "ID": 21862,
+      "Speaker": "T",
+      "Turn": 21862,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21864,
+      "Speaker": "T",
+      "Turn": 21864,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher confirms a student's suggestion ('foil') and rephrases it as a necessary step for the whole class ('We do have to foil that')."
+    },
+    {
+      "ID": 21865,
+      "Speaker": "T",
+      "Turn": 21865,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21867,
+      "Speaker": "T",
+      "Turn": 21867,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21869,
+      "Speaker": "T",
+      "Turn": 21869,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21870,
+      "Speaker": "T",
+      "Turn": 21870,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases the term 'FOIL' with the more formal mathematical term 'double distribution,' adding clarity and precision to a student's idea."
+    },
+    {
+      "ID": 21871,
+      "Speaker": "T",
+      "Turn": 21871,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a specific student to state the result of a mathematical operation."
+    },
+    {
+      "ID": 21873,
+      "Speaker": "T",
+      "Turn": 21873,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's contribution ('They cancel out') verbatim."
+    },
+    {
+      "ID": 21874,
+      "Speaker": "T",
+      "Turn": 21874,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to explain the process that occurred between two steps shown in the work."
+    },
+    {
+      "ID": 21877,
+      "Speaker": "T",
+      "Turn": 21877,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher confirms a student's idea ('foiled') and adds an explanation of the acronym ('first outer inner last'), thereby clarifying the student's contribution."
+    },
+    {
+      "ID": 21878,
+      "Speaker": "T",
+      "Turn": 21878,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21879,
+      "Speaker": "T",
+      "Turn": 21879,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21880,
+      "Speaker": "T",
+      "Turn": 21880,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21882,
+      "Speaker": "T",
+      "Turn": 21882,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21884,
+      "Speaker": "T",
+      "Turn": 21884,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks students to provide the next specific step in the problem-solving process."
+    },
+    {
+      "ID": 21886,
+      "Speaker": "T",
+      "Turn": 21886,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's answer ('Solve for x') to the previous question."
+    }
+  ]
+}

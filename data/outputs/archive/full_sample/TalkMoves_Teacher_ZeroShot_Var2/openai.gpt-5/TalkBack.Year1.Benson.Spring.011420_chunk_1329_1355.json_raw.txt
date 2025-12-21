@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 1329,
+      "Speaker": "T",
+      "Turn": 1329,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1330,
+      "Speaker": "T",
+      "Turn": 1330,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks a student what they are doing, prompting them to describe their thinking or approach."
+    },
+    {
+      "ID": 1332,
+      "Speaker": "T",
+      "Turn": 1332,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1333,
+      "Speaker": "T",
+      "Turn": 1333,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1338,
+      "Speaker": "T",
+      "Turn": 1338,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1339,
+      "Speaker": "T",
+      "Turn": 1339,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1340,
+      "Speaker": "T",
+      "Turn": 1340,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher sets the expectation that students will describe, explain, and justify their work, prompting reasoning."
+    },
+    {
+      "ID": 1341,
+      "Speaker": "T",
+      "Turn": 1341,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a student to identify the 'whole' in the fraction context, pushing for precise mathematical identification."
+    },
+    {
+      "ID": 1342,
+      "Speaker": "T",
+      "Turn": 1342,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the proposed idea ('a can of paint') to confirm and clarify it."
+    },
+    {
+      "ID": 1343,
+      "Speaker": "T",
+      "Turn": 1343,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher restates and elaborates on the idea of the whole ('one can of paint') by adding that it is being split into parts."
+    },
+    {
+      "ID": 1344,
+      "Speaker": "T",
+      "Turn": 1344,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher summarizes what the class had said about the amounts used, paraphrasing prior student contributions."
+    },
+    {
+      "ID": 1345,
+      "Speaker": "T",
+      "Turn": 1345,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher invites a student to describe the picture used, prompting explanation of their representation (even though they then retract)."
+    },
+    {
+      "ID": 1346,
+      "Speaker": "T",
+      "Turn": 1346,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks who else drew pictures, prompting students to indicate their mathematical representation choice."
+    },
+    {
+      "ID": 1347,
+      "Speaker": "T",
+      "Turn": 1347,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks Quinn to describe the drawing used to solve the problem, eliciting explanation of strategy and representation."
+    },
+    {
+      "ID": 1348,
+      "Speaker": "T",
+      "Turn": 1348,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher paraphrases the student's description by stating there were four cans of paint."
+    },
+    {
+      "ID": 1350,
+      "Speaker": "T",
+      "Turn": 1350,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher labels part of the representation as 'Ryan,' restating and clarifying the student’s depiction."
+    },
+    {
+      "ID": 1352,
+      "Speaker": "T",
+      "Turn": 1352,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher restates the mapping of parts of the drawing to sister one, sister two, and sister three."
+    },
+    {
+      "ID": 1353,
+      "Speaker": "T",
+      "Turn": 1353,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for clarification about whether whole things are being added, pushing for precise mathematical understanding."
+    },
+    {
+      "ID": 1354,
+      "Speaker": "T",
+      "Turn": 1354,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts precision by asking if whole cans of paint are being added."
+    },
+    {
+      "ID": 1355,
+      "Speaker": "T",
+      "Turn": 1355,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the exact number of whole cans used, eliciting a precise mathematical quantity."
+    }
+  ]
+}

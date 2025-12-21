@@ -1,0 +1,95 @@
+{
+  "records": [
+    {
+      "ID": 4300,
+      "Speaker": "T",
+      "Turn": 46,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4309,
+      "Speaker": "T",
+      "Turn": 55,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4310,
+      "Speaker": "T",
+      "Turn": 55,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher orients the class’s attention to a shared representation (“this”), prompting collective focus."
+    },
+    {
+      "ID": 4311,
+      "Speaker": "T",
+      "Turn": 55,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4312,
+      "Speaker": "T",
+      "Turn": 55,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4313,
+      "Speaker": "T",
+      "Turn": 55,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks students to identify which representation has more, prompting a mathematical comparison."
+    },
+    {
+      "ID": 4314,
+      "Speaker": "T",
+      "Turn": 55,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4315,
+      "Speaker": "T",
+      "Turn": 55,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher checks that students are attending to and seeing the relevant part of the representation."
+    },
+    {
+      "ID": 4316,
+      "Speaker": "T",
+      "Turn": 55,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4317,
+      "Speaker": "T",
+      "Turn": 55,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4318,
+      "Speaker": "T",
+      "Turn": 55,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher paraphrases a student’s strategy (“you look at the first number”) to the class."
+    },
+    {
+      "ID": 4319,
+      "Speaker": "T",
+      "Turn": 55,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks which is bigger, prompting a specific mathematical judgment."
+    },
+    {
+      "ID": 4320,
+      "Speaker": "T",
+      "Turn": 55,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher narrows the options (“the three or the two”) to elicit a precise mathematical choice."
+    }
+  ]
+}

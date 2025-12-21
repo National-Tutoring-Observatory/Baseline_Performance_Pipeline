@@ -1,0 +1,100 @@
+{
+  "records": [
+    {
+      "ID": 7219,
+      "Turn": 139,
+      "Speaker": "T",
+      "Sentence": "Yes so that would work",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 7220,
+      "Turn": 140,
+      "Speaker": "T",
+      "Sentence": "What else did you notice Brendan",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 7228,
+      "Turn": 141,
+      "Speaker": "T",
+      "Sentence": "I see a lot of people agreeing with you",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher makes the class aware of the group's non-verbal reaction to a student's contribution, orienting them to each other."
+    },
+    {
+      "ID": 7229,
+      "Turn": 141,
+      "Speaker": "T",
+      "Sentence": "Thank you",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 7230,
+      "Turn": 141,
+      "Speaker": "T",
+      "Sentence": "Lastly there should be one more observation",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 7231,
+      "Turn": 141,
+      "Speaker": "T",
+      "Sentence": "Whats the other observation Leslie",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 7233,
+      "Turn": 143,
+      "Speaker": "T",
+      "Sentence": "Tune here Leslie right here",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher directs a student's attention to the shared focus of the lesson to ensure she is an active participant."
+    },
+    {
+      "ID": 7236,
+      "Turn": 145,
+      "Speaker": "T",
+      "Sentence": "I see a lot of people nodding their heads thumbs up",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher highlights the class's non-verbal agreement with a student's idea, orienting students to each other's reactions."
+    },
+    {
+      "ID": 7237,
+      "Turn": 145,
+      "Speaker": "T",
+      "Sentence": "Yes you need to make sure you address that",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher reinforces the expectation that students must include a specific component (addressing incorrectness) in their mathematical explanation."
+    },
+    {
+      "ID": 7238,
+      "Turn": 145,
+      "Speaker": "T",
+      "Sentence": "If there was nothing incorrect you still say that",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher clarifies the standard for a complete mathematical contribution, even in a null case."
+    },
+    {
+      "ID": 7239,
+      "Turn": 145,
+      "Speaker": "T",
+      "Sentence": "Based on my prediction it came out the way I expected",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher models the specific language students should use to make their contribution more complete and accurate."
+    },
+    {
+      "ID": 7240,
+      "Turn": 145,
+      "Speaker": "T",
+      "Sentence": "I didnt see anything that was different so that you at least address the answer to the question",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher continues to model precise language and explains its purpose, which is to ensure the mathematical contribution is complete."
+    }
+  ]
+}

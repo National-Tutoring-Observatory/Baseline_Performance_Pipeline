@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 2882,
+      "Speaker": "T",
+      "Turn": 2882,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2884,
+      "Speaker": "T",
+      "Turn": 2884,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher is clarifying what a student is proposing by rephrasing it as a question to confirm their understanding of the student's idea."
+    },
+    {
+      "ID": 2886,
+      "Speaker": "T",
+      "Turn": 2886,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts the student to think about and explain the identity of a mathematical representation."
+    },
+    {
+      "ID": 2887,
+      "Speaker": "T",
+      "Turn": 2887,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to use precise mathematical language by asking them to read a number correctly."
+    },
+    {
+      "ID": 2889,
+      "Speaker": "T",
+      "Turn": 2889,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats a student's idea, framing it as a statement of equivalence to highlight a potential misconception and check for understanding."
+    },
+    {
+      "ID": 2890,
+      "Speaker": "T",
+      "Turn": 2890,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2892,
+      "Speaker": "T",
+      "Turn": 2892,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher asks the rest of the class to consider a specific idea that has been raised and state whether they agree with it."
+    },
+    {
+      "ID": 2893,
+      "Speaker": "T",
+      "Turn": 2893,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases the implication of the students' agreement, clarifying the mathematical consequence of their stated position."
+    },
+    {
+      "ID": 2894,
+      "Speaker": "T",
+      "Turn": 2894,
+      "TalkMove": "Revoicing",
+      "Reasoning": "This utterance is a continuation of the previous revoicing, summarizing the student idea that is being examined."
+    },
+    {
+      "ID": 2895,
+      "Speaker": "T",
+      "Turn": 2895,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2896,
+      "Speaker": "T",
+      "Turn": 2896,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2898,
+      "Speaker": "T",
+      "Turn": 2898,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to provide other ways to write a number, prompting them to reason about mathematical equivalence."
+    },
+    {
+      "ID": 2902,
+      "Speaker": "T",
+      "Turn": 2902,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2903,
+      "Speaker": "T",
+      "Turn": 2903,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2904,
+      "Speaker": "T",
+      "Turn": 2904,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2905,
+      "Speaker": "T",
+      "Turn": 2905,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2906,
+      "Speaker": "T",
+      "Turn": 2906,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2907,
+      "Speaker": "T",
+      "Turn": 2907,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2908,
+      "Speaker": "T",
+      "Turn": 2908,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher directs students to focus their attention on the speaker, prompting them to be active listeners."
+    },
+    {
+      "ID": 2909,
+      "Speaker": "T",
+      "Turn": 2909,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "This is a continuation of the previous utterance, specifying where students' attention should be, which serves to keep the group focused."
+    }
+  ]
+}

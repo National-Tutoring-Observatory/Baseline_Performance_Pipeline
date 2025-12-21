@@ -1,0 +1,130 @@
+{
+  "records": [
+    {
+      "ID": 953,
+      "Turn": 266,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 954,
+      "Turn": 266,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 955,
+      "Turn": 266,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 957,
+      "Turn": 268,
+      "Speaker": "T",
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's answer 'Two' by saying 'Two of them' before asking a follow-up question."
+    },
+    {
+      "ID": 959,
+      "Turn": 270,
+      "Speaker": "T",
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's answer 'One pink' verbatim."
+    },
+    {
+      "ID": 960,
+      "Turn": 270,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases the students' contributions into a complete mathematical statement, explaining that one half plus another half equals two halves or one whole."
+    },
+    {
+      "ID": 961,
+      "Turn": 270,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 962,
+      "Turn": 270,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to explain the process ('talk to me about what I have to do') to solve the problem, prompting them to share their thinking."
+    },
+    {
+      "ID": 963,
+      "Turn": 270,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks a specific student to explain his process ('what did you do to figure out...'), prompting him to share his reasoning."
+    },
+    {
+      "ID": 965,
+      "Turn": 272,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's idea about needing '15' but rephrases it as a question: 'You need another 15 right?'"
+    },
+    {
+      "ID": 966,
+      "Turn": 272,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher interprets and clarifies a student's confusing contribution, stating 'Maddox is saying we have to split that dark green into two equal parts,' which rephrases the student's idea into a clearer mathematical action."
+    },
+    {
+      "ID": 967,
+      "Turn": 272,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students for a specific mathematical contribution by asking for the name of the correct piece."
+    },
+    {
+      "ID": 968,
+      "Turn": 272,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher continues to prompt students for a specific mathematical contribution by suggesting another possible piece."
+    },
+    {
+      "ID": 969,
+      "Turn": 272,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher continues to prompt students for a specific mathematical contribution by suggesting a third possible piece."
+    },
+    {
+      "ID": 970,
+      "Turn": 272,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "After providing options, the teacher asks an open question to elicit the specific, correct mathematical contribution (the name of the piece)."
+    },
+    {
+      "ID": 971,
+      "Turn": 272,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 973,
+      "Turn": 274,
+      "Speaker": "T",
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's answer 'Purple' by saying 'It was a purple right,' confirming the student's contribution."
+    },
+    {
+      "ID": 974,
+      "Turn": 274,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher elaborates on the student's one-word answer ('Purple') to state the full mathematical relationship: 'So two purples fill in one dark green.'"
+    }
+  ]
+}

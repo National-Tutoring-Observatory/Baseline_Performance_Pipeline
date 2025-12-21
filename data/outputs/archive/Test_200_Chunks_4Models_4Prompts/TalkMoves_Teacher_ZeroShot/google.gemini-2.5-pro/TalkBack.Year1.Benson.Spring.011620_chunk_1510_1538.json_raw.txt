@@ -1,0 +1,165 @@
+{
+  "records": [
+    {
+      "ID": 1510,
+      "Turn": 14,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1511,
+      "Turn": 14,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1512,
+      "Turn": 14,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1513,
+      "Turn": 14,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1514,
+      "Turn": 14,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1515,
+      "Turn": 14,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to provide a specific mathematical contribution, which is the decimal representation."
+    },
+    {
+      "ID": 1517,
+      "Turn": 16,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's idea of starting with 'zero' but adds the more precise mathematical language 'zero whole ones'."
+    },
+    {
+      "ID": 1519,
+      "Turn": 18,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1520,
+      "Turn": 18,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1521,
+      "Turn": 18,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1522,
+      "Turn": 18,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to evaluate the mathematical validity of a representation, implicitly asking for the reasoning behind its correctness."
+    },
+    {
+      "ID": 1525,
+      "Turn": 20,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks a question to prompt students to explain the mathematical relationship and equivalence between two different decimal representations."
+    },
+    {
+      "ID": 1526,
+      "Turn": 21,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1527,
+      "Turn": 21,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to provide the correct decimal representation."
+    },
+    {
+      "ID": 1529,
+      "Turn": 23,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1530,
+      "Turn": 23,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's idea ('Zero ones and three tenths') and reframes it using mathematical notation ('so 0.3')."
+    },
+    {
+      "ID": 1531,
+      "Turn": 23,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to evaluate the validity of an equivalent decimal representation, prompting them to consider the underlying mathematical principles."
+    },
+    {
+      "ID": 1532,
+      "Turn": 23,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1533,
+      "Turn": 23,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1534,
+      "Turn": 23,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1535,
+      "Turn": 23,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1536,
+      "Turn": 23,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1537,
+      "Turn": 23,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to provide a specific part of the correct decimal representation."
+    }
+  ]
+}

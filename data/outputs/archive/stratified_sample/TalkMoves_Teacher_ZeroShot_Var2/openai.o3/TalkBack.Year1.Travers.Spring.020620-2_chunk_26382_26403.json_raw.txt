@@ -1,0 +1,123 @@
+{
+  "records": [
+    {
+      "ID": 26382,
+      "Speaker": "T",
+      "Turn": 107,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26383,
+      "Speaker": "T",
+      "Turn": 107,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26384,
+      "Speaker": "T",
+      "Turn": 108,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher directs collective attention to begin a discussion, prompting all students to focus."
+    },
+    {
+      "ID": 26385,
+      "Speaker": "T",
+      "Turn": 108,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Asks students to explain the meaning of the information, seeking their interpretation."
+    },
+    {
+      "ID": 26386,
+      "Speaker": "T",
+      "Turn": 108,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Requests a specific numerical fact from the problem (number of jugglers)."
+    },
+    {
+      "ID": 26388,
+      "Speaker": "T",
+      "Turn": 110,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Encourages participation from all students, orienting the whole class."
+    },
+    {
+      "ID": 26389,
+      "Speaker": "T",
+      "Turn": 110,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Again elicits the exact number of jugglers, focusing on correct information."
+    },
+    {
+      "ID": 26391,
+      "Speaker": "T",
+      "Turn": 112,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26392,
+      "Speaker": "T",
+      "Turn": 112,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Seeks a specific factual quantity (hours performed)."
+    },
+    {
+      "ID": 26394,
+      "Speaker": "T",
+      "Turn": 114,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks for the exact cost per performer, prompting a precise numerical answer."
+    },
+    {
+      "ID": 26396,
+      "Speaker": "T",
+      "Turn": 116,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26397,
+      "Speaker": "T",
+      "Turn": 116,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Restates the student’s contribution ('30 an hour') and extends it by adding the context of three people."
+    },
+    {
+      "ID": 26399,
+      "Speaker": "T",
+      "Turn": 118,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Prompts the student to specify the number of people, focusing on precise information."
+    },
+    {
+      "ID": 26400,
+      "Speaker": "T",
+      "Turn": 118,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Paraphrases the scenario, incorporating and extending student-provided numbers."
+    },
+    {
+      "ID": 26401,
+      "Speaker": "T",
+      "Turn": 118,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Directs the class to focus collectively on the task ahead."
+    },
+    {
+      "ID": 26402,
+      "Speaker": "T",
+      "Turn": 118,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26403,
+      "Speaker": "T",
+      "Turn": 118,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

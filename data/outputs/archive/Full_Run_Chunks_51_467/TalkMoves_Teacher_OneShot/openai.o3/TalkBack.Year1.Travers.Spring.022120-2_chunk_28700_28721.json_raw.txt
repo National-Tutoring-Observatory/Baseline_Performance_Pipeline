@@ -1,0 +1,130 @@
+{
+  "records": [
+    {
+      "ID": 28701,
+      "Speaker": "T",
+      "Turn": 239,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks for the exact number of quarters in a dollar, prompting a specific factual answer."
+    },
+    {
+      "ID": 28703,
+      "Speaker": "T",
+      "Turn": 241,
+      "TalkMove": "Restating",
+      "Reasoning": "Teacher repeats the student’s word \"Four\" exactly as said."
+    },
+    {
+      "ID": 28704,
+      "Speaker": "T",
+      "Turn": 241,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 28705,
+      "Speaker": "T",
+      "Turn": 241,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 28706,
+      "Speaker": "T",
+      "Turn": 241,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 28707,
+      "Speaker": "T",
+      "Turn": 241,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 28708,
+      "Speaker": "T",
+      "Turn": 241,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 28709,
+      "Speaker": "T",
+      "Turn": 241,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 28710,
+      "Speaker": "T",
+      "Turn": 241,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 28711,
+      "Speaker": "T",
+      "Turn": 241,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 28712,
+      "Speaker": "T",
+      "Turn": 241,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 28713,
+      "Speaker": "T",
+      "Turn": 241,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 28714,
+      "Speaker": "T",
+      "Turn": 241,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 28717,
+      "Speaker": "T",
+      "Turn": 243,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 28718,
+      "Speaker": "T",
+      "Turn": 243,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Teacher instructs all students to think and use thumbs-up, ensuring the whole class is engaged."
+    },
+    {
+      "ID": 28719,
+      "Speaker": "T",
+      "Turn": 243,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Teacher directs everyone’s attention to the same visual (angle ABC), orienting the class to a common reference."
+    },
+    {
+      "ID": 28720,
+      "Speaker": "T",
+      "Turn": 243,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks students to judge if the angle falls within a precise degree range (0–90°), seeking a specific mathematical classification."
+    },
+    {
+      "ID": 28721,
+      "Speaker": "T",
+      "Turn": 243,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher continues to ask for a precise classification of the angle (90–180°), prompting an accurate mathematical response."
+    }
+  ]
+}

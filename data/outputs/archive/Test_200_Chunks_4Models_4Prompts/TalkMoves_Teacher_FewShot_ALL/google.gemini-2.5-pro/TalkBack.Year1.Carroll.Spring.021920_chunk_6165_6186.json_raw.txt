@@ -1,0 +1,74 @@
+{
+  "records": [
+    {
+      "ID": 6165,
+      "Turn": 27,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 6167,
+      "Turn": 29,
+      "Speaker": "T",
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats a key word from the student's prior utterance verbatim to highlight it."
+    },
+    {
+      "ID": 6169,
+      "Turn": 31,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 6171,
+      "Turn": 33,
+      "Speaker": "T",
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's contribution verbatim."
+    },
+    {
+      "ID": 6177,
+      "Turn": 36,
+      "Speaker": "T",
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's contribution verbatim to refocus the conversation on the mathematical idea."
+    },
+    {
+      "ID": 6178,
+      "Turn": 36,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 6180,
+      "Turn": 38,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 6183,
+      "Turn": 40,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 6185,
+      "Turn": 42,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 6186,
+      "Turn": 42,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

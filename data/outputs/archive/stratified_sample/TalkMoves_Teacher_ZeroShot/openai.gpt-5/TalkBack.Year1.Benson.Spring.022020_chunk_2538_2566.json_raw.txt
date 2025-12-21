@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 2538,
+      "Speaker": "T",
+      "Turn": 16,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts a student to compute a specific multiplication, eliciting a mathematical contribution."
+    },
+    {
+      "ID": 2540,
+      "Speaker": "T",
+      "Turn": 18,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2541,
+      "Speaker": "T",
+      "Turn": 18,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a student to provide the result of 700 × 5, prompting a precise mathematical answer."
+    },
+    {
+      "ID": 2543,
+      "Speaker": "T",
+      "Turn": 20,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for a specific mathematical detail (number of zeros) to refine the computation."
+    },
+    {
+      "ID": 2545,
+      "Speaker": "T",
+      "Turn": 22,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher echoes the student’s ‘Two’ and extends it (‘so’) to guide the implication for the answer."
+    },
+    {
+      "ID": 2547,
+      "Speaker": "T",
+      "Turn": 24,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2548,
+      "Speaker": "T",
+      "Turn": 24,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2549,
+      "Speaker": "T",
+      "Turn": 24,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts a student to compute 900 × 8, eliciting a precise mathematical contribution."
+    },
+    {
+      "ID": 2551,
+      "Speaker": "T",
+      "Turn": 26,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2552,
+      "Speaker": "T",
+      "Turn": 26,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher requests a number model or equation, prompting students to use mathematical representations."
+    },
+    {
+      "ID": 2553,
+      "Speaker": "T",
+      "Turn": 26,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a student to share what they wrote, eliciting a specific mathematical contribution."
+    },
+    {
+      "ID": 2555,
+      "Speaker": "T",
+      "Turn": 28,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher narrows the request to the exact equation, pushing for precise mathematical language."
+    },
+    {
+      "ID": 2557,
+      "Speaker": "T",
+      "Turn": 30,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2558,
+      "Speaker": "T",
+      "Turn": 30,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2559,
+      "Speaker": "T",
+      "Turn": 30,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks the student to specify a variable letter for the unknown, prompting precise mathematical notation."
+    },
+    {
+      "ID": 2561,
+      "Speaker": "T",
+      "Turn": 32,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher restates the student’s operation in their own words to clarify the representation."
+    },
+    {
+      "ID": 2562,
+      "Speaker": "T",
+      "Turn": 32,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher checks for the correct use of a specific mathematical symbol (division), prompting precision."
+    },
+    {
+      "ID": 2564,
+      "Speaker": "T",
+      "Turn": 34,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher follows up to confirm another student’s use of the symbol, eliciting a precise response."
+    },
+    {
+      "ID": 2565,
+      "Speaker": "T",
+      "Turn": 34,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2566,
+      "Speaker": "T",
+      "Turn": 34,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher invites other students to compare their notation to a classmate’s, prompting connection to peers’ methods."
+    }
+  ]
+}

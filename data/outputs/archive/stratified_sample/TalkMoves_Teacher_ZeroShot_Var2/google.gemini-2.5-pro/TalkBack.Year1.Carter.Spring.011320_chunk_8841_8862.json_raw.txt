@@ -1,0 +1,102 @@
+{
+  "records": [
+    {
+      "ID": 8841,
+      "Turn": 169,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8844,
+      "Turn": 171,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts the student to elaborate on their thinking by asking them to explain how they arrived at their initial conclusion."
+    },
+    {
+      "ID": 8846,
+      "Turn": 173,
+      "Speaker": "T",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher notices and verbalizes that some students are confused, which serves to check in with the whole group and manage the pace of the discussion."
+    },
+    {
+      "ID": 8847,
+      "Turn": 173,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8850,
+      "Turn": 175,
+      "Speaker": "T",
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher asks the original student to confirm whether a second student's interpretation of their idea is correct, prompting a direct reaction."
+    },
+    {
+      "ID": 8852,
+      "Turn": 177,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases the student's complex explanation using formal mathematical terminology ('partial products')."
+    },
+    {
+      "ID": 8854,
+      "Turn": 179,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8855,
+      "Turn": 179,
+      "Speaker": "T",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher explicitly asks students who are not engaged to 'stay with us,' prompting them to be active listeners."
+    },
+    {
+      "ID": 8856,
+      "Turn": 179,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8857,
+      "Turn": 179,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8858,
+      "Turn": 179,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8859,
+      "Turn": 179,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8861,
+      "Turn": 181,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8862,
+      "Turn": 181,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to explain the connection between two mathematical concepts ('factors' and 'common denominator'), prompting them to share their thinking."
+    }
+  ]
+}

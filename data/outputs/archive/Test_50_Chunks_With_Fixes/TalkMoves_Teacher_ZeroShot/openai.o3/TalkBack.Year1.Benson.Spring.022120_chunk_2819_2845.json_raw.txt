@@ -1,0 +1,95 @@
+{
+  "records": [
+    {
+      "ID": 2829,
+      "Speaker": "T",
+      "Turn": 1,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2830,
+      "Speaker": "T",
+      "Turn": 1,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Teacher asks all students to raise their hands if they wrote a decimal, prompting whole-class engagement."
+    },
+    {
+      "ID": 2831,
+      "Speaker": "T",
+      "Turn": 1,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Solicits the specific answer the student wrote, requesting a precise mathematical contribution."
+    },
+    {
+      "ID": 2833,
+      "Speaker": "T",
+      "Turn": 3,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks whether a particular written form is acceptable, focusing on mathematical correctness."
+    },
+    {
+      "ID": 2835,
+      "Speaker": "T",
+      "Turn": 5,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Again checks if a given representation is valid, prompting judgment about mathematical accuracy."
+    },
+    {
+      "ID": 2837,
+      "Speaker": "T",
+      "Turn": 7,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Continues to ask if the representation is acceptable, probing for a correct/incorrect decision."
+    },
+    {
+      "ID": 2839,
+      "Speaker": "T",
+      "Turn": 9,
+      "TalkMove": "Revoicing",
+      "Reasoning": "T echoes the student's prior 'Yes' and elaborates, rephrasing and extending the student’s idea about trailing zeros."
+    },
+    {
+      "ID": 2840,
+      "Speaker": "T",
+      "Turn": 9,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2841,
+      "Speaker": "T",
+      "Turn": 9,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2842,
+      "Speaker": "T",
+      "Turn": 9,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2843,
+      "Speaker": "T",
+      "Turn": 9,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2844,
+      "Speaker": "T",
+      "Turn": 9,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Invites all students who did the next problem to raise hands, keeping the class involved."
+    },
+    {
+      "ID": 2845,
+      "Speaker": "T",
+      "Turn": 9,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Requests a student to state the exact decimal they wrote, seeking a concrete mathematical response."
+    }
+  ]
+}

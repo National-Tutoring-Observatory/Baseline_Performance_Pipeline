@@ -1,0 +1,53 @@
+{
+  "records": [
+    {
+      "ID": 8563,
+      "Speaker": "T",
+      "Turn": 16,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher provides the correct multiplication fact to guide the student toward a more accurate calculation, correcting the student's error of '3 x 3 = 9'."
+    },
+    {
+      "ID": 8572,
+      "Speaker": "T",
+      "Turn": 25,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8573,
+      "Speaker": "T",
+      "Turn": 25,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8575,
+      "Speaker": "T",
+      "Turn": 27,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8577,
+      "Speaker": "T",
+      "Turn": 29,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8578,
+      "Speaker": "T",
+      "Turn": 29,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8579,
+      "Speaker": "T",
+      "Turn": 29,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

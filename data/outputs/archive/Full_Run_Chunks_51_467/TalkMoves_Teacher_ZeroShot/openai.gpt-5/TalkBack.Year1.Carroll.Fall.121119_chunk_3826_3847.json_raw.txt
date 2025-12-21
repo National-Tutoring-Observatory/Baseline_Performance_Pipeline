@@ -1,0 +1,124 @@
+{
+  "records": [
+    {
+      "ID": 3826,
+      "Speaker": "T",
+      "Turn": 138
+    },
+    {
+      "ID": 3827,
+      "Speaker": "T",
+      "Turn": 138
+    },
+    {
+      "ID": 3828,
+      "Speaker": "T",
+      "Turn": 138
+    },
+    {
+      "ID": 3829,
+      "Speaker": "T",
+      "Turn": 138
+    },
+    {
+      "ID": 3830,
+      "Speaker": "T",
+      "Turn": 138,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts a student to explain their thinking."
+    },
+    {
+      "ID": 3831,
+      "Speaker": "T",
+      "Turn": 138
+    },
+    {
+      "ID": 3832,
+      "Speaker": "T",
+      "Turn": 138,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks what the number 'two' represents in the context, prompting precise mathematical identification."
+    },
+    {
+      "ID": 3834,
+      "Speaker": "T",
+      "Turn": 140,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Rephrases and elaborates the student's answer ('The object') as 'The object that you're dividing up.'"
+    },
+    {
+      "ID": 3835,
+      "Speaker": "T",
+      "Turn": 140
+    },
+    {
+      "ID": 3836,
+      "Speaker": "T",
+      "Turn": 140,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Restates the student's idea with added context: 'Two represents the object.'"
+    },
+    {
+      "ID": 3837,
+      "Speaker": "T",
+      "Turn": 140
+    },
+    {
+      "ID": 3838,
+      "Speaker": "T",
+      "Turn": 140
+    },
+    {
+      "ID": 3839,
+      "Speaker": "T",
+      "Turn": 140,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Builds on the student’s idea by restating and generalizing it to 'the first number represents what you’re dividing.'"
+    },
+    {
+      "ID": 3840,
+      "Speaker": "T",
+      "Turn": 140,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks for the meaning of 'three,' prompting precise identification of the representation."
+    },
+    {
+      "ID": 3842,
+      "Speaker": "T",
+      "Turn": 142,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Acknowledges and rephrases the student’s answer ('the people') and adds an example."
+    },
+    {
+      "ID": 3843,
+      "Speaker": "T",
+      "Turn": 142
+    },
+    {
+      "ID": 3844,
+      "Speaker": "T",
+      "Turn": 142,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Prompts students to identify which part of the fraction 'two' corresponds to."
+    },
+    {
+      "ID": 3845,
+      "Speaker": "T",
+      "Turn": 142,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Pushes for a more precise identification by asking 'Which part?'"
+    },
+    {
+      "ID": 3846,
+      "Speaker": "T",
+      "Turn": 142,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Encourages use of mathematical language by offering 'numerator' or 'denominator.'"
+    },
+    {
+      "ID": 3847,
+      "Speaker": "T",
+      "Turn": 144
+    }
+  ]
+}

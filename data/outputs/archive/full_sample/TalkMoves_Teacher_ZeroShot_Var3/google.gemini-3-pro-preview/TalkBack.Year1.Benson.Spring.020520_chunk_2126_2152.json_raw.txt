@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 2126,
+      "Speaker": "T",
+      "Turn": 2126,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 2127,
+      "Speaker": "T",
+      "Turn": 2127,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a specific calculation question ('Whats 80 times 3') prompting a mathematical contribution."
+    },
+    {
+      "ID": 2129,
+      "Speaker": "T",
+      "Turn": 2129,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher simplifies the previous question to a basic fact ('Whats eight times three') to prompt a specific answer."
+    },
+    {
+      "ID": 2131,
+      "Speaker": "T",
+      "Turn": 2131,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 2132,
+      "Speaker": "T",
+      "Turn": 2132,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 2133,
+      "Speaker": "T",
+      "Turn": 2133,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 2134,
+      "Speaker": "T",
+      "Turn": 2134,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a student to retrieve specific information from the problem ('how much do tumblers cost')."
+    },
+    {
+      "ID": 2136,
+      "Speaker": "T",
+      "Turn": 2136,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts for a specific numerical value from the problem context ('times how many hours')."
+    },
+    {
+      "ID": 2138,
+      "Speaker": "T",
+      "Turn": 2138,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for another specific value from the problem ('how many people are in their group')."
+    },
+    {
+      "ID": 2140,
+      "Speaker": "T",
+      "Turn": 2140,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 2141,
+      "Speaker": "T",
+      "Turn": 2141,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 2142,
+      "Speaker": "T",
+      "Turn": 2142,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 2143,
+      "Speaker": "T",
+      "Turn": 2143,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 2144,
+      "Speaker": "T",
+      "Turn": 2144,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 2145,
+      "Speaker": "T",
+      "Turn": 2145,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the result of the calculation mentioned in the previous turn ('Whats that')."
+    },
+    {
+      "ID": 2147,
+      "Speaker": "T",
+      "Turn": 2147,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 2148,
+      "Speaker": "T",
+      "Turn": 2148,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to recall a basic multiplication fact ('six times eight')."
+    },
+    {
+      "ID": 2150,
+      "Speaker": "T",
+      "Turn": 2150,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 2151,
+      "Speaker": "T",
+      "Turn": 2151,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 2152,
+      "Speaker": "T",
+      "Turn": 2152,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to compare the results and make a determination based on their calculations ('whos going to cost more')."
+    }
+  ]
+}

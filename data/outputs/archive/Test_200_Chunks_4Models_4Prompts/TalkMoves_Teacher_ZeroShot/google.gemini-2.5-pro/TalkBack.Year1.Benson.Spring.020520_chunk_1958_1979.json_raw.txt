@@ -1,0 +1,102 @@
+{
+  "records": [
+    {
+      "ID": 1959,
+      "Speaker": "T",
+      "Turn": 46,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to explain their method for solving the problem."
+    },
+    {
+      "ID": 1960,
+      "Speaker": "T",
+      "Turn": 46,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts students to share the mathematical steps they took, which is a form of explaining their thinking."
+    },
+    {
+      "ID": 1961,
+      "Speaker": "T",
+      "Turn": 46,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher directs the question to a specific student, asking him to explain the math he used."
+    },
+    {
+      "ID": 1964,
+      "Speaker": "T",
+      "Turn": 48,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to explain the origin and meaning of the numbers used in his calculation."
+    },
+    {
+      "ID": 1967,
+      "Speaker": "T",
+      "Turn": 50,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks 'Why?', directly prompting the student to provide a reason for a specific mathematical step."
+    },
+    {
+      "ID": 1969,
+      "Speaker": "T",
+      "Turn": 52,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1970,
+      "Speaker": "T",
+      "Turn": 52,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1971,
+      "Speaker": "T",
+      "Turn": 52,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1972,
+      "Speaker": "T",
+      "Turn": 52,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1974,
+      "Speaker": "T",
+      "Turn": 54,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1975,
+      "Speaker": "T",
+      "Turn": 54,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's idea, combining several of the student's turns and slightly rephrasing the language to clarify the contribution for the class."
+    },
+    {
+      "ID": 1976,
+      "Speaker": "T",
+      "Turn": 54,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher continues to summarize and rephrase the student's reasoning for the second part of the calculation."
+    },
+    {
+      "ID": 1977,
+      "Speaker": "T",
+      "Turn": 54,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "After summarizing one student's method, the teacher asks the class to compare their own methods to the one just presented."
+    },
+    {
+      "ID": 1978,
+      "Speaker": "T",
+      "Turn": 54,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks a specific student to explain his method, following up on the previous prompt for a different way."
+    }
+  ]
+}

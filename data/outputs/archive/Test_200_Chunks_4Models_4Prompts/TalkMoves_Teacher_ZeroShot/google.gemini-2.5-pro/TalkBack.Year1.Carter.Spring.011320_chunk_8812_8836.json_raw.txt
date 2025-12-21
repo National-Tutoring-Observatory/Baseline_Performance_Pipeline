@@ -1,0 +1,78 @@
+{
+  "records": [
+    {
+      "ID": 8812,
+      "Turn": 156,
+      "Speaker": "T",
+      "Sentence": "This time is partners A turn to talk first youre talking with your face partner ready",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8813,
+      "Turn": 156,
+      "Speaker": "T",
+      "Sentence": "Go",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8814,
+      "Turn": 157,
+      "Speaker": "T",
+      "Sentence": "I like your thinking but what if the number was 37",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher introduces a counterexample to challenge a student's idea, prompting them to test and refine their reasoning."
+    },
+    {
+      "ID": 8815,
+      "Turn": 157,
+      "Speaker": "T",
+      "Sentence": "Would three be a factor of 37",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher continues to press the student to apply their reasoning to the new scenario introduced in the previous utterance."
+    },
+    {
+      "ID": 8816,
+      "Turn": 157,
+      "Speaker": "T",
+      "Sentence": "Why not",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher explicitly asks the student to provide the reasoning behind their answer."
+    },
+    {
+      "ID": 8817,
+      "Turn": 157,
+      "Speaker": "T",
+      "Sentence": "What makes 3 a factor of 36 but not 37",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to explain the difference between two cases, which requires them to articulate the underlying mathematical concept."
+    },
+    {
+      "ID": 8819,
+      "Turn": 159,
+      "Speaker": "T",
+      "Sentence": "Right very nice",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8820,
+      "Turn": 159,
+      "Speaker": "T",
+      "Sentence": "Back to me please",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8821,
+      "Turn": 159,
+      "Speaker": "T",
+      "Sentence": "How do you know that 3 is a factor of 36",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to explain their thinking or provide evidence for their claim using the phrase 'How do you know'."
+    },
+    {
+      "ID": 8822,
+      "Turn": 159,
+      "Speaker": "

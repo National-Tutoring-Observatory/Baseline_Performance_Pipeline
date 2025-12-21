@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 6356,
+      "Speaker": "T",
+      "Turn": 6356,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 6357,
+      "Speaker": "T",
+      "Turn": 6357,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 6358,
+      "Speaker": "T",
+      "Turn": 6358,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 6359,
+      "Speaker": "T",
+      "Turn": 6359,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks students to determine which mathematical expression produces a larger product, prompting for a specific mathematical answer."
+    },
+    {
+      "ID": 6360,
+      "Speaker": "T",
+      "Turn": 6360,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher explicitly asks the students to explain 'how do you know' after coming up with an answer."
+    },
+    {
+      "ID": 6361,
+      "Speaker": "T",
+      "Turn": 6361,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 6362,
+      "Speaker": "T",
+      "Turn": 6362,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a specific team for their answer ('which one did you come up with')."
+    },
+    {
+      "ID": 6363,
+      "Speaker": "T",
+      "Turn": 6363,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 6365,
+      "Speaker": "T",
+      "Turn": 6365,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's claim ('So you think this ones bigger') to confirm understanding."
+    },
+    {
+      "ID": 6368,
+      "Speaker": "T",
+      "Turn": 6368,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to explain their thinking ('tell me why')."
+    },
+    {
+      "ID": 6371,
+      "Speaker": "T",
+      "Turn": 6371,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 6372,
+      "Speaker": "T",
+      "Turn": 6372,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks the next team for their specific choice/answer."
+    },
+    {
+      "ID": 6375,
+      "Speaker": "T",
+      "Turn": 6375,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases the student's idea about fractions (1/6 vs 1/10) to clarify the comparison."
+    },
+    {
+      "ID": 6376,
+      "Speaker": "T",
+      "Turn": 6376,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks Team Three for their answer."
+    },
+    {
+      "ID": 6378,
+      "Speaker": "T",
+      "Turn": 6378,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks for the justification behind the choice ('Why did you pick that one')."
+    },
+    {
+      "ID": 6381,
+      "Speaker": "T",
+      "Turn": 6381,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the next team for their contribution."
+    },
+    {
+      "ID": 6383,
+      "Speaker": "T",
+      "Turn": 6383,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's answer ('Same one')."
+    },
+    {
+      "ID": 6384,
+      "Speaker": "T",
+      "Turn": 6384,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher explicitly asks for the thinking behind the answer ('What was your reasoning')."
+    },
+    {
+      "ID": 6386,
+      "Speaker": "T",
+      "Turn": 6386,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher prompts a team to listen to another team, orienting students to each other."
+    },
+    {
+      "ID": 6388,
+      "Speaker": "T",
+      "Turn": 6388,
+      "TalkMove": "None",
+      "Reasoning": null
+    }
+  ]
+}

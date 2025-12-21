@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 19050,
+      "Speaker": "T",
+      "Turn": 19050,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19051,
+      "Speaker": "T",
+      "Turn": 19051,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19052,
+      "Speaker": "T",
+      "Turn": 19052,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19053,
+      "Speaker": "T",
+      "Turn": 19053,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19054,
+      "Speaker": "T",
+      "Turn": 19054,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19055,
+      "Speaker": "T",
+      "Turn": 19055,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks students to make a specific mathematical contribution by choosing between two options."
+    },
+    {
+      "ID": 19057,
+      "Speaker": "T",
+      "Turn": 19057,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts for a student contribution, continuing the press from the previous turn."
+    },
+    {
+      "ID": 19058,
+      "Speaker": "T",
+      "Turn": 19058,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher rephrases the question to continue pressing for a specific mathematical answer."
+    },
+    {
+      "ID": 19059,
+      "Speaker": "T",
+      "Turn": 19059,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher rephrases the question again to press for a specific mathematical term."
+    },
+    {
+      "ID": 19061,
+      "Speaker": "T",
+      "Turn": 19061,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's contribution ('modified X') verbatim."
+    },
+    {
+      "ID": 19062,
+      "Speaker": "T",
+      "Turn": 19062,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19063,
+      "Speaker": "T",
+      "Turn": 19063,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19064,
+      "Speaker": "T",
+      "Turn": 19064,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks students to make another mathematical contribution by choosing between two specific options."
+    },
+    {
+      "ID": 19066,
+      "Speaker": "T",
+      "Turn": 19066,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19067,
+      "Speaker": "T",
+      "Turn": 19067,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher likely rephrases a student's informal reasoning about the negative sign into a more formal mathematical explanation."
+    },
+    {
+      "ID": 19068,
+      "Speaker": "T",
+      "Turn": 19068,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's main point ('modified the whole function') to confirm the correct answer."
+    },
+    {
+      "ID": 19069,
+      "Speaker": "T",
+      "Turn": 19069,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19071,
+      "Speaker": "T",
+      "Turn": 19071,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats a student's idea ('Modify X') and adds a tag question ('you think?') to put the idea back to the class for consideration."
+    },
+    {
+      "ID": 19074,
+      "Speaker": "T",
+      "Turn": 19074,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19075,
+      "Speaker": "T",
+      "Turn": 19075,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

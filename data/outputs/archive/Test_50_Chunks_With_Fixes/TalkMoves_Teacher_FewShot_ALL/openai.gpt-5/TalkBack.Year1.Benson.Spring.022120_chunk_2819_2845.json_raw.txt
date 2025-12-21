@@ -1,0 +1,95 @@
+{
+  "records": [
+    {
+      "ID": 2829,
+      "Speaker": "T",
+      "Turn": 1,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2830,
+      "Speaker": "T",
+      "Turn": 1,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2831,
+      "Speaker": "T",
+      "Turn": 1,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks the student to state what they wrote, eliciting a mathematical contribution."
+    },
+    {
+      "ID": 2833,
+      "Speaker": "T",
+      "Turn": 3,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks if a representation is okay, prompting evaluation of correctness."
+    },
+    {
+      "ID": 2835,
+      "Speaker": "T",
+      "Turn": 5,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher again asks if a representation is acceptable, prompting a correctness judgment."
+    },
+    {
+      "ID": 2837,
+      "Speaker": "T",
+      "Turn": 7,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher continues to ask whether the representation is okay, eliciting accuracy judgments."
+    },
+    {
+      "ID": 2839,
+      "Speaker": "T",
+      "Turn": 9,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2840,
+      "Speaker": "T",
+      "Turn": 9,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2841,
+      "Speaker": "T",
+      "Turn": 9,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher orients the class to a shared location/representation."
+    },
+    {
+      "ID": 2842,
+      "Speaker": "T",
+      "Turn": 9,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2843,
+      "Speaker": "T",
+      "Turn": 9,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2844,
+      "Speaker": "T",
+      "Turn": 9,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2845,
+      "Speaker": "T",
+      "Turn": 9,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks the student to share what they wrote, eliciting a mathematical answer."
+    }
+  ]
+}

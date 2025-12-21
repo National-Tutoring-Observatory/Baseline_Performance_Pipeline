@@ -1,0 +1,104 @@
+{
+  "records": [
+    {
+      "ID": 11905,
+      "Speaker": "T",
+      "Turn": 33
+    },
+    {
+      "ID": 11906,
+      "Speaker": "T",
+      "Turn": 33,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks for the specific dimensions corresponding to 34 × 23, eliciting a precise mathematical contribution."
+    },
+    {
+      "ID": 11907,
+      "Speaker": "T",
+      "Turn": 33
+    },
+    {
+      "ID": 11910,
+      "Speaker": "T",
+      "Turn": 35,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Requests the specific dimensions of the rectangle shown."
+    },
+    {
+      "ID": 11912,
+      "Speaker": "T",
+      "Turn": 37,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "Invites classmates to respond to a peer’s idea."
+    },
+    {
+      "ID": 11913,
+      "Speaker": "T",
+      "Turn": 37
+    },
+    {
+      "ID": 11914,
+      "Speaker": "T",
+      "Turn": 37
+    },
+    {
+      "ID": 11915,
+      "Speaker": "T",
+      "Turn": 37
+    },
+    {
+      "ID": 11916,
+      "Speaker": "T",
+      "Turn": 37,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Asks how to mark number lines to construct the rectangle, prompting description of method."
+    },
+    {
+      "ID": 11917,
+      "Speaker": "T",
+      "Turn": 37,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Directs the 'how' question to a student, seeking the approach for marking."
+    },
+    {
+      "ID": 11918,
+      "Speaker": "T",
+      "Turn": 37,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Presses for how to mark the number lines based on the student’s marked work."
+    },
+    {
+      "ID": 11919,
+      "Speaker": "T",
+      "Turn": 37,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "Prompts the class to evaluate or respond to a peer’s thinking."
+    },
+    {
+      "ID": 11920,
+      "Speaker": "T",
+      "Turn": 37,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Asks 'why' tick marks would be used, prompting justification."
+    },
+    {
+      "ID": 11922,
+      "Speaker": "T",
+      "Turn": 39,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Paraphrases the student’s point that tick marks make where to shade clear."
+    },
+    {
+      "ID": 11924,
+      "Speaker": "T",
+      "Turn": 41
+    },
+    {
+      "ID": 11925,
+      "Speaker": "T",
+      "Turn": 41,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "Asks a student to consider the relevance of a classmate’s idea, prompting connection to it."
+    }
+  ]
+}

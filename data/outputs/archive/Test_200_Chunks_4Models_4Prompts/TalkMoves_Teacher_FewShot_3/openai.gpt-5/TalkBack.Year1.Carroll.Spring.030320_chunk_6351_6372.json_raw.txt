@@ -1,0 +1,103 @@
+{
+  "records": [
+    {
+      "ID": 6353,
+      "Turn": 27,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's 'nine' and adds explanation about totaling all boxes, rephrasing and extending the idea."
+    },
+    {
+      "ID": 6354,
+      "Turn": 27,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher restates Sophia's approach in her own words, clarifying that she considered only six boxes."
+    },
+    {
+      "ID": 6355,
+      "Turn": 27,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher directs attention to all nine boxes to ensure the correct scope for the total."
+    },
+    {
+      "ID": 6356,
+      "Turn": 27,
+      "Speaker": "T",
+      "TalkMove": "None"
+    },
+    {
+      "ID": 6357,
+      "Turn": 27,
+      "Speaker": "T",
+      "TalkMove": "None"
+    },
+    {
+      "ID": 6358,
+      "Turn": 28,
+      "Speaker": "T",
+      "TalkMove": "None"
+    },
+    {
+      "ID": 6359,
+      "Turn": 28,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to decide which product is larger (12×13 or 12×15)."
+    },
+    {
+      "ID": 6360,
+      "Turn": 28,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks, 'how do you know,' eliciting justification for the choice."
+    },
+    {
+      "ID": 6361,
+      "Turn": 28,
+      "Speaker": "T",
+      "TalkMove": "None"
+    },
+    {
+      "ID": 6362,
+      "Turn": 28,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks Team One which option they chose, requesting a specific mathematical claim."
+    },
+    {
+      "ID": 6363,
+      "Turn": 28,
+      "Speaker": "T",
+      "TalkMove": "None"
+    },
+    {
+      "ID": 6365,
+      "Turn": 30,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher paraphrases the team's claim ('this one's bigger') to confirm understanding."
+    },
+    {
+      "ID": 6368,
+      "Turn": 32,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts the student to explain their thinking ('tell me why')."
+    },
+    {
+      "ID": 6371,
+      "Turn": 34,
+      "Speaker": "T",
+      "TalkMove": "None"
+    },
+    {
+      "ID": 6372,
+      "Turn": 34,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks Team Two to state which option they picked."
+    }
+  ]
+}

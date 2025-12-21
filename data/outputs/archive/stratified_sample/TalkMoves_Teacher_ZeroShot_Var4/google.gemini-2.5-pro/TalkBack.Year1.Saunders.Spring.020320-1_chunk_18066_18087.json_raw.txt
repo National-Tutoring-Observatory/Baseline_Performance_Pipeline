@@ -1,0 +1,60 @@
+{
+  "records": [
+    {
+      "ID": 18066,
+      "Turn": 365,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18073,
+      "Turn": 369,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher attempts to clarify the student's statement ('Its just the equation is a straight line') by rephrasing it as a question to confirm their meaning."
+    },
+    {
+      "ID": 18075,
+      "Turn": 371,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher takes the student's informal description ('It has no curve') and rephrases it using more precise mathematical terminology ('no min or max,' 'point of inflection')."
+    },
+    {
+      "ID": 18076,
+      "Turn": 371,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18078,
+      "Turn": 373,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18080,
+      "Turn": 375,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18083,
+      "Turn": 378,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases and clarifies a student's idea about a specific type of cubic function for the rest of the class, adding mathematical language."
+    },
+    {
+      "ID": 18086,
+      "Turn": 380,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

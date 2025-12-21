@@ -1,0 +1,165 @@
+{
+  "records": [
+    {
+      "ID": 18534,
+      "Speaker": "T",
+      "Turn": 123,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18535,
+      "Speaker": "T",
+      "Turn": 123,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks students to name the specific factor that can be taken out, prompting a precise mathematical contribution."
+    },
+    {
+      "ID": 18537,
+      "Speaker": "T",
+      "Turn": 125,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student’s response “x2” exactly, echoing the student’s contribution."
+    },
+    {
+      "ID": 18538,
+      "Speaker": "T",
+      "Turn": 125,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks what remains in the parentheses, requesting a specific mathematical answer."
+    },
+    {
+      "ID": 18542,
+      "Speaker": "T",
+      "Turn": 128,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Again asks students to state the factor that can be taken out, seeking a precise mathematical element."
+    },
+    {
+      "ID": 18543,
+      "Speaker": "T",
+      "Turn": 129,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Requests students to identify what is left after factoring, eliciting a specific mathematical detail."
+    },
+    {
+      "ID": 18544,
+      "Speaker": "T",
+      "Turn": 130,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18545,
+      "Speaker": "T",
+      "Turn": 131,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18546,
+      "Speaker": "T",
+      "Turn": 131,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks students to specify the common factor, soliciting a concrete mathematical response."
+    },
+    {
+      "ID": 18548,
+      "Speaker": "T",
+      "Turn": 132,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases the student’s answer ('x2') as 'An x', modifying the student’s wording while preserving the idea."
+    },
+    {
+      "ID": 18549,
+      "Speaker": "T",
+      "Turn": 132,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18550,
+      "Speaker": "T",
+      "Turn": 132,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18551,
+      "Speaker": "T",
+      "Turn": 132,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18552,
+      "Speaker": "T",
+      "Turn": 132,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18553,
+      "Speaker": "T",
+      "Turn": 132,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18554,
+      "Speaker": "T",
+      "Turn": 133,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18555,
+      "Speaker": "T",
+      "Turn": 133,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks what remains after factoring out x2, seeking the exact mathematical expression."
+    },
+    {
+      "ID": 18558,
+      "Speaker": "T",
+      "Turn": 134,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18559,
+      "Speaker": "T",
+      "Turn": 134,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "By asking 'Now am I done?' the teacher invites students to justify whether further factoring is necessary."
+    },
+    {
+      "ID": 18561,
+      "Speaker": "T",
+      "Turn": 136,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Requests identification of what can still be factored, prompting a specific mathematical answer."
+    },
+    {
+      "ID": 18562,
+      "Speaker": "T",
+      "Turn": 136,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18563,
+      "Speaker": "T",
+      "Turn": 136,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18564,
+      "Speaker": "T",
+      "Turn": 136,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

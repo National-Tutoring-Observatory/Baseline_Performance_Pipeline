@@ -1,0 +1,53 @@
+{
+  "records": [
+    {
+      "ID": 16562,
+      "Speaker": "T",
+      "Turn": 133,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "By asking whether the step is really needed (\"Do [we] really need [it]?\"), the teacher prompts the student to justify and explain the necessity of their previous action."
+    },
+    {
+      "ID": 16565,
+      "Speaker": "T",
+      "Turn": 135,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16577,
+      "Speaker": "T",
+      "Turn": 141,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher restates the student’s idea about symmetry, rephrasing it and elaborating on the need to add and subtract the same amount to find points on either side."
+    },
+    {
+      "ID": 16578,
+      "Speaker": "T",
+      "Turn": 141,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher continues to paraphrase and extend the student’s explanation, reinforcing the concept of symmetry by restating it in her own words."
+    },
+    {
+      "ID": 16579,
+      "Speaker": "T",
+      "Turn": 141,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16581,
+      "Speaker": "T",
+      "Turn": 143,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16582,
+      "Speaker": "T",
+      "Turn": 143,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

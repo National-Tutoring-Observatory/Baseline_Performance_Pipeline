@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 21738,
+      "Speaker": "T",
+      "Turn": 21738,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21739,
+      "Speaker": "T",
+      "Turn": 21739,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks student to state the first procedural step, seeking a specific correct mathematical action."
+    },
+    {
+      "ID": 21740,
+      "Speaker": "T",
+      "Turn": 21740,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher repeats the student’s idea (adding 1 to both sides) using her own wording to affirm and clarify it."
+    },
+    {
+      "ID": 21741,
+      "Speaker": "T",
+      "Turn": 21741,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Requests that Joel recall and state the exact first step of the procedure."
+    },
+    {
+      "ID": 21743,
+      "Speaker": "T",
+      "Turn": 21743,
+      "TalkMove": "Restating",
+      "Reasoning": "Teacher echoes the student’s answer ‘Isolate the radical’ verbatim."
+    },
+    {
+      "ID": 21744,
+      "Speaker": "T",
+      "Turn": 21744,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Asks students to decide whether isolating is complete, prompting them to justify their understanding."
+    },
+    {
+      "ID": 21747,
+      "Speaker": "T",
+      "Turn": 21747,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Summarizes the collective work so far to orient all students to the current status of the solution."
+    },
+    {
+      "ID": 21748,
+      "Speaker": "T",
+      "Turn": 21748,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Solicits the next concrete procedural step from a student."
+    },
+    {
+      "ID": 21749,
+      "Speaker": "T",
+      "Turn": 21749,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Further prompts for the specific second step in the established procedure."
+    },
+    {
+      "ID": 21751,
+      "Speaker": "T",
+      "Turn": 21751,
+      "TalkMove": "Restating",
+      "Reasoning": "Reiterates the student’s response ‘cube each side’ exactly to affirm it."
+    },
+    {
+      "ID": 21752,
+      "Speaker": "T",
+      "Turn": 21752,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Repeats the idea of cubing each side, adding teacher’s own wording (‘we’re going to’) to clarify the action."
+    },
+    {
+      "ID": 21753,
+      "Speaker": "T",
+      "Turn": 21753,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks for the exact numerical result of 3 cubed, seeking a precise calculation."
+    },
+    {
+      "ID": 21755,
+      "Speaker": "T",
+      "Turn": 21755,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "After giving the numeric answer, asks students to explain what happens algebraically, prompting conceptual explanation."
+    },
+    {
+      "ID": 21756,
+      "Speaker": "T",
+      "Turn": 21756,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Paraphrases the expected student explanation that the radical and exponent cancel, clarifying the mathematical result."
+    },
+    {
+      "ID": 21757,
+      "Speaker": "T",
+      "Turn": 21757,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks student to list the two algebraic steps required, requesting specific procedural information."
+    },
+    {
+      "ID": 21758,
+      "Speaker": "T",
+      "Turn": 21758,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Restates the request for the two exact steps to isolate x."
+    },
+    {
+      "ID": 21760,
+      "Speaker": "T",
+      "Turn": 21760,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Summarizes what has been accomplished to ensure the class is following the solution’s progress."
+    },
+    {
+      "ID": 21762,
+      "Speaker": "T",
+      "Turn": 21762,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Asks student to justify the choice of adding nine first rather than dividing, eliciting the reasoning behind the procedure."
+    },
+    {
+      "ID": 21764,
+      "Speaker": "T",
+      "Turn": 21764,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Requests the exact value of 9 ÷ 2, seeking a precise numerical answer."
+    },
+    {
+      "ID": 21766,
+      "Speaker": "T",
+      "Turn": 21766,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

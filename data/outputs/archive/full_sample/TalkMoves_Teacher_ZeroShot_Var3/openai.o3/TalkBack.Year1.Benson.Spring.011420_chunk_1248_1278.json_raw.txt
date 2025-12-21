@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 1248,
+      "Speaker": "T",
+      "Turn": 1248,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks for the exact distance Charice ran, prompting students to state a specific numeric fact."
+    },
+    {
+      "ID": 1250,
+      "Speaker": "T",
+      "Turn": 1250,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher seeks confirmation of the precise number ('78'), focusing students on the correct value."
+    },
+    {
+      "ID": 1251,
+      "Speaker": "T",
+      "Turn": 1251,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher restates the student-supplied number in a fuller sentence, adding wording to clarify meaning."
+    },
+    {
+      "ID": 1252,
+      "Speaker": "T",
+      "Turn": 1252,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks what needs to be found, directing students to identify the unknown quantity."
+    },
+    {
+      "ID": 1253,
+      "Speaker": "T",
+      "Turn": 1253,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher rephrases the idea that the class must find Ally’s distance, attributing it to Eric."
+    },
+    {
+      "ID": 1255,
+      "Speaker": "T",
+      "Turn": 1255,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher asks students how they will determine the unknown, soliciting an explanation of method."
+    },
+    {
+      "ID": 1256,
+      "Speaker": "T",
+      "Turn": 1256,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher requests specific given information needed to solve the problem."
+    },
+    {
+      "ID": 1259,
+      "Speaker": "T",
+      "Turn": 1259,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1260,
+      "Speaker": "T",
+      "Turn": 1260,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher echoes the key detail ('she ran 38') to reinforce the information."
+    },
+    {
+      "ID": 1262,
+      "Speaker": "T",
+      "Turn": 1262,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Teacher summarizes known information so the whole class shares the same understanding."
+    },
+    {
+      "ID": 1263,
+      "Speaker": "T",
+      "Turn": 1263,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks students to specify whether to add or subtract, focusing on selecting the correct operation."
+    },
+    {
+      "ID": 1266,
+      "Speaker": "T",
+      "Turn": 1266,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Teacher directs attention to peers who suggested 'adding,' ensuring collective awareness of contributions."
+    },
+    {
+      "ID": 1268,
+      "Speaker": "T",
+      "Turn": 1268,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher asks Eric to justify why addition is appropriate, prompting explanation of thinking."
+    },
+    {
+      "ID": 1270,
+      "Speaker": "T",
+      "Turn": 1270,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1271,
+      "Speaker": "T",
+      "Turn": 1271,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1272,
+      "Speaker": "T",
+      "Turn": 1272,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Teacher recaps and connects multiple students’ contributions about using addition, aligning the class around the shared conclusion."
+    },
+    {
+      "ID": 1273,
+      "Speaker": "T",
+      "Turn": 1273,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks for the unit being counted, focusing on specifying the correct whole (miles)."
+    },
+    {
+      "ID": 1275,
+      "Speaker": "T",
+      "Turn": 1275,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1277,
+      "Speaker": "T",
+      "Turn": 1277,
+      "TalkMove": "Restating",
+      "Reasoning": "Teacher repeats the student’s one-word answer 'Miles' exactly as stated."
+    },
+    {
+      "ID": 1278,
+      "Speaker": "T",
+      "Turn": 1278,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher slightly modifies the student’s word by specifying 'A mile,' refining the idea."
+    }
+  ]
+}

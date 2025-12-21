@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 9797,
+      "Speaker": "T",
+      "Turn": 9797,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats a mathematical idea ('35 is three times as much as 15'), likely summarizing or rephrasing a student's previous contribution."
+    },
+    {
+      "ID": 9798,
+      "Speaker": "T",
+      "Turn": 9798,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher invites a student to expand on their thinking or add more detail ('Did you want to add to that')."
+    },
+    {
+      "ID": 9799,
+      "Speaker": "T",
+      "Turn": 9799,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9800,
+      "Speaker": "T",
+      "Turn": 9800,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9801,
+      "Speaker": "T",
+      "Turn": 9801,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to generalize a rule ('Would this be true for every number') which requires justification."
+    },
+    {
+      "ID": 9802,
+      "Speaker": "T",
+      "Turn": 9802,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher explicitly asks for justification ('Why or why not')."
+    },
+    {
+      "ID": 9803,
+      "Speaker": "T",
+      "Turn": 9803,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher repeats the request for generalization and justification ('Would this be true for every number why or why not')."
+    },
+    {
+      "ID": 9804,
+      "Speaker": "T",
+      "Turn": 9804,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher organizes the class for discussion ('Partner Bs turn to talk first...')."
+    },
+    {
+      "ID": 9805,
+      "Speaker": "T",
+      "Turn": 9805,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher manages the flow of the activity ('Ready go')."
+    },
+    {
+      "ID": 9806,
+      "Speaker": "T",
+      "Turn": 9806,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher brings the class attention back to the whole group ('Back to me please')."
+    },
+    {
+      "ID": 9807,
+      "Speaker": "T",
+      "Turn": 9807,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher orients the class to a specific student's idea ('I heard Kayla saying something... that I think everybody should talk about')."
+    },
+    {
+      "ID": 9808,
+      "Speaker": "T",
+      "Turn": 9808,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9809,
+      "Speaker": "T",
+      "Turn": 9809,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks a specific student to share their thinking ('tell us what you were thinking')."
+    },
+    {
+      "ID": 9812,
+      "Speaker": "T",
+      "Turn": 9812,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9813,
+      "Speaker": "T",
+      "Turn": 9813,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats and validates a student's observation ('they are all multiples of five')."
+    },
+    {
+      "ID": 9814,
+      "Speaker": "T",
+      "Turn": 9814,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to create a representation to prove a rule ('make a picture that proves this rule')."
+    },
+    {
+      "ID": 9815,
+      "Speaker": "T",
+      "Turn": 9815,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher elaborates on the request for a representation to explain the concept ('To show how finding 15 of it works...')."
+    },
+    {
+      "ID": 9816,
+      "Speaker": "T",
+      "Turn": 9816,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher reiterates the request for a representation ('Make a picture of that')."
+    },
+    {
+      "ID": 9817,
+      "Speaker": "T",
+      "Turn": 9817,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher specifies what the representation should show ('Finding 15 of a whole and finding 35 of a whole make a picture')."
+    },
+    {
+      "ID": 9818,
+      "Speaker": "T",
+      "Turn": 9818,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher suggests a specific mathematical tool/shape to ensure the representation is accurate/useful ('Maybe use rectangles')."
+    }
+  ]
+}

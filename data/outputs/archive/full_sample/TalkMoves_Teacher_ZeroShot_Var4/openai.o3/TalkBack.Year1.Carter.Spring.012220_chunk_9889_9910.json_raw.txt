@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 9889,
+      "Speaker": "T",
+      "Turn": 9889,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher repeats a student’s proposed equation (“15 x 3”) while adding the evaluative tag “yes,” slightly modifying the original wording."
+    },
+    {
+      "ID": 9890,
+      "Speaker": "T",
+      "Turn": 9890,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9891,
+      "Speaker": "T",
+      "Turn": 9891,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Asks whether the shown method would work, prompting students to justify or explain."
+    },
+    {
+      "ID": 9893,
+      "Speaker": "T",
+      "Turn": 9893,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9894,
+      "Speaker": "T",
+      "Turn": 9894,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Again asks if a particular method would work, seeking justification."
+    },
+    {
+      "ID": 9895,
+      "Speaker": "T",
+      "Turn": 9895,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher restates the student’s numerical expression while inserting an evaluative “yes,” slightly altering it."
+    },
+    {
+      "ID": 9896,
+      "Speaker": "T",
+      "Turn": 9896,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9897,
+      "Speaker": "T",
+      "Turn": 9897,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Checks that the class is following the shared approach (“Is that what we’re doing?”), orienting everyone to the common task."
+    },
+    {
+      "ID": 9899,
+      "Speaker": "T",
+      "Turn": 9899,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9900,
+      "Speaker": "T",
+      "Turn": 9900,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9901,
+      "Speaker": "T",
+      "Turn": 9901,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9902,
+      "Speaker": "T",
+      "Turn": 9902,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Prompts students to confirm the correct multiplication fact and notation (2 × 3 = 6)."
+    },
+    {
+      "ID": 9903,
+      "Speaker": "T",
+      "Turn": 9903,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9904,
+      "Speaker": "T",
+      "Turn": 9904,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Introduces a new computation task, asking for a specific mathematical answer."
+    },
+    {
+      "ID": 9905,
+      "Speaker": "T",
+      "Turn": 9905,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Repeats the problem statement, continuing to solicit the required computation."
+    },
+    {
+      "ID": 9906,
+      "Speaker": "T",
+      "Turn": 9906,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Directs students to record the mathematical work on slates, eliciting a concrete numerical response."
+    },
+    {
+      "ID": 9907,
+      "Speaker": "T",
+      "Turn": 9907,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9908,
+      "Speaker": "T",
+      "Turn": 9908,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9909,
+      "Speaker": "T",
+      "Turn": 9909,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Instructs students to explain their method to a partner, explicitly requesting reasoning."
+    },
+    {
+      "ID": 9910,
+      "Speaker": "T",
+      "Turn": 9910,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Structures participation by specifying which partner speaks first, ensuring coordinated discussion."
+    }
+  ]
+}

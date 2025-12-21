@@ -1,0 +1,132 @@
+{
+  "records": [
+    {
+      "ID": 771,
+      "Turn": 185,
+      "Speaker": "T",
+      "Sentence": "So take up your light greens",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 772,
+      "Turn": 185,
+      "Speaker": "T",
+      "Sentence": "Josh tell me what does number two say",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 773,
+      "Turn": 186,
+      "Speaker": "T",
+      "Sentence": "If light green is one fourth what is the whole",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a question to elicit a specific mathematical answer about the value of the whole."
+    },
+    {
+      "ID": 774,
+      "Turn": 186,
+      "Speaker": "T",
+      "Sentence": "Aaron that tells me that light green needs how many totals to make the whole",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts a student to explain the thinking behind the fraction 'one-fourth' by asking how many parts are needed to make a whole."
+    },
+    {
+      "ID": 776,
+      "Turn": 188,
+      "Speaker": "T",
+      "Sentence": "One and my denominator tells me how many to get to the whole thing",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's idea about the numerator ('One') and adds on clarifying information about the role of the denominator."
+    },
+    {
+      "ID": 778,
+      "Turn": 190,
+      "Speaker": "T",
+      "Sentence": "Four of them",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's answer ('Four') but adds words ('of them') to make the contribution more complete and clear."
+    },
+    {
+      "ID": 779,
+      "Turn": 190,
+      "Speaker": "T",
+      "Sentence": "So how many light greens should you take out",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to apply the conclusion from the prior discussion (that four parts are needed) to the physical manipulatives."
+    },
+    {
+      "ID": 781,
+      "Turn": 192,
+      "Speaker": "T",
+      "Sentence": "Four",
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's answer ('Four') word for word."
+    },
+    {
+      "ID": 782,
+      "Turn": 192,
+      "Speaker": "T",
+      "Sentence": "Sophie what did I just show you on here",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher calls on a specific student to orient their attention to a public demonstration, ensuring they are following the lesson."
+    },
+    {
+      "ID": 783,
+      "Turn": 192,
+      "Speaker": "T",
+      "Sentence": "This is onefourth and what did I add together",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts a student to explain the process being demonstrated, asking them to share their thinking about the representation."
+    },
+    {
+      "ID": 785,
+      "Turn": 194,
+      "Speaker": "T",
+      "Sentence": "Heres one fourth another fourth heres another one",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 786,
+      "Turn": 194,
+      "Speaker": "T",
+      "Sentence": "This is what threefourths",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to provide a specific mathematical value for the representation shown."
+    },
+    {
+      "ID": 787,
+      "Turn": 194,
+      "Speaker": "T",
+      "Sentence": "Whats this one worth",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to provide a specific mathematical value."
+    },
+    {
+      "ID": 789,
+      "Turn": 196,
+      "Speaker": "T",
+      "Sentence": "Onefourth plus",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to use more precise mathematical language to build an equation, guiding them toward a correct representation."
+    },
+    {
+      "ID": 791,
+      "Turn": 198,
+      "Speaker": "T",
+      "Sentence": "Okay did I create my whole",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to evaluate the result of the demonstration against the mathematical concept of a 'whole'."
+    },
+    {
+      "ID": 792,
+      "Turn": 198,
+      "Speaker": "T",
+      "Sentence": "What does that equal",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students for a specific mathematical answer (the sum of the fractions)."
+    }
+  ]
+}

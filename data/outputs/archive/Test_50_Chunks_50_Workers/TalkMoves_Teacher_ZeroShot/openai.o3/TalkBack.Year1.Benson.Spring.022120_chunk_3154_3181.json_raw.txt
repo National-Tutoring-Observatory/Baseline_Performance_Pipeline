@@ -1,0 +1,130 @@
+{
+  "records": [
+    {
+      "ID": 3154,
+      "Speaker": "T",
+      "Turn": 153,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher asks the student to explain what specifically they are conflicted about, prompting elaboration of thinking."
+    },
+    {
+      "ID": 3155,
+      "Speaker": "T",
+      "Turn": 154,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher pushes the student to clarify their broad statement by specifying what they don’t understand."
+    },
+    {
+      "ID": 3156,
+      "Speaker": "T",
+      "Turn": 154,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Reiterates the request for the student to articulate exactly what they don't understand."
+    },
+    {
+      "ID": 3158,
+      "Speaker": "T",
+      "Turn": 156,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks students to state the mathematical topic they are working on, prompting a precise conceptual answer."
+    },
+    {
+      "ID": 3160,
+      "Speaker": "T",
+      "Turn": 158,
+      "TalkMove": "Restating",
+      "Reasoning": "Teacher repeats the student’s one-word response 'Area' verbatim."
+    },
+    {
+      "ID": 3161,
+      "Speaker": "T",
+      "Turn": 158,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks for the definition of the mathematical term 'area,' seeking a precise explanation."
+    },
+    {
+      "ID": 3162,
+      "Speaker": "T",
+      "Turn": 159,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3163,
+      "Speaker": "T",
+      "Turn": 159,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3164,
+      "Speaker": "T",
+      "Turn": 159,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3165,
+      "Speaker": "T",
+      "Turn": 159,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3166,
+      "Speaker": "T",
+      "Turn": 159,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3169,
+      "Speaker": "T",
+      "Turn": 161,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3170,
+      "Speaker": "T",
+      "Turn": 161,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3171,
+      "Speaker": "T",
+      "Turn": 161,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3172,
+      "Speaker": "T",
+      "Turn": 161,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3173,
+      "Speaker": "T",
+      "Turn": 161,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3174,
+      "Speaker": "T",
+      "Turn": 162,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3180,
+      "Speaker": "T",
+      "Turn": 167,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher prompts students to determine the missing factor in a multiplication equation, seeking the exact numerical value."
+    }
+  ]
+}

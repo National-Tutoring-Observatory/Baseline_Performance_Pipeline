@@ -1,0 +1,109 @@
+{
+  "records": [
+    {
+      "ID": 5783,
+      "Speaker": "T",
+      "Turn": 123,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5784,
+      "Speaker": "T",
+      "Turn": 123,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher prompts students to be active listeners by directing them to watch, orienting the class to the speaker/activity."
+    },
+    {
+      "ID": 5785,
+      "Speaker": "T",
+      "Turn": 123,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5786,
+      "Speaker": "T",
+      "Turn": 123,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher orients the class to the current point in the activity, helping everyone stay aligned."
+    },
+    {
+      "ID": 5787,
+      "Speaker": "T",
+      "Turn": 123,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5788,
+      "Speaker": "T",
+      "Turn": 123,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5791,
+      "Speaker": "T",
+      "Turn": 126,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5792,
+      "Speaker": "T",
+      "Turn": 126,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5794,
+      "Speaker": "T",
+      "Turn": 128,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5796,
+      "Speaker": "T",
+      "Turn": 130,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5797,
+      "Speaker": "T",
+      "Turn": 130,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to state the correct classification for 24, eliciting a specific mathematical label."
+    },
+    {
+      "ID": 5799,
+      "Speaker": "T",
+      "Turn": 132,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5800,
+      "Speaker": "T",
+      "Turn": 132,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to identify the classification of 25, asking for a precise mathematical designation."
+    },
+    {
+      "ID": 5803,
+      "Speaker": "T",
+      "Turn": 134,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student’s response 'Bizz' word for word for the class."
+    },
+    {
+      "ID": 5804,
+      "Speaker": "T",
+      "Turn": 134,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks what can go into 27, prompting students to provide factors/divisibility as justification."
+    }
+  ]
+}

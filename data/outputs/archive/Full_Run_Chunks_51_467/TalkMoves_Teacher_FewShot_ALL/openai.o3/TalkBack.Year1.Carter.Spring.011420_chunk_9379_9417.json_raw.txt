@@ -1,0 +1,235 @@
+{
+  "records": [
+    {
+      "ID": 9379,
+      "Speaker": "T",
+      "Turn": 94,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9380,
+      "Speaker": "T",
+      "Turn": 94,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher asks students to explain why the strategy works, prompting justification."
+    },
+    {
+      "ID": 9381,
+      "Speaker": "T",
+      "Turn": 94,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher cues students to use precise mathematical language (“factors and multiples”)."
+    },
+    {
+      "ID": 9384,
+      "Speaker": "T",
+      "Turn": 96,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Again prompts students to incorporate exact mathematical terms (‘factors,’ ‘multiples’)."
+    },
+    {
+      "ID": 9386,
+      "Speaker": "T",
+      "Turn": 98,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9388,
+      "Speaker": "T",
+      "Turn": 100,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "Invites the rest of the class to weigh in on the previous student’s explanation."
+    },
+    {
+      "ID": 9389,
+      "Speaker": "T",
+      "Turn": 100,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Asks whether the process is complete after finding a common denominator, prompting explanation."
+    },
+    {
+      "ID": 9391,
+      "Speaker": "T",
+      "Turn": 102,
+      "TalkMove": "Restating",
+      "Reasoning": "Teacher repeats the student’s one-word response (“No”) verbatim."
+    },
+    {
+      "ID": 9392,
+      "Speaker": "T",
+      "Turn": 102,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Requests explanation of the next step—how to find the numerator—eliciting reasoning."
+    },
+    {
+      "ID": 9393,
+      "Speaker": "T",
+      "Turn": 102,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Asks students to ‘show’ their method, pushing them to articulate or demonstrate reasoning."
+    },
+    {
+      "ID": 9394,
+      "Speaker": "T",
+      "Turn": 102,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Prompts students to explain the decision process for selecting the multiplier."
+    },
+    {
+      "ID": 9395,
+      "Speaker": "T",
+      "Turn": 102,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Directs collective attention to a specific, simpler example so the class can follow along."
+    },
+    {
+      "ID": 9396,
+      "Speaker": "T",
+      "Turn": 102,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Seeks the exact number used to multiply 4 to reach 12, focusing on precise calculation."
+    },
+    {
+      "ID": 9397,
+      "Speaker": "T",
+      "Turn": 102,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9398,
+      "Speaker": "T",
+      "Turn": 102,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9399,
+      "Speaker": "T",
+      "Turn": 102,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks for the specific factor to multiply the numerator, focusing on the correct number."
+    },
+    {
+      "ID": 9400,
+      "Speaker": "T",
+      "Turn": 102,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9401,
+      "Speaker": "T",
+      "Turn": 102,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Requests justification for multiplying by three, eliciting the underlying reasoning."
+    },
+    {
+      "ID": 9402,
+      "Speaker": "T",
+      "Turn": 102,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Prompts students to state what operation to perform on the numerator, seeking a precise answer."
+    },
+    {
+      "ID": 9403,
+      "Speaker": "T",
+      "Turn": 102,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Provides a sentence stem (“Multiply by …”) prompting students to supply the exact factor."
+    },
+    {
+      "ID": 9405,
+      "Speaker": "T",
+      "Turn": 104,
+      "TalkMove": "Restating",
+      "Reasoning": "Teacher echoes the student’s response “Four,” repeating it verbatim."
+    },
+    {
+      "ID": 9406,
+      "Speaker": "T",
+      "Turn": 104,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9407,
+      "Speaker": "T",
+      "Turn": 104,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9408,
+      "Speaker": "T",
+      "Turn": 104,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9409,
+      "Speaker": "T",
+      "Turn": 104,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9410,
+      "Speaker": "T",
+      "Turn": 104,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9411,
+      "Speaker": "T",
+      "Turn": 105,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9412,
+      "Speaker": "T",
+      "Turn": 106,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Directs the class’s attention to a specific part of the text (“Look at the first example”)."
+    },
+    {
+      "ID": 9413,
+      "Speaker": "T",
+      "Turn": 106,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Indicates the exact item (“We’re on 1a”) to align students’ focus."
+    },
+    {
+      "ID": 9414,
+      "Speaker": "T",
+      "Turn": 106,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Points out the fractions under discussion so all students attend to the same information."
+    },
+    {
+      "ID": 9415,
+      "Speaker": "T",
+      "Turn": 106,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Asks students to decide whether a specific method was used, prompting them to justify their thinking."
+    },
+    {
+      "ID": 9416,
+      "Speaker": "T",
+      "Turn": 106,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9417,
+      "Speaker": "T",
+      "Turn": 106,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

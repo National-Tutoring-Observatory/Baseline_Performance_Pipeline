@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 4327,
+      "Speaker": "T",
+      "Turn": 4327,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks which decimal is bigger, prompting a specific mathematical determination."
+    },
+    {
+      "ID": 4331,
+      "Speaker": "T",
+      "Turn": 4331,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4332,
+      "Speaker": "T",
+      "Turn": 4332,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Requests an explanation for why one number is bigger."
+    },
+    {
+      "ID": 4334,
+      "Speaker": "T",
+      "Turn": 4334,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Explicitly asks for the 'why,' pressing for justification."
+    },
+    {
+      "ID": 4336,
+      "Speaker": "T",
+      "Turn": 4336,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Orients the class to a student's contribution by describing what she is doing."
+    },
+    {
+      "ID": 4338,
+      "Speaker": "T",
+      "Turn": 4338,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4341,
+      "Speaker": "T",
+      "Turn": 4341,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4343,
+      "Speaker": "T",
+      "Turn": 4343,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4344,
+      "Speaker": "T",
+      "Turn": 4344,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Paraphrases a student's comparison using place value language, refining the wording."
+    },
+    {
+      "ID": 4345,
+      "Speaker": "T",
+      "Turn": 4345,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4346,
+      "Speaker": "T",
+      "Turn": 4346,
+      "TalkMove": "Revoicing",
+      "Reasoning": "States a condensed version of a student's idea about tenths to be written, adjusting the wording."
+    },
+    {
+      "ID": 4349,
+      "Speaker": "T",
+      "Turn": 4349,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4351,
+      "Speaker": "T",
+      "Turn": 4351,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4352,
+      "Speaker": "T",
+      "Turn": 4352,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4353,
+      "Speaker": "T",
+      "Turn": 4353,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4354,
+      "Speaker": "T",
+      "Turn": 4354,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks which is bigger, prompting a mathematical choice."
+    },
+    {
+      "ID": 4355,
+      "Speaker": "T",
+      "Turn": 4355,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Announces turn-taking, orienting students to who will speak."
+    },
+    {
+      "ID": 4357,
+      "Speaker": "T",
+      "Turn": 4357,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks which one is bigger, requiring a mathematical comparison."
+    },
+    {
+      "ID": 4359,
+      "Speaker": "T",
+      "Turn": 4359,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4360,
+      "Speaker": "T",
+      "Turn": 4360,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Identifies the next speaker, orienting the class to the discussion."
+    }
+  ]
+}

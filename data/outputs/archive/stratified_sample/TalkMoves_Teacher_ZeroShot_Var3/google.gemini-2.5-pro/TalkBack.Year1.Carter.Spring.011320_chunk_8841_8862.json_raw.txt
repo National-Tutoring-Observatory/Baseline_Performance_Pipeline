@@ -1,0 +1,102 @@
+{
+  "records": [
+    {
+      "ID": 8841,
+      "Speaker": "T",
+      "Turn": 169,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8844,
+      "Speaker": "T",
+      "Turn": 171,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts the student to explain the thinking behind their initial claim, which they had not yet done."
+    },
+    {
+      "ID": 8846,
+      "Speaker": "T",
+      "Turn": 173,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher makes an observation about the class's non-verbal cues ('puzzled looks') to orient students to the collective understanding of the group."
+    },
+    {
+      "ID": 8847,
+      "Speaker": "T",
+      "Turn": 173,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8850,
+      "Speaker": "T",
+      "Turn": 175,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher checks with the original student if another student's interpretation of their idea is correct, thereby clarifying the original contribution for the class."
+    },
+    {
+      "ID": 8852,
+      "Speaker": "T",
+      "Turn": 177,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases the student's confirmed idea by connecting it to the mathematical term 'partial products'."
+    },
+    {
+      "ID": 8854,
+      "Speaker": "T",
+      "Turn": 179,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8855,
+      "Speaker": "T",
+      "Turn": 179,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher explicitly asks students who may be disengaged to 'stay with us,' prompting them to be active listeners."
+    },
+    {
+      "ID": 8856,
+      "Speaker": "T",
+      "Turn": 179,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8857,
+      "Speaker": "T",
+      "Turn": 179,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8858,
+      "Speaker": "T",
+      "Turn": 179,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8859,
+      "Speaker": "T",
+      "Turn": 179,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8861,
+      "Speaker": "T",
+      "Turn": 181,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8862,
+      "Speaker": "T",
+      "Turn": 181,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to explain the connection between two mathematical concepts ('How would knowing factors... help you...')."
+    }
+  ]
+}

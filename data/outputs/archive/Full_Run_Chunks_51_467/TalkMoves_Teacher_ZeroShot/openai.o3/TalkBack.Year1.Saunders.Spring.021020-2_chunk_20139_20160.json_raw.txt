@@ -1,0 +1,103 @@
+{
+  "records": [
+    {
+      "ID": 20139,
+      "Speaker": "T",
+      "Turn": 96
+    },
+    {
+      "ID": 20141,
+      "Speaker": "T",
+      "Turn": 98
+    },
+    {
+      "ID": 20143,
+      "Speaker": "T",
+      "Turn": 100,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student’s answer \"Four\" and adds clarifying information (\"turning points\" and enumerates them)."
+    },
+    {
+      "ID": 20144,
+      "Speaker": "T",
+      "Turn": 100
+    },
+    {
+      "ID": 20145,
+      "Speaker": "T",
+      "Turn": 100
+    },
+    {
+      "ID": 20146,
+      "Speaker": "T",
+      "Turn": 100
+    },
+    {
+      "ID": 20147,
+      "Speaker": "T",
+      "Turn": 100
+    },
+    {
+      "ID": 20148,
+      "Speaker": "T",
+      "Turn": 100
+    },
+    {
+      "ID": 20149,
+      "Speaker": "T",
+      "Turn": 100
+    },
+    {
+      "ID": 20150,
+      "Speaker": "T",
+      "Turn": 100
+    },
+    {
+      "ID": 20151,
+      "Speaker": "T",
+      "Turn": 100
+    },
+    {
+      "ID": 20153,
+      "Speaker": "T",
+      "Turn": 102,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student’s exact words \"15 questions\" verbatim before adding a brief acknowledgment."
+    },
+    {
+      "ID": 20154,
+      "Speaker": "T",
+      "Turn": 102
+    },
+    {
+      "ID": 20155,
+      "Speaker": "T",
+      "Turn": 102
+    },
+    {
+      "ID": 20156,
+      "Speaker": "T",
+      "Turn": 102
+    },
+    {
+      "ID": 20157,
+      "Speaker": "T",
+      "Turn": 102
+    },
+    {
+      "ID": 20158,
+      "Speaker": "T",
+      "Turn": 102
+    },
+    {
+      "ID": 20159,
+      "Speaker": "T",
+      "Turn": 102
+    },
+    {
+      "ID": 20160,
+      "Speaker": "T",
+      "Turn": 103
+    }
+  ]
+}

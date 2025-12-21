@@ -1,0 +1,228 @@
+{
+  "records": [
+    {
+      "ID": 11192,
+      "Turn": 65,
+      "Speaker": "T",
+      "Sentence": "Because remember some of us were not in the room yesterday",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11193,
+      "Turn": 65,
+      "Speaker": "T",
+      "Sentence": "Stella number four please",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11195,
+      "Turn": 67,
+      "Speaker": "T",
+      "Sentence": "Equals R Just put the variable",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to make their mathematical contribution more complete by adding a variable to the equation."
+    },
+    {
+      "ID": 11196,
+      "Turn": 67,
+      "Speaker": "T",
+      "Sentence": "So if you didnt have a variable please add that",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11197,
+      "Turn": 67,
+      "Speaker": "T",
+      "Sentence": "10 x 45  R Are you dividing",
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's number model, incorporating the variable they just prompted for."
+    },
+    {
+      "ID": 11198,
+      "Turn": 67,
+      "Speaker": "T",
+      "Sentence": "No multiplying",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11199,
+      "Turn": 67,
+      "Speaker": "T",
+      "Sentence": "She used 48 Does it say 48 or 45",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to use the correct number from the problem text, pressing for accuracy in their setup."
+    },
+    {
+      "ID": 11200,
+      "Turn": 68,
+      "Speaker": "T",
+      "Sentence": "She used 45 of it to tie a bow how much of the ribbon did she use",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11201,
+      "Turn": 68,
+      "Speaker": "T",
+      "Sentence": "Its multiplying",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11202,
+      "Turn": 68,
+      "Speaker": "T",
+      "Sentence": "Youre not breaking it into groups",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11203,
+      "Turn": 68,
+      "Speaker": "T",
+      "Sentence": "Youre multiplying",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11204,
+      "Turn": 68,
+      "Speaker": "T",
+      "Sentence": "Then what was the actual answer",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11206,
+      "Turn": 70,
+      "Speaker": "T",
+      "Sentence": "Eight feet",
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's answer verbatim."
+    },
+    {
+      "ID": 11207,
+      "Turn": 70,
+      "Speaker": "T",
+      "Sentence": "Nicely done but remember  incorrect so you both need to fix that",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11208,
+      "Turn": 70,
+      "Speaker": "T",
+      "Sentence": "Thats why Im saying that",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11209,
+      "Turn": 70,
+      "Speaker": "T",
+      "Sentence": "Hudson",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11212,
+      "Turn": 72,
+      "Speaker": "T",
+      "Sentence": "It is but were also looking for it is a fraction",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to use a specific mathematical representation (a fraction) that aligns with the lesson's objective."
+    },
+    {
+      "ID": 11213,
+      "Turn": 72,
+      "Speaker": "T",
+      "Sentence": "Thats what the whole point of this lesson is",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11214,
+      "Turn": 72,
+      "Speaker": "T",
+      "Sentence": "Look at the top of your page",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11215,
+      "Turn": 72,
+      "Speaker": "T",
+      "Sentence": "See",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11216,
+      "Turn": 72,
+      "Speaker": "T",
+      "Sentence": "It says multiplying whole numbers by fractions",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11217,
+      "Turn": 72,
+      "Speaker": "T",
+      "Sentence": "So should it be expressed as a fraction",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts the student to connect the lesson's goal to their representation, asking for the thinking behind why a fraction is the correct form."
+    },
+    {
+      "ID": 11218,
+      "Turn": 72,
+      "Speaker": "T",
+      "Sentence": "Yes",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11219,
+      "Turn": 72,
+      "Speaker": "T",
+      "Sentence": "Is it the same as saying x 4   5",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11220,
+      "Turn": 72,
+      "Speaker": "T",
+      "Sentence": "Yes but keep learning intention in mind okay",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11221,
+      "Turn": 72,
+      "Speaker": "T",
+      "Sentence": "Thank you",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11222,
+      "Turn": 72,
+      "Speaker": "T",
+      "Sentence": "Good question",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11223,
+      "Turn": 72,
+      "Speaker": "T",
+      "Sentence": "Number five Alijah",
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 2322,
+      "Speaker": "T",
+      "Turn": 2322,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to explain how their estimate was different, prompting for an explanation of their thinking."
+    },
+    {
+      "ID": 2324,
+      "Speaker": "T",
+      "Turn": 2324,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's numbers '5 x 8' verbatim."
+    },
+    {
+      "ID": 2325,
+      "Speaker": "T",
+      "Turn": 2325,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks 'Where did you get five', prompting the student to explain the origin of a number in their calculation."
+    },
+    {
+      "ID": 2327,
+      "Speaker": "T",
+      "Turn": 2327,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases the student's strategy, interpreting that they rounded to a 'friendlier number'."
+    },
+    {
+      "ID": 2329,
+      "Speaker": "T",
+      "Turn": 2329,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher clarifies the student's move by stating 'You rounded your six to be a five instead', adding specificity to the student's method."
+    },
+    {
+      "ID": 2331,
+      "Speaker": "T",
+      "Turn": 2331,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a specific calculation question ('Then did that x 18') to check the steps taken."
+    },
+    {
+      "ID": 2333,
+      "Speaker": "T",
+      "Turn": 2333,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2334,
+      "Speaker": "T",
+      "Turn": 2334,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks if the student arrived at a similar number by adding specific values, prompting the student to connect their result to a specific mathematical process."
+    },
+    {
+      "ID": 2336,
+      "Speaker": "T",
+      "Turn": 2336,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2337,
+      "Speaker": "T",
+      "Turn": 2337,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2338,
+      "Speaker": "T",
+      "Turn": 2338,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2339,
+      "Speaker": "T",
+      "Turn": 2339,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks a student if they did something different, inviting them to share an alternative strategy or method."
+    },
+    {
+      "ID": 2340,
+      "Speaker": "T",
+      "Turn": 2340,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher acknowledges the student's previous signal ('hand up earlier') to bring their contribution into the group discussion."
+    },
+    {
+      "ID": 2341,
+      "Speaker": "T",
+      "Turn": 2341,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a clarifying question about the procedure ('just do them in a different order') to determine exactly what the student did."
+    },
+    {
+      "ID": 2342,
+      "Speaker": "T",
+      "Turn": 2342,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's phrase 'Three estimates'."
+    },
+    {
+      "ID": 2344,
+      "Speaker": "T",
+      "Turn": 2344,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases the student's contribution as 'You got something similar'."
+    },
+    {
+      "ID": 2346,
+      "Speaker": "T",
+      "Turn": 2346,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2347,
+      "Speaker": "T",
+      "Turn": 2347,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2349,
+      "Speaker": "T",
+      "Turn": 2349,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2350,
+      "Speaker": "T",
+      "Turn": 2350,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts for the final 'Answer'."
+    }
+  ]
+}

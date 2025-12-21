@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 2882,
+      "Speaker": "T",
+      "Turn": 2882,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2884,
+      "Speaker": "T",
+      "Turn": 2884,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases the student's idea as a clarifying question about whether it can be written that way."
+    },
+    {
+      "ID": 2886,
+      "Speaker": "T",
+      "Turn": 2886,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Prompts the student to identify what the quantity is (name it)."
+    },
+    {
+      "ID": 2887,
+      "Speaker": "T",
+      "Turn": 2887,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks the student to read the representation as a number, using precise mathematical language."
+    },
+    {
+      "ID": 2889,
+      "Speaker": "T",
+      "Turn": 2889,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Restates the student's equivalence claim (8/10 equals 80/100) in the teacher's wording."
+    },
+    {
+      "ID": 2890,
+      "Speaker": "T",
+      "Turn": 2890,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "Invites peers to indicate agreement with a classmate's idea."
+    },
+    {
+      "ID": 2892,
+      "Speaker": "T",
+      "Turn": 2892,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "Prompts the class to respond to the claim that 8/10 is the same as 80/100."
+    },
+    {
+      "ID": 2893,
+      "Speaker": "T",
+      "Turn": 2893,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Rephrases the class's idea about writing the fraction as a decimal, including the option of adding a trailing zero."
+    },
+    {
+      "ID": 2894,
+      "Speaker": "T",
+      "Turn": 2894,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Summarizes the equivalence in the teacher's own words."
+    },
+    {
+      "ID": 2895,
+      "Speaker": "T",
+      "Turn": 2895,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks for a mathematical contribution: the fraction form of a given decimal."
+    },
+    {
+      "ID": 2896,
+      "Speaker": "T",
+      "Turn": 2896,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Requests a student to share the mathematical representation they wrote."
+    },
+    {
+      "ID": 2898,
+      "Speaker": "T",
+      "Turn": 2898,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Prompts students to connect representations by offering another way to write it."
+    },
+    {
+      "ID": 2902,
+      "Speaker": "T",
+      "Turn": 2902,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2903,
+      "Speaker": "T",
+      "Turn": 2903,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2904,
+      "Speaker": "T",
+      "Turn": 2904,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2905,
+      "Speaker": "T",
+      "Turn": 2905,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2906,
+      "Speaker": "T",
+      "Turn": 2906,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2907,
+      "Speaker": "T",
+      "Turn": 2907,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2908,
+      "Speaker": "T",
+      "Turn": 2908,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Directs students' attention to the speaker, prompting them to be active listeners."
+    },
+    {
+      "ID": 2909,
+      "Speaker": "T",
+      "Turn": 2909,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

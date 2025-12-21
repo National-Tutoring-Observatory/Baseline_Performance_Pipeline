@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 2438,
+      "Speaker": "T",
+      "Turn": 2438,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2456,
+      "Speaker": "T",
+      "Turn": 2456,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2457,
+      "Speaker": "T",
+      "Turn": 2457,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2464,
+      "Speaker": "T",
+      "Turn": 2464,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2465,
+      "Speaker": "T",
+      "Turn": 2465,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2468,
+      "Speaker": "T",
+      "Turn": 2468,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to explain the choice of another six, prompting justification."
+    },
+    {
+      "ID": 2471,
+      "Speaker": "T",
+      "Turn": 2471,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to specify what to use (likely units or quantities), encouraging precise mathematical language."
+    },
+    {
+      "ID": 2473,
+      "Speaker": "T",
+      "Turn": 2473,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2475,
+      "Speaker": "T",
+      "Turn": 2475,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2476,
+      "Speaker": "T",
+      "Turn": 2476,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher invites questions from the class to ensure shared understanding and keep everyone engaged."
+    },
+    {
+      "ID": 2477,
+      "Speaker": "T",
+      "Turn": 2477,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2478,
+      "Speaker": "T",
+      "Turn": 2478,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2479,
+      "Speaker": "T",
+      "Turn": 2479,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2481,
+      "Speaker": "T",
+      "Turn": 2481,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2483,
+      "Speaker": "T",
+      "Turn": 2483,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2484,
+      "Speaker": "T",
+      "Turn": 2484,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2485,
+      "Speaker": "T",
+      "Turn": 2485,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to explain their approach to determining the unknown."
+    },
+    {
+      "ID": 2487,
+      "Speaker": "T",
+      "Turn": 2487,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher requests an explanation for the source of the value 312."
+    },
+    {
+      "ID": 2489,
+      "Speaker": "T",
+      "Turn": 2489,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to precisely identify the problem number, encouraging exact reference."
+    },
+    {
+      "ID": 2491,
+      "Speaker": "T",
+      "Turn": 2491,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher restates the student's idea, connecting it to problem 2 and adjusting the wording while checking understanding."
+    }
+  ]
+}

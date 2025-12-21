@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 24329,
+      "Speaker": "T",
+      "Turn": 24329,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24330,
+      "Speaker": "T",
+      "Turn": 24330,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24331,
+      "Speaker": "T",
+      "Turn": 24331,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to provide a mathematical strategy."
+    },
+    {
+      "ID": 24332,
+      "Speaker": "T",
+      "Turn": 24332,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher repeats the prompt for students to provide a mathematical strategy."
+    },
+    {
+      "ID": 24333,
+      "Speaker": "T",
+      "Turn": 24333,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24334,
+      "Speaker": "T",
+      "Turn": 24334,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks a student to explain the process they used to arrive at an answer."
+    },
+    {
+      "ID": 24336,
+      "Speaker": "T",
+      "Turn": 24336,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to continue explaining their problem-solving process."
+    },
+    {
+      "ID": 24338,
+      "Speaker": "T",
+      "Turn": 24338,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats part of what a student said."
+    },
+    {
+      "ID": 24339,
+      "Speaker": "T",
+      "Turn": 24339,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24340,
+      "Speaker": "T",
+      "Turn": 24340,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher explicitly connects one student's strategy to what another group of students was discussing."
+    },
+    {
+      "ID": 24341,
+      "Speaker": "T",
+      "Turn": 24341,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases and clarifies another student's strategy for the class."
+    },
+    {
+      "ID": 24342,
+      "Speaker": "T",
+      "Turn": 24342,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to contribute a different mathematical strategy."
+    },
+    {
+      "ID": 24343,
+      "Speaker": "T",
+      "Turn": 24343,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24345,
+      "Speaker": "T",
+      "Turn": 24345,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's idea using their own words to summarize the strategy."
+    },
+    {
+      "ID": 24348,
+      "Speaker": "T",
+      "Turn": 24348,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24349,
+      "Speaker": "T",
+      "Turn": 24349,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher proposes a hypothetical mathematical step and prompts students to consider it."
+    },
+    {
+      "ID": 24351,
+      "Speaker": "T",
+      "Turn": 24351,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24352,
+      "Speaker": "T",
+      "Turn": 24352,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a question to check for understanding of a specific mathematical equivalence."
+    },
+    {
+      "ID": 24353,
+      "Speaker": "T",
+      "Turn": 24353,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher prompts a specific student to be an active listener and pay attention."
+    },
+    {
+      "ID": 24354,
+      "Speaker": "T",
+      "Turn": 24354,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a question that prompts students to make a specific mathematical contribution."
+    }
+  ]
+}

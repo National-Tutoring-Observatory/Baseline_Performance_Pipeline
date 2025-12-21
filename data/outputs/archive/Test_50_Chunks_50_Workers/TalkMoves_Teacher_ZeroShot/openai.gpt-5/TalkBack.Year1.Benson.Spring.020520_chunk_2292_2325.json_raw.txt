@@ -1,0 +1,123 @@
+{
+  "records": [
+    {
+      "ID": 2293,
+      "Speaker": "T",
+      "Turn": 221,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks 'Why' to prompt the student to explain their thinking."
+    },
+    {
+      "ID": 2295,
+      "Speaker": "T",
+      "Turn": 223,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher restates the student's idea about 'per package' and adds the specific quantity (eight burritos)."
+    },
+    {
+      "ID": 2297,
+      "Speaker": "T",
+      "Turn": 225
+    },
+    {
+      "ID": 2301,
+      "Speaker": "T",
+      "Turn": 227,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher paraphrases the student's computed result by framing it as an approximate cost."
+    },
+    {
+      "ID": 2302,
+      "Speaker": "T",
+      "Turn": 227,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to describe the next step in their solution process."
+    },
+    {
+      "ID": 2305,
+      "Speaker": "T",
+      "Turn": 229,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher summarizes the student’s multiplication (18 × 6) by articulating the quantities and units."
+    },
+    {
+      "ID": 2307,
+      "Speaker": "T",
+      "Turn": 231,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "By saying 'Because', the teacher prompts the student to justify the previous step."
+    },
+    {
+      "ID": 2309,
+      "Speaker": "T",
+      "Turn": 233,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases the student's step (multiplying by 5) to connect it back to the context of packages/items."
+    },
+    {
+      "ID": 2312,
+      "Speaker": "T",
+      "Turn": 235,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher restates the student’s result as an approximate total cost for sandwiches."
+    },
+    {
+      "ID": 2313,
+      "Speaker": "T",
+      "Turn": 235
+    },
+    {
+      "ID": 2314,
+      "Speaker": "T",
+      "Turn": 235
+    },
+    {
+      "ID": 2315,
+      "Speaker": "T",
+      "Turn": 235
+    },
+    {
+      "ID": 2318,
+      "Speaker": "T",
+      "Turn": 238
+    },
+    {
+      "ID": 2319,
+      "Speaker": "T",
+      "Turn": 238
+    },
+    {
+      "ID": 2320,
+      "Speaker": "T",
+      "Turn": 238
+    },
+    {
+      "ID": 2321,
+      "Speaker": "T",
+      "Turn": 238,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher invites the class to participate by indicating who has a different method, orienting the group to share."
+    },
+    {
+      "ID": 2322,
+      "Speaker": "T",
+      "Turn": 238,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher asks how Lillian’s estimate differs, prompting comparison to classmates’ strategies."
+    },
+    {
+      "ID": 2324,
+      "Speaker": "T",
+      "Turn": 240,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student’s expression '5 × 8' verbatim."
+    },
+    {
+      "ID": 2325,
+      "Speaker": "T",
+      "Turn": 240,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks for the source of the number 'five,' eliciting the student’s justification."
+    }
+  ]
+}

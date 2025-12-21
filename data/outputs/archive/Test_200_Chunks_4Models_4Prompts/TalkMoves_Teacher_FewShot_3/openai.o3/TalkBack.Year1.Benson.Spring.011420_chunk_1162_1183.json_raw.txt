@@ -1,0 +1,23 @@
+{
+  "annotations": [
+    { "ID": 1162, "TalkMove": "None", "Reasoning": "" },
+    { "ID": 1163, "TalkMove": "None", "Reasoning": "" },
+    { "ID": 1165, "TalkMove": "Pressing for Accuracy", "Reasoning": "Asks the student to confirm the exact number of pieces in the whole." },
+    { "ID": 1166, "TalkMove": "Pressing for Reasoning", "Reasoning": "Requests an explanation for why the whole cannot be six pieces." },
+    { "ID": 1167, "TalkMove": "Pressing for Accuracy", "Reasoning": "Prompts the student to state the specific quantity eaten." },
+    { "ID": 1169, "TalkMove": "None", "Reasoning": "" },
+    { "ID": 1170, "TalkMove": "None", "Reasoning": "" },
+    { "ID": 1171, "TalkMove": "Pressing for Accuracy", "Reasoning": "Encourages students to identify the correct total number of pieces in the whole." },
+    { "ID": 1172, "TalkMove": "None", "Reasoning": "" },
+    { "ID": 1173, "TalkMove": "Keeping Everyone Together", "Reasoning": "Checks that the explanation makes sense to the students." },
+    { "ID": 1174, "TalkMove": "Keeping Everyone Together", "Reasoning": "Checks comprehension with a specific student to ensure shared understanding." },
+    { "ID": 1175, "TalkMove": "None", "Reasoning": "" },
+    { "ID": 1176, "TalkMove": "None", "Reasoning": "" },
+    { "ID": 1177, "TalkMove": "None", "Reasoning": "" },
+    { "ID": 1178, "TalkMove": "None", "Reasoning": "" },
+    { "ID": 1179, "TalkMove": "None", "Reasoning": "" },
+    { "ID": 1181, "TalkMove": "None", "Reasoning": "" },
+    { "ID": 1182, "TalkMove": "Pressing for Accuracy", "Reasoning": "Asks for the precise total amount eaten." },
+    { "ID": 1183, "TalkMove": "Pressing for Reasoning", "Reasoning": "Invites students to consider whether the answer would change in a new scenario and explain why." }
+  ]
+}

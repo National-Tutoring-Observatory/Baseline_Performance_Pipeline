@@ -1,0 +1,53 @@
+{
+  "records": [
+    {
+      "ID": 21256,
+      "Turn": 310,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21259,
+      "Turn": 312,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21270,
+      "Turn": 318,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks for an explanation of how a situation observed by a student came to be."
+    },
+    {
+      "ID": 21273,
+      "Turn": 321,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21274,
+      "Turn": 321,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21275,
+      "Turn": 321,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to provide a specific mathematical contribution by asking how to rewrite an expression."
+    },
+    {
+      "ID": 21276,
+      "Turn": 321,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher repeats the prompt for a specific mathematical contribution, clarifying what part of the expression to focus on."
+    }
+  ]
+}

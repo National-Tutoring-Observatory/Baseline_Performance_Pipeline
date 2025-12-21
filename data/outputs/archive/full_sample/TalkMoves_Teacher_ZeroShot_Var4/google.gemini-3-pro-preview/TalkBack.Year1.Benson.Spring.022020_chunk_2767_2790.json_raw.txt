@@ -1,0 +1,25 @@
+{
+  "records": [
+    {
+      "ID": 2768,
+      "Speaker": "T",
+      "Turn": 2768,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts a student to clarify a vague reference by specifying exactly which number or symbol they are referring to."
+    },
+    {
+      "ID": 2773,
+      "Speaker": "T",
+      "Turn": 2773,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks students to recall and state the specific mathematical term for the answer to a division problem."
+    },
+    {
+      "ID": 2786,
+      "Speaker": "T",
+      "Turn": 2786,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher explicitly directs the students to use the specific mathematical language by vocalizing the term 'quotient'."
+    }
+  ]
+}

@@ -1,0 +1,254 @@
+{
+  "records": [
+    {
+      "ID": 13261,
+      "Speaker": "T",
+      "Turn": 89
+    },
+    {
+      "ID": 13262,
+      "Speaker": "T",
+      "Turn": 89
+    },
+    {
+      "ID": 13264,
+      "Speaker": "T",
+      "Turn": 91
+    },
+    {
+      "ID": 13265,
+      "Speaker": "T",
+      "Turn": 92
+    },
+    {
+      "ID": 13266,
+      "Speaker": "T",
+      "Turn": 92
+    },
+    {
+      "ID": 13267,
+      "Speaker": "T",
+      "Turn": 92
+    },
+    {
+      "ID": 13268,
+      "Speaker": "T",
+      "Turn": 92
+    },
+    {
+      "ID": 13270,
+      "Speaker": "T",
+      "Turn": 94,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to explain their claim ('Why do you say it is'), prompting justification."
+    },
+    {
+      "ID": 13272,
+      "Speaker": "T",
+      "Turn": 96
+    },
+    {
+      "ID": 13273,
+      "Speaker": "T",
+      "Turn": 96,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher encourages students to share what was going on in their brain, asking for the thinking behind answers."
+    },
+    {
+      "ID": 13274,
+      "Speaker": "T",
+      "Turn": 96
+    },
+    {
+      "ID": 13275,
+      "Speaker": "T",
+      "Turn": 96,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher explicitly requests that students share their thinking when called on."
+    },
+    {
+      "ID": 13276,
+      "Speaker": "T",
+      "Turn": 96
+    },
+    {
+      "ID": 13277,
+      "Speaker": "T",
+      "Turn": 96
+    },
+    {
+      "ID": 13278,
+      "Speaker": "T",
+      "Turn": 96
+    },
+    {
+      "ID": 13280,
+      "Speaker": "T",
+      "Turn": 98
+    },
+    {
+      "ID": 13281,
+      "Speaker": "T",
+      "Turn": 98,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher restates and elaborates Sasha’s idea in their own words to clarify it for the class."
+    },
+    {
+      "ID": 13282,
+      "Speaker": "T",
+      "Turn": 98
+    },
+    {
+      "ID": 13283,
+      "Speaker": "T",
+      "Turn": 98
+    },
+    {
+      "ID": 13284,
+      "Speaker": "T",
+      "Turn": 98
+    },
+    {
+      "ID": 13285,
+      "Speaker": "T",
+      "Turn": 98
+    },
+    {
+      "ID": 13286,
+      "Speaker": "T",
+      "Turn": 99
+    },
+    {
+      "ID": 13287,
+      "Speaker": "T",
+      "Turn": 99,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher checks whether the explanation made sense, aiming to keep the whole class engaged and aligned."
+    },
+    {
+      "ID": 13288,
+      "Speaker": "T",
+      "Turn": 99
+    },
+    {
+      "ID": 13289,
+      "Speaker": "T",
+      "Turn": 99
+    },
+    {
+      "ID": 13290,
+      "Speaker": "T",
+      "Turn": 99,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks students to determine which option the expression is closer to, prompting a specific mathematical decision."
+    },
+    {
+      "ID": 13291,
+      "Speaker": "T",
+      "Turn": 99
+    },
+    {
+      "ID": 13292,
+      "Speaker": "T",
+      "Turn": 99
+    },
+    {
+      "ID": 13293,
+      "Speaker": "T",
+      "Turn": 99,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher orients students to the shared options so everyone is attending to the same reference."
+    },
+    {
+      "ID": 13294,
+      "Speaker": "T",
+      "Turn": 99,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher directs students’ attention to the displayed options to maintain a common focus."
+    },
+    {
+      "ID": 13295,
+      "Speaker": "T",
+      "Turn": 99,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher prompts students to choose from the shared set of options, maintaining class alignment."
+    },
+    {
+      "ID": 13296,
+      "Speaker": "T",
+      "Turn": 100
+    },
+    {
+      "ID": 13297,
+      "Speaker": "T",
+      "Turn": 100
+    },
+    {
+      "ID": 13298,
+      "Speaker": "T",
+      "Turn": 100,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the result when combining quantities ('What are they when we put them together'), eliciting a mathematical contribution."
+    },
+    {
+      "ID": 13299,
+      "Speaker": "T",
+      "Turn": 100,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks what the value is closer to, prompting a precise mathematical judgment."
+    },
+    {
+      "ID": 13300,
+      "Speaker": "T",
+      "Turn": 100
+    },
+    {
+      "ID": 13301,
+      "Speaker": "T",
+      "Turn": 100
+    },
+    {
+      "ID": 13302,
+      "Speaker": "T",
+      "Turn": 100
+    },
+    {
+      "ID": 13303,
+      "Speaker": "T",
+      "Turn": 100,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks why one option would be incorrect, prompting justification."
+    },
+    {
+      "ID": 13304,
+      "Speaker": "T",
+      "Turn": 100,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks why 'half' might be incorrect, soliciting explanation of thinking."
+    },
+    {
+      "ID": 13305,
+      "Speaker": "T",
+      "Turn": 100,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher invites students to share their thinking, prompting explanation."
+    },
+    {
+      "ID": 13306,
+      "Speaker": "T",
+      "Turn": 100
+    },
+    {
+      "ID": 13308,
+      "Speaker": "T",
+      "Turn": 102
+    },
+    {
+      "ID": 13310,
+      "Speaker": "T",
+      "Turn": 104,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks whether a quantity is over a half, prompting a precise mathematical evaluation."
+    }
+  ]
+}

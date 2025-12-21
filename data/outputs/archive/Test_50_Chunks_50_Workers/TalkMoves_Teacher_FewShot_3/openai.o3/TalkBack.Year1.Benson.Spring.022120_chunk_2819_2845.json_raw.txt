@@ -1,0 +1,95 @@
+{
+  "records": [
+    {
+      "ID": 2829,
+      "Speaker": "T",
+      "Turn": 1,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2830,
+      "Speaker": "T",
+      "Turn": 1,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Teacher requests students to raise their hands, prompting collective participation and orienting the class."
+    },
+    {
+      "ID": 2831,
+      "Speaker": "T",
+      "Turn": 1,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks a student to state the specific decimal they wrote, eliciting a precise mathematical contribution."
+    },
+    {
+      "ID": 2833,
+      "Speaker": "T",
+      "Turn": 3,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks whether a particular written form is acceptable, prompting students to judge mathematical correctness."
+    },
+    {
+      "ID": 2835,
+      "Speaker": "T",
+      "Turn": 5,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Repeatedly asks if the written representation is acceptable, focusing on correctness."
+    },
+    {
+      "ID": 2837,
+      "Speaker": "T",
+      "Turn": 7,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Again solicits a judgment on the correctness of a representation."
+    },
+    {
+      "ID": 2839,
+      "Speaker": "T",
+      "Turn": 9,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2840,
+      "Speaker": "T",
+      "Turn": 9,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2841,
+      "Speaker": "T",
+      "Turn": 9,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Teacher directs students’ attention to a location, ensuring collective focus."
+    },
+    {
+      "ID": 2842,
+      "Speaker": "T",
+      "Turn": 9,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2843,
+      "Speaker": "T",
+      "Turn": 9,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2844,
+      "Speaker": "T",
+      "Turn": 9,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Teacher invites students who worked on another problem to raise hands, reorienting whole-class participation."
+    },
+    {
+      "ID": 2845,
+      "Speaker": "T",
+      "Turn": 9,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher prompts a student to share the decimal they wrote, requesting a precise mathematical answer."
+    }
+  ]
+}

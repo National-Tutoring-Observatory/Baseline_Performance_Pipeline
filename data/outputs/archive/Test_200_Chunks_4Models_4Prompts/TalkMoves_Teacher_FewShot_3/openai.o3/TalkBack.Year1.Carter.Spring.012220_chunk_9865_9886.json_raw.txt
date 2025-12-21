@@ -1,0 +1,93 @@
+{
+  "Coding": [
+    {
+      "ID": 9865,
+      "Turn": 122,
+      "TalkMove": "None"
+    },
+    {
+      "ID": 9866,
+      "Turn": 123,
+      "TalkMove": "None"
+    },
+    {
+      "ID": 9867,
+      "Turn": 123,
+      "TalkMove": "None"
+    },
+    {
+      "ID": 9868,
+      "Turn": 123,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Teacher directs the class to focus attention (“Eyes up”) so everyone can listen to the speaker."
+    },
+    {
+      "ID": 9871,
+      "Turn": 124,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks the student to explicitly count out the quantities, prompting precise mathematical enumeration."
+    },
+    {
+      "ID": 9872,
+      "Turn": 124,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher requests the student to count by twos on the diagram, seeking an exact demonstration of the calculation."
+    },
+    {
+      "ID": 9873,
+      "Turn": 124,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher asks the student to show how the diagram represents the value two, prompting an explanation of the underlying reasoning."
+    },
+    {
+      "ID": 9874,
+      "Turn": 124,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher asks, “How do you know that’s two?” explicitly requesting justification."
+    },
+    {
+      "ID": 9879,
+      "Turn": 126,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks for the exact number model that matches the representation."
+    },
+    {
+      "ID": 9880,
+      "Turn": 126,
+      "TalkMove": "None"
+    },
+    {
+      "ID": 9881,
+      "Turn": 126,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher repeats the request for a precise number model."
+    },
+    {
+      "ID": 9882,
+      "Turn": 126,
+      "TalkMove": "None"
+    },
+    {
+      "ID": 9883,
+      "Turn": 126,
+      "TalkMove": "None"
+    },
+    {
+      "ID": 9884,
+      "Turn": 127,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks again for a numeric model that accurately represents the quantities."
+    },
+    {
+      "ID": 9885,
+      "Turn": 127,
+      "TalkMove": "None"
+    },
+    {
+      "ID": 9886,
+      "Turn": 127,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher offers an example of the desired number model, clarifying the precise mathematical form."
+    }
+  ]
+}

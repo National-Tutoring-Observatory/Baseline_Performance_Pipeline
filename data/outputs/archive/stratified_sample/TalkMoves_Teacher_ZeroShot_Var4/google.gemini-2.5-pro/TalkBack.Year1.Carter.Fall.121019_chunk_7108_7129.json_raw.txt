@@ -1,0 +1,140 @@
+{
+  "records": [
+    {
+      "ID": 7108,
+      "Turn": 84,
+      "Speaker": "T",
+      "Sentence": "Heres someones actual work and I already see some people questioning some things",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 7109,
+      "Turn": 85,
+      "Speaker": "T",
+      "Sentence": "No",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 7110,
+      "Turn": 85,
+      "Speaker": "T",
+      "Sentence": "Talk with your elbow partner what did you notice about this part",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to share their thinking by asking what they 'notice' about the work."
+    },
+    {
+      "ID": 7111,
+      "Turn": 86,
+      "Speaker": "T",
+      "Sentence": "Back to me please",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 7112,
+      "Turn": 86,
+      "Speaker": "T",
+      "Sentence": "Dylan what observations did you and your partner have about this work",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks a student to share the 'observations' from their partner talk, which prompts them to share their thinking."
+    },
+    {
+      "ID": 7114,
+      "Turn": 88,
+      "Speaker": "T",
+      "Sentence": "Okay but if you look back at the prompt it didnt say where it needs to be it just said he wants to put a picture of a larger book on his folder so is it breaking the rule to have it there",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher presses the student to justify their critique by connecting it to the rules given in the prompt."
+    },
+    {
+      "ID": 7116,
+      "Turn": 90,
+      "Speaker": "T",
+      "Sentence": "No so yes looks like its the same size I agree its supposed to be larger",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 7117,
+      "Turn": 90,
+      "Speaker": "T",
+      "Sentence": "What would you like to add Milan",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 7119,
+      "Turn": 92,
+      "Speaker": "T",
+      "Sentence": "Im sorry it was Vanessa that still had her hand up",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 7120,
+      "Turn": 92,
+      "Speaker": "T",
+      "Sentence": "Sorry",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 7123,
+      "Turn": 94,
+      "Speaker": "T",
+      "Sentence": "Okay so I want to ask you is if somethings larger but in a different location does that mean that it doesnt fit the rule that they ask for",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to explain their thinking by considering whether a specific condition violates the problem's rule."
+    },
+    {
+      "ID": 7124,
+      "Turn": 94,
+      "Speaker": "T",
+      "Sentence": "Lets go back to that original question",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 7125,
+      "Turn": 94,
+      "Speaker": "T",
+      "Sentence": "I think its over here",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 7126,
+      "Turn": 94,
+      "Speaker": "T",
+      "Sentence": "No its over here",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 7127,
+      "Turn": 94,
+      "Speaker": "T",
+      "Sentence": "No its right here",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 7128,
+      "Turn": 94,
+      "Speaker": "T",
+      "Sentence": "After drawing the picture Justly decides he wants to put a picture of a larger book on his folder",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 7129,
+      "Turn": 94,
+      "Speaker": "T",
+      "Sentence": "Does it say that it has to start on these same coordinates in order to be larger",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts students to provide evidence from the problem description to support their reasoning."
+    }
+  ]
+}

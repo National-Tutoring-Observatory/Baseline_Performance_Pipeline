@@ -1,0 +1,154 @@
+[
+  {
+    "ID": 12014,
+    "Turn": 79,
+    "Speaker": "T",
+    "Sentence": "Analyze it",
+    "TalkMove": "None",
+    "Reasoning": null
+  },
+  {
+    "ID": 12015,
+    "Turn": 80,
+    "Speaker": "T",
+    "Sentence": "Does that rule work in each of those instances",
+    "TalkMove": "Pressing for Reasoning",
+    "Reasoning": "The teacher asks students to verify a rule against multiple examples, prompting them to provide evidence for their conclusion."
+  },
+  {
+    "ID": 12017,
+    "Turn": 82,
+    "Speaker": "T",
+    "Sentence": "Yes",
+    "TalkMove": "None",
+    "Reasoning": null
+  },
+  {
+    "ID": 12018,
+    "Turn": 82,
+    "Speaker": "T",
+    "Sentence": "Now I want you to write that algorithm",
+    "TalkMove": "None",
+    "Reasoning": null
+  },
+  {
+    "ID": 12019,
+    "Turn": 82,
+    "Speaker": "T",
+    "Sentence": "Turn the page to 178 please",
+    "TalkMove": "None",
+    "Reasoning": null
+  },
+  {
+    "ID": 12020,
+    "Turn": 82,
+    "Speaker": "T",
+    "Sentence": "See how it says in your own words describe the methods for multiplying fractions discovered in class",
+    "TalkMove": "None",
+    "Reasoning": null
+  },
+  {
+    "ID": 12021,
+    "Turn": 82,
+    "Speaker": "T",
+    "Sentence": "If you need some words spelled for you look up at the word bank",
+    "TalkMove": "None",
+    "Reasoning": null
+  },
+  {
+    "ID": 12022,
+    "Turn": 82,
+    "Speaker": "T",
+    "Sentence": "Numerator I know would be one",
+    "TalkMove": "None",
+    "Reasoning": null
+  },
+  {
+    "ID": 12023,
+    "Turn": 82,
+    "Speaker": "T",
+    "Sentence": "Whats another word that youd like spelled",
+    "TalkMove": "None",
+    "Reasoning": null
+  },
+  {
+    "ID": 12024,
+    "Turn": 82,
+    "Speaker": "T",
+    "Sentence": "Aspen",
+    "TalkMove": "None",
+    "Reasoning": null
+  },
+  {
+    "ID": 12026,
+    "Turn": 84,
+    "Speaker": "T",
+    "Sentence": "Denominator",
+    "TalkMove": "Restating",
+    "Reasoning": "The teacher repeats the student's word 'Denominator' verbatim."
+  },
+  {
+    "ID": 12027,
+    "Turn": 84,
+    "Speaker": "T",
+    "Sentence": "When we use this vocabulary it makes out explanation really clear",
+    "TalkMove": "Pressing for Accuracy",
+    "Reasoning": "The teacher explains the value of using precise mathematical vocabulary, thereby encouraging its use."
+  },
+  {
+    "ID": 12028,
+    "Turn": 84,
+    "Speaker": "T",
+    "Sentence": "Whats another word that youd like",
+    "TalkMove": "None",
+    "Reasoning": null
+  },
+  {
+    "ID": 12030,
+    "Turn": 86,
+    "Speaker": "T",
+    "Sentence": "Algorithm",
+    "TalkMove": "Restating",
+    "Reasoning": "The teacher repeats the student's word 'Algorithm' verbatim."
+  },
+  {
+    "ID": 12031,
+    "Turn": 86,
+    "Speaker": "T",
+    "Sentence": "Thank you",
+    "TalkMove": "None",
+    "Reasoning": null
+  },
+  {
+    "ID": 12032,
+    "Turn": 86,
+    "Speaker": "T",
+    "Sentence": "Im just going to add the word common here",
+    "TalkMove": "None",
+    "Reasoning": null
+  },
+  {
+    "ID": 12033,
+    "Turn": 86,
+    "Speaker": "T",
+    "Sentence": "Do we need a common denominator here",
+    "TalkMove": "Pressing for Accuracy",
+    "Reasoning": "The teacher asks a question to prompt students to be more precise about the mathematical rule they are describing."
+  },
+  {
+    "ID": 12034,
+    "Turn": 86,
+    "Speaker": "T",
+    "Sentence": "Does that rule involve a common denominator",
+    "TalkMove": "Pressing for Accuracy",
+    "Reasoning": "The teacher rephrases the question to press students for a more accurate description of the mathematical procedure."
+  },
+  {
+    "ID": 12035,
+    "Turn": 86,
+    "Speaker": "T",
+    "Sentence": "Look at the examples",
+    "TalkMove": "None",
+    "Reasoning": null
+  }
+]

@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 14068,
+      "Speaker": "T",
+      "Turn": 14068,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 14070,
+      "Speaker": "T",
+      "Turn": 14070,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks a student to come up and 'clearly show where the 1520 came from,' which is a prompt to explain the thinking or justification behind a specific mathematical result."
+    },
+    {
+      "ID": 14073,
+      "Speaker": "T",
+      "Turn": 14073,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher is clarifying the specific mathematical part the student asked about ('the 1520'), ensuring the focus is on the correct numerical value."
+    },
+    {
+      "ID": 14075,
+      "Speaker": "T",
+      "Turn": 14075,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 14077,
+      "Speaker": "T",
+      "Turn": 14077,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 14081,
+      "Speaker": "T",
+      "Turn": 14081,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher explains the logic behind finding the number ('because we already multiply that by five'), modeling the reasoning process."
+    },
+    {
+      "ID": 14082,
+      "Speaker": "T",
+      "Turn": 14082,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the students to recall a specific mathematical rule or procedure ('always multiplying what'), seeking a precise answer."
+    },
+    {
+      "ID": 14083,
+      "Speaker": "T",
+      "Turn": 14083,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher continues the prompt from the previous turn, leading students to the specific answer ('Two things'), focusing on procedural accuracy."
+    },
+    {
+      "ID": 14085,
+      "Speaker": "T",
+      "Turn": 14085,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher explains the consequence of not following the rule ('its not equivalent'), providing the mathematical justification for the procedure."
+    },
+    {
+      "ID": 14086,
+      "Speaker": "T",
+      "Turn": 14086,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 14087,
+      "Speaker": "T",
+      "Turn": 14087,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 14088,
+      "Speaker": "T",
+      "Turn": 14088,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 14089,
+      "Speaker": "T",
+      "Turn": 14089,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 14090,
+      "Speaker": "T",
+      "Turn": 14090,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 14091,
+      "Speaker": "T",
+      "Turn": 14091,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 14092,
+      "Speaker": "T",
+      "Turn": 14092,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 14093,
+      "Speaker": "T",
+      "Turn": 14093,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 14094,
+      "Speaker": "T",
+      "Turn": 14094,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 14096,
+      "Speaker": "T",
+      "Turn": 14096,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 14097,
+      "Speaker": "T",
+      "Turn": 14097,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

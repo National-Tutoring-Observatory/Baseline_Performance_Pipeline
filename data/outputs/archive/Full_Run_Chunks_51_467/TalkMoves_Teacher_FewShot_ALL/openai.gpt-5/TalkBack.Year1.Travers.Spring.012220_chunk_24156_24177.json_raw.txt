@@ -1,0 +1,109 @@
+{
+  "records": [
+    {
+      "ID": 24156,
+      "Speaker": "T",
+      "Turn": 206,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24157,
+      "Speaker": "T",
+      "Turn": 206,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24158,
+      "Speaker": "T",
+      "Turn": 206,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24159,
+      "Speaker": "T",
+      "Turn": 207,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to determine a specific mathematical quantity (one-third), eliciting a precise value."
+    },
+    {
+      "ID": 24161,
+      "Speaker": "T",
+      "Turn": 208,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the value of one-third of nine, requesting a specific computation."
+    },
+    {
+      "ID": 24162,
+      "Speaker": "T",
+      "Turn": 209,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24163,
+      "Speaker": "T",
+      "Turn": 209,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24164,
+      "Speaker": "T",
+      "Turn": 210,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher cues students to compute two-thirds given one-third is three, eliciting a numerical result."
+    },
+    {
+      "ID": 24165,
+      "Speaker": "T",
+      "Turn": 210,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for one-third of 24, calling for a specific mathematical answer."
+    },
+    {
+      "ID": 24167,
+      "Speaker": "T",
+      "Turn": 212,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's answer ('Eight') verbatim."
+    },
+    {
+      "ID": 24169,
+      "Speaker": "T",
+      "Turn": 213,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24170,
+      "Speaker": "T",
+      "Turn": 214,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts for the value of two-thirds of 24, seeking a precise computation."
+    },
+    {
+      "ID": 24172,
+      "Speaker": "T",
+      "Turn": 216,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24176,
+      "Speaker": "T",
+      "Turn": 220,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to articulate their next step, eliciting their thinking process."
+    },
+    {
+      "ID": 24177,
+      "Speaker": "T",
+      "Turn": 220,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

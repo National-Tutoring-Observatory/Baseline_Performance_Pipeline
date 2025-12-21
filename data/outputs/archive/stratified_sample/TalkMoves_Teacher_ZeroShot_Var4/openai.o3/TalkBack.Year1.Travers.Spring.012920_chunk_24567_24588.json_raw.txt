@@ -1,0 +1,88 @@
+{
+  "records": [
+    {
+      "ID": 24572,
+      "Speaker": "T",
+      "Turn": 68,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher echoes the student’s idea, beginning to restate that each number shares a common feature, thus rephrasing the student’s contribution."
+    },
+    {
+      "ID": 24574,
+      "Speaker": "T",
+      "Turn": 70,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Adds wording (\"With an equal amount of space\") to clarify and extend the student’s idea about equal intervals."
+    },
+    {
+      "ID": 24576,
+      "Speaker": "T",
+      "Turn": 72,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Directs the class’s attention to a peer group’s discussion so all students stay engaged with one another’s ideas."
+    },
+    {
+      "ID": 24577,
+      "Speaker": "T",
+      "Turn": 72,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Invites a student group to share their conversation with the whole class, orienting everyone to listen."
+    },
+    {
+      "ID": 24578,
+      "Speaker": "T",
+      "Turn": 72,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24579,
+      "Speaker": "T",
+      "Turn": 72,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Restates the student’s point about having the same interval/space, paraphrasing their contribution for the class."
+    },
+    {
+      "ID": 24580,
+      "Speaker": "T",
+      "Turn": 72,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Asks students to explain the meaning and importance of equal intervals, prompting them for justification."
+    },
+    {
+      "ID": 24582,
+      "Speaker": "T",
+      "Turn": 74,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Paraphrases and elaborates on the student’s comment about measurement units, restating it in more precise terms."
+    },
+    {
+      "ID": 24583,
+      "Speaker": "T",
+      "Turn": 74,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24584,
+      "Speaker": "T",
+      "Turn": 74,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Encourages a student to select the next speaker, facilitating peer-to-peer engagement."
+    },
+    {
+      "ID": 24587,
+      "Speaker": "T",
+      "Turn": 77,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks the student to clarify the referent of 'them,' prompting more precise language."
+    },
+    {
+      "ID": 24588,
+      "Speaker": "T",
+      "Turn": 77,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Begins to repeat and clarify the student’s phrase ('The difference in between the...'), rephrasing their idea."
+    }
+  ]
+}

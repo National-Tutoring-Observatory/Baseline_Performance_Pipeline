@@ -1,0 +1,74 @@
+{
+  "records": [
+    {
+      "ID": 20784,
+      "Speaker": "T",
+      "Turn": 24,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20785,
+      "Speaker": "T",
+      "Turn": 25,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20786,
+      "Speaker": "T",
+      "Turn": 25,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20787,
+      "Speaker": "T",
+      "Turn": 25,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20790,
+      "Speaker": "T",
+      "Turn": 28,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20792,
+      "Speaker": "T",
+      "Turn": 30,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20795,
+      "Speaker": "T",
+      "Turn": 33,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20797,
+      "Speaker": "T",
+      "Turn": 35,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20799,
+      "Speaker": "T",
+      "Turn": 37,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher redirects a student's question to a peer, orienting them to use each other as a resource."
+    },
+    {
+      "ID": 20800,
+      "Speaker": "T",
+      "Turn": 37,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher reinforces the redirection to a peer by stating that the peer has the answer, thus orienting students to each other."
+    }
+  ]
+}

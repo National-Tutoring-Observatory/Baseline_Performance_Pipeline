@@ -1,0 +1,123 @@
+{
+  "records": [
+    {
+      "ID": 21088,
+      "Speaker": "T",
+      "Turn": 223,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21089,
+      "Speaker": "T",
+      "Turn": 223,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks whether 8 can be expressed as a power of 3, prompting a precise mathematical representation (e.g., 2^3)."
+    },
+    {
+      "ID": 21093,
+      "Speaker": "T",
+      "Turn": 225,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21094,
+      "Speaker": "T",
+      "Turn": 225,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21095,
+      "Speaker": "T",
+      "Turn": 225,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21096,
+      "Speaker": "T",
+      "Turn": 225,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21097,
+      "Speaker": "T",
+      "Turn": 225,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student contribution by summarizing their answer as 'nine.'"
+    },
+    {
+      "ID": 21098,
+      "Speaker": "T",
+      "Turn": 225,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks what the squared expression should equal, prompting a correct mathematical value."
+    },
+    {
+      "ID": 21099,
+      "Speaker": "T",
+      "Turn": 225,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher checks the correctness of a computation (whether 9×9×9 equals 27), pressing for accurate mathematics."
+    },
+    {
+      "ID": 21101,
+      "Speaker": "T",
+      "Turn": 227,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21102,
+      "Speaker": "T",
+      "Turn": 227,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21103,
+      "Speaker": "T",
+      "Turn": 227,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21104,
+      "Speaker": "T",
+      "Turn": 227,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21105,
+      "Speaker": "T",
+      "Turn": 227,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21106,
+      "Speaker": "T",
+      "Turn": 227,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts a student to explain the problem to their team, eliciting their thinking process."
+    },
+    {
+      "ID": 21107,
+      "Speaker": "T",
+      "Turn": 227,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher directs students to talk with their team, orienting them to each other for discussion."
+    },
+    {
+      "ID": 21108,
+      "Speaker": "T",
+      "Turn": 227,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks how to solve the problem, prompting students to explain their approach."
+    }
+  ]
+}

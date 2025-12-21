@@ -1,0 +1,123 @@
+{
+  "records": [
+    {
+      "ID": 20052,
+      "Turn": 60,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases the student's implied thinking into a more formal mathematical description of the graph's end behavior."
+    },
+    {
+      "ID": 20054,
+      "Turn": 62,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to complete a mathematical statement, pushing for a specific contribution about the function's behavior."
+    },
+    {
+      "ID": 20056,
+      "Turn": 64,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20057,
+      "Turn": 64,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to make a specific mathematical contribution by describing the behavior of the Y values."
+    },
+    {
+      "ID": 20059,
+      "Turn": 66,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's contribution ('Theyre going to positive') but slightly changes the wording to 'Theyre getting really positive'."
+    },
+    {
+      "ID": 20060,
+      "Turn": 66,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20062,
+      "Turn": 68,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20063,
+      "Turn": 68,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20064,
+      "Turn": 68,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20065,
+      "Turn": 68,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20066,
+      "Turn": 68,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20067,
+      "Turn": 69,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20068,
+      "Turn": 69,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20069,
+      "Turn": 69,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20070,
+      "Turn": 69,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20071,
+      "Turn": 69,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20072,
+      "Turn": 69,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

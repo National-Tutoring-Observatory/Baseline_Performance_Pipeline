@@ -1,0 +1,152 @@
+{
+  "records": [
+    {
+      "ID": 350,
+      "Turn": 173,
+      "Speaker": "T",
+      "TalkMove": "None"
+    },
+    {
+      "ID": 351,
+      "Turn": 173,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher prompts for the exact value of a specific digit."
+    },
+    {
+      "ID": 353,
+      "Turn": 175,
+      "Speaker": "T",
+      "TalkMove": "None"
+    },
+    {
+      "ID": 354,
+      "Turn": 175,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks students to name the prior digit value accurately."
+    },
+    {
+      "ID": 356,
+      "Turn": 177,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks for the value of a digit."
+    },
+    {
+      "ID": 358,
+      "Turn": 179,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher prompts for the value of another digit."
+    },
+    {
+      "ID": 361,
+      "Turn": 182,
+      "Speaker": "T",
+      "TalkMove": "None"
+    },
+    {
+      "ID": 362,
+      "Turn": 182,
+      "Speaker": "T",
+      "TalkMove": "None"
+    },
+    {
+      "ID": 363,
+      "Turn": 182,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks what a digit is worth."
+    },
+    {
+      "ID": 366,
+      "Turn": 185,
+      "Speaker": "T",
+      "TalkMove": "None"
+    },
+    {
+      "ID": 367,
+      "Turn": 185,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher prompts students to supply the product of two values."
+    },
+    {
+      "ID": 369,
+      "Turn": 187,
+      "Speaker": "T",
+      "TalkMove": "None"
+    },
+    {
+      "ID": 370,
+      "Turn": 187,
+      "Speaker": "T",
+      "TalkMove": "None"
+    },
+    {
+      "ID": 371,
+      "Turn": 187,
+      "Speaker": "T",
+      "TalkMove": "None"
+    },
+    {
+      "ID": 372,
+      "Turn": 187,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks for a specific multiplication fact."
+    },
+    {
+      "ID": 374,
+      "Turn": 189,
+      "Speaker": "T",
+      "TalkMove": "None"
+    },
+    {
+      "ID": 375,
+      "Turn": 189,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks for a multiplication fact."
+    },
+    {
+      "ID": 378,
+      "Turn": 192,
+      "Speaker": "T",
+      "TalkMove": "None"
+    },
+    {
+      "ID": 379,
+      "Turn": 192,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher prompts students to compute 10 × 4."
+    },
+    {
+      "ID": 381,
+      "Turn": 194,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher prompts students to compute 7 × 4."
+    },
+    {
+      "ID": 383,
+      "Turn": 196,
+      "Speaker": "T",
+      "TalkMove": "None"
+    },
+    {
+      "ID": 384,
+      "Turn": 196,
+      "Speaker": "T",
+      "TalkMove": "None"
+    },
+    {
+      "ID": 386,
+      "Turn": 198,
+      "Speaker": "T",
+      "TalkMove": "None"
+    }
+  ]
+}

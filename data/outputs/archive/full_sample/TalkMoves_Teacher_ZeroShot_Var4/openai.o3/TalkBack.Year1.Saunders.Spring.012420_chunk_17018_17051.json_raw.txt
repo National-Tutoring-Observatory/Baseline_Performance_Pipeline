@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 17018,
+      "Speaker": "T",
+      "Turn": 17018,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17019,
+      "Speaker": "T",
+      "Turn": 17019,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17021,
+      "Speaker": "T",
+      "Turn": 17021,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17023,
+      "Speaker": "T",
+      "Turn": 17023,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17026,
+      "Speaker": "T",
+      "Turn": 17026,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17029,
+      "Speaker": "T",
+      "Turn": 17029,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17030,
+      "Speaker": "T",
+      "Turn": 17030,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks for the precise meaning of the symbol P, prompting students to supply the correct mathematical term."
+    },
+    {
+      "ID": 17032,
+      "Speaker": "T",
+      "Turn": 17032,
+      "TalkMove": "Restating",
+      "Reasoning": "Teacher repeats the student-supplied answer 'Profit' verbatim."
+    },
+    {
+      "ID": 17033,
+      "Speaker": "T",
+      "Turn": 17033,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks what the symbol T stands for, requesting the exact definition."
+    },
+    {
+      "ID": 17035,
+      "Speaker": "T",
+      "Turn": 17035,
+      "TalkMove": "Restating",
+      "Reasoning": "Teacher echoes the student’s response 'Time' word-for-word."
+    },
+    {
+      "ID": 17037,
+      "Speaker": "T",
+      "Turn": 17037,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks students to specify the input and output variables, seeking correct identification."
+    },
+    {
+      "ID": 17038,
+      "Speaker": "T",
+      "Turn": 17038,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher narrows the question to elicit the exact input variable, emphasizing precise identification."
+    },
+    {
+      "ID": 17040,
+      "Speaker": "T",
+      "Turn": 17040,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher restates and elaborates on the student’s answer, phrasing it as 'we’re inputting the number of…'."
+    },
+    {
+      "ID": 17042,
+      "Speaker": "T",
+      "Turn": 17042,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher continues to extend the student’s idea, completing the thought about years and profit."
+    },
+    {
+      "ID": 17044,
+      "Speaker": "T",
+      "Turn": 17044,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher further elaborates the student’s contribution, specifying the output as profit."
+    },
+    {
+      "ID": 17045,
+      "Speaker": "T",
+      "Turn": 17045,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17046,
+      "Speaker": "T",
+      "Turn": 17046,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks students to classify the A value as positive, negative, or zero, requesting a precise mathematical description."
+    },
+    {
+      "ID": 17048,
+      "Speaker": "T",
+      "Turn": 17048,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17050,
+      "Speaker": "T",
+      "Turn": 17050,
+      "TalkMove": "Restating",
+      "Reasoning": "Teacher repeats the student’s answer 'Positive' exactly."
+    },
+    {
+      "ID": 17051,
+      "Speaker": "T",
+      "Turn": 17051,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

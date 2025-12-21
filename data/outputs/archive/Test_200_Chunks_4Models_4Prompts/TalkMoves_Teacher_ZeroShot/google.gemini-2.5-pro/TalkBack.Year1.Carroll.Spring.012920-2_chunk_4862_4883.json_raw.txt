@@ -1,0 +1,156 @@
+{
+  "records": [
+    {
+      "ID": 4862,
+      "Turn": 114,
+      "Speaker": "T",
+      "Sentence": "Now if you were doing this you could actually get the fraction circles to help you because then youll know for sure",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4863,
+      "Turn": 114,
+      "Speaker": "T",
+      "Sentence": "Okay",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4864,
+      "Turn": 114,
+      "Speaker": "T",
+      "Sentence": "So now I have one two three four five six seven eight",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4865,
+      "Turn": 114,
+      "Speaker": "T",
+      "Sentence": "This is 812",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4866,
+      "Turn": 114,
+      "Speaker": "T",
+      "Sentence": "So 23 equals 812",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4867,
+      "Turn": 114,
+      "Speaker": "T",
+      "Sentence": "Lydia asked me she said Isnt 34 and 23 equivalent",
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats a question a student asked earlier, bringing the student's idea into the public space."
+    },
+    {
+      "ID": 4868,
+      "Turn": 114,
+      "Speaker": "T",
+      "Sentence": "Theyre pretty close arent they",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4869,
+      "Turn": 114,
+      "Speaker": "T",
+      "Sentence": "Theyre pretty close but 34 is a little bit bigger",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4870,
+      "Turn": 114,
+      "Speaker": "T",
+      "Sentence": "Its 112 bigger than two thirds",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4872,
+      "Turn": 116,
+      "Speaker": "T",
+      "Sentence": "Okay",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4873,
+      "Turn": 116,
+      "Speaker": "T",
+      "Sentence": "A little bit",
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's exact words from the previous turn."
+    },
+    {
+      "ID": 4874,
+      "Turn": 116,
+      "Speaker": "T",
+      "Sentence": "Okay now that I have fractions that are the same have the same denominator I can now add them",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4875,
+      "Turn": 116,
+      "Speaker": "T",
+      "Sentence": "My denominator is going to be what",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to make a specific mathematical contribution by stating the denominator."
+    },
+    {
+      "ID": 4877,
+      "Turn": 118,
+      "Speaker": "T",
+      "Sentence": "Twelve because we never add the denominator",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's answer ('Twelve') and adds a mathematical rule to clarify the student's contribution."
+    },
+    {
+      "ID": 4878,
+      "Turn": 118,
+      "Speaker": "T",
+      "Sentence": "We have to have a common denominator to add the numerator",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4879,
+      "Turn": 118,
+      "Speaker": "T",
+      "Sentence": "So 8  9 is",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to make a specific mathematical contribution by providing the result of a calculation."
+    },
+    {
+      "ID": 4881,
+      "Turn": 120,
+      "Speaker": "T",
+      "Sentence": "Seventeen",
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's answer word for word."
+    },
+    {
+      "ID": 4882,
+      "Turn": 120,
+      "Speaker": "T",
+      "Sentence": "Okay",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4883,
+      "Turn": 120,
+      "Speaker": "T",
+      "Sentence": "12s tells me what",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts students to explain the meaning of the fraction, asking them to share their thinking about what the number represents."
+    }
+  ]
+}

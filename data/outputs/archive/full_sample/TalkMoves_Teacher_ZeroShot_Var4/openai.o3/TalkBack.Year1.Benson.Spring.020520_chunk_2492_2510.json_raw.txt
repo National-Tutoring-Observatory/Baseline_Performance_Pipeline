@@ -1,0 +1,95 @@
+{
+  "records": [
+    {
+      "ID": 2492,
+      "Speaker": "T",
+      "Turn": 2492,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher asks why the student multiplied by three, prompting an explanation of their reasoning."
+    },
+    {
+      "ID": 2494,
+      "Speaker": "T",
+      "Turn": 2494,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher restates the student’s idea in mathematical language (“It’s 300 × 3”), slightly reformulating the contribution."
+    },
+    {
+      "ID": 2496,
+      "Speaker": "T",
+      "Turn": 2496,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "By asking, “how did he go,” the teacher invites others to consider and respond to a classmate’s method."
+    },
+    {
+      "ID": 2497,
+      "Speaker": "T",
+      "Turn": 2497,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher requests the exact product of 300 × 3, prompting a precise mathematical answer."
+    },
+    {
+      "ID": 2499,
+      "Speaker": "T",
+      "Turn": 2499,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks for the specific value of 10 × 3, seeking a correct numerical answer."
+    },
+    {
+      "ID": 2501,
+      "Speaker": "T",
+      "Turn": 2501,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Requests the exact result of 2 × 3, prompting a precise calculation."
+    },
+    {
+      "ID": 2503,
+      "Speaker": "T",
+      "Turn": 2503,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks students to sum 900 + 30 + 6, soliciting an accurate computation."
+    },
+    {
+      "ID": 2505,
+      "Speaker": "T",
+      "Turn": 2505,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2506,
+      "Speaker": "T",
+      "Turn": 2506,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2507,
+      "Speaker": "T",
+      "Turn": 2507,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Invites the whole class to ask questions, ensuring collective understanding."
+    },
+    {
+      "ID": 2508,
+      "Speaker": "T",
+      "Turn": 2508,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2509,
+      "Speaker": "T",
+      "Turn": 2509,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2510,
+      "Speaker": "T",
+      "Turn": 2510,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

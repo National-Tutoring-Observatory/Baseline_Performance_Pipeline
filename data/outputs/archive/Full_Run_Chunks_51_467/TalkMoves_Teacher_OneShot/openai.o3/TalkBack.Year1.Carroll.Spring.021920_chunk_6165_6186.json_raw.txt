@@ -1,0 +1,74 @@
+{
+  "records": [
+    {
+      "ID": 6165,
+      "Speaker": "T",
+      "Turn": 27,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 6167,
+      "Speaker": "T",
+      "Turn": 29,
+      "TalkMove": "Restating",
+      "Reasoning": "Teacher repeats the exact phrase ('The word several') that the student just used."
+    },
+    {
+      "ID": 6169,
+      "Speaker": "T",
+      "Turn": 31,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 6171,
+      "Speaker": "T",
+      "Turn": 33,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher prompts the student to specify the precise phrase ('How many more') they should use."
+    },
+    {
+      "ID": 6177,
+      "Speaker": "T",
+      "Turn": 36,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher again urges the student to use the exact mathematical language ('How many more')."
+    },
+    {
+      "ID": 6178,
+      "Speaker": "T",
+      "Turn": 36,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 6180,
+      "Speaker": "T",
+      "Turn": 38,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 6183,
+      "Speaker": "T",
+      "Turn": 40,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 6185,
+      "Speaker": "T",
+      "Turn": 42,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 6186,
+      "Speaker": "T",
+      "Turn": 42,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher asks the student to report what their team discussed, eliciting their thinking."
+    }
+  ]
+}

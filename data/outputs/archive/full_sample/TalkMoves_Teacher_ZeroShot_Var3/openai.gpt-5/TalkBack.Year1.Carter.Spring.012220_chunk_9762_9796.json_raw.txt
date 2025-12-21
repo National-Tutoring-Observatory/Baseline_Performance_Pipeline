@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 9762,
+      "Speaker": "T",
+      "Turn": 9762,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 9764,
+      "Speaker": "T",
+      "Turn": 9764,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks how the problem works, inviting an explanation of the reasoning."
+    },
+    {
+      "ID": 9765,
+      "Speaker": "T",
+      "Turn": 9765,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 9767,
+      "Speaker": "T",
+      "Turn": 9767,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to supply a specific calculation."
+    },
+    {
+      "ID": 9769,
+      "Speaker": "T",
+      "Turn": 9769,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for a precise computed value."
+    },
+    {
+      "ID": 9771,
+      "Speaker": "T",
+      "Turn": 9771,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks 'Why,' prompting justification."
+    },
+    {
+      "ID": 9773,
+      "Speaker": "T",
+      "Turn": 9773,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 9774,
+      "Speaker": "T",
+      "Turn": 9774,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher cues the student to complete the product 6 × 3."
+    },
+    {
+      "ID": 9776,
+      "Speaker": "T",
+      "Turn": 9776,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 9777,
+      "Speaker": "T",
+      "Turn": 9777,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 9778,
+      "Speaker": "T",
+      "Turn": 9778,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 9779,
+      "Speaker": "T",
+      "Turn": 9779,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 9780,
+      "Speaker": "T",
+      "Turn": 9780,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 9781,
+      "Speaker": "T",
+      "Turn": 9781,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students what they notice, prompting them to share observations and thinking."
+    },
+    {
+      "ID": 9782,
+      "Speaker": "T",
+      "Turn": 9782,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks for the connection between two tables, prompting students to explain relationships."
+    },
+    {
+      "ID": 9783,
+      "Speaker": "T",
+      "Turn": 9783,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 9790,
+      "Speaker": "T",
+      "Turn": 9790,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks for justification of multiplying by three."
+    },
+    {
+      "ID": 9792,
+      "Speaker": "T",
+      "Turn": 9792,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 9795,
+      "Speaker": "T",
+      "Turn": 9795,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's phrasing 'three times as much' while framing the idea."
+    },
+    {
+      "ID": 9796,
+      "Speaker": "T",
+      "Turn": 9796,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher references and restates the student's idea ('three times as much'), adding the teacher’s framing."
+    }
+  ]
+}

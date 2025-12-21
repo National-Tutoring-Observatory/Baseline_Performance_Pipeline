@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 27054,
+      "Speaker": "T",
+      "Turn": 27054,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 27055,
+      "Speaker": "T",
+      "Turn": 27055,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to interpret the meaning of the question ('Do you think that they mean...'), prompting them to explain their understanding of the task constraints."
+    },
+    {
+      "ID": 27056,
+      "Speaker": "T",
+      "Turn": 27056,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher continues to probe the students' interpretation of the task ('Do you think they mean like it doesnt have to be purple...'), asking them to reason about the properties of the wedges."
+    },
+    {
+      "ID": 27058,
+      "Speaker": "T",
+      "Turn": 27058,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 27059,
+      "Speaker": "T",
+      "Turn": 27059,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 27060,
+      "Speaker": "T",
+      "Turn": 27060,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher gives a specific directive to perform a mathematical task ('fit some wedges into the angle and have it fit perfectly')."
+    },
+    {
+      "ID": 27062,
+      "Speaker": "T",
+      "Turn": 27062,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 27063,
+      "Speaker": "T",
+      "Turn": 27063,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 27067,
+      "Speaker": "T",
+      "Turn": 27067,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 27068,
+      "Speaker": "T",
+      "Turn": 27068,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to attempt the mathematical task using a different method ('try it out a different way')."
+    },
+    {
+      "ID": 27069,
+      "Speaker": "T",
+      "Turn": 27069,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 27071,
+      "Speaker": "T",
+      "Turn": 27071,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 27072,
+      "Speaker": "T",
+      "Turn": 27072,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks a 'Why' question regarding the discrepancy in measurements, prompting students to explain the underlying mathematical concept."
+    },
+    {
+      "ID": 27073,
+      "Speaker": "T",
+      "Turn": 27073,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 27074,
+      "Speaker": "T",
+      "Turn": 27074,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks a conceptual question ('Do other wedges create measurement'), prompting students to connect the tool to the concept of measurement."
+    },
+    {
+      "ID": 27076,
+      "Speaker": "T",
+      "Turn": 27076,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks for student thinking regarding the function of a specific item ('What do you think that one does')."
+    },
+    {
+      "ID": 27077,
+      "Speaker": "T",
+      "Turn": 27077,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 27078,
+      "Speaker": "T",
+      "Turn": 27078,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 27079,
+      "Speaker": "T",
+      "Turn": 27079,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 27080,
+      "Speaker": "T",
+      "Turn": 27080,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to solve the specific problem ('figure out what fits four on here')."
+    }
+  ]
+}

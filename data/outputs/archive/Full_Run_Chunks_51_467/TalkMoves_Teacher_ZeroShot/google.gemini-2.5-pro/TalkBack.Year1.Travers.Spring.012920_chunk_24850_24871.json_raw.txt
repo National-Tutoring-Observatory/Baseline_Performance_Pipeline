@@ -1,0 +1,156 @@
+{
+  "records": [
+    {
+      "ID": 24850,
+      "Turn": 194,
+      "Speaker": "S",
+      "Sentence": "Two"
+    },
+    {
+      "ID": 24851,
+      "Turn": 195,
+      "Speaker": "T",
+      "Sentence": "Lets look at the data",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher directs the students' attention to a shared artifact to ensure the group is focused on the same task."
+    },
+    {
+      "ID": 24852,
+      "Turn": 196,
+      "Speaker": "S",
+      "Sentence": "One"
+    },
+    {
+      "ID": 24853,
+      "Turn": 197,
+      "Speaker": "S",
+      "Sentence": "Two"
+    },
+    {
+      "ID": 24854,
+      "Turn": 197,
+      "Speaker": "S",
+      "Sentence": "Two"
+    },
+    {
+      "ID": 24855,
+      "Turn": 198,
+      "Speaker": "T",
+      "Sentence": "We have two",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the students' answer of 'two' but adds the words 'We have' to frame it as a collective finding."
+    },
+    {
+      "ID": 24856,
+      "Turn": 198,
+      "Speaker": "T",
+      "Sentence": "Here is four inches and four inches",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24857,
+      "Turn": 198,
+      "Speaker": "T",
+      "Sentence": "Oops time is up",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24858,
+      "Turn": 198,
+      "Speaker": "T",
+      "Sentence": "Are we at 4 12 now",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher asks a question to check if the entire class is at the same point in the data analysis."
+    },
+    {
+      "ID": 24859,
+      "Turn": 199,
+      "Speaker": "S",
+      "Sentence": "Yes"
+    },
+    {
+      "ID": 24860,
+      "Turn": 200,
+      "Speaker": "T",
+      "Sentence": "How many 4 12 did we have",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to provide a specific numerical value from the data, which is a precise mathematical contribution."
+    },
+    {
+      "ID": 24861,
+      "Turn": 201,
+      "Speaker": "S",
+      "Sentence": "Two"
+    },
+    {
+      "ID": 24862,
+      "Turn": 202,
+      "Speaker": "T",
+      "Sentence": "Two",
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's answer 'Two' word for word."
+    },
+    {
+      "ID": 24863,
+      "Turn": 203,
+      "Speaker": "S",
+      "Sentence": "Wait two"
+    },
+    {
+      "ID": 24864,
+      "Turn": 204,
+      "Speaker": "S",
+      "Sentence": "Yes"
+    },
+    {
+      "ID": 24865,
+      "Turn": 205,
+      "Speaker": "S",
+      "Sentence": "Oh my God yes two"
+    },
+    {
+      "ID": 24866,
+      "Turn": 206,
+      "Speaker": "T",
+      "Sentence": "Is that the highest",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to make a comparative judgment about the data, which requires them to reason about the data set."
+    },
+    {
+      "ID": 24867,
+      "Turn": 207,
+      "Speaker": "S",
+      "Sentence": "Yes its the highest"
+    },
+    {
+      "ID": 24868,
+      "Turn": 207,
+      "Speaker": "S",
+      "Sentence": "thats the highest"
+    },
+    {
+      "ID": 24869,
+      "Turn": 208,
+      "Speaker": "T",
+      "Sentence": "Heres 4 12 and 4 12",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24870,
+      "Turn": 208,
+      "Speaker": "T",
+      "Sentence": "Is that the greatest",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to make a comparative judgment about the data, prompting them to reason about the data set."
+    },
+    {
+      "ID": 24871,
+      "Turn": 209,
+      "Speaker": "S",
+      "Sentence": "Yes"
+    }
+  ]
+}

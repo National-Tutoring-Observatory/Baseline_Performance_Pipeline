@@ -1,0 +1,123 @@
+{
+  "records": [
+    {
+      "ID": 2261,
+      "Turn": 203,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2263,
+      "Turn": 205,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks a question to prompt the student to think about the mathematical principle of subtraction."
+    },
+    {
+      "ID": 2265,
+      "Turn": 207,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2266,
+      "Turn": 207,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to use correct mathematical notation (a dollar sign)."
+    },
+    {
+      "ID": 2267,
+      "Turn": 208,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2268,
+      "Turn": 208,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher instructs the student to use correct mathematical notation."
+    },
+    {
+      "ID": 2269,
+      "Turn": 208,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2270,
+      "Turn": 208,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2271,
+      "Turn": 209,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2272,
+      "Turn": 209,
+      "Speaker": "T",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher directs students to listen carefully to their classmates, orienting them to each other."
+    },
+    {
+      "ID": 2273,
+      "Turn": 209,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher sets the expectation for students to explain 'why' they used specific numbers, prompting for justification."
+    },
+    {
+      "ID": 2274,
+      "Turn": 209,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher gives a specific example of how to provide a justification, asking students to explain 'why' they performed a certain calculation."
+    },
+    {
+      "ID": 2275,
+      "Turn": 209,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2276,
+      "Turn": 209,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2277,
+      "Turn": 209,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2279,
+      "Turn": 211,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2281,
+      "Turn": 213,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "records": [
+    {
+      "ID": 18389,
+      "Speaker": "T",
+      "Turn": 18389
+    },
+    {
+      "ID": 18390,
+      "Speaker": "T",
+      "Turn": 18390
+    },
+    {
+      "ID": 18391,
+      "Speaker": "T",
+      "Turn": 18391,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks students to state precisely what common factor can be taken out of the expression, prompting a specific mathematical contribution."
+    },
+    {
+      "ID": 18392,
+      "Speaker": "T",
+      "Turn": 18392
+    },
+    {
+      "ID": 18393,
+      "Speaker": "T",
+      "Turn": 18393,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher requests an explanation of what pattern needed to be recognized, asking for students’ underlying thinking."
+    },
+    {
+      "ID": 18395,
+      "Speaker": "T",
+      "Turn": 18395
+    },
+    {
+      "ID": 18396,
+      "Speaker": "T",
+      "Turn": 18396,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher seeks the exact name of the mathematical pattern present in the expression."
+    },
+    {
+      "ID": 18398,
+      "Speaker": "T",
+      "Turn": 18398
+    },
+    {
+      "ID": 18399,
+      "Speaker": "T",
+      "Turn": 18399
+    },
+    {
+      "ID": 18400,
+      "Speaker": "T",
+      "Turn": 18400
+    },
+    {
+      "ID": 18401,
+      "Speaker": "T",
+      "Turn": 18401
+    },
+    {
+      "ID": 18402,
+      "Speaker": "T",
+      "Turn": 18402
+    },
+    {
+      "ID": 18403,
+      "Speaker": "T",
+      "Turn": 18403
+    },
+    {
+      "ID": 18404,
+      "Speaker": "T",
+      "Turn": 18404
+    },
+    {
+      "ID": 18405,
+      "Speaker": "T",
+      "Turn": 18405,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts students to explain how to rewrite the expression to reveal the pattern, asking for their reasoning process."
+    },
+    {
+      "ID": 18406,
+      "Speaker": "T",
+      "Turn": 18406,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Again asks students to explain how to rewrite x^4 to show the pattern, eliciting their thinking."
+    },
+    {
+      "ID": 18407,
+      "Speaker": "T",
+      "Turn": 18407,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student’s suggested rewriting (‘x2’) exactly, echoing the student’s words."
+    },
+    {
+      "ID": 18408,
+      "Speaker": "T",
+      "Turn": 18408,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher echoes the student’s addition of the word ‘squared,’ repeating it verbatim."
+    },
+    {
+      "ID": 18409,
+      "Speaker": "T",
+      "Turn": 18409,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The open question ‘What do you think?’ invites students to share and justify their ideas."
+    },
+    {
+      "ID": 18410,
+      "Speaker": "T",
+      "Turn": 18410
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 8298,
+      "Speaker": "T",
+      "Turn": 8298,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8299,
+      "Speaker": "T",
+      "Turn": 8299,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8300,
+      "Speaker": "T",
+      "Turn": 8300,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8301,
+      "Speaker": "T",
+      "Turn": 8301,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8302,
+      "Speaker": "T",
+      "Turn": 8302,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8303,
+      "Speaker": "T",
+      "Turn": 8303,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8304,
+      "Speaker": "T",
+      "Turn": 8304,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts a student to share their thinking and explain what they discovered."
+    },
+    {
+      "ID": 8306,
+      "Speaker": "T",
+      "Turn": 8306,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8307,
+      "Speaker": "T",
+      "Turn": 8307,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to explain the process she used to arrive at her answer."
+    },
+    {
+      "ID": 8309,
+      "Speaker": "T",
+      "Turn": 8309,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's idea, likely clarifying or rephrasing it for the class."
+    },
+    {
+      "ID": 8311,
+      "Speaker": "T",
+      "Turn": 8311,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8312,
+      "Speaker": "T",
+      "Turn": 8312,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8313,
+      "Speaker": "T",
+      "Turn": 8313,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher directs students' attention to the front of the room to ensure they are all focused on the upcoming point."
+    },
+    {
+      "ID": 8314,
+      "Speaker": "T",
+      "Turn": 8314,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks students to evaluate the correctness of a mathematical representation she has written."
+    },
+    {
+      "ID": 8315,
+      "Speaker": "T",
+      "Turn": 8315,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8316,
+      "Speaker": "T",
+      "Turn": 8316,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats a contribution made by a group of students, bringing their idea into the whole-class discussion."
+    },
+    {
+      "ID": 8317,
+      "Speaker": "T",
+      "Turn": 8317,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to state a specific and precise mathematical rule."
+    },
+    {
+      "ID": 8319,
+      "Speaker": "T",
+      "Turn": 8319,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats a student's correct answer to affirm it and make it public for the whole class."
+    },
+    {
+      "ID": 8320,
+      "Speaker": "T",
+      "Turn": 8320,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks a question that prompts students to think about the implications of a mathematical rule they just discussed."
+    },
+    {
+      "ID": 8322,
+      "Speaker": "T",
+      "Turn": 8322,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts students to represent their understanding of a mathematical relationship through a physical action, which requires them to reason about that relationship."
+    }
+  ]
+}

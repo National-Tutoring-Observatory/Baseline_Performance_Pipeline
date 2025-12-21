@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 19478,
+      "Speaker": "T",
+      "Turn": 19478,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19479,
+      "Speaker": "T",
+      "Turn": 19479,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19481,
+      "Speaker": "T",
+      "Turn": 19481,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19483,
+      "Speaker": "T",
+      "Turn": 19483,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19484,
+      "Speaker": "T",
+      "Turn": 19484,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19485,
+      "Speaker": "T",
+      "Turn": 19485,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19487,
+      "Speaker": "T",
+      "Turn": 19487,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19489,
+      "Speaker": "T",
+      "Turn": 19489,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19490,
+      "Speaker": "T",
+      "Turn": 19490,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19492,
+      "Speaker": "T",
+      "Turn": 19492,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19493,
+      "Speaker": "T",
+      "Turn": 19493,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19495,
+      "Speaker": "T",
+      "Turn": 19495,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats a student's idea about the graph starting to increase and adds on to it by clarifying that it goes from decreasing to increasing."
+    },
+    {
+      "ID": 19496,
+      "Speaker": "T",
+      "Turn": 19496,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19497,
+      "Speaker": "T",
+      "Turn": 19497,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19499,
+      "Speaker": "T",
+      "Turn": 19499,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats a student's contribution word for word."
+    },
+    {
+      "ID": 19500,
+      "Speaker": "T",
+      "Turn": 19500,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19502,
+      "Speaker": "T",
+      "Turn": 19502,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats a student's idea using more precise mathematical language, such as 'local minimum' and 'turning point'."
+    },
+    {
+      "ID": 19503,
+      "Speaker": "T",
+      "Turn": 19503,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts students to connect their current observation to a previously discussed idea, asking them to explain the connection."
+    },
+    {
+      "ID": 19504,
+      "Speaker": "T",
+      "Turn": 19504,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to explain how they previously described a feature of the graph, prompting them to share their thinking."
+    },
+    {
+      "ID": 19506,
+      "Speaker": "T",
+      "Turn": 19506,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher takes the student's informal term 'bouncing' and adds on the formal mathematical concept it represents, 'multiplicity'."
+    }
+  ]
+}

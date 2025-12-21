@@ -1,0 +1,123 @@
+{
+  "records": [
+    {
+      "ID": 10253,
+      "Turn": 249,
+      "Speaker": "T",
+      "Sentence": "Not two",
+      "TalkMove": "Revoicing"
+    },
+    {
+      "ID": 10255,
+      "Turn": 251,
+      "Speaker": "T",
+      "Sentence": "14 is two",
+      "TalkMove": null
+    },
+    {
+      "ID": 10257,
+      "Turn": 253,
+      "Speaker": "T",
+      "Sentence": "Uhhuh",
+      "TalkMove": null
+    },
+    {
+      "ID": 10258,
+      "Turn": 253,
+      "Speaker": "T",
+      "Sentence": "Do you see why its six",
+      "TalkMove": "Pressing for Reasoning"
+    },
+    {
+      "ID": 10259,
+      "Turn": 253,
+      "Speaker": "T",
+      "Sentence": "Because 14 is two but you have 34",
+      "TalkMove": null
+    },
+    {
+      "ID": 10261,
+      "Turn": 255,
+      "Speaker": "T",
+      "Sentence": "Yes",
+      "TalkMove": null
+    },
+    {
+      "ID": 10262,
+      "Turn": 255,
+      "Speaker": "T",
+      "Sentence": "You have four here but that doesnt make sense because that would be half of this",
+      "TalkMove": null
+    },
+    {
+      "ID": 10263,
+      "Turn": 255,
+      "Speaker": "T",
+      "Sentence": "Thats how I knew Oops there is a little fixup",
+      "TalkMove": null
+    },
+    {
+      "ID": 10264,
+      "Turn": 255,
+      "Speaker": "T",
+      "Sentence": "Whats 14 of eight",
+      "TalkMove": "Pressing for Accuracy"
+    },
+    {
+      "ID": 10265,
+      "Turn": 256,
+      "Speaker": "T",
+      "Sentence": "But you have three of them so",
+      "TalkMove": "Pressing for Accuracy"
+    },
+    {
+      "ID": 10267,
+      "Turn": 258,
+      "Speaker": "T",
+      "Sentence": "So whats 14 of 10",
+      "TalkMove": "Pressing for Accuracy"
+    },
+    {
+      "ID": 10268,
+      "Turn": 258,
+      "Speaker": "T",
+      "Sentence": "Twenty divided by four is",
+      "TalkMove": "Pressing for Accuracy"
+    },
+    {
+      "ID": 10270,
+      "Turn": 260,
+      "Speaker": "T",
+      "Sentence": "Five",
+      "TalkMove": "Restating"
+    },
+    {
+      "ID": 10271,
+      "Turn": 260,
+      "Speaker": "T",
+      "Sentence": "Thats 15 or 14 but you have three of them",
+      "TalkMove": null
+    },
+    {
+      "ID": 10272,
+      "Turn": 260,
+      "Speaker": "T",
+      "Sentence": "See how we went from 15 to 35",
+      "TalkMove": "Pressing for Reasoning"
+    },
+    {
+      "ID": 10273,
+      "Turn": 260,
+      "Speaker": "T",
+      "Sentence": "Thats what youre doing here",
+      "TalkMove": null
+    },
+    {
+      "ID": 10274,
+      "Turn": 260,
+      "Speaker": "T",
+      "Sentence": "Whats 14 of 16",
+      "TalkMove": "Pressing for Accuracy"
+    }
+  ]
+}

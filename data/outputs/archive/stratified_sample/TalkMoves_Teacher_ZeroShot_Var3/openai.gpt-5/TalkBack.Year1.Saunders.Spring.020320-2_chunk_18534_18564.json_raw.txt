@@ -1,0 +1,165 @@
+{
+  "records": [
+    {
+      "ID": 18534,
+      "Speaker": "T",
+      "Turn": 123,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 18535,
+      "Speaker": "T",
+      "Turn": 123,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks what factor can be taken from the two terms, prompting a specific mathematical contribution."
+    },
+    {
+      "ID": 18537,
+      "Speaker": "T",
+      "Turn": 125,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's response 'x2' verbatim."
+    },
+    {
+      "ID": 18538,
+      "Speaker": "T",
+      "Turn": 125,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Prompts students to identify what remains inside the parentheses after factoring."
+    },
+    {
+      "ID": 18542,
+      "Speaker": "T",
+      "Turn": 128,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks what can be factored out, requesting a precise mathematical action."
+    },
+    {
+      "ID": 18543,
+      "Speaker": "T",
+      "Turn": 129,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Requests the specific remaining expression by asking 'What's left?'"
+    },
+    {
+      "ID": 18544,
+      "Speaker": "T",
+      "Turn": 130,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 18545,
+      "Speaker": "T",
+      "Turn": 131,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 18546,
+      "Speaker": "T",
+      "Turn": 131,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks for the common component between terms, eliciting correct mathematical language."
+    },
+    {
+      "ID": 18548,
+      "Speaker": "T",
+      "Turn": 132,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 18549,
+      "Speaker": "T",
+      "Turn": 132,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 18550,
+      "Speaker": "T",
+      "Turn": 132,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 18551,
+      "Speaker": "T",
+      "Turn": 132,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 18552,
+      "Speaker": "T",
+      "Turn": 132,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 18553,
+      "Speaker": "T",
+      "Turn": 132,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 18554,
+      "Speaker": "T",
+      "Turn": 133,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 18555,
+      "Speaker": "T",
+      "Turn": 133,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Prompts students to state what remains after factoring out x2."
+    },
+    {
+      "ID": 18558,
+      "Speaker": "T",
+      "Turn": 134,
+      "TalkMove": "Restating",
+      "Reasoning": "Echoes the student's 'Sure' verbatim."
+    },
+    {
+      "ID": 18559,
+      "Speaker": "T",
+      "Turn": 134,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Checks whether the solution is complete with 'Am I done?', focusing on correctness."
+    },
+    {
+      "ID": 18561,
+      "Speaker": "T",
+      "Turn": 136,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks what can be factored in the expression, prompting a mathematical contribution."
+    },
+    {
+      "ID": 18562,
+      "Speaker": "T",
+      "Turn": 136,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 18563,
+      "Speaker": "T",
+      "Turn": 136,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 18564,
+      "Speaker": "T",
+      "Turn": 136,
+      "TalkMove": "None",
+      "Reasoning": null
+    }
+  ]
+}

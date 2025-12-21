@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 23905,
+      "Speaker": "T",
+      "Turn": 23905,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23906,
+      "Speaker": "T",
+      "Turn": 23906,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher asks Ryan to explain his thinking, prompting him to share the reasoning behind his solution."
+    },
+    {
+      "ID": 23908,
+      "Speaker": "T",
+      "Turn": 23908,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The single word \"Why\" presses the student to justify or elaborate on the prior statement."
+    },
+    {
+      "ID": 23913,
+      "Speaker": "T",
+      "Turn": 23913,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher restates and clarifies the student’s method—writing three on each fifth—using the teacher’s own words."
+    },
+    {
+      "ID": 23916,
+      "Speaker": "T",
+      "Turn": 23916,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher connects the student’s claim to the learning goal, prompting students to articulate the underlying reasoning linking multiplication and fractions."
+    },
+    {
+      "ID": 23917,
+      "Speaker": "T",
+      "Turn": 23917,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher asks the whole class to pause and think, ensuring shared engagement before proceeding."
+    },
+    {
+      "ID": 23918,
+      "Speaker": "T",
+      "Turn": 23918,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "Teacher asks whether Ryan’s explanation connected multiplication to fraction problems, directing classmates to evaluate a peer’s idea."
+    },
+    {
+      "ID": 23919,
+      "Speaker": "T",
+      "Turn": 23919,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Follow-up question \"How\" presses students to explain the mechanism of Ryan’s connection."
+    },
+    {
+      "ID": 23920,
+      "Speaker": "T",
+      "Turn": 23920,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23922,
+      "Speaker": "T",
+      "Turn": 23922,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23923,
+      "Speaker": "T",
+      "Turn": 23923,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23925,
+      "Speaker": "T",
+      "Turn": 23925,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23926,
+      "Speaker": "T",
+      "Turn": 23926,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23927,
+      "Speaker": "T",
+      "Turn": 23927,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Teacher directs all students to notice multiple solution strategies, orienting the class to shared content."
+    },
+    {
+      "ID": 23929,
+      "Speaker": "T",
+      "Turn": 23929,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "Invites peers to offer questions and feedback on Avery’s work, prompting them to respond to a classmate’s idea."
+    },
+    {
+      "ID": 23930,
+      "Speaker": "T",
+      "Turn": 23930,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Teacher encourages participation from voices not yet heard, orienting the whole class toward inclusive discussion."
+    },
+    {
+      "ID": 23931,
+      "Speaker": "T",
+      "Turn": 23931,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Again prompts those who haven’t shared to participate, maintaining collective engagement."
+    },
+    {
+      "ID": 23932,
+      "Speaker": "T",
+      "Turn": 23932,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Teacher explicitly manages participation by reminding a frequent speaker to allow others a chance."
+    },
+    {
+      "ID": 23933,
+      "Speaker": "T",
+      "Turn": 23933,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "Calls on Elijah to comment specifically on Avery’s solution, prompting a reaction to a peer’s thinking."
+    },
+    {
+      "ID": 23935,
+      "Speaker": "T",
+      "Turn": 23935,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher restates Avery’s strategy in her own words, clarifying the student’s idea for the class."
+    }
+  ]
+}

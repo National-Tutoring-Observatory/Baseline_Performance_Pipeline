@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 11962,
+      "Speaker": "T",
+      "Turn": 11962,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to clarify or explain what they are trying to say, prompting for further explanation."
+    },
+    {
+      "ID": 11966,
+      "Speaker": "T",
+      "Turn": 11966,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases a potential student idea ('a lot of us would say') to clarify the concepts of length and width."
+    },
+    {
+      "ID": 11967,
+      "Speaker": "T",
+      "Turn": 11967,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks a hypothetical question ('Would that change if you clip it') to prompt students to think about the properties of the shape."
+    },
+    {
+      "ID": 11969,
+      "Speaker": "T",
+      "Turn": 11969,
+      "TalkMove": null,
+      "Reasoning": "The teacher is answering their own question or providing direct instruction."
+    },
+    {
+      "ID": 11970,
+      "Speaker": "T",
+      "Turn": 11970,
+      "TalkMove": null,
+      "Reasoning": "This is an administrative direction regarding the display of work."
+    },
+    {
+      "ID": 11971,
+      "Speaker": "T",
+      "Turn": 11971,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher asks a student to explain their thinking again specifically for the benefit of the rest of the class ('for everybody that didnt catch it'), orienting the class to that student's contribution."
+    },
+    {
+      "ID": 11974,
+      "Speaker": "T",
+      "Turn": 11974,
+      "TalkMove": null,
+      "Reasoning": "Politeness marker."
+    },
+    {
+      "ID": 11975,
+      "Speaker": "T",
+      "Turn": 11975,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's idea about efficiency and expands on why it is efficient compared to counting."
+    },
+    {
+      "ID": 11976,
+      "Speaker": "T",
+      "Turn": 11976,
+      "TalkMove": null,
+      "Reasoning": "Evaluative praise."
+    },
+    {
+      "ID": 11977,
+      "Speaker": "T",
+      "Turn": 11977,
+      "TalkMove": null,
+      "Reasoning": "Politeness marker."
+    },
+    {
+      "ID": 11978,
+      "Speaker": "T",
+      "Turn": 11978,
+      "TalkMove": null,
+      "Reasoning": "Administrative direction."
+    },
+    {
+      "ID": 11979,
+      "Speaker": "T",
+      "Turn": 11979,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher sets an expectation for students to 'explain your thinking' similar to how a peer did."
+    },
+    {
+      "ID": 11980,
+      "Speaker": "T",
+      "Turn": 11980,
+      "TalkMove": null,
+      "Reasoning": "Checking for understanding of directions."
+    },
+    {
+      "ID": 11981,
+      "Speaker": "T",
+      "Turn": 11981,
+      "TalkMove": null,
+      "Reasoning": "Politeness marker/administrative."
+    },
+    {
+      "ID": 11982,
+      "Speaker": "T",
+      "Turn": 11982,
+      "TalkMove": null,
+      "Reasoning": "Administrative direction regarding workflow."
+    },
+    {
+      "ID": 11983,
+      "Speaker": "T",
+      "Turn": 11983,
+      "TalkMove": null,
+      "Reasoning": "Restating the learning objective/direct instruction."
+    },
+    {
+      "ID": 11984,
+      "Speaker": "T",
+      "Turn": 11984,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to identify a strategy (algorithm) distinct from the visual model, prompting conceptual connection."
+    },
+    {
+      "ID": 11985,
+      "Speaker": "T",
+      "Turn": 11985,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts students to look for a pattern or algorithm to prove their thinking."
+    },
+    {
+      "ID": 11986,
+      "Speaker": "T",
+      "Turn": 11986,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks for conjectures about the algorithm, prompting students to share their mathematical thinking."
+    },
+    {
+      "ID": 11987,
+      "Speaker": "T",
+      "Turn": 11987,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher explicitly asks what the students think the algorithm would be."
+    }
+  ]
+}

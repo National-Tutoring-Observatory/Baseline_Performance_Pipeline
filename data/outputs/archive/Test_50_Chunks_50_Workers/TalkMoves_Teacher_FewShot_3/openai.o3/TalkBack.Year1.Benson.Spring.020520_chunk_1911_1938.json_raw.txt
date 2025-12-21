@@ -1,0 +1,130 @@
+{
+  "records": [
+    {
+      "ID": 1911,
+      "Speaker": "T",
+      "Turn": 14,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher requests Conrad’s exact numerical answer."
+    },
+    {
+      "ID": 1913,
+      "Speaker": "T",
+      "Turn": 16,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "Teacher invites classmates to compare their own work to Conrad’s answer of 003."
+    },
+    {
+      "ID": 1914,
+      "Speaker": "T",
+      "Turn": 16,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1916,
+      "Speaker": "T",
+      "Turn": 18,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "A brief request for the student to repeat/clarify so everyone can hear and follow."
+    },
+    {
+      "ID": 1918,
+      "Speaker": "T",
+      "Turn": 20,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher paraphrases the student’s statement that Conrad was right."
+    },
+    {
+      "ID": 1919,
+      "Speaker": "T",
+      "Turn": 20,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1920,
+      "Speaker": "T",
+      "Turn": 20,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks Ruth to state the number she wrote, requesting a mathematical contribution."
+    },
+    {
+      "ID": 1922,
+      "Speaker": "T",
+      "Turn": 22,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1923,
+      "Speaker": "T",
+      "Turn": 22,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher calls on Charlie to provide the written form of a specific decimal."
+    },
+    {
+      "ID": 1925,
+      "Speaker": "T",
+      "Turn": 24,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher restates the student’s answer, adjusting wording to confirm understanding."
+    },
+    {
+      "ID": 1927,
+      "Speaker": "T",
+      "Turn": 26,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher repeats the numeric representation she believes the student wrote, seeking confirmation."
+    },
+    {
+      "ID": 1929,
+      "Speaker": "T",
+      "Turn": 28,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Teacher asks the student to repeat the missing part, ensuring clarity for all listeners."
+    },
+    {
+      "ID": 1931,
+      "Speaker": "T",
+      "Turn": 30,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher paraphrases the student’s clarification about omitting the ‘one’."
+    },
+    {
+      "ID": 1933,
+      "Speaker": "T",
+      "Turn": 32,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher restates the student’s written number (109) to check accuracy."
+    },
+    {
+      "ID": 1934,
+      "Speaker": "T",
+      "Turn": 32,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher asks the class how to correct the mistaken notation, prompting explanation."
+    },
+    {
+      "ID": 1935,
+      "Speaker": "T",
+      "Turn": 32,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1937,
+      "Speaker": "T",
+      "Turn": 34,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher prompts the student to identify and explain their own error."
+    },
+    {
+      "ID": 1938,
+      "Speaker": "T",
+      "Turn": 34,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

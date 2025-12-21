@@ -1,0 +1,148 @@
+{
+  "records": [
+    {
+      "ID": 1797,
+      "Speaker": "T",
+      "Turn": 128,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks a 'how many' question preceded by 'Because' to prompt students to explain the mathematical basis for making a whole number."
+    },
+    {
+      "ID": 1798,
+      "Speaker": "T",
+      "Turn": 128,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher uses the phrase 'Listen carefully' to orient all students to the question being asked."
+    },
+    {
+      "ID": 1799,
+      "Speaker": "S",
+      "Turn": 129
+    },
+    {
+      "ID": 1800,
+      "Speaker": "T",
+      "Turn": 130,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's answer 'Eight eights' verbatim."
+    },
+    {
+      "ID": 1801,
+      "Speaker": "T",
+      "Turn": 130,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's idea ('Eight eights') and adds mathematical language to clarify that it 'equals one whole pound'."
+    },
+    {
+      "ID": 1802,
+      "Speaker": "T",
+      "Turn": 130,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1803,
+      "Speaker": "T",
+      "Turn": 130,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1804,
+      "Speaker": "T",
+      "Turn": 130,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1805,
+      "Speaker": "T",
+      "Turn": 130,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1806,
+      "Speaker": "S",
+      "Turn": 131
+    },
+    {
+      "ID": 1807,
+      "Speaker": "T",
+      "Turn": 132,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1808,
+      "Speaker": "T",
+      "Turn": 132,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a direct question ('how many eighths is 1 whole') to elicit a specific mathematical fact."
+    },
+    {
+      "ID": 1809,
+      "Speaker": "S",
+      "Turn": 133
+    },
+    {
+      "ID": 1810,
+      "Speaker": "T",
+      "Turn": 134,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1811,
+      "Speaker": "T",
+      "Turn": 134,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1812,
+      "Speaker": "T",
+      "Turn": 134,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1813,
+      "Speaker": "T",
+      "Turn": 134,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a direct question ('Whats eight plus eight') that requires a specific, accurate numerical answer."
+    },
+    {
+      "ID": 1814,
+      "Speaker": "S",
+      "Turn": 135
+    },
+    {
+      "ID": 1815,
+      "Speaker": "T",
+      "Turn": 136,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1816,
+      "Speaker": "T",
+      "Turn": 136,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a question to elicit a specific numerical result of a calculation."
+    },
+    {
+      "ID": 1817,
+      "Speaker": "T",
+      "Turn": 137,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a direct question ('whats 19 plus 15') that requires a specific, accurate numerical answer."
+    },
+    {
+      "ID": 1818,
+      "Speaker": "S",
+      "Turn": 138
+    }
+  ]
+}

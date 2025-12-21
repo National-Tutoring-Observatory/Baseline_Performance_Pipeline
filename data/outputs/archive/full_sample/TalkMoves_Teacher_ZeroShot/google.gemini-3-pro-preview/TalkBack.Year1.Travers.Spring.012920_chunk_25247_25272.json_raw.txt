@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 25247,
+      "Speaker": "T",
+      "Turn": 25247,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 25249,
+      "Speaker": "T",
+      "Turn": 25249,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 25251,
+      "Speaker": "T",
+      "Turn": 25251,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a specific question to elicit a data count from the students."
+    },
+    {
+      "ID": 25253,
+      "Speaker": "T",
+      "Turn": 25253,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's answer ('one') to confirm the count."
+    },
+    {
+      "ID": 25254,
+      "Speaker": "T",
+      "Turn": 25254,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 25255,
+      "Speaker": "T",
+      "Turn": 25255,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 25256,
+      "Speaker": "T",
+      "Turn": 25256,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 25257,
+      "Speaker": "T",
+      "Turn": 25257,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 25258,
+      "Speaker": "T",
+      "Turn": 25258,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the class to provide the count for the data value 51."
+    },
+    {
+      "ID": 25259,
+      "Speaker": "T",
+      "Turn": 25259,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 25260,
+      "Speaker": "T",
+      "Turn": 25260,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 25262,
+      "Speaker": "T",
+      "Turn": 25262,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's contribution ('two') to confirm the correct number."
+    },
+    {
+      "ID": 25264,
+      "Speaker": "T",
+      "Turn": 25264,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's answer ('two') again to reinforce the count."
+    },
+    {
+      "ID": 25265,
+      "Speaker": "T",
+      "Turn": 25265,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 25266,
+      "Speaker": "T",
+      "Turn": 25266,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 25267,
+      "Speaker": "T",
+      "Turn": 25267,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 25268,
+      "Speaker": "T",
+      "Turn": 25268,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher states the next category to prompt students for the corresponding count."
+    },
+    {
+      "ID": 25269,
+      "Speaker": "T",
+      "Turn": 25269,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 25271,
+      "Speaker": "T",
+      "Turn": 25271,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's response ('No') indicating there are no data points."
+    },
+    {
+      "ID": 25272,
+      "Speaker": "T",
+      "Turn": 25272,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases the student's 'No' into the mathematical value 'Zero'."
+    }
+  ]
+}

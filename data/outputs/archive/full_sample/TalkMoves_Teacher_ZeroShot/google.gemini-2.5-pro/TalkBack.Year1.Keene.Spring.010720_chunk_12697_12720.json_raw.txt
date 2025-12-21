@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 12697,
+      "Speaker": "T",
+      "Turn": 12697,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12698,
+      "Speaker": "T",
+      "Turn": 12698,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12699,
+      "Speaker": "T",
+      "Turn": 12699,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher directly asks a student to explain their thinking process."
+    },
+    {
+      "ID": 12700,
+      "Speaker": "T",
+      "Turn": 12700,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks a 'why' question to prompt the student for justification."
+    },
+    {
+      "ID": 12702,
+      "Speaker": "T",
+      "Turn": 12702,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12703,
+      "Speaker": "T",
+      "Turn": 12703,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12704,
+      "Speaker": "T",
+      "Turn": 12704,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher restates a student's position and then asks 'why' to elicit their reasoning."
+    },
+    {
+      "ID": 12706,
+      "Speaker": "T",
+      "Turn": 12706,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to use a specific mathematical feature (decimal points) to make their contribution more precise."
+    },
+    {
+      "ID": 12708,
+      "Speaker": "T",
+      "Turn": 12708,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12709,
+      "Speaker": "T",
+      "Turn": 12709,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats a student's implied idea (that there are no decimal points) but rephrases it as a conditional statement to add mathematical structure."
+    },
+    {
+      "ID": 12710,
+      "Speaker": "T",
+      "Turn": 12710,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to recall a specific mathematical definition."
+    },
+    {
+      "ID": 12711,
+      "Speaker": "T",
+      "Turn": 12711,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher explicitly directs students to recall and consider what a specific classmate previously said."
+    },
+    {
+      "ID": 12712,
+      "Speaker": "T",
+      "Turn": 12712,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12713,
+      "Speaker": "T",
+      "Turn": 12713,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher redirects the conversation back to a previous student's contribution, prompting others to engage with that idea."
+    },
+    {
+      "ID": 12714,
+      "Speaker": "T",
+      "Turn": 12714,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12716,
+      "Speaker": "T",
+      "Turn": 12716,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12717,
+      "Speaker": "T",
+      "Turn": 12717,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher prompts the whole class to recall a shared experience from earlier in the lesson to ensure everyone is working from the same context."
+    },
+    {
+      "ID": 12718,
+      "Speaker": "T",
+      "Turn": 12718,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12719,
+      "Speaker": "T",
+      "Turn": 12719,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12720,
+      "Speaker": "T",
+      "Turn": 12720,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks the class to recall a specific, previously established conclusion or definition."
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "records": [
+    {
+      "ID": 941,
+      "Speaker": "T",
+      "Turn": 941
+    },
+    {
+      "ID": 942,
+      "Speaker": "T",
+      "Turn": 942
+    },
+    {
+      "ID": 943,
+      "Speaker": "T",
+      "Turn": 943
+    },
+    {
+      "ID": 944,
+      "Speaker": "T",
+      "Turn": 944
+    },
+    {
+      "ID": 945,
+      "Speaker": "T",
+      "Turn": 945,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher narrows the task to identifying the whole shape, prompting a specific mathematical answer."
+    },
+    {
+      "ID": 946,
+      "Speaker": "T",
+      "Turn": 946
+    },
+    {
+      "ID": 947,
+      "Speaker": "T",
+      "Turn": 947
+    },
+    {
+      "ID": 948,
+      "Speaker": "T",
+      "Turn": 948
+    },
+    {
+      "ID": 950,
+      "Speaker": "T",
+      "Turn": 950
+    },
+    {
+      "ID": 951,
+      "Speaker": "T",
+      "Turn": 951
+    },
+    {
+      "ID": 952,
+      "Speaker": "T",
+      "Turn": 952
+    },
+    {
+      "ID": 953,
+      "Speaker": "T",
+      "Turn": 953
+    },
+    {
+      "ID": 954,
+      "Speaker": "T",
+      "Turn": 954
+    },
+    {
+      "ID": 955,
+      "Speaker": "T",
+      "Turn": 955,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the exact number of pieces needed to make the whole."
+    },
+    {
+      "ID": 957,
+      "Speaker": "T",
+      "Turn": 957,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher requests the correct color name for the whole when two halves are combined."
+    },
+    {
+      "ID": 959,
+      "Speaker": "T",
+      "Turn": 959
+    },
+    {
+      "ID": 960,
+      "Speaker": "T",
+      "Turn": 960
+    },
+    {
+      "ID": 961,
+      "Speaker": "T",
+      "Turn": 961
+    },
+    {
+      "ID": 962,
+      "Speaker": "T",
+      "Turn": 962,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to explain the steps needed to figure out what 55 would be from the given 25."
+    },
+    {
+      "ID": 963,
+      "Speaker": "T",
+      "Turn": 963,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks a named student to describe what they did to determine 55, eliciting their thinking."
+    }
+  ]
+}

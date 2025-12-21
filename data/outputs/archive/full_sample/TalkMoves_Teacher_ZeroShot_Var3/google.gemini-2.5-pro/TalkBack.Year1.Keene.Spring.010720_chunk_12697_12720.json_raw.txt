@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 12697,
+      "Speaker": "T",
+      "Turn": 12697,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12698,
+      "Speaker": "T",
+      "Turn": 12698,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12699,
+      "Speaker": "T",
+      "Turn": 12699,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher explicitly asks a student to explain their thinking."
+    },
+    {
+      "ID": 12700,
+      "Speaker": "T",
+      "Turn": 12700,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks \"why\" to prompt the student to provide the reasoning behind their answer."
+    },
+    {
+      "ID": 12702,
+      "Speaker": "T",
+      "Turn": 12702,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12703,
+      "Speaker": "T",
+      "Turn": 12703,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12704,
+      "Speaker": "T",
+      "Turn": 12704,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher confirms the student's answer and then asks \"why\" to elicit their justification."
+    },
+    {
+      "ID": 12706,
+      "Speaker": "T",
+      "Turn": 12706,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a specific, guiding question to prompt students to notice a key mathematical feature (the decimal point)."
+    },
+    {
+      "ID": 12708,
+      "Speaker": "T",
+      "Turn": 12708,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12709,
+      "Speaker": "T",
+      "Turn": 12709,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher takes the student's observation (the absence of a decimal point) and rephrases it to articulate its mathematical implication."
+    },
+    {
+      "ID": 12710,
+      "Speaker": "T",
+      "Turn": 12710,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to recall and state a specific mathematical definition."
+    },
+    {
+      "ID": 12711,
+      "Speaker": "T",
+      "Turn": 12711,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher explicitly directs students to recall and consider a specific idea contributed by a classmate."
+    },
+    {
+      "ID": 12712,
+      "Speaker": "T",
+      "Turn": 12712,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12713,
+      "Speaker": "T",
+      "Turn": 12713,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher redirects the conversation back to a specific classmate's idea, prompting students to engage with it."
+    },
+    {
+      "ID": 12714,
+      "Speaker": "T",
+      "Turn": 12714,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12716,
+      "Speaker": "T",
+      "Turn": 12716,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher connects a student's current idea to a previous one from another student, orienting the class to the shared conversation."
+    },
+    {
+      "ID": 12717,
+      "Speaker": "T",
+      "Turn": 12717,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12718,
+      "Speaker": "T",
+      "Turn": 12718,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher instructs students to engage in a turn-and-talk, ensuring all students are participating and listening to each other."
+    },
+    {
+      "ID": 12719,
+      "Speaker": "T",
+      "Turn": 12719,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher provides a specific, shared task for the student pairs to work on, ensuring they are all engaged in the same activity."
+    },
+    {
+      "ID": 12720,
+      "Speaker": "T",
+      "Turn": 12720,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks the class to recall and state a specific concept discussed earlier in the lesson."
+    }
+  ]
+}

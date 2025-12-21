@@ -1,0 +1,123 @@
+{
+  "records": [
+    {
+      "ID": 1797,
+      "Turn": 128,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a question to elicit a specific mathematical fact needed to solve the problem."
+    },
+    {
+      "ID": 1798,
+      "Turn": 128,
+      "Speaker": "T",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher uses the phrase 'Listen carefully' to orient all students to the question being asked."
+    },
+    {
+      "ID": 1800,
+      "Turn": 130,
+      "Speaker": "T",
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's answer 'Eight eights' verbatim."
+    },
+    {
+      "ID": 1801,
+      "Turn": 130,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's idea ('Eight eights') and adds language to clarify its mathematical meaning ('equals one whole pound')."
+    },
+    {
+      "ID": 1802,
+      "Turn": 130,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1803,
+      "Turn": 130,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1804,
+      "Turn": 130,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1805,
+      "Turn": 130,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1807,
+      "Turn": 132,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1808,
+      "Turn": 132,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a question to elicit a specific mathematical fact ('how many eighths is 1 whole')."
+    },
+    {
+      "ID": 1810,
+      "Turn": 134,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1811,
+      "Turn": 134,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1812,
+      "Turn": 134,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1813,
+      "Turn": 134,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the result of a specific calculation."
+    },
+    {
+      "ID": 1815,
+      "Turn": 136,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1816,
+      "Turn": 136,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks students to provide the result of a calculation."
+    },
+    {
+      "ID": 1817,
+      "Turn": 137,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a direct question to elicit the result of a calculation."
+    }
+  ]
+}

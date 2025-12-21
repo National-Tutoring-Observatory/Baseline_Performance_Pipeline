@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 30103,
+      "Speaker": "T",
+      "Turn": 30103,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher restates the student’s contribution (“She’ll have 2 left”) in her own words, confirming the idea for the class."
+    },
+    {
+      "ID": 30104,
+      "Speaker": "T",
+      "Turn": 30104,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the specific numerical answer (number of notebooks), prompting a precise mathematical contribution."
+    },
+    {
+      "ID": 30106,
+      "Speaker": "T",
+      "Turn": 30106,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "A follow-up request for the exact quantity, again eliciting a precise answer."
+    },
+    {
+      "ID": 30107,
+      "Speaker": "T",
+      "Turn": 30107,
+      "TalkMove": "Restating",
+      "Reasoning": "Teacher repeats the student’s answer word-for-word (“Four notebooks”) back to the class."
+    },
+    {
+      "ID": 30108,
+      "Speaker": "T",
+      "Turn": 30108,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 30109,
+      "Speaker": "T",
+      "Turn": 30109,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher paraphrases the student idea (“I’m hearing you say she will have a remainder”) to confirm understanding."
+    },
+    {
+      "ID": 30110,
+      "Speaker": "T",
+      "Turn": 30110,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks for the exact value of the remainder, requesting a specific mathematical detail."
+    },
+    {
+      "ID": 30112,
+      "Speaker": "T",
+      "Turn": 30112,
+      "TalkMove": "Restating",
+      "Reasoning": "Teacher echoes the student’s response verbatim (“Two dollars leftover”)."
+    },
+    {
+      "ID": 30113,
+      "Speaker": "T",
+      "Turn": 30113,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Invites Zoe to share while implicitly directing the class to attend to her contribution, orienting everyone to the next speaker."
+    },
+    {
+      "ID": 30115,
+      "Speaker": "T",
+      "Turn": 30115,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Prompts students to specify the units attached to the remainder, demanding clearer mathematical precision."
+    },
+    {
+      "ID": 30117,
+      "Speaker": "T",
+      "Turn": 30117,
+      "TalkMove": "Restating",
+      "Reasoning": "Repeats the student’s statement (“Two dollars she’ll have leftover”) almost word-for-word for clarity."
+    },
+    {
+      "ID": 30118,
+      "Speaker": "T",
+      "Turn": 30118,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Again asks for the specific number of notebooks, seeking an exact quantitative answer."
+    },
+    {
+      "ID": 30120,
+      "Speaker": "T",
+      "Turn": 30120,
+      "TalkMove": "Restating",
+      "Reasoning": "Teacher restates the numeric answer (“Four”) back to the class verbatim."
+    },
+    {
+      "ID": 30121,
+      "Speaker": "T",
+      "Turn": 30121,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 30122,
+      "Speaker": "T",
+      "Turn": 30122,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 30123,
+      "Speaker": "T",
+      "Turn": 30123,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 30124,
+      "Speaker": "T",
+      "Turn": 30124,
+      "TalkMove": "Restating",
+      "Reasoning": "Teacher repeats the value with units (“Two dollars leftover”) to reinforce the precise answer."
+    },
+    {
+      "ID": 30125,
+      "Speaker": "T",
+      "Turn": 30125,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks for the exact quantity of notebooks, requesting a precise numerical response."
+    },
+    {
+      "ID": 30126,
+      "Speaker": "T",
+      "Turn": 30126,
+      "TalkMove": "Restating",
+      "Reasoning": "Echoes the complete answer (“Four notebooks”) word-for-word to the class."
+    },
+    {
+      "ID": 30127,
+      "Speaker": "T",
+      "Turn": 30127,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Checks that the class is following (“Does that make sense?”), ensuring shared understanding."
+    }
+  ]
+}

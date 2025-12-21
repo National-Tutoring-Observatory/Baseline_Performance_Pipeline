@@ -1,0 +1,137 @@
+{
+  "records": [
+    {
+      "ID": 12044,
+      "Speaker": "T",
+      "Turn": 88,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's word 'Multiply' exactly as said."
+    },
+    {
+      "ID": 12045,
+      "Speaker": "T",
+      "Turn": 88,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12047,
+      "Speaker": "T",
+      "Turn": 90,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12048,
+      "Speaker": "T",
+      "Turn": 90,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the mathematical term for the answer to a multiplication problem ('product')."
+    },
+    {
+      "ID": 12049,
+      "Speaker": "T",
+      "Turn": 90,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher prompts the whole class to chorally repeat the vocabulary, orienting all students' attention."
+    },
+    {
+      "ID": 12051,
+      "Speaker": "T",
+      "Turn": 92,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to explain the algorithm in their own words."
+    },
+    {
+      "ID": 12052,
+      "Speaker": "T",
+      "Turn": 92,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher orients students to speak with a partner, prompting active listening and peer interaction."
+    },
+    {
+      "ID": 12053,
+      "Speaker": "T",
+      "Turn": 92,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher directs students to first say their explanation to a partner, fostering engagement with each other."
+    },
+    {
+      "ID": 12054,
+      "Speaker": "T",
+      "Turn": 92,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher prompts students to explain to a shoulder partner, orienting them to each other."
+    },
+    {
+      "ID": 12055,
+      "Speaker": "T",
+      "Turn": 92,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher ensures both partners speak and listen, keeping all students engaged."
+    },
+    {
+      "ID": 12056,
+      "Speaker": "T",
+      "Turn": 92,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12057,
+      "Speaker": "T",
+      "Turn": 92,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12058,
+      "Speaker": "T",
+      "Turn": 93,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12059,
+      "Speaker": "T",
+      "Turn": 93,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12060,
+      "Speaker": "T",
+      "Turn": 93,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12061,
+      "Speaker": "T",
+      "Turn": 93,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12062,
+      "Speaker": "T",
+      "Turn": 93,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12063,
+      "Speaker": "T",
+      "Turn": 94,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12064,
+      "Speaker": "T",
+      "Turn": 95,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the method for multiplying fractions, eliciting the correct procedural description."
+    }
+  ]
+}

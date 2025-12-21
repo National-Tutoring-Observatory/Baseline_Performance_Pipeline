@@ -1,0 +1,81 @@
+{
+  "results": [
+    {
+      "ID": 10286,
+      "Turn": 266,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the specific numerical value of 1/4 of eight, prompting a precise mathematical answer."
+    },
+    {
+      "ID": 10288,
+      "Turn": 268,
+      "TalkMove": "None"
+    },
+    {
+      "ID": 10289,
+      "Turn": 268,
+      "TalkMove": "None"
+    },
+    {
+      "ID": 10290,
+      "Turn": 268,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher requests the product 2 × 3, seeking an exact computation."
+    },
+    {
+      "ID": 10292,
+      "Turn": 270,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student’s response (“Six”) exactly, confirming it for the class."
+    },
+    {
+      "ID": 10293,
+      "Turn": 270,
+      "TalkMove": "None"
+    },
+    {
+      "ID": 10294,
+      "Turn": 270,
+      "TalkMove": "None"
+    },
+    {
+      "ID": 10295,
+      "Turn": 270,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the value of 1/4 of 20, prompting a concrete numeric answer."
+    },
+    {
+      "ID": 10298,
+      "Turn": 272,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher solicits the exact result of dividing 20 by 4."
+    },
+    {
+      "ID": 10301,
+      "Turn": 274,
+      "TalkMove": "None"
+    },
+    {
+      "ID": 10302,
+      "Turn": 274,
+      "TalkMove": "None"
+    },
+    {
+      "ID": 10303,
+      "Turn": 275,
+      "TalkMove": "None"
+    },
+    {
+      "ID": 10304,
+      "Turn": 275,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher connects the idea of 1/4 of 20 being 5 to the concept of multiple fourths, prompting students to think through the fractional relationship."
+    },
+    {
+      "ID": 10306,
+      "Turn": 277,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher requests the exact product of 5 × 3."
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 792,
+      "Speaker": "T",
+      "Turn": 792,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher is asking for a specific mathematical answer."
+    },
+    {
+      "ID": 794,
+      "Speaker": "T",
+      "Turn": 794,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats a student's likely answer ('four fourths') and adds a mathematically equivalent term ('or one'), thus clarifying and adding to the student's contribution."
+    },
+    {
+      "ID": 795,
+      "Speaker": "T",
+      "Turn": 795,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 796,
+      "Speaker": "T",
+      "Turn": 796,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 797,
+      "Speaker": "T",
+      "Turn": 797,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 798,
+      "Speaker": "T",
+      "Turn": 798,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 799,
+      "Speaker": "T",
+      "Turn": 799,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 800,
+      "Speaker": "T",
+      "Turn": 800,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 801,
+      "Speaker": "T",
+      "Turn": 801,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 802,
+      "Speaker": "T",
+      "Turn": 802,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 803,
+      "Speaker": "T",
+      "Turn": 803,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a student to share the specific piece they found, pressing for a correct contribution."
+    },
+    {
+      "ID": 805,
+      "Speaker": "T",
+      "Turn": 805,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student for a more specific and accurate answer."
+    },
+    {
+      "ID": 807,
+      "Speaker": "T",
+      "Turn": 807,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's answer ('Orange') and then adds mathematical language and context, reframing the contribution."
+    },
+    {
+      "ID": 808,
+      "Speaker": "T",
+      "Turn": 808,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 809,
+      "Speaker": "T",
+      "Turn": 809,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 810,
+      "Speaker": "T",
+      "Turn": 810,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 812,
+      "Speaker": "T",
+      "Turn": 812,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats a student's contribution verbatim."
+    },
+    {
+      "ID": 813,
+      "Speaker": "T",
+      "Turn": 813,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 814,
+      "Speaker": "T",
+      "Turn": 814,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 815,
+      "Speaker": "T",
+      "Turn": 815,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher highlights another student's idea for the class, orienting students to each other's work."
+    }
+  ]
+}

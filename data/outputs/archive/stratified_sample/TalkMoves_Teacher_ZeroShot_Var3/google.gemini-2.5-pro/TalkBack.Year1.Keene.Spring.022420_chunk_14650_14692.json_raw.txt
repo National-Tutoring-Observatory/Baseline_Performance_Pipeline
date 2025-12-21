@@ -1,0 +1,305 @@
+{
+  "records": [
+    {
+      "ID": 14650,
+      "Turn": 82,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 14651,
+      "Turn": 83,
+      "Speaker": "S",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 14652,
+      "Turn": 84,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 14653,
+      "Turn": 84,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts students to explain how a mathematical process would help solve a problem."
+    },
+    {
+      "ID": 14654,
+      "Turn": 84,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 14655,
+      "Turn": 84,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 14656,
+      "Turn": 84,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 14657,
+      "Turn": 85,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 14658,
+      "Turn": 85,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 14659,
+      "Turn": 86,
+      "Speaker": "S",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 14660,
+      "Turn": 87,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 14661,
+      "Turn": 87,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks a student to explain how a mathematical process would be helpful."
+    },
+    {
+      "ID": 14662,
+      "Turn": 88,
+      "Speaker": "S",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 14663,
+      "Turn": 89,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases a student's general answer to clarify that it doesn't address the specific problem being discussed."
+    },
+    {
+      "ID": 14664,
+      "Turn": 89,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to provide a more specific mathematical contribution related to the particular problem."
+    },
+    {
+      "ID": 14665,
+      "Turn": 89,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts students to explain their thinking by comparing their estimate to a given answer."
+    },
+    {
+      "ID": 14666,
+      "Turn": 90,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 14667,
+      "Turn": 90,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 14668,
+      "Turn": 91,
+      "Speaker": "S",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 14669,
+      "Turn": 92,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks a student to provide evidence for their claim that something was done wrong."
+    },
+    {
+      "ID": 14670,
+      "Turn": 92,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to perform a specific mathematical action (estimating)."
+    },
+    {
+      "ID": 14671,
+      "Turn": 92,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to provide a specific mathematical contribution (the estimate)."
+    },
+    {
+      "ID": 14672,
+      "Turn": 92,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to make a specific mathematical judgment to help them arrive at an accurate answer."
+    },
+    {
+      "ID": 14673,
+      "Turn": 93,
+      "Speaker": "S",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 14674,
+      "Turn": 93,
+      "Speaker": "S",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 14675,
+      "Turn": 94,
+      "Speaker": "T",
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats a student's one-word answer verbatim."
+    },
+    {
+      "ID": 14676,
+      "Turn": 94,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's idea but adds explanatory language to make the mathematical reasoning more explicit."
+    },
+    {
+      "ID": 14677,
+      "Turn": 94,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 14678,
+      "Turn": 94,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 14679,
+      "Turn": 95,
+      "Speaker": "S",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 14680,
+      "Turn": 96,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 14681,
+      "Turn": 96,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts students to explain their thinking about the magnitude of a sum."
+    },
+    {
+      "ID": 14682,
+      "Turn": 96,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts students to use their estimation to make a conclusion about the answer."
+    },
+    {
+      "ID": 14683,
+      "Turn": 97,
+      "Speaker": "S",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 14684,
+      "Turn": 98,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats a student's answer and then elaborates on the reasoning, explicitly connecting it to previous student contributions."
+    },
+    {
+      "ID": 14685,
+      "Turn": 99,
+      "Speaker": "S",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 14686,
+      "Turn": 100,
+      "Speaker": "T",
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's one-word answer verbatim."
+    },
+    {
+      "ID": 14687,
+      "Turn": 100,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 14688,
+      "Turn": 100,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 14689,
+      "Turn": 100,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 14690,
+      "Turn": 100,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 14691,
+      "Turn": 100,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 14692,
+      "Turn": 100,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

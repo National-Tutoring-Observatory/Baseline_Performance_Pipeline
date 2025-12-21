@@ -1,0 +1,88 @@
+{
+  "records": [
+    {
+      "ID": 24287,
+      "Turn": 282,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher is asking for a specific mathematical value to complete a calculation."
+    },
+    {
+      "ID": 24290,
+      "Turn": 284,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24293,
+      "Turn": 287,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher is prompting the student to engage in the thinking process required to solve the problem."
+    },
+    {
+      "ID": 24294,
+      "Turn": 287,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher directs the student to review their work, implying an error needs to be corrected."
+    },
+    {
+      "ID": 24300,
+      "Turn": 292,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts the student to continue explaining their thought process after they have started."
+    },
+    {
+      "ID": 24301,
+      "Turn": 293,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24302,
+      "Turn": 293,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts the student to continue explaining their thought process."
+    },
+    {
+      "ID": 24303,
+      "Turn": 294,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts the student to continue explaining their thought process."
+    },
+    {
+      "ID": 24304,
+      "Turn": 294,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24305,
+      "Turn": 294,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24306,
+      "Turn": 294,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher is redirecting the student to the specific mathematical requirement of the problem, which is to include a fraction."
+    },
+    {
+      "ID": 24307,
+      "Turn": 294,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

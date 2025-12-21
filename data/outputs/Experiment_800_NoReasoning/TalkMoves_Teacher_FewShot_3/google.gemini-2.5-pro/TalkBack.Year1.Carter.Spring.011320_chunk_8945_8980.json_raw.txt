@@ -1,0 +1,250 @@
+{
+  "records": [
+    {
+      "ID": 8945,
+      "Turn": 206,
+      "Speaker": "S",
+      "Sentence": "Five"
+    },
+    {
+      "ID": 8946,
+      "Turn": 207,
+      "Speaker": "T",
+      "Sentence": "Thats one of the target numbers",
+      "TalkMove": "Revoicing"
+    },
+    {
+      "ID": 8947,
+      "Turn": 207,
+      "Speaker": "T",
+      "Sentence": "Were trying to figure out all the numbers thats multiplied together to make that number",
+      "TalkMove": null
+    },
+    {
+      "ID": 8948,
+      "Turn": 207,
+      "Speaker": "T",
+      "Sentence": "Does that make sense the difference here",
+      "TalkMove": "Keeping Everyone Together"
+    },
+    {
+      "ID": 8949,
+      "Turn": 207,
+      "Speaker": "T",
+      "Sentence": "Can you show me an action or a gesture that will help you remember multiples",
+      "TalkMove": "Pressing for Reasoning"
+    },
+    {
+      "ID": 8950,
+      "Turn": 207,
+      "Speaker": "T",
+      "Sentence": "I like that",
+      "TalkMove": null
+    },
+    {
+      "ID": 8951,
+      "Turn": 207,
+      "Speaker": "T",
+      "Sentence": "Youre showing okay we have two now we have four now we have six now we have eight now we have 10",
+      "TalkMove": "Revoicing"
+    },
+    {
+      "ID": 8952,
+      "Turn": 208,
+      "Speaker": "T",
+      "Sentence": "I see some people showing multiplying",
+      "TalkMove": null
+    },
+    {
+      "ID": 8953,
+      "Turn": 208,
+      "Speaker": "T",
+      "Sentence": "I like what youre showing",
+      "TalkMove": null
+    },
+    {
+      "ID": 8954,
+      "Turn": 208,
+      "Speaker": "T",
+      "Sentence": "Can you turn around and show everybody yours",
+      "TalkMove": "Keeping Everyone Together"
+    },
+    {
+      "ID": 8955,
+      "Turn": 208,
+      "Speaker": "T",
+      "Sentence": "See how shes showing its like multiplying but youre moving",
+      "TalkMove": "Revoicing"
+    },
+    {
+      "ID": 8956,
+      "Turn": 208,
+      "Speaker": "T",
+      "Sentence": "Youre making a whole list of them",
+      "TalkMove": "Revoicing"
+    },
+    {
+      "ID": 8957,
+      "Turn": 208,
+      "Speaker": "T",
+      "Sentence": "I cant do your gesture",
+      "TalkMove": null
+    },
+    {
+      "ID": 8958,
+      "Turn": 208,
+      "Speaker": "T",
+      "Sentence": "A multiple of a number is the product of that number and another counting number",
+      "TalkMove": null
+    },
+    {
+      "ID": 8959,
+      "Turn": 208,
+      "Speaker": "T",
+      "Sentence": "With factors thats a closed set",
+      "TalkMove": null
+    },
+    {
+      "ID": 8960,
+      "Turn": 208,
+      "Speaker": "T",
+      "Sentence": "Theres no other factors",
+      "TalkMove": null
+    },
+    {
+      "ID": 8961,
+      "Turn": 208,
+      "Speaker": "T",
+      "Sentence": "Its just one set",
+      "TalkMove": null
+    },
+    {
+      "ID": 8962,
+      "Turn": 208,
+      "Speaker": "T",
+      "Sentence": "Multiples is it a closed set",
+      "TalkMove": "Pressing for Accuracy"
+    },
+    {
+      "ID": 8963,
+      "Turn": 208,
+      "Speaker": "S",
+      "Sentence": "No"
+    },
+    {
+      "ID": 8964,
+      "Turn": 209,
+      "Speaker": "T",
+      "Sentence": "No it goes on for infinity",
+      "TalkMove": "Revoicing"
+    },
+    {
+      "ID": 8965,
+      "Turn": 209,
+      "Speaker": "T",
+      "Sentence": "You could keep counting that out forever",
+      "TalkMove": "Revoicing"
+    },
+    {
+      "ID": 8966,
+      "Turn": 209,
+      "Speaker": "T",
+      "Sentence": "Keep going",
+      "TalkMove": null
+    },
+    {
+      "ID": 8967,
+      "Turn": 209,
+      "Speaker": "T",
+      "Sentence": "Lets do some more practice with this",
+      "TalkMove": null
+    },
+    {
+      "ID": 8968,
+      "Turn": 209,
+      "Speaker": "T",
+      "Sentence": "Lets come up on our slate with the factors of 12",
+      "TalkMove": null
+    },
+    {
+      "ID": 8969,
+      "Turn": 209,
+      "Speaker": "T",
+      "Sentence": "What are the factors of 12 on our slate",
+      "TalkMove": "Pressing for Accuracy"
+    },
+    {
+      "ID": 8970,
+      "Turn": 209,
+      "Speaker": "T",
+      "Sentence": "What do you multiply together to get 12",
+      "TalkMove": "Pressing for Accuracy"
+    },
+    {
+      "ID": 8971,
+      "Turn": 209,
+      "Speaker": "T",
+      "Sentence": "Lets start at the beginning and count",
+      "TalkMove": null
+    },
+    {
+      "ID": 8972,
+      "Turn": 210,
+      "Speaker": "S",
+      "Sentence": "1 x 12"
+    },
+    {
+      "ID": 8973,
+      "Turn": 211,
+      "Speaker": "T",
+      "Sentence": "One",
+      "TalkMove": "Restating"
+    },
+    {
+      "ID": 8974,
+      "Turn": 211,
+      "Speaker": "T",
+      "Sentence": "Is 2 a factor of 12",
+      "TalkMove": "Pressing for Accuracy"
+    },
+    {
+      "ID": 8975,
+      "Turn": 212,
+      "Speaker": "S",
+      "Sentence": "Yes"
+    },
+    {
+      "ID": 8976,
+      "Turn": 213,
+      "Speaker": "T",
+      "Sentence": "Yes because 2 x 6",
+      "TalkMove": "Revoicing"
+    },
+    {
+      "ID": 8977,
+      "Turn": 214,
+      "Speaker": "S",
+      "Sentence": "Six yes"
+    },
+    {
+      "ID": 8978,
+      "Turn": 215,
+      "Speaker": "T",
+      "Sentence": "Yes so 2 is",
+      "TalkMove": "Revoicing"
+    },
+    {
+      "ID": 8979,
+      "Turn": 215,
+      "Speaker": "T",
+      "Sentence": "Then 3",
+      "TalkMove": "Pressing for Accuracy"
+    },
+    {
+      "ID": 8980,
+      "Turn": 216,
+      "Speaker": "S",
+      "Sentence": "Yes"
+    }
+  ]
+}

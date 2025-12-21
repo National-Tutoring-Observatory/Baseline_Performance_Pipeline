@@ -1,0 +1,151 @@
+{
+  "records": [
+    {
+      "ID": 22222,
+      "Speaker": "T",
+      "Turn": 295
+    },
+    {
+      "ID": 22223,
+      "Speaker": "T",
+      "Turn": 296,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the exact product of –12 and 3, eliciting a specific numerical answer."
+    },
+    {
+      "ID": 22224,
+      "Speaker": "T",
+      "Turn": 296
+    },
+    {
+      "ID": 22225,
+      "Speaker": "T",
+      "Turn": 296,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher invites students to think about whether a number cubed equals –36, prompting them to reason about cube roots."
+    },
+    {
+      "ID": 22226,
+      "Speaker": "T",
+      "Turn": 296,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher requests the exact value of 2 raised to the third power."
+    },
+    {
+      "ID": 22228,
+      "Speaker": "T",
+      "Turn": 298,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student’s phrase \"Two times two times two\" almost verbatim before seeking the result."
+    },
+    {
+      "ID": 22230,
+      "Speaker": "T",
+      "Turn": 300,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks whether 8 is a factor of 36, seeking a precise factual response."
+    },
+    {
+      "ID": 22231,
+      "Speaker": "T",
+      "Turn": 300,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the exact value of 3 × 3 × 3."
+    },
+    {
+      "ID": 22232,
+      "Speaker": "T",
+      "Turn": 300
+    },
+    {
+      "ID": 22233,
+      "Speaker": "T",
+      "Turn": 301,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher checks whether the stated product equals –27, prompting confirmation of numerical accuracy."
+    },
+    {
+      "ID": 22234,
+      "Speaker": "T",
+      "Turn": 301
+    },
+    {
+      "ID": 22235,
+      "Speaker": "T",
+      "Turn": 302
+    },
+    {
+      "ID": 22236,
+      "Speaker": "T",
+      "Turn": 303,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks students to compute 3 × (–9), requesting a specific calculation."
+    },
+    {
+      "ID": 22237,
+      "Speaker": "T",
+      "Turn": 303,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to state the exact value of the cube root of –27."
+    },
+    {
+      "ID": 22238,
+      "Speaker": "T",
+      "Turn": 303
+    },
+    {
+      "ID": 22239,
+      "Speaker": "T",
+      "Turn": 304
+    },
+    {
+      "ID": 22240,
+      "Speaker": "T",
+      "Turn": 304
+    },
+    {
+      "ID": 22241,
+      "Speaker": "T",
+      "Turn": 305,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher checks the class’s progress to ensure all students are keeping up."
+    },
+    {
+      "ID": 22242,
+      "Speaker": "T",
+      "Turn": 305,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Again asks who needs more time, monitoring the class so everyone stays together."
+    },
+    {
+      "ID": 22243,
+      "Speaker": "T",
+      "Turn": 306
+    },
+    {
+      "ID": 22244,
+      "Speaker": "T",
+      "Turn": 306
+    },
+    {
+      "ID": 22245,
+      "Speaker": "T",
+      "Turn": 306
+    },
+    {
+      "ID": 22246,
+      "Speaker": "T",
+      "Turn": 306
+    },
+    {
+      "ID": 22247,
+      "Speaker": "T",
+      "Turn": 306
+    },
+    {
+      "ID": 22248,
+      "Speaker": "T",
+      "Turn": 307
+    }
+  ]
+}

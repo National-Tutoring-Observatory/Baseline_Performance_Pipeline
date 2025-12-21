@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 792,
+      "Speaker": "T",
+      "Turn": 792,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks for the exact value of the fraction, prompting a precise mathematical answer."
+    },
+    {
+      "ID": 794,
+      "Speaker": "T",
+      "Turn": 794,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher repeats the presumed student answer (“four fourths”) and restates it as “one,” adding clarifying wording."
+    },
+    {
+      "ID": 795,
+      "Speaker": "T",
+      "Turn": 795,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 796,
+      "Speaker": "T",
+      "Turn": 796,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 797,
+      "Speaker": "T",
+      "Turn": 797,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 798,
+      "Speaker": "T",
+      "Turn": 798,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 799,
+      "Speaker": "T",
+      "Turn": 799,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 800,
+      "Speaker": "T",
+      "Turn": 800,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 801,
+      "Speaker": "T",
+      "Turn": 801,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher tells students to adjust their choice (“try it a little bit bigger”), prompting a more accurate selection."
+    },
+    {
+      "ID": 802,
+      "Speaker": "T",
+      "Turn": 802,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 803,
+      "Speaker": "T",
+      "Turn": 803,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks for the specific piece that matches the whole, seeking a correct mathematical identification."
+    },
+    {
+      "ID": 805,
+      "Speaker": "T",
+      "Turn": 805,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Follow-up question asking for the exact color of the piece, requesting a precise attribute."
+    },
+    {
+      "ID": 807,
+      "Speaker": "T",
+      "Turn": 807,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher repeats the student’s answer (“orange”) and elaborates on its mathematical meaning (one-third vs. one whole)."
+    },
+    {
+      "ID": 808,
+      "Speaker": "T",
+      "Turn": 808,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 809,
+      "Speaker": "T",
+      "Turn": 809,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 810,
+      "Speaker": "T",
+      "Turn": 810,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 812,
+      "Speaker": "T",
+      "Turn": 812,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher states the student’s conjecture (“two light blues”) aloud for the class, restating the idea."
+    },
+    {
+      "ID": 813,
+      "Speaker": "T",
+      "Turn": 813,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher invites the class to test the suggestion (“Let’s see if that works”), prompting evidence and justification."
+    },
+    {
+      "ID": 814,
+      "Speaker": "T",
+      "Turn": 814,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 815,
+      "Speaker": "T",
+      "Turn": 815,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Teacher highlights Deely’s method for the whole class, orienting everyone to a peer’s idea."
+    }
+  ]
+}

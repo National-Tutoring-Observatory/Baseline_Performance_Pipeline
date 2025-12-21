@@ -1,0 +1,74 @@
+{
+  "records": [
+    {
+      "ID": 24851,
+      "Speaker": "T",
+      "Turn": 195,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Teacher directs the class’s collective attention to the data, ensuring all students are focused on the same information."
+    },
+    {
+      "ID": 24855,
+      "Speaker": "T",
+      "Turn": 198,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher echoes the students’ earlier reply of “two,” rephrasing it as “We have two,” thus restating and slightly expanding the student’s contribution."
+    },
+    {
+      "ID": 24856,
+      "Speaker": "T",
+      "Turn": 198,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24857,
+      "Speaker": "T",
+      "Turn": 198,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24858,
+      "Speaker": "T",
+      "Turn": 198,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a clarifying question (“Are we at 4 12 now?”) to check if the class has the correct numerical value."
+    },
+    {
+      "ID": 24860,
+      "Speaker": "T",
+      "Turn": 200,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the exact count of 4 1/2 entries, prompting students to provide a precise numerical answer."
+    },
+    {
+      "ID": 24862,
+      "Speaker": "T",
+      "Turn": 202,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher simply repeats the student’s answer “Two” verbatim, confirming what was said."
+    },
+    {
+      "ID": 24866,
+      "Speaker": "T",
+      "Turn": 206,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher checks whether the identified value is the highest, prompting students to verify the correctness of their data."
+    },
+    {
+      "ID": 24869,
+      "Speaker": "T",
+      "Turn": 208,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24870,
+      "Speaker": "T",
+      "Turn": 208,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks if the value is the greatest, prompting students to confirm the correct statistical characteristic."
+    }
+  ]
+}

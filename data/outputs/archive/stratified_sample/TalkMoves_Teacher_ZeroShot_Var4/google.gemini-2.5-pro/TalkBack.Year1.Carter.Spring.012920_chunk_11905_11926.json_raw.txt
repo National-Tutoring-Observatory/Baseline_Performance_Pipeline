@@ -1,0 +1,116 @@
+{
+  "records": [
+    {
+      "ID": 11905,
+      "Turn": 33,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11906,
+      "Turn": 33,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the specific dimensions of the rectangle, which is a prompt for a precise mathematical contribution."
+    },
+    {
+      "ID": 11907,
+      "Turn": 33,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11910,
+      "Turn": 35,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher re-asks for the specific dimensions of the rectangle, prompting for a precise mathematical contribution."
+    },
+    {
+      "ID": 11912,
+      "Turn": 37,
+      "Speaker": "T",
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher asks the class to respond to a classmate's proposed dimensions."
+    },
+    {
+      "ID": 11913,
+      "Turn": 37,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11914,
+      "Turn": 37,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11915,
+      "Turn": 37,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11916,
+      "Turn": 37,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to explain the method ('How could we...') for marking the number lines, which prompts for their thinking."
+    },
+    {
+      "ID": 11917,
+      "Turn": 37,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher repeats the question asking for the method ('How can we...'), prompting a student to share their thinking."
+    },
+    {
+      "ID": 11918,
+      "Turn": 37,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts a student to explain their method by referencing their own work, asking 'how' they can achieve the goal."
+    },
+    {
+      "ID": 11919,
+      "Turn": 37,
+      "Speaker": "T",
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher asks the class to respond to another student's thinking."
+    },
+    {
+      "ID": 11920,
+      "Turn": 37,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks 'why' a student would use a particular strategy, directly prompting for justification."
+    },
+    {
+      "ID": 11922,
+      "Turn": 39,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases the student's explanation about using tick marks ('you can just look where the shaded ends') to make it clearer and more concise ('its really clear where to shade to')."
+    },
+    {
+      "ID": 11924,
+      "Turn": 41,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11925,
+      "Turn": 41,
+      "Speaker": "T",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher checks if a specific student understood the contribution of another, ensuring he is following the conversation."
+    }
+  ]
+}

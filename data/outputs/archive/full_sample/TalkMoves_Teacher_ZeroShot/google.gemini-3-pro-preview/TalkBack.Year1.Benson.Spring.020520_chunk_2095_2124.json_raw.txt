@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 2095,
+      "Speaker": "T",
+      "Turn": 2095,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for specific numerical information ('What three numbers') needed for the calculation."
+    },
+    {
+      "ID": 2096,
+      "Speaker": "T",
+      "Turn": 2096,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher repeats the request for specific numbers to a specific student."
+    },
+    {
+      "ID": 2098,
+      "Speaker": "T",
+      "Turn": 2098,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher directs the student to a resource ('your chart') to find the correct information."
+    },
+    {
+      "ID": 2100,
+      "Speaker": "T",
+      "Turn": 2100,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to explain the source or logic behind a specific number ('Whered you get the four')."
+    },
+    {
+      "ID": 2102,
+      "Speaker": "T",
+      "Turn": 2102,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's idea ('Since there are four people in their group') to confirm the reasoning."
+    },
+    {
+      "ID": 2103,
+      "Speaker": "T",
+      "Turn": 2103,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the next step in the calculation procedure."
+    },
+    {
+      "ID": 2105,
+      "Speaker": "T",
+      "Turn": 2105,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts for the explanation behind multiplying by three ('because')."
+    },
+    {
+      "ID": 2107,
+      "Speaker": "T",
+      "Turn": 2107,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's justification ('they will perform for three hours') to solidify the reasoning."
+    },
+    {
+      "ID": 2108,
+      "Speaker": "T",
+      "Turn": 2108,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2109,
+      "Speaker": "T",
+      "Turn": 2109,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks for an alternative method or strategy ('Is there a different way to do it')."
+    },
+    {
+      "ID": 2110,
+      "Speaker": "T",
+      "Turn": 2110,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher calls on a specific student to provide an alternative strategy."
+    },
+    {
+      "ID": 2113,
+      "Speaker": "T",
+      "Turn": 2113,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2114,
+      "Speaker": "T",
+      "Turn": 2114,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts for yet another alternative strategy."
+    },
+    {
+      "ID": 2116,
+      "Speaker": "T",
+      "Turn": 2116,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks a specific student to articulate the third strategy."
+    },
+    {
+      "ID": 2118,
+      "Speaker": "T",
+      "Turn": 2118,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2119,
+      "Speaker": "T",
+      "Turn": 2119,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases the student's contribution, clarifying that the strategy is 'an estimate'."
+    },
+    {
+      "ID": 2120,
+      "Speaker": "T",
+      "Turn": 2120,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for a specific number that is easier to calculate with."
+    },
+    {
+      "ID": 2122,
+      "Speaker": "T",
+      "Turn": 2122,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher confirms the student's suggestion ('20 is definitely easier') and validates the choice."
+    },
+    {
+      "ID": 2123,
+      "Speaker": "T",
+      "Turn": 2123,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher explains the logic of the estimation strategy ('We know a very simple factor...')."
+    },
+    {
+      "ID": 2124,
+      "Speaker": "T",
+      "Turn": 2124,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the result of a specific calculation ('What is 20 x 4')."
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "records": [
+    {
+      "ID": 16562,
+      "Turn": 133,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16565,
+      "Turn": 135,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16577,
+      "Turn": 141,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher takes the student's procedural description of switching signs and rephrases it by adding the mathematical concept of symmetry to explain the student's thinking."
+    },
+    {
+      "ID": 16578,
+      "Turn": 141,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "Continuing the previous utterance, the teacher further elaborates on the student's idea by re-casting it in terms of adding and subtracting the same amount to achieve symmetry."
+    },
+    {
+      "ID": 16579,
+      "Turn": 141,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16581,
+      "Turn": 143,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16582,
+      "Turn": 143,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

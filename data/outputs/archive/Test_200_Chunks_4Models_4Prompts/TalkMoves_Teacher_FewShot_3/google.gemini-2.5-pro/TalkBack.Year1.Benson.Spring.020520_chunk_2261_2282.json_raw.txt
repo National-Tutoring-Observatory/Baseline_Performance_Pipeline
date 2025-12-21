@@ -1,0 +1,138 @@
+[
+  {
+    "ID": 2261,
+    "Turn": 203,
+    "Speaker": "T",
+    "Sentence": "burritos  Do subtracting",
+    "TalkMove": "None",
+    "Reasoning": null
+  },
+  {
+    "ID": 2263,
+    "Turn": 205,
+    "Speaker": "T",
+    "Sentence": "Can you take a big number away from a small number to even begin with",
+    "TalkMove": "Pressing for Reasoning",
+    "Reasoning": "The teacher asks a question to prompt the student to think about the logic of their chosen mathematical operation."
+  },
+  {
+    "ID": 2265,
+    "Turn": 207,
+    "Speaker": "T",
+    "Sentence": "Okay so think about what you need to do to",
+    "TalkMove": "None",
+    "Reasoning": null
+  },
+  {
+    "ID": 2266,
+    "Turn": 207,
+    "Speaker": "T",
+    "Sentence": "Make sure you have your dollar sign",
+    "TalkMove": "Pressing for Accuracy",
+    "Reasoning": "The teacher prompts the student to use correct mathematical notation."
+  },
+  {
+    "ID": 2267,
+    "Turn": 208,
+    "Speaker": "T",
+    "Sentence": "That makes more sense",
+    "TalkMove": "None",
+    "Reasoning": null
+  },
+  {
+    "ID": 2268,
+    "Turn": 208,
+    "Speaker": "T",
+    "Sentence": "Put the dollar sign  and its dollars",
+    "TalkMove": "Pressing for Accuracy",
+    "Reasoning": "The teacher prompts the student to use correct mathematical notation."
+  },
+  {
+    "ID": 2269,
+    "Turn": 208,
+    "Speaker": "T",
+    "Sentence": "Good Job",
+    "TalkMove": "None",
+    "Reasoning": null
+  },
+  {
+    "ID": 2270,
+    "Turn": 208,
+    "Speaker": "T",
+    "Sentence": "Okay then make your box",
+    "TalkMove": "None",
+    "Reasoning": null
+  },
+  {
+    "ID": 2271,
+    "Turn": 209,
+    "Speaker": "T",
+    "Sentence": "Okay  trying to  how you solve this",
+    "TalkMove": "None",
+    "Reasoning": null
+  },
+  {
+    "ID": 2272,
+    "Turn": 209,
+    "Speaker": "T",
+    "Sentence": "Those of you who are struggling through listen really carefully to your classmates and how they walk you through how to solve this",
+    "TalkMove": "Keeping Everyone Together",
+    "Reasoning": "The teacher explicitly directs students to listen to their classmates' explanations."
+  },
+  {
+    "ID": 2273,
+    "Turn": 209,
+    "Speaker": "T",
+    "Sentence": "When youre explaining if I call on you please tell us why youre using specific numbers",
+    "TalkMove": "Pressing for Reasoning",
+    "Reasoning": "The teacher sets the expectation for students to explain the 'why' behind their mathematical choices."
+  },
+  {
+    "ID": 2274,
+    "Turn": 209,
+    "Speaker": "T",
+    "Sentence": "If you say said I did 13 x 3 please tell me why you did 13 x 3",
+    "TalkMove": "Pressing for Reasoning",
+    "Reasoning": "The teacher provides a specific example of how students should provide reasoning for their calculations."
+  },
+  {
+    "ID": 2275,
+    "Turn": 209,
+    "Speaker": "T",
+    "Sentence": "Okay",
+    "TalkMove": "None",
+    "Reasoning": null
+  },
+  {
+    "ID": 2276,
+    "Turn": 209,
+    "Speaker": "T",
+    "Sentence": "Are you ready",
+    "TalkMove": "None",
+    "Reasoning": null
+  },
+  {
+    "ID": 2277,
+    "Turn": 209,
+    "Speaker": "T",
+    "Sentence": "Im going to turn my microphone off so that we can hear you not me",
+    "TalkMove": "None",
+    "Reasoning": null
+  },
+  {
+    "ID": 2279,
+    "Turn": 211,
+    "Speaker": "T",
+    "Sentence": "All right Lee",
+    "TalkMove": "None",
+    "Reasoning": null
+  },
+  {
+    "ID": 2281,
+    "Turn": 213,
+    "Speaker": "T",
+    "Sentence": "Lets do the actual number model first and then you could talk us through your estimates and then talk us through how you solved it",
+    "TalkMove": "None",
+    "Reasoning": null
+  }
+]

@@ -1,0 +1,204 @@
+{
+  "records": [
+    {
+      "ID": 12332,
+      "Turn": 28,
+      "Speaker": "T",
+      "Sentence": "Our experiment is failing",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12333,
+      "Turn": 28,
+      "Speaker": "T",
+      "Sentence": "That happens",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12334,
+      "Turn": 28,
+      "Speaker": "T",
+      "Sentence": "Talk with your shoulder partner",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12335,
+      "Turn": 28,
+      "Speaker": "T",
+      "Sentence": "I want the person with the shortest hair to go first explain what you annotated and why",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts students to explain the reasoning behind their annotations by asking them to explain 'why'."
+    },
+    {
+      "ID": 12336,
+      "Turn": 28,
+      "Speaker": "T",
+      "Sentence": "Others partner youre either going to agree or maybe youre going to say things that youve also annotated or you might even tell your partner something like How is that important",
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher instructs the listening partner on how to respond to their classmate's ideas, by agreeing or sharing their own related annotations."
+    },
+    {
+      "ID": 12337,
+      "Turn": 28,
+      "Speaker": "T",
+      "Sentence": "Im not sure that needs to be underlined",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12338,
+      "Turn": 28,
+      "Speaker": "T",
+      "Sentence": "Because some people will get annotation crazy and underline everything",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12339,
+      "Turn": 28,
+      "Speaker": "T",
+      "Sentence": "Go",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12340,
+      "Turn": 29,
+      "Speaker": "T",
+      "Sentence": "All right waterfall",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12341,
+      "Turn": 29,
+      "Speaker": "T",
+      "Sentence": "Hayden come on down",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12342,
+      "Turn": 29,
+      "Speaker": "T",
+      "Sentence": "Annotate tell us why",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher explicitly asks the student to provide the reasoning for their annotation by saying 'tell us why'."
+    },
+    {
+      "ID": 12344,
+      "Turn": 31,
+      "Speaker": "T",
+      "Sentence": "Everything",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12345,
+      "Turn": 31,
+      "Speaker": "T",
+      "Sentence": "Everything should be annotated but you need to be talking to us",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12346,
+      "Turn": 31,
+      "Speaker": "T",
+      "Sentence": "Thats why I gave you the mike",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12347,
+      "Turn": 31,
+      "Speaker": "T",
+      "Sentence": "Hold the mike up closer to mouth",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12349,
+      "Turn": 33,
+      "Speaker": "T",
+      "Sentence": "What you said was fine",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12350,
+      "Turn": 33,
+      "Speaker": "T",
+      "Sentence": "Just have confidence in yourself",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12351,
+      "Turn": 33,
+      "Speaker": "T",
+      "Sentence": "Youre just telling us why you thought it was important",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher reframes the task to encourage the student to share their thinking and justification for their annotation."
+    },
+    {
+      "ID": 12352,
+      "Turn": 33,
+      "Speaker": "T",
+      "Sentence": "Thats all",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12354,
+      "Turn": 35,
+      "Speaker": "T",
+      "Sentence": "So then should you annotate something over that",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts the student to connect their idea ('you know you're going to divide') to the action of annotating, thus pressing them to act on their reasoning."
+    },
+    {
+      "ID": 12356,
+      "Turn": 37,
+      "Speaker": "T",
+      "Sentence": "Yes",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12357,
+      "Turn": 37,
+      "Speaker": "T",
+      "Sentence": "Go",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12359,
+      "Turn": 39,
+      "Speaker": "T",
+      "Sentence": "Anybody have anything they would like to add to any No",
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher asks the class if they want to add to what the previous student shared, prompting them to react to their classmate's contribution."
+    },
+    {
+      "ID": 12360,
+      "Turn": 39,
+      "Speaker": "T",
+      "Sentence": "Jessie",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12361,
+      "Turn": 41,
+      "Speaker": "T",
+      "Sentence": "Come on",
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

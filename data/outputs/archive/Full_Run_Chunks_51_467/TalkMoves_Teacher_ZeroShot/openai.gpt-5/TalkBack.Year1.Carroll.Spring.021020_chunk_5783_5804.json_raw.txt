@@ -1,0 +1,109 @@
+{
+  "records": [
+    {
+      "ID": 5783,
+      "Speaker": "T",
+      "Turn": 123,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5784,
+      "Speaker": "T",
+      "Turn": 123,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher directs students to turn and watch, prompting active listening."
+    },
+    {
+      "ID": 5785,
+      "Speaker": "T",
+      "Turn": 123,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher prompts attention to the lesson, orienting the student to listen."
+    },
+    {
+      "ID": 5786,
+      "Speaker": "T",
+      "Turn": 123,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the current number/problem, prompting a specific mathematical contribution."
+    },
+    {
+      "ID": 5787,
+      "Speaker": "T",
+      "Turn": 123,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5788,
+      "Speaker": "T",
+      "Turn": 123,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5791,
+      "Speaker": "T",
+      "Turn": 126,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5792,
+      "Speaker": "T",
+      "Turn": 126,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5794,
+      "Speaker": "T",
+      "Turn": 128,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5796,
+      "Speaker": "T",
+      "Turn": 130,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5797,
+      "Speaker": "T",
+      "Turn": 130,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks students to classify 24, prompting a precise mathematical answer."
+    },
+    {
+      "ID": 5799,
+      "Speaker": "T",
+      "Turn": 132,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5800,
+      "Speaker": "T",
+      "Turn": 132,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to state the classification for 25."
+    },
+    {
+      "ID": 5803,
+      "Speaker": "T",
+      "Turn": 134,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's one-word response exactly."
+    },
+    {
+      "ID": 5804,
+      "Speaker": "T",
+      "Turn": 134,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks what factors go into 27, prompting justification for the classification."
+    }
+  ]
+}

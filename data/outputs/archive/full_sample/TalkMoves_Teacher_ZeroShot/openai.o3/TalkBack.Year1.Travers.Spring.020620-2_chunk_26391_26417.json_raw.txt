@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 26391,
+      "Speaker": "T",
+      "Turn": 26391,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26392,
+      "Speaker": "T",
+      "Turn": 26392,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks for a specific numerical fact (number of hours)."
+    },
+    {
+      "ID": 26394,
+      "Speaker": "T",
+      "Turn": 26394,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Requests an exact amount of money per performer."
+    },
+    {
+      "ID": 26396,
+      "Speaker": "T",
+      "Turn": 26396,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26397,
+      "Speaker": "T",
+      "Turn": 26397,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26399,
+      "Speaker": "T",
+      "Turn": 26399,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Seeks the precise number of people involved."
+    },
+    {
+      "ID": 26400,
+      "Speaker": "T",
+      "Turn": 26400,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher restates and elaborates the student’s earlier contribution (three people, two hours, $30 each)."
+    },
+    {
+      "ID": 26401,
+      "Speaker": "T",
+      "Turn": 26401,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Orients the whole class to the shared goal of figuring out the problem."
+    },
+    {
+      "ID": 26402,
+      "Speaker": "T",
+      "Turn": 26402,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26403,
+      "Speaker": "T",
+      "Turn": 26403,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26404,
+      "Speaker": "T",
+      "Turn": 26404,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks for the exact number of tap dancers."
+    },
+    {
+      "ID": 26406,
+      "Speaker": "T",
+      "Turn": 26406,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Prompts the student to speak loudly/clearly so everyone can hear."
+    },
+    {
+      "ID": 26408,
+      "Speaker": "T",
+      "Turn": 26408,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Requests the specific number of hours."
+    },
+    {
+      "ID": 26410,
+      "Speaker": "T",
+      "Turn": 26410,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks for the precise hourly earnings of the tap dancers."
+    },
+    {
+      "ID": 26412,
+      "Speaker": "T",
+      "Turn": 26412,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26413,
+      "Speaker": "T",
+      "Turn": 26413,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26414,
+      "Speaker": "T",
+      "Turn": 26414,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26415,
+      "Speaker": "T",
+      "Turn": 26415,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Instructs students to discuss and articulate what the problem is asking."
+    },
+    {
+      "ID": 26416,
+      "Speaker": "T",
+      "Turn": 26416,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Directs attention to a specific question so the class focuses together."
+    },
+    {
+      "ID": 26417,
+      "Speaker": "T",
+      "Turn": 26417,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Asks students to articulate the meaning of the problem."
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 8681,
+      "Speaker": "T",
+      "Turn": 8681,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8682,
+      "Speaker": "T",
+      "Turn": 8682,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8685,
+      "Speaker": "T",
+      "Turn": 8685,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to articulate what difficulty they are facing, prompting the student to explain their thinking."
+    },
+    {
+      "ID": 8686,
+      "Speaker": "T",
+      "Turn": 8686,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher restates the student’s dilemma in her own words: deciding whether 3 is a factor of 36."
+    },
+    {
+      "ID": 8693,
+      "Speaker": "T",
+      "Turn": 8693,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8695,
+      "Speaker": "T",
+      "Turn": 8695,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8698,
+      "Speaker": "T",
+      "Turn": 8698,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the specific number that, when multiplied by 4, equals 36, prompting a precise mathematical answer."
+    },
+    {
+      "ID": 8703,
+      "Speaker": "T",
+      "Turn": 8703,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for a specific multiplication fact (what times 10), requesting an accurate numeric response."
+    },
+    {
+      "ID": 8705,
+      "Speaker": "T",
+      "Turn": 8705,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8709,
+      "Speaker": "T",
+      "Turn": 8709,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to confirm whether the result would still be 36, checking for correct computation."
+    },
+    {
+      "ID": 8710,
+      "Speaker": "T",
+      "Turn": 8710,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8711,
+      "Speaker": "T",
+      "Turn": 8711,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8712,
+      "Speaker": "T",
+      "Turn": 8712,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "By asking 'Does five go in?', the teacher prompts the student to determine whether 5 is a factor of 36."
+    },
+    {
+      "ID": 8714,
+      "Speaker": "T",
+      "Turn": 8714,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks the student to consider whether 4 is a factor, requesting a specific mathematical determination."
+    },
+    {
+      "ID": 8718,
+      "Speaker": "T",
+      "Turn": 8718,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8720,
+      "Speaker": "T",
+      "Turn": 8720,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks 'Six times what is 36', eliciting the precise factor that pairs with 6."
+    },
+    {
+      "ID": 8722,
+      "Speaker": "T",
+      "Turn": 8722,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8724,
+      "Speaker": "T",
+      "Turn": 8724,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8725,
+      "Speaker": "T",
+      "Turn": 8725,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8726,
+      "Speaker": "T",
+      "Turn": 8726,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

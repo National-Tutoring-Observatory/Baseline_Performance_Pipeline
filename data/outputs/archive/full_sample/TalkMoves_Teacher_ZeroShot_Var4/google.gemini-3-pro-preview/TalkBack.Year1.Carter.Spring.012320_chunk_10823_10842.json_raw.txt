@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 10823,
+      "Speaker": "T",
+      "Turn": 10823,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10824,
+      "Speaker": "T",
+      "Turn": 10824,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a specific question about the mathematical procedure ('divide it by a rule'), prompting the student for a precise mathematical step."
+    },
+    {
+      "ID": 10825,
+      "Speaker": "T",
+      "Turn": 10825,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks the student to identify a specific component of the fraction ('What part of the fraction'), prompting for accurate mathematical terminology."
+    },
+    {
+      "ID": 10826,
+      "Speaker": "T",
+      "Turn": 10826,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher repeats the question asking for the specific part of the fraction, pressing for the correct term."
+    },
+    {
+      "ID": 10827,
+      "Speaker": "T",
+      "Turn": 10827,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's answer ('The numerator') to confirm the correct term was identified."
+    },
+    {
+      "ID": 10828,
+      "Speaker": "T",
+      "Turn": 10828,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10829,
+      "Speaker": "T",
+      "Turn": 10829,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher walks through the calculation ('15 divided by three is three') and prompts for the next step ('and then'), asking for the accurate continuation of the procedure."
+    },
+    {
+      "ID": 10830,
+      "Speaker": "T",
+      "Turn": 10830,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher explicitly asks for a specific mathematical term ('whats that vocabulary word')."
+    },
+    {
+      "ID": 10831,
+      "Speaker": "T",
+      "Turn": 10831,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's answer ('unit fraction') and incorporates it into a full sentence to confirm the concept."
+    },
+    {
+      "ID": 10832,
+      "Speaker": "T",
+      "Turn": 10832,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases the previous idea to clarify the mathematical goal ('finding what 1/10 is')."
+    },
+    {
+      "ID": 10833,
+      "Speaker": "T",
+      "Turn": 10833,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher continues to rephrase the mathematical process to solidify the concept for the student."
+    },
+    {
+      "ID": 10834,
+      "Speaker": "T",
+      "Turn": 10834,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10835,
+      "Speaker": "T",
+      "Turn": 10835,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10836,
+      "Speaker": "T",
+      "Turn": 10836,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10837,
+      "Speaker": "T",
+      "Turn": 10837,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the next specific step in the procedure ('what do you do once you find what 1/5 is')."
+    },
+    {
+      "ID": 10838,
+      "Speaker": "T",
+      "Turn": 10838,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to demonstrate the mathematical work ('Show me')."
+    },
+    {
+      "ID": 10839,
+      "Speaker": "T",
+      "Turn": 10839,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher repeats the question asking for the specific procedural step."
+    },
+    {
+      "ID": 10840,
+      "Speaker": "T",
+      "Turn": 10840,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts for the specific operation ('Multiply by'), looking for the student to complete the thought."
+    },
+    {
+      "ID": 10841,
+      "Speaker": "T",
+      "Turn": 10841,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher confirms the student's answer ('By the numerator') by repeating it back to them."
+    },
+    {
+      "ID": 10842,
+      "Speaker": "T",
+      "Turn": 10842,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

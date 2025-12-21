@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 23754,
+      "Speaker": "T",
+      "Turn": 23754,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to provide the correct mathematical definition by starting the sentence."
+    },
+    {
+      "ID": 23756,
+      "Speaker": "T",
+      "Turn": 23756,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23758,
+      "Speaker": "T",
+      "Turn": 23758,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to elaborate on their thinking."
+    },
+    {
+      "ID": 23760,
+      "Speaker": "T",
+      "Turn": 23760,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher scaffolds the definition by providing the beginning of the phrase, pressing the student for the correct mathematical language."
+    },
+    {
+      "ID": 23762,
+      "Speaker": "T",
+      "Turn": 23762,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher completes a student's partial utterance to form a complete and correct mathematical definition."
+    },
+    {
+      "ID": 23764,
+      "Speaker": "T",
+      "Turn": 23764,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23765,
+      "Speaker": "T",
+      "Turn": 23765,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher directs students' attention to a shared focal point to ensure they are all engaged in the lesson."
+    },
+    {
+      "ID": 23766,
+      "Speaker": "T",
+      "Turn": 23766,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23767,
+      "Speaker": "T",
+      "Turn": 23767,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23770,
+      "Speaker": "T",
+      "Turn": 23770,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats a student's contribution verbatim, including the word 'usually', to highlight it for the class."
+    },
+    {
+      "ID": 23771,
+      "Speaker": "T",
+      "Turn": 23771,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher asks the class to evaluate and respond to a specific student's idea."
+    },
+    {
+      "ID": 23772,
+      "Speaker": "T",
+      "Turn": 23772,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's idea again to ensure the class heard it before responding."
+    },
+    {
+      "ID": 23773,
+      "Speaker": "T",
+      "Turn": 23773,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23774,
+      "Speaker": "T",
+      "Turn": 23774,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23775,
+      "Speaker": "T",
+      "Turn": 23775,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher corrects a student's imprecise term ('usually') and pushes for a more precise mathematical term ('always')."
+    },
+    {
+      "ID": 23777,
+      "Speaker": "T",
+      "Turn": 23777,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a direct question to elicit a specific part of a mathematical definition."
+    },
+    {
+      "ID": 23779,
+      "Speaker": "T",
+      "Turn": 23779,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher provides a prompt to help a student articulate the correct mathematical definition."
+    },
+    {
+      "ID": 23781,
+      "Speaker": "T",
+      "Turn": 23781,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher completes a student's partial statement, rephrasing it into a complete mathematical idea."
+    },
+    {
+      "ID": 23782,
+      "Speaker": "T",
+      "Turn": 23782,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23783,
+      "Speaker": "T",
+      "Turn": 23783,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 1775,
+      "Turn": 123,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher is prompting students to formulate a mathematical equation based on the problem context."
+    },
+    {
+      "ID": 1777,
+      "Turn": 125,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1778,
+      "Turn": 125,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1779,
+      "Turn": 125,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1780,
+      "Turn": 125,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1781,
+      "Turn": 126,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1782,
+      "Turn": 126,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher is asking a student to explain the process or thinking that led to their answer."
+    },
+    {
+      "ID": 1783,
+      "Turn": 126,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1784,
+      "Turn": 126,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1785,
+      "Turn": 127,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1786,
+      "Turn": 127,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1787,
+      "Turn": 127,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1788,
+      "Turn": 127,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1789,
+      "Turn": 127,
+      "Speaker": "T",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher is polling the class to make students aware of a common answer among their peers, thus orienting them to the group's thinking."
+    },
+    {
+      "ID": 1790,
+      "Turn": 127,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1791,
+      "Turn": 127,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1792,
+      "Turn": 127,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1793,
+      "Turn": 127,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher is asking a student to share their answer, which is a different and more mathematically conventional representation, thus prompting for a specific mathematical contribution."
+    },
+    {
+      "ID": 1795,
+      "Turn": 128,
+      "Speaker": "T",
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's answer word for word."
+    },
+    {
+      "ID": 1796,
+      "Turn": 128,
+      "Speaker": "T",
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher explicitly contrasts one student's correct answer with the more common answer in the class, prompting students to consider and relate the two different ideas."
+    }
+  ]
+}

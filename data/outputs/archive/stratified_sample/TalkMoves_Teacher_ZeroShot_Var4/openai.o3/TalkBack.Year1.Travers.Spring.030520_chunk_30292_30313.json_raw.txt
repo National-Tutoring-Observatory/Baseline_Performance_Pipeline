@@ -1,0 +1,102 @@
+{
+  "records": [
+    {
+      "ID": 30292,
+      "Speaker": "T",
+      "Turn": 139,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks for a specific numerical answer ('How many pages'), prompting students to provide an exact amount."
+    },
+    {
+      "ID": 30293,
+      "Speaker": "T",
+      "Turn": 139,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 30294,
+      "Speaker": "T",
+      "Turn": 139,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 30295,
+      "Speaker": "T",
+      "Turn": 139,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 30296,
+      "Speaker": "T",
+      "Turn": 139,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 30297,
+      "Speaker": "T",
+      "Turn": 139,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Requests the exact number of items per page ('How many go on a page')."
+    },
+    {
+      "ID": 30299,
+      "Speaker": "T",
+      "Turn": 141,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Restates and slightly elaborates on the student’s answer by adding context: 'Six cards on a page.'"
+    },
+    {
+      "ID": 30300,
+      "Speaker": "T",
+      "Turn": 141,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Invites the whole class to participate in counting ('Count with me')."
+    },
+    {
+      "ID": 30305,
+      "Speaker": "T",
+      "Turn": 145,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Again prompts collective participation in counting."
+    },
+    {
+      "ID": 30306,
+      "Speaker": "T",
+      "Turn": 145,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 30307,
+      "Speaker": "T",
+      "Turn": 145,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Asks a student to identify the 'important word,' prompting explanation of the reasoning behind the solution constraint."
+    },
+    {
+      "ID": 30309,
+      "Speaker": "T",
+      "Turn": 147,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 30310,
+      "Speaker": "T",
+      "Turn": 147,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 30312,
+      "Speaker": "T",
+      "Turn": 149,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

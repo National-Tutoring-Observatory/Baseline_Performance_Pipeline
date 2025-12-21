@@ -1,0 +1,53 @@
+{
+  "records": [
+    {
+      "ID": 12972,
+      "Speaker": "T",
+      "Turn": 12972,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12973,
+      "Speaker": "T",
+      "Turn": 12973,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12974,
+      "Speaker": "T",
+      "Turn": 12974,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to think about and identify specific instances of a mathematical concept (decimals) within a real-world context, prompting them to connect ideas."
+    },
+    {
+      "ID": 12975,
+      "Speaker": "T",
+      "Turn": 12975,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12976,
+      "Speaker": "T",
+      "Turn": 12976,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher is orienting the students' attention to the specific mathematical focus of the activity (looking for decimals)."
+    },
+    {
+      "ID": 12977,
+      "Speaker": "T",
+      "Turn": 12977,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher redirects student attention back to the main mathematical focus despite the interactive nature of the tool (zooming)."
+    },
+    {
+      "ID": 12978,
+      "Speaker": "T",
+      "Turn": 12978,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher directs students to share their thinking with a partner, ensuring active listening and participation among classmates."
+    }
+  ]
+}

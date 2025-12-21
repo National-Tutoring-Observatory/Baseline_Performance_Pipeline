@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 3012,
+      "Speaker": "T",
+      "Turn": 3012,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3013,
+      "Speaker": "T",
+      "Turn": 3013,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3014,
+      "Speaker": "T",
+      "Turn": 3014,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3015,
+      "Speaker": "T",
+      "Turn": 3015,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for a specific definition of a mathematical concept ('area')."
+    },
+    {
+      "ID": 3017,
+      "Speaker": "T",
+      "Turn": 3017,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's answer ('surface area inside the rectangle') and elaborates by adding 'all this space in here'."
+    },
+    {
+      "ID": 3018,
+      "Speaker": "T",
+      "Turn": 3018,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3019,
+      "Speaker": "T",
+      "Turn": 3019,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats and validates the student's idea, rephrasing it as 'inside the shape'."
+    },
+    {
+      "ID": 3020,
+      "Speaker": "T",
+      "Turn": 3020,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3021,
+      "Speaker": "T",
+      "Turn": 3021,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3022,
+      "Speaker": "T",
+      "Turn": 3022,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to explain the method or justification ('How do I know') for determining the side measurement."
+    },
+    {
+      "ID": 3023,
+      "Speaker": "T",
+      "Turn": 3023,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks for the justification ('how do I know') for determining the measurement of the opposite side."
+    },
+    {
+      "ID": 3024,
+      "Speaker": "T",
+      "Turn": 3024,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3026,
+      "Speaker": "T",
+      "Turn": 3026,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3028,
+      "Speaker": "T",
+      "Turn": 3028,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3029,
+      "Speaker": "T",
+      "Turn": 3029,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3030,
+      "Speaker": "T",
+      "Turn": 3030,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to provide a specific mathematical representation (an equation)."
+    },
+    {
+      "ID": 3031,
+      "Speaker": "T",
+      "Turn": 3031,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts a specific student to provide a mathematical equation."
+    },
+    {
+      "ID": 3033,
+      "Speaker": "T",
+      "Turn": 3033,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3035,
+      "Speaker": "T",
+      "Turn": 3035,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to identify a specific missing component of the problem."
+    },
+    {
+      "ID": 3037,
+      "Speaker": "T",
+      "Turn": 3037,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

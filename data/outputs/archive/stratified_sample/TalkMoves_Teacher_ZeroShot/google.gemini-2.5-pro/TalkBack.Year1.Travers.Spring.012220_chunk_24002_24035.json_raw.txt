@@ -1,0 +1,234 @@
+{
+  "records": [
+    {
+      "ID": 24002,
+      "Turn": 150,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to explain the process they used to arrive at their answer."
+    },
+    {
+      "ID": 24003,
+      "Turn": 151,
+      "Speaker": "S",
+      "Sentence": "I got six because"
+    },
+    {
+      "ID": 24004,
+      "Turn": 152,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts the student to connect their explanation to a specific mathematical representation on the screen."
+    },
+    {
+      "ID": 24005,
+      "Turn": 152,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24006,
+      "Turn": 152,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts the student to consider how a representation could help them explain their thinking."
+    },
+    {
+      "ID": 24007,
+      "Turn": 152,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24008,
+      "Turn": 152,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher repeats the request for the student to explain their thinking process."
+    },
+    {
+      "ID": 24009,
+      "Turn": 153,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24010,
+      "Turn": 153,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24011,
+      "Turn": 153,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24012,
+      "Turn": 153,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24013,
+      "Turn": 153,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24014,
+      "Turn": 153,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts for a specific, correct numerical answer based on the representation."
+    },
+    {
+      "ID": 24015,
+      "Turn": 153,
+      "Speaker": "S",
+      "Sentence": "Three"
+    },
+    {
+      "ID": 24016,
+      "Turn": 154,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts for the next correct numerical value in the sequence being demonstrated."
+    },
+    {
+      "ID": 24017,
+      "Turn": 155,
+      "Speaker": "S",
+      "Sentence": "Six"
+    },
+    {
+      "ID": 24018,
+      "Turn": 156,
+      "Speaker": "S",
+      "Sentence": "Six"
+    },
+    {
+      "ID": 24019,
+      "Turn": 157,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24020,
+      "Turn": 157,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24021,
+      "Turn": 157,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24022,
+      "Turn": 157,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24023,
+      "Turn": 157,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24024,
+      "Turn": 157,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks the whole class for a specific, correct numerical answer."
+    },
+    {
+      "ID": 24025,
+      "Turn": 158,
+      "Speaker": "S",
+      "Sentence": "Three"
+    },
+    {
+      "ID": 24026,
+      "Turn": 159,
+      "Speaker": "S",
+      "Sentence": "Three"
+    },
+    {
+      "ID": 24027,
+      "Turn": 160,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for a specific, correct numerical answer."
+    },
+    {
+      "ID": 24028,
+      "Turn": 161,
+      "Speaker": "S",
+      "Sentence": "Six"
+    },
+    {
+      "ID": 24029,
+      "Turn": 162,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24030,
+      "Turn": 163,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24031,
+      "Turn": 163,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24032,
+      "Turn": 163,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24033,
+      "Turn": 163,
+      "Speaker": "S",
+      "Sentence": "Awesome job Caleb"
+    },
+    {
+      "ID": 24034,
+      "Turn": 164,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24035,
+      "Turn": 164,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

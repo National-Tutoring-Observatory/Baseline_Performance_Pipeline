@@ -1,0 +1,123 @@
+{
+  "records": [
+    {
+      "ID": 7176,
+      "Turn": 114,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 7177,
+      "Turn": 114,
+      "Speaker": "T",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher directs the class to engage in the same activity together."
+    },
+    {
+      "ID": 7178,
+      "Turn": 114,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 7179,
+      "Turn": 114,
+      "Speaker": "T",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher prompts the whole class to read aloud together, ensuring shared participation."
+    },
+    {
+      "ID": 7181,
+      "Turn": 116,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 7182,
+      "Turn": 116,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 7184,
+      "Turn": 118,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 7185,
+      "Turn": 118,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to evaluate the outcome of a mathematical process, which requires them to reason about the rule's application."
+    },
+    {
+      "ID": 7187,
+      "Turn": 120,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 7188,
+      "Turn": 120,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 7190,
+      "Turn": 122,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Following a student's critique of a rule, the teacher prompts the student to provide the more precise mathematical statement."
+    },
+    {
+      "ID": 7192,
+      "Turn": 124,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases the student's specific critique about the X-coordinate into a more general statement about the rule not being detailed enough."
+    },
+    {
+      "ID": 7193,
+      "Turn": 124,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 7194,
+      "Turn": 124,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to describe their thinking and predict an outcome."
+    },
+    {
+      "ID": 7195,
+      "Turn": 124,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher follows up on a prompt for reasoning by asking for more specific details in the explanation."
+    },
+    {
+      "ID": 7196,
+      "Turn": 124,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher provides a sentence starter to scaffold the students' explanation of their reasoning."
+    },
+    {
+      "ID": 7197,
+      "Turn": 124,
+      "Speaker": "T",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher directs the class to read together, ensuring everyone is oriented to the same task."
+    }
+  ]
+}

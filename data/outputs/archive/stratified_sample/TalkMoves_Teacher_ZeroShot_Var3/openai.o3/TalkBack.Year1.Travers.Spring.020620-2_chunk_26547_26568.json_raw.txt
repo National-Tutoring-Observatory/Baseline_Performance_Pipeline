@@ -1,0 +1,123 @@
+{
+  "records": [
+    {
+      "ID": 26547,
+      "Speaker": "T",
+      "Turn": 174,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Teacher calls the class’s attention and invites collective help, orienting all students to participate."
+    },
+    {
+      "ID": 26548,
+      "Speaker": "T",
+      "Turn": 174,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks for the exact number of performers."
+    },
+    {
+      "ID": 26550,
+      "Speaker": "T",
+      "Turn": 176,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher solicits the precise number of hours."
+    },
+    {
+      "ID": 26552,
+      "Speaker": "T",
+      "Turn": 178,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher requests the specific monetary amount."
+    },
+    {
+      "ID": 26554,
+      "Speaker": "T",
+      "Turn": 180,
+      "TalkMove": "Restating",
+      "Reasoning": "Teacher repeats the student’s answer verbatim: “Thirty per hour.”"
+    },
+    {
+      "ID": 26555,
+      "Speaker": "T",
+      "Turn": 180,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26556,
+      "Speaker": "T",
+      "Turn": 180,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26557,
+      "Speaker": "T",
+      "Turn": 180,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher prompts students to supply the missing factor to complete the numerical expression."
+    },
+    {
+      "ID": 26558,
+      "Speaker": "T",
+      "Turn": 180,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26559,
+      "Speaker": "T",
+      "Turn": 180,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26560,
+      "Speaker": "T",
+      "Turn": 180,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26561,
+      "Speaker": "T",
+      "Turn": 180,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher reminds students to include the correct variable (the letter) in the expression."
+    },
+    {
+      "ID": 26562,
+      "Speaker": "T",
+      "Turn": 180,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher asks students to explain the meaning of the letter D in the expression."
+    },
+    {
+      "ID": 26565,
+      "Speaker": "T",
+      "Turn": 183,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher repeats and elaborates on the student’s answer, adding clarification ('Dollars in units')."
+    },
+    {
+      "ID": 26566,
+      "Speaker": "T",
+      "Turn": 183,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26567,
+      "Speaker": "T",
+      "Turn": 183,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Teacher directs the entire class to review the success criteria, ensuring collective focus."
+    },
+    {
+      "ID": 26568,
+      "Speaker": "T",
+      "Turn": 183,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher checks whether the current model meets the specified criterion of a single-number model with parentheses."
+    }
+  ]
+}

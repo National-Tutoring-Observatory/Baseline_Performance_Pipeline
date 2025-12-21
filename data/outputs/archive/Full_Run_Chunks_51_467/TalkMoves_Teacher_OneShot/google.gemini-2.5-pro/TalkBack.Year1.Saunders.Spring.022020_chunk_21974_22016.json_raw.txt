@@ -1,0 +1,296 @@
+{
+  "records": [
+    {
+      "ID": 21974,
+      "Turn": 157,
+      "Speaker": "S",
+      "Sentence": "Then you subtract x from both sides which will get you negative two x"
+    },
+    {
+      "ID": 21975,
+      "Turn": 158,
+      "Speaker": "T",
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the result of the student's calculation almost word-for-word."
+    },
+    {
+      "ID": 21976,
+      "Turn": 158,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher uses a one-word prompt to get the student to continue explaining their thought process."
+    },
+    {
+      "ID": 21977,
+      "Turn": 159,
+      "Speaker": "S",
+      "Sentence": "Then you divide both sides by two"
+    },
+    {
+      "ID": 21978,
+      "Turn": 160,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's idea and adds a clarifying phrase ('that gets rid of that')."
+    },
+    {
+      "ID": 21979,
+      "Turn": 161,
+      "Speaker": "S",
+      "Sentence": "That gets you back to negative x and then you just square both sides and then it just gives you x2x2"
+    },
+    {
+      "ID": 21980,
+      "Turn": 162,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher explicitly rephrases the student's contribution using more formal mathematical language ('isolate the radical')."
+    },
+    {
+      "ID": 21981,
+      "Turn": 162,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to explain how to perform a mathematical step ('what's it going to take to do that')."
+    },
+    {
+      "ID": 21982,
+      "Turn": 162,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21983,
+      "Turn": 162,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21984,
+      "Turn": 162,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21985,
+      "Turn": 162,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21986,
+      "Turn": 162,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21987,
+      "Turn": 162,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21988,
+      "Turn": 162,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21989,
+      "Turn": 162,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a student for the next specific step in the mathematical procedure."
+    },
+    {
+      "ID": 21990,
+      "Turn": 165,
+      "Speaker": "S",
+      "Sentence": "Yes"
+    },
+    {
+      "ID": 21991,
+      "Turn": 166,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21992,
+      "Turn": 166,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's implied answer and states the result, making the contribution public and clear."
+    },
+    {
+      "ID": 21993,
+      "Turn": 166,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21994,
+      "Turn": 166,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21995,
+      "Turn": 166,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21996,
+      "Turn": 166,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks the class for the next mathematical step."
+    },
+    {
+      "ID": 21997,
+      "Turn": 167,
+      "Speaker": "S",
+      "Sentence": "Factor"
+    },
+    {
+      "ID": 21998,
+      "Turn": 168,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher takes the student's one-word answer ('Factor') and expands on its meaning and implication."
+    },
+    {
+      "ID": 21999,
+      "Turn": 168,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to make a strategic choice, which requires reasoning about the best path forward."
+    },
+    {
+      "ID": 22000,
+      "Turn": 169,
+      "Speaker": "S",
+      "Sentence": "Subtract the x in the negative two"
+    },
+    {
+      "ID": 22001,
+      "Turn": 170,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher explicitly asks 'why' a student would prefer one mathematical step over another."
+    },
+    {
+      "ID": 22002,
+      "Turn": 171,
+      "Speaker": "S",
+      "Sentence": "To keep the leading coefficient positive"
+    },
+    {
+      "ID": 22003,
+      "Turn": 172,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher confirms and rephrases the student's justification for keeping the leading coefficient positive."
+    },
+    {
+      "ID": 22004,
+      "Turn": 172,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22005,
+      "Turn": 172,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a direct question that requires a specific mathematical answer (the factors)."
+    },
+    {
+      "ID": 22006,
+      "Turn": 173,
+      "Speaker": "S",
+      "Sentence": "Yes"
+    },
+    {
+      "ID": 22007,
+      "Turn": 174,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to provide the specific numbers after the student confirmed their existence."
+    },
+    {
+      "ID": 22008,
+      "Turn": 175,
+      "Speaker": "S",
+      "Sentence": "Negative two or positive one"
+    },
+    {
+      "ID": 22009,
+      "Turn": 176,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22010,
+      "Turn": 176,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22011,
+      "Turn": 176,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22012,
+      "Turn": 176,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22013,
+      "Turn": 176,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22014,
+      "Turn": 176,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22015,
+      "Turn": 176,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22016,
+      "Turn": 176,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

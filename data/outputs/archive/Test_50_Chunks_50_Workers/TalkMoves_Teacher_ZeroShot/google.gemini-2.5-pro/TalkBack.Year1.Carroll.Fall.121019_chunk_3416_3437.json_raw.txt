@@ -1,0 +1,132 @@
+{
+  "records": [
+    {
+      "ID": 3416,
+      "Turn": 146,
+      "Speaker": "T",
+      "Sentence": "Seven",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3417,
+      "Turn": 146,
+      "Speaker": "T",
+      "Sentence": "Wait whats the value of seven in the last one",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to provide a specific mathematical value, pressing them to be precise."
+    },
+    {
+      "ID": 3420,
+      "Turn": 148,
+      "Speaker": "T",
+      "Sentence": "71000",
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's answer verbatim."
+    },
+    {
+      "ID": 3421,
+      "Turn": 148,
+      "Speaker": "T",
+      "Sentence": "Sawyer",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3422,
+      "Turn": 148,
+      "Speaker": "T",
+      "Sentence": "Okay lets see",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3423,
+      "Turn": 148,
+      "Speaker": "T",
+      "Sentence": "Heres the next one",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3424,
+      "Turn": 148,
+      "Speaker": "T",
+      "Sentence": "Seven and 9100",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3425,
+      "Turn": 149,
+      "Speaker": "T",
+      "Sentence": "Thats 910",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3430,
+      "Turn": 152,
+      "Speaker": "T",
+      "Sentence": "Let me see yours",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3431,
+      "Turn": 152,
+      "Speaker": "T",
+      "Sentence": "Thats seven and 910",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3432,
+      "Turn": 153,
+      "Speaker": "T",
+      "Sentence": "Shh",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3433,
+      "Turn": 153,
+      "Speaker": "T",
+      "Sentence": "Okay",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3434,
+      "Turn": 153,
+      "Speaker": "T",
+      "Sentence": "Now heres one thing that I noticed",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3435,
+      "Turn": 153,
+      "Speaker": "T",
+      "Sentence": "Sawyer do have it written down",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3436,
+      "Turn": 153,
+      "Speaker": "T",
+      "Sentence": "Seven and 9100",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3437,
+      "Turn": 153,
+      "Speaker": "T",
+      "Sentence": "Heres what I noticed",
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

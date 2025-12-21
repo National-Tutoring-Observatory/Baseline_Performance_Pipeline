@@ -1,0 +1,298 @@
+[
+  {
+    "records": [
+      {
+        "ID": 1561,
+        "Turn": 30,
+        "Speaker": "S",
+        "Sentence": "Zero point zero"
+      },
+      {
+        "ID": 1562,
+        "Turn": 31,
+        "Speaker": "T",
+        "Sentence": "Okay",
+        "TalkMove": null,
+        "Reasoning": null
+      },
+      {
+        "ID": 1563,
+        "Turn": 31,
+        "Speaker": "T",
+        "Sentence": "009 or zero and nine hundredths",
+        "TalkMove": null,
+        "Reasoning": null
+      },
+      {
+        "ID": 1564,
+        "Turn": 31,
+        "Speaker": "T",
+        "Sentence": "Last problem",
+        "TalkMove": null,
+        "Reasoning": null
+      },
+      {
+        "ID": 1565,
+        "Turn": 31,
+        "Speaker": "T",
+        "Sentence": "Tricky tricky",
+        "TalkMove": null,
+        "Reasoning": null
+      },
+      {
+        "ID": 1566,
+        "Turn": 31,
+        "Speaker": "T",
+        "Sentence": "Finn tell me what you wrote",
+        "TalkMove": null,
+        "Reasoning": null
+      },
+      {
+        "ID": 1567,
+        "Turn": 32,
+        "Speaker": "S",
+        "Sentence": "008"
+      },
+      {
+        "ID": 1568,
+        "Turn": 33,
+        "Speaker": "T",
+        "Sentence": "You think back to little cubes",
+        "TalkMove": null,
+        "Reasoning": null
+      },
+      {
+        "ID": 1569,
+        "Turn": 33,
+        "Speaker": "T",
+        "Sentence": "How many little cubes would I have if I had 80 hundredths",
+        "TalkMove": "Pressing for Reasoning",
+        "Reasoning": "The teacher prompts the student to connect a decimal value to a physical representation, asking for the thinking behind the number."
+      },
+      {
+        "ID": 1570,
+        "Turn": 34,
+        "Speaker": "S",
+        "Sentence": "80 of them"
+      },
+      {
+        "ID": 1571,
+        "Turn": 35,
+        "Speaker": "T",
+        "Sentence": "80 of them",
+        "TalkMove": "Restating",
+        "Reasoning": "The teacher repeats the student's answer verbatim."
+      },
+      {
+        "ID": 1572,
+        "Turn": 36,
+        "Speaker": "S",
+        "Sentence": "Or just 008"
+      },
+      {
+        "ID": 1573,
+        "Turn": 37,
+        "Speaker": "T",
+        "Sentence": "You are telling me I would have eight little cubes",
+        "TalkMove": "Revoicing",
+        "Reasoning": "The teacher rephrases the student's numerical answer ('008') into a conceptual statement using the established physical model ('eight little cubes')."
+      },
+      {
+        "ID": 1574,
+        "Turn": 37,
+        "Speaker": "T",
+        "Sentence": "We want this to say 80",
+        "TalkMove": null,
+        "Reasoning": null
+      },
+      {
+        "ID": 1575,
+        "Turn": 37,
+        "Speaker": "T",
+        "Sentence": "80 hundredths is the same thing as",
+        "TalkMove": null,
+        "Reasoning": null
+      },
+      {
+        "ID": 1576,
+        "Turn": 38,
+        "Speaker": "T",
+        "Sentence": "Okay",
+        "TalkMove": null,
+        "Reasoning": null
+      },
+      {
+        "ID": 1577,
+        "Turn": 38,
+        "Speaker": "T",
+        "Sentence": "I want you to always picture when we are talking about tenths",
+        "TalkMove": null,
+        "Reasoning": null
+      },
+      {
+        "ID": 1578,
+        "Turn": 38,
+        "Speaker": "T",
+        "Sentence": "Those are the longs",
+        "TalkMove": null,
+        "Reasoning": null
+      },
+      {
+        "ID": 1579,
+        "Turn": 38,
+        "Speaker": "T",
+        "Sentence": "When we are talking about hundredths those are the little cubes",
+        "TalkMove": null,
+        "Reasoning": null
+      },
+      {
+        "ID": 1580,
+        "Turn": 38,
+        "Speaker": "T",
+        "Sentence": "If you have 80 little cubes you really have you could combine them together it will be eight longs",
+        "TalkMove": null,
+        "Reasoning": null
+      },
+      {
+        "ID": 1581,
+        "Turn": 38,
+        "Speaker": "T",
+        "Sentence": "Okay",
+        "TalkMove": null,
+        "Reasoning": null
+      },
+      {
+        "ID": 1582,
+        "Turn": 38,
+        "Speaker": "T",
+        "Sentence": "If this were eight hundredths Finn you would have been correct",
+        "TalkMove": null,
+        "Reasoning": null
+      },
+      {
+        "ID": 1583,
+        "Turn": 38,
+        "Speaker": "T",
+        "Sentence": "Do 008",
+        "TalkMove": null,
+        "Reasoning": null
+      },
+      {
+        "ID": 1584,
+        "Turn": 38,
+        "Speaker": "T",
+        "Sentence": "Okay",
+        "TalkMove": null,
+        "Reasoning": null
+      },
+      {
+        "ID": 1585,
+        "Turn": 39,
+        "Speaker": "T",
+        "Sentence": "All right",
+        "TalkMove": null,
+        "Reasoning": null
+      },
+      {
+        "ID": 1586,
+        "Turn": 39,
+        "Speaker": "T",
+        "Sentence": "First blue problem",
+        "TalkMove": null,
+        "Reasoning": null
+      },
+      {
+        "ID": 1587,
+        "Turn": 39,
+        "Speaker": "T",
+        "Sentence": "Who did two and 13 hundredths",
+        "TalkMove": null,
+        "Reasoning": null
+      },
+      {
+        "ID": 1588,
+        "Turn": 39,
+        "Speaker": "T",
+        "Sentence": "Jude tell me what to do",
+        "TalkMove": null,
+        "Reasoning": null
+      },
+      {
+        "ID": 1589,
+        "Turn": 39,
+        "Speaker": "S",
+        "Sentence": "What I did is I did zero and 26"
+      },
+      {
+        "ID": 1590,
+        "Turn": 40,
+        "Speaker": "T",
+        "Sentence": "Thats what you have",
+        "TalkMove": null,
+        "Reasoning": null
+      },
+      {
+        "ID": 1591,
+        "Turn": 40,
+        "Speaker": "T",
+        "Sentence": "026",
+        "TalkMove": "Restating",
+        "Reasoning": "The teacher repeats the numerical part of the student's contribution."
+      },
+      {
+        "ID": 1592,
+        "Turn": 40,
+        "Speaker": "T",
+        "Sentence": "Kennedy read that to me as it is a decimal",
+        "TalkMove": "Pressing for Accuracy",
+        "Reasoning": "The teacher prompts another student to use precise mathematical language to read the number contributed by a classmate."
+      },
+      {
+        "ID": 1593,
+        "Turn": 41,
+        "Speaker": "S",
+        "Sentence": "Zero ones and 26 hundredths"
+      },
+      {
+        "ID": 1594,
+        "Turn": 42,
+        "Speaker": "T",
+        "Sentence": "Is that what we have",
+        "TalkMove": "Pressing for Reasoning",
+        "Reasoning": "The teacher asks students to compare the stated number with the number in the problem, prompting them to evaluate and justify."
+      },
+      {
+        "ID": 1595,
+        "Turn": 42,
+        "Speaker": "T",
+        "Sentence": "Zero ones",
+        "TalkMove": "Restating",
+        "Reasoning": "The teacher repeats the first part of the student's previous utterance verbatim."
+      },
+      {
+        "ID": 1596,
+        "Turn": 42,
+        "Speaker": "T",
+        "Sentence": "See how that number is a little bit bigger",
+        "TalkMove": null,
+        "Reasoning": null
+      },
+      {
+        "ID": 1597,
+        "Turn": 42,
+        "Speaker": "T",
+        "Sentence": "Its hard to see when it is typed up on the board",
+        "TalkMove": null,
+        "Reasoning": null
+      },
+      {
+        "ID": 1598,
+        "Turn": 42,
+        "Speaker": "T",
+        "Sentence": "Read that number to me Tucker",
+        "TalkMove": null,
+        "Reasoning": null
+      }
+    ]
+  }
+]

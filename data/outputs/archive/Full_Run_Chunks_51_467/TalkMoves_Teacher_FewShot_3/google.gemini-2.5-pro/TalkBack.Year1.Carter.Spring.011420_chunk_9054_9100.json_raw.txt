@@ -1,0 +1,252 @@
+{
+  "records": [
+    {
+      "ID": 9067,
+      "Turn": 1,
+      "Speaker": "T",
+      "Sentence": "I am going to dictate a fraction and you need to write three fractions that are equivalent to the fraction I give you",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9068,
+      "Turn": 1,
+      "Speaker": "T",
+      "Sentence": "You have a strategy that might help somebody to do this when they are not sure",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9069,
+      "Turn": 1,
+      "Speaker": "T",
+      "Sentence": "Talk at your teams",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher directs students to discuss with their teams, orienting them to each other."
+    },
+    {
+      "ID": 9070,
+      "Turn": 1,
+      "Speaker": "T",
+      "Sentence": "If you have an idea for the strategy share that out",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9071,
+      "Turn": 1,
+      "Speaker": "T",
+      "Sentence": "Ill deal with your team",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9072,
+      "Turn": 2,
+      "Speaker": "T",
+      "Sentence": "What would be an efficient way to generate those fractions Brody G",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks a student to explain an efficient method, prompting them to share their thinking about the process."
+    },
+    {
+      "ID": 9074,
+      "Turn": 4,
+      "Speaker": "T",
+      "Sentence": "Okay so whats the saying that we have for that",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to recall and use the specific mathematical language or rule established in the classroom."
+    },
+    {
+      "ID": 9076,
+      "Turn": 6,
+      "Speaker": "T",
+      "Sentence": "Yes or vice versa  whether its the bottom first top first whichever all right",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's idea about the rule for equivalent fractions and adds clarification (\"or vice versa\")."
+    },
+    {
+      "ID": 9077,
+      "Turn": 6,
+      "Speaker": "T",
+      "Sentence": "Here we go",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9078,
+      "Turn": 6,
+      "Speaker": "T",
+      "Sentence": "The first fraction is one third and that left three equivalent fractions on your slate here",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9079,
+      "Turn": 6,
+      "Speaker": "T",
+      "Sentence": "You dont need to write down the whole process just put the fractions",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9080,
+      "Turn": 6,
+      "Speaker": "T",
+      "Sentence": "Somebody have an extra slate",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9081,
+      "Turn": 6,
+      "Speaker": "T",
+      "Sentence": "It looks like TJ didnt get his slate back",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9082,
+      "Turn": 6,
+      "Speaker": "T",
+      "Sentence": "Does anybody have an extra slate running around in their desk",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9083,
+      "Turn": 6,
+      "Speaker": "T",
+      "Sentence": "Some of my friends may have put them in their desks from our club yesterday",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9084,
+      "Turn": 7,
+      "Speaker": "T",
+      "Sentence": "No maybe somebody might have taken them home",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9086,
+      "Turn": 8,
+      "Speaker": "T",
+      "Sentence": "Probably not",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9087,
+      "Turn": 9,
+      "Speaker": "T",
+      "Sentence": "Flash",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9088,
+      "Turn": 9,
+      "Speaker": "T",
+      "Sentence": "Remember youre generating three okay",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9089,
+      "Turn": 9,
+      "Speaker": "T",
+      "Sentence": "Im going to have you share with your face partner",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher directs students to share with a partner, orienting them to each other for discussion."
+    },
+    {
+      "ID": 9090,
+      "Turn": 9,
+      "Speaker": "T",
+      "Sentence": "Check each others work",
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher prompts students to check their partner's work, requiring them to engage with and react to their classmate's ideas."
+    },
+    {
+      "ID": 9091,
+      "Turn": 10,
+      "Speaker": "T",
+      "Sentence": "Flash",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9092,
+      "Turn": 10,
+      "Speaker": "T",
+      "Sentence": "Just three each time thank you",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9093,
+      "Turn": 10,
+      "Speaker": "T",
+      "Sentence": "Youre going to share with your face partner",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher directs students to share with a partner, orienting them to each other."
+    },
+    {
+      "ID": 9094,
+      "Turn": 10,
+      "Speaker": "T",
+      "Sentence": "If you shared first last time share second this time please",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher manages the turn-taking for the partner share to ensure equitable participation, which orients students to each other's roles."
+    },
+    {
+      "ID": 9095,
+      "Turn": 10,
+      "Speaker": "T",
+      "Sentence": "Ready",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9096,
+      "Turn": 10,
+      "Speaker": "T",
+      "Sentence": "Go",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9097,
+      "Turn": 11,
+      "Speaker": "T",
+      "Sentence": "Flash",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9098,
+      "Turn": 11,
+      "Speaker": "T",
+      "Sentence": "Thank you this time share with your face partner",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher directs students to share with a partner, orienting them to each other."
+    },
+    {
+      "ID": 9099,
+      "Turn": 11,
+      "Speaker": "T",
+      "Sentence": "The other  to go through",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9100,
+      "Turn": 12,
+      "Speaker": "T",
+      "Sentence": "Rate how well you can find equivalent fractions using our multiplication rule thank you",
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

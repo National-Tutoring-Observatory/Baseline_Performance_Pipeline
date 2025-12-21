@@ -1,0 +1,165 @@
+{
+  "records": [
+    {
+      "ID": 19677,
+      "Turn": 51,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19679,
+      "Turn": 53,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19680,
+      "Turn": 53,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19682,
+      "Turn": 55,
+      "Speaker": "T",
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's contribution 'Quintic' verbatim before continuing with an explanation."
+    },
+    {
+      "ID": 19684,
+      "Turn": 57,
+      "Speaker": "T",
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's statement verbatim, affirming their contribution."
+    },
+    {
+      "ID": 19686,
+      "Turn": 59,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19687,
+      "Turn": 59,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher interprets the student's question, extracts an unstated but related correct idea (about odd-degree polynomials), and rephrases it with added reasoning."
+    },
+    {
+      "ID": 19689,
+      "Turn": 61,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19690,
+      "Turn": 61,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19691,
+      "Turn": 61,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19693,
+      "Turn": 63,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19694,
+      "Turn": 63,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to provide a precise mathematical definition for the term 'zeros'."
+    },
+    {
+      "ID": 19696,
+      "Turn": 65,
+      "Speaker": "T",
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's correct answer verbatim (with a minor pluralization) to affirm it."
+    },
+    {
+      "ID": 19697,
+      "Turn": 65,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19698,
+      "Turn": 65,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19699,
+      "Turn": 65,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19700,
+      "Turn": 65,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19701,
+      "Turn": 65,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19702,
+      "Turn": 65,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a direct question that requires students to apply a rule and provide a specific numerical answer."
+    },
+    {
+      "ID": 19704,
+      "Turn": 67,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19705,
+      "Turn": 67,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19706,
+      "Turn": 67,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19707,
+      "Turn": 67,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 16330,
+      "Speaker": "T",
+      "Turn": 16330,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16331,
+      "Speaker": "T",
+      "Turn": 16331,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16332,
+      "Speaker": "T",
+      "Turn": 16332,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16333,
+      "Speaker": "T",
+      "Turn": 16333,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16334,
+      "Speaker": "T",
+      "Turn": 16334,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16335,
+      "Speaker": "T",
+      "Turn": 16335,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16336,
+      "Speaker": "T",
+      "Turn": 16336,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16337,
+      "Speaker": "T",
+      "Turn": 16337,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher is asking students to supply the correct mathematical term (\"What do we call the …?\")."
+    },
+    {
+      "ID": 16338,
+      "Speaker": "T",
+      "Turn": 16338,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Asks students to explain the rationale behind the term (“Why is it called that?”)."
+    },
+    {
+      "ID": 16340,
+      "Speaker": "T",
+      "Turn": 16340,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher restates a student’s idea—‘it can tell us what the x-intercept is’—using her own words to affirm and clarify."
+    },
+    {
+      "ID": 16341,
+      "Speaker": "T",
+      "Turn": 16341,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Requests a precise property that is always true of an x-intercept."
+    },
+    {
+      "ID": 16342,
+      "Speaker": "T",
+      "Turn": 16342,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Prompts students to explain the condition needed for a product to be zero, eliciting underlying reasoning."
+    },
+    {
+      "ID": 16343,
+      "Speaker": "T",
+      "Turn": 16343,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Continues to ask students to explain how the result of zero is obtained."
+    },
+    {
+      "ID": 16344,
+      "Speaker": "T",
+      "Turn": 16344,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16345,
+      "Speaker": "T",
+      "Turn": 16345,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16346,
+      "Speaker": "T",
+      "Turn": 16346,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks students to specify the value that would make the expression equal zero, seeking a precise mathematical answer."
+    },
+    {
+      "ID": 16347,
+      "Speaker": "T",
+      "Turn": 16347,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16350,
+      "Speaker": "T",
+      "Turn": 16350,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16353,
+      "Speaker": "T",
+      "Turn": 16353,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16354,
+      "Speaker": "T",
+      "Turn": 16354,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Prompts students to explain the method for finding the midpoint between two numbers."
+    }
+  ]
+}

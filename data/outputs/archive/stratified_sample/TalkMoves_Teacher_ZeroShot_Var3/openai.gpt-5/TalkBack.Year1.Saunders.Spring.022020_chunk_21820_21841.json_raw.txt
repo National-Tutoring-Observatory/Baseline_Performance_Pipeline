@@ -1,0 +1,74 @@
+{
+  "records": [
+    {
+      "ID": 21824,
+      "Speaker": "T",
+      "Turn": 76,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks Brittany to identify the first procedural step, prompting a specific mathematical contribution."
+    },
+    {
+      "ID": 21826,
+      "Speaker": "T",
+      "Turn": 78,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats part of the student’s response word for word."
+    },
+    {
+      "ID": 21827,
+      "Speaker": "T",
+      "Turn": 78,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to state the next procedural step."
+    },
+    {
+      "ID": 21829,
+      "Speaker": "T",
+      "Turn": 80,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher echoes the student’s idea (“Get rid of the radical”) and adds how to do it (raise to a power)."
+    },
+    {
+      "ID": 21831,
+      "Speaker": "T",
+      "Turn": 82,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student’s phrase (“A second power”) and extends it to the resulting equation."
+    },
+    {
+      "ID": 21835,
+      "Speaker": "T",
+      "Turn": 85,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher echoes the student’s correction (“x9”) to confirm it."
+    },
+    {
+      "ID": 21836,
+      "Speaker": "T",
+      "Turn": 85,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher requests a specific computation to check the solution."
+    },
+    {
+      "ID": 21838,
+      "Speaker": "T",
+      "Turn": 87,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student’s answer (“Three”)."
+    },
+    {
+      "ID": 21839,
+      "Speaker": "T",
+      "Turn": 87,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21840,
+      "Speaker": "T",
+      "Turn": 87,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

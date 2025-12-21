@@ -1,0 +1,158 @@
+{
+  "records": [
+    {
+      "ID": 771,
+      "Turn": 185,
+      "Speaker": "T",
+      "Sentence": "So take up your light greens",
+      "TalkMove": null
+    },
+    {
+      "ID": 772,
+      "Turn": 185,
+      "Speaker": "T",
+      "Sentence": "Josh tell me what does number two say",
+      "TalkMove": null
+    },
+    {
+      "ID": 773,
+      "Turn": 186,
+      "Speaker": "T",
+      "Sentence": "If light green is one fourth what is the whole",
+      "TalkMove": "Pressing for Accuracy"
+    },
+    {
+      "ID": 774,
+      "Turn": 186,
+      "Speaker": "T",
+      "Sentence": "Aaron that tells me that light green needs how many totals to make the whole",
+      "TalkMove": "Pressing for Accuracy"
+    },
+    {
+      "ID": 775,
+      "Turn": 187,
+      "Speaker": "S",
+      "Sentence": "That numerator says one"
+    },
+    {
+      "ID": 776,
+      "Turn": 188,
+      "Speaker": "T",
+      "Sentence": "One and my denominator tells me how many to get to the whole thing",
+      "TalkMove": null
+    },
+    {
+      "ID": 777,
+      "Turn": 189,
+      "Speaker": "S",
+      "Sentence": "Four"
+    },
+    {
+      "ID": 778,
+      "Turn": 190,
+      "Speaker": "T",
+      "Sentence": "Four of them",
+      "TalkMove": "Revoicing"
+    },
+    {
+      "ID": 779,
+      "Turn": 190,
+      "Speaker": "T",
+      "Sentence": "So how many light greens should you take out",
+      "TalkMove": "Pressing for Accuracy"
+    },
+    {
+      "ID": 780,
+      "Turn": 191,
+      "Speaker": "S",
+      "Sentence": "Four"
+    },
+    {
+      "ID": 781,
+      "Turn": 192,
+      "Speaker": "T",
+      "Sentence": "Four",
+      "TalkMove": "Restating"
+    },
+    {
+      "ID": 782,
+      "Turn": 192,
+      "Speaker": "T",
+      "Sentence": "Sophie what did I just show you on here",
+      "TalkMove": "Pressing for Reasoning"
+    },
+    {
+      "ID": 783,
+      "Turn": 192,
+      "Speaker": "T",
+      "Sentence": "This is onefourth and what did I add together",
+      "TalkMove": "Pressing for Accuracy"
+    },
+    {
+      "ID": 784,
+      "Turn": 193,
+      "Speaker": "S",
+      "Sentence": "The fourth"
+    },
+    {
+      "ID": 785,
+      "Turn": 194,
+      "Speaker": "T",
+      "Sentence": "Heres one fourth another fourth heres another one",
+      "TalkMove": null
+    },
+    {
+      "ID": 786,
+      "Turn": 194,
+      "Speaker": "T",
+      "Sentence": "This is what threefourths",
+      "TalkMove": "Pressing for Accuracy"
+    },
+    {
+      "ID": 787,
+      "Turn": 194,
+      "Speaker": "T",
+      "Sentence": "Whats this one worth",
+      "TalkMove": "Pressing for Accuracy"
+    },
+    {
+      "ID": 788,
+      "Turn": 195,
+      "Speaker": "S",
+      "Sentence": "One"
+    },
+    {
+      "ID": 789,
+      "Turn": 196,
+      "Speaker": "T",
+      "Sentence": "Onefourth plus",
+      "TalkMove": "Pressing for Accuracy"
+    },
+    {
+      "ID": 790,
+      "Turn": 197,
+      "Speaker": "S",
+      "Sentence": "Onefourth"
+    },
+    {
+      "ID": 791,
+      "Turn": 198,
+      "Speaker": "T",
+      "Sentence": "Okay did I create my whole",
+      "TalkMove": "Pressing for Reasoning"
+    },
+    {
+      "ID": 792,
+      "Turn": 198,
+      "Speaker": "T",
+      "Sentence": "What does that equal",
+      "TalkMove": "Pressing for Accuracy"
+    },
+    {
+      "ID": 793,
+      "Turn": 199,
+      "Speaker": "S",
+      "Sentence": "Fourfourths"
+    }
+  ]
+}

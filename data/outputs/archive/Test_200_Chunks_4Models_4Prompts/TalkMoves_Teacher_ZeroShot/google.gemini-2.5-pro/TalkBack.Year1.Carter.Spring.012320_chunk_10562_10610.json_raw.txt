@@ -1,0 +1,52 @@
+{
+  "records": [
+    {
+      "ID": 10562,
+      "Turn": 38,
+      "Speaker": "T",
+      "Sentence": "I decided last night I dont think I have enough shelf lining",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10563,
+      "Turn": 38,
+      "Speaker": "T",
+      "Sentence": "I have to order more again from Amazon to finish lining it",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10564,
+      "Turn": 38,
+      "Speaker": "T",
+      "Sentence": "I made an estimate",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10565,
+      "Turn": 38,
+      "Speaker": "T",
+      "Sentence": "I didnt go to measure directly I rounded off",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10566,
+      "Turn": 38,
+      "Speaker": "T",
+      "Sentence": "Well youre going to need three more rolls of this",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10567,
+      "Turn": 38,
+      "Speaker": "T",
+      "Sentence": "What would be another reason that we want to make an estimate",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to provide a reason for using estimation, prompting them to explain their thinking."
+    },
+    {
+      "ID": 10568

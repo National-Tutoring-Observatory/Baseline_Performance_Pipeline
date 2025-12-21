@@ -1,0 +1,130 @@
+{
+  "records": [
+    {
+      "ID": 1911,
+      "Speaker": "T",
+      "Turn": 14,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts a student to share their answer, eliciting a mathematical contribution."
+    },
+    {
+      "ID": 1913,
+      "Speaker": "T",
+      "Turn": 16,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks if anyone wrote a specific numerical form, prompting students to provide a mathematical contribution."
+    },
+    {
+      "ID": 1914,
+      "Speaker": "T",
+      "Turn": 16,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1916,
+      "Speaker": "T",
+      "Turn": 18,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1918,
+      "Speaker": "T",
+      "Turn": 20,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher restates the student's claim that Conrad was right, adjusting the wording to confirm understanding."
+    },
+    {
+      "ID": 1919,
+      "Speaker": "T",
+      "Turn": 20,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1920,
+      "Speaker": "T",
+      "Turn": 20,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks Ruth to state what she wrote, eliciting a mathematical contribution."
+    },
+    {
+      "ID": 1922,
+      "Speaker": "T",
+      "Turn": 22,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1923,
+      "Speaker": "T",
+      "Turn": 22,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks Charlie to provide the numerical answer, prompting a mathematical contribution."
+    },
+    {
+      "ID": 1925,
+      "Speaker": "T",
+      "Turn": 24,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher summarizes the student's statement about 'nine hundredths' in their own words to confirm understanding."
+    },
+    {
+      "ID": 1927,
+      "Speaker": "T",
+      "Turn": 26,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher seeks precise confirmation of the written notation."
+    },
+    {
+      "ID": 1929,
+      "Speaker": "T",
+      "Turn": 28,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to specify the exact term, encouraging precise language."
+    },
+    {
+      "ID": 1931,
+      "Speaker": "T",
+      "Turn": 30,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher echoes the student's response ('one') with adjusted wording to confirm."
+    },
+    {
+      "ID": 1933,
+      "Speaker": "T",
+      "Turn": 32,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher states what the student wrote ('109') using different phrasing to check understanding."
+    },
+    {
+      "ID": 1934,
+      "Speaker": "T",
+      "Turn": 32,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks how to correct the work, inviting explanation of the thinking behind the correction."
+    },
+    {
+      "ID": 1935,
+      "Speaker": "T",
+      "Turn": 32,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1937,
+      "Speaker": "T",
+      "Turn": 34,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts the student to reflect on and explain their mistake."
+    },
+    {
+      "ID": 1938,
+      "Speaker": "T",
+      "Turn": 34,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

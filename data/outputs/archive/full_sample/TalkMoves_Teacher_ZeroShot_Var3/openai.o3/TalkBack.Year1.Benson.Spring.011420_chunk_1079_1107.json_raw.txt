@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 1079,
+      "Speaker": "T",
+      "Turn": 1079,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher paraphrases the student’s idea that the clue words guided their action, restating it in her own words."
+    },
+    {
+      "ID": 1080,
+      "Speaker": "T",
+      "Turn": 1080,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher restates Mason’s contribution (using 20 × 30) in her own words for the class."
+    },
+    {
+      "ID": 1081,
+      "Speaker": "T",
+      "Turn": 1081,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "She asks Emery to explain the contextual meaning of the number 20, prompting reasoning about the representation."
+    },
+    {
+      "ID": 1083,
+      "Speaker": "T",
+      "Turn": 1083,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks whether ownership matters or if size is the key attribute, pushing students to justify their interpretation."
+    },
+    {
+      "ID": 1085,
+      "Speaker": "T",
+      "Turn": 1085,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1086,
+      "Speaker": "T",
+      "Turn": 1086,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1087,
+      "Speaker": "T",
+      "Turn": 1087,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "She solicits the exact numerical size of Ellie’s string, prompting students to state the precise quantity."
+    },
+    {
+      "ID": 1089,
+      "Speaker": "T",
+      "Turn": 1089,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher restates the (presumably student-given) answer, adding clarifying wording about the measurement."
+    },
+    {
+      "ID": 1090,
+      "Speaker": "T",
+      "Turn": 1090,
+      "TalkMove": "Revoicing",
+      "Reasoning": "She restates the size of the larger ball, reinforcing the student-supplied information."
+    },
+    {
+      "ID": 1092,
+      "Speaker": "T",
+      "Turn": 1092,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1093,
+      "Speaker": "T",
+      "Turn": 1093,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher confirms and restates Mason’s proposed computation (20 × 30)."
+    },
+    {
+      "ID": 1094,
+      "Speaker": "T",
+      "Turn": 1094,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "She asks if anyone used a different strategy (adding 30), inviting the class to relate their thinking to Mason’s method."
+    },
+    {
+      "ID": 1095,
+      "Speaker": "T",
+      "Turn": 1095,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1096,
+      "Speaker": "T",
+      "Turn": 1096,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1097,
+      "Speaker": "T",
+      "Turn": 1097,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "She asks for the numerical result of the computation, requesting the correct answer."
+    },
+    {
+      "ID": 1099,
+      "Speaker": "T",
+      "Turn": 1099,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student’s answer verbatim: “600.”"
+    },
+    {
+      "ID": 1100,
+      "Speaker": "T",
+      "Turn": 1100,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "She prompts students to explain what the number 600 signifies in the context of the problem."
+    },
+    {
+      "ID": 1102,
+      "Speaker": "T",
+      "Turn": 1102,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Asking for a ‘more specific’ explanation pushes students to elaborate and justify their answer."
+    },
+    {
+      "ID": 1105,
+      "Speaker": "T",
+      "Turn": 1105,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher paraphrases a student’s explanation about what 600 represents, confirming understanding."
+    },
+    {
+      "ID": 1107,
+      "Speaker": "T",
+      "Turn": 1107,
+      "TalkMove": "Restating",
+      "Reasoning": "She repeats the phrase “600 ball of string,” echoing the student’s wording exactly."
+    }
+  ]
+}

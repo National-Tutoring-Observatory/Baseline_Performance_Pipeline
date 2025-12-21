@@ -1,0 +1,18 @@
+{
+  "records": [
+    {
+      "ID": 810,
+      "Turn": 204,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 812,
+      "Turn": 206,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher clarifies the student's vague phrase 'two of these' by rephrasing it with specific mathematical language, 'two light blues'."
+    },
+    {
+      "ID": 813

@@ -1,0 +1,130 @@
+{
+  "records": [
+    {
+      "ID": 1821,
+      "Speaker": "T",
+      "Turn": 139,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1822,
+      "Speaker": "T",
+      "Turn": 140,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher prompts a student to repeat a question for everyone to hear, orienting the class to listen to a peer."
+    },
+    {
+      "ID": 1824,
+      "Speaker": "T",
+      "Turn": 142,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1825,
+      "Speaker": "T",
+      "Turn": 142,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the exact number of fifths needed to make a whole, prompting a specific mathematical contribution."
+    },
+    {
+      "ID": 1827,
+      "Speaker": "T",
+      "Turn": 144,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher restates the student's answer ('Five') with slightly changed wording ('Five of them')."
+    },
+    {
+      "ID": 1828,
+      "Speaker": "T",
+      "Turn": 144,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Building on the student's 'five', the teacher reformulates it as 'five-fifths' and connects it to regrouping into a whole."
+    },
+    {
+      "ID": 1829,
+      "Speaker": "T",
+      "Turn": 144,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1830,
+      "Speaker": "T",
+      "Turn": 144,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1831,
+      "Speaker": "T",
+      "Turn": 144,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1832,
+      "Speaker": "T",
+      "Turn": 144,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1833,
+      "Speaker": "T",
+      "Turn": 145,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1834,
+      "Speaker": "T",
+      "Turn": 145,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1835,
+      "Speaker": "T",
+      "Turn": 145,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1836,
+      "Speaker": "T",
+      "Turn": 145,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1837,
+      "Speaker": "T",
+      "Turn": 145,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1838,
+      "Speaker": "T",
+      "Turn": 145,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1841,
+      "Speaker": "T",
+      "Turn": 146,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks students to identify the 'whole thing' under discussion, prompting precise mathematical identification."
+    },
+    {
+      "ID": 1842,
+      "Speaker": "T",
+      "Turn": 146,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher requests the specific measurement, prompting students to state the exact unit/quantity."
+    }
+  ]
+}

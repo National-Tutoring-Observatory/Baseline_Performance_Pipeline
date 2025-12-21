@@ -1,0 +1,88 @@
+{
+  "records": [
+    {
+      "ID": 21001,
+      "Turn": 173,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21002,
+      "Turn": 173,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21006,
+      "Turn": 176,
+      "Speaker": "T",
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's statement about which problems they have a question on."
+    },
+    {
+      "ID": 21007,
+      "Turn": 176,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21010,
+      "Turn": 179,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21011,
+      "Turn": 179,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a question to focus the student's attention on a precise mathematical detail of the problem's notation."
+    },
+    {
+      "ID": 21013,
+      "Turn": 181,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's answer while adding the word 'Just' to emphasize the point."
+    },
+    {
+      "ID": 21015,
+      "Turn": 183,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21016,
+      "Turn": 183,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21017,
+      "Turn": 183,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21020,
+      "Turn": 186,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21021,
+      "Turn": 186,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

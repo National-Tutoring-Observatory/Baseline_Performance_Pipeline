@@ -1,0 +1,174 @@
+{
+  "records": [
+    {
+      "ID": 8812,
+      "Turn": 156,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8813,
+      "Turn": 156,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8814,
+      "Turn": 157,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher introduces a counterexample ('what if the number was 37') to press the student to test the limits of their reasoning."
+    },
+    {
+      "ID": 8815,
+      "Turn": 157,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher continues to press the student's reasoning by asking them to apply their logic to the new counterexample."
+    },
+    {
+      "ID": 8816,
+      "Turn": 157,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher directly asks the student to provide a justification for their answer."
+    },
+    {
+      "ID": 8817,
+      "Turn": 157,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts the student to explain the mathematical principle that distinguishes the two cases."
+    },
+    {
+      "ID": 8818,
+      "Turn": 158,
+      "Speaker": "S",
+      "Sentence": "Because 3 x 2 would be 6 but not 7"
+    },
+    {
+      "ID": 8819,
+      "Turn": 159,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8820,
+      "Turn": 159,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8821,
+      "Turn": 159,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to explain their thinking or provide evidence for their claim."
+    },
+    {
+      "ID": 8822,
+      "Turn": 159,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8823,
+      "Turn": 160,
+      "Speaker": "S",
+      "Sentence": "Because you could split it equally into three groups"
+    },
+    {
+      "ID": 8824,
+      "Turn": 161,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to be more precise by clarifying the antecedent of the pronoun 'what' in their mathematical explanation."
+    },
+    {
+      "ID": 8825,
+      "Turn": 162,
+      "Speaker": "S",
+      "Sentence": "nan"
+    },
+    {
+      "ID": 8826,
+      "Turn": 163,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher begins to rephrase the student's idea of 'split it equally' into more formal mathematical language."
+    },
+    {
+      "ID": 8827,
+      "Turn": 163,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher completes the rephrasing of the student's idea ('split it equally') by using more formal mathematical terms ('36 divided by 3')."
+    },
+    {
+      "ID": 8828,
+      "Turn": 163,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8829,
+      "Turn": 163,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks for an alternative method of proof, prompting another student to share their reasoning."
+    },
+    {
+      "ID": 8830,
+      "Turn": 164,
+      "Speaker": "S",
+      "Sentence": "Another way to prove it is that I know that 3 x 11 is 33 and if you add another group of 3 it would be 3 x 12 which would be 36"
+    },
+    {
+      "ID": 8831,
+      "Turn": 165,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8832,
+      "Turn": 165,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks for another alternative method of proof, prompting another student to share their reasoning."
+    },
+    {
+      "ID": 8833,
+      "Turn": 166,
+      "Speaker": "S",
+      "Sentence": "Because 36 its an even and an odd number and three is an odd number so 3 can go into 36 12 times"
+    },
+    {
+      "ID": 8834,
+      "Turn": 167,
+      "Speaker": "T",
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats a part of the student's contribution word-for-word to highlight a potential misconception."
+    },
+    {
+      "ID": 8835,
+      "Turn": 167,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8836,
+      "Turn": 167,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to explain the thinking behind their mathematically inaccurate statement."
+    }
+  ]
+}

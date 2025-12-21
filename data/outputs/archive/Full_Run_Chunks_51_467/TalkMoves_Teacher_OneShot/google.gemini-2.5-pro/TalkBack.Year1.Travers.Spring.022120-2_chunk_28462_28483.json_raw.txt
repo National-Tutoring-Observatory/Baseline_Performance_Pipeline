@@ -1,0 +1,149 @@
+{
+  "records": [
+    {
+      "ID": 28462,
+      "Turn": 109,
+      "Speaker": "S",
+      "Sentence": "I think its a zero between 90"
+    },
+    {
+      "ID": 28463,
+      "Turn": 110,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts the student to explain their thinking to their peers by asking them to 'tell your friends why'."
+    },
+    {
+      "ID": 28464,
+      "Turn": 111,
+      "Speaker": "S",
+      "Sentence": "Because its less than like a 90degree turn"
+    },
+    {
+      "ID": 28465,
+      "Turn": 112,
+      "Speaker": "S",
+      "Sentence": "I think its zero through 90"
+    },
+    {
+      "ID": 28466,
+      "Turn": 113,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks 'Why' to prompt the student to explain the reasoning behind their answer."
+    },
+    {
+      "ID": 28467,
+      "Turn": 114,
+      "Speaker": "S",
+      "Sentence": "Zero to 90"
+    },
+    {
+      "ID": 28468,
+      "Turn": 115,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks 'How do you know' to prompt the student to provide evidence for their claim."
+    },
+    {
+      "ID": 28469,
+      "Turn": 116,
+      "Speaker": "S",
+      "Sentence": "The angle is smaller than 90 degrees"
+    },
+    {
+      "ID": 28470,
+      "Turn": 117,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher repeats the question 'How do you know' to press the student for a more detailed explanation or evidence."
+    },
+    {
+      "ID": 28471,
+      "Turn": 118,
+      "Speaker": "S",
+      "Sentence": "Because thats pointing this way"
+    },
+    {
+      "ID": 28472,
+      "Turn": 118,
+      "Speaker": "S",
+      "Sentence": "If it were a right angle or 90 degrees it would be like that and its"
+    },
+    {
+      "ID": 28473,
+      "Turn": 119,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher completes and clarifies the student's incomplete sentence, rephrasing their idea about a right angle."
+    },
+    {
+      "ID": 28474,
+      "Turn": 120,
+      "Speaker": "S",
+      "Sentence": "Pointing like that"
+    },
+    {
+      "ID": 28475,
+      "Turn": 121,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 28476,
+      "Turn": 121,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 28477,
+      "Turn": 121,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 28478,
+      "Turn": 121,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher summarizes the students' descriptions of an angle smaller than 90 degrees by rephrasing it with the correct mathematical term, 'acute'."
+    },
+    {
+      "ID": 28479,
+      "Turn": 122,
+      "Speaker": "S",
+      "Sentence": "Yes"
+    },
+    {
+      "ID": 28480,
+      "Turn": 123,
+      "Speaker": "T",
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the mathematical term 'Acute' verbatim after the student confirmed it, reinforcing the vocabulary."
+    },
+    {
+      "ID": 28481,
+      "Turn": 124,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 28482,
+      "Turn": 124,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 28483,
+      "Turn": 124,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

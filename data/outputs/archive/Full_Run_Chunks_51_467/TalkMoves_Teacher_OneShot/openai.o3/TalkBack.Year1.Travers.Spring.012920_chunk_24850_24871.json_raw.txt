@@ -1,0 +1,74 @@
+{
+  "records": [
+    {
+      "ID": 24851,
+      "Speaker": "T",
+      "Turn": 195,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Teacher directs the class’s attention to the data, orienting everyone to the shared representation."
+    },
+    {
+      "ID": 24855,
+      "Speaker": "T",
+      "Turn": 198,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher echoes the student’s answer of “two,” slightly rephrasing it as “We have two.”"
+    },
+    {
+      "ID": 24856,
+      "Speaker": "T",
+      "Turn": 198,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Teacher points out specific values in the representation (“four inches and four inches”), guiding students’ collective focus."
+    },
+    {
+      "ID": 24857,
+      "Speaker": "T",
+      "Turn": 198,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24858,
+      "Speaker": "T",
+      "Turn": 198,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher checks whether the class agrees on the precise value (“Are we at 4 12 now?”)."
+    },
+    {
+      "ID": 24860,
+      "Speaker": "T",
+      "Turn": 200,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks for the exact count of a specific measurement (“How many 4 12 did we have?”)."
+    },
+    {
+      "ID": 24862,
+      "Speaker": "T",
+      "Turn": 202,
+      "TalkMove": "Restating",
+      "Reasoning": "Teacher repeats the student’s response verbatim: “Two.”"
+    },
+    {
+      "ID": 24866,
+      "Speaker": "T",
+      "Turn": 206,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks if the identified value is indeed the highest, prompting verification."
+    },
+    {
+      "ID": 24869,
+      "Speaker": "T",
+      "Turn": 208,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Teacher highlights specific entries (“Here’s 4 12 and 4 12”) to focus collective attention on the data."
+    },
+    {
+      "ID": 24870,
+      "Speaker": "T",
+      "Turn": 208,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks whether those values constitute the greatest, requesting confirmation."
+    }
+  ]
+}

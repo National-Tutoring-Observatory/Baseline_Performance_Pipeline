@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 23422,
+      "Speaker": "T",
+      "Turn": 23422,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 23424,
+      "Speaker": "T",
+      "Turn": 23424,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 23425,
+      "Speaker": "T",
+      "Turn": 23425,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to solve for a specific mathematical concept (factors of 12)."
+    },
+    {
+      "ID": 23426,
+      "Speaker": "T",
+      "Turn": 23426,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a specific mathematical question requiring a correct answer regarding factor pairs."
+    },
+    {
+      "ID": 23427,
+      "Speaker": "T",
+      "Turn": 23427,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to recall the definition or operation associated with 'factor' or 'factor pair' (multiplication)."
+    },
+    {
+      "ID": 23428,
+      "Speaker": "T",
+      "Turn": 23428,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher continues to prompt for the mathematical operation that results in 12."
+    },
+    {
+      "ID": 23429,
+      "Speaker": "T",
+      "Turn": 23429,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 23430,
+      "Speaker": "T",
+      "Turn": 23430,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 23431,
+      "Speaker": "T",
+      "Turn": 23431,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher explicitly asks for a mathematical contribution (two factors of 12)."
+    },
+    {
+      "ID": 23432,
+      "Speaker": "T",
+      "Turn": 23432,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 23434,
+      "Speaker": "T",
+      "Turn": 23434,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's answer ('6 and 2') word for word."
+    },
+    {
+      "ID": 23435,
+      "Speaker": "T",
+      "Turn": 23435,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 23436,
+      "Speaker": "T",
+      "Turn": 23436,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 23438,
+      "Speaker": "T",
+      "Turn": 23438,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's answer ('3 and 4') word for word."
+    },
+    {
+      "ID": 23439,
+      "Speaker": "T",
+      "Turn": 23439,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's idea (6 and 2) but adds the mathematical operation/result ('6 * 2 = 12')."
+    },
+    {
+      "ID": 23440,
+      "Speaker": "T",
+      "Turn": 23440,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's idea (3 and 4) but adds the mathematical operation/result ('3 * 4 = 12')."
+    },
+    {
+      "ID": 23441,
+      "Speaker": "T",
+      "Turn": 23441,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks if there are more mathematical answers (factors)."
+    },
+    {
+      "ID": 23443,
+      "Speaker": "T",
+      "Turn": 23443,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher calls on a specific student to provide another mathematical answer."
+    },
+    {
+      "ID": 23445,
+      "Speaker": "T",
+      "Turn": 23445,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's contribution ('4 3 and 3 4')."
+    },
+    {
+      "ID": 23446,
+      "Speaker": "T",
+      "Turn": 23446,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher connects the idea of 4*3 and 3*4, prompting students to recognize the commutative property ('go either way')."
+    }
+  ]
+}

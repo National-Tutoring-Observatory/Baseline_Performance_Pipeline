@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 8982,
+      "Speaker": "T",
+      "Turn": 8982,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 8985,
+      "Speaker": "T",
+      "Turn": 8985,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 8987,
+      "Speaker": "T",
+      "Turn": 8987,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 8989,
+      "Speaker": "T",
+      "Turn": 8989,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 8997,
+      "Speaker": "T",
+      "Turn": 8997,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to recall a specific strategy ('that rainbow') which implies connecting ideas or representations of factor pairs."
+    },
+    {
+      "ID": 8998,
+      "Speaker": "T",
+      "Turn": 8998,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher explains the purpose of the strategy ('so that you know that you have both numbers'), prompting students to connect the representation to the mathematical concept of factor pairs."
+    },
+    {
+      "ID": 9000,
+      "Speaker": "T",
+      "Turn": 9000,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher directs students to share their work with a partner, orienting them to each other."
+    },
+    {
+      "ID": 9001,
+      "Speaker": "T",
+      "Turn": 9001,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "This is a procedural instruction managing the partner interaction initiated in the previous turn."
+    },
+    {
+      "ID": 9002,
+      "Speaker": "T",
+      "Turn": 9002,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "This is a procedural instruction starting the partner interaction."
+    },
+    {
+      "ID": 9003,
+      "Speaker": "T",
+      "Turn": 9003,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a specific calculation question ('Is one times something equal 12') prompting for a mathematical fact."
+    },
+    {
+      "ID": 9004,
+      "Speaker": "T",
+      "Turn": 9004,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 9005,
+      "Speaker": "T",
+      "Turn": 9005,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts for a specific mathematical answer ('What is one times what')."
+    },
+    {
+      "ID": 9007,
+      "Speaker": "T",
+      "Turn": 9007,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher repeats the prompt for the specific factor pair ('One times what equals 12')."
+    },
+    {
+      "ID": 9008,
+      "Speaker": "T",
+      "Turn": 9008,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks 'what matches up', prompting students to identify the specific number."
+    },
+    {
+      "ID": 9010,
+      "Speaker": "T",
+      "Turn": 9010,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 9011,
+      "Speaker": "T",
+      "Turn": 9011,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a specific divisibility question ('does two going to go in 12')."
+    },
+    {
+      "ID": 9013,
+      "Speaker": "T",
+      "Turn": 9013,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts for the missing factor ('two times what')."
+    },
+    {
+      "ID": 9014,
+      "Speaker": "T",
+      "Turn": 9014,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 9015,
+      "Speaker": "T",
+      "Turn": 9015,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher leaves the sentence open ('Two times') for students to fill in the mathematical answer."
+    },
+    {
+      "ID": 9017,
+      "Speaker": "T",
+      "Turn": 9017,
+      "TalkMove": "None",
+      "Reasoning": null
+    }
+  ]
+}

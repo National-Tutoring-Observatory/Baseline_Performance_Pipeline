@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 14813,
+      "Speaker": "T",
+      "Turn": 14813,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 14814,
+      "Speaker": "T",
+      "Turn": 14814,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 14815,
+      "Speaker": "T",
+      "Turn": 14815,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 14816,
+      "Speaker": "T",
+      "Turn": 14816,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a specific calculation question ('whats two plus five') to prompt a mathematical contribution."
+    },
+    {
+      "ID": 14818,
+      "Speaker": "T",
+      "Turn": 14818,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher checks for recall of a previous mathematical value ('We originally said this was 76 right')."
+    },
+    {
+      "ID": 14820,
+      "Speaker": "T",
+      "Turn": 14820,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to provide a 'better answer' (likely simplifying a fraction), which is a request for a specific mathematical result."
+    },
+    {
+      "ID": 14821,
+      "Speaker": "T",
+      "Turn": 14821,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 14822,
+      "Speaker": "T",
+      "Turn": 14822,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks a student (Julia) to explain the reasoning behind a specific mathematical choice ('why eight and 16 instead of one and 16')."
+    },
+    {
+      "ID": 14824,
+      "Speaker": "T",
+      "Turn": 14824,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats and expands upon the student's reasoning for why the mixed number changed, clarifying the mathematical logic."
+    },
+    {
+      "ID": 14825,
+      "Speaker": "T",
+      "Turn": 14825,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 14826,
+      "Speaker": "T",
+      "Turn": 14826,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 14827,
+      "Speaker": "T",
+      "Turn": 14827,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher instructs the class to review a concept together ('Review whats different...'), orienting them to the task and each other."
+    },
+    {
+      "ID": 14828,
+      "Speaker": "T",
+      "Turn": 14828,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 14829,
+      "Speaker": "T",
+      "Turn": 14829,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher uses a countdown to bring the class's attention back to the whole group."
+    },
+    {
+      "ID": 14830,
+      "Speaker": "T",
+      "Turn": 14830,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 14831,
+      "Speaker": "T",
+      "Turn": 14831,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 14832,
+      "Speaker": "T",
+      "Turn": 14832,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 14833,
+      "Speaker": "T",
+      "Turn": 14833,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 14834,
+      "Speaker": "T",
+      "Turn": 14834,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher gives instructions that explicitly require students to orient to one another and discuss ('talk until you agree on an answer')."
+    },
+    {
+      "ID": 14835,
+      "Speaker": "T",
+      "Turn": 14835,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

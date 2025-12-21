@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 21855,
+      "Speaker": "T",
+      "Turn": 21855,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21857,
+      "Speaker": "T",
+      "Turn": 21857,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21858,
+      "Speaker": "T",
+      "Turn": 21858,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks students what operation should be performed on both sides, prompting a precise mathematical action."
+    },
+    {
+      "ID": 21860,
+      "Speaker": "T",
+      "Turn": 21860,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student-supplied answer 'square both sides' exactly as stated."
+    },
+    {
+      "ID": 21862,
+      "Speaker": "T",
+      "Turn": 21862,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21864,
+      "Speaker": "T",
+      "Turn": 21864,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21865,
+      "Speaker": "T",
+      "Turn": 21865,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21867,
+      "Speaker": "T",
+      "Turn": 21867,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21869,
+      "Speaker": "T",
+      "Turn": 21869,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21870,
+      "Speaker": "T",
+      "Turn": 21870,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21871,
+      "Speaker": "T",
+      "Turn": 21871,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a student to specify what will happen at that step, eliciting the correct mathematical result."
+    },
+    {
+      "ID": 21873,
+      "Speaker": "T",
+      "Turn": 21873,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student’s contribution 'They cancel out' verbatim."
+    },
+    {
+      "ID": 21874,
+      "Speaker": "T",
+      "Turn": 21874,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to explain the transformation between two steps, prompting them to justify the work."
+    },
+    {
+      "ID": 21877,
+      "Speaker": "T",
+      "Turn": 21877,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher echoes the student’s idea of foiling and expands on it by specifying 'first outer inner last.'"
+    },
+    {
+      "ID": 21878,
+      "Speaker": "T",
+      "Turn": 21878,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21879,
+      "Speaker": "T",
+      "Turn": 21879,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21880,
+      "Speaker": "T",
+      "Turn": 21880,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21882,
+      "Speaker": "T",
+      "Turn": 21882,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21884,
+      "Speaker": "T",
+      "Turn": 21884,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks students to state the next procedural step precisely."
+    },
+    {
+      "ID": 21886,
+      "Speaker": "T",
+      "Turn": 21886,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the concise procedural step 'Solve for x,' likely echoing a student’s response."
+    }
+  ]
+}

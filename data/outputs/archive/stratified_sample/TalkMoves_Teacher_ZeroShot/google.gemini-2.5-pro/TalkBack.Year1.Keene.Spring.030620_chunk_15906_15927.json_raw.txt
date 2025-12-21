@@ -1,0 +1,164 @@
+{
+  "records": [
+    {
+      "ID": 15906,
+      "Turn": 57,
+      "Speaker": "T",
+      "Sentence": "Okay so we have convince guess and make",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15907,
+      "Turn": 57,
+      "Speaker": "T",
+      "Sentence": "And Ill say none of the above",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15908,
+      "Turn": 57,
+      "Speaker": "T",
+      "Sentence": "Interpret means to understand",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15909,
+      "Turn": 57,
+      "Speaker": "T",
+      "Sentence": "When were interpreting something we are trying to understand or figure out the meaning",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15910,
+      "Turn": 57,
+      "Speaker": "T",
+      "Sentence": "My friends who say Thats what I said good",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15911,
+      "Turn": 57,
+      "Speaker": "T",
+      "Sentence": "That means you had it right",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15912,
+      "Turn": 57,
+      "Speaker": "T",
+      "Sentence": "You dont need to announce it to theSSthough or you could raise your hand and say when we heard three answers that you disagreed with you could raise your hand and say I think something different",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15913,
+      "Turn": 58,
+      "Speaker": "T",
+      "Sentence": "When we interpret something we understand or figure out the meaning",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15914,
+      "Turn": 58,
+      "Speaker": "T",
+      "Sentence": "Please tell your partner what does interpret mean",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15915,
+      "Turn": 58,
+      "Speaker": "T",
+      "Sentence": "Go",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15916,
+      "Turn": 58,
+      "Speaker": "T",
+      "Sentence": "In a little bit youre going to hear a story problem that has to do with fractions and you are going to have to make a drawing to model the situation and then figure out or understand what that drawing and what is going on with the situation",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15917,
+      "Turn": 58,
+      "Speaker": "T",
+      "Sentence": "I know I can do this when Class read the first one",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15918,
+      "Turn": 59,
+      "Speaker": "T",
+      "Sentence": "Show",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15919,
+      "Turn": 59,
+      "Speaker": "T",
+      "Sentence": "What does that mean that you need to do if youre showing",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to explain the meaning of a term in the context of the problem, prompting them to share their thinking."
+    },
+    {
+      "ID": 15920,
+      "Turn": 59,
+      "Speaker": "T",
+      "Sentence": "Rory",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 15922,
+      "Turn": 61,
+      "Speaker": "T",
+      "Sentence": "You can show with a picture",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's idea ('make a picture') but slightly changes the wording to 'show with a picture,' aligning it with the lesson's vocabulary."
+    },
+    {
+      "ID": 15923,
+      "Turn": 61,
+      "Speaker": "T",
+      "Sentence": "Can we show with anything else other than a picture",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to make an additional mathematical contribution by asking for other ways to represent the problem."
+    },
+    {
+      "ID": 15924,
+      "Turn": 62,
+      "Speaker": "T",
+      "Sentence": "Yes we could show with You mean like words",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher interprets a student's unclear contribution and articulates it as a question ('You mean like words?') to clarify and voice the idea for the class."
+    },
+    {
+      "ID": 15926,
+      "Turn": 64,
+      "Speaker": "T",
+      "Sentence": "You could show with words",
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's confirmed contribution ('words') to affirm it for the class."
+    },
+    {
+      "ID": 15927,
+      "Turn": 64,
+      "Speaker": "T",
+      "Sentence": "Could we show with numbers",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to make another specific mathematical contribution by suggesting 'numbers' as a possible representation."
+    }
+  ]
+}

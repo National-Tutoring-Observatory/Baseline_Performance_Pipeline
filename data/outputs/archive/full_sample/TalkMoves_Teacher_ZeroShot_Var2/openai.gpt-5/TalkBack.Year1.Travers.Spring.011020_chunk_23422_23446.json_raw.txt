@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 23422,
+      "Speaker": "T",
+      "Turn": 23422,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23424,
+      "Speaker": "T",
+      "Turn": 23424,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23425,
+      "Speaker": "T",
+      "Turn": 23425,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher directs students to determine the factors of 12, prompting a specific mathematical contribution."
+    },
+    {
+      "ID": 23426,
+      "Speaker": "T",
+      "Turn": 23426,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the factors/factor pairs of 12, eliciting correct mathematical terms and values."
+    },
+    {
+      "ID": 23427,
+      "Speaker": "T",
+      "Turn": 23427,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher cues students to think about what ‘factor’ or ‘factor pair’ means, focusing them on the precise mathematical idea."
+    },
+    {
+      "ID": 23428,
+      "Speaker": "T",
+      "Turn": 23428,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher narrows the task to factors of 12, prompting students to provide the correct mathematical values."
+    },
+    {
+      "ID": 23429,
+      "Speaker": "T",
+      "Turn": 23429,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23430,
+      "Speaker": "T",
+      "Turn": 23430,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23431,
+      "Speaker": "T",
+      "Turn": 23431,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher requests two factors of 12, prompting a specific mathematical answer."
+    },
+    {
+      "ID": 23432,
+      "Speaker": "T",
+      "Turn": 23432,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23434,
+      "Speaker": "T",
+      "Turn": 23434,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's response verbatim: ‘6 and 2.’"
+    },
+    {
+      "ID": 23435,
+      "Speaker": "T",
+      "Turn": 23435,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23436,
+      "Speaker": "T",
+      "Turn": 23436,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23438,
+      "Speaker": "T",
+      "Turn": 23438,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's response verbatim: ‘3 and 4.’"
+    },
+    {
+      "ID": 23439,
+      "Speaker": "T",
+      "Turn": 23439,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher reformulates the student’s factor pair as a multiplication statement (6 × 2 = 12)."
+    },
+    {
+      "ID": 23440,
+      "Speaker": "T",
+      "Turn": 23440,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher reformulates the student’s factor pair as a multiplication statement (3 × 4 = 12)."
+    },
+    {
+      "ID": 23441,
+      "Speaker": "T",
+      "Turn": 23441,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks if there are more factor pairs, prompting additional correct mathematical examples."
+    },
+    {
+      "ID": 23443,
+      "Speaker": "T",
+      "Turn": 23443,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher solicits another factor pair from a specific student, prompting a mathematical contribution."
+    },
+    {
+      "ID": 23445,
+      "Speaker": "T",
+      "Turn": 23445,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats and expands the student’s idea to include both orderings of the factor pair."
+    },
+    {
+      "ID": 23446,
+      "Speaker": "T",
+      "Turn": 23446,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher paraphrases and generalizes the student’s point that the factors can be ordered either way."
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "records": [
+    {
+      "ID": 24156,
+      "Turn": 206,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24157,
+      "Turn": 206,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24158,
+      "Turn": 206,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24159,
+      "Turn": 207,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24161,
+      "Turn": 208,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to make a specific mathematical contribution by asking for the result of a calculation."
+    },
+    {
+      "ID": 24162,
+      "Turn": 209,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24163,
+      "Turn": 209,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24164,
+      "Turn": 210,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher models part of a calculation and then prompts students to complete it, asking for a specific mathematical contribution."
+    },
+    {
+      "ID": 24165,
+      "Turn": 210,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to make a specific mathematical contribution by asking for the result of a calculation."
+    },
+    {
+      "ID": 24167,
+      "Turn": 212,
+      "Speaker": "T",
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's answer 'Eight' verbatim."
+    },
+    {
+      "ID": 24169,
+      "Turn": 213,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24170,
+      "Turn": 214,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to complete the next step of a calculation, asking for a specific mathematical contribution."
+    },
+    {
+      "ID": 24172,
+      "Turn": 216,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24176,
+      "Turn": 220,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts the student to articulate their thought process and explain how they plan to proceed with the problem."
+    },
+    {
+      "ID": 24177,
+      "Turn": 220,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

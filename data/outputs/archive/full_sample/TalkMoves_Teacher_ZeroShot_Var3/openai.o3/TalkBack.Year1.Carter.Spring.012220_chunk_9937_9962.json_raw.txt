@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 9937,
+      "Speaker": "T",
+      "Turn": 9937,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9938,
+      "Speaker": "T",
+      "Turn": 9938,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student’s answer ('five') almost word for word to acknowledge it."
+    },
+    {
+      "ID": 9939,
+      "Speaker": "T",
+      "Turn": 9939,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks Eli to explain how he arrived at the answer, prompting for his reasoning."
+    },
+    {
+      "ID": 9943,
+      "Speaker": "T",
+      "Turn": 9943,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9944,
+      "Speaker": "T",
+      "Turn": 9944,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks whether the problem could be solved by dividing, encouraging students to consider and explain an alternative method."
+    },
+    {
+      "ID": 9946,
+      "Speaker": "T",
+      "Turn": 9946,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9947,
+      "Speaker": "T",
+      "Turn": 9947,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher explicitly requests a student who used division to 'explain their thinking,' seeking justification."
+    },
+    {
+      "ID": 9949,
+      "Speaker": "T",
+      "Turn": 9949,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9950,
+      "Speaker": "T",
+      "Turn": 9950,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher summarizes the class’s finding ('we found 1/10 of 5') to keep all students oriented to shared progress."
+    },
+    {
+      "ID": 9951,
+      "Speaker": "T",
+      "Turn": 9951,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher restates the known information to ensure the whole class is on the same page before proceeding."
+    },
+    {
+      "ID": 9952,
+      "Speaker": "T",
+      "Turn": 9952,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the numerical value of 7/10, prompting students to provide a precise mathematical answer."
+    },
+    {
+      "ID": 9953,
+      "Speaker": "T",
+      "Turn": 9953,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9954,
+      "Speaker": "T",
+      "Turn": 9954,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher directs students to discuss why the answer is 35, prompting them to articulate and justify their reasoning."
+    },
+    {
+      "ID": 9955,
+      "Speaker": "T",
+      "Turn": 9955,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases a student’s idea about having seven groups of five, adding clarification for the class."
+    },
+    {
+      "ID": 9956,
+      "Speaker": "T",
+      "Turn": 9956,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher summarizes the multiplication step (5 x 7 = 35) so the entire class is aligned on the result."
+    },
+    {
+      "ID": 9957,
+      "Speaker": "T",
+      "Turn": 9957,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher restates and elaborates on the student strategy for finding parts and then multiplying, adjusting wording to clarify."
+    },
+    {
+      "ID": 9959,
+      "Speaker": "T",
+      "Turn": 9959,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher redirects a student’s attention ('back to me please'), orienting the class to listen collectively."
+    },
+    {
+      "ID": 9960,
+      "Speaker": "T",
+      "Turn": 9960,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9961,
+      "Speaker": "T",
+      "Turn": 9961,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks what the process would be, prompting students to articulate the reasoning steps."
+    },
+    {
+      "ID": 9962,
+      "Speaker": "T",
+      "Turn": 9962,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "By asking how to go straight from the problem to a solution, the teacher seeks an explanation of the underlying procedure."
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "records": [
+    {
+      "ID": 17764,
+      "Speaker": "T",
+      "Turn": 235,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17769,
+      "Speaker": "T",
+      "Turn": 238,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17770,
+      "Speaker": "T",
+      "Turn": 238,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17771,
+      "Speaker": "T",
+      "Turn": 238,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17772,
+      "Speaker": "T",
+      "Turn": 238,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Asks students to describe what is happening in a specific part of the graph, prompting explanation."
+    },
+    {
+      "ID": 17773,
+      "Speaker": "T",
+      "Turn": 238,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Requests the precise value of the x-intercept."
+    },
+    {
+      "ID": 17775,
+      "Speaker": "T",
+      "Turn": 240,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks for the specific numerical value of the y-intercept."
+    },
+    {
+      "ID": 17777,
+      "Speaker": "T",
+      "Turn": 242,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17778,
+      "Speaker": "T",
+      "Turn": 242,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Directly asks, “What is the Y-intercept,” seeking a correct value."
+    },
+    {
+      "ID": 17781,
+      "Speaker": "T",
+      "Turn": 244,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17783,
+      "Speaker": "T",
+      "Turn": 246,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17784,
+      "Speaker": "T",
+      "Turn": 246,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17785,
+      "Speaker": "T",
+      "Turn": 246,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17786,
+      "Speaker": "T",
+      "Turn": 246,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Prompts students to explain what distinguishes the different cubic graphs."
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "records": [
+    {
+      "ID": 24851,
+      "Speaker": "T",
+      "Turn": 195,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher directs the class to attend to the shared data, orienting everyone to the task."
+    },
+    {
+      "ID": 24855,
+      "Speaker": "T",
+      "Turn": 198,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases the students’ contributions of “two” as “We have two,” adding wording while keeping the idea."
+    },
+    {
+      "ID": 24856,
+      "Speaker": "T",
+      "Turn": 198,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24857,
+      "Speaker": "T",
+      "Turn": 198,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24858,
+      "Speaker": "T",
+      "Turn": 198,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a specific, factual check about the value to confirm precise understanding."
+    },
+    {
+      "ID": 24860,
+      "Speaker": "T",
+      "Turn": 200,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to provide a precise count of items with a specified value."
+    },
+    {
+      "ID": 24862,
+      "Speaker": "T",
+      "Turn": 202,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student’s answer word-for-word: “Two.”"
+    },
+    {
+      "ID": 24866,
+      "Speaker": "T",
+      "Turn": 206,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a yes/no question to verify which value is the maximum, focusing on correctness."
+    },
+    {
+      "ID": 24869,
+      "Speaker": "T",
+      "Turn": 208,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24870,
+      "Speaker": "T",
+      "Turn": 208,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks whether a value is the greatest, prompting verification of the correct mathematical description."
+    }
+  ]
+}

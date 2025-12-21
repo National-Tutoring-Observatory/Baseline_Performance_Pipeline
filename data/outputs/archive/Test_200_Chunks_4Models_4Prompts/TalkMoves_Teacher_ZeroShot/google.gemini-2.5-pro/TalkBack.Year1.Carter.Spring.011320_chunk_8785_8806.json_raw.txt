@@ -1,0 +1,148 @@
+{
+  "records": [
+    {
+      "ID": 8785,
+      "Turn": 148,
+      "Speaker": "T",
+      "Sentence": "Lets say them in order whats the first one",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8786,
+      "Turn": 148,
+      "Speaker": "T",
+      "Sentence": "Show me you can show me",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8787,
+      "Turn": 148,
+      "Speaker": "T",
+      "Sentence": "Number one right",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8788,
+      "Turn": 148,
+      "Speaker": "T",
+      "Sentence": "Is one a factor of every number",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8790,
+      "Turn": 150,
+      "Speaker": "T",
+      "Sentence": "Yes",
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's one-word answer verbatim."
+    },
+    {
+      "ID": 8791,
+      "Turn": 150,
+      "Speaker": "T",
+      "Sentence": "Whats the next number",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8792,
+      "Turn": 150,
+      "Speaker": "T",
+      "Sentence": "How do you know that two is the next number",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to explain their thinking by using the phrase 'How do you know...'"
+    },
+    {
+      "ID": 8793,
+      "Turn": 150,
+      "Speaker": "T",
+      "Sentence": "How do you know",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher repeats the question to emphasize the need for an explanation."
+    },
+    {
+      "ID": 8794,
+      "Turn": 150,
+      "Speaker": "T",
+      "Sentence": "Think how you know",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher directs students to prepare to share their reasoning, reinforcing the press for explanation."
+    },
+    {
+      "ID": 8795,
+      "Turn": 150,
+      "Speaker": "T",
+      "Sentence": "Youre going to talk with your face partner partner B goes first ready",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8796,
+      "Turn": 150,
+      "Speaker": "T",
+      "Sentence": "Go",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8798,
+      "Turn": 152,
+      "Speaker": "T",
+      "Sentence": "That is a beautiful answer",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8799,
+      "Turn": 152,
+      "Speaker": "T",
+      "Sentence": "Nice job using your math thinking today",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8800,
+      "Turn": 152,
+      "Speaker": "T",
+      "Sentence": "Okay how do you know that two is actually a factor of 36",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the class to provide an explanation for their mathematical claim using the phrase 'how do you know'."
+    },
+    {
+      "ID": 8801,
+      "Turn": 152,
+      "Speaker": "T",
+      "Sentence": "Brodie R",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8803,
+      "Turn": 154,
+      "Speaker": "T",
+      "Sentence": "Sounds like what Jackson just said",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8804,
+      "Turn": 154,
+      "Speaker": "T",
+      "Sentence": "Does anybody have a different way of explaining that",
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher prompts students to consider a previous student's idea and offer an alternative explanation."
+    },
+    {
+      "ID": 8805,
+      "Turn": 154,
+      "Speaker": "T",
+      "Sentence": "Falicia",
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

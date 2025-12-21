@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 9648,
+      "Speaker": "T",
+      "Turn": 9648,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9649,
+      "Speaker": "T",
+      "Turn": 9649,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9650,
+      "Speaker": "T",
+      "Turn": 9650,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9651,
+      "Speaker": "T",
+      "Turn": 9651,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the students to explain the process they used to arrive at their answer."
+    },
+    {
+      "ID": 9652,
+      "Speaker": "T",
+      "Turn": 9652,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9654,
+      "Speaker": "T",
+      "Turn": 9654,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to justify their choice of a specific mathematical tool."
+    },
+    {
+      "ID": 9655,
+      "Speaker": "T",
+      "Turn": 9655,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher repeats the press for justification, adding context to help the student formulate their reasoning."
+    },
+    {
+      "ID": 9656,
+      "Speaker": "T",
+      "Turn": 9656,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher persists in asking the student to justify their choice of tool after an initial, likely incomplete, response."
+    },
+    {
+      "ID": 9657,
+      "Speaker": "T",
+      "Turn": 9657,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts the student for more explanation by stating their own confusion about the student's idea."
+    },
+    {
+      "ID": 9659,
+      "Speaker": "T",
+      "Turn": 9659,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9660,
+      "Speaker": "T",
+      "Turn": 9660,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to evaluate the necessity and correctness of their chosen mathematical tool."
+    },
+    {
+      "ID": 9661,
+      "Speaker": "T",
+      "Turn": 9661,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9662,
+      "Speaker": "T",
+      "Turn": 9662,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to provide a mathematical method or procedure."
+    },
+    {
+      "ID": 9663,
+      "Speaker": "T",
+      "Turn": 9663,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher directs students to orient to their partners for a discussion."
+    },
+    {
+      "ID": 9664,
+      "Speaker": "T",
+      "Turn": 9664,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks a student to state a mathematical rule, which is a form of generalized reasoning."
+    },
+    {
+      "ID": 9665,
+      "Speaker": "T",
+      "Turn": 9665,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to explain how the mathematical rule they stated works."
+    },
+    {
+      "ID": 9667,
+      "Speaker": "T",
+      "Turn": 9667,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to use more specific and precise mathematical language in their explanation."
+    },
+    {
+      "ID": 9669,
+      "Speaker": "T",
+      "Turn": 9669,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9670,
+      "Speaker": "T",
+      "Turn": 9670,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to create a general principle from their specific explanation."
+    },
+    {
+      "ID": 9671,
+      "Speaker": "T",
+      "Turn": 9671,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

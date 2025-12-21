@@ -1,0 +1,123 @@
+{
+  "records": [
+    {
+      "ID": 11531,
+      "Speaker": "T",
+      "Turn": 173,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks for the specific number of eighths equivalent to 1/4, prompting a precise mathematical contribution."
+    },
+    {
+      "ID": 11533,
+      "Speaker": "T",
+      "Turn": 175,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher restates the student’s answer ('two') and elaborates it mathematically as '2/8 is equivalent to 1/4.'"
+    },
+    {
+      "ID": 11534,
+      "Speaker": "T",
+      "Turn": 175,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher asks, 'How can you prove that?' requesting justification for the student’s claim."
+    },
+    {
+      "ID": 11536,
+      "Speaker": "T",
+      "Turn": 177,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher prompts the student to provide evidence by drawing a representation."
+    },
+    {
+      "ID": 11537,
+      "Speaker": "T",
+      "Turn": 177,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher explicitly asks the student to explain their thinking."
+    },
+    {
+      "ID": 11539,
+      "Speaker": "T",
+      "Turn": 179,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "Teacher invites the class to react to a peer’s solution ('What do you guys think?')."
+    },
+    {
+      "ID": 11540,
+      "Speaker": "T",
+      "Turn": 179,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "Teacher asks classmates if they agree with the previous contribution, prompting response to a peer."
+    },
+    {
+      "ID": 11542,
+      "Speaker": "T",
+      "Turn": 181,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11543,
+      "Speaker": "T",
+      "Turn": 181,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11544,
+      "Speaker": "T",
+      "Turn": 181,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "Teacher again asks the class to share their thoughts on the peer’s work."
+    },
+    {
+      "ID": 11545,
+      "Speaker": "T",
+      "Turn": 181,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "Teacher encourages students to evaluate whether the peers produced a good drawing."
+    },
+    {
+      "ID": 11546,
+      "Speaker": "T",
+      "Turn": 181,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "Teacher asks students to assess whether their classmates explained their thinking well."
+    },
+    {
+      "ID": 11547,
+      "Speaker": "T",
+      "Turn": 181,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11548,
+      "Speaker": "T",
+      "Turn": 181,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11549,
+      "Speaker": "T",
+      "Turn": 182,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11550,
+      "Speaker": "T",
+      "Turn": 182,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11551,
+      "Speaker": "T",
+      "Turn": 182,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

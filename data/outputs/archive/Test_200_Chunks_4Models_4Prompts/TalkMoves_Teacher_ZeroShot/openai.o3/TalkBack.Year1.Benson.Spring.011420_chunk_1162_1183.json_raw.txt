@@ -1,0 +1,117 @@
+{
+  "records": [
+    {
+      "ID": 1162,
+      "Speaker": "T",
+      "Turn": 71
+    },
+    {
+      "ID": 1163,
+      "Speaker": "T",
+      "Turn": 71
+    },
+    {
+      "ID": 1165,
+      "Speaker": "T",
+      "Turn": 73,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks the student to state the exact number of pieces in the whole, prompting a precise mathematical fact."
+    },
+    {
+      "ID": 1166,
+      "Speaker": "T",
+      "Turn": 73,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Requests an explanation for why the whole does not have six pieces, pushing the student to justify the claim."
+    },
+    {
+      "ID": 1167,
+      "Speaker": "T",
+      "Turn": 73,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Prompts the student to name the specific number of pieces eaten, seeking a correct numeric answer."
+    },
+    {
+      "ID": 1169,
+      "Speaker": "T",
+      "Turn": 75,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Repeats the student’s answer \"13\" and elaborates on its meaning, rephrasing and extending the idea."
+    },
+    {
+      "ID": 1170,
+      "Speaker": "T",
+      "Turn": 75
+    },
+    {
+      "ID": 1171,
+      "Speaker": "T",
+      "Turn": 75,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Urges students to determine the exact total number of pieces in the whole."
+    },
+    {
+      "ID": 1172,
+      "Speaker": "T",
+      "Turn": 75
+    },
+    {
+      "ID": 1173,
+      "Speaker": "T",
+      "Turn": 75,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Checks collective understanding by asking if the explanation makes sense to the group."
+    },
+    {
+      "ID": 1174,
+      "Speaker": "T",
+      "Turn": 75,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Directly checks one student’s understanding to ensure the class remains on the same page."
+    },
+    {
+      "ID": 1175,
+      "Speaker": "T",
+      "Turn": 75
+    },
+    {
+      "ID": 1176,
+      "Speaker": "T",
+      "Turn": 75
+    },
+    {
+      "ID": 1177,
+      "Speaker": "T",
+      "Turn": 75
+    },
+    {
+      "ID": 1178,
+      "Speaker": "T",
+      "Turn": 75
+    },
+    {
+      "ID": 1179,
+      "Speaker": "T",
+      "Turn": 75
+    },
+    {
+      "ID": 1181,
+      "Speaker": "T",
+      "Turn": 77
+    },
+    {
+      "ID": 1182,
+      "Speaker": "T",
+      "Turn": 77,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks students to specify the total amount eaten, prompting a precise mathematical answer."
+    },
+    {
+      "ID": 1183,
+      "Speaker": "T",
+      "Turn": 77,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Asks students to consider whether the answer would remain the same under a different scenario, eliciting justification."
+    }
+  ]
+}

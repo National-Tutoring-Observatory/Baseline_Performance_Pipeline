@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 491,
+      "Speaker": "T",
+      "Turn": 491,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 492,
+      "Speaker": "T",
+      "Turn": 492,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 493,
+      "Speaker": "T",
+      "Turn": 493,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a specific student to provide a mathematical answer (an equivalent fraction)."
+    },
+    {
+      "ID": 495,
+      "Speaker": "T",
+      "Turn": 495,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 496,
+      "Speaker": "T",
+      "Turn": 496,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 497,
+      "Speaker": "T",
+      "Turn": 497,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 498,
+      "Speaker": "T",
+      "Turn": 498,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to explain the process or method used to arrive at the answer 8/20."
+    },
+    {
+      "ID": 500,
+      "Speaker": "T",
+      "Turn": 500,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 501,
+      "Speaker": "T",
+      "Turn": 501,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher asks a student to build upon the previous student's work by finding the next multiple."
+    },
+    {
+      "ID": 502,
+      "Speaker": "T",
+      "Turn": 502,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 504,
+      "Speaker": "T",
+      "Turn": 504,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 505,
+      "Speaker": "T",
+      "Turn": 505,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 506,
+      "Speaker": "T",
+      "Turn": 506,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher summarizes the student's method ('he did multiples times 2') to clarify what was done."
+    },
+    {
+      "ID": 507,
+      "Speaker": "T",
+      "Turn": 507,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to perform a specific calculation (multiples times 3)."
+    },
+    {
+      "ID": 508,
+      "Speaker": "T",
+      "Turn": 508,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 509,
+      "Speaker": "T",
+      "Turn": 509,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 510,
+      "Speaker": "T",
+      "Turn": 510,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a student to share their specific mathematical result."
+    },
+    {
+      "ID": 512,
+      "Speaker": "T",
+      "Turn": 512,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 513,
+      "Speaker": "T",
+      "Turn": 513,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's answer ('So 6/24') verbatim."
+    },
+    {
+      "ID": 515,
+      "Speaker": "T",
+      "Turn": 515,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases the student's action or method ('So just doing the number')."
+    }
+  ]
+}

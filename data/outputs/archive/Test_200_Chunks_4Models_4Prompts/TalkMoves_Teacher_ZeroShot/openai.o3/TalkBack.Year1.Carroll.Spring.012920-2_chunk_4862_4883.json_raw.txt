@@ -1,0 +1,137 @@
+{
+  "records": [
+    {
+      "ID": 4862,
+      "Speaker": "T",
+      "Turn": 114,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4863,
+      "Speaker": "T",
+      "Turn": 114,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4864,
+      "Speaker": "T",
+      "Turn": 114,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4865,
+      "Speaker": "T",
+      "Turn": 114,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4866,
+      "Speaker": "T",
+      "Turn": 114,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4867,
+      "Speaker": "T",
+      "Turn": 114,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4868,
+      "Speaker": "T",
+      "Turn": 114,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4869,
+      "Speaker": "T",
+      "Turn": 114,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4870,
+      "Speaker": "T",
+      "Turn": 114,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4872,
+      "Speaker": "T",
+      "Turn": 116,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4873,
+      "Speaker": "T",
+      "Turn": 116,
+      "TalkMove": "Restating",
+      "Reasoning": "Teacher repeats the student’s words \"A little bit\" exactly as said."
+    },
+    {
+      "ID": 4874,
+      "Speaker": "T",
+      "Turn": 116,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4875,
+      "Speaker": "T",
+      "Turn": 116,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks for the specific value of the denominator, prompting a precise numerical answer."
+    },
+    {
+      "ID": 4877,
+      "Speaker": "T",
+      "Turn": 118,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4878,
+      "Speaker": "T",
+      "Turn": 118,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4879,
+      "Speaker": "T",
+      "Turn": 118,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher prompts students to compute 8 + 9, seeking the correct sum."
+    },
+    {
+      "ID": 4881,
+      "Speaker": "T",
+      "Turn": 120,
+      "TalkMove": "Restating",
+      "Reasoning": "Teacher repeats the student’s answer \"Seventeen\" verbatim."
+    },
+    {
+      "ID": 4882,
+      "Speaker": "T",
+      "Turn": 120,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4883,
+      "Speaker": "T",
+      "Turn": 120,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks what the denominator 12s represents, requesting the precise mathematical term."
+    }
+  ]
+}

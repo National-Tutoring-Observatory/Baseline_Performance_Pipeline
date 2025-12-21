@@ -1,0 +1,112 @@
+{
+  "records": [
+    {
+      "ID": 11495,
+      "Speaker": "T",
+      "Turn": 11495
+    },
+    {
+      "ID": 11496,
+      "Speaker": "T",
+      "Turn": 11496
+    },
+    {
+      "ID": 11497,
+      "Speaker": "T",
+      "Turn": 11497
+    },
+    {
+      "ID": 11498,
+      "Speaker": "T",
+      "Turn": 11498
+    },
+    {
+      "ID": 11499,
+      "Speaker": "T",
+      "Turn": 11499,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher solicits a student who used a drawing to represent the problem, prompting a specific mathematical representation."
+    },
+    {
+      "ID": 11500,
+      "Speaker": "T",
+      "Turn": 11500
+    },
+    {
+      "ID": 11501,
+      "Speaker": "T",
+      "Turn": 11501
+    },
+    {
+      "ID": 11502,
+      "Speaker": "T",
+      "Turn": 11502
+    },
+    {
+      "ID": 11503,
+      "Speaker": "T",
+      "Turn": 11503
+    },
+    {
+      "ID": 11504,
+      "Speaker": "T",
+      "Turn": 11504
+    },
+    {
+      "ID": 11509,
+      "Speaker": "T",
+      "Turn": 11509
+    },
+    {
+      "ID": 11510,
+      "Speaker": "T",
+      "Turn": 11510
+    },
+    {
+      "ID": 11511,
+      "Speaker": "T",
+      "Turn": 11511
+    },
+    {
+      "ID": 11512,
+      "Speaker": "T",
+      "Turn": 11512
+    },
+    {
+      "ID": 11513,
+      "Speaker": "T",
+      "Turn": 11513
+    },
+    {
+      "ID": 11514,
+      "Speaker": "T",
+      "Turn": 11514
+    },
+    {
+      "ID": 11515,
+      "Speaker": "T",
+      "Turn": 11515
+    },
+    {
+      "ID": 11516,
+      "Speaker": "T",
+      "Turn": 11516,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher invites students to explain their thinking, prompting them to share their reasoning."
+    },
+    {
+      "ID": 11521,
+      "Speaker": "T",
+      "Turn": 11521,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher paraphrases the student's description of their action to clarify and check understanding."
+    },
+    {
+      "ID": 11522,
+      "Speaker": "T",
+      "Turn": 11522,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks how the student knew a fourth could be broken into eighths, prompting justification of the idea."
+    }
+  ]
+}

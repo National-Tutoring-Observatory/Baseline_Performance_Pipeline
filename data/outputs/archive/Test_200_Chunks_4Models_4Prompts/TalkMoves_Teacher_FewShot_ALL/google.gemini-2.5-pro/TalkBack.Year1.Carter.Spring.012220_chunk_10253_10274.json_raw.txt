@@ -1,0 +1,120 @@
+{
+  "records": [
+    {
+      "ID": 10253,
+      "Speaker": "T",
+      "Turn": 249,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10255,
+      "Speaker": "T",
+      "Turn": 251,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher restates a key component of the calculation (1/4 of the whole is two) that the student is using."
+    },
+    {
+      "ID": 10257,
+      "Speaker": "T",
+      "Turn": 253,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10258,
+      "Speaker": "T",
+      "Turn": 253,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to explain their thinking or understanding of how the answer was derived."
+    },
+    {
+      "ID": 10259,
+      "Speaker": "T",
+      "Turn": 253,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10261,
+      "Speaker": "T",
+      "Turn": 255,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10262,
+      "Speaker": "T",
+      "Turn": 255,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10263,
+      "Speaker": "T",
+      "Turn": 255,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10264,
+      "Speaker": "T",
+      "Turn": 255,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to make a specific mathematical contribution by asking for the result of a calculation."
+    },
+    {
+      "ID": 10265,
+      "Speaker": "T",
+      "Turn": 256,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts the student to connect two ideas: the value of one-fourth and the need to account for three-fourths."
+    },
+    {
+      "ID": 10267,
+      "Speaker": "T",
+      "Turn": 258,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to make a specific mathematical contribution by asking for the result of a calculation."
+    },
+    {
+      "ID": 10268,
+      "Speaker": "T",
+      "Turn": 258,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to make a specific mathematical contribution by rephrasing the question as a division problem."
+    },
+    {
+      "ID": 10270,
+      "Speaker": "T",
+      "Turn": 260,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's answer word for word."
+    },
+    {
+      "ID": 10271,
+      "Speaker": "T",
+      "Turn": 260,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts the student to connect the value of the unit fraction to the value of the target fraction."
+    },
+    {
+      "ID": 10272,
+      "Speaker": "T",
+      "Turn": 260,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts the student to reflect on the mathematical process used."
+    },
+    {
+      "ID": 10273,
+      "Speaker": "T",
+      "Turn": 260,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10274,
+      "Speaker": "T",
+      "Turn": 260,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning":

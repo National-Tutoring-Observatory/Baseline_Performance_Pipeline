@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 1642,
+      "Speaker": "T",
+      "Turn": 1642,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to explain the strategy or process they used to solve the problem."
+    },
+    {
+      "ID": 1644,
+      "Speaker": "T",
+      "Turn": 1644,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks for justification for a specific calculation step (four plus four)."
+    },
+    {
+      "ID": 1645,
+      "Speaker": "T",
+      "Turn": 1645,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts the student to elaborate further on their explanation."
+    },
+    {
+      "ID": 1648,
+      "Speaker": "T",
+      "Turn": 1648,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher explicitly asks the student to explain the source of the numbers used in their calculation."
+    },
+    {
+      "ID": 1649,
+      "Speaker": "T",
+      "Turn": 1649,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1650,
+      "Speaker": "T",
+      "Turn": 1650,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1651,
+      "Speaker": "T",
+      "Turn": 1651,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to provide more detail or explanation about the concept being discussed."
+    },
+    {
+      "ID": 1653,
+      "Speaker": "T",
+      "Turn": 1653,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1654,
+      "Speaker": "T",
+      "Turn": 1654,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a specific question to check for understanding of the definition of a whole in terms of parts."
+    },
+    {
+      "ID": 1655,
+      "Speaker": "T",
+      "Turn": 1655,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for a specific numerical answer regarding the count of fourths."
+    },
+    {
+      "ID": 1657,
+      "Speaker": "T",
+      "Turn": 1657,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1658,
+      "Speaker": "T",
+      "Turn": 1658,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1659,
+      "Speaker": "T",
+      "Turn": 1659,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1660,
+      "Speaker": "T",
+      "Turn": 1660,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1661,
+      "Speaker": "T",
+      "Turn": 1661,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's result (eight) and adds an explanation of the logic (adding four fourths plus four fourths) to validate the contribution."
+    },
+    {
+      "ID": 1662,
+      "Speaker": "T",
+      "Turn": 1662,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the students to determine if the calculation is complete or if there are more parts to add."
+    },
+    {
+      "ID": 1664,
+      "Speaker": "T",
+      "Turn": 1664,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1665,
+      "Speaker": "T",
+      "Turn": 1665,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the specific total sum of the fourths."
+    },
+    {
+      "ID": 1666,
+      "Speaker": "T",
+      "Turn": 1666,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1668,
+      "Speaker": "T",
+      "Turn": 1668,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

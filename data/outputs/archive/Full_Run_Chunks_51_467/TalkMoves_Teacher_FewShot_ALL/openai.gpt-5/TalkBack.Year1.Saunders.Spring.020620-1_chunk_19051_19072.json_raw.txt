@@ -1,0 +1,123 @@
+{
+  "records": [
+    {
+      "ID": 19051,
+      "Speaker": "T",
+      "Turn": 1,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19052,
+      "Speaker": "T",
+      "Turn": 1,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19053,
+      "Speaker": "T",
+      "Turn": 2,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19054,
+      "Speaker": "T",
+      "Turn": 2,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19055,
+      "Speaker": "T",
+      "Turn": 2,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks students to identify whether the transformation modifies x or the whole function, prompting precise mathematical classification."
+    },
+    {
+      "ID": 19057,
+      "Speaker": "T",
+      "Turn": 3,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Invites students to share their thinking."
+    },
+    {
+      "ID": 19058,
+      "Speaker": "T",
+      "Turn": 3,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Prompts students to explain what action they took."
+    },
+    {
+      "ID": 19059,
+      "Speaker": "T",
+      "Turn": 3,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks students to specify what was modified using correct mathematical language."
+    },
+    {
+      "ID": 19061,
+      "Speaker": "T",
+      "Turn": 5,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Restates the student’s answer by adding wording ('We modified'), preserving meaning."
+    },
+    {
+      "ID": 19062,
+      "Speaker": "T",
+      "Turn": 5,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19063,
+      "Speaker": "T",
+      "Turn": 5,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19064,
+      "Speaker": "T",
+      "Turn": 5,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Prompts students to choose between modifying x or the whole function."
+    },
+    {
+      "ID": 19066,
+      "Speaker": "T",
+      "Turn": 7,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19067,
+      "Speaker": "T",
+      "Turn": 7,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19068,
+      "Speaker": "T",
+      "Turn": 7,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Repeats the student’s idea with slightly changed wording (tense)."
+    },
+    {
+      "ID": 19069,
+      "Speaker": "T",
+      "Turn": 7,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19071,
+      "Speaker": "T",
+      "Turn": 9,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Echoes the student’s statement and adds 'you think' to check understanding."
+    }
+  ]
+}

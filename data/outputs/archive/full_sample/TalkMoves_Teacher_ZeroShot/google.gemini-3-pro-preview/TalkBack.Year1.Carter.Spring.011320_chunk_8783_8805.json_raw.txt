@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 8783,
+      "Speaker": "T",
+      "Turn": 8783,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's idea about multiplying numbers but adds precise mathematical terminology ('factor') to clarify the definition."
+    },
+    {
+      "ID": 8784,
+      "Speaker": "T",
+      "Turn": 8784,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a specific question requiring a factual mathematical answer (factors of 36)."
+    },
+    {
+      "ID": 8785,
+      "Speaker": "T",
+      "Turn": 8785,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to provide a specific number ('the first one') in a sequence."
+    },
+    {
+      "ID": 8786,
+      "Speaker": "T",
+      "Turn": 8786,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks students to non-verbally demonstrate the answer (likely holding up fingers), prompting a mathematical contribution."
+    },
+    {
+      "ID": 8787,
+      "Speaker": "T",
+      "Turn": 8787,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8788,
+      "Speaker": "T",
+      "Turn": 8788,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a question to verify a mathematical rule or fact about the number one."
+    },
+    {
+      "ID": 8790,
+      "Speaker": "T",
+      "Turn": 8790,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8791,
+      "Speaker": "T",
+      "Turn": 8791,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the next specific number in the sequence of factors."
+    },
+    {
+      "ID": 8792,
+      "Speaker": "T",
+      "Turn": 8792,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to explain the justification ('How do you know') for their answer."
+    },
+    {
+      "ID": 8793,
+      "Speaker": "T",
+      "Turn": 8793,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher repeats the prompt for justification, asking the student to explain their thinking."
+    },
+    {
+      "ID": 8794,
+      "Speaker": "T",
+      "Turn": 8794,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher explicitly prompts students to engage in the mental process of justifying their answer."
+    },
+    {
+      "ID": 8795,
+      "Speaker": "T",
+      "Turn": 8795,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8796,
+      "Speaker": "T",
+      "Turn": 8796,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8798,
+      "Speaker": "T",
+      "Turn": 8798,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8799,
+      "Speaker": "T",
+      "Turn": 8799,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8800,
+      "Speaker": "T",
+      "Turn": 8800,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks a student to provide evidence or an explanation for why 'two' is a factor."
+    },
+    {
+      "ID": 8801,
+      "Speaker": "T",
+      "Turn": 8801,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8803,
+      "Speaker": "T",
+      "Turn": 8803,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8804,
+      "Speaker": "T",
+      "Turn": 8804,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher solicits alternative explanations or strategies from the class."
+    },
+    {
+      "ID": 8805,
+      "Speaker": "T",
+      "Turn": 8805,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 9594,
+      "Speaker": "T",
+      "Turn": 9594,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 9595,
+      "Speaker": "T",
+      "Turn": 9595,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher is managing the classroom flow and directing students' attention to a task while waiting for others."
+    },
+    {
+      "ID": 9596,
+      "Speaker": "T",
+      "Turn": 9596,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher is orienting students to the expected activity (working on math boxes)."
+    },
+    {
+      "ID": 9597,
+      "Speaker": "T",
+      "Turn": 9597,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher gives a direct command to perform a specific mathematical operation."
+    },
+    {
+      "ID": 9598,
+      "Speaker": "T",
+      "Turn": 9598,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher is orienting the class to the next activity (math message)."
+    },
+    {
+      "ID": 9599,
+      "Speaker": "T",
+      "Turn": 9599,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher directs the students to complete specific problems on a specific page."
+    },
+    {
+      "ID": 9600,
+      "Speaker": "T",
+      "Turn": 9600,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 9601,
+      "Speaker": "T",
+      "Turn": 9601,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a specific calculation question: 'whats 1/5 of 10'."
+    },
+    {
+      "ID": 9603,
+      "Speaker": "T",
+      "Turn": 9603,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts for a specific numerical answer regarding grouping ('10 into how many groups')."
+    },
+    {
+      "ID": 9605,
+      "Speaker": "T",
+      "Turn": 9605,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher corrects the student and instructs them on the specific mathematical procedure (break it into five groups by the denominator)."
+    },
+    {
+      "ID": 9606,
+      "Speaker": "T",
+      "Turn": 9606,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts for the result of a specific calculation (10 / 5)."
+    },
+    {
+      "ID": 9608,
+      "Speaker": "T",
+      "Turn": 9608,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 9610,
+      "Speaker": "T",
+      "Turn": 9610,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher sets up a scenario and asks for a specific numerical result ('how many would be in each group')."
+    },
+    {
+      "ID": 9612,
+      "Speaker": "T",
+      "Turn": 9612,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 9614,
+      "Speaker": "T",
+      "Turn": 9614,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher is demonstrating/counting out groups to lead the student to the correct mathematical structure."
+    },
+    {
+      "ID": 9615,
+      "Speaker": "T",
+      "Turn": 9615,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher states a mathematical fact/label for the representation being shown."
+    },
+    {
+      "ID": 9616,
+      "Speaker": "T",
+      "Turn": 9616,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher connects the current task to a previous representation/activity ('what we just did with the counters'), prompting the student to recall that logic."
+    },
+    {
+      "ID": 9617,
+      "Speaker": "T",
+      "Turn": 9617,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts for a specific quantity ('how manys in')."
+    },
+    {
+      "ID": 9618,
+      "Speaker": "T",
+      "Turn": 9618,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 9620,
+      "Speaker": "T",
+      "Turn": 9620,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher directs the student back to the text/directions to verify accuracy."
+    }
+  ]
+}

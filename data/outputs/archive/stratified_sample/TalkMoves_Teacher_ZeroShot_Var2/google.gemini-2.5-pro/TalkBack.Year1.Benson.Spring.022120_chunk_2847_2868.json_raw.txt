@@ -1,0 +1,156 @@
+{
+  "records": [
+    {
+      "ID": 2847,
+      "Turn": 11,
+      "Speaker": "T",
+      "Sentence": "What place is that zero and seven",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2849,
+      "Turn": 13,
+      "Speaker": "T",
+      "Sentence": "Tenths you got it",
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's correct answer 'Tenths' verbatim before confirming it."
+    },
+    {
+      "ID": 2850,
+      "Turn": 13,
+      "Speaker": "T",
+      "Sentence": "How many of you wrote a fraction for zero and 310",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2851,
+      "Turn": 13,
+      "Speaker": "T",
+      "Sentence": "Brian what did you write",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2853,
+      "Turn": 15,
+      "Speaker": "T",
+      "Sentence": "If you did 34 hundredths as a decimal raise your hand",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2854,
+      "Turn": 15,
+      "Speaker": "T",
+      "Sentence": "Nate what did you write",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2855,
+      "Turn": 16,
+      "Speaker": "T",
+      "Sentence": "I wrote zero and 34 hundredths",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2856,
+      "Turn": 17,
+      "Speaker": "T",
+      "Sentence": "You got it",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2857,
+      "Turn": 17,
+      "Speaker": "T",
+      "Sentence": "Would you please write",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2858,
+      "Turn": 17,
+      "Speaker": "T",
+      "Sentence": "Why are you are not writing",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2859,
+      "Turn": 17,
+      "Speaker": "T",
+      "Sentence": "Thank you",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2860,
+      "Turn": 17,
+      "Speaker": "T",
+      "Sentence": "If you did 80 100 as a decimal what do you write",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2861,
+      "Turn": 17,
+      "Speaker": "T",
+      "Sentence": "Show me your hand",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2862,
+      "Turn": 17,
+      "Speaker": "T",
+      "Sentence": "What do you write",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2863,
+      "Turn": 17,
+      "Speaker": "T",
+      "Sentence": "Show me your hand",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2864,
+      "Turn": 17,
+      "Speaker": "T",
+      "Sentence": "Just raise it up",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2865,
+      "Turn": 17,
+      "Speaker": "T",
+      "Sentence": "hi whatd you write",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2867,
+      "Turn": 19,
+      "Speaker": "T",
+      "Sentence": "Make sure you say that",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to be more precise in their verbal mathematical expression after an unclear utterance."
+    },
+    {
+      "ID": 2868,
+      "Turn": 19,
+      "Speaker": "T",
+      "Sentence": "Whats this word",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Following up on the previous prompt, the teacher directs the student to focus on and correctly say a specific mathematical term."
+    }
+  ]
+}

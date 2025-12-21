@@ -1,0 +1,40 @@
+{
+  "run_name": "Full_Run_Chunks_51_467",
+  "sample_type": "experiment_800",
+  "input_directory": "data/inputs/stratified_samples/experiment_representative_800_chunks",
+  "output_directory": "data/outputs/Full_Run_Chunks_51_467",
+  "models": ["anthropic.claude-4.5-sonnet", "google.gemini-2.5-pro", "openai.gpt-5", "openai.o3"],
+  "prompts": ["TalkMoves_Teacher_ZeroShot", "TalkMoves_Teacher_ZeroShot_Var2", "TalkMoves_Teacher_ZeroShot_Var3", "TalkMoves_Teacher_ZeroShot_Var4"],
+  "total_tasks": 6672,
+  "results": {
+    "DONE": 6667,
+    "FAILED": 5
+  },
+  "start_time": "2025-12-18 21:44:44.072919",
+  "end_time": "2025-12-19 00:04:51.24423",
+  "elapsed_minutes": 140.1195,
+  "config": {
+    "sample_type": "experiment_800",
+    "sample_paths": {
+      "full_sample": "data/inputs/FullSample_Chunks_WithID",
+      "stratified_sample": "data/inputs/stratified_samples/RepresentativeSample_Oversampled_Chunks",
+      "experiment_800": "data/inputs/stratified_samples/experiment_representative_800_chunks"
+    },
+    "output_directory": "data/outputs",
+    "run_name": "Full_Run_Chunks_51_467",
+    "models": ["anthropic.claude-4.5-sonnet", "google.gemini-2.5-pro", "openai.gpt-5", "openai.o3"],
+    "prompt_directory": "prompts",
+    "specific_prompts": ["TalkMoves_Teacher_ZeroShot.json", "TalkMoves_Teacher_OneShot.json", "TalkMoves_Teacher_FewShot_3.json", "TalkMoves_Teacher_FewShot_ALL.json"],
+    "parallel_workers": 30,
+    "temperature": 0,
+    "max_tokens": 16000,
+    "request_timeout": 300,
+    "test_mode": true,
+    "test_start_offset": 50,
+    "test_subset_size": 417,
+    "auto_analyze": true,
+    "ground_truth_file": "data/inputs/ground_truth/ground_truth_TalkMoves.csv",
+    "verbose_logging": true,
+    "log_file": "logs/pipeline.log"
+  }
+}

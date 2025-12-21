@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 2126,
+      "Speaker": "T",
+      "Turn": 2126,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2127,
+      "Speaker": "T",
+      "Turn": 2127,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a direct question to elicit a specific mathematical calculation."
+    },
+    {
+      "ID": 2129,
+      "Speaker": "T",
+      "Turn": 2129,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a simplified, related question to elicit a basic mathematical fact needed for the larger calculation."
+    },
+    {
+      "ID": 2131,
+      "Speaker": "T",
+      "Turn": 2131,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher takes the student's answer (24) and rephrases it by adding place value context ('its 24 tens') to clarify its meaning in the problem."
+    },
+    {
+      "ID": 2132,
+      "Speaker": "T",
+      "Turn": 2132,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2133,
+      "Speaker": "T",
+      "Turn": 2133,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2134,
+      "Speaker": "T",
+      "Turn": 2134,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts a student to recall a specific numerical value from the problem context."
+    },
+    {
+      "ID": 2136,
+      "Speaker": "T",
+      "Turn": 2136,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts for the next numerical value needed to set up the calculation."
+    },
+    {
+      "ID": 2138,
+      "Speaker": "T",
+      "Turn": 2138,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts for another numerical value needed to complete the setup of the calculation."
+    },
+    {
+      "ID": 2140,
+      "Speaker": "T",
+      "Turn": 2140,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's contribution ('eight') verbatim."
+    },
+    {
+      "ID": 2141,
+      "Speaker": "T",
+      "Turn": 2141,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2142,
+      "Speaker": "T",
+      "Turn": 2142,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2143,
+      "Speaker": "T",
+      "Turn": 2143,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2144,
+      "Speaker": "T",
+      "Turn": 2144,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2145,
+      "Speaker": "T",
+      "Turn": 2145,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a direct question to elicit a specific mathematical calculation."
+    },
+    {
+      "ID": 2147,
+      "Speaker": "T",
+      "Turn": 2147,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2148,
+      "Speaker": "T",
+      "Turn": 2148,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2150,
+      "Speaker": "T",
+      "Turn": 2150,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher takes the student's answer (48) and rephrases it by adding place value context ('its 48 tens') to clarify its meaning in the problem."
+    },
+    {
+      "ID": 2151,
+      "Speaker": "T",
+      "Turn": 2151,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2152,
+      "Speaker": "T",
+      "Turn": 2152,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to compare two calculated values and draw a conclusion, prompting them to use mathematical evidence to make a judgment."
+    }
+  ]
+}

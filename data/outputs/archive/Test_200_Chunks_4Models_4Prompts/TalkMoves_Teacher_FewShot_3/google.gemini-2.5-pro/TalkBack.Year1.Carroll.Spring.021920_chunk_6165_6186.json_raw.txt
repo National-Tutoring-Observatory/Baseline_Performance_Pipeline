@@ -1,0 +1,82 @@
+[
+  {
+    "ID": 6165,
+    "Turn": 27,
+    "Speaker": "T",
+    "Sentence": "Lucas",
+    "TalkMove": "None",
+    "Reasoning": null
+  },
+  {
+    "ID": 6167,
+    "Turn": 29,
+    "Speaker": "T",
+    "Sentence": "The word several",
+    "TalkMove": "Restating",
+    "Reasoning": "The teacher repeats part of the student's contribution verbatim."
+  },
+  {
+    "ID": 6169,
+    "Turn": 31,
+    "Speaker": "T",
+    "Sentence": "Okay Amelia",
+    "TalkMove": "None",
+    "Reasoning": null
+  },
+  {
+    "ID": 6171,
+    "Turn": 33,
+    "Speaker": "T",
+    "Sentence": "How many more",
+    "TalkMove": "Restating",
+    "Reasoning": "The teacher repeats part of the student's contribution verbatim."
+  },
+  {
+    "ID": 6177,
+    "Turn": 36,
+    "Speaker": "T",
+    "Sentence": "How many more",
+    "TalkMove": "Restating",
+    "Reasoning": "The teacher repeats a student's previously offered phrase to keep it as the focus of the conversation."
+  },
+  {
+    "ID": 6178,
+    "Turn": 36,
+    "Speaker": "T",
+    "Sentence": "Yes it must like your team today",
+    "TalkMove": "None",
+    "Reasoning": null
+  },
+  {
+    "ID": 6180,
+    "Turn": 38,
+    "Speaker": "T",
+    "Sentence": "Im going to pick from a different team",
+    "TalkMove": "None",
+    "Reasoning": null
+  },
+  {
+    "ID": 6183,
+    "Turn": 40,
+    "Speaker": "T",
+    "Sentence": "Everlyne",
+    "TalkMove": "None",
+    "Reasoning": null
+  },
+  {
+    "ID": 6185,
+    "Turn": 42,
+    "Speaker": "T",
+    "Sentence": "Okay Harper",
+    "TalkMove": "None",
+    "Reasoning": null
+  },
+  {
+    "ID": 6186,
+    "Turn": 42,
+    "Speaker": "T",
+    "Sentence": "What did your team say",
+    "TalkMove": "Pressing for Reasoning",
+    "Reasoning": "The teacher prompts the student to share their group's thinking and conclusion."
+  }
+]

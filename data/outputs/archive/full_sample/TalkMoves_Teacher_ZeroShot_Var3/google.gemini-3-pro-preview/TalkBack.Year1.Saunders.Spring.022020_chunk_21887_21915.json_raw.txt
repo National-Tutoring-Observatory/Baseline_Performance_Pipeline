@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 21887,
+      "Speaker": "T",
+      "Turn": 21887,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the specific method or steps to solve for x."
+    },
+    {
+      "ID": 21888,
+      "Speaker": "T",
+      "Turn": 21888,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher calls on a specific student (Joel) to share the next step, ensuring the class follows the procedure."
+    },
+    {
+      "ID": 21890,
+      "Speaker": "T",
+      "Turn": 21890,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher acknowledges a potential alternative approach and invites the student to share it."
+    },
+    {
+      "ID": 21891,
+      "Speaker": "T",
+      "Turn": 21891,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to explain their thought process."
+    },
+    {
+      "ID": 21893,
+      "Speaker": "T",
+      "Turn": 21893,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the specific mathematical result of an operation ('what would I end up with')."
+    },
+    {
+      "ID": 21895,
+      "Speaker": "T",
+      "Turn": 21895,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's answer ('Equals zero') verbatim."
+    },
+    {
+      "ID": 21897,
+      "Speaker": "T",
+      "Turn": 21897,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher confirms the student's idea and elaborates on it by connecting it to the zero product property."
+    },
+    {
+      "ID": 21898,
+      "Speaker": "T",
+      "Turn": 21898,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21900,
+      "Speaker": "T",
+      "Turn": 21900,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21902,
+      "Speaker": "T",
+      "Turn": 21902,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a specific calculation question regarding factors."
+    },
+    {
+      "ID": 21904,
+      "Speaker": "T",
+      "Turn": 21904,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21905,
+      "Speaker": "T",
+      "Turn": 21905,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21906,
+      "Speaker": "T",
+      "Turn": 21906,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21907,
+      "Speaker": "T",
+      "Turn": 21907,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21908,
+      "Speaker": "T",
+      "Turn": 21908,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21909,
+      "Speaker": "T",
+      "Turn": 21909,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the students to provide the final solution values."
+    },
+    {
+      "ID": 21911,
+      "Speaker": "T",
+      "Turn": 21911,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the correct answer given by students."
+    },
+    {
+      "ID": 21912,
+      "Speaker": "T",
+      "Turn": 21912,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher checks in to ensure students have recorded or understood the answer."
+    },
+    {
+      "ID": 21913,
+      "Speaker": "T",
+      "Turn": 21913,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher calls on a specific student (Brittany) to provide the next step."
+    },
+    {
+      "ID": 21915,
+      "Speaker": "T",
+      "Turn": 21915,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's contribution ('solve for x') but likely implies a correction or clarification about whether that was the *final* step or if more is needed."
+    }
+  ]
+}

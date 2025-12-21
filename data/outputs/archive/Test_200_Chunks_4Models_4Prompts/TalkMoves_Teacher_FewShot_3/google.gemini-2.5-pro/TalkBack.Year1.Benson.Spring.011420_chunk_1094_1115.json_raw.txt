@@ -1,0 +1,114 @@
+[
+  {
+    "ID": 1094,
+    "Turn": 34,
+    "Speaker": "T",
+    "Sentence": "Anyone add 30",
+    "TalkMove": "None",
+    "Reasoning": null
+  },
+  {
+    "ID": 1095,
+    "Turn": 34,
+    "Speaker": "T",
+    "Sentence": "No",
+    "TalkMove": "None",
+    "Reasoning": null
+  },
+  {
+    "ID": 1096,
+    "Turn": 34,
+    "Speaker": "T",
+    "Sentence": "Awesome",
+    "TalkMove": "None",
+    "Reasoning": null
+  },
+  {
+    "ID": 1097,
+    "Turn": 34,
+    "Speaker": "T",
+    "Sentence": "What is our answer there",
+    "TalkMove": "None",
+    "Reasoning": null
+  },
+  {
+    "ID": 1099,
+    "Turn": 36,
+    "Speaker": "T",
+    "Sentence": "600",
+    "TalkMove": "None",
+    "Reasoning": null
+  },
+  {
+    "ID": 1100,
+    "Turn": 36,
+    "Speaker": "T",
+    "Sentence": "600 represents what",
+    "TalkMove": "Pressing for Reasoning",
+    "Reasoning": "The teacher prompts the student to explain the meaning of the numerical answer in the context of the problem."
+  },
+  {
+    "ID": 1102,
+    "Turn": 38,
+    "Speaker": "T",
+    "Sentence": "More specific please",
+    "TalkMove": "Pressing for Accuracy",
+    "Reasoning": "The teacher prompts the student to provide a more precise description of their answer."
+  },
+  {
+    "ID": 1105,
+    "Turn": 41,
+    "Speaker": "T",
+    "Sentence": "600 represents you said the ball of string",
+    "TalkMove": "Restating",
+    "Reasoning": "The teacher repeats a part of what the student said to hold the idea for consideration."
+  },
+  {
+    "ID": 1107,
+    "Turn": 43,
+    "Speaker": "T",
+    "Sentence": "600 ball of string",
+    "TalkMove": "Restating",
+    "Reasoning": "The teacher repeats the student's idea to keep it as the focus of the conversation."
+  },
+  {
+    "ID": 1109,
+    "Turn": 45,
+    "Speaker": "T",
+    "Sentence": "Whats our unit of measure",
+    "TalkMove": "Pressing for Accuracy",
+    "Reasoning": "The teacher prompts the student to use specific mathematical language (the unit) to make the answer more precise."
+  },
+  {
+    "ID": 1110,
+    "Turn": 45,
+    "Speaker": "T",
+    "Sentence": "What are we measuring with",
+    "TalkMove": "Pressing for Accuracy",
+    "Reasoning": "The teacher rephrases the prompt for the student to use specific mathematical language (the unit) to make the answer more precise."
+  },
+  {
+    "ID": 1112,
+    "Turn": 47,
+    "Speaker": "T",
+    "Sentence": "Feet in the",
+    "TalkMove": "Revoicing",
+    "Reasoning": "The teacher repeats the student's word ('Feet') and adds on ('in the') to scaffold a more complete answer."
+  },
+  {
+    "ID": 1114,
+    "Turn": 49,
+    "Speaker": "T",
+    "Sentence": "Thank you 600 feet in the larger ball of string",
+    "TalkMove": "None",
+    "Reasoning": null
+  },
+  {
+    "ID": 1115,
+    "Turn": 49,
+    "Speaker": "T",
+    "Sentence": "This one was a little more tricky because it put it in a different order for you it didnt give you the problem to start with it gave you the total to start with",
+    "TalkMove": "None",
+    "Reasoning": null
+  }
+]

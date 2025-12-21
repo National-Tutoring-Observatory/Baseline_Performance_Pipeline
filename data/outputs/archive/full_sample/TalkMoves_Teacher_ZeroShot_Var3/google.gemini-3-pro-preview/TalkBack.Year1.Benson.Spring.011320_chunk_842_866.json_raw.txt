@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 842,
+      "Speaker": "T",
+      "Turn": 842,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks a student to explain their process or strategy for figuring out the solution ('tell me what you would do to try to figure out...')."
+    },
+    {
+      "ID": 843,
+      "Speaker": "T",
+      "Turn": 843,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 844,
+      "Speaker": "T",
+      "Turn": 844,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 845,
+      "Speaker": "T",
+      "Turn": 845,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 846,
+      "Speaker": "T",
+      "Turn": 846,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 847,
+      "Speaker": "T",
+      "Turn": 847,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts the students to explain their strategy for solving the problem ('How are you going to figure out how to make three')."
+    },
+    {
+      "ID": 848,
+      "Speaker": "T",
+      "Turn": 848,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher invites a specific student to share their thinking process ('talk to me what are you thinking')."
+    },
+    {
+      "ID": 850,
+      "Speaker": "T",
+      "Turn": 850,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases the student's idea to verify understanding ('Okay so youre trying to find... is that what I hear you say')."
+    },
+    {
+      "ID": 851,
+      "Speaker": "T",
+      "Turn": 851,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Continuation of the revoicing move in turn 850."
+    },
+    {
+      "ID": 853,
+      "Speaker": "T",
+      "Turn": 853,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher checks if the rest of the class was listening to the previous speaker ('Do you hear that')."
+    },
+    {
+      "ID": 854,
+      "Speaker": "T",
+      "Turn": 854,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher checks for comprehension of the previous student's contribution ('Did you understand that')."
+    },
+    {
+      "ID": 855,
+      "Speaker": "T",
+      "Turn": 855,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher asks a student to report back what another student said ('Nate what did you hear Alice say')."
+    },
+    {
+      "ID": 857,
+      "Speaker": "T",
+      "Turn": 857,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher redirects the student back to reporting what the classmate said rather than offering their own thought ('what did she say')."
+    },
+    {
+      "ID": 858,
+      "Speaker": "T",
+      "Turn": 858,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher continues to press the student to recall the classmate's strategy ('How is she going to find out...')."
+    },
+    {
+      "ID": 859,
+      "Speaker": "T",
+      "Turn": 859,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher elaborates on the question to help the student recall the classmate's specific reasoning ('how she going to figure out what to do...')."
+    },
+    {
+      "ID": 861,
+      "Speaker": "T",
+      "Turn": 861,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher explicitly asks the student to restate the classmate's contribution ('can you now repeat what she said')."
+    },
+    {
+      "ID": 863,
+      "Speaker": "T",
+      "Turn": 863,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats and validates the student's explanation of the strategy ('You have to find what two pieces are equivalent... excellent')."
+    },
+    {
+      "ID": 864,
+      "Speaker": "T",
+      "Turn": 864,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 865,
+      "Speaker": "T",
+      "Turn": 865,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 866,
+      "Speaker": "T",
+      "Turn": 866,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher gives a directive for students to perform a specific mathematical task to verify the solution ('Try to see if you can find two pieces that are equal...')."
+    }
+  ]
+}

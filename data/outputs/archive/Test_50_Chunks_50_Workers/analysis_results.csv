@@ -1,0 +1,17 @@
+Prompt,Model,N,Accuracy,Kappa,Run_Name,Sample_Type,Analysis_Time
+TalkMoves_Teacher_ZeroShot,openai.o3,1101,0.5649409627611263,0.3413328237639195,Test_50_Chunks_50_Workers,experiment_800,2025-12-19T02:32:34Z
+TalkMoves_Teacher_FewShot_ALL,openai.o3,1098,0.569216757741348,0.3399781921883301,Test_50_Chunks_50_Workers,experiment_800,2025-12-19T02:32:34Z
+TalkMoves_Teacher_OneShot,openai.o3,1100,0.5590909090909091,0.3266838897604206,Test_50_Chunks_50_Workers,experiment_800,2025-12-19T02:32:34Z
+TalkMoves_Teacher_OneShot,anthropic.claude-4.5-sonnet,1099,0.554140127388535,0.31515246317979556,Test_50_Chunks_50_Workers,experiment_800,2025-12-19T02:32:34Z
+TalkMoves_Teacher_FewShot_ALL,anthropic.claude-4.5-sonnet,1099,0.554140127388535,0.3129821633834585,Test_50_Chunks_50_Workers,experiment_800,2025-12-19T02:32:34Z
+TalkMoves_Teacher_FewShot_3,openai.o3,1098,0.5373406193078324,0.30243080697989394,Test_50_Chunks_50_Workers,experiment_800,2025-12-19T02:32:34Z
+TalkMoves_Teacher_OneShot,openai.gpt-5,1101,0.5440508628519528,0.29803228760378025,Test_50_Chunks_50_Workers,experiment_800,2025-12-19T02:32:34Z
+TalkMoves_Teacher_FewShot_ALL,openai.gpt-5,1100,0.5381818181818182,0.29253195823558387,Test_50_Chunks_50_Workers,experiment_800,2025-12-19T02:32:34Z
+TalkMoves_Teacher_ZeroShot,anthropic.claude-4.5-sonnet,1101,0.5413260672116258,0.2915355828150504,Test_50_Chunks_50_Workers,experiment_800,2025-12-19T02:32:34Z
+TalkMoves_Teacher_FewShot_3,openai.gpt-5,1101,0.5240690281562216,0.2887789796024033,Test_50_Chunks_50_Workers,experiment_800,2025-12-19T02:32:34Z
+TalkMoves_Teacher_FewShot_3,anthropic.claude-4.5-sonnet,1099,0.5250227479526842,0.28766269404703065,Test_50_Chunks_50_Workers,experiment_800,2025-12-19T02:32:34Z
+TalkMoves_Teacher_ZeroShot,openai.gpt-5,1101,0.5277020890099909,0.2762393572977176,Test_50_Chunks_50_Workers,experiment_800,2025-12-19T02:32:34Z
+TalkMoves_Teacher_OneShot,google.gemini-2.5-pro,1000,0.548,0.27091129635842776,Test_50_Chunks_50_Workers,experiment_800,2025-12-19T02:32:34Z
+TalkMoves_Teacher_ZeroShot,google.gemini-2.5-pro,1101,0.5449591280653951,0.2623307950925562,Test_50_Chunks_50_Workers,experiment_800,2025-12-19T02:32:34Z
+TalkMoves_Teacher_FewShot_3,google.gemini-2.5-pro,1101,0.5331516802906449,0.2555506736580116,Test_50_Chunks_50_Workers,experiment_800,2025-12-19T02:32:34Z
+TalkMoves_Teacher_FewShot_ALL,google.gemini-2.5-pro,964,0.5363070539419087,0.24916100658300552,Test_50_Chunks_50_Workers,experiment_800,2025-12-19T02:32:34Z

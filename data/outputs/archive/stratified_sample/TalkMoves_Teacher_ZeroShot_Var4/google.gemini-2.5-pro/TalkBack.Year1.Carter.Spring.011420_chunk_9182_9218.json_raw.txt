@@ -1,0 +1,179 @@
+{
+  "records": [
+    {
+      "ID": 9182,
+      "Turn": 39,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9183,
+      "Turn": 39,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to evaluate the efficiency of a method, which requires them to reason about the process."
+    },
+    {
+      "ID": 9185,
+      "Turn": 41,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9187,
+      "Turn": 43,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9188,
+      "Turn": 43,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9189,
+      "Turn": 43,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9190,
+      "Turn": 43,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9191,
+      "Turn": 43,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the definition of a specific mathematical term."
+    },
+    {
+      "ID": 9192,
+      "Turn": 43,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9193,
+      "Turn": 43,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9194,
+      "Turn": 43,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9195,
+      "Turn": 43,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9196,
+      "Turn": 44,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9197,
+      "Turn": 44,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks the whole class for the definition of a specific mathematical term."
+    },
+    {
+      "ID": 9199,
+      "Turn": 46,
+      "Speaker": "T",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher prompts students to orient to their peers' non-verbal reactions to a student's explanation."
+    },
+    {
+      "ID": 9200,
+      "Turn": 46,
+      "Speaker": "T",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher prompts students to orient to their peers' non-verbal reactions to a student's explanation."
+    },
+    {
+      "ID": 9201,
+      "Turn": 46,
+      "Speaker": "T",
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher asks for students to build on or add to what a classmate said."
+    },
+    {
+      "ID": 9202,
+      "Turn": 46,
+      "Speaker": "T",
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher prompts the current speaker to select a classmate who wants to add to their idea, facilitating student-to-student interaction."
+    },
+    {
+      "ID": 9206,
+      "Turn": 48,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9211,
+      "Turn": 50,
+      "Speaker": "T",
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher explicitly asks students to compare and contrast two different student explanations."
+    },
+    {
+      "ID": 9212,
+      "Turn": 50,
+      "Speaker": "T",
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher reinforces the prompt to compare student ideas."
+    },
+    {
+      "ID": 9213,
+      "Turn": 50,
+      "Speaker": "T",
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher nominates a specific student to answer the question comparing two other students' ideas."
+    },
+    {
+      "ID": 9215,
+      "Turn": 52,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to complete their thought by providing a specific mathematical term ('vocabulary')."
+    },
+    {
+      "ID": 9217,
+      "Turn": 54,
+      "Speaker": "T",
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's contribution ('Using vocabulary') word for word."
+    },
+    {
+      "ID": 9218,
+      "Turn": 54,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's idea about using vocabulary and adds a specific example from a previous student's turn to clarify and elaborate."
+    }
+  ]
+}

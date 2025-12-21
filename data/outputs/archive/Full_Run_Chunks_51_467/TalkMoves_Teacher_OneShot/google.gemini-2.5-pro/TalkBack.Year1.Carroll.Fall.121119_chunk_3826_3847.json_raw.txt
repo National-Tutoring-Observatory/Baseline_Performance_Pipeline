@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 3826,
+      "Turn": 138,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3827,
+      "Turn": 138,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3828,
+      "Turn": 138,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3829,
+      "Turn": 138,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3830,
+      "Turn": 138,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks a student to come up and explain their thinking."
+    },
+    {
+      "ID": 3831,
+      "Turn": 138,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3832,
+      "Turn": 138,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to define a mathematical term within the problem's context."
+    },
+    {
+      "ID": 3834,
+      "Turn": 140,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's contribution ('The object') and adds clarifying language ('that youre dividing up')."
+    },
+    {
+      "ID": 3835,
+      "Turn": 140,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3836,
+      "Turn": 140,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases the student's one-word answer ('The object') into a complete mathematical statement."
+    },
+    {
+      "ID": 3837,
+      "Turn": 140,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3838,
+      "Turn": 140,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3839,
+      "Turn": 140,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3840,
+      "Turn": 140,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to define another mathematical term within the problem's context."
+    },
+    {
+      "ID": 3842,
+      "Turn": 142,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's idea ('The people') and adds a generalization ('or if youre it on tables or whatever')."
+    },
+    {
+      "ID": 3843,
+      "Turn": 142,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3844,
+      "Turn": 142,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to make a specific mathematical contribution by identifying the part of the fraction."
+    },
+    {
+      "ID": 3845,
+      "Turn": 142,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher continues to press for a specific mathematical term to clarify the previous question."
+    },
+    {
+      "ID": 3846,
+      "Turn": 142,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher provides specific mathematical terms as choices, pressing students to use accurate language."
+    },
+    {
+      "ID": 3847,
+      "Turn": 144,
+      "Speaker": "T",
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's one-word answer ('The numerator') verbatim."
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 23370,
+      "Speaker": "T",
+      "Turn": 23370,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23371,
+      "Speaker": "T",
+      "Turn": 23371,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23372,
+      "Speaker": "T",
+      "Turn": 23372,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23373,
+      "Speaker": "T",
+      "Turn": 23373,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23374,
+      "Speaker": "T",
+      "Turn": 23374,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23375,
+      "Speaker": "T",
+      "Turn": 23375,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23376,
+      "Speaker": "T",
+      "Turn": 23376,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23377,
+      "Speaker": "T",
+      "Turn": 23377,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23378,
+      "Speaker": "T",
+      "Turn": 23378,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23379,
+      "Speaker": "T",
+      "Turn": 23379,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23380,
+      "Speaker": "T",
+      "Turn": 23380,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23381,
+      "Speaker": "T",
+      "Turn": 23381,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23382,
+      "Speaker": "T",
+      "Turn": 23382,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks 'Why is it impossible...', directly prompting students to provide an explanation for a mathematical concept."
+    },
+    {
+      "ID": 23383,
+      "Speaker": "T",
+      "Turn": 23383,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23384,
+      "Speaker": "T",
+      "Turn": 23384,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23386,
+      "Speaker": "T",
+      "Turn": 23386,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks 'What can go on forever?' to prompt the student to be more specific and use precise mathematical language."
+    },
+    {
+      "ID": 23388,
+      "Speaker": "T",
+      "Turn": 23388,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's specific answer, 'Multiples of 8', to highlight it for the class."
+    },
+    {
+      "ID": 23389,
+      "Speaker": "T",
+      "Turn": 23389,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23390,
+      "Speaker": "T",
+      "Turn": 23390,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23391,
+      "Speaker": "T",
+      "Turn": 23391,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's idea that multiples 'could go on and on and on forever' and adds the mathematical reason 'because numbers are infinite'."
+    }
+  ]
+}

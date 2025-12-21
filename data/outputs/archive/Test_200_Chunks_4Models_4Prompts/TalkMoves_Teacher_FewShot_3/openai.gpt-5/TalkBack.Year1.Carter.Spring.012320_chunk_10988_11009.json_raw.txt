@@ -1,0 +1,83 @@
+{
+  "records": [
+    {
+      "ID": 10988,
+      "Turn": 153,
+      "TalkMove": "None"
+    },
+    {
+      "ID": 10990,
+      "Turn": 155,
+      "TalkMove": "None"
+    },
+    {
+      "ID": 10992,
+      "Turn": 157,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher restates the student's idea in concise mathematical terms, highlighting the one-third component."
+    },
+    {
+      "ID": 10994,
+      "Turn": 159,
+      "TalkMove": "None"
+    },
+    {
+      "ID": 10996,
+      "Turn": 161,
+      "TalkMove": "None"
+    },
+    {
+      "ID": 10997,
+      "Turn": 161,
+      "TalkMove": "None"
+    },
+    {
+      "ID": 10998,
+      "Turn": 161,
+      "TalkMove": "None"
+    },
+    {
+      "ID": 10999,
+      "Turn": 162,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Teacher orients the class to the next speaker and frames the upcoming sharing."
+    },
+    {
+      "ID": 11000,
+      "Turn": 162,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher restates the strategy using formal mathematical language, clarifying unit fraction and 2/3."
+    },
+    {
+      "ID": 11001,
+      "Turn": 162,
+      "TalkMove": "None"
+    },
+    {
+      "ID": 11002,
+      "Turn": 163,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Teacher orients listeners to the specific aspect (division) the student will explain."
+    },
+    {
+      "ID": 11005,
+      "Turn": 165,
+      "TalkMove": "None"
+    },
+    {
+      "ID": 11006,
+      "Turn": 165,
+      "TalkMove": "None"
+    },
+    {
+      "ID": 11007,
+      "Turn": 166,
+      "TalkMove": "None"
+    },
+    {
+      "ID": 11008,
+      "Turn": 166,
+      "TalkMove": "None"
+    }
+  ]
+}

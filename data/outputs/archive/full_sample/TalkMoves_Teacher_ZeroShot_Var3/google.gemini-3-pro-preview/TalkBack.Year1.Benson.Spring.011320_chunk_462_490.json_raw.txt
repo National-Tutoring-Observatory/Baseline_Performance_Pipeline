@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 462,
+      "Speaker": "T",
+      "Turn": 462,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a specific calculation question prompting a precise mathematical answer."
+    },
+    {
+      "ID": 464,
+      "Speaker": "T",
+      "Turn": 464,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 467,
+      "Speaker": "T",
+      "Turn": 467,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 468,
+      "Speaker": "T",
+      "Turn": 468,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a specific calculation question about a student's work, prompting for a precise number."
+    },
+    {
+      "ID": 469,
+      "Speaker": "T",
+      "Turn": 469,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 471,
+      "Speaker": "T",
+      "Turn": 471,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the answer '3' but adds 'Also' to connect it back to the previous context."
+    },
+    {
+      "ID": 472,
+      "Speaker": "T",
+      "Turn": 472,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 473,
+      "Speaker": "T",
+      "Turn": 473,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 474,
+      "Speaker": "T",
+      "Turn": 474,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 475,
+      "Speaker": "T",
+      "Turn": 475,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 476,
+      "Speaker": "T",
+      "Turn": 476,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 477,
+      "Speaker": "T",
+      "Turn": 477,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to explain the process or strategy they used ('whatd you end up doing')."
+    },
+    {
+      "ID": 479,
+      "Speaker": "T",
+      "Turn": 479,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's idea ('You did multiples') to clarify or verify the strategy used."
+    },
+    {
+      "ID": 480,
+      "Speaker": "T",
+      "Turn": 480,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher expands on the previous revoicing, adding specificity ('multiples of 2')."
+    },
+    {
+      "ID": 482,
+      "Speaker": "T",
+      "Turn": 482,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher continues to revoice and elaborate on the student's strategy of listing multiples."
+    },
+    {
+      "ID": 484,
+      "Speaker": "T",
+      "Turn": 484,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 485,
+      "Speaker": "T",
+      "Turn": 485,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher asks a different student (Ryder) to explain or make sense of the first student's (Bryce) strategy."
+    },
+    {
+      "ID": 486,
+      "Speaker": "T",
+      "Turn": 486,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks for the underlying logic behind the chosen strategy ('Why did Bryce do multiples')."
+    },
+    {
+      "ID": 489,
+      "Speaker": "T",
+      "Turn": 489,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 490,
+      "Speaker": "T",
+      "Turn": 490,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher invites other students to contribute alternative strategies or explanations."
+    }
+  ]
+}

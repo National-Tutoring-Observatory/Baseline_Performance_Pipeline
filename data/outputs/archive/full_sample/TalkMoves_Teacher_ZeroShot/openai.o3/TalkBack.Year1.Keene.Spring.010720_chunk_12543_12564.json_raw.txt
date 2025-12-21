@@ -1,0 +1,128 @@
+{
+  "records": [
+    {
+      "ID": 12543,
+      "Speaker": "T",
+      "Turn": 12543
+    },
+    {
+      "ID": 12544,
+      "Speaker": "T",
+      "Turn": 12544,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher restates the earlier student idea that 25 cents equals one-fourth and extends it by connecting decimals to fractions."
+    },
+    {
+      "ID": 12545,
+      "Speaker": "T",
+      "Turn": 12545,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "By asking \"decimals are also what?\" the teacher presses students to supply the precise mathematical term."
+    },
+    {
+      "ID": 12546,
+      "Speaker": "T",
+      "Turn": 12546,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the expected student response verbatim: \"Part of a whole.\""
+    },
+    {
+      "ID": 12547,
+      "Speaker": "T",
+      "Turn": 12547,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher directs students to share the idea with partners, orienting everyone to each other’s thinking."
+    },
+    {
+      "ID": 12548,
+      "Speaker": "T",
+      "Turn": 12548,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher again repeats the central idea word-for-word to reinforce it."
+    },
+    {
+      "ID": 12549,
+      "Speaker": "T",
+      "Turn": 12549,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The prompt \"Share that with your partner\" keeps all students engaged with one another."
+    },
+    {
+      "ID": 12550,
+      "Speaker": "T",
+      "Turn": 12550
+    },
+    {
+      "ID": 12551,
+      "Speaker": "T",
+      "Turn": 12551
+    },
+    {
+      "ID": 12552,
+      "Speaker": "T",
+      "Turn": 12552
+    },
+    {
+      "ID": 12554,
+      "Speaker": "T",
+      "Turn": 12554,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher recalls and restates Audrey’s contribution about decimal place value, adding explanatory detail."
+    },
+    {
+      "ID": 12555,
+      "Speaker": "T",
+      "Turn": 12555,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher summarizes Nate’s and Bailey’s earlier ideas, reinforcing the equivalence of fractions and decimals."
+    },
+    {
+      "ID": 12556,
+      "Speaker": "T",
+      "Turn": 12556,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher references Josie’s prior action and paraphrases it, connecting it to the day’s focus."
+    },
+    {
+      "ID": 12557,
+      "Speaker": "T",
+      "Turn": 12557
+    },
+    {
+      "ID": 12558,
+      "Speaker": "T",
+      "Turn": 12558
+    },
+    {
+      "ID": 12559,
+      "Speaker": "T",
+      "Turn": 12559
+    },
+    {
+      "ID": 12560,
+      "Speaker": "T",
+      "Turn": 12560
+    },
+    {
+      "ID": 12562,
+      "Speaker": "T",
+      "Turn": 12562,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher instructs students to show their work to partners simultaneously, ensuring shared engagement."
+    },
+    {
+      "ID": 12563,
+      "Speaker": "T",
+      "Turn": 12563,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Prompting students to high-five if they agree orients them to each other’s answers."
+    },
+    {
+      "ID": 12564,
+      "Speaker": "T",
+      "Turn": 12564,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Encouraging students who disagree to \"talk it out\" directs peer discussion to resolve differences."
+    }
+  ]
+}

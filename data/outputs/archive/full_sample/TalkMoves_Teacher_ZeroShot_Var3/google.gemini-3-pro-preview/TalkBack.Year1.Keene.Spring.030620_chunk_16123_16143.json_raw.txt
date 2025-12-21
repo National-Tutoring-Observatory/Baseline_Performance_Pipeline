@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 16123,
+      "Speaker": "T",
+      "Turn": 16123,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 16125,
+      "Speaker": "T",
+      "Turn": 16125,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 16126,
+      "Speaker": "T",
+      "Turn": 16126,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's idea about '1/8 of the girls' and elaborates on the unit meaning, clarifying the mathematical relationship."
+    },
+    {
+      "ID": 16127,
+      "Speaker": "T",
+      "Turn": 16127,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher continues to rephrase the concept, clarifying that the fraction refers to a subset of the girls within the class."
+    },
+    {
+      "ID": 16128,
+      "Speaker": "T",
+      "Turn": 16128,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 16129,
+      "Speaker": "T",
+      "Turn": 16129,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 16130,
+      "Speaker": "T",
+      "Turn": 16130,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher directs students to talk to a partner, orienting them to work together."
+    },
+    {
+      "ID": 16131,
+      "Speaker": "T",
+      "Turn": 16131,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to identify and explain the specific clues (evidence) that indicate the operation is multiplication."
+    },
+    {
+      "ID": 16132,
+      "Speaker": "T",
+      "Turn": 16132,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 16133,
+      "Speaker": "T",
+      "Turn": 16133,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher uses a call-and-response or attention signal ('waterfall') to bring the class back together."
+    },
+    {
+      "ID": 16134,
+      "Speaker": "T",
+      "Turn": 16134,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 16135,
+      "Speaker": "T",
+      "Turn": 16135,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 16136,
+      "Speaker": "T",
+      "Turn": 16136,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a specific mathematical question requiring a calculation or result ('What is the area')."
+    },
+    {
+      "ID": 16137,
+      "Speaker": "T",
+      "Turn": 16137,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher checks in on a specific student to ensure they are following along."
+    },
+    {
+      "ID": 16138,
+      "Speaker": "T",
+      "Turn": 16138,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 16139,
+      "Speaker": "T",
+      "Turn": 16139,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher prompts students to chat with a neighbor, facilitating peer interaction."
+    },
+    {
+      "ID": 16140,
+      "Speaker": "T",
+      "Turn": 16140,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to explain the 'why' behind their choice of operation."
+    },
+    {
+      "ID": 16141,
+      "Speaker": "T",
+      "Turn": 16141,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 16142,
+      "Speaker": "T",
+      "Turn": 16142,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher explicitly asks for a justification ('because') in a complete sentence."
+    },
+    {
+      "ID": 16143,
+      "Speaker": "T",
+      "Turn": 16143,
+      "TalkMove": "None",
+      "Reasoning": null
+    }
+  ]
+}

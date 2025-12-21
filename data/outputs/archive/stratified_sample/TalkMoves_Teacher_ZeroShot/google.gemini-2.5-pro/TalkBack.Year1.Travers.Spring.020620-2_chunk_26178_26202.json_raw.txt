@@ -1,0 +1,194 @@
+{
+  "records": [
+    {
+      "ID": 26178,
+      "Turn": 35,
+      "Speaker": "T",
+      "Sentence": "Keep up number one and read with me",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher directs all students to engage in the same activity (reading together) to ensure the whole class is synchronized."
+    },
+    {
+      "ID": 26179,
+      "Turn": 35,
+      "Speaker": "T",
+      "Sentence": "Ready",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher uses a verbal cue to prepare the entire class to start an activity simultaneously."
+    },
+    {
+      "ID": 26180,
+      "Turn": 35,
+      "Speaker": "T",
+      "Sentence": "Go",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher gives a command for the entire class to begin the activity at the same time."
+    },
+    {
+      "ID": 26181,
+      "Turn": 36,
+      "Speaker": "S",
+      "Sentence": "Answer in a single number model using parenthesis"
+    },
+    {
+      "ID": 26182,
+      "Turn": 37,
+      "Speaker": "T",
+      "Sentence": "Another Whoa",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26183,
+      "Turn": 37,
+      "Speaker": "T",
+      "Sentence": "What does that mean",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to explain the meaning of a key phrase from the instructions, prompting them to share their thinking."
+    },
+    {
+      "ID": 26184,
+      "Turn": 37,
+      "Speaker": "T",
+      "Sentence": "Talk to that shoulder partner again",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher instructs students to engage in a partner discussion, a strategy for orienting students to each other and keeping them all involved in the task."
+    },
+    {
+      "ID": 26185,
+      "Turn": 37,
+      "Speaker": "T",
+      "Sentence": "Go",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26186,
+      "Turn": 38,
+      "Speaker": "S",
+      "Sentence": "So it looks like  five"
+    },
+    {
+      "ID": 26187,
+      "Turn": 38,
+      "Speaker": "S",
+      "Sentence": "Five times seven times five so that you have"
+    },
+    {
+      "ID": 26188,
+      "Turn": 39,
+      "Speaker": "T",
+      "Sentence": "Three",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher uses a countdown to bring the partner discussions to a close and regain the attention of the whole class."
+    },
+    {
+      "ID": 26189,
+      "Turn": 39,
+      "Speaker": "T",
+      "Sentence": "Two",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher uses a countdown to bring the partner discussions to a close and regain the attention of the whole class."
+    },
+    {
+      "ID": 26190,
+      "Turn": 39,
+      "Speaker": "T",
+      "Sentence": "One",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher uses a countdown to bring the partner discussions to a close and regain the attention of the whole class."
+    },
+    {
+      "ID": 26191,
+      "Turn": 39,
+      "Speaker": "T",
+      "Sentence": "High five",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26192,
+      "Turn": 39,
+      "Speaker": "T",
+      "Sentence": "Boy I am telling you there are some kids in here that are on it",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26193,
+      "Turn": 39,
+      "Speaker": "T",
+      "Sentence": "Show me your high five",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26194,
+      "Turn": 39,
+      "Speaker": "T",
+      "Sentence": "Bodies turn facing Ms Travers",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher directs students to physically orient themselves towards her, ensuring she has the whole class's attention."
+    },
+    {
+      "ID": 26195,
+      "Turn": 39,
+      "Speaker": "T",
+      "Sentence": "Excellent",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26196,
+      "Turn": 39,
+      "Speaker": "T",
+      "Sentence": "Wyatt what do you think this means",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks a student to share their interpretation of the instruction, prompting them to explain their thinking."
+    },
+    {
+      "ID": 26197,
+      "Turn": 40,
+      "Speaker": "S",
+      "Sentence": "I said to my partner that it means that theres one number model using parenthesis"
+    },
+    {
+      "ID": 26198,
+      "Turn": 41,
+      "Speaker": "T",
+      "Sentence": "One number model",
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats a key phrase from the student's contribution verbatim to highlight it."
+    },
+    {
+      "ID": 26199,
+      "Turn": 41,
+      "Speaker": "T",
+      "Sentence": "What does that mean",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks for clarification on the restated phrase, pressing the student to elaborate on their thinking."
+    },
+    {
+      "ID": 26200,
+      "Turn": 41,
+      "Speaker": "T",
+      "Sentence": "One number",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher begins a prompt to guide the student toward using more precise mathematical language than 'number model'."
+    },
+    {
+      "ID": 26201,
+      "Turn": 41,
+      "Speaker": "T",
+      "Sentence": "sentence",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher completes the prompt from the previous utterance, aiming to elicit a more precise mathematical term like 'number sentence' or 'equation'."
+    },
+    {
+      "ID": 26202,
+      "Turn": 42,
+      "Speaker": "S",
+      "Sentence": "Equation"
+    }
+  ]
+}

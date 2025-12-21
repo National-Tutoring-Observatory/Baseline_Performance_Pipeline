@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 1044,
+      "Speaker": "T",
+      "Turn": 1044,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1045,
+      "Speaker": "T",
+      "Turn": 1045,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1048,
+      "Speaker": "T",
+      "Turn": 1048,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1049,
+      "Speaker": "T",
+      "Turn": 1049,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1050,
+      "Speaker": "T",
+      "Turn": 1050,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Teacher directs one student to read aloud so all classmates can follow the shared text."
+    },
+    {
+      "ID": 1053,
+      "Speaker": "T",
+      "Turn": 1053,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Asks students to articulate what they need to determine in the problem, prompting explanation."
+    },
+    {
+      "ID": 1054,
+      "Speaker": "T",
+      "Turn": 1054,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Calls on a specific student to state what must be found, requesting their reasoning about the problem."
+    },
+    {
+      "ID": 1056,
+      "Speaker": "T",
+      "Turn": 1056,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Requests students identify known information, eliciting their understanding of given data."
+    },
+    {
+      "ID": 1057,
+      "Speaker": "T",
+      "Turn": 1057,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Reiterates the prompt for students to state the known quantities, seeking their reasoning."
+    },
+    {
+      "ID": 1058,
+      "Speaker": "T",
+      "Turn": 1058,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1060,
+      "Speaker": "T",
+      "Turn": 1060,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Asks how to write a number sentence to solve the problem, prompting explanation of their representation."
+    },
+    {
+      "ID": 1062,
+      "Speaker": "T",
+      "Turn": 1062,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Requests a specific quantity from the problem context, prompting a precise numerical answer."
+    },
+    {
+      "ID": 1064,
+      "Speaker": "T",
+      "Turn": 1064,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Asks students to connect the number 5 to its contextual meaning, eliciting explanation."
+    },
+    {
+      "ID": 1065,
+      "Speaker": "T",
+      "Turn": 1065,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Prompts students to clarify what the number 7 stands for in the context."
+    },
+    {
+      "ID": 1068,
+      "Speaker": "T",
+      "Turn": 1068,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher restates a student’s idea, phrasing it as 'the number of times more beets,' adding clarity."
+    },
+    {
+      "ID": 1069,
+      "Speaker": "T",
+      "Turn": 1069,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Asks for the contextual meaning of 35, prompting students to explain the representation."
+    },
+    {
+      "ID": 1071,
+      "Speaker": "T",
+      "Turn": 1071,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1072,
+      "Speaker": "T",
+      "Turn": 1072,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Selects a student to read the next problem aloud so everyone can follow along."
+    },
+    {
+      "ID": 1075,
+      "Speaker": "T",
+      "Turn": 1075,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Invites a student to state what needs to be found, seeking their interpretation of the problem."
+    },
+    {
+      "ID": 1077,
+      "Speaker": "T",
+      "Turn": 1077,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "After repeating the student’s answer, the teacher asks 'how do you know,' prompting justification."
+    }
+  ]
+}

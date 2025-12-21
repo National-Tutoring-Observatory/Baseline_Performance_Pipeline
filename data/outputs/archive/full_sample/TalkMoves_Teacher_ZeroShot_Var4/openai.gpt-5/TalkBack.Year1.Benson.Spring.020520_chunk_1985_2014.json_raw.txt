@@ -1,0 +1,124 @@
+{
+  "records": [
+    {
+      "ID": 1985,
+      "Speaker": "T",
+      "Turn": 1985,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks the student to report a specific numerical answer, prompting a mathematical contribution."
+    },
+    {
+      "ID": 1987,
+      "Speaker": "T",
+      "Turn": 1987,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Prompts explanation about whether multiplication order matters, inviting justification."
+    },
+    {
+      "ID": 1989,
+      "Speaker": "T",
+      "Turn": 1989
+    },
+    {
+      "ID": 1990,
+      "Speaker": "T",
+      "Turn": 1990,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks students to confirm the correct multiplication model, prompting precise mathematical setup."
+    },
+    {
+      "ID": 1992,
+      "Speaker": "T",
+      "Turn": 1992,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Invites students to evaluate if the proposed calculation is valid, prompting justification."
+    },
+    {
+      "ID": 1993,
+      "Speaker": "T",
+      "Turn": 1993,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Requests the product of 3 × 2, prompting a specific mathematical calculation."
+    },
+    {
+      "ID": 1995,
+      "Speaker": "T",
+      "Turn": 1995,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Requests the product of 6 × 30, prompting a specific mathematical calculation."
+    },
+    {
+      "ID": 1997,
+      "Speaker": "T",
+      "Turn": 1997
+    },
+    {
+      "ID": 1998,
+      "Speaker": "T",
+      "Turn": 1998
+    },
+    {
+      "ID": 1999,
+      "Speaker": "T",
+      "Turn": 1999,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Requests the product of 6 × 3, prompting a specific mathematical calculation."
+    },
+    {
+      "ID": 2001,
+      "Speaker": "T",
+      "Turn": 2001
+    },
+    {
+      "ID": 2002,
+      "Speaker": "T",
+      "Turn": 2002
+    },
+    {
+      "ID": 2003,
+      "Speaker": "T",
+      "Turn": 2003
+    },
+    {
+      "ID": 2004,
+      "Speaker": "T",
+      "Turn": 2004,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Prompts a student to provide a number model for tap dancers, eliciting a mathematical expression."
+    },
+    {
+      "ID": 2006,
+      "Speaker": "T",
+      "Turn": 2006,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Asks the student to explain the reasoning behind choosing 33 × 2."
+    },
+    {
+      "ID": 2008,
+      "Speaker": "T",
+      "Turn": 2008
+    },
+    {
+      "ID": 2009,
+      "Speaker": "T",
+      "Turn": 2009
+    },
+    {
+      "ID": 2010,
+      "Speaker": "T",
+      "Turn": 2010,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks for the result of 33 × 2, prompting a specific mathematical answer."
+    },
+    {
+      "ID": 2012,
+      "Speaker": "T",
+      "Turn": 2012
+    },
+    {
+      "ID": 2014,
+      "Speaker": "T",
+      "Turn": 2014
+    }
+  ]
+}

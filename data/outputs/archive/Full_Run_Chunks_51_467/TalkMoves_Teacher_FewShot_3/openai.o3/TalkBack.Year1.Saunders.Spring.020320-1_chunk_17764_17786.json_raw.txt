@@ -1,0 +1,102 @@
+{
+  "records": [
+    {
+      "ID": 17764,
+      "Speaker": "T",
+      "Turn": 235,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17769,
+      "Speaker": "T",
+      "Turn": 238,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17770,
+      "Speaker": "T",
+      "Turn": 238,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17771,
+      "Speaker": "T",
+      "Turn": 238,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17772,
+      "Speaker": "T",
+      "Turn": 238,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to describe what is happening at a specific point on the graph, prompting them to articulate their understanding."
+    },
+    {
+      "ID": 17773,
+      "Speaker": "T",
+      "Turn": 238,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher requests the exact value of the x-intercept, seeking a precise mathematical answer."
+    },
+    {
+      "ID": 17775,
+      "Speaker": "T",
+      "Turn": 240,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the y-intercept, prompting students to provide the specific numeric value."
+    },
+    {
+      "ID": 17777,
+      "Speaker": "T",
+      "Turn": 242,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher redirects the class's attention to a different part of the graph (“over here”) to ensure a shared focus before continuing."
+    },
+    {
+      "ID": 17778,
+      "Speaker": "T",
+      "Turn": 242,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher again asks for the precise y-intercept value at the new location."
+    },
+    {
+      "ID": 17781,
+      "Speaker": "T",
+      "Turn": 244,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17783,
+      "Speaker": "T",
+      "Turn": 246,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17784,
+      "Speaker": "T",
+      "Turn": 246,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17785,
+      "Speaker": "T",
+      "Turn": 246,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17786,
+      "Speaker": "T",
+      "Turn": 246,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks what makes the cubic graphs different, prompting students to explain their reasoning and make distinctions."
+    }
+  ]
+}

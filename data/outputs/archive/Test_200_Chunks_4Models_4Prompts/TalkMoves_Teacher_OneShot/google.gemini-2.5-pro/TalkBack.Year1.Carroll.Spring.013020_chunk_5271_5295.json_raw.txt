@@ -1,0 +1,95 @@
+{
+  "records": [
+    {
+      "ID": 5271,
+      "Turn": 43,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases a student's idea to clarify the proposed mathematical action for the class."
+    },
+    {
+      "ID": 5272,
+      "Turn": 43,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to describe the specific mathematical outcome of the proposed transformation."
+    },
+    {
+      "ID": 5273,
+      "Turn": 43,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher scaffolds the question by providing specific mathematical options to describe the change."
+    },
+    {
+      "ID": 5274,
+      "Turn": 43,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher refines the question to press for a specific mathematical consequence related to the x-axis."
+    },
+    {
+      "ID": 5277,
+      "Turn": 46,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5283,
+      "Turn": 51,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5284,
+      "Turn": 51,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5285,
+      "Turn": 51,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5290,
+      "Turn": 55,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5291,
+      "Turn": 55,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts a student to share the thinking behind their written answer."
+    },
+    {
+      "ID": 5292,
+      "Turn": 55,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats and clarifies a student's idea to make it available for public discussion."
+    },
+    {
+      "ID": 5293,
+      "Turn": 55,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5294,
+      "Turn": 55,
+      "Speaker": "T",
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher explicitly asks other students to position their own ideas in relation to a classmate's contribution."
+    }
+  ]
+}

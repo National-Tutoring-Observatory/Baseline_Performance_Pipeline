@@ -1,0 +1,118 @@
+{
+  "records": [
+    {
+      "ID": 8997,
+      "Turn": 225,
+      "Speaker": "T",
+      "TalkMove": "None"
+    },
+    {
+      "ID": 8998,
+      "Turn": 225,
+      "Speaker": "T",
+      "TalkMove": "None"
+    },
+    {
+      "ID": 9000,
+      "Turn": 227,
+      "Speaker": "T",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Directs students to share with a partner, orienting them to each other as speakers/listeners."
+    },
+    {
+      "ID": 9001,
+      "Turn": 227,
+      "Speaker": "T",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Assigns who speaks first in partner talk to structure participation."
+    },
+    {
+      "ID": 9002,
+      "Turn": 227,
+      "Speaker": "T",
+      "TalkMove": "None"
+    },
+    {
+      "ID": 9003,
+      "Turn": 228,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks whether 1 times some number equals 12 to elicit a correct factor relation."
+    },
+    {
+      "ID": 9004,
+      "Turn": 228,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Prompts inclusion of 1 as a factor on the list."
+    },
+    {
+      "ID": 9005,
+      "Turn": 228,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks for the missing factor in 1 × ?."
+    },
+    {
+      "ID": 9007,
+      "Turn": 230,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks which number multiplied by 1 equals 12."
+    },
+    {
+      "ID": 9008,
+      "Turn": 230,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Uses the identity property to prompt naming the matching factor."
+    },
+    {
+      "ID": 9010,
+      "Turn": 232,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Directs students to record 12 as the paired factor."
+    },
+    {
+      "ID": 9011,
+      "Turn": 232,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Checks whether 2 divides 12."
+    },
+    {
+      "ID": 9013,
+      "Turn": 234,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks for the missing factor in 2 × ?."
+    },
+    {
+      "ID": 9014,
+      "Turn": 234,
+      "Speaker": "T",
+      "TalkMove": "None"
+    },
+    {
+      "ID": 9015,
+      "Turn": 234,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Prompts completion of the multiplication fact 2 × __."
+    },
+    {
+      "ID": 9017,
+      "Turn": 236,
+      "Speaker": "T",
+      "TalkMove": "None"
+    },
+    {
+      "ID": 9018,
+      "Turn": 236,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Directs recording the factor pair (2, 6)."
+    }
+  ]
+}

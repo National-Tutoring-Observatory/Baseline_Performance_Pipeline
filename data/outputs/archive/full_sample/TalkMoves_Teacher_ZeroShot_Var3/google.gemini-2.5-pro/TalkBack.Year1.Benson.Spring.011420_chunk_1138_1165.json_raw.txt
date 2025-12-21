@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 1138,
+      "Speaker": "T",
+      "Turn": 1138,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1139,
+      "Speaker": "T",
+      "Turn": 1139,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1140,
+      "Speaker": "T",
+      "Turn": 1140,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1141,
+      "Speaker": "T",
+      "Turn": 1141,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1143,
+      "Speaker": "T",
+      "Turn": 1143,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1145,
+      "Speaker": "T",
+      "Turn": 1145,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's answer and begins to articulate the reasoning behind it, rephrasing the student's contribution for the class."
+    },
+    {
+      "ID": 1146,
+      "Speaker": "T",
+      "Turn": 1146,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher is articulating the mathematical process implied by the student's answer, thereby rephrasing the student's thinking for the class."
+    },
+    {
+      "ID": 1147,
+      "Speaker": "T",
+      "Turn": 1147,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher is asking students to provide an alternative explanation or solution path, prompting them to share their own reasoning."
+    },
+    {
+      "ID": 1148,
+      "Speaker": "T",
+      "Turn": 1148,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1151,
+      "Speaker": "T",
+      "Turn": 1151,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's idea while changing the wording to clarify the student's thinking process for the class."
+    },
+    {
+      "ID": 1152,
+      "Speaker": "T",
+      "Turn": 1152,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1153,
+      "Speaker": "T",
+      "Turn": 1153,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1154,
+      "Speaker": "T",
+      "Turn": 1154,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks a question to probe for students' conceptual understanding of a part of a fraction, prompting them to explain its meaning."
+    },
+    {
+      "ID": 1155,
+      "Speaker": "T",
+      "Turn": 1155,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1157,
+      "Speaker": "T",
+      "Turn": 1157,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's idea and then rephrases it as a question to confirm understanding and clarify the idea for the class."
+    },
+    {
+      "ID": 1159,
+      "Speaker": "T",
+      "Turn": 1159,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher explicitly asks a student to \"add on to\" or \"clarify\" what a previous student said, prompting a direct reaction to a classmate's idea."
+    },
+    {
+      "ID": 1161,
+      "Speaker": "T",
+      "Turn": 1161,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases the student's contribution to make the mathematical definition more precise for the class."
+    },
+    {
+      "ID": 1162,
+      "Speaker": "T",
+      "Turn": 1162,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher summarizes the co-constructed definition of the denominator, rephrasing the students' ideas into a clear principle."
+    },
+    {
+      "ID": 1163,
+      "Speaker": "T",
+      "Turn": 1163,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1165,
+      "Speaker": "T",
+      "Turn": 1165,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks a targeted question to prompt the student to apply the class's definition of a denominator to the specific numbers in the problem, thus pressing for reasoning."
+    }
+  ]
+}

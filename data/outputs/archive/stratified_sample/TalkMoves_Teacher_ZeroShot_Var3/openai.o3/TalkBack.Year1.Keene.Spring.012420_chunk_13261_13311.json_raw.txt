@@ -1,0 +1,285 @@
+{
+  "records": [
+    {
+      "ID": 13261,
+      "Speaker": "T",
+      "Turn": 89,
+      "TalkMove": "None"
+    },
+    {
+      "ID": 13262,
+      "Speaker": "T",
+      "Turn": 89,
+      "TalkMove": "None"
+    },
+    {
+      "ID": 13264,
+      "Speaker": "T",
+      "Turn": 91,
+      "TalkMove": "None"
+    },
+    {
+      "ID": 13265,
+      "Speaker": "T",
+      "Turn": 92,
+      "TalkMove": "None"
+    },
+    {
+      "ID": 13266,
+      "Speaker": "T",
+      "Turn": 92,
+      "TalkMove": "None"
+    },
+    {
+      "ID": 13267,
+      "Speaker": "T",
+      "Turn": 92,
+      "TalkMove": "None"
+    },
+    {
+      "ID": 13268,
+      "Speaker": "T",
+      "Turn": 92,
+      "TalkMove": "None"
+    },
+    {
+      "ID": 13270,
+      "Speaker": "T",
+      "Turn": 94,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher asks the student to explain why they think the answer is correct, prompting them to share their reasoning."
+    },
+    {
+      "ID": 13272,
+      "Speaker": "T",
+      "Turn": 96,
+      "TalkMove": "None"
+    },
+    {
+      "ID": 13273,
+      "Speaker": "T",
+      "Turn": 96,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher explicitly requests students to share the thinking that led to their answer."
+    },
+    {
+      "ID": 13274,
+      "Speaker": "T",
+      "Turn": 96,
+      "TalkMove": "None"
+    },
+    {
+      "ID": 13275,
+      "Speaker": "T",
+      "Turn": 96,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher reiterates the expectation that students articulate the thinking behind their answers."
+    },
+    {
+      "ID": 13276,
+      "Speaker": "T",
+      "Turn": 96,
+      "TalkMove": "None"
+    },
+    {
+      "ID": 13277,
+      "Speaker": "T",
+      "Turn": 96,
+      "TalkMove": "None"
+    },
+    {
+      "ID": 13278,
+      "Speaker": "T",
+      "Turn": 96,
+      "TalkMove": "None"
+    },
+    {
+      "ID": 13280,
+      "Speaker": "T",
+      "Turn": 98,
+      "TalkMove": "None"
+    },
+    {
+      "ID": 13281,
+      "Speaker": "T",
+      "Turn": 98,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher rephrases and elaborates Sasha's idea to clarify it for the class."
+    },
+    {
+      "ID": 13282,
+      "Speaker": "T",
+      "Turn": 98,
+      "TalkMove": "None"
+    },
+    {
+      "ID": 13283,
+      "Speaker": "T",
+      "Turn": 98,
+      "TalkMove": "None"
+    },
+    {
+      "ID": 13284,
+      "Speaker": "T",
+      "Turn": 98,
+      "TalkMove": "None"
+    },
+    {
+      "ID": 13285,
+      "Speaker": "T",
+      "Turn": 98,
+      "TalkMove": "None"
+    },
+    {
+      "ID": 13286,
+      "Speaker": "T",
+      "Turn": 99,
+      "TalkMove": "None"
+    },
+    {
+      "ID": 13287,
+      "Speaker": "T",
+      "Turn": 99,
+      "TalkMove": "None"
+    },
+    {
+      "ID": 13288,
+      "Speaker": "T",
+      "Turn": 99,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Teacher summarizes Sasha’s visualization for the whole class to ensure everyone is following the shared idea."
+    },
+    {
+      "ID": 13289,
+      "Speaker": "T",
+      "Turn": 99,
+      "TalkMove": "None"
+    },
+    {
+      "ID": 13290,
+      "Speaker": "T",
+      "Turn": 99,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks for the specific value the number is closest to, pushing students to make a precise mathematical choice."
+    },
+    {
+      "ID": 13291,
+      "Speaker": "T",
+      "Turn": 99,
+      "TalkMove": "None"
+    },
+    {
+      "ID": 13292,
+      "Speaker": "T",
+      "Turn": 99,
+      "TalkMove": "None"
+    },
+    {
+      "ID": 13293,
+      "Speaker": "T",
+      "Turn": 99,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher alerts students that some answers shown are not valid options, urging them to select from the provided mathematical choices."
+    },
+    {
+      "ID": 13294,
+      "Speaker": "T",
+      "Turn": 99,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher directs students to reference the list of allowable options to ensure correctness."
+    },
+    {
+      "ID": 13295,
+      "Speaker": "T",
+      "Turn": 99,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher reminds students to display only one of the correct options, emphasizing precision."
+    },
+    {
+      "ID": 13296,
+      "Speaker": "T",
+      "Turn": 100,
+      "TalkMove": "None"
+    },
+    {
+      "ID": 13297,
+      "Speaker": "T",
+      "Turn": 100,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks a student to clarify what their displayed option is, pushing for a clear, precise response."
+    },
+    {
+      "ID": 13298,
+      "Speaker": "T",
+      "Turn": 100,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks what the numbers are when combined, eliciting a specific mathematical calculation."
+    },
+    {
+      "ID": 13299,
+      "Speaker": "T",
+      "Turn": 100,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks students to state what the sum is closest to, requiring a definite mathematical answer."
+    },
+    {
+      "ID": 13300,
+      "Speaker": "T",
+      "Turn": 100,
+      "TalkMove": "None"
+    },
+    {
+      "ID": 13301,
+      "Speaker": "T",
+      "Turn": 100,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Teacher reports the distribution of student answers to keep the whole class informed of peers’ responses."
+    },
+    {
+      "ID": 13302,
+      "Speaker": "T",
+      "Turn": 100,
+      "TalkMove": "None"
+    },
+    {
+      "ID": 13303,
+      "Speaker": "T",
+      "Turn": 100,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher asks why 1/2 would be incorrect, prompting students to justify their thinking."
+    },
+    {
+      "ID": 13304,
+      "Speaker": "T",
+      "Turn": 100,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher asks the student who chose half to explain why that might be wrong, requesting justification."
+    },
+    {
+      "ID": 13305,
+      "Speaker": "T",
+      "Turn": 100,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher invites volunteers to share their thinking, encouraging explanation of reasoning."
+    },
+    {
+      "ID": 13306,
+      "Speaker": "T",
+      "Turn": 100,
+      "TalkMove": "None"
+    },
+    {
+      "ID": 13308,
+      "Speaker": "T",
+      "Turn": 102,
+      "TalkMove": "None"
+    },
+    {
+      "ID": 13310,
+      "Speaker": "T",
+      "Turn": 104,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks whether 1 2/3 is greater than one-half, eliciting a precise mathematical comparison."
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "records": [
+    {
+      "ID": 7219,
+      "Turn": 139,
+      "Speaker": "T",
+      "TalkMove": "None"
+    },
+    {
+      "ID": 7220,
+      "Turn": 140,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks the student to add another observation, prompting a further mathematical contribution."
+    },
+    {
+      "ID": 7228,
+      "Turn": 141,
+      "Speaker": "T",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Orients the class to peers’ reactions, highlighting collective agreement."
+    },
+    {
+      "ID": 7229,
+      "Turn": 141,
+      "Speaker": "T",
+      "TalkMove": "None"
+    },
+    {
+      "ID": 7230,
+      "Turn": 141,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Prompts for an additional observation, eliciting another mathematical contribution."
+    },
+    {
+      "ID": 7231,
+      "Turn": 141,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Directly requests the next observation from a student."
+    },
+    {
+      "ID": 7233,
+      "Turn": 143,
+      "Speaker": "T",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Directs the student’s attention to the shared focus, helping the class stay coordinated."
+    },
+    {
+      "ID": 7236,
+      "Turn": 145,
+      "Speaker": "T",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "References class-wide nonverbal reactions to maintain collective engagement."
+    },
+    {
+      "ID": 7237,
+      "Turn": 145,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Instructs students to address a specific required component in their responses."
+    },
+    {
+      "ID": 7238,
+      "Turn": 145,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Prompts inclusion of precise language even when nothing was incorrect."
+    },
+    {
+      "ID": 7239,
+      "Turn": 145,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Models appropriate mathematical phrasing for addressing correctness."
+    },
+    {
+      "ID": 7240,
+      "Turn": 145,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Specifies wording to ensure the response directly addresses the question."
+    }
+  ]
+}

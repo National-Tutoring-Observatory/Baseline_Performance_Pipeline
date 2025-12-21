@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 2938,
+      "Speaker": "T",
+      "Turn": 2938,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 2939,
+      "Speaker": "T",
+      "Turn": 2939,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 2940,
+      "Speaker": "T",
+      "Turn": 2940,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 2941,
+      "Speaker": "T",
+      "Turn": 2941,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks a student to explain how they solved and describe their thinking."
+    },
+    {
+      "ID": 2942,
+      "Speaker": "T",
+      "Turn": 2942,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher paraphrases a feature of the student's method (including zeros)."
+    },
+    {
+      "ID": 2943,
+      "Speaker": "T",
+      "Turn": 2943,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher invites others to add on or share different approaches in relation to Sophia's idea."
+    },
+    {
+      "ID": 2945,
+      "Speaker": "T",
+      "Turn": 2945,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher prompts students to react to a classmate's solution by inviting disagreement."
+    },
+    {
+      "ID": 2946,
+      "Speaker": "T",
+      "Turn": 2946,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher asks who solved it differently, encouraging connections to the prior student's method."
+    },
+    {
+      "ID": 2947,
+      "Speaker": "T",
+      "Turn": 2947,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks Hannah to describe what she did, prompting explanation of her method."
+    },
+    {
+      "ID": 2949,
+      "Speaker": "T",
+      "Turn": 2949,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher restates the student's action by paraphrasing ('You left it at that')."
+    },
+    {
+      "ID": 2951,
+      "Speaker": "T",
+      "Turn": 2951,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher directs correct equation notation by specifying placement relative to the equal sign."
+    },
+    {
+      "ID": 2952,
+      "Speaker": "T",
+      "Turn": 2952,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher checks whether the student produced the mathematical representation in writing."
+    },
+    {
+      "ID": 2953,
+      "Speaker": "T",
+      "Turn": 2953,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks if an equation was written, prompting use of mathematical language."
+    },
+    {
+      "ID": 2954,
+      "Speaker": "T",
+      "Turn": 2954,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks about the student's thinking process (written vs. thought through)."
+    },
+    {
+      "ID": 2956,
+      "Speaker": "T",
+      "Turn": 2956,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the exact equation, prompting a precise mathematical contribution."
+    },
+    {
+      "ID": 2958,
+      "Speaker": "T",
+      "Turn": 2958,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher restates the student's use of a known multiplication fact."
+    },
+    {
+      "ID": 2959,
+      "Speaker": "T",
+      "Turn": 2959,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher paraphrases the student's assignment of g = 50."
+    },
+    {
+      "ID": 2960,
+      "Speaker": "T",
+      "Turn": 2960,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher checks and revoices their understanding of the student's idea."
+    },
+    {
+      "ID": 2962,
+      "Speaker": "T",
+      "Turn": 2962,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher invites others to share different approaches, connecting to peers' methods."
+    },
+    {
+      "ID": 2963,
+      "Speaker": "T",
+      "Turn": 2963,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks if someone wrote a division problem, prompting a specific mathematical form."
+    }
+  ]
+}

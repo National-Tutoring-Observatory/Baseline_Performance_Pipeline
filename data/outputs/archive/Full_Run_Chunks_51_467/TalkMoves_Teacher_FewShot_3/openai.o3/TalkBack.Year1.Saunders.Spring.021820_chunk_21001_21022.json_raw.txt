@@ -1,0 +1,88 @@
+{
+  "records": [
+    {
+      "ID": 21001,
+      "Speaker": "T",
+      "Turn": 173,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21002,
+      "Speaker": "T",
+      "Turn": 173,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21006,
+      "Speaker": "T",
+      "Turn": 176,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher echoes the student’s words (“two and three”), repeating them verbatim to acknowledge and focus on the student’s question."
+    },
+    {
+      "ID": 21007,
+      "Speaker": "T",
+      "Turn": 176,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "By saying “All right so if you look,” the teacher orients the class to attend to the material, prompting collective attention."
+    },
+    {
+      "ID": 21010,
+      "Speaker": "T",
+      "Turn": 179,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21011,
+      "Speaker": "T",
+      "Turn": 179,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks, “What is the 6 on?” requiring the student to specify precisely what the 6 is attached to, prompting a more accurate mathematical statement."
+    },
+    {
+      "ID": 21013,
+      "Speaker": "T",
+      "Turn": 181,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher restates the student’s response (“The X”) with a clarifying addition (“Just the X”), slightly rephrasing to emphasize the idea."
+    },
+    {
+      "ID": 21015,
+      "Speaker": "T",
+      "Turn": 183,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21016,
+      "Speaker": "T",
+      "Turn": 183,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21017,
+      "Speaker": "T",
+      "Turn": 183,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21020,
+      "Speaker": "T",
+      "Turn": 186,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21021,
+      "Speaker": "T",
+      "Turn": 186,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

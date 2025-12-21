@@ -1,0 +1,140 @@
+{
+  "records": [
+    {
+      "ID": 22685,
+      "Turn": 103,
+      "Speaker": "T",
+      "Sentence": "What is an equivalent fraction mean",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher is asking students for the definition of a key mathematical term."
+    },
+    {
+      "ID": 22686,
+      "Turn": 103,
+      "Speaker": "T",
+      "Sentence": "How did you know",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher is asking the student to explain the thinking or evidence behind their answer."
+    },
+    {
+      "ID": 22687,
+      "Turn": 103,
+      "Speaker": "T",
+      "Sentence": "Do you want to tell us a little bit more about that Noah",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher is prompting a student to elaborate on their idea and share more of their thinking."
+    },
+    {
+      "ID": 22688,
+      "Turn": 104,
+      "Speaker": "T",
+      "Sentence": "Can I show a gesture because some people are naturally  to that",
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 22689,
+      "Turn": 105,
+      "Speaker": "T",
+      "Sentence": "Show me",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher is asking the student to provide a physical demonstration as evidence for their thinking."
+    },
+    {
+      "ID": 22690,
+      "Turn": 105,
+      "Speaker": "T",
+      "Sentence": "Show me",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher repeats the prompt for the student to provide a physical demonstration as evidence."
+    },
+    {
+      "ID": 22691,
+      "Turn": 105,
+      "Speaker": "T",
+      "Sentence": "I love it",
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 22692,
+      "Turn": 105,
+      "Speaker": "T",
+      "Sentence": "But how do you know theyre equal",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher is asking the student to provide the justification for their claim that the fractions are equal."
+    },
+    {
+      "ID": 22693,
+      "Turn": 105,
+      "Speaker": "T",
+      "Sentence": "How do you know one half",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher continues to press the student to explain their thinking and provide evidence for their claim."
+    },
+    {
+      "ID": 22695,
+      "Turn": 107,
+      "Speaker": "T",
+      "Sentence": "If you look at your number line two fourths is equivalent",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases the student's idea ('sits directly underneath') using more precise mathematical language ('is equivalent')."
+    },
+    {
+      "ID": 22696,
+      "Turn": 107,
+      "Speaker": "T",
+      "Sentence": "Its the exact same amount of space as one half",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher continues to rephrase the student's idea, clarifying the concept of equivalence on a number line."
+    },
+    {
+      "ID": 22697,
+      "Turn": 107,
+      "Speaker": "T",
+      "Sentence": "Good",
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 22698,
+      "Turn": 107,
+      "Speaker": "T",
+      "Sentence": "that",
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 22702,
+      "Turn": 110,
+      "Speaker": "T",
+      "Sentence": "I agree with you that the root of the equivalent is equal but how would you show it or prove it with math",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher validates the student's idea and then presses for mathematical proof or evidence."
+    },
+    {
+      "ID": 22703,
+      "Turn": 110,
+      "Speaker": "T",
+      "Sentence": "Whats your math reasoning",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher explicitly asks the student to provide their 'math reasoning'."
+    },
+    {
+      "ID": 22705,
+      "Turn": 112,
+      "Speaker": "T",
+      "Sentence": "Fraction pieces would be another way",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's suggestion and reframes it as an alternative method, thus clarifying its role in the discussion."
+    },
+    {
+      "ID": 22706,
+      "Turn": 112,
+      "Speaker": "T",
+      "Sentence": "Right",
+      "TalkMove": "None",
+      "Reasoning": null
+    }
+  ]
+}

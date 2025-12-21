@@ -1,0 +1,102 @@
+{
+  "records": [
+    {
+      "ID": 8841,
+      "Speaker": "T",
+      "Turn": 169,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8844,
+      "Speaker": "T",
+      "Turn": 171,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts the student to explain the missing first part of their thinking about why 3 is a factor of 36."
+    },
+    {
+      "ID": 8846,
+      "Speaker": "T",
+      "Turn": 173,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8847,
+      "Speaker": "T",
+      "Turn": 173,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8850,
+      "Speaker": "T",
+      "Turn": 175,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8852,
+      "Speaker": "T",
+      "Turn": 177,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher reframes the student's method by naming it as 'partial products,' adding mathematical language to the student’s idea."
+    },
+    {
+      "ID": 8854,
+      "Speaker": "T",
+      "Turn": 179,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8855,
+      "Speaker": "T",
+      "Turn": 179,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher orients the class to stay engaged with the discussion, encouraging all students to follow along."
+    },
+    {
+      "ID": 8856,
+      "Speaker": "T",
+      "Turn": 179,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8857,
+      "Speaker": "T",
+      "Turn": 179,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8858,
+      "Speaker": "T",
+      "Turn": 179,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8859,
+      "Speaker": "T",
+      "Turn": 179,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher invites the class to read the learning intention together, prompting shared participation and attention."
+    },
+    {
+      "ID": 8861,
+      "Speaker": "T",
+      "Turn": 181,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8862,
+      "Speaker": "T",
+      "Turn": 181,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to explain how knowing factors could help find a common denominator, prompting connections and justification."
+    }
+  ]
+}

@@ -1,0 +1,188 @@
+[
+  {
+    "records": [
+      {
+        "ID": 313,
+        "Turn": 150,
+        "Speaker": "T",
+        "TalkMove": null,
+        "Reasoning": null
+      },
+      {
+        "ID": 314,
+        "Turn": 150,
+        "Speaker": "T",
+        "TalkMove": null,
+        "Reasoning": null
+      },
+      {
+        "ID": 316,
+        "Turn": 152,
+        "Speaker": "T",
+        "TalkMove": null,
+        "Reasoning": null
+      },
+      {
+        "ID": 317,
+        "Turn": 152,
+        "Speaker": "T",
+        "TalkMove": null,
+        "Reasoning": null
+      },
+      {
+        "ID": 319,
+        "Turn": 154,
+        "Speaker": "T",
+        "TalkMove": null,
+        "Reasoning": null
+      },
+      {
+        "ID": 321,
+        "Turn": 156,
+        "Speaker": "T",
+        "TalkMove": "Restating",
+        "Reasoning": "The teacher repeats the student's answer, '40', before asking the next question."
+      },
+      {
+        "ID": 322,
+        "Turn": 156,
+        "Speaker": "T",
+        "TalkMove": null,
+        "Reasoning": null
+      },
+      {
+        "ID": 324,
+        "Turn": 158,
+        "Speaker": "T",
+        "TalkMove": "Restating",
+        "Reasoning": "The teacher repeats the student's contribution, '7 times 4', before prompting for the answer."
+      },
+      {
+        "ID": 326,
+        "Turn": 160,
+        "Speaker": "T",
+        "TalkMove": null,
+        "Reasoning": null
+      },
+      {
+        "ID": 327,
+        "Turn": 160,
+        "Speaker": "T",
+        "TalkMove": null,
+        "Reasoning": null
+      },
+      {
+        "ID": 328,
+        "Turn": 160,
+        "Speaker": "T",
+        "TalkMove": null,
+        "Reasoning": null
+      },
+      {
+        "ID": 329,
+        "Turn": 160,
+        "Speaker": "T",
+        "TalkMove": "Pressing for Reasoning",
+        "Reasoning": "The teacher asks students to consider the importance of a mathematical procedure (lining up place values), prompting them to think about the reason behind the step."
+      },
+      {
+        "ID": 331,
+        "Turn": 162,
+        "Speaker": "T",
+        "TalkMove": null,
+        "Reasoning": null
+      },
+      {
+        "ID": 332,
+        "Turn": 162,
+        "Speaker": "T",
+        "TalkMove": null,
+        "Reasoning": null
+      },
+      {
+        "ID": 333,
+        "Turn": 162,
+        "Speaker": "T",
+        "TalkMove": null,
+        "Reasoning": null
+      },
+      {
+        "ID": 334,
+        "Turn": 163,
+        "Speaker": "T",
+        "TalkMove": null,
+        "Reasoning": null
+      },
+      {
+        "ID": 336,
+        "Turn": 165,
+        "Speaker": "T",
+        "TalkMove": "Getting Students to Relate to Another’s Ideas",
+        "Reasoning": "The teacher states one student's answer and then asks the rest of the class to compare their own answers to it."
+      },
+      {
+        "ID": 337,
+        "Turn": 165,
+        "Speaker": "T",
+        "TalkMove": "Getting Students to Relate to Another’s Ideas",
+        "Reasoning": "The teacher follows up on the previous move by calling on a specific student to share a potentially different answer."
+      },
+      {
+        "ID": 340,
+        "Turn": 169,
+        "Speaker": "T",
+        "TalkMove": "Pressing for Reasoning",
+        "Reasoning": "The teacher prompts the student to articulate the error they just noticed in their thinking."
+      },
+      {
+        "ID": 341,
+        "Turn": 169,
+        "Speaker": "T",
+        "TalkMove": "Keeping Everyone Together",
+        "Reasoning": "The teacher checks for class-wide consensus on the answer to ensure all students are on the same page."
+      },
+      {
+        "ID": 343,
+        "Turn": 171,
+        "Speaker": "T",
+        "TalkMove": null,
+        "Reasoning": null
+      },
+      {
+        "ID": 344,
+        "Turn": 171,
+        "Speaker": "T",
+        "TalkMove": null,
+        "Reasoning": null
+      },
+      {
+        "ID": 345,
+        "Turn": 171,
+        "Speaker": "T",
+        "TalkMove": null,
+        "Reasoning": null
+      },
+      {
+        "ID": 346,
+        "Turn": 171,
+        "Speaker": "T",
+        "TalkMove": null,
+        "Reasoning": null
+      },
+      {
+        "ID": 347,
+        "Turn": 171,
+        "Speaker": "T",
+        "TalkMove": null,
+        "Reasoning": null
+      },
+      {
+        "ID": 348,
+        "Turn": 171,
+        "Speaker": "T",
+        "TalkMove": null,
+        "Reasoning": null
+      }
+    ]
+  }
+]

@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 25397,
+      "Speaker": "T",
+      "Turn": 25397,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 25398,
+      "Speaker": "T",
+      "Turn": 25398,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher is inviting other students to participate and share their thoughts with the group."
+    },
+    {
+      "ID": 25399,
+      "Speaker": "T",
+      "Turn": 25399,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher calls on a specific student to share, orienting the class to that student's contribution."
+    },
+    {
+      "ID": 25401,
+      "Speaker": "T",
+      "Turn": 25401,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's idea ('How many minutes') and elaborates on why it is a good contribution ('because how many minutes are in five hours is not up there')."
+    },
+    {
+      "ID": 25402,
+      "Speaker": "T",
+      "Turn": 25402,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to explain the method or strategy used to solve the problem ('How would you solve...')."
+    },
+    {
+      "ID": 25404,
+      "Speaker": "T",
+      "Turn": 25404,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to explain the origin of a specific number used in their calculation ('Where did you get six from')."
+    },
+    {
+      "ID": 25407,
+      "Speaker": "T",
+      "Turn": 25407,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher corrects or refines the student's mathematical language regarding the operation ('attach the zero' vs 'adding the 0')."
+    },
+    {
+      "ID": 25408,
+      "Speaker": "T",
+      "Turn": 25408,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher reiterates the correct procedural language ('We re attaching the 0')."
+    },
+    {
+      "ID": 25409,
+      "Speaker": "T",
+      "Turn": 25409,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to complete a specific calculation ('You would do 6 x 5 is')."
+    },
+    {
+      "ID": 25411,
+      "Speaker": "T",
+      "Turn": 25411,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher guides the student through the final steps of the calculation procedure."
+    },
+    {
+      "ID": 25413,
+      "Speaker": "T",
+      "Turn": 25413,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher restates the final answer with units ('300 minutes'), confirming the result."
+    },
+    {
+      "ID": 25414,
+      "Speaker": "T",
+      "Turn": 25414,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 25415,
+      "Speaker": "T",
+      "Turn": 25415,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 25416,
+      "Speaker": "T",
+      "Turn": 25416,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher calls on another student to share, maintaining the flow of group participation."
+    },
+    {
+      "ID": 25419,
+      "Speaker": "T",
+      "Turn": 25419,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases the student's strategy to verify understanding ('Are you saying once you get this answer you can double it...')."
+    },
+    {
+      "ID": 25422,
+      "Speaker": "T",
+      "Turn": 25422,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 25423,
+      "Speaker": "T",
+      "Turn": 25423,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 25424,
+      "Speaker": "T",
+      "Turn": 25424,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 25425,
+      "Speaker": "T",
+      "Turn": 25425,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 25426,
+      "Speaker": "T",
+      "Turn": 25426,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "records": [
+    {
+      "ID": 18066,
+      "Turn": 365,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18073,
+      "Turn": 369,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to clarify their statement that the equation is a 'straight line,' pushing for a more precise description."
+    },
+    {
+      "ID": 18075,
+      "Turn": 371,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases the student's idea ('It has no curve') using more precise mathematical terms ('no min or max,' 'point of inflection')."
+    },
+    {
+      "ID": 18076,
+      "Turn": 371,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18078,
+      "Turn": 373,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18080,
+      "Turn": 375,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18083,
+      "Turn": 378,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher interprets and rephrases the student's description of a graph, connecting it to the mathematical concept of a cubic function with a point of inflection."
+    },
+    {
+      "ID": 18086,
+      "Turn": 380,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

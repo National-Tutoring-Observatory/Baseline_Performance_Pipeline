@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 17078,
+      "Speaker": "T",
+      "Turn": 17078,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks for a specific year when the least profit occurred, prompting a precise mathematical answer."
+    },
+    {
+      "ID": 17081,
+      "Speaker": "T",
+      "Turn": 17081,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher restates a student’s contribution (“2008”) in her own words to verify and highlight it."
+    },
+    {
+      "ID": 17083,
+      "Speaker": "T",
+      "Turn": 17083,
+      "TalkMove": "Restating",
+      "Reasoning": "Teacher repeats the student’s answer word-for-word (“2008”)."
+    },
+    {
+      "ID": 17084,
+      "Speaker": "T",
+      "Turn": 17084,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher summarizes the class’s idea (2008) and adds an explanation about a horizontal line, extending the student idea."
+    },
+    {
+      "ID": 17085,
+      "Speaker": "T",
+      "Turn": 17085,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher asks students to consider whether the profits at the two times are the same, prompting them to connect the graph to the situation."
+    },
+    {
+      "ID": 17086,
+      "Speaker": "T",
+      "Turn": 17086,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17088,
+      "Speaker": "T",
+      "Turn": 17088,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher again asks for the specific time of least profit, seeking a concrete answer."
+    },
+    {
+      "ID": 17090,
+      "Speaker": "T",
+      "Turn": 17090,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher voices the collective answer (“In between those two”), reformulating the students’ idea."
+    },
+    {
+      "ID": 17091,
+      "Speaker": "T",
+      "Turn": 17091,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17092,
+      "Speaker": "T",
+      "Turn": 17092,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher initiates the calculation by asking for the resulting year, expecting a numeric answer."
+    },
+    {
+      "ID": 17095,
+      "Speaker": "T",
+      "Turn": 17095,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher instructs students to perform a specific computation (“Add them up divide by two”), eliciting a precise mathematical action."
+    },
+    {
+      "ID": 17096,
+      "Speaker": "T",
+      "Turn": 17096,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17097,
+      "Speaker": "T",
+      "Turn": 17097,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Teacher directs the class to listen (“All listen up”), orienting all students to the upcoming contribution."
+    },
+    {
+      "ID": 17100,
+      "Speaker": "T",
+      "Turn": 17100,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks for the specific current year, requesting a concrete factual response."
+    },
+    {
+      "ID": 17103,
+      "Speaker": "T",
+      "Turn": 17103,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks students to categorize the trend (increasing/decreasing/constant), seeking a precise mathematical description."
+    },
+    {
+      "ID": 17105,
+      "Speaker": "T",
+      "Turn": 17105,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17106,
+      "Speaker": "T",
+      "Turn": 17106,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks if the trend continues to increase, prompting a specific confirmation or correction."
+    },
+    {
+      "ID": 17108,
+      "Speaker": "T",
+      "Turn": 17108,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17109,
+      "Speaker": "T",
+      "Turn": 17109,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher restates and summarizes the class’s conclusion that profits should be increasing, incorporating the condition of a ‘good model.’"
+    },
+    {
+      "ID": 17110,
+      "Speaker": "T",
+      "Turn": 17110,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher invites students to discuss challenges in connecting abstract math to a real-world story, prompting explanation and reflection."
+    }
+  ]
+}

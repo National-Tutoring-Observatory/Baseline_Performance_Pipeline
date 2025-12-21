@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 20526,
+      "Speaker": "T",
+      "Turn": 20526,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20527,
+      "Speaker": "T",
+      "Turn": 20527,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks for the numerical value of 2³, prompting a precise mathematical answer."
+    },
+    {
+      "ID": 20529,
+      "Speaker": "T",
+      "Turn": 20529,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20530,
+      "Speaker": "T",
+      "Turn": 20530,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher implicitly asks students to supply the value of 3³."
+    },
+    {
+      "ID": 20532,
+      "Speaker": "T",
+      "Turn": 20532,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher prompts students for the value of 4³."
+    },
+    {
+      "ID": 20536,
+      "Speaker": "T",
+      "Turn": 20536,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks students to compute 4 × 4, seeking a specific numerical result."
+    },
+    {
+      "ID": 20538,
+      "Speaker": "T",
+      "Turn": 20538,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher continues the calculation by prompting students to multiply by 4 again."
+    },
+    {
+      "ID": 20539,
+      "Speaker": "T",
+      "Turn": 20539,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20542,
+      "Speaker": "T",
+      "Turn": 20542,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20543,
+      "Speaker": "T",
+      "Turn": 20543,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20544,
+      "Speaker": "T",
+      "Turn": 20544,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20545,
+      "Speaker": "T",
+      "Turn": 20545,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher directly asks for the value of 5³."
+    },
+    {
+      "ID": 20547,
+      "Speaker": "T",
+      "Turn": 20547,
+      "TalkMove": "Restating",
+      "Reasoning": "Teacher repeats the student’s answer \"125\" verbatim before adding a brief evaluation."
+    },
+    {
+      "ID": 20548,
+      "Speaker": "T",
+      "Turn": 20548,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20550,
+      "Speaker": "T",
+      "Turn": 20550,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20551,
+      "Speaker": "T",
+      "Turn": 20551,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20552,
+      "Speaker": "T",
+      "Turn": 20552,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20553,
+      "Speaker": "T",
+      "Turn": 20553,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20557,
+      "Speaker": "T",
+      "Turn": 20557,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20558,
+      "Speaker": "T",
+      "Turn": 20558,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

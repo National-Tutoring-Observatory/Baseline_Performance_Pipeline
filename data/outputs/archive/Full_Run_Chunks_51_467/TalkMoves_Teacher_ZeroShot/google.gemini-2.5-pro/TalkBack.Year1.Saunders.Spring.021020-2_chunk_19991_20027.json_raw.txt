@@ -1,0 +1,212 @@
+{
+  "records": [
+    {
+      "ID": 19991,
+      "Turn": 20,
+      "Speaker": "T",
+      "Sentence": "Were good",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19992,
+      "Turn": 20,
+      "Speaker": "T",
+      "Sentence": "Jeff",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19993,
+      "Turn": 20,
+      "Speaker": "T",
+      "Sentence": "All right anybody else have questions",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19995,
+      "Turn": 22,
+      "Speaker": "T",
+      "Sentence": "You got a question",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19996,
+      "Turn": 22,
+      "Speaker": "T",
+      "Sentence": "All right",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19997,
+      "Turn": 22,
+      "Speaker": "T",
+      "Sentence": "Is there a question",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19998,
+      "Turn": 22,
+      "Speaker": "T",
+      "Sentence": "Go ahead read",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19999,
+      "Turn": 22,
+      "Speaker": "T",
+      "Sentence": "Well take",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20001,
+      "Turn": 24,
+      "Speaker": "T",
+      "Sentence": "This part right here",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20003,
+      "Turn": 26,
+      "Speaker": "T",
+      "Sentence": "If its a linear equation do the ends of a line go in opposite directions or the same direction",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to provide a specific, correct piece of mathematical information about the end behavior of linear equations."
+    },
+    {
+      "ID": 20005,
+      "Turn": 28,
+      "Speaker": "T",
+      "Sentence": "They go opposite so a line either goes that way and that way or that way and that way",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's idea ('opposite') and then elaborates on it by describing what that looks like graphically."
+    },
+    {
+      "ID": 20006,
+      "Turn": 28,
+      "Speaker": "T",
+      "Sentence": "Now what if its a quadratic",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher continues the line of questioning by prompting the student for another specific piece of mathematical information."
+    },
+    {
+      "ID": 20007,
+      "Turn": 28,
+      "Speaker": "T",
+      "Sentence": "Its a parabola so the ends of that parabola are either pointing up or pointing down",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20008,
+      "Turn": 28,
+      "Speaker": "T",
+      "Sentence": "If its to the first degree so x to the first is a linear were doing this if its quadratic were doing this if its cubic if its quartic and it just keeps going like that right",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20010,
+      "Turn": 30,
+      "Speaker": "T",
+      "Sentence": "Which one were you working on",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20011,
+      "Turn": 30,
+      "Speaker": "T",
+      "Sentence": "Were you working on this one",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20012,
+      "Turn": 30,
+      "Speaker": "T",
+      "Sentence": "Three",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20014,
+      "Turn": 32,
+      "Speaker": "T",
+      "Sentence": "Okay",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20015,
+      "Turn": 32,
+      "Speaker": "T",
+      "Sentence": "Whats the degree of that one",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to identify a specific mathematical feature of the equation."
+    },
+    {
+      "ID": 20017,
+      "Turn": 34,
+      "Speaker": "T",
+      "Sentence": "Three",
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's answer ('three') word for word."
+    },
+    {
+      "ID": 20018,
+      "Turn": 34,
+      "Speaker": "T",
+      "Sentence": "Is that an odd or even number",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to make a specific mathematical contribution by classifying the number they just identified."
+    },
+    {
+      "ID": 20020,
+      "Turn": 36,
+      "Speaker": "T",
+      "Sentence": "Is it going in the same or different directions",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to apply a mathematical rule about odd-degree polynomials to determine the end behavior."
+    },
+    {
+      "ID": 20022,
+      "Turn": 38,
+      "Speaker": "T",
+      "Sentence": "How do I know whether its going like that or like that",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to explain the thinking or rule used to determine the specific end behavior, prompting for justification."
+    },
+    {
+      "ID": 20024,
+      "Turn": 40,
+      "Speaker": "T",
+      "Sentence": "In this case this one is",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to apply the rule they just stated ('positive or negative') to the specific problem."
+    },
+    {
+      "ID": 20026,
+      "Turn": 42,
+      "Speaker": "T",
+      "Sentence": "Positive",
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's answer ('positive') word for word."
+    },
+    {
+      "ID": 20027,
+      "Turn": 42,
+      "Speaker": "T",
+      "Sentence": "Were looking at that leading coefficient basically itll be positive",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's idea ('positive') and adds on the correct mathematical term ('leading coefficient') to clarify the concept."
+    }
+  ]
+}

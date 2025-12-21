@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 792,
+      "Speaker": "T",
+      "Turn": 792,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for a specific calculation result ('What does that equal'), prompting a mathematical contribution."
+    },
+    {
+      "ID": 794,
+      "Speaker": "T",
+      "Turn": 794,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 795,
+      "Speaker": "T",
+      "Turn": 795,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 796,
+      "Speaker": "T",
+      "Turn": 796,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 797,
+      "Speaker": "T",
+      "Turn": 797,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts students to 'figure out' the solution by testing different pieces, encouraging them to engage in the problem-solving process rather than just stating an answer."
+    },
+    {
+      "ID": 798,
+      "Speaker": "T",
+      "Turn": 798,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Similar to the previous turn, the teacher asks students to 'figure out which one is the whole' by manipulating the pieces, prompting investigation and justification."
+    },
+    {
+      "ID": 799,
+      "Speaker": "T",
+      "Turn": 799,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher acknowledges students who have finished but asks them to 'hold your thoughts,' managing the pace so the rest of the class can catch up."
+    },
+    {
+      "ID": 800,
+      "Speaker": "T",
+      "Turn": 800,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 801,
+      "Speaker": "T",
+      "Turn": 801,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 802,
+      "Speaker": "T",
+      "Turn": 802,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher calls out the names of students who have found the solution, orienting the class to who is ready and maintaining group focus."
+    },
+    {
+      "ID": 803,
+      "Speaker": "T",
+      "Turn": 803,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a specific student to identify the piece found ('what piece did you find'), prompting for a specific mathematical answer."
+    },
+    {
+      "ID": 805,
+      "Speaker": "T",
+      "Turn": 805,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts for a specific detail ('What color') to clarify the student's answer."
+    },
+    {
+      "ID": 807,
+      "Speaker": "T",
+      "Turn": 807,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's answer ('Orange') and expands on it by defining its value in the current context ('its really one whole right now')."
+    },
+    {
+      "ID": 808,
+      "Speaker": "T",
+      "Turn": 808,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 809,
+      "Speaker": "T",
+      "Turn": 809,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 810,
+      "Speaker": "T",
+      "Turn": 810,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher calls on a student by name to invite them into the conversation."
+    },
+    {
+      "ID": 812,
+      "Speaker": "T",
+      "Turn": 812,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's idea word for word ('It could be two light blues')."
+    },
+    {
+      "ID": 813,
+      "Speaker": "T",
+      "Turn": 813,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher invites the class to test the student's suggestion ('Lets see if that works also'), prompting them to engage with the idea."
+    },
+    {
+      "ID": 814,
+      "Speaker": "T",
+      "Turn": 814,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 815,
+      "Speaker": "T",
+      "Turn": 815,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher highlights a specific student's strategy ('Deely had a good idea she was doing it this way'), prompting the rest of the class to consider that approach."
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "records": [
+    {
+      "ID": 9634,
+      "Speaker": "T",
+      "Turn": 64,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9636,
+      "Speaker": "T",
+      "Turn": 66,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9637,
+      "Speaker": "T",
+      "Turn": 67,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9638,
+      "Speaker": "T",
+      "Turn": 67,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Teacher checks whether the student understands the task, orienting them to the shared activity."
+    },
+    {
+      "ID": 9640,
+      "Speaker": "T",
+      "Turn": 68,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher prompts students to compute 10 ÷ 5, seeking a precise numerical answer."
+    },
+    {
+      "ID": 9642,
+      "Speaker": "T",
+      "Turn": 70,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9643,
+      "Speaker": "T",
+      "Turn": 70,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher sets up the next calculation (25 ÷ 2) expecting students to supply an exact value."
+    },
+    {
+      "ID": 9644,
+      "Speaker": "T",
+      "Turn": 70,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Utterance invites students to finish the statement by providing the specific number of groups."
+    },
+    {
+      "ID": 9645,
+      "Speaker": "T",
+      "Turn": 71,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9646,
+      "Speaker": "T",
+      "Turn": 71,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Teacher redirects collective attention to the first table to ensure the class is focused on the same part of the task."
+    },
+    {
+      "ID": 9647,
+      "Speaker": "T",
+      "Turn": 71,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks for the specific value that belongs in a particular cell of the table."
+    },
+    {
+      "ID": 9648,
+      "Speaker": "T",
+      "Turn": 71,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9649,
+      "Speaker": "T",
+      "Turn": 71,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9650,
+      "Speaker": "T",
+      "Turn": 71,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher verbalizes the response shown by multiple students, restating it in their own words to the class."
+    },
+    {
+      "ID": 9651,
+      "Speaker": "T",
+      "Turn": 71,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher asks students to explain the thinking that led to the answer 'two.'"
+    },
+    {
+      "ID": 9652,
+      "Speaker": "T",
+      "Turn": 71,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9654,
+      "Speaker": "T",
+      "Turn": 72,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher asks why the student chose a fraction circle, prompting justification of the representation."
+    },
+    {
+      "ID": 9655,
+      "Speaker": "T",
+      "Turn": 72,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher probes deeper, asking the student to connect the representation to the quantities in the problem."
+    }
+  ]
+}

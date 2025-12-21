@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 2538,
+      "Speaker": "T",
+      "Turn": 16,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher prompts a student to provide the exact product of 400 × 6, eliciting a specific numerical answer."
+    },
+    {
+      "ID": 2540,
+      "Speaker": "T",
+      "Turn": 18,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2541,
+      "Speaker": "T",
+      "Turn": 18,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks another student to compute 700 × 5, requesting a precise calculation."
+    },
+    {
+      "ID": 2543,
+      "Speaker": "T",
+      "Turn": 20,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks the student to state the exact number of zeros, focusing on correctness of the numerical representation."
+    },
+    {
+      "ID": 2545,
+      "Speaker": "T",
+      "Turn": 22,
+      "TalkMove": "Restating",
+      "Reasoning": "Teacher echoes the student’s response \"Two\" to acknowledge and reflect it back."
+    },
+    {
+      "ID": 2547,
+      "Speaker": "T",
+      "Turn": 24,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2548,
+      "Speaker": "T",
+      "Turn": 24,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2549,
+      "Speaker": "T",
+      "Turn": 24,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher calls on a student to compute 900 × 8, seeking an exact numeric answer."
+    },
+    {
+      "ID": 2551,
+      "Speaker": "T",
+      "Turn": 26,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2552,
+      "Speaker": "T",
+      "Turn": 26,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher asks students to share the equation they created, prompting them to reveal and justify their mathematical representation."
+    },
+    {
+      "ID": 2553,
+      "Speaker": "T",
+      "Turn": 26,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher directly asks a student to state what they wrote, eliciting the student’s thinking."
+    },
+    {
+      "ID": 2555,
+      "Speaker": "T",
+      "Turn": 28,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher requests the specific equation the student used, encouraging explicit articulation of their method."
+    },
+    {
+      "ID": 2557,
+      "Speaker": "T",
+      "Turn": 30,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2558,
+      "Speaker": "T",
+      "Turn": 30,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher reminds students of the requirement to include a variable for the unknown, emphasizing correct mathematical notation."
+    },
+    {
+      "ID": 2559,
+      "Speaker": "T",
+      "Turn": 30,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks which letter will be used to represent the unknown, focusing on precise symbolic representation."
+    },
+    {
+      "ID": 2561,
+      "Speaker": "T",
+      "Turn": 32,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher restates the student’s equation (540 ÷ 9) in her own words to clarify and confirm understanding."
+    },
+    {
+      "ID": 2562,
+      "Speaker": "T",
+      "Turn": 32,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher checks whether the student used the correct division symbol, prompting attention to precise notation."
+    },
+    {
+      "ID": 2564,
+      "Speaker": "T",
+      "Turn": 34,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher follows up to confirm if the student indeed used the symbol, seeking an exact affirmation."
+    },
+    {
+      "ID": 2565,
+      "Speaker": "T",
+      "Turn": 34,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2566,
+      "Speaker": "T",
+      "Turn": 34,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "Teacher invites others to share if they used a different symbol for the same equation, prompting comparison with a peer’s method."
+    }
+  ]
+}

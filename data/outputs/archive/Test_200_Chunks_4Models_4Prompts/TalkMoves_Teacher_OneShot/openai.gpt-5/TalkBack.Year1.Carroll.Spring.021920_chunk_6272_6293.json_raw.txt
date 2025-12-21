@@ -1,0 +1,102 @@
+{
+  "records": [
+    {
+      "ID": 6272,
+      "Speaker": "T",
+      "Turn": 77,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks if anyone used a specific representation (drawing a picture), prompting a mathematical contribution."
+    },
+    {
+      "ID": 6274,
+      "Speaker": "T",
+      "Turn": 79,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 6275,
+      "Speaker": "T",
+      "Turn": 79,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Prompts students to share if they used another strategy."
+    },
+    {
+      "ID": 6276,
+      "Speaker": "T",
+      "Turn": 80,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 6278,
+      "Speaker": "T",
+      "Turn": 81,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Directly asks a student whether they used another strategy."
+    },
+    {
+      "ID": 6280,
+      "Speaker": "T",
+      "Turn": 83,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Requests the student to name the strategy they used."
+    },
+    {
+      "ID": 6281,
+      "Speaker": "T",
+      "Turn": 83,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Guides the student to state the strategy succinctly, focusing on mathematical description."
+    },
+    {
+      "ID": 6284,
+      "Speaker": "T",
+      "Turn": 85,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Invites additional students to contribute their strategies."
+    },
+    {
+      "ID": 6285,
+      "Speaker": "T",
+      "Turn": 86,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 6286,
+      "Speaker": "T",
+      "Turn": 87,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Requests the student to show their work, prompting evidence for their idea."
+    },
+    {
+      "ID": 6288,
+      "Speaker": "T",
+      "Turn": 89,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks the student to specify the method (long/traditional division)."
+    },
+    {
+      "ID": 6289,
+      "Speaker": "T",
+      "Turn": 89,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Further prompts identification of the algorithm (partial quotients)."
+    },
+    {
+      "ID": 6292,
+      "Speaker": "T",
+      "Turn": 91,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 6293,
+      "Speaker": "T",
+      "Turn": 91,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

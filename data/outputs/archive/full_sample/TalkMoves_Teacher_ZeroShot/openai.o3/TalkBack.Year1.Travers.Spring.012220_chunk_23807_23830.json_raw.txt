@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 23807,
+      "Speaker": "T",
+      "Turn": 23807,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23808,
+      "Speaker": "T",
+      "Turn": 23808,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23809,
+      "Speaker": "T",
+      "Turn": 23809,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23810,
+      "Speaker": "T",
+      "Turn": 23810,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks for the exact wording of what the math problem is asking, prompting a precise mathematical contribution."
+    },
+    {
+      "ID": 23811,
+      "Speaker": "T",
+      "Turn": 23811,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23812,
+      "Speaker": "T",
+      "Turn": 23812,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Repeated prompt for students to state precisely what the problem is asking."
+    },
+    {
+      "ID": 23814,
+      "Speaker": "T",
+      "Turn": 23814,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher directs students to state the mathematical expression '15 divided by five,' focusing on correct mathematical language."
+    },
+    {
+      "ID": 23815,
+      "Speaker": "T",
+      "Turn": 23815,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Asks students to explain how they determined the answer."
+    },
+    {
+      "ID": 23816,
+      "Speaker": "T",
+      "Turn": 23816,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Specifically solicits Jayden’s reasoning behind his answer."
+    },
+    {
+      "ID": 23817,
+      "Speaker": "T",
+      "Turn": 23817,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Requests a drawing to support the student’s thinking, asking for representation of reasoning."
+    },
+    {
+      "ID": 23818,
+      "Speaker": "T",
+      "Turn": 23818,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23819,
+      "Speaker": "T",
+      "Turn": 23819,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks for a volunteer to state exactly what the problem is asking, focusing on correct mathematical interpretation."
+    },
+    {
+      "ID": 23820,
+      "Speaker": "T",
+      "Turn": 23820,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23821,
+      "Speaker": "T",
+      "Turn": 23821,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Directs students to face classmates and reminds them of listening norms, orienting the whole class to the speaker."
+    },
+    {
+      "ID": 23823,
+      "Speaker": "T",
+      "Turn": 23823,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Reinforces the collective responsibility to listen for understanding."
+    },
+    {
+      "ID": 23824,
+      "Speaker": "T",
+      "Turn": 23824,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "Encourages students to compare their understanding with Emma’s, prompting them to relate to her explanation."
+    },
+    {
+      "ID": 23825,
+      "Speaker": "T",
+      "Turn": 23825,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23827,
+      "Speaker": "T",
+      "Turn": 23827,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Requests a precise statement of what the problem is asking."
+    },
+    {
+      "ID": 23829,
+      "Speaker": "T",
+      "Turn": 23829,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23830,
+      "Speaker": "T",
+      "Turn": 23830,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Facilitates turn-taking by asking the student to call on someone else, keeping the class engaged in the discussion."
+    }
+  ]
+}

@@ -1,0 +1,242 @@
+{
+  "records": [
+    {
+      "ID": 21975,
+      "Speaker": "T",
+      "Turn": 158,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher paraphrases the student’s step, confirming the result as -2x."
+    },
+    {
+      "ID": 21976,
+      "Speaker": "T",
+      "Turn": 158,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21978,
+      "Speaker": "T",
+      "Turn": 160,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student’s idea of dividing by two, adding that it “gets rid of that.”"
+    },
+    {
+      "ID": 21980,
+      "Speaker": "T",
+      "Turn": 162,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher summarizes Tobias’s contribution as isolating the radical, using different wording."
+    },
+    {
+      "ID": 21981,
+      "Speaker": "T",
+      "Turn": 162,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks what it will take to isolate the radical, prompting explanation of the steps."
+    },
+    {
+      "ID": 21982,
+      "Speaker": "T",
+      "Turn": 162,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21983,
+      "Speaker": "T",
+      "Turn": 162,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21984,
+      "Speaker": "T",
+      "Turn": 162,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21985,
+      "Speaker": "T",
+      "Turn": 162,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21986,
+      "Speaker": "T",
+      "Turn": 162,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21987,
+      "Speaker": "T",
+      "Turn": 162,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21988,
+      "Speaker": "T",
+      "Turn": 162,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21989,
+      "Speaker": "T",
+      "Turn": 162,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the specific next mathematical step after isolating the radical."
+    },
+    {
+      "ID": 21991,
+      "Speaker": "T",
+      "Turn": 166,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21992,
+      "Speaker": "T",
+      "Turn": 166,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher restates the previously mentioned step (square both sides leading to x^2), echoing student input."
+    },
+    {
+      "ID": 21993,
+      "Speaker": "T",
+      "Turn": 166,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21994,
+      "Speaker": "T",
+      "Turn": 166,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21995,
+      "Speaker": "T",
+      "Turn": 166,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21996,
+      "Speaker": "T",
+      "Turn": 166,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks what procedure to use given the quadratic, prompting a specific mathematical action."
+    },
+    {
+      "ID": 21998,
+      "Speaker": "T",
+      "Turn": 168,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student’s suggestion to factor and elaborates on what that entails."
+    },
+    {
+      "ID": 21999,
+      "Speaker": "T",
+      "Turn": 168,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks which quantities to subtract, prompting precise mathematical choice."
+    },
+    {
+      "ID": 22001,
+      "Speaker": "T",
+      "Turn": 170,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks for the rationale behind preferring one move over another."
+    },
+    {
+      "ID": 22003,
+      "Speaker": "T",
+      "Turn": 172,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher restates the student’s reason, adding clarification about having a positive 1 with x^2."
+    },
+    {
+      "ID": 22004,
+      "Speaker": "T",
+      "Turn": 172,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22005,
+      "Speaker": "T",
+      "Turn": 172,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for specific factor pairs that meet given conditions."
+    },
+    {
+      "ID": 22007,
+      "Speaker": "T",
+      "Turn": 174,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to name the exact factors."
+    },
+    {
+      "ID": 22009,
+      "Speaker": "T",
+      "Turn": 176,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22010,
+      "Speaker": "T",
+      "Turn": 176,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22011,
+      "Speaker": "T",
+      "Turn": 176,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22012,
+      "Speaker": "T",
+      "Turn": 176,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22013,
+      "Speaker": "T",
+      "Turn": 176,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22014,
+      "Speaker": "T",
+      "Turn": 176,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22015,
+      "Speaker": "T",
+      "Turn": 176,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22016,
+      "Speaker": "T",
+      "Turn": 176,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

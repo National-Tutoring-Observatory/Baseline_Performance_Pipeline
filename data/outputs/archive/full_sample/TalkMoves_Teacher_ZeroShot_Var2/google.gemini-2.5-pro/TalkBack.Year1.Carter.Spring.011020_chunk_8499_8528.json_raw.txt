@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 8499,
+      "Speaker": "T",
+      "Turn": 8499,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8500,
+      "Speaker": "T",
+      "Turn": 8500,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8501,
+      "Speaker": "T",
+      "Turn": 8501,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8502,
+      "Speaker": "T",
+      "Turn": 8502,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8505,
+      "Speaker": "T",
+      "Turn": 8505,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8506,
+      "Speaker": "T",
+      "Turn": 8506,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8507,
+      "Speaker": "T",
+      "Turn": 8507,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8509,
+      "Speaker": "T",
+      "Turn": 8509,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks a student to share a method, which prompts them to explain their thinking or process."
+    },
+    {
+      "ID": 8510,
+      "Speaker": "T",
+      "Turn": 8510,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8511,
+      "Speaker": "T",
+      "Turn": 8511,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8512,
+      "Speaker": "T",
+      "Turn": 8512,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8514,
+      "Speaker": "T",
+      "Turn": 8514,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8515,
+      "Speaker": "T",
+      "Turn": 8515,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts a student to recall and explain a mathematical process they have been practicing."
+    },
+    {
+      "ID": 8517,
+      "Speaker": "T",
+      "Turn": 8517,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to be more specific and complete in their mathematical statement."
+    },
+    {
+      "ID": 8519,
+      "Speaker": "T",
+      "Turn": 8519,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8520,
+      "Speaker": "T",
+      "Turn": 8520,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to clarify their statement and be more mathematically precise."
+    },
+    {
+      "ID": 8522,
+      "Speaker": "T",
+      "Turn": 8522,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's contribution word for word."
+    },
+    {
+      "ID": 8524,
+      "Speaker": "T",
+      "Turn": 8524,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to continue and complete the mathematical procedure they are describing."
+    },
+    {
+      "ID": 8526,
+      "Speaker": "T",
+      "Turn": 8526,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's contribution word for word."
+    },
+    {
+      "ID": 8528,
+      "Speaker": "T",
+      "Turn": 8528,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases the student's idea about multiplying the numerator and denominator by the same number into a more colloquial rule."
+    }
+  ]
+}

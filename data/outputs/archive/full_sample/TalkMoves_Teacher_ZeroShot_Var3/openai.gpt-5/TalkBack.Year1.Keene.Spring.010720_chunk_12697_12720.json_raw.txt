@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 12697,
+      "Speaker": "T",
+      "Turn": 12697,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12698,
+      "Speaker": "T",
+      "Turn": 12698,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher paraphrases the class’s responses by summarizing that there is a mixture but mostly whole numbers."
+    },
+    {
+      "ID": 12699,
+      "Speaker": "T",
+      "Turn": 12699,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks a student to explain their thinking."
+    },
+    {
+      "ID": 12700,
+      "Speaker": "T",
+      "Turn": 12700,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks why the student thinks it’s a whole first, prompting justification."
+    },
+    {
+      "ID": 12702,
+      "Speaker": "T",
+      "Turn": 12702,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher restates the question to orient the class to the task."
+    },
+    {
+      "ID": 12703,
+      "Speaker": "T",
+      "Turn": 12703,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to classify numbers using mathematical language (whole numbers or decimals)."
+    },
+    {
+      "ID": 12704,
+      "Speaker": "T",
+      "Turn": 12704,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks for a justification (‘so why’)."
+    },
+    {
+      "ID": 12706,
+      "Speaker": "T",
+      "Turn": 12706,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks about the presence of decimal points, focusing on a defining mathematical feature."
+    },
+    {
+      "ID": 12708,
+      "Speaker": "T",
+      "Turn": 12708,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12709,
+      "Speaker": "T",
+      "Turn": 12709,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12710,
+      "Speaker": "T",
+      "Turn": 12710,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks students to recall the definition of a decimal."
+    },
+    {
+      "ID": 12711,
+      "Speaker": "T",
+      "Turn": 12711,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher prompts students to recall and consider Bailey’s contribution."
+    },
+    {
+      "ID": 12712,
+      "Speaker": "T",
+      "Turn": 12712,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12713,
+      "Speaker": "T",
+      "Turn": 12713,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher directs the class to think about Bailey’s idea."
+    },
+    {
+      "ID": 12714,
+      "Speaker": "T",
+      "Turn": 12714,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12716,
+      "Speaker": "T",
+      "Turn": 12716,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher connects the current comment to Josie’s earlier idea to orient the class to peers’ contributions."
+    },
+    {
+      "ID": 12717,
+      "Speaker": "T",
+      "Turn": 12717,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks how the fraction and decimal are the same, prompting explanation and connection of ideas."
+    },
+    {
+      "ID": 12718,
+      "Speaker": "T",
+      "Turn": 12718,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher prompts students to talk with their neighbors, orienting them to each other."
+    },
+    {
+      "ID": 12719,
+      "Speaker": "T",
+      "Turn": 12719,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher asks students to review together what was discussed earlier, keeping the class oriented."
+    },
+    {
+      "ID": 12720,
+      "Speaker": "T",
+      "Turn": 12720,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the precise idea the class stated previously."
+    }
+  ]
+}

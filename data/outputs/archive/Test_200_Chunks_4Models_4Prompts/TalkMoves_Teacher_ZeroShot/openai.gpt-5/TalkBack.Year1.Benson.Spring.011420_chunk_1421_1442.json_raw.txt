@@ -1,0 +1,98 @@
+{
+  "records": [
+    {
+      "ID": 1422,
+      "Speaker": "T",
+      "Turn": 189
+    },
+    {
+      "ID": 1423,
+      "Speaker": "T",
+      "Turn": 189,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for a specific quantity in eighths, prompting a precise mathematical contribution."
+    },
+    {
+      "ID": 1425,
+      "Speaker": "T",
+      "Turn": 191,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher restates the student's 'three' by counting it out, preserving meaning while changing wording."
+    },
+    {
+      "ID": 1426,
+      "Speaker": "T",
+      "Turn": 191
+    },
+    {
+      "ID": 1427,
+      "Speaker": "T",
+      "Turn": 191
+    },
+    {
+      "ID": 1428,
+      "Speaker": "T",
+      "Turn": 191
+    },
+    {
+      "ID": 1429,
+      "Speaker": "T",
+      "Turn": 191
+    },
+    {
+      "ID": 1430,
+      "Speaker": "T",
+      "Turn": 191
+    },
+    {
+      "ID": 1431,
+      "Speaker": "T",
+      "Turn": 191
+    },
+    {
+      "ID": 1432,
+      "Speaker": "T",
+      "Turn": 191,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks students to decide if the distance is more or less than a mile, eliciting a precise comparison."
+    },
+    {
+      "ID": 1434,
+      "Speaker": "T",
+      "Turn": 193,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts the student to explain how they solved the problem."
+    },
+    {
+      "ID": 1435,
+      "Speaker": "T",
+      "Turn": 193,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher invites the student to discuss whether they used a different approach, prompting explanation of thinking."
+    },
+    {
+      "ID": 1437,
+      "Speaker": "T",
+      "Turn": 195,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher paraphrases the student’s method as drawing a number line, restating the idea in new words."
+    },
+    {
+      "ID": 1439,
+      "Speaker": "T",
+      "Turn": 197
+    },
+    {
+      "ID": 1440,
+      "Speaker": "T",
+      "Turn": 197
+    },
+    {
+      "ID": 1441,
+      "Speaker": "T",
+      "Turn": 197,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to explain what they did to figure out the distance, prompting justification."
+    }
+  ]
+}

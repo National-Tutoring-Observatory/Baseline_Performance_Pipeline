@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 842,
+      "Speaker": "T",
+      "Turn": 842,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher asks Liam to explain his method for determining the whole (three-thirds)."
+    },
+    {
+      "ID": 843,
+      "Speaker": "T",
+      "Turn": 843,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 844,
+      "Speaker": "T",
+      "Turn": 844,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 845,
+      "Speaker": "T",
+      "Turn": 845,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 846,
+      "Speaker": "T",
+      "Turn": 846,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 847,
+      "Speaker": "T",
+      "Turn": 847,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Asks students to explain their strategy for making three thirds."
+    },
+    {
+      "ID": 848,
+      "Speaker": "T",
+      "Turn": 848,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Invites Alice to articulate her thinking."
+    },
+    {
+      "ID": 850,
+      "Speaker": "T",
+      "Turn": 850,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher restates Alice’s idea in her own words to confirm understanding."
+    },
+    {
+      "ID": 851,
+      "Speaker": "T",
+      "Turn": 851,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Continues the revoicing by explicitly checking if the paraphrase matches Alice’s statement."
+    },
+    {
+      "ID": 853,
+      "Speaker": "T",
+      "Turn": 853,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Prompts the class to listen to Alice’s contribution."
+    },
+    {
+      "ID": 854,
+      "Speaker": "T",
+      "Turn": 854,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Checks that students understood the prior contribution."
+    },
+    {
+      "ID": 855,
+      "Speaker": "T",
+      "Turn": 855,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Asks Nate to restate Alice’s idea, ensuring shared understanding."
+    },
+    {
+      "ID": 857,
+      "Speaker": "T",
+      "Turn": 857,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Pushes Nate to accurately recount what Alice said, maintaining collective focus."
+    },
+    {
+      "ID": 858,
+      "Speaker": "T",
+      "Turn": 858,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "Invites students to think about and build on Alice’s method for finding one-third."
+    },
+    {
+      "ID": 859,
+      "Speaker": "T",
+      "Turn": 859,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Challenges students to justify how to determine one third from two thirds."
+    },
+    {
+      "ID": 861,
+      "Speaker": "T",
+      "Turn": 861,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Requests repetition of a peer’s idea to ensure group comprehension."
+    },
+    {
+      "ID": 863,
+      "Speaker": "T",
+      "Turn": 863,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher restates the student’s explanation about finding equivalent pieces."
+    },
+    {
+      "ID": 864,
+      "Speaker": "T",
+      "Turn": 864,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 865,
+      "Speaker": "T",
+      "Turn": 865,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Summarizes Alice’s initial guess, rephrasing her idea for the class."
+    },
+    {
+      "ID": 866,
+      "Speaker": "T",
+      "Turn": 866,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Prompts students to find precise pieces that match the given size, focusing on exact equivalence."
+    }
+  ]
+}

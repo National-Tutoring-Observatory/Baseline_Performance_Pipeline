@@ -1,0 +1,150 @@
+{
+  "records": [
+    {
+      "ID": 20417,
+      "Turn": 37,
+      "Speaker": "T",
+      "Sentence": "Those answers are on the board for you to check your work",
+      "TalkMove": null
+    },
+    {
+      "ID": 20418,
+      "Turn": 38,
+      "Speaker": "T",
+      "Sentence": "So how can I use maybe this portion",
+      "TalkMove": "Pressing for Accuracy"
+    },
+    {
+      "ID": 20419,
+      "Turn": 39,
+      "Speaker": "S",
+      "Sentence": "I got mostly the right answers"
+    },
+    {
+      "ID": 20420,
+      "Turn": 40,
+      "Speaker": "T",
+      "Sentence": "Anything to the zero power is what",
+      "TalkMove": "Pressing for Accuracy"
+    },
+    {
+      "ID": 20421,
+      "Turn": 41,
+      "Speaker": "S",
+      "Sentence": "Zero"
+    },
+    {
+      "ID": 20422,
+      "Turn": 42,
+      "Speaker": "T",
+      "Sentence": "No",
+      "TalkMove": null
+    },
+    {
+      "ID": 20423,
+      "Turn": 43,
+      "Speaker": "S",
+      "Sentence": "Oh one"
+    },
+    {
+      "ID": 20424,
+      "Turn": 44,
+      "Speaker": "T",
+      "Sentence": "One",
+      "TalkMove": "Restating"
+    },
+    {
+      "ID": 20425,
+      "Turn": 44,
+      "Speaker": "T",
+      "Sentence": "is the answer to that one",
+      "TalkMove": null
+    },
+    {
+      "ID": 20426,
+      "Turn": 45,
+      "Speaker": "S",
+      "Sentence": "Okay so how do we do exploration 3A"
+    },
+    {
+      "ID": 20427,
+      "Turn": 45,
+      "Speaker": "S",
+      "Sentence": "Did you really"
+    },
+    {
+      "ID": 20428,
+      "Turn": 46,
+      "Speaker": "S",
+      "Sentence": "Yes Im a genius"
+    },
+    {
+      "ID": 20429,
+      "Turn": 47,
+      "Speaker": "T",
+      "Sentence": "If were starting right now with what was it 98 or 96",
+      "TalkMove": "Keeping Everyone Together"
+    },
+    {
+      "ID": 20430,
+      "Turn": 48,
+      "Speaker": "S",
+      "Sentence": "nan"
+    },
+    {
+      "ID": 20431,
+      "Turn": 49,
+      "Speaker": "T",
+      "Sentence": "98   and two to the half",
+      "TalkMove": "Keeping Everyone Together"
+    },
+    {
+      "ID": 20432,
+      "Turn": 49,
+      "Speaker": "T",
+      "Sentence": "How can I rewrite it using this property",
+      "TalkMove": "Pressing for Accuracy"
+    },
+    {
+      "ID": 20433,
+      "Turn": 50,
+      "Speaker": "S",
+      "Sentence": "The brilliance at this table is impeccable"
+    },
+    {
+      "ID": 20434,
+      "Turn": 51,
+      "Speaker": "T",
+      "Sentence": "1024 is it a multiple of four",
+      "TalkMove": "Pressing for Accuracy"
+    },
+    {
+      "ID": 20435,
+      "Turn": 51,
+      "Speaker": "T",
+      "Sentence": "So think about that would be four times of what",
+      "TalkMove": "Pressing for Accuracy"
+    },
+    {
+      "ID": 20436,
+      "Turn": 52,
+      "Speaker": "T",
+      "Sentence": "Okay so what would this simplify to if I have a four  and Im taking the what root of that",
+      "TalkMove": "Pressing for Accuracy"
+    },
+    {
+      "ID": 20437,
+      "Turn": 53,
+      "Speaker": "T",
+      "Sentence": "All right have you checked your answers to one and two",
+      "TalkMove": "Keeping Everyone Together"
+    },
+    {
+      "ID": 20438,
+      "Turn": 53,
+      "Speaker": "T",
+      "Sentence": "Have you checked your answers",
+      "TalkMove": "Keeping Everyone Together"
+    }
+  ]
+}

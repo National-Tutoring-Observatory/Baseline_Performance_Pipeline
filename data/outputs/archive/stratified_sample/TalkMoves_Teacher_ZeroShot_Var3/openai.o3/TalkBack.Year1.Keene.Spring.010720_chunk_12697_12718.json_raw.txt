@@ -1,0 +1,130 @@
+{
+  "records": [
+    {
+      "ID": 12697,
+      "Speaker": "T",
+      "Turn": 97,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12698,
+      "Speaker": "T",
+      "Turn": 97,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Teacher summarizes the range of student responses so the whole class knows the current status of ideas."
+    },
+    {
+      "ID": 12699,
+      "Speaker": "T",
+      "Turn": 97,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher explicitly asks Lennox to explain his thinking, prompting justification."
+    },
+    {
+      "ID": 12700,
+      "Speaker": "T",
+      "Turn": 97,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks \"Why do you think…?\" pushing the student to articulate reasoning."
+    },
+    {
+      "ID": 12702,
+      "Speaker": "T",
+      "Turn": 98,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Restates the problem for the class, orienting everyone to the focus of discussion."
+    },
+    {
+      "ID": 12703,
+      "Speaker": "T",
+      "Turn": 98,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Requests a precise mathematical classification (whole numbers or decimals)."
+    },
+    {
+      "ID": 12704,
+      "Speaker": "T",
+      "Turn": 98,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Asks the student to justify why they think the numbers are whole."
+    },
+    {
+      "ID": 12706,
+      "Speaker": "T",
+      "Turn": 100,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Checks for the specific feature (decimal point) to verify the numerical form."
+    },
+    {
+      "ID": 12708,
+      "Speaker": "T",
+      "Turn": 102,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12709,
+      "Speaker": "T",
+      "Turn": 102,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12710,
+      "Speaker": "T",
+      "Turn": 102,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks students to recall the formal definition of a decimal, seeking precise mathematical content."
+    },
+    {
+      "ID": 12711,
+      "Speaker": "T",
+      "Turn": 102,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "Directs students to consider Bailey’s earlier contribution."
+    },
+    {
+      "ID": 12712,
+      "Speaker": "T",
+      "Turn": 102,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12713,
+      "Speaker": "T",
+      "Turn": 103,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "Encourages students to connect current thinking to Bailey’s prior statement."
+    },
+    {
+      "ID": 12714,
+      "Speaker": "T",
+      "Turn": 103,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12716,
+      "Speaker": "T",
+      "Turn": 105,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "References and acknowledges Josie’s earlier idea to keep all students aware of the discussion thread."
+    },
+    {
+      "ID": 12717,
+      "Speaker": "T",
+      "Turn": 105,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Recalls an earlier comparison and asks students how the two quantities are the same, prompting explanation."
+    },
+    {
+      "ID": 12718,
+      "Speaker": "T",
+      "Turn": 105,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "Instructs students to discuss with peers, encouraging them to engage with each other’s thinking."
+    }
+  ]
+}

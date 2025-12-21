@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 9648,
+      "Speaker": "T",
+      "Turn": 9648,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher prompts students to physically demonstrate their answer, requesting a specific mathematical contribution."
+    },
+    {
+      "ID": 9649,
+      "Speaker": "T",
+      "Turn": 9649,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9650,
+      "Speaker": "T",
+      "Turn": 9650,
+      "TalkMove": "Restating",
+      "Reasoning": "Teacher repeats the class’s answer \"two\" exactly as students showed it."
+    },
+    {
+      "ID": 9651,
+      "Speaker": "T",
+      "Turn": 9651,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Asks students to explain the process that led to the answer."
+    },
+    {
+      "ID": 9652,
+      "Speaker": "T",
+      "Turn": 9652,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9654,
+      "Speaker": "T",
+      "Turn": 9654,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Questions the choice of representation, prompting explanation."
+    },
+    {
+      "ID": 9655,
+      "Speaker": "T",
+      "Turn": 9655,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Further presses students to justify using a fraction circle given the numbers involved."
+    },
+    {
+      "ID": 9656,
+      "Speaker": "T",
+      "Turn": 9656,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Again asks why that representation is appropriate, seeking explanation."
+    },
+    {
+      "ID": 9657,
+      "Speaker": "T",
+      "Turn": 9657,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "States confusion to encourage students to clarify their reasoning."
+    },
+    {
+      "ID": 9659,
+      "Speaker": "T",
+      "Turn": 9659,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9660,
+      "Speaker": "T",
+      "Turn": 9660,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Asks whether making a fraction circle is necessary, prompting justification."
+    },
+    {
+      "ID": 9661,
+      "Speaker": "T",
+      "Turn": 9661,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9662,
+      "Speaker": "T",
+      "Turn": 9662,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Requests a method for finding 1/5 of various numbers, seeking explanation."
+    },
+    {
+      "ID": 9663,
+      "Speaker": "T",
+      "Turn": 9663,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Instructs all students to discuss the rule with partners, orienting them toward collective engagement."
+    },
+    {
+      "ID": 9664,
+      "Speaker": "T",
+      "Turn": 9664,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks a student to state the rule itself, requesting a precise mathematical statement."
+    },
+    {
+      "ID": 9665,
+      "Speaker": "T",
+      "Turn": 9665,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Seeks an explanation of how the rule operates."
+    },
+    {
+      "ID": 9667,
+      "Speaker": "T",
+      "Turn": 9667,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Prompts for specific numerical details (‘How many groups of what?’), asking for precise mathematical information."
+    },
+    {
+      "ID": 9669,
+      "Speaker": "T",
+      "Turn": 9669,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9670,
+      "Speaker": "T",
+      "Turn": 9670,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Encourages the student to generalize the rule, prompting deeper explanation."
+    },
+    {
+      "ID": 9671,
+      "Speaker": "T",
+      "Turn": 9671,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher restates the student’s rule in her own words and adds an illustrative example, modifying and extending the student idea."
+    }
+  ]
+}

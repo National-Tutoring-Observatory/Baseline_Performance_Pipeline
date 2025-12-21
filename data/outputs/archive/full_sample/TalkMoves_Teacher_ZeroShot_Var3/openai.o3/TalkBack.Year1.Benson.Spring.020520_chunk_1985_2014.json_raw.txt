@@ -1,0 +1,139 @@
+{
+  "records": [
+    {
+      "ID": 1985,
+      "Speaker": "T",
+      "Turn": 1985,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher checks whether the student’s numerical answer is 180, prompting them to state the exact result."
+    },
+    {
+      "ID": 1987,
+      "Speaker": "T",
+      "Turn": 1987,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks if the order of multiplication matters, encouraging students to justify the commutative property."
+    },
+    {
+      "ID": 1989,
+      "Speaker": "T",
+      "Turn": 1989,
+      "TalkMove": "None"
+    },
+    {
+      "ID": 1990,
+      "Speaker": "T",
+      "Turn": 1990,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks students to confirm the specific factors they are multiplying."
+    },
+    {
+      "ID": 1992,
+      "Speaker": "T",
+      "Turn": 1992,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "By asking \"Would it work?\" the teacher prompts students to justify whether the multiplication order is valid."
+    },
+    {
+      "ID": 1993,
+      "Speaker": "T",
+      "Turn": 1993,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher requests the exact product of 3 × 2."
+    },
+    {
+      "ID": 1995,
+      "Speaker": "T",
+      "Turn": 1995,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the precise result of 6 × 30."
+    },
+    {
+      "ID": 1997,
+      "Speaker": "T",
+      "Turn": 1997,
+      "TalkMove": "None"
+    },
+    {
+      "ID": 1998,
+      "Speaker": "T",
+      "Turn": 1998,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the expression \"6 × 30,\" echoing what was just stated to highlight it for the class."
+    },
+    {
+      "ID": 1999,
+      "Speaker": "T",
+      "Turn": 1999,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the exact value of 6 × 3."
+    },
+    {
+      "ID": 2001,
+      "Speaker": "T",
+      "Turn": 2001,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher summarizes the student’s conclusion by rephrasing it: confirming that the method \"would work.\""
+    },
+    {
+      "ID": 2002,
+      "Speaker": "T",
+      "Turn": 2002,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher orients the class by summarizing that the previous work pertained to jugglers, ensuring shared understanding."
+    },
+    {
+      "ID": 2003,
+      "Speaker": "T",
+      "Turn": 2003,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher signals the next task (tap dancers), guiding the whole class to the new focus."
+    },
+    {
+      "ID": 2004,
+      "Speaker": "T",
+      "Turn": 2004,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a student to provide a specific numerical model for the tap dancers problem."
+    },
+    {
+      "ID": 2006,
+      "Speaker": "T",
+      "Turn": 2006,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher requests an explanation for choosing 33 × 2, prompting the student to justify their reasoning."
+    },
+    {
+      "ID": 2008,
+      "Speaker": "T",
+      "Turn": 2008,
+      "TalkMove": "None"
+    },
+    {
+      "ID": 2009,
+      "Speaker": "T",
+      "Turn": 2009,
+      "TalkMove": "None"
+    },
+    {
+      "ID": 2010,
+      "Speaker": "T",
+      "Turn": 2010,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the computed product of 33 × 2, eliciting a specific numerical answer."
+    },
+    {
+      "ID": 2012,
+      "Speaker": "T",
+      "Turn": 2012,
+      "TalkMove": "None"
+    },
+    {
+      "ID": 2014,
+      "Speaker": "T",
+      "Turn": 2014,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher clarifies and summarizes that the current focus is on six tap dancers, helping the class stay oriented."
+    }
+  ]
+}

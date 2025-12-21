@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 21619,
+      "Speaker": "T",
+      "Turn": 21619,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21620,
+      "Speaker": "T",
+      "Turn": 21620,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21621,
+      "Speaker": "T",
+      "Turn": 21621,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21622,
+      "Speaker": "T",
+      "Turn": 21622,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21623,
+      "Speaker": "T",
+      "Turn": 21623,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21624,
+      "Speaker": "T",
+      "Turn": 21624,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21625,
+      "Speaker": "T",
+      "Turn": 21625,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21627,
+      "Speaker": "T",
+      "Turn": 21627,
+      "TalkMove": "Restating",
+      "Reasoning": "Teacher repeats the student-supplied page number verbatim to verify it."
+    },
+    {
+      "ID": 21628,
+      "Speaker": "T",
+      "Turn": 21628,
+      "TalkMove": "Restating",
+      "Reasoning": "Teacher restates another student-offered page number exactly."
+    },
+    {
+      "ID": 21630,
+      "Speaker": "T",
+      "Turn": 21630,
+      "TalkMove": "Restating",
+      "Reasoning": "Teacher echoes a further page number suggestion without alteration."
+    },
+    {
+      "ID": 21631,
+      "Speaker": "T",
+      "Turn": 21631,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21632,
+      "Speaker": "T",
+      "Turn": 21632,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21633,
+      "Speaker": "T",
+      "Turn": 21633,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21634,
+      "Speaker": "T",
+      "Turn": 21634,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21635,
+      "Speaker": "T",
+      "Turn": 21635,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher begins a question (“How can you…”) prompting students to explain how to proceed with the problem."
+    },
+    {
+      "ID": 21636,
+      "Speaker": "T",
+      "Turn": 21636,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher directs students to factor 384, requesting a precise mathematical decomposition."
+    },
+    {
+      "ID": 21637,
+      "Speaker": "T",
+      "Turn": 21637,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks if students obtained the final factorization, seeking the exact correct answer."
+    },
+    {
+      "ID": 21638,
+      "Speaker": "T",
+      "Turn": 21638,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher rephrases and sequences the factors students have offered, adding structure (“All right so 2×192 …”)."
+    },
+    {
+      "ID": 21639,
+      "Speaker": "T",
+      "Turn": 21639,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher restates the multiplication of factors, adding clarification and asking for confirmation (“…that’s 8×2×3, right?”)."
+    },
+    {
+      "ID": 21640,
+      "Speaker": "T",
+      "Turn": 21640,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher restates the equivalence 8×6 = 48, elaborating on the factorization previously discussed."
+    }
+  ]
+}

@@ -1,0 +1,315 @@
+{
+  "records": [
+    {
+      "ID": 22804,
+      "Speaker": "T",
+      "Turn": 140,
+      "TalkMove": "None"
+    },
+    {
+      "ID": 22805,
+      "Speaker": "T",
+      "Turn": 140,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher summarizes the mathematical result (1/4 equals 3/12), likely building on a student’s contribution and clarifying it."
+    },
+    {
+      "ID": 22806,
+      "Speaker": "T",
+      "Turn": 140,
+      "TalkMove": "None"
+    },
+    {
+      "ID": 22807,
+      "Speaker": "T",
+      "Turn": 140,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks how the student would do the problem, prompting an explanation of their approach."
+    },
+    {
+      "ID": 22808,
+      "Speaker": "T",
+      "Turn": 141,
+      "TalkMove": "None"
+    },
+    {
+      "ID": 22809,
+      "Speaker": "T",
+      "Turn": 142,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks specifically what to do to 1/3, prompting a precise mathematical operation."
+    },
+    {
+      "ID": 22810,
+      "Speaker": "T",
+      "Turn": 142,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher requests the specific multiplier for 1/3, eliciting a precise mathematical contribution."
+    },
+    {
+      "ID": 22811,
+      "Speaker": "T",
+      "Turn": 143,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher directs a student to show a peer, orienting students to each other’s work."
+    },
+    {
+      "ID": 22812,
+      "Speaker": "T",
+      "Turn": 143,
+      "TalkMove": "None"
+    },
+    {
+      "ID": 22813,
+      "Speaker": "T",
+      "Turn": 144,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to use the mathematical term 'times,' encouraging precise language."
+    },
+    {
+      "ID": 22815,
+      "Speaker": "T",
+      "Turn": 146,
+      "TalkMove": "None"
+    },
+    {
+      "ID": 22816,
+      "Speaker": "T",
+      "Turn": 146,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the resulting value, seeking a specific mathematical answer."
+    },
+    {
+      "ID": 22817,
+      "Speaker": "T",
+      "Turn": 147,
+      "TalkMove": "None"
+    },
+    {
+      "ID": 22818,
+      "Speaker": "T",
+      "Turn": 147,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher poses a new problem and asks what it equals, eliciting a precise answer."
+    },
+    {
+      "ID": 22819,
+      "Speaker": "T",
+      "Turn": 147,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks what students got, prompting them to provide the computed result."
+    },
+    {
+      "ID": 22821,
+      "Speaker": "T",
+      "Turn": 149,
+      "TalkMove": "None"
+    },
+    {
+      "ID": 22822,
+      "Speaker": "T",
+      "Turn": 149,
+      "TalkMove": "None"
+    },
+    {
+      "ID": 22823,
+      "Speaker": "T",
+      "Turn": 150,
+      "TalkMove": "None"
+    },
+    {
+      "ID": 22824,
+      "Speaker": "T",
+      "Turn": 150,
+      "TalkMove": "None"
+    },
+    {
+      "ID": 22825,
+      "Speaker": "T",
+      "Turn": 151,
+      "TalkMove": "None"
+    },
+    {
+      "ID": 22826,
+      "Speaker": "T",
+      "Turn": 151,
+      "TalkMove": "None"
+    },
+    {
+      "ID": 22827,
+      "Speaker": "T",
+      "Turn": 151,
+      "TalkMove": "None"
+    },
+    {
+      "ID": 22828,
+      "Speaker": "T",
+      "Turn": 151,
+      "TalkMove": "None"
+    },
+    {
+      "ID": 22829,
+      "Speaker": "T",
+      "Turn": 151,
+      "TalkMove": "None"
+    },
+    {
+      "ID": 22830,
+      "Speaker": "T",
+      "Turn": 151,
+      "TalkMove": "None"
+    },
+    {
+      "ID": 22831,
+      "Speaker": "T",
+      "Turn": 151,
+      "TalkMove": "None"
+    },
+    {
+      "ID": 22832,
+      "Speaker": "T",
+      "Turn": 152,
+      "TalkMove": "None"
+    },
+    {
+      "ID": 22833,
+      "Speaker": "T",
+      "Turn": 152,
+      "TalkMove": "None"
+    },
+    {
+      "ID": 22834,
+      "Speaker": "T",
+      "Turn": 152,
+      "TalkMove": "None"
+    },
+    {
+      "ID": 22835,
+      "Speaker": "T",
+      "Turn": 152,
+      "TalkMove": "None"
+    },
+    {
+      "ID": 22836,
+      "Speaker": "T",
+      "Turn": 152,
+      "TalkMove": "None"
+    },
+    {
+      "ID": 22838,
+      "Speaker": "T",
+      "Turn": 154,
+      "TalkMove": "None"
+    },
+    {
+      "ID": 22839,
+      "Speaker": "T",
+      "Turn": 154,
+      "TalkMove": "None"
+    },
+    {
+      "ID": 22840,
+      "Speaker": "T",
+      "Turn": 154,
+      "TalkMove": "None"
+    },
+    {
+      "ID": 22841,
+      "Speaker": "T",
+      "Turn": 154,
+      "TalkMove": "None"
+    },
+    {
+      "ID": 22842,
+      "Speaker": "T",
+      "Turn": 154,
+      "TalkMove": "None"
+    },
+    {
+      "ID": 22843,
+      "Speaker": "T",
+      "Turn": 154,
+      "TalkMove": "None"
+    },
+    {
+      "ID": 22845,
+      "Speaker": "T",
+      "Turn": 156,
+      "TalkMove": "None"
+    },
+    {
+      "ID": 22849,
+      "Speaker": "T",
+      "Turn": 160,
+      "TalkMove": "None"
+    },
+    {
+      "ID": 22850,
+      "Speaker": "T",
+      "Turn": 160,
+      "TalkMove": "None"
+    },
+    {
+      "ID": 22851,
+      "Speaker": "T",
+      "Turn": 160,
+      "TalkMove": "None"
+    },
+    {
+      "ID": 22852,
+      "Speaker": "T",
+      "Turn": 160,
+      "TalkMove": "None"
+    },
+    {
+      "ID": 22853,
+      "Speaker": "T",
+      "Turn": 160,
+      "TalkMove": "None"
+    },
+    {
+      "ID": 22854,
+      "Speaker": "T",
+      "Turn": 160,
+      "TalkMove": "None"
+    },
+    {
+      "ID": 22855,
+      "Speaker": "T",
+      "Turn": 160,
+      "TalkMove": "None"
+    },
+    {
+      "ID": 22856,
+      "Speaker": "T",
+      "Turn": 160,
+      "TalkMove": "None"
+    },
+    {
+      "ID": 22857,
+      "Speaker": "T",
+      "Turn": 161,
+      "TalkMove": "None"
+    },
+    {
+      "ID": 22858,
+      "Speaker": "T",
+      "Turn": 162,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to state the rule explicitly, eliciting precise mathematical language."
+    },
+    {
+      "ID": 22859,
+      "Speaker": "T",
+      "Turn": 163,
+      "TalkMove": "None"
+    },
+    {
+      "ID": 22860,
+      "Speaker": "T",
+      "Turn": 163,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher invites the whole class to say the rule together, orienting all students to participate."
+    }
+  ]
+}

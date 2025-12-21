@@ -1,0 +1,312 @@
+{
+  "records": [
+    {
+      "ID": 22122,
+      "Speaker": "T",
+      "Turn": 231,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher prompts students to state the numeric result on the left side."
+    },
+    {
+      "ID": 22124,
+      "Speaker": "T",
+      "Turn": 233,
+      "TalkMove": "Restating",
+      "Reasoning": "Teacher repeats the student's answer \"eight\" verbatim."
+    },
+    {
+      "ID": 22125,
+      "Speaker": "T",
+      "Turn": 233,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher asks the student to describe the next procedural step."
+    },
+    {
+      "ID": 22127,
+      "Speaker": "T",
+      "Turn": 235,
+      "TalkMove": "Restating",
+      "Reasoning": "Teacher echoes the student's informal term \"flippy thingy.\""
+    },
+    {
+      "ID": 22129,
+      "Speaker": "T",
+      "Turn": 237,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks specifically what is being flipped, seeking a precise answer."
+    },
+    {
+      "ID": 22131,
+      "Speaker": "T",
+      "Turn": 239,
+      "TalkMove": "Restating",
+      "Reasoning": "Teacher repeats the student’s phrase \"the three fourth.\""
+    },
+    {
+      "ID": 22132,
+      "Speaker": "T",
+      "Turn": 239,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks for the correct mathematical term for flipping a fraction."
+    },
+    {
+      "ID": 22135,
+      "Speaker": "T",
+      "Turn": 242,
+      "TalkMove": "Restating",
+      "Reasoning": "Teacher repeats the student’s correct term \"Reciprocal.\""
+    },
+    {
+      "ID": 22137,
+      "Speaker": "T",
+      "Turn": 244,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22138,
+      "Speaker": "T",
+      "Turn": 244,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher invites students to supply the product of the two fractions."
+    },
+    {
+      "ID": 22140,
+      "Speaker": "T",
+      "Turn": 246,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22141,
+      "Speaker": "T",
+      "Turn": 246,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22142,
+      "Speaker": "T",
+      "Turn": 246,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher asks students how to conceptualize 8^(4/3) without a calculator, requesting explanation."
+    },
+    {
+      "ID": 22145,
+      "Speaker": "T",
+      "Turn": 249,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22146,
+      "Speaker": "T",
+      "Turn": 249,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22147,
+      "Speaker": "T",
+      "Turn": 249,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22148,
+      "Speaker": "T",
+      "Turn": 249,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22149,
+      "Speaker": "T",
+      "Turn": 249,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22150,
+      "Speaker": "T",
+      "Turn": 250,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22151,
+      "Speaker": "T",
+      "Turn": 250,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22152,
+      "Speaker": "T",
+      "Turn": 250,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22153,
+      "Speaker": "T",
+      "Turn": 250,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher cues a student to provide the final procedural step."
+    },
+    {
+      "ID": 22155,
+      "Speaker": "T",
+      "Turn": 251,
+      "TalkMove": "Restating",
+      "Reasoning": "Teacher repeats the student’s suggestion to \"divide by two.\""
+    },
+    {
+      "ID": 22156,
+      "Speaker": "T",
+      "Turn": 251,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher prompts students to state the resulting value of x."
+    },
+    {
+      "ID": 22158,
+      "Speaker": "T",
+      "Turn": 253,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22159,
+      "Speaker": "T",
+      "Turn": 253,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22160,
+      "Speaker": "T",
+      "Turn": 253,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22161,
+      "Speaker": "T",
+      "Turn": 253,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22164,
+      "Speaker": "T",
+      "Turn": 256,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22166,
+      "Speaker": "T",
+      "Turn": 258,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22167,
+      "Speaker": "T",
+      "Turn": 258,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22168,
+      "Speaker": "T",
+      "Turn": 258,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks for the first procedural step in a new example."
+    },
+    {
+      "ID": 22170,
+      "Speaker": "T",
+      "Turn": 260,
+      "TalkMove": "Restating",
+      "Reasoning": "Teacher repeats the student’s observation that the expression is already isolated."
+    },
+    {
+      "ID": 22171,
+      "Speaker": "T",
+      "Turn": 260,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks the student to specify what exactly is isolated."
+    },
+    {
+      "ID": 22173,
+      "Speaker": "T",
+      "Turn": 262,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22174,
+      "Speaker": "T",
+      "Turn": 262,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks which exponent to raise both sides to."
+    },
+    {
+      "ID": 22176,
+      "Speaker": "T",
+      "Turn": 264,
+      "TalkMove": "Restating",
+      "Reasoning": "Teacher repeats the student's fraction \"two over one.\""
+    },
+    {
+      "ID": 22177,
+      "Speaker": "T",
+      "Turn": 264,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher prompts the student to identify that 2/1 means squaring."
+    },
+    {
+      "ID": 22179,
+      "Speaker": "T",
+      "Turn": 266,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher rephrases the student’s single word \"squared\" into a fuller mathematical instruction."
+    },
+    {
+      "ID": 22181,
+      "Speaker": "T",
+      "Turn": 268,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22183,
+      "Speaker": "T",
+      "Turn": 270,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22184,
+      "Speaker": "T",
+      "Turn": 270,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22185,
+      "Speaker": "T",
+      "Turn": 270,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher asks student to choose an algebraic action based on the structure of the equation."
+    },
+    {
+      "ID": 22187,
+      "Speaker": "T",
+      "Turn": 272,
+      "TalkMove": "Restating",
+      "Reasoning": "Teacher repeats the student's response about subtracting x."
+    }
+  ]
+}

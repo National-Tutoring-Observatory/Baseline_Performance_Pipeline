@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 1218,
+      "Speaker": "T",
+      "Turn": 1218,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1219,
+      "Speaker": "T",
+      "Turn": 1219,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the students to explain the process and justification for their decision ('talk through how we know')."
+    },
+    {
+      "ID": 1220,
+      "Speaker": "T",
+      "Turn": 1220,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks students to identify the specific mathematical components (numbers) to be added."
+    },
+    {
+      "ID": 1221,
+      "Speaker": "T",
+      "Turn": 1221,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher directs a question to a specific student to identify the specific items/numbers to be added in the model."
+    },
+    {
+      "ID": 1223,
+      "Speaker": "T",
+      "Turn": 1223,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to connect the abstract number (2/3) to its meaning in the specific context of the problem."
+    },
+    {
+      "ID": 1225,
+      "Speaker": "T",
+      "Turn": 1225,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's answer but adds detail ('can of paint that he used') to clarify the contribution."
+    },
+    {
+      "ID": 1226,
+      "Speaker": "T",
+      "Turn": 1226,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to connect a specific fraction (1/3) to what it represents in the story context."
+    },
+    {
+      "ID": 1228,
+      "Speaker": "T",
+      "Turn": 1228,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's list of characters ('Sister one sister two and sister three') word for word."
+    },
+    {
+      "ID": 1229,
+      "Speaker": "T",
+      "Turn": 1229,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a yes/no question regarding the specific mathematical form of the answer."
+    },
+    {
+      "ID": 1230,
+      "Speaker": "T",
+      "Turn": 1230,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for a definition of a mathematical term ('improper fraction')."
+    },
+    {
+      "ID": 1232,
+      "Speaker": "T",
+      "Turn": 1232,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1233,
+      "Speaker": "T",
+      "Turn": 1233,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1235,
+      "Speaker": "T",
+      "Turn": 1235,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1236,
+      "Speaker": "T",
+      "Turn": 1236,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1238,
+      "Speaker": "T",
+      "Turn": 1238,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1239,
+      "Speaker": "T",
+      "Turn": 1239,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1241,
+      "Speaker": "T",
+      "Turn": 1241,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1242,
+      "Speaker": "T",
+      "Turn": 1242,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1243,
+      "Speaker": "T",
+      "Turn": 1243,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1247,
+      "Speaker": "T",
+      "Turn": 1247,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

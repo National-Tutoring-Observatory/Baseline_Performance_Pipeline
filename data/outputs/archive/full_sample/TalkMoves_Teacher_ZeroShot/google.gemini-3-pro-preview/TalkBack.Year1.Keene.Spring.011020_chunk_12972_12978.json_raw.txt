@@ -1,0 +1,53 @@
+{
+  "records": [
+    {
+      "ID": 12972,
+      "Speaker": "T",
+      "Turn": 12972,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12973,
+      "Speaker": "T",
+      "Turn": 12973,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12974,
+      "Speaker": "T",
+      "Turn": 12974,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to think about and identify where they would encounter decimals in a real-world context (a gas station), prompting them to connect mathematical concepts to a visual representation."
+    },
+    {
+      "ID": 12975,
+      "Speaker": "T",
+      "Turn": 12975,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12976,
+      "Speaker": "T",
+      "Turn": 12976,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher reminds students of the specific focus of the activity (looking for decimals) to ensure the whole class remains oriented to the learning goal."
+    },
+    {
+      "ID": 12977,
+      "Speaker": "T",
+      "Turn": 12977,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher redirects attention back to the main focus (decimals) despite the distraction of zooming in on the image, keeping the class oriented to the task."
+    },
+    {
+      "ID": 12978,
+      "Speaker": "T",
+      "Turn": 12978,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher directs students to share their thinking with a partner ('pink partner'), which is a move designed to orient students to each other and facilitate active listening/sharing."
+    }
+  ]
+}

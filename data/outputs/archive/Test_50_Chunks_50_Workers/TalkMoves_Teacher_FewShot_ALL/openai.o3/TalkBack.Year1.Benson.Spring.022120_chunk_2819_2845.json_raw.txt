@@ -1,0 +1,95 @@
+{
+  "records": [
+    {
+      "ID": 2829,
+      "Speaker": "T",
+      "Turn": 1,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2830,
+      "Speaker": "T",
+      "Turn": 1,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher asks students who wrote a decimal to raise their hands, prompting the whole class to signal participation and stay oriented to the discussion."
+    },
+    {
+      "ID": 2831,
+      "Speaker": "T",
+      "Turn": 1,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher requests Ally to share the specific decimal she wrote, eliciting a precise mathematical contribution."
+    },
+    {
+      "ID": 2833,
+      "Speaker": "T",
+      "Turn": 3,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "By asking if a particular written form is acceptable, the teacher checks the correctness of the mathematical representation."
+    },
+    {
+      "ID": 2835,
+      "Speaker": "T",
+      "Turn": 5,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher again inquires whether a displayed notation is correct, seeking confirmation of mathematical accuracy."
+    },
+    {
+      "ID": 2837,
+      "Speaker": "T",
+      "Turn": 7,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher repeats the question about the acceptability of another representation, continuing to probe for mathematical correctness."
+    },
+    {
+      "ID": 2839,
+      "Speaker": "T",
+      "Turn": 9,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2840,
+      "Speaker": "T",
+      "Turn": 9,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2841,
+      "Speaker": "T",
+      "Turn": 9,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher directs students' attention (“We're over here”), orienting the class to the current focus."
+    },
+    {
+      "ID": 2842,
+      "Speaker": "T",
+      "Turn": 9,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2843,
+      "Speaker": "T",
+      "Turn": 9,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2844,
+      "Speaker": "T",
+      "Turn": 9,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher asks students who have a decimal for 7/10 to show their hands, coordinating class participation."
+    },
+    {
+      "ID": 2845,
+      "Speaker": "T",
+      "Turn": 9,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher calls on Austin to state what he wrote, soliciting his specific mathematical answer."
+    }
+  ]
+}

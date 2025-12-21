@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 11523,
+      "Speaker": "T",
+      "Turn": 11523,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11525,
+      "Speaker": "T",
+      "Turn": 11525,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases a likely student contribution to clarify the idea for the class."
+    },
+    {
+      "ID": 11526,
+      "Speaker": "T",
+      "Turn": 11526,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher makes a student's likely incorrect idea more specific to put it up for discussion."
+    },
+    {
+      "ID": 11527,
+      "Speaker": "T",
+      "Turn": 11527,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11529,
+      "Speaker": "T",
+      "Turn": 11529,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases a likely student contribution to clarify the idea for the class."
+    },
+    {
+      "ID": 11530,
+      "Speaker": "T",
+      "Turn": 11530,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher makes a student's likely incorrect idea more specific and mathematical to put it up for discussion."
+    },
+    {
+      "ID": 11531,
+      "Speaker": "T",
+      "Turn": 11531,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to provide a precise mathematical answer, correcting a previous misconception."
+    },
+    {
+      "ID": 11533,
+      "Speaker": "T",
+      "Turn": 11533,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats a student's correct answer while adding mathematical notation to formalize it."
+    },
+    {
+      "ID": 11534,
+      "Speaker": "T",
+      "Turn": 11534,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to provide evidence for their mathematical claim."
+    },
+    {
+      "ID": 11536,
+      "Speaker": "T",
+      "Turn": 11536,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts the student to provide a specific form of evidence (a drawing) to justify their answer."
+    },
+    {
+      "ID": 11537,
+      "Speaker": "T",
+      "Turn": 11537,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher explicitly asks the student to share their thought process."
+    },
+    {
+      "ID": 11539,
+      "Speaker": "T",
+      "Turn": 11539,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher asks the rest of the class to respond to the student's contribution."
+    },
+    {
+      "ID": 11540,
+      "Speaker": "T",
+      "Turn": 11540,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher specifically asks other students if they agree with their classmate's idea."
+    },
+    {
+      "ID": 11542,
+      "Speaker": "T",
+      "Turn": 11542,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11543,
+      "Speaker": "T",
+      "Turn": 11543,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11544,
+      "Speaker": "T",
+      "Turn": 11544,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher asks other students to respond to their classmate's contribution."
+    },
+    {
+      "ID": 11545,
+      "Speaker": "T",
+      "Turn": 11545,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher prompts the class to evaluate the drawing provided by their classmate."
+    },
+    {
+      "ID": 11546,
+      "Speaker": "T",
+      "Turn": 11546,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher prompts the class to evaluate the explanation provided by their classmate."
+    },
+    {
+      "ID": 11547,
+      "Speaker": "T",
+      "Turn": 11547,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11548,
+      "Speaker": "T",
+      "Turn": 11548,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

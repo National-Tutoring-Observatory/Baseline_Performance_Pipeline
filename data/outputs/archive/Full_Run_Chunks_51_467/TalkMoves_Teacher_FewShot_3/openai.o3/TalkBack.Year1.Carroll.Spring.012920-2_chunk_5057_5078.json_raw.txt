@@ -1,0 +1,130 @@
+{
+  "records": [
+    {
+      "ID": 5057,
+      "Speaker": "T",
+      "Turn": 203,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5058,
+      "Speaker": "T",
+      "Turn": 203,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher announces that more detail is needed, signaling students to elaborate beyond the initial contribution."
+    },
+    {
+      "ID": 5059,
+      "Speaker": "T",
+      "Turn": 203,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "By inviting the student to \"add,\" the teacher encourages building on the previous speaker’s idea."
+    },
+    {
+      "ID": 5063,
+      "Speaker": "T",
+      "Turn": 205,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher restates the previous contribution ('That's what Robert said'), paraphrasing it for the class."
+    },
+    {
+      "ID": 5064,
+      "Speaker": "T",
+      "Turn": 205,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher explicitly requests additional explanation ('I want more')."
+    },
+    {
+      "ID": 5065,
+      "Speaker": "T",
+      "Turn": 205,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Asking 'What's your explanation?' prompts the student to articulate reasoning."
+    },
+    {
+      "ID": 5066,
+      "Speaker": "T",
+      "Turn": 205,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5067,
+      "Speaker": "T",
+      "Turn": 205,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Uttering 'Listening' reminds and orients the class to pay attention to the speaker."
+    },
+    {
+      "ID": 5068,
+      "Speaker": "T",
+      "Turn": 205,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5070,
+      "Speaker": "T",
+      "Turn": 207,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5071,
+      "Speaker": "T",
+      "Turn": 207,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Requesting 'What's your answer?' asks the student to state a specific mathematical result."
+    },
+    {
+      "ID": 5072,
+      "Speaker": "T",
+      "Turn": 208,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5073,
+      "Speaker": "T",
+      "Turn": 208,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher summarizes the class's shared understanding, rephrasing their idea about not subtracting denominators."
+    },
+    {
+      "ID": 5074,
+      "Speaker": "T",
+      "Turn": 208,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "By asking what the other groups said, the teacher invites those students to share and connect their thinking to the ongoing discussion."
+    },
+    {
+      "ID": 5075,
+      "Speaker": "T",
+      "Turn": 208,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5076,
+      "Speaker": "T",
+      "Turn": 208,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5077,
+      "Speaker": "T",
+      "Turn": 208,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5078,
+      "Speaker": "T",
+      "Turn": 208,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher says 'We are listening' to orient and engage all students in attending to the speaker."
+    }
+  ]
+}

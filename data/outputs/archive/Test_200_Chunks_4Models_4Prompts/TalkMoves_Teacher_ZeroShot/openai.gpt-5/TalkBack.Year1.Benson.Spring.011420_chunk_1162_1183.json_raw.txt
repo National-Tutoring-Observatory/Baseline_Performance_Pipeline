@@ -1,0 +1,137 @@
+{
+  "records": [
+    {
+      "ID": 1162,
+      "Speaker": "T",
+      "Turn": 71,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1163,
+      "Speaker": "T",
+      "Turn": 71,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1165,
+      "Speaker": "T",
+      "Turn": 73,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks whether there were six pieces in the whole, prompting a correct interpretation of the whole's partition."
+    },
+    {
+      "ID": 1166,
+      "Speaker": "T",
+      "Turn": 73,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Asks 'How do we know...?' to elicit justification for why it wasn't six pieces."
+    },
+    {
+      "ID": 1167,
+      "Speaker": "T",
+      "Turn": 73,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Prompts the student to supply the specific mathematical amount ('what' they ate)."
+    },
+    {
+      "ID": 1169,
+      "Speaker": "T",
+      "Turn": 75,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Repeats the student's '1/3' and adds an explanation about the denominator’s meaning."
+    },
+    {
+      "ID": 1170,
+      "Speaker": "T",
+      "Turn": 75,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1171,
+      "Speaker": "T",
+      "Turn": 75,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Prompts students to state how many total pieces are in the whole (the denominator)."
+    },
+    {
+      "ID": 1172,
+      "Speaker": "T",
+      "Turn": 75,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1173,
+      "Speaker": "T",
+      "Turn": 75,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1174,
+      "Speaker": "T",
+      "Turn": 75,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1175,
+      "Speaker": "T",
+      "Turn": 75,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1176,
+      "Speaker": "T",
+      "Turn": 75,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1177,
+      "Speaker": "T",
+      "Turn": 75,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1178,
+      "Speaker": "T",
+      "Turn": 75,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1179,
+      "Speaker": "T",
+      "Turn": 75,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1181,
+      "Speaker": "T",
+      "Turn": 77,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1182,
+      "Speaker": "T",
+      "Turn": 77,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks for the total amount eaten, eliciting a specific mathematical quantity."
+    },
+    {
+      "ID": 1183,
+      "Speaker": "T",
+      "Turn": 77,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Poses a what-if question about whether the answer would stay the same, inviting justification."
+    }
+  ]
+}

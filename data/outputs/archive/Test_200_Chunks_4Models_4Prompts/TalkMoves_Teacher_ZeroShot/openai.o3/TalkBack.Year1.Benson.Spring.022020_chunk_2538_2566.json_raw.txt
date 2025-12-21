@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 2538,
+      "Speaker": "T",
+      "Turn": 16,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher prompts Lennox to supply the exact product of 400 × 6."
+    },
+    {
+      "ID": 2540,
+      "Speaker": "T",
+      "Turn": 18,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2541,
+      "Speaker": "T",
+      "Turn": 18,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks Charles to compute 700 × 5, requesting a precise numerical answer."
+    },
+    {
+      "ID": 2543,
+      "Speaker": "T",
+      "Turn": 20,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks student to identify the number of zeros, focusing attention on the correct notation."
+    },
+    {
+      "ID": 2545,
+      "Speaker": "T",
+      "Turn": 22,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher repeats the student’s answer \"Two\" and begins to elaborate (\"Two so…\")."
+    },
+    {
+      "ID": 2547,
+      "Speaker": "T",
+      "Turn": 24,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2548,
+      "Speaker": "T",
+      "Turn": 24,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2549,
+      "Speaker": "T",
+      "Turn": 24,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher requests Amy to compute 900 × 8, eliciting a specific calculation."
+    },
+    {
+      "ID": 2551,
+      "Speaker": "T",
+      "Turn": 26,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2552,
+      "Speaker": "T",
+      "Turn": 26,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks students to provide their exact number model or equation."
+    },
+    {
+      "ID": 2553,
+      "Speaker": "T",
+      "Turn": 26,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks Jonathan to state the equation he wrote, seeking the precise mathematical expression."
+    },
+    {
+      "ID": 2555,
+      "Speaker": "T",
+      "Turn": 28,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher reiterates the request for the exact equation, focusing on correct mathematical notation."
+    },
+    {
+      "ID": 2557,
+      "Speaker": "T",
+      "Turn": 30,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2558,
+      "Speaker": "T",
+      "Turn": 30,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher reminds class of the requirement to use a variable, emphasizing correct mathematical form."
+    },
+    {
+      "ID": 2559,
+      "Speaker": "T",
+      "Turn": 30,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks which letter should represent the unknown, directing students to specify exact notation."
+    },
+    {
+      "ID": 2561,
+      "Speaker": "T",
+      "Turn": 32,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher restates the student’s division equation, modeling the correct representation."
+    },
+    {
+      "ID": 2562,
+      "Speaker": "T",
+      "Turn": 32,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher checks whether the student used the correct division symbol, focusing on precise mathematical language."
+    },
+    {
+      "ID": 2564,
+      "Speaker": "T",
+      "Turn": 34,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher seeks confirmation about the symbol used, prompting precision in notation."
+    },
+    {
+      "ID": 2565,
+      "Speaker": "T",
+      "Turn": 34,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2566,
+      "Speaker": "T",
+      "Turn": 34,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "Teacher invites other students to share if they represented the same equation differently, prompting comparison to a peer’s idea."
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 1044,
+      "Speaker": "T",
+      "Turn": 1044,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1045,
+      "Speaker": "T",
+      "Turn": 1045,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1048,
+      "Speaker": "T",
+      "Turn": 1048,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1049,
+      "Speaker": "T",
+      "Turn": 1049,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1050,
+      "Speaker": "T",
+      "Turn": 1050,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher asks a student to read aloud to the class, orienting everyone to the shared text and that student's contribution."
+    },
+    {
+      "ID": 1053,
+      "Speaker": "T",
+      "Turn": 1053,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to identify the unknown they need to find, eliciting a precise mathematical contribution."
+    },
+    {
+      "ID": 1054,
+      "Speaker": "T",
+      "Turn": 1054,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "By asking a specific student to state what needs to be found, the teacher elicits the exact mathematical goal of the problem."
+    },
+    {
+      "ID": 1056,
+      "Speaker": "T",
+      "Turn": 1056,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the known information in the problem, prompting students to state precise given quantities."
+    },
+    {
+      "ID": 1057,
+      "Speaker": "T",
+      "Turn": 1057,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks students to specify the pieces of information they know, targeting accurate identification of givens."
+    },
+    {
+      "ID": 1058,
+      "Speaker": "T",
+      "Turn": 1058,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1060,
+      "Speaker": "T",
+      "Turn": 1060,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to write a number sentence, eliciting the use of mathematical representation and language."
+    },
+    {
+      "ID": 1062,
+      "Speaker": "T",
+      "Turn": 1062,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for a specific quantity from the context, requiring an exact numerical answer."
+    },
+    {
+      "ID": 1064,
+      "Speaker": "T",
+      "Turn": 1064,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks students to state precisely what the number 5 represents in the context."
+    },
+    {
+      "ID": 1065,
+      "Speaker": "T",
+      "Turn": 1065,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to identify what the number 7 represents in the problem."
+    },
+    {
+      "ID": 1068,
+      "Speaker": "T",
+      "Turn": 1068,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1069,
+      "Speaker": "T",
+      "Turn": 1069,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks students to interpret the meaning of 35 in the context, eliciting precise mathematical meaning."
+    },
+    {
+      "ID": 1071,
+      "Speaker": "T",
+      "Turn": 1071,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1072,
+      "Speaker": "T",
+      "Turn": 1072,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher invites a student to read the problem to the group, orienting the class to listen to a peer."
+    },
+    {
+      "ID": 1075,
+      "Speaker": "T",
+      "Turn": 1075,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a specific student to state the problem’s unknown, prompting an exact mathematical target."
+    },
+    {
+      "ID": 1077,
+      "Speaker": "T",
+      "Turn": 1077,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "After identifying the target computation, the teacher asks 'how do you know,' prompting justification and explanation of thinking."
+    }
+  ]
+}

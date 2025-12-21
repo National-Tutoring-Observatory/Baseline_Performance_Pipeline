@@ -1,0 +1,162 @@
+[
+  {
+    "ID": 11695,
+    "Turn": 239,
+    "Speaker": "T",
+    "Sentence": "23 of the half",
+    "TalkMove": "None",
+    "Reasoning": null
+  },
+  {
+    "ID": 11696,
+    "Turn": 239,
+    "Speaker": "T",
+    "Sentence": "Think are we going to just fold this in half like we did before",
+    "TalkMove": "Pressing for Reasoning",
+    "Reasoning": "The teacher prompts students to think about whether the previous procedure applies to the new problem, asking them to reason about the next step."
+  },
+  {
+    "ID": 11698,
+    "Turn": 241,
+    "Speaker": "T",
+    "Sentence": "No",
+    "TalkMove": "Restating",
+    "Reasoning": "The teacher repeats the student's one-word answer."
+  },
+  {
+    "ID": 11699,
+    "Turn": 241,
+    "Speaker": "T",
+    "Sentence": "Because how much did she eat of this",
+    "TalkMove": "Pressing for Reasoning",
+    "Reasoning": "The teacher asks students to provide a reason for their previous answer by connecting it to the context of the problem."
+  },
+  {
+    "ID": 11701,
+    "Turn": 243,
+    "Speaker": "T",
+    "Sentence": "How many parts do we have to fold this into",
+    "TalkMove": "Pressing for Accuracy",
+    "Reasoning": "The teacher prompts students for a specific, correct mathematical value needed for the procedure."
+  },
+  {
+    "ID": 11702,
+    "Turn": 243,
+    "Speaker": "T",
+    "Sentence": "Show me",
+    "TalkMove": "None",
+    "Reasoning": null
+  },
+  {
+    "ID": 11703,
+    "Turn": 243,
+    "Speaker": "T",
+    "Sentence": "Two folded into three",
+    "TalkMove": "Revoicing",
+    "Reasoning": "The teacher rephrases a student's action or idea about folding the paper, likely to clarify it before providing the correct procedure."
+  },
+  {
+    "ID": 11704,
+    "Turn": 243,
+    "Speaker": "T",
+    "Sentence": "We need to fold it into three equal parts",
+    "TalkMove": "Pressing for Accuracy",
+    "Reasoning": "The teacher clarifies the correct mathematical procedure, emphasizing the need for precision with 'three equal parts'."
+  },
+  {
+    "ID": 11705,
+    "Turn": 244,
+    "Speaker": "T",
+    "Sentence": "equal parts",
+    "TalkMove": "Pressing for Accuracy",
+    "Reasoning": "The teacher repeats and emphasizes a key mathematical term to ensure precision."
+  },
+  {
+    "ID": 11706,
+    "Turn": 245,
+    "Speaker": "T",
+    "Sentence": "Good yours should look like mine",
+    "TalkMove": "None",
+    "Reasoning": null
+  },
+  {
+    "ID": 11707,
+    "Turn": 245,
+    "Speaker": "T",
+    "Sentence": "How many of you have three equal",
+    "TalkMove": "None",
+    "Reasoning": null
+  },
+  {
+    "ID": 11708,
+    "Turn": 245,
+    "Speaker": "T",
+    "Sentence": "How many of you think you know how to shade",
+    "TalkMove": "None",
+    "Reasoning": null
+  },
+  {
+    "ID": 11709,
+    "Turn": 245,
+    "Speaker": "T",
+    "Sentence": "Good try it",
+    "TalkMove": "None",
+    "Reasoning": null
+  },
+  {
+    "ID": 11710,
+    "Turn": 245,
+    "Speaker": "T",
+    "Sentence": "Give it a shot",
+    "TalkMove": "None",
+    "Reasoning": null
+  },
+  {
+    "ID": 11711,
+    "Turn": 245,
+    "Speaker": "T",
+    "Sentence": "Shes going to eat 23 of what she had",
+    "TalkMove": "None",
+    "Reasoning": null
+  },
+  {
+    "ID": 11712,
+    "Turn": 245,
+    "Speaker": "T",
+    "Sentence": "Your marks need to go in the opposite direction",
+    "TalkMove": "None",
+    "Reasoning": null
+  },
+  {
+    "ID": 11713,
+    "Turn": 245,
+    "Speaker": "T",
+    "Sentence": "You need to fill it out",
+    "TalkMove": "None",
+    "Reasoning": null
+  },
+  {
+    "ID": 11714,
+    "Turn": 246,
+    "Speaker": "T",
+    "Sentence": "How many of you have something that looks like this",
+    "TalkMove": "Keeping Everyone Together",
+    "Reasoning": "The teacher pauses to have all students check their work against a common model, ensuring the group is at the same stage before proceeding."
+  },
+  {
+    "ID": 11715,
+    "Turn": 247,
+    "Speaker": "T",
+    "Sentence": "Does this represent the half of the pizza",
+    "TalkMove": "Pressing for Reasoning",
+    "Reasoning": "The teacher asks students to interpret their representation and explain what it shows."
+  },
+  {
+    "ID": 11716,
+    "Turn": 247,
+    "Speaker": "T",
+    "Sentence": "Are you going to shade in all three parts",
+    "TalkMove": "Pressing for Reasoning",
+    "Reasoning": "The teacher prompts students to justify their next action based on the constraints of the problem."
+  }
+]

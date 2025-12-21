@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 25397,
+      "Speaker": "T",
+      "Turn": 25397,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 25398,
+      "Speaker": "T",
+      "Turn": 25398,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 25399,
+      "Speaker": "T",
+      "Turn": 25399,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 25401,
+      "Speaker": "T",
+      "Turn": 25401,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats a part of the student's contribution (\"How many minutes\") to highlight it for the class."
+    },
+    {
+      "ID": 25402,
+      "Speaker": "T",
+      "Turn": 25402,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to explain the method they would use to solve the problem, prompting them to share their thinking process."
+    },
+    {
+      "ID": 25404,
+      "Speaker": "T",
+      "Turn": 25404,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to justify or explain the origin of a specific number used in their calculation, pressing for the thinking behind it."
+    },
+    {
+      "ID": 25407,
+      "Speaker": "T",
+      "Turn": 25407,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher corrects the student's mathematical language from \"adding the 0\" to \"attach the zero\" to be more precise about the operation."
+    },
+    {
+      "ID": 25408,
+      "Speaker": "T",
+      "Turn": 25408,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher repeats the corrected, more precise mathematical term \"attaching the 0\" to reinforce its use."
+    },
+    {
+      "ID": 25409,
+      "Speaker": "T",
+      "Turn": 25409,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases the student's likely verbal strategy into a formal mathematical expression, thereby clarifying and structuring the student's thinking."
+    },
+    {
+      "ID": 25411,
+      "Speaker": "T",
+      "Turn": 25411,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher continues to articulate the student's strategy, combining the result of the multiplication with the next step (\"attach the zero\") to guide the student's explanation."
+    },
+    {
+      "ID": 25413,
+      "Speaker": "T",
+      "Turn": 25413,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 25414,
+      "Speaker": "T",
+      "Turn": 25414,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 25415,
+      "Speaker": "T",
+      "Turn": 25415,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 25416,
+      "Speaker": "T",
+      "Turn": 25416,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 25419,
+      "Speaker": "T",
+      "Turn": 25419,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases the student's idea as a question to clarify the proposed strategy and check for understanding."
+    },
+    {
+      "ID": 25422,
+      "Speaker": "T",
+      "Turn": 25422,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 25423,
+      "Speaker": "T",
+      "Turn": 25423,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 25424,
+      "Speaker": "T",
+      "Turn": 25424,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 25425,
+      "Speaker": "T",
+      "Turn": 25425,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 25426,
+      "Speaker": "T",
+      "Turn": 25426,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

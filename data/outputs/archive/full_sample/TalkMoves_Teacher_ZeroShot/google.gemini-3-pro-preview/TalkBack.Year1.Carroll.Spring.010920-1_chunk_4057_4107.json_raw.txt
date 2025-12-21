@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 4057,
+      "Speaker": "T",
+      "Turn": 4057,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4064,
+      "Speaker": "T",
+      "Turn": 4064,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4073,
+      "Speaker": "T",
+      "Turn": 4073,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4074,
+      "Speaker": "T",
+      "Turn": 4074,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4075,
+      "Speaker": "T",
+      "Turn": 4075,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4076,
+      "Speaker": "T",
+      "Turn": 4076,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to explain their thinking ('how come you think')."
+    },
+    {
+      "ID": 4077,
+      "Speaker": "T",
+      "Turn": 4077,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to justify their specific answer ('How come you think its 25hundredths')."
+    },
+    {
+      "ID": 4079,
+      "Speaker": "T",
+      "Turn": 4079,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher verifies and repeats the student's stance ('You agree with the one in 2tenths')."
+    },
+    {
+      "ID": 4081,
+      "Speaker": "T",
+      "Turn": 4081,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4082,
+      "Speaker": "T",
+      "Turn": 4082,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4083,
+      "Speaker": "T",
+      "Turn": 4083,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4084,
+      "Speaker": "T",
+      "Turn": 4084,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4088,
+      "Speaker": "T",
+      "Turn": 4088,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4099,
+      "Speaker": "T",
+      "Turn": 4099,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4100,
+      "Speaker": "T",
+      "Turn": 4100,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4101,
+      "Speaker": "T",
+      "Turn": 4101,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4103,
+      "Speaker": "T",
+      "Turn": 4103,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to provide a specific mathematical answer regarding the inequality symbol."
+    },
+    {
+      "ID": 4105,
+      "Speaker": "T",
+      "Turn": 4105,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's answer ('One and two tenths') to confirm it before asking for justification."
+    },
+    {
+      "ID": 4106,
+      "Speaker": "T",
+      "Turn": 4106,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to explain the evidence for their answer ('How do you know')."
+    },
+    {
+      "ID": 4107,
+      "Speaker": "T",
+      "Turn": 4107,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

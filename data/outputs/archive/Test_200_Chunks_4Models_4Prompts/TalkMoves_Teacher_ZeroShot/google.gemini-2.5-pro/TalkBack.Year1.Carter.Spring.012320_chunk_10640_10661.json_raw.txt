@@ -1,0 +1,172 @@
+{
+  "records": [
+    {
+      "ID": 10640,
+      "Turn": 57,
+      "Speaker": "T",
+      "Sentence": "When you can apply one of the strategies",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10641,
+      "Turn": 57,
+      "Speaker": "T",
+      "Sentence": "Because were going to talk about a couple today in order for you to solve some problems",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10642,
+      "Turn": 57,
+      "Speaker": "T",
+      "Sentence": "Okay",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10643,
+      "Turn": 57,
+      "Speaker": "T",
+      "Sentence": "Did you finish your math message",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10645,
+      "Turn": 59,
+      "Speaker": "T",
+      "Sentence": "Did you talk with your partner",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10646,
+      "Turn": 60,
+      "Speaker": "T",
+      "Sentence": "Im going to have you talk with your partner about your work",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10647,
+      "Turn": 60,
+      "Speaker": "T",
+      "Sentence": "Let me give you one minute",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10648,
+      "Turn": 61,
+      "Speaker": "T",
+      "Sentence": "Okay what are your strategies",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts students to share their thinking or method for solving the problem."
+    },
+    {
+      "ID": 10649,
+      "Turn": 61,
+      "Speaker": "T",
+      "Sentence": "What is one strategy",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts a student to share their thinking or method."
+    },
+    {
+      "ID": 10650,
+      "Turn": 62,
+      "Speaker": "T",
+      "Sentence": "For problem one I should say specifically",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10651,
+      "Turn": 62,
+      "Speaker": "T",
+      "Sentence": "Im sorry",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10652,
+      "Turn": 62,
+      "Speaker": "T",
+      "Sentence": "I was too vague",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10653,
+      "Turn": 62,
+      "Speaker": "T",
+      "Sentence": "I apologize for interrupting you",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10654,
+      "Turn": 62,
+      "Speaker": "T",
+      "Sentence": "What was your strategy for problem one",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts a student to explain their thinking or method for a specific problem."
+    },
+    {
+      "ID": 10655,
+      "Turn": 63,
+      "Speaker": "T",
+      "Sentence": "You want to finish your explanation",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts a student to continue sharing their thinking and provide a more complete explanation."
+    },
+    {
+      "ID": 10656,
+      "Turn": 64,
+      "Speaker": "T",
+      "Sentence": "What do you think of his thinking",
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher explicitly asks a student to react to what a classmate said."
+    },
+    {
+      "ID": 10657,
+      "Turn": 64,
+      "Speaker": "T",
+      "Sentence": "When I heard your thinking I was thinking of when we put the calendars under the document camera and show the groups of five 15 broken into five groups",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10658,
+      "Turn": 64,
+      "Speaker": "T",
+      "Sentence": "Thank you",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10659,
+      "Turn": 64,
+      "Speaker": "T",
+      "Sentence": "That was definitely one strategy",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10660,
+      "Turn": 64,
+      "Speaker": "T",
+      "Sentence": "Who has a different strategy than that",
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher prompts students to compare their own strategy to the one just presented, thus reacting to a classmate's idea."
+    },
+    {
+      "ID": 10661,
+      "Turn": 64,
+      "Speaker": "T",
+      "Sentence": "Whats another strategy Roge",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts a specific student to share their thinking or an alternative method."
+    }
+  ]
+}

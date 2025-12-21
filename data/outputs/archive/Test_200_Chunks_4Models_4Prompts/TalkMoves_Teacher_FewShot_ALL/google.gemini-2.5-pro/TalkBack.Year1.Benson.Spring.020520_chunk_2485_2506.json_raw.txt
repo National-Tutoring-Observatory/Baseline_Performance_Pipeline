@@ -1,0 +1,140 @@
+{
+  "records": [
+    {
+      "ID": 2485,
+      "Turn": 333,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts the student to explain their process for solving the problem."
+    },
+    {
+      "ID": 2486,
+      "Turn": 334,
+      "Speaker": "S"
+    },
+    {
+      "ID": 2487,
+      "Turn": 335,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to explain the origin of a number used in their calculation, pressing for the thinking behind their choice."
+    },
+    {
+      "ID": 2488,
+      "Turn": 336,
+      "Speaker": "S"
+    },
+    {
+      "ID": 2489,
+      "Turn": 337,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to provide a more specific and accurate piece of information to support their reasoning."
+    },
+    {
+      "ID": 2490,
+      "Turn": 338,
+      "Speaker": "S"
+    },
+    {
+      "ID": 2491,
+      "Turn": 339,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's idea (that the number came from problem two) and adds clarifying information about what was found in that problem."
+    },
+    {
+      "ID": 2492,
+      "Turn": 339,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to explain the reasoning behind their choice of mathematical operation."
+    },
+    {
+      "ID": 2493,
+      "Turn": 340,
+      "Speaker": "S"
+    },
+    {
+      "ID": 2494,
+      "Turn": 341,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2495,
+      "Turn": 342,
+      "Speaker": "S"
+    },
+    {
+      "ID": 2496,
+      "Turn": 343,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2497,
+      "Turn": 343,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student for a specific and correct mathematical calculation as part of a larger problem."
+    },
+    {
+      "ID": 2498,
+      "Turn": 344,
+      "Speaker": "S"
+    },
+    {
+      "ID": 2499,
+      "Turn": 345,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student for a specific and correct mathematical calculation as part of a larger problem."
+    },
+    {
+      "ID": 2500,
+      "Turn": 346,
+      "Speaker": "S"
+    },
+    {
+      "ID": 2501,
+      "Turn": 347,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student for a specific and correct mathematical calculation as part of a larger problem."
+    },
+    {
+      "ID": 2502,
+      "Turn": 348,
+      "Speaker": "S"
+    },
+    {
+      "ID": 2503,
+      "Turn": 349,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to synthesize previous calculations to arrive at a final, correct answer."
+    },
+    {
+      "ID": 2504,
+      "Turn": 350,
+      "Speaker": "S"
+    },
+    {
+      "ID": 2505,
+      "Turn": 351,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2506,
+      "Turn": 351,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

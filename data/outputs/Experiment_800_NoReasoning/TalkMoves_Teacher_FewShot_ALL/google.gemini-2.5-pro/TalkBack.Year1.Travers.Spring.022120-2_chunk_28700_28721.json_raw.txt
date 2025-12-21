@@ -1,0 +1,154 @@
+{
+  "records": [
+    {
+      "ID": 28700,
+      "Turn": 238,
+      "Speaker": "S",
+      "Sentence": "Four"
+    },
+    {
+      "ID": 28701,
+      "Turn": 239,
+      "Speaker": "T",
+      "Sentence": "Well how many quarters are in a dollar",
+      "TalkMove": "Pressing for Accuracy"
+    },
+    {
+      "ID": 28702,
+      "Turn": 240,
+      "Speaker": "S",
+      "Sentence": "Four"
+    },
+    {
+      "ID": 28703,
+      "Turn": 241,
+      "Speaker": "T",
+      "Sentence": "Four",
+      "TalkMove": "Restating"
+    },
+    {
+      "ID": 28704,
+      "Turn": 241,
+      "Speaker": "T",
+      "Sentence": "One quarter means one out of four",
+      "TalkMove": null
+    },
+    {
+      "ID": 28705,
+      "Turn": 241,
+      "Speaker": "T",
+      "Sentence": "Were going onefourth of a turn or a quarter of a turn counterclockwise",
+      "TalkMove": null
+    },
+    {
+      "ID": 28706,
+      "Turn": 241,
+      "Speaker": "T",
+      "Sentence": "Heres my arrow",
+      "TalkMove": null
+    },
+    {
+      "ID": 28707,
+      "Turn": 241,
+      "Speaker": "T",
+      "Sentence": "Heres my arrow and Im going to go counterclockwise a quarter of a turn",
+      "TalkMove": null
+    },
+    {
+      "ID": 28708,
+      "Turn": 241,
+      "Speaker": "T",
+      "Sentence": "Yes",
+      "TalkMove": null
+    },
+    {
+      "ID": 28709,
+      "Turn": 241,
+      "Speaker": "T",
+      "Sentence": "You got it",
+      "TalkMove": null
+    },
+    {
+      "ID": 28710,
+      "Turn": 241,
+      "Speaker": "T",
+      "Sentence": "counterclockwise a quarter of a turn",
+      "TalkMove": null
+    },
+    {
+      "ID": 28711,
+      "Turn": 241,
+      "Speaker": "T",
+      "Sentence": "counterclockwise a quarter of a turn",
+      "TalkMove": null
+    },
+    {
+      "ID": 28712,
+      "Turn": 241,
+      "Speaker": "T",
+      "Sentence": "Okay",
+      "TalkMove": null
+    },
+    {
+      "ID": 28713,
+      "Turn": 241,
+      "Speaker": "T",
+      "Sentence": "Lets keep going",
+      "TalkMove": null
+    },
+    {
+      "ID": 28714,
+      "Turn": 241,
+      "Speaker": "T",
+      "Sentence": "Michael can you read Number 12 for us",
+      "TalkMove": "Keeping Everyone Together"
+    },
+    {
+      "ID": 28715,
+      "Turn": 242,
+      "Speaker": "S",
+      "Sentence": "Estimate the size of the angle"
+    },
+    {
+      "ID": 28716,
+      "Turn": 242,
+      "Speaker": "S",
+      "Sentence": "Circle the best answer"
+    },
+    {
+      "ID": 28717,
+      "Turn": 243,
+      "Speaker": "T",
+      "Sentence": "Okay",
+      "TalkMove": null
+    },
+    {
+      "ID": 28718,
+      "Turn": 243,
+      "Speaker": "T",
+      "Sentence": "I want everyone to think to themselves and were going to do thumbs up if I read what you think it is",
+      "TalkMove": "Keeping Everyone Together"
+    },
+    {
+      "ID": 28719,
+      "Turn": 243,
+      "Speaker": "T",
+      "Sentence": "Look at the angle ABC right here",
+      "TalkMove": "Keeping Everyone Together"
+    },
+    {
+      "ID": 28720,
+      "Turn": 243,
+      "Speaker": "T",
+      "Sentence": "Can you please thumbs up if you think angle ABC is between zero and 90 degrees",
+      "TalkMove": "Pressing for Accuracy"
+    },
+    {
+      "ID": 28721,
+      "Turn": 243,
+      "Speaker": "T",
+      "Sentence": "Thumbs up if you think its between 90 and 180",
+      "TalkMove": "Pressing for Accuracy"
+    }
+  ]
+}

@@ -1,0 +1,164 @@
+{
+  "records": [
+    {
+      "ID": 8812,
+      "Turn": 156,
+      "Speaker": "T",
+      "Sentence": "This time is partners A turn to talk first youre talking with your face partner ready",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8813,
+      "Turn": 156,
+      "Speaker": "T",
+      "Sentence": "Go",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8814,
+      "Turn": 157,
+      "Speaker": "T",
+      "Sentence": "I like your thinking but what if the number was 37",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher introduces a counterexample to challenge a student's idea, prompting them to test and refine their reasoning."
+    },
+    {
+      "ID": 8815,
+      "Turn": 157,
+      "Speaker": "T",
+      "Sentence": "Would three be a factor of 37",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher continues to press the student to apply their reasoning to the new scenario introduced in the previous utterance."
+    },
+    {
+      "ID": 8816,
+      "Turn": 157,
+      "Speaker": "T",
+      "Sentence": "Why not",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher explicitly asks the student to provide the reasoning behind their answer."
+    },
+    {
+      "ID": 8817,
+      "Turn": 157,
+      "Speaker": "T",
+      "Sentence": "What makes 3 a factor of 36 but not 37",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to explain the difference between two cases, which requires them to articulate the underlying mathematical concept."
+    },
+    {
+      "ID": 8819,
+      "Turn": 159,
+      "Speaker": "T",
+      "Sentence": "Right very nice",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8820,
+      "Turn": 159,
+      "Speaker": "T",
+      "Sentence": "Back to me please",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8821,
+      "Turn": 159,
+      "Speaker": "T",
+      "Sentence": "How do you know that 3 is a factor of 36",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to explain their thinking or provide evidence for their claim using the phrase 'How do you know'."
+    },
+    {
+      "ID": 8822,
+      "Turn": 159,
+      "Speaker": "T",
+      "Sentence": "Falicia",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8824,
+      "Turn": 161,
+      "Speaker": "T",
+      "Sentence": "You can split what into three groups equally",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to be more specific by clarifying the pronoun 'what', pushing for more precise mathematical language."
+    },
+    {
+      "ID": 8826,
+      "Turn": 163,
+      "Speaker": "T",
+      "Sentence": "Thats one way to prove that dividing it",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher begins to rephrase the student's idea of 'splitting' into the more formal mathematical term 'dividing'."
+    },
+    {
+      "ID": 8827,
+      "Turn": 163,
+      "Speaker": "T",
+      "Sentence": "36 divided by 3 would be even groups",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher completes the rephrasing of the student's idea, connecting 'splitting equally' to the mathematical concept of division."
+    },
+    {
+      "ID": 8828,
+      "Turn": 163,
+      "Speaker": "T",
+      "Sentence": "I like your thinking",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8829,
+      "Turn": 163,
+      "Speaker": "T",
+      "Sentence": "Whats another way to prove that Margo",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks for an alternative method of proof, prompting another student to share their reasoning."
+    },
+    {
+      "ID": 8831,
+      "Turn": 165,
+      "Speaker": "T",
+      "Sentence": "Nice thank you",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8832,
+      "Turn": 165,
+      "Speaker": "T",
+      "Sentence": "Whats another way to prove that Jackson",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks for another alternative method of proof, prompting a third student to share their reasoning."
+    },
+    {
+      "ID": 8834,
+      "Turn": 167,
+      "Speaker": "T",
+      "Sentence": "Im back at 36 is an even and an odd number",
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats a specific, mathematically problematic part of the student's utterance verbatim to focus attention on it."
+    },
+    {
+      "ID": 8835,
+      "Turn": 167,
+      "Speaker": "T",
+      "Sentence": "Start with that statement",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8836,
+      "Turn": 167,
+      "Speaker": "T",
+      "Sentence": "Explain how 36 can be an even and an odd number",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to explain the thinking behind their mathematically inaccurate statement, prompting them to re-examine their reasoning."
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "records": [
+    {
+      "ID": 9343,
+      "Speaker": "T",
+      "Turn": 85,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9344,
+      "Speaker": "T",
+      "Turn": 85,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9345,
+      "Speaker": "T",
+      "Turn": 85,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9346,
+      "Speaker": "T",
+      "Turn": 85,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9347,
+      "Speaker": "T",
+      "Turn": 85,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9348,
+      "Speaker": "T",
+      "Turn": 85,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9349,
+      "Speaker": "T",
+      "Turn": 86,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Prompts teams to talk about why they stopped and what to do next, eliciting explanations of their thinking."
+    },
+    {
+      "ID": 9350,
+      "Speaker": "T",
+      "Turn": 87,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Asks how this helps solve the addition problem, prompting the student to explain their reasoning."
+    },
+    {
+      "ID": 9353,
+      "Speaker": "T",
+      "Turn": 89,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Paraphrases the student’s idea by stating you can’t add fractions with unlike denominators."
+    },
+    {
+      "ID": 9354,
+      "Speaker": "T",
+      "Turn": 89,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9355,
+      "Speaker": "T",
+      "Turn": 89,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9357,
+      "Speaker": "T",
+      "Turn": 91,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Builds on the student’s reading of 'QCD' by explaining where the name comes from in her own words."
+    },
+    {
+      "ID": 9358,
+      "Speaker": "T",
+      "Turn": 91,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9359,
+      "Speaker": "T",
+      "Turn": 91,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9360,
+      "Speaker": "T",
+      "Turn": 91,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks for a specific computation (seven times eight), prompting a precise mathematical answer."
+    },
+    {
+      "ID": 9361,
+      "Speaker": "T",
+      "Turn": 91,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9362,
+      "Speaker": "T",
+      "Turn": 91,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks for the common denominator of two fractions, eliciting a correct mathematical value."
+    },
+    {
+      "ID": 9363,
+      "Speaker": "T",
+      "Turn": 91,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9364,
+      "Speaker": "T",
+      "Turn": 92,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

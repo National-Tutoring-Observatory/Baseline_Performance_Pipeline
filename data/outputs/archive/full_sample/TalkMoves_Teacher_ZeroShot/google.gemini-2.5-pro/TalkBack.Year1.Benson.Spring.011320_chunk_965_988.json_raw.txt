@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 965,
+      "Speaker": "T",
+      "Turn": 965,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 966,
+      "Speaker": "T",
+      "Turn": 966,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats a student's (Maddox's) idea and then adds on to it by rephrasing it as a specific task for the other students to perform."
+    },
+    {
+      "ID": 967,
+      "Speaker": "T",
+      "Turn": 967,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students for a specific, correct piece of information by suggesting an answer."
+    },
+    {
+      "ID": 968,
+      "Speaker": "T",
+      "Turn": 968,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher continues to prompt students for a specific, correct piece of information by suggesting another possible answer."
+    },
+    {
+      "ID": 969,
+      "Speaker": "T",
+      "Turn": 969,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher continues to prompt students for a specific, correct piece of information by suggesting a third possible answer."
+    },
+    {
+      "ID": 970,
+      "Speaker": "T",
+      "Turn": 970,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "After providing several options, the teacher directly asks for the correct answer."
+    },
+    {
+      "ID": 971,
+      "Speaker": "T",
+      "Turn": 971,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 973,
+      "Speaker": "T",
+      "Turn": 973,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 974,
+      "Speaker": "T",
+      "Turn": 974,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher takes the students' finding (that purple pieces fit) and rephrases it as a complete mathematical statement."
+    },
+    {
+      "ID": 975,
+      "Speaker": "T",
+      "Turn": 975,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for a specific mathematical contribution, the fractional value of the piece."
+    },
+    {
+      "ID": 976,
+      "Speaker": "T",
+      "Turn": 976,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats a student's (Maddox's) contribution and attributes it to him."
+    },
+    {
+      "ID": 977,
+      "Speaker": "T",
+      "Turn": 977,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 978,
+      "Speaker": "T",
+      "Turn": 978,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 979,
+      "Speaker": "T",
+      "Turn": 979,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 980,
+      "Speaker": "T",
+      "Turn": 980,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 981,
+      "Speaker": "T",
+      "Turn": 981,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to evaluate the current state of the problem, prompting them to apply their understanding of a 'whole' to the situation."
+    },
+    {
+      "ID": 982,
+      "Speaker": "T",
+      "Turn": 982,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for a specific mathematical definition in the context of the problem."
+    },
+    {
+      "ID": 984,
+      "Speaker": "T",
+      "Turn": 984,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats a student's answer ('5/5') before continuing with their own explanation."
+    },
+    {
+      "ID": 985,
+      "Speaker": "T",
+      "Turn": 985,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks students to provide a specific name for the mathematical representation of the whole."
+    },
+    {
+      "ID": 988,
+      "Speaker": "T",
+      "Turn": 988,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's answer word for word."
+    }
+  ]
+}

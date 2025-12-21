@@ -1,0 +1,114 @@
+{
+  "records": [
+    {
+      "ID": 550,
+      "Speaker": "T",
+      "Turn": 550
+    },
+    {
+      "ID": 551,
+      "Speaker": "T",
+      "Turn": 551
+    },
+    {
+      "ID": 553,
+      "Speaker": "T",
+      "Turn": 553,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher replaces an informal description with the precise term 'multiples,' rephrasing a student’s idea in mathematical language."
+    },
+    {
+      "ID": 554,
+      "Speaker": "T",
+      "Turn": 554,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher restates the student’s result as 'You found multiples,' paraphrasing and clarifying the student’s contribution."
+    },
+    {
+      "ID": 555,
+      "Speaker": "T",
+      "Turn": 555,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for 'another equivalent fraction,' prompting a specific mathematical contribution."
+    },
+    {
+      "ID": 557,
+      "Speaker": "T",
+      "Turn": 557
+    },
+    {
+      "ID": 558,
+      "Speaker": "T",
+      "Turn": 558
+    },
+    {
+      "ID": 560,
+      "Speaker": "T",
+      "Turn": 560
+    },
+    {
+      "ID": 562,
+      "Speaker": "T",
+      "Turn": 562
+    },
+    {
+      "ID": 564,
+      "Speaker": "T",
+      "Turn": 564
+    },
+    {
+      "ID": 566,
+      "Speaker": "T",
+      "Turn": 566
+    },
+    {
+      "ID": 567,
+      "Speaker": "T",
+      "Turn": 567
+    },
+    {
+      "ID": 568,
+      "Speaker": "T",
+      "Turn": 568
+    },
+    {
+      "ID": 569,
+      "Speaker": "T",
+      "Turn": 569,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the result for 25/100, eliciting a specific mathematical answer."
+    },
+    {
+      "ID": 572,
+      "Speaker": "T",
+      "Turn": 572,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks how the student did those, prompting an explanation of method/justification."
+    },
+    {
+      "ID": 577,
+      "Speaker": "T",
+      "Turn": 577
+    },
+    {
+      "ID": 578,
+      "Speaker": "T",
+      "Turn": 578
+    },
+    {
+      "ID": 579,
+      "Speaker": "T",
+      "Turn": 579
+    },
+    {
+      "ID": 581,
+      "Speaker": "T",
+      "Turn": 581
+    },
+    {
+      "ID": 582,
+      "Speaker": "T",
+      "Turn": 582
+    }
+  ]
+}

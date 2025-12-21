@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 2322,
+      "Speaker": "T",
+      "Turn": 2322,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks a student to explain how their estimation strategy was different, prompting them to share their thinking."
+    },
+    {
+      "ID": 2324,
+      "Speaker": "T",
+      "Turn": 2324,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the numbers the student used in their calculation."
+    },
+    {
+      "ID": 2325,
+      "Speaker": "T",
+      "Turn": 2325,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to explain the origin of a number used in their calculation, pressing for the thinking behind their choice."
+    },
+    {
+      "ID": 2327,
+      "Speaker": "T",
+      "Turn": 2327,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases the student's explanation, adding mathematical language ('rounded') and clarifying the student's strategy ('friendlier number')."
+    },
+    {
+      "ID": 2329,
+      "Speaker": "T",
+      "Turn": 2329,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases the student's strategy, using the mathematical term 'rounded' to describe their action."
+    },
+    {
+      "ID": 2331,
+      "Speaker": "T",
+      "Turn": 2331,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to confirm the next step in their mathematical procedure."
+    },
+    {
+      "ID": 2333,
+      "Speaker": "T",
+      "Turn": 2333,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 2334,
+      "Speaker": "T",
+      "Turn": 2334,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to perform a calculation and compare the result, guiding them toward a correct mathematical step."
+    },
+    {
+      "ID": 2336,
+      "Speaker": "T",
+      "Turn": 2336,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 2337,
+      "Speaker": "T",
+      "Turn": 2337,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 2338,
+      "Speaker": "T",
+      "Turn": 2338,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 2339,
+      "Speaker": "T",
+      "Turn": 2339,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks a student to share a different strategy, prompting them to explain their thinking."
+    },
+    {
+      "ID": 2340,
+      "Speaker": "T",
+      "Turn": 2340,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 2341,
+      "Speaker": "T",
+      "Turn": 2341,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks a clarifying question to understand the student's method, pressing them to explain their process."
+    },
+    {
+      "ID": 2342,
+      "Speaker": "T",
+      "Turn": 2342,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats a short phrase from the student's contribution."
+    },
+    {
+      "ID": 2344,
+      "Speaker": "T",
+      "Turn": 2344,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases the student's result, interpreting it as being 'similar' to another result."
+    },
+    {
+      "ID": 2346,
+      "Speaker": "T",
+      "Turn": 2346,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 2347,
+      "Speaker": "T",
+      "Turn": 2347,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 2349,
+      "Speaker": "T",
+      "Turn": 2349,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 2350,
+      "Speaker": "T",
+      "Turn": 2350,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to provide a specific mathematical answer."
+    }
+  ]
+}

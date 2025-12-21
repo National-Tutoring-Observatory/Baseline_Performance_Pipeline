@@ -1,0 +1,102 @@
+{
+  "records": [
+    {
+      "ID": 8841,
+      "Speaker": "T",
+      "Turn": 169,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher highlights a student’s method and implicitly invites Ema to explain how she determined 3 is a factor, pushing for the reasoning behind the claim."
+    },
+    {
+      "ID": 8844,
+      "Speaker": "T",
+      "Turn": 171,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher tells the student that the first part of the explanation is missing, prompting the student to elaborate on her thinking."
+    },
+    {
+      "ID": 8846,
+      "Speaker": "T",
+      "Turn": 173,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8847,
+      "Speaker": "T",
+      "Turn": 173,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8850,
+      "Speaker": "T",
+      "Turn": 175,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8852,
+      "Speaker": "T",
+      "Turn": 177,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher restates the student’s idea using the term \"partial products,\" rephrasing the contribution while maintaining its meaning."
+    },
+    {
+      "ID": 8854,
+      "Speaker": "T",
+      "Turn": 179,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8855,
+      "Speaker": "T",
+      "Turn": 179,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8856,
+      "Speaker": "T",
+      "Turn": 179,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8857,
+      "Speaker": "T",
+      "Turn": 179,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8858,
+      "Speaker": "T",
+      "Turn": 179,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8859,
+      "Speaker": "T",
+      "Turn": 179,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8861,
+      "Speaker": "T",
+      "Turn": 181,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8862,
+      "Speaker": "T",
+      "Turn": 181,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher asks students to explain how knowledge of factors could help find a common denominator, explicitly requesting connections and justification."
+    }
+  ]
+}

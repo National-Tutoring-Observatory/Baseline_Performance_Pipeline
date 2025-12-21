@@ -1,0 +1,178 @@
+[
+  {
+    "ID": 10215,
+    "Turn": 227,
+    "Speaker": "T",
+    "Sentence": "14 is two but you have three of them",
+    "TalkMove": "Revoicing",
+    "Reasoning": "The teacher rephrases the student's partial work and adds information to guide them to the next step in the problem."
+  },
+  {
+    "ID": 10216,
+    "Turn": 227,
+    "Speaker": "T",
+    "Sentence": "So",
+    "TalkMove": "None",
+    "Reasoning": null
+  },
+  {
+    "ID": 10218,
+    "Turn": 229,
+    "Speaker": "T",
+    "Sentence": "Two times three is",
+    "TalkMove": "Pressing for Accuracy",
+    "Reasoning": "The teacher prompts the student to complete a specific mathematical calculation."
+  },
+  {
+    "ID": 10220,
+    "Turn": 231,
+    "Speaker": "T",
+    "Sentence": "Two times three is",
+    "TalkMove": "Pressing for Accuracy",
+    "Reasoning": "The teacher repeats the prompt for the student to provide a specific mathematical answer."
+  },
+  {
+    "ID": 10222,
+    "Turn": 233,
+    "Speaker": "T",
+    "Sentence": "Can you see why",
+    "TalkMove": "Pressing for Reasoning",
+    "Reasoning": "The teacher asks the student to explain their thinking and connect the steps of the problem to the overall goal."
+  },
+  {
+    "ID": 10223,
+    "Turn": 233,
+    "Speaker": "T",
+    "Sentence": "You are only finding 14",
+    "TalkMove": "Pressing for Reasoning",
+    "Reasoning": "The teacher asks the student to explain their thinking and connect the steps of the problem to the overall goal."
+  },
+  {
+    "ID": 10224,
+    "Turn": 233,
+    "Speaker": "T",
+    "Sentence": "You have to find this 14 to help you find the 34",
+    "TalkMove": "Pressing for Reasoning",
+    "Reasoning": "The teacher asks the student to explain their thinking and connect the steps of the problem to the overall goal."
+  },
+  {
+    "ID": 10225,
+    "Turn": 233,
+    "Speaker": "T",
+    "Sentence": "You are doing the same thing",
+    "TalkMove": "Pressing for Reasoning",
+    "Reasoning": "The teacher asks the student to explain their thinking and connect the steps of the problem to the overall goal."
+  },
+  {
+    "ID": 10226,
+    "Turn": 233,
+    "Speaker": "T",
+    "Sentence": "You found 14 because if you have eight things",
+    "TalkMove": "Pressing for Reasoning",
+    "Reasoning": "The teacher asks the student to explain their thinking and connect the steps of the problem to the overall goal."
+  },
+  {
+    "ID": 10228,
+    "Turn": 235,
+    "Speaker": "T",
+    "Sentence": "Do you see what your fix up is",
+    "TalkMove": "Pressing for Reasoning",
+    "Reasoning": "The teacher prompts the student to reflect on and articulate their understanding of their error and the necessary correction."
+  },
+  {
+    "ID": 10230,
+    "Turn": 237,
+    "Speaker": "T",
+    "Sentence": "Okay",
+    "TalkMove": "None",
+    "Reasoning": null
+  },
+  {
+    "ID": 10231,
+    "Turn": 238,
+    "Speaker": "T",
+    "Sentence": "Im just going to grab something",
+    "TalkMove": "None",
+    "Reasoning": null
+  },
+  {
+    "ID": 10232,
+    "Turn": 238,
+    "Speaker": "T",
+    "Sentence": "Okay",
+    "TalkMove": "None",
+    "Reasoning": null
+  },
+  {
+    "ID": 10233,
+    "Turn": 238,
+    "Speaker": "T",
+    "Sentence": "Okay",
+    "TalkMove": "None",
+    "Reasoning": null
+  },
+  {
+    "ID": 10234,
+    "Turn": 238,
+    "Speaker": "T",
+    "Sentence": "I dont know what were doing here",
+    "TalkMove": "None",
+    "Reasoning": null
+  },
+  {
+    "ID": 10235,
+    "Turn": 238,
+    "Speaker": "T",
+    "Sentence": "Talk to me about this",
+    "TalkMove": "Pressing for Reasoning",
+    "Reasoning": "The teacher prompts the student to explain their work and thinking process."
+  },
+  {
+    "ID": 10236,
+    "Turn": 238,
+    "Speaker": "T",
+    "Sentence": "Whats 14 of eight",
+    "TalkMove": "Pressing for Accuracy",
+    "Reasoning": "The teacher prompts the student to make a specific mathematical contribution."
+  },
+  {
+    "ID": 10238,
+    "Turn": 239,
+    "Speaker": "T",
+    "Sentence": "Yes",
+    "TalkMove": "None",
+    "Reasoning": null
+  },
+  {
+    "ID": 10240,
+    "Turn": 241,
+    "Speaker": "T",
+    "Sentence": "Good but you have 3 4",
+    "TalkMove": "Pressing for Reasoning",
+    "Reasoning": "The teacher prompts the student to use a known piece of information to figure out a related, more complex piece of information."
+  },
+  {
+    "ID": 10241,
+    "Turn": 241,
+    "Speaker": "T",
+    "Sentence": "So if you know 14 is two what would 34 be",
+    "TalkMove": "Pressing for Reasoning",
+    "Reasoning": "The teacher prompts the student to use a known piece of information to figure out a related, more complex piece of information."
+  },
+  {
+    "ID": 10243,
+    "Turn": 243,
+    "Speaker": "T",
+    "Sentence": "Right",
+    "TalkMove": "None",
+    "Reasoning": null
+  },
+  {
+    "ID": 10244,
+    "Turn": 243,
+    "Speaker": "T",
+    "Sentence": "Thats what multiplication is finding fraction of",
+    "TalkMove": "Revoicing",
+    "Reasoning": "The teacher confirms the student's idea and rephrases it with a more formal mathematical definition."
+  }
+]

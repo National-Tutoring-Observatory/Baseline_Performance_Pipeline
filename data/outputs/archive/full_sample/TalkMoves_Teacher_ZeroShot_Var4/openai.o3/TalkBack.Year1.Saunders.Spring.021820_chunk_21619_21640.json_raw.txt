@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 21619,
+      "Speaker": "T",
+      "Turn": 21619,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21620,
+      "Speaker": "T",
+      "Turn": 21620,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21621,
+      "Speaker": "T",
+      "Turn": 21621,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21622,
+      "Speaker": "T",
+      "Turn": 21622,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21623,
+      "Speaker": "T",
+      "Turn": 21623,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21624,
+      "Speaker": "T",
+      "Turn": 21624,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21625,
+      "Speaker": "T",
+      "Turn": 21625,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks students for the exact page number, prompting them to supply a specific factual detail."
+    },
+    {
+      "ID": 21627,
+      "Speaker": "T",
+      "Turn": 21627,
+      "TalkMove": "Restating",
+      "Reasoning": "Teacher repeats a student-supplied page number word for word to confirm it."
+    },
+    {
+      "ID": 21628,
+      "Speaker": "T",
+      "Turn": 21628,
+      "TalkMove": "Restating",
+      "Reasoning": "Teacher again echoes a student’s suggested page number verbatim."
+    },
+    {
+      "ID": 21630,
+      "Speaker": "T",
+      "Turn": 21630,
+      "TalkMove": "Restating",
+      "Reasoning": "Teacher repeats another student-offered number exactly."
+    },
+    {
+      "ID": 21631,
+      "Speaker": "T",
+      "Turn": 21631,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21632,
+      "Speaker": "T",
+      "Turn": 21632,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21633,
+      "Speaker": "T",
+      "Turn": 21633,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21634,
+      "Speaker": "T",
+      "Turn": 21634,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21635,
+      "Speaker": "T",
+      "Turn": 21635,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The question 'How can you …?' prompts students to explain their method."
+    },
+    {
+      "ID": 21636,
+      "Speaker": "T",
+      "Turn": 21636,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21637,
+      "Speaker": "T",
+      "Turn": 21637,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher requests the specific final factorization result from students."
+    },
+    {
+      "ID": 21638,
+      "Speaker": "T",
+      "Turn": 21638,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21639,
+      "Speaker": "T",
+      "Turn": 21639,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "By saying '… right?', the teacher seeks confirmation of the exact multiplication statement."
+    },
+    {
+      "ID": 21640,
+      "Speaker": "T",
+      "Turn": 21640,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

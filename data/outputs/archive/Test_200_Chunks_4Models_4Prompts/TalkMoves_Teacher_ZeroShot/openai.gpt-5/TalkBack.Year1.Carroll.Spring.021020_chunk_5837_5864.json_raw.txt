@@ -1,0 +1,88 @@
+{
+  "records": [
+    {
+      "ID": 5837,
+      "Speaker": "T",
+      "Turn": 159,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5838,
+      "Speaker": "T",
+      "Turn": 159,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5841,
+      "Speaker": "T",
+      "Turn": 161,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5847,
+      "Speaker": "T",
+      "Turn": 166,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5849,
+      "Speaker": "T",
+      "Turn": 168,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher asks the class to identify the leader, orienting students to a peer."
+    },
+    {
+      "ID": 5851,
+      "Speaker": "T",
+      "Turn": 170,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the student's number, prompting a specific numerical response."
+    },
+    {
+      "ID": 5853,
+      "Speaker": "T",
+      "Turn": 172,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5857,
+      "Speaker": "T",
+      "Turn": 174,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher again requests identification of the leader to orient the group to a peer."
+    },
+    {
+      "ID": 5858,
+      "Speaker": "T",
+      "Turn": 174,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the student's number, eliciting a precise mathematical value."
+    },
+    {
+      "ID": 5861,
+      "Speaker": "T",
+      "Turn": 177,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher echoes the student’s stated rule by restating that the response is 'buzz.'"
+    },
+    {
+      "ID": 5862,
+      "Speaker": "T",
+      "Turn": 178,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5863,
+      "Speaker": "T",
+      "Turn": 178,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

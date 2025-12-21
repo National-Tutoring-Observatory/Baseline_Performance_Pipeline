@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 764,
+      "Speaker": "T",
+      "Turn": 764,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 765,
+      "Speaker": "T",
+      "Turn": 765,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 767,
+      "Speaker": "T",
+      "Turn": 767,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher directs all students to focus their attention on the same problem, ensuring the group is working together."
+    },
+    {
+      "ID": 768,
+      "Speaker": "T",
+      "Turn": 768,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks students to identify the correct manipulative piece required by the problem, prompting a specific mathematical contribution."
+    },
+    {
+      "ID": 770,
+      "Speaker": "T",
+      "Turn": 770,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's contribution ('light green') verbatim."
+    },
+    {
+      "ID": 771,
+      "Speaker": "T",
+      "Turn": 771,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 772,
+      "Speaker": "T",
+      "Turn": 772,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 773,
+      "Speaker": "T",
+      "Turn": 773,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 774,
+      "Speaker": "T",
+      "Turn": 774,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts a student to explain their thinking about what the fraction 'one-fourth' implies for constructing the whole."
+    },
+    {
+      "ID": 776,
+      "Speaker": "T",
+      "Turn": 776,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's implied answer ('One') and then adds a mathematical explanation about the role of the denominator."
+    },
+    {
+      "ID": 778,
+      "Speaker": "T",
+      "Turn": 778,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's answer ('Four') verbatim."
+    },
+    {
+      "ID": 779,
+      "Speaker": "T",
+      "Turn": 779,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a question to confirm students' understanding and prompt them to state the correct number of pieces needed."
+    },
+    {
+      "ID": 781,
+      "Speaker": "T",
+      "Turn": 781,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's answer ('Four') verbatim."
+    },
+    {
+      "ID": 782,
+      "Speaker": "T",
+      "Turn": 782,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks a student to describe and interpret a visual representation, prompting them to share their thinking about what is being shown."
+    },
+    {
+      "ID": 783,
+      "Speaker": "T",
+      "Turn": 783,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to explain the process being demonstrated, prompting them to connect the actions to the mathematical concept."
+    },
+    {
+      "ID": 785,
+      "Speaker": "T",
+      "Turn": 785,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 786,
+      "Speaker": "T",
+      "Turn": 786,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher pauses a demonstration to ask students to correctly name the fractional amount shown, pressing for a specific mathematical contribution."
+    },
+    {
+      "ID": 787,
+      "Speaker": "T",
+      "Turn": 787,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks students to identify the value of a specific part of the representation, pressing for a correct mathematical statement."
+    },
+    {
+      "ID": 789,
+      "Speaker": "T",
+      "Turn": 789,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's contribution ('One-fourth') and adds 'plus' to prompt the student to continue their explanation or calculation."
+    },
+    {
+      "ID": 791,
+      "Speaker": "T",
+      "Turn": 791,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to evaluate the result of the demonstration and determine if it represents 'the whole,' prompting them to apply their reasoning."
+    }
+  ]
+}

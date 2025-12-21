@@ -1,0 +1,129 @@
+{
+  "records": [
+    {
+      "ID": 1561,
+      "Turn": 30,
+      "Speaker": "S"
+    },
+    {
+      "ID": 1562,
+      "Turn": 31,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1563,
+      "Turn": 31,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's idea but adds the correct mathematical language, changing 'zero point zero' to 'zero and nine hundredths'."
+    },
+    {
+      "ID": 1564,
+      "Turn": 31,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1565,
+      "Turn": 31,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1566,
+      "Turn": 31,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1567,
+      "Turn": 32,
+      "Speaker": "S"
+    },
+    {
+      "ID": 1568,
+      "Turn": 33,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts the student to connect their answer to a mathematical representation ('little cubes') to explain their thinking."
+    },
+    {
+      "ID": 1569,
+      "Turn": 33,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks a question to guide the student's thinking process and provide evidence based on the 'little cubes' model."
+    },
+    {
+      "ID": 1570,
+      "Turn": 34,
+      "Speaker": "S"
+    },
+    {
+      "ID": 1571,
+      "Turn": 35,
+      "Speaker": "T",
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's answer ('80 of them') word for word."
+    },
+    {
+      "ID": 1572,
+      "Turn": 36,
+      "Speaker": "S"
+    },
+    {
+      "ID": 1573,
+      "Turn": 37,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases the student's numerical answer ('008') into the context of the shared representation ('eight little cubes') to clarify the student's thinking."
+    },
+    {
+      "ID": 1574,
+      "Turn": 37,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1575,
+      "Turn": 37,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1576,
+      "Turn": 38,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1577,
+      "Turn": 38,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1578,
+      "Turn": 38,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1579,
+      "Turn": 38,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 

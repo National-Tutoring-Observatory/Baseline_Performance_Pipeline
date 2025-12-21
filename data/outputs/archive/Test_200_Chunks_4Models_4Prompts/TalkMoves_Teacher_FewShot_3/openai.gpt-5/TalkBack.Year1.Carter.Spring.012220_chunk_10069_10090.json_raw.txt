@@ -1,0 +1,100 @@
+{
+  "records": [
+    {
+      "ID": 10069,
+      "Turn": 182,
+      "TalkMove": "None"
+    },
+    {
+      "ID": 10072,
+      "Turn": 183,
+      "TalkMove": "None"
+    },
+    {
+      "ID": 10073,
+      "Turn": 183,
+      "TalkMove": "None"
+    },
+    {
+      "ID": 10074,
+      "Turn": 183,
+      "TalkMove": "None"
+    },
+    {
+      "ID": 10075,
+      "Turn": 183,
+      "TalkMove": "None"
+    },
+    {
+      "ID": 10076,
+      "Turn": 183,
+      "TalkMove": "None"
+    },
+    {
+      "ID": 10077,
+      "Turn": 183,
+      "TalkMove": "None"
+    },
+    {
+      "ID": 10078,
+      "Turn": 183,
+      "TalkMove": "None"
+    },
+    {
+      "ID": 10079,
+      "Turn": 183,
+      "TalkMove": "None"
+    },
+    {
+      "ID": 10080,
+      "Turn": 183,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher prompts students to explain why the expression is 3/4 times 8."
+    },
+    {
+      "ID": 10082,
+      "Turn": 185,
+      "TalkMove": "None"
+    },
+    {
+      "ID": 10083,
+      "Turn": 185,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher prompts the correct mathematical operation (multiplying)."
+    },
+    {
+      "ID": 10084,
+      "Turn": 185,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher restates the student’s contribution as the expression '3/4 of eight.'"
+    },
+    {
+      "ID": 10085,
+      "Turn": 185,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher requests justification for the expression ('I don't know why')."
+    },
+    {
+      "ID": 10086,
+      "Turn": 185,
+      "TalkMove": "None"
+    },
+    {
+      "ID": 10087,
+      "Turn": 185,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Teacher checks whether partners have already discussed, orienting students to each other."
+    },
+    {
+      "ID": 10089,
+      "Turn": 187,
+      "TalkMove": "None"
+    },
+    {
+      "ID": 10090,
+      "Turn": 187,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Teacher redirects collective attention back to the whole group ('Back to me')."
+    }
+  ]
+}

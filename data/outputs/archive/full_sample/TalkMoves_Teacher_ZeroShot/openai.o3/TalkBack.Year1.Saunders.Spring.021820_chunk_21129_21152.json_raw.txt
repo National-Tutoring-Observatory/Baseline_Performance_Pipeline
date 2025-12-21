@@ -1,0 +1,122 @@
+{
+  "records": [
+    {
+      "ID": 21129,
+      "Speaker": "T",
+      "Turn": 21129,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher offers a candidate summary of a student’s strategy and seeks confirmation, rephrasing the student’s idea."
+    },
+    {
+      "ID": 21132,
+      "Speaker": "T",
+      "Turn": 21132
+    },
+    {
+      "ID": 21135,
+      "Speaker": "T",
+      "Turn": 21135
+    },
+    {
+      "ID": 21136,
+      "Speaker": "T",
+      "Turn": 21136
+    },
+    {
+      "ID": 21137,
+      "Speaker": "T",
+      "Turn": 21137
+    },
+    {
+      "ID": 21138,
+      "Speaker": "T",
+      "Turn": 21138
+    },
+    {
+      "ID": 21139,
+      "Speaker": "T",
+      "Turn": 21139
+    },
+    {
+      "ID": 21140,
+      "Speaker": "T",
+      "Turn": 21140
+    },
+    {
+      "ID": 21141,
+      "Speaker": "T",
+      "Turn": 21141,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the specific value (index) needed to correctly rewrite the expression."
+    },
+    {
+      "ID": 21142,
+      "Speaker": "T",
+      "Turn": 21142,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher explicitly requests the mathematical term 'index,' seeking an exact value."
+    },
+    {
+      "ID": 21143,
+      "Speaker": "T",
+      "Turn": 21143,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student’s single-word answer verbatim."
+    },
+    {
+      "ID": 21144,
+      "Speaker": "T",
+      "Turn": 21144,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher restates the answer and adds an explanation, refining the student’s idea."
+    },
+    {
+      "ID": 21145,
+      "Speaker": "T",
+      "Turn": 21145,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the exact element that belongs in the radical, requesting a precise mathematical contribution."
+    },
+    {
+      "ID": 21146,
+      "Speaker": "T",
+      "Turn": 21146,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "After providing part of the expression, the teacher asks for the precise exponent, pushing students for the correct detail."
+    },
+    {
+      "ID": 21147,
+      "Speaker": "T",
+      "Turn": 21147,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher echoes the student’s one-word answer 'Four' exactly."
+    },
+    {
+      "ID": 21148,
+      "Speaker": "T",
+      "Turn": 21148
+    },
+    {
+      "ID": 21149,
+      "Speaker": "T",
+      "Turn": 21149
+    },
+    {
+      "ID": 21150,
+      "Speaker": "T",
+      "Turn": 21150
+    },
+    {
+      "ID": 21151,
+      "Speaker": "T",
+      "Turn": 21151,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "By soliciting questions from the whole class, the teacher ensures all students are following before moving on."
+    },
+    {
+      "ID": 21152,
+      "Speaker": "T",
+      "Turn": 21152
+    }
+  ]
+}

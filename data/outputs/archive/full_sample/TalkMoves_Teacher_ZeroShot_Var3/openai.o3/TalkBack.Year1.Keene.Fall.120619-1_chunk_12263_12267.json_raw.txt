@@ -1,0 +1,39 @@
+{
+  "records": [
+    {
+      "ID": 12263,
+      "Speaker": "T",
+      "Turn": 12263,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher specifies the mathematical strategy (drawing a picture) students should use, guiding them toward an accurate method."
+    },
+    {
+      "ID": 12264,
+      "Speaker": "T",
+      "Turn": 12264,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Uttering \"Everybody\" draws the whole class’s attention and orients all students to the task at hand."
+    },
+    {
+      "ID": 12265,
+      "Speaker": "T",
+      "Turn": 12265,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher questions off-task talking to refocus students on listening and working silently."
+    },
+    {
+      "ID": 12266,
+      "Speaker": "T",
+      "Turn": 12266,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Clarifying that they are not working with partners keeps the class aligned on the expected mode of participation."
+    },
+    {
+      "ID": 12267,
+      "Speaker": "T",
+      "Turn": 12267,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 2538,
+      "Speaker": "T",
+      "Turn": 2538,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2540,
+      "Speaker": "T",
+      "Turn": 2540,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2541,
+      "Speaker": "T",
+      "Turn": 2541,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2543,
+      "Speaker": "T",
+      "Turn": 2543,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to reconsider a specific detail of their calculation (the number of zeros) to arrive at a more accurate answer."
+    },
+    {
+      "ID": 2545,
+      "Speaker": "T",
+      "Turn": 2545,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's implicit contribution ('two') and adds 'so' to prompt the student to complete their thought process."
+    },
+    {
+      "ID": 2547,
+      "Speaker": "T",
+      "Turn": 2547,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2548,
+      "Speaker": "T",
+      "Turn": 2548,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2549,
+      "Speaker": "T",
+      "Turn": 2549,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2551,
+      "Speaker": "T",
+      "Turn": 2551,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2552,
+      "Speaker": "T",
+      "Turn": 2552,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2553,
+      "Speaker": "T",
+      "Turn": 2553,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2555,
+      "Speaker": "T",
+      "Turn": 2555,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher presses the student to provide the specific mathematical contribution requested (an equation), rather than a different type of response."
+    },
+    {
+      "ID": 2557,
+      "Speaker": "T",
+      "Turn": 2557,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2558,
+      "Speaker": "T",
+      "Turn": 2558,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher presses the student to use a specific mathematical convention (a variable for the unknown) as required by the directions."
+    },
+    {
+      "ID": 2559,
+      "Speaker": "T",
+      "Turn": 2559,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to apply the correct mathematical convention of using a variable."
+    },
+    {
+      "ID": 2561,
+      "Speaker": "T",
+      "Turn": 2561,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2562,
+      "Speaker": "T",
+      "Turn": 2562,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to check their work for the use of a specific, correct mathematical symbol."
+    },
+    {
+      "ID": 2564,
+      "Speaker": "T",
+      "Turn": 2564,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher repeats the previous prompt, pressing the student to confirm the accuracy of their notation."
+    },
+    {
+      "ID": 2565,
+      "Speaker": "T",
+      "Turn": 2565,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2566,
+      "Speaker": "T",
+      "Turn": 2566,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

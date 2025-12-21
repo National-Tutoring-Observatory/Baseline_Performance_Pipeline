@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 517,
+      "Speaker": "T",
+      "Turn": 517,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 518,
+      "Speaker": "T",
+      "Turn": 518,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 519,
+      "Speaker": "T",
+      "Turn": 519,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 520,
+      "Speaker": "T",
+      "Turn": 520,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 521,
+      "Speaker": "T",
+      "Turn": 521,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases and confirms the student's mathematical procedure."
+    },
+    {
+      "ID": 522,
+      "Speaker": "T",
+      "Turn": 522,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 523,
+      "Speaker": "T",
+      "Turn": 523,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 524,
+      "Speaker": "T",
+      "Turn": 524,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 526,
+      "Speaker": "T",
+      "Turn": 526,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 529,
+      "Speaker": "T",
+      "Turn": 529,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases the student's statement to clarify which problem they were working on."
+    },
+    {
+      "ID": 531,
+      "Speaker": "T",
+      "Turn": 531,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to explain the process they used to arrive at their answer."
+    },
+    {
+      "ID": 535,
+      "Speaker": "T",
+      "Turn": 535,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher directly prompts the student to provide an explanation for their idea."
+    },
+    {
+      "ID": 537,
+      "Speaker": "T",
+      "Turn": 537,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 538,
+      "Speaker": "T",
+      "Turn": 538,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 541,
+      "Speaker": "T",
+      "Turn": 541,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher explicitly asks the student to explain their thinking."
+    },
+    {
+      "ID": 543,
+      "Speaker": "T",
+      "Turn": 543,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to use specific mathematical vocabulary for the strategy they employed."
+    },
+    {
+      "ID": 545,
+      "Speaker": "T",
+      "Turn": 545,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to complete their sentence with the correct mathematical term."
+    },
+    {
+      "ID": 547,
+      "Speaker": "T",
+      "Turn": 547,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 548,
+      "Speaker": "T",
+      "Turn": 548,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher repeats the question, pressing the student to provide the correct mathematical vocabulary."
+    },
+    {
+      "ID": 549,
+      "Speaker": "T",
+      "Turn": 549,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

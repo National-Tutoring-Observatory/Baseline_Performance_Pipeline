@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 8085,
+      "Speaker": "T",
+      "Turn": 8085,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher asks a student to repeat their contribution so that another student (Marcus) can hear and process it, ensuring the group is oriented to the speaker."
+    },
+    {
+      "ID": 8086,
+      "Speaker": "T",
+      "Turn": 8086,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's idea ('it's easier') using the frame 'I hear you saying,' verifying the student's contribution."
+    },
+    {
+      "ID": 8087,
+      "Speaker": "T",
+      "Turn": 8087,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher challenges the student's idea by asking them to distinguish between convenience ('easier') and mathematical necessity ('have to'), prompting for conceptual justification."
+    },
+    {
+      "ID": 8088,
+      "Speaker": "T",
+      "Turn": 8088,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to take a stance on the conceptual question posed in the previous turn."
+    },
+    {
+      "ID": 8089,
+      "Speaker": "T",
+      "Turn": 8089,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher reiterates the question about whether common denominators are a preference or a rule, prompting the student to explain the logic of fraction addition."
+    },
+    {
+      "ID": 8090,
+      "Speaker": "T",
+      "Turn": 8090,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher directs students to discuss the question with a partner, orienting them to each other for active participation."
+    },
+    {
+      "ID": 8091,
+      "Speaker": "T",
+      "Turn": 8091,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher calls on a specific student to answer the conceptual question regarding the necessity of common denominators."
+    },
+    {
+      "ID": 8094,
+      "Speaker": "T",
+      "Turn": 8094,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8095,
+      "Speaker": "T",
+      "Turn": 8095,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8096,
+      "Speaker": "T",
+      "Turn": 8096,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8097,
+      "Speaker": "T",
+      "Turn": 8097,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8098,
+      "Speaker": "T",
+      "Turn": 8098,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher prompts the class to read aloud in unison, ensuring joint attention and keeping the group together."
+    },
+    {
+      "ID": 8100,
+      "Speaker": "T",
+      "Turn": 8100,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8102,
+      "Speaker": "T",
+      "Turn": 8102,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8103,
+      "Speaker": "T",
+      "Turn": 8103,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8105,
+      "Speaker": "T",
+      "Turn": 8105,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8106,
+      "Speaker": "T",
+      "Turn": 8106,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8108,
+      "Speaker": "T",
+      "Turn": 8108,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8110,
+      "Speaker": "T",
+      "Turn": 8110,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher uses a sentence stem to prompt students to supply the correct mathematical term (likely 'equal' or 'the same') to complete the definition."
+    },
+    {
+      "ID": 8113,
+      "Speaker": "T",
+      "Turn": 8113,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks students to provide a specific synonym or alternative mathematical vocabulary word for 'equal'."
+    }
+  ]
+}

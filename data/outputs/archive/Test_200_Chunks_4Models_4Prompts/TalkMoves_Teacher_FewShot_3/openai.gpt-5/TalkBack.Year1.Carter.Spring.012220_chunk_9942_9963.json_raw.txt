@@ -1,0 +1,121 @@
+{
+  "records": [
+    {
+      "ID": 9943,
+      "Turn": 146,
+      "Speaker": "T",
+      "TalkMove": "None"
+    },
+    {
+      "ID": 9944,
+      "Turn": 146,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Asks whether the problem could be solved by dividing, prompting consideration of an alternative method and explanation."
+    },
+    {
+      "ID": 9946,
+      "Turn": 148,
+      "Speaker": "T",
+      "TalkMove": "None"
+    },
+    {
+      "ID": 9947,
+      "Turn": 148,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Invites a student who used division to explain their thinking."
+    },
+    {
+      "ID": 9949,
+      "Turn": 150,
+      "Speaker": "T",
+      "TalkMove": "None"
+    },
+    {
+      "ID": 9950,
+      "Turn": 150,
+      "Speaker": "T",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Summarizes the shared result to orient the whole class."
+    },
+    {
+      "ID": 9951,
+      "Turn": 150,
+      "Speaker": "T",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Recaps the known value to set up the next step for everyone."
+    },
+    {
+      "ID": 9952,
+      "Turn": 150,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Requests the numerical value, prompting a specific mathematical answer."
+    },
+    {
+      "ID": 9953,
+      "Turn": 150,
+      "Speaker": "T",
+      "TalkMove": "None"
+    },
+    {
+      "ID": 9954,
+      "Turn": 150,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Directs students to justify why the answer is 35 in partner talk."
+    },
+    {
+      "ID": 9955,
+      "Turn": 151,
+      "Speaker": "T",
+      "TalkMove": "None"
+    },
+    {
+      "ID": 9956,
+      "Turn": 151,
+      "Speaker": "T",
+      "TalkMove": "None"
+    },
+    {
+      "ID": 9957,
+      "Turn": 151,
+      "Speaker": "T",
+      "TalkMove": "None"
+    },
+    {
+      "ID": 9959,
+      "Turn": 153,
+      "Speaker": "T",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Calls a student back to attention to keep the class oriented."
+    },
+    {
+      "ID": 9960,
+      "Turn": 153,
+      "Speaker": "T",
+      "TalkMove": "None"
+    },
+    {
+      "ID": 9961,
+      "Turn": 153,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Asks students to describe the process, prompting explanation of steps."
+    },
+    {
+      "ID": 9962,
+      "Turn": 153,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Prompts for the step-by-step method to find 7/10 of 50 directly."
+    },
+    {
+      "ID": 9963,
+      "Turn": 153,
+      "Speaker": "T",
+      "TalkMove": "None"
+    }
+  ]
+}

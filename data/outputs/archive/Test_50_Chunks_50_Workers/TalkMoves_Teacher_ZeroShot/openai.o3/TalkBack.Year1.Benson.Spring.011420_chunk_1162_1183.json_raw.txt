@@ -1,0 +1,117 @@
+{
+  "records": [
+    {
+      "ID": 1162,
+      "Speaker": "T",
+      "Turn": 71
+    },
+    {
+      "ID": 1163,
+      "Speaker": "T",
+      "Turn": 71
+    },
+    {
+      "ID": 1165,
+      "Speaker": "T",
+      "Turn": 73,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks the student to specify whether the whole contained six pieces, prompting a precise mathematical fact."
+    },
+    {
+      "ID": 1166,
+      "Speaker": "T",
+      "Turn": 73,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Requests an explanation for why the whole does not have six pieces, eliciting the reasoning behind the answer."
+    },
+    {
+      "ID": 1167,
+      "Speaker": "T",
+      "Turn": 73,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Prompts the student to state the exact quantity they ate (\"Because they ate what?\"), seeking the correct number."
+    },
+    {
+      "ID": 1169,
+      "Speaker": "T",
+      "Turn": 75,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Repeats the student's answer \"13\" and adds clarification about the denominator, restating with added explanation."
+    },
+    {
+      "ID": 1170,
+      "Speaker": "T",
+      "Turn": 75
+    },
+    {
+      "ID": 1171,
+      "Speaker": "T",
+      "Turn": 75,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks students to determine the total number of pieces, prompting a specific mathematical quantity."
+    },
+    {
+      "ID": 1172,
+      "Speaker": "T",
+      "Turn": 75
+    },
+    {
+      "ID": 1173,
+      "Speaker": "T",
+      "Turn": 75,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Checks whether the explanation makes sense to the class, ensuring that all students are following."
+    },
+    {
+      "ID": 1174,
+      "Speaker": "T",
+      "Turn": 75,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Directly asks an individual student if the explanation makes sense, orienting everyone to shared understanding."
+    },
+    {
+      "ID": 1175,
+      "Speaker": "T",
+      "Turn": 75
+    },
+    {
+      "ID": 1176,
+      "Speaker": "T",
+      "Turn": 75
+    },
+    {
+      "ID": 1177,
+      "Speaker": "T",
+      "Turn": 75
+    },
+    {
+      "ID": 1178,
+      "Speaker": "T",
+      "Turn": 75
+    },
+    {
+      "ID": 1179,
+      "Speaker": "T",
+      "Turn": 75
+    },
+    {
+      "ID": 1181,
+      "Speaker": "T",
+      "Turn": 77
+    },
+    {
+      "ID": 1182,
+      "Speaker": "T",
+      "Turn": 77,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks for the total amount eaten, prompting students to provide a specific quantitative answer."
+    },
+    {
+      "ID": 1183,
+      "Speaker": "T",
+      "Turn": 77,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Poses a hypothetical scenario and asks whether the answer would change, pushing students to justify their thinking."
+    }
+  ]
+}

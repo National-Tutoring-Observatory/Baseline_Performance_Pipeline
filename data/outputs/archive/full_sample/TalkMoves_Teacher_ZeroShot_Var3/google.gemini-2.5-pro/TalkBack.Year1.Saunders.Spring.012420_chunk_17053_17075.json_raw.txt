@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 17053,
+      "Speaker": "T",
+      "Turn": 17053,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17054,
+      "Speaker": "T",
+      "Turn": 17054,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to use the correct mathematical term (minimum or maximum) to describe the vertex of the parabola."
+    },
+    {
+      "ID": 17056,
+      "Speaker": "T",
+      "Turn": 17056,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's contribution ('minimum value') verbatim."
+    },
+    {
+      "ID": 17057,
+      "Speaker": "T",
+      "Turn": 17057,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to explain the meaning of the minimum value within the context of the problem, prompting for interpretation."
+    },
+    {
+      "ID": 17058,
+      "Speaker": "T",
+      "Turn": 17058,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher explicitly asks students to interpret a mathematical concept in the context of the story, which requires them to explain their thinking."
+    },
+    {
+      "ID": 17059,
+      "Speaker": "T",
+      "Turn": 17059,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17060,
+      "Speaker": "T",
+      "Turn": 17060,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17061,
+      "Speaker": "T",
+      "Turn": 17061,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases and clarifies a student's likely contribution, articulating that the minimum value represents the lowest profit in a specific year."
+    },
+    {
+      "ID": 17062,
+      "Speaker": "T",
+      "Turn": 17062,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17063,
+      "Speaker": "T",
+      "Turn": 17063,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17064,
+      "Speaker": "T",
+      "Turn": 17064,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17065,
+      "Speaker": "T",
+      "Turn": 17065,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to accurately identify which axis represents the 'year' variable."
+    },
+    {
+      "ID": 17067,
+      "Speaker": "T",
+      "Turn": 17067,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher confirms and rephrases the student's correct identification of the x-axis, connecting it to the goal of finding the year."
+    },
+    {
+      "ID": 17068,
+      "Speaker": "T",
+      "Turn": 17068,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to explain the mathematical procedure for finding the x-value of the vertex from standard form."
+    },
+    {
+      "ID": 17069,
+      "Speaker": "T",
+      "Turn": 17069,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17070,
+      "Speaker": "T",
+      "Turn": 17070,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17071,
+      "Speaker": "T",
+      "Turn": 17071,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17073,
+      "Speaker": "T",
+      "Turn": 17073,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the students' contribution ('Plug it in') verbatim."
+    },
+    {
+      "ID": 17074,
+      "Speaker": "T",
+      "Turn": 17074,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17075,
+      "Speaker": "T",
+      "Turn": 17075,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

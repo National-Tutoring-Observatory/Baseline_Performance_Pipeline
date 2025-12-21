@@ -1,0 +1,109 @@
+{
+  "records": [
+    {
+      "ID": 24156,
+      "Speaker": "T",
+      "Turn": 206,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24157,
+      "Speaker": "T",
+      "Turn": 206,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24158,
+      "Speaker": "T",
+      "Turn": 206,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24159,
+      "Speaker": "T",
+      "Turn": 207,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher prompts student to compute the exact value of 1/3, requesting a specific mathematical answer."
+    },
+    {
+      "ID": 24161,
+      "Speaker": "T",
+      "Turn": 208,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks directly for the numerical value of 1/3 of nine."
+    },
+    {
+      "ID": 24162,
+      "Speaker": "T",
+      "Turn": 209,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24163,
+      "Speaker": "T",
+      "Turn": 209,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Introduces 3/4 of 18, implicitly prompting students to determine that exact quantity."
+    },
+    {
+      "ID": 24164,
+      "Speaker": "T",
+      "Turn": 210,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Gives part of the computation (1/3 is 3) and asks students to supply the next value (2/3)."
+    },
+    {
+      "ID": 24165,
+      "Speaker": "T",
+      "Turn": 210,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Requests the precise value of 1/3 of 24."
+    },
+    {
+      "ID": 24167,
+      "Speaker": "T",
+      "Turn": 212,
+      "TalkMove": "Restating",
+      "Reasoning": "Teacher repeats the student's response 'Eight' word-for-word."
+    },
+    {
+      "ID": 24169,
+      "Speaker": "T",
+      "Turn": 213,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24170,
+      "Speaker": "T",
+      "Turn": 214,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Prompts students to calculate the exact value of 2/3 of 24."
+    },
+    {
+      "ID": 24172,
+      "Speaker": "T",
+      "Turn": 216,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Instructs students to figure out 1/3 of a quantity, eliciting a specific numerical answer."
+    },
+    {
+      "ID": 24176,
+      "Speaker": "T",
+      "Turn": 220,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Asks the student to articulate their forthcoming strategy ('What's your next step?')."
+    },
+    {
+      "ID": 24177,
+      "Speaker": "T",
+      "Turn": 220,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

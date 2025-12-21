@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 18617,
+      "Speaker": "T",
+      "Turn": 18617,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 18618,
+      "Speaker": "T",
+      "Turn": 18618,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 18619,
+      "Speaker": "T",
+      "Turn": 18619,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to explain how the given expression qualifies as a quadratic, prompting them to justify the classification."
+    },
+    {
+      "ID": 18620,
+      "Speaker": "T",
+      "Turn": 18620,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 18621,
+      "Speaker": "T",
+      "Turn": 18621,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to confirm a specific mathematical property (that a quadratic starts with a quadratic term)."
+    },
+    {
+      "ID": 18623,
+      "Speaker": "T",
+      "Turn": 18623,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the specific procedure to rewrite the expression."
+    },
+    {
+      "ID": 18624,
+      "Speaker": "T",
+      "Turn": 18624,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 18625,
+      "Speaker": "T",
+      "Turn": 18625,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher directs the students' attention to a specific feature of the problem ('notice how...')."
+    },
+    {
+      "ID": 18626,
+      "Speaker": "T",
+      "Turn": 18626,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks students to identify a specific commonality between two terms."
+    },
+    {
+      "ID": 18628,
+      "Speaker": "T",
+      "Turn": 18628,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 18629,
+      "Speaker": "T",
+      "Turn": 18629,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 18630,
+      "Speaker": "T",
+      "Turn": 18630,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 18631,
+      "Speaker": "T",
+      "Turn": 18631,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 18632,
+      "Speaker": "T",
+      "Turn": 18632,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 18633,
+      "Speaker": "T",
+      "Turn": 18633,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher uses a command ('Now watch') to ensure students are paying attention to the demonstration."
+    },
+    {
+      "ID": 18634,
+      "Speaker": "T",
+      "Turn": 18634,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher explicitly commands the class to 'Pay attention'."
+    },
+    {
+      "ID": 18635,
+      "Speaker": "T",
+      "Turn": 18635,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to explain the underlying concept of why the line represents a quadratic."
+    },
+    {
+      "ID": 18636,
+      "Speaker": "T",
+      "Turn": 18636,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 18637,
+      "Speaker": "T",
+      "Turn": 18637,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for a specific calculation (factors of six that add to five)."
+    },
+    {
+      "ID": 18639,
+      "Speaker": "T",
+      "Turn": 18639,
+      "TalkMove": "None",
+      "Reasoning": null
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "records": [
+    {
+      "ID": 21256,
+      "Speaker": "T",
+      "Turn": 310,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21259,
+      "Speaker": "T",
+      "Turn": 312,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher orients students to a shared resource (answers on the board) so everyone can check progress and stay on track."
+    },
+    {
+      "ID": 21270,
+      "Speaker": "T",
+      "Turn": 318,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks for an explanation of why one student is further along, prompting students to share thinking."
+    },
+    {
+      "ID": 21273,
+      "Speaker": "T",
+      "Turn": 321,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21274,
+      "Speaker": "T",
+      "Turn": 321,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21275,
+      "Speaker": "T",
+      "Turn": 321,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks students to provide a mathematically correct rewrite of an expression."
+    },
+    {
+      "ID": 21276,
+      "Speaker": "T",
+      "Turn": 321,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to rewrite the expression under a stated condition, encouraging precise mathematical language."
+    }
+  ]
+}

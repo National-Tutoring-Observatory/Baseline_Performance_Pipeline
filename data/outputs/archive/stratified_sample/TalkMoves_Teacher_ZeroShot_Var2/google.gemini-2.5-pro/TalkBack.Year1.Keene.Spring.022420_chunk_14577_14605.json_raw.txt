@@ -1,0 +1,228 @@
+{
+  "records": [
+    {
+      "ID": 14577,
+      "Turn": 55,
+      "Speaker": "T",
+      "Sentence": "What have I talked to you about before",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 14578,
+      "Turn": 55,
+      "Speaker": "T",
+      "Sentence": "Cooper",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 14580,
+      "Turn": 57,
+      "Speaker": "T",
+      "Sentence": "The numerator yes and the relationship between the numerator and the denominator and thinking about what does that fraction Sebastian look like",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's contribution ('The numerator') and then adds on to it by connecting it to the relationship with the denominator and visualizing the fraction."
+    },
+    {
+      "ID": 14581,
+      "Turn": 57,
+      "Speaker": "T",
+      "Sentence": "If I would have pictured is a pizza what would it look like",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts students to explain their thinking by visualizing a fraction as a concrete object (a pizza)."
+    },
+    {
+      "ID": 14582,
+      "Turn": 57,
+      "Speaker": "T",
+      "Sentence": "Thats where were estimating estimating kind of shows you understand the value of the fraction and so from what Im hearing I see you have the right estimate but that we cant say it makes me wonder if you understand the value of each fraction so I want to you to think about a pizza with nine slices",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 14583,
+      "Turn": 57,
+      "Speaker": "T",
+      "Sentence": "Show me your thumbs up when youve got that image in your head",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher uses a physical signal (thumbs up) to ensure all students are mentally engaged and ready for the next step."
+    },
+    {
+      "ID": 14584,
+      "Turn": 58,
+      "Speaker": "T",
+      "Sentence": "When we did estimating we were looking at these three numbers what is it closest to",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 14585,
+      "Turn": 58,
+      "Speaker": "T",
+      "Sentence": "One ninth",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 14586,
+      "Turn": 58,
+      "Speaker": "T",
+      "Sentence": "Look at one of those slices of pizza",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 14587,
+      "Turn": 58,
+      "Speaker": "T",
+      "Sentence": "Which of these numbers is it closer to",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 14588,
+      "Turn": 58,
+      "Speaker": "T",
+      "Sentence": "You can show me a zero you can show me half like this like a fraction line or you can show me one",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 14589,
+      "Turn": 58,
+      "Speaker": "T",
+      "Sentence": "One little slice of that ninth pizza what is it closer to having no pizza having half a pizza or having a whole pizza",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 14590,
+      "Turn": 58,
+      "Speaker": "T",
+      "Sentence": "Okay so I see most of you here at zero so we know this value is just a little bit",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher verbalizes the students' non-verbal responses (showing zero) and adds a mathematical interpretation ('so we know this value is just a little bit')."
+    },
+    {
+      "ID": 14591,
+      "Turn": 58,
+      "Speaker": "T",
+      "Sentence": "All right four ninths whats it closest to",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 14592,
+      "Turn": 58,
+      "Speaker": "T",
+      "Sentence": "Picture four pieces of pizza now",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 14593,
+      "Turn": 58,
+      "Speaker": "T",
+      "Sentence": "Half one or zero",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 14594,
+      "Turn": 58,
+      "Speaker": "T",
+      "Sentence": "Okay I see most people showing a half",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 14595,
+      "Turn": 58,
+      "Speaker": "T",
+      "Sentence": "What about three pieces of pizza whats that closer to half one or zero",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 14596,
+      "Turn": 58,
+      "Speaker": "T",
+      "Sentence": "You should not be waiting till I look at you to participate we should be thinking and participating",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 14597,
+      "Turn": 58,
+      "Speaker": "T",
+      "Sentence": "This is closer to half",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 14598,
+      "Turn": 58,
+      "Speaker": "T",
+      "Sentence": "If I have This is a little bit less than a half but close to a half",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 14599,
+      "Turn": 58,
+      "Speaker": "T",
+      "Sentence": "This is a little bit less but close to a half so I put that together",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 14600,
+      "Turn": 58,
+      "Speaker": "T",
+      "Sentence": "Ive already got over a half and this a little bit pushing me even closer to our answer of one",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 14601,
+      "Turn": 58,
+      "Speaker": "T",
+      "Sentence": "When we estimate we really want to think about the value",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 14602,
+      "Turn": 58,
+      "Speaker": "T",
+      "Sentence": "Now find the answer to the actual problem",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 14603,
+      "Turn": 58,
+      "Speaker": "T",
+      "Sentence": "Write it on your whiteboard",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 14604,
+      "Turn": 58,
+      "Speaker": "T",
+      "Sentence": "Show me your answer",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 14605,
+      "Turn": 58,
+      "Speaker": "T",
+      "Sentence": "Brett can you explain how you got your answer its okay just explain",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher explicitly asks a student to explain the process ('how you got your answer') they used to arrive at their solution."
+    }
+  ]
+}

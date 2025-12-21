@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 24329,
+      "Speaker": "T",
+      "Turn": 24329,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24330,
+      "Speaker": "T",
+      "Turn": 24330,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24331,
+      "Speaker": "T",
+      "Turn": 24331,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher asks students to suggest how to transform 6 1/12, inviting an explanation of a helpful method."
+    },
+    {
+      "ID": 24332,
+      "Speaker": "T",
+      "Turn": 24332,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "A follow-up prompt seeking students’ ideas about how to rewrite 6 1/12, again requesting their reasoning."
+    },
+    {
+      "ID": 24333,
+      "Speaker": "T",
+      "Turn": 24333,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24334,
+      "Speaker": "T",
+      "Turn": 24334,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher asks the student to explain the origin of 73/12, prompting justification."
+    },
+    {
+      "ID": 24336,
+      "Speaker": "T",
+      "Turn": 24336,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher presses the student to describe the next step in the procedure."
+    },
+    {
+      "ID": 24338,
+      "Speaker": "T",
+      "Turn": 24338,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24339,
+      "Speaker": "T",
+      "Turn": 24339,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24340,
+      "Speaker": "T",
+      "Turn": 24340,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "Teacher highlights that the current student’s strategy matches what Gavin and T discussed, connecting their ideas."
+    },
+    {
+      "ID": 24341,
+      "Speaker": "T",
+      "Turn": 24341,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher restates the student’s method in her own words, adding clarification about converting to twelfths."
+    },
+    {
+      "ID": 24342,
+      "Speaker": "T",
+      "Turn": 24342,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher asks for an alternative strategy, prompting students to supply and justify another approach."
+    },
+    {
+      "ID": 24343,
+      "Speaker": "T",
+      "Turn": 24343,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24345,
+      "Speaker": "T",
+      "Turn": 24345,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher summarizes Alyssa’s strategy—breaking all parts into twelfths—in her own words."
+    },
+    {
+      "ID": 24348,
+      "Speaker": "T",
+      "Turn": 24348,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Teacher signals a transition and invites the class to attend to a demonstration."
+    },
+    {
+      "ID": 24349,
+      "Speaker": "T",
+      "Turn": 24349,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "By posing a 'what if' scenario, the teacher asks students to consider and explain the consequences of converting a whole into 12/12."
+    },
+    {
+      "ID": 24351,
+      "Speaker": "T",
+      "Turn": 24351,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Teacher directs the class’s attention to a specific representation ('look at this')."
+    },
+    {
+      "ID": 24352,
+      "Speaker": "T",
+      "Turn": 24352,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks for a factual check—whether 5 + 12/12 equals 6—seeking a precise mathematical answer."
+    },
+    {
+      "ID": 24353,
+      "Speaker": "T",
+      "Turn": 24353,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Teacher prompts Lindon to pay attention, orienting him (and the class) back to the discussion."
+    },
+    {
+      "ID": 24354,
+      "Speaker": "T",
+      "Turn": 24354,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks students to calculate the total number of twelfths, eliciting a specific numeric answer."
+    }
+  ]
+}

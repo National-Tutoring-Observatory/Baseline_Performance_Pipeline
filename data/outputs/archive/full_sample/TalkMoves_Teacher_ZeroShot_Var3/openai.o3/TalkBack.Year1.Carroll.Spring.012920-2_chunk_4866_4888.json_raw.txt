@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 4866,
+      "Speaker": "T",
+      "Turn": 4866,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4867,
+      "Speaker": "T",
+      "Turn": 4867,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher restates Lydia’s question almost verbatim, repeating the student’s words for the class."
+    },
+    {
+      "ID": 4868,
+      "Speaker": "T",
+      "Turn": 4868,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "By asking “They’re pretty close aren’t they?” the teacher is prompting students to confirm the precise numerical relationship between the two fractions."
+    },
+    {
+      "ID": 4869,
+      "Speaker": "T",
+      "Turn": 4869,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4870,
+      "Speaker": "T",
+      "Turn": 4870,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4872,
+      "Speaker": "T",
+      "Turn": 4872,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4873,
+      "Speaker": "T",
+      "Turn": 4873,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4874,
+      "Speaker": "T",
+      "Turn": 4874,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4875,
+      "Speaker": "T",
+      "Turn": 4875,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the exact denominator, prompting students to supply a specific mathematical value."
+    },
+    {
+      "ID": 4877,
+      "Speaker": "T",
+      "Turn": 4877,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4878,
+      "Speaker": "T",
+      "Turn": 4878,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4879,
+      "Speaker": "T",
+      "Turn": 4879,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher pauses after stating \"So 8  9 is\" to elicit the precise sum from students."
+    },
+    {
+      "ID": 4881,
+      "Speaker": "T",
+      "Turn": 4881,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4882,
+      "Speaker": "T",
+      "Turn": 4882,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4883,
+      "Speaker": "T",
+      "Turn": 4883,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks what the denominator \"12\" tells them, prompting students to explain the meaning behind the number."
+    },
+    {
+      "ID": 4884,
+      "Speaker": "T",
+      "Turn": 4884,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4885,
+      "Speaker": "T",
+      "Turn": 4885,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks how they obtained the whole number and fractional part, seeking an explanation of the method used."
+    },
+    {
+      "ID": 4886,
+      "Speaker": "T",
+      "Turn": 4886,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The prompt \"What did we do here\" requests students to articulate the steps taken, pushing for their underlying reasoning."
+    },
+    {
+      "ID": 4887,
+      "Speaker": "T",
+      "Turn": 4887,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "By directly asking a student if she knows what was done, the teacher is inviting that student to explain the reasoning behind the work."
+    },
+    {
+      "ID": 4888,
+      "Speaker": "T",
+      "Turn": 4888,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The phrase \"From here to here\" calls for students to describe the transformation between two representations, prompting justification."
+    }
+  ]
+}

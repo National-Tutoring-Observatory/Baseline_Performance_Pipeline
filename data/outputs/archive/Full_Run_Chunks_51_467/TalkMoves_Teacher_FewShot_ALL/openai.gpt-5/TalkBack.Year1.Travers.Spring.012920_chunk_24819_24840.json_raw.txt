@@ -1,0 +1,95 @@
+{
+  "records": [
+    {
+      "ID": 24820,
+      "Speaker": "T",
+      "Turn": 173,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's response word for word."
+    },
+    {
+      "ID": 24821,
+      "Speaker": "T",
+      "Turn": 173,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts for the next data point, eliciting a specific mathematical contribution."
+    },
+    {
+      "ID": 24823,
+      "Speaker": "T",
+      "Turn": 175,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks how many of a specific value occurred, seeking a precise count."
+    },
+    {
+      "ID": 24826,
+      "Speaker": "T",
+      "Turn": 178,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24827,
+      "Speaker": "T",
+      "Turn": 178,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24828,
+      "Speaker": "T",
+      "Turn": 178,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher checks whether a particular data value was present, seeking correctness."
+    },
+    {
+      "ID": 24830,
+      "Speaker": "T",
+      "Turn": 180,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24832,
+      "Speaker": "T",
+      "Turn": 182,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the next biggest data point from the list."
+    },
+    {
+      "ID": 24833,
+      "Speaker": "T",
+      "Turn": 182,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the frequency of the value 'four' in the measurements."
+    },
+    {
+      "ID": 24835,
+      "Speaker": "T",
+      "Turn": 184,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's 'Three times' verbatim."
+    },
+    {
+      "ID": 24836,
+      "Speaker": "T",
+      "Turn": 184,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases the student's idea of 'three times' by enumerating 'one, two, three.'"
+    },
+    {
+      "ID": 24837,
+      "Speaker": "T",
+      "Turn": 184,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts for the next data point."
+    },
+    {
+      "ID": 24839,
+      "Speaker": "T",
+      "Turn": 186,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks whether any 4 1/4 values are present, seeking a precise check of the data."
+    }
+  ]
+}

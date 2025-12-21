@@ -1,0 +1,18 @@
+{
+  "records": [
+    {
+      "ID": 30375,
+      "Speaker": "T",
+      "Turn": 30375,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a specific question to elicit the numerical solution (number of pages) from the students."
+    },
+    {
+      "ID": 30377,
+      "Speaker": "T",
+      "Turn": 30377,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's answer (implied from the missing turn) and expands it into a complete sentence to model the correct mathematical formulation."
+    }
+  ]
+}

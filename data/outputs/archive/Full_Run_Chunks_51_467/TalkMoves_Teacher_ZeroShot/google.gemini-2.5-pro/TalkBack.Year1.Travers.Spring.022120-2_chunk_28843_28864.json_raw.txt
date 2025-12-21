@@ -1,0 +1,154 @@
+{
+  "records": [
+    {
+      "ID": 28843,
+      "Turn": 300,
+      "Speaker": "T",
+      "Sentence": "What s the figure called",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to provide the correct mathematical name for the shape."
+    },
+    {
+      "ID": 28844,
+      "Turn": 301,
+      "Speaker": "S",
+      "Sentence": "Pentagon"
+    },
+    {
+      "ID": 28845,
+      "Turn": 302,
+      "Speaker": "S",
+      "Sentence": "No"
+    },
+    {
+      "ID": 28846,
+      "Turn": 302,
+      "Speaker": "S",
+      "Sentence": "Trapezoid"
+    },
+    {
+      "ID": 28847,
+      "Turn": 303,
+      "Speaker": "T",
+      "Sentence": "No",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 28848,
+      "Turn": 303,
+      "Speaker": "T",
+      "Sentence": "Thats four sides",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 28849,
+      "Turn": 304,
+      "Speaker": "S",
+      "Sentence": "Trapezoid"
+    },
+    {
+      "ID": 28850,
+      "Turn": 305,
+      "Speaker": "T",
+      "Sentence": "Trapezoid",
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's contribution ('Trapezoid') word for word."
+    },
+    {
+      "ID": 28851,
+      "Turn": 306,
+      "Speaker": "S",
+      "Sentence": "Well how would you fold it this way because this side is bigger than that side"
+    },
+    {
+      "ID": 28852,
+      "Turn": 307,
+      "Speaker": "T",
+      "Sentence": "What if we had If this is the figure",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 28853,
+      "Turn": 308,
+      "Speaker": "S",
+      "Sentence": "You re not folding it down"
+    },
+    {
+      "ID": 28854,
+      "Turn": 309,
+      "Speaker": "S",
+      "Sentence": "No"
+    },
+    {
+      "ID": 28855,
+      "Turn": 309,
+      "Speaker": "S",
+      "Sentence": "If you fold it that way it would be too big"
+    },
+    {
+      "ID": 28856,
+      "Turn": 310,
+      "Speaker": "T",
+      "Sentence": "See how it s similar to this",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 28857,
+      "Turn": 311,
+      "Speaker": "S",
+      "Sentence": "Yes but if you fold it from this side"
+    },
+    {
+      "ID": 28858,
+      "Turn": 312,
+      "Speaker": "S",
+      "Sentence": "Yes"
+    },
+    {
+      "ID": 28859,
+      "Turn": 312,
+      "Speaker": "S",
+      "Sentence": "Why do you have that"
+    },
+    {
+      "ID": 28860,
+      "Turn": 313,
+      "Speaker": "T",
+      "Sentence": "I would fold it right here so that this corner would line up with this one",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 28861,
+      "Turn": 314,
+      "Speaker": "S",
+      "Sentence": "Wait because you couldn t go down the middle"
+    },
+    {
+      "ID": 28862,
+      "Turn": 315,
+      "Speaker": "T",
+      "Sentence": "You can t do it this way",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 28863,
+      "Turn": 315,
+      "Speaker": "T",
+      "Sentence": "It wouldn t match",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 28864,
+      "Turn": 316,
+      "Speaker": "S",
+      "Sentence": "Yes because if you fold it up it will just be a little off"
+    }
+  ]
+}

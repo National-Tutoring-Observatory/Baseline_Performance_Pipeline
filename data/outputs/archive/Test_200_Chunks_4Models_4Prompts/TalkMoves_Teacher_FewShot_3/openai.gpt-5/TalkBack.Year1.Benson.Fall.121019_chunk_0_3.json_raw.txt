@@ -1,0 +1,25 @@
+{
+  "records": [
+    {
+      "ID": 0,
+      "Turn": 1,
+      "Speaker": "T",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher checks that all students can see, orienting them to attend to the shared visual/instruction."
+    },
+    {
+      "ID": 2,
+      "Turn": 3,
+      "Speaker": "T",
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 3,
+      "Turn": 3,
+      "Speaker": "T",
+      "TalkMove": "None",
+      "Reasoning": null
+    }
+  ]
+}

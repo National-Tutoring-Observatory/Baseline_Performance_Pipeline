@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 2538,
+      "Speaker": "T",
+      "Turn": 16,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher prompts student to compute 400 x 6, requesting a specific numerical answer."
+    },
+    {
+      "ID": 2540,
+      "Speaker": "T",
+      "Turn": 18,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2541,
+      "Speaker": "T",
+      "Turn": 18,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks student to provide the product of 700 x 5, eliciting a precise calculation."
+    },
+    {
+      "ID": 2543,
+      "Speaker": "T",
+      "Turn": 20,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks clarifying question about the number of zeros to guide student to a correct numerical answer."
+    },
+    {
+      "ID": 2545,
+      "Speaker": "T",
+      "Turn": 22,
+      "TalkMove": "Restating",
+      "Reasoning": "Teacher repeats the student’s reply “Two,” verbatim before continuing."
+    },
+    {
+      "ID": 2547,
+      "Speaker": "T",
+      "Turn": 24,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2548,
+      "Speaker": "T",
+      "Turn": 24,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2549,
+      "Speaker": "T",
+      "Turn": 24,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher solicits the exact product of 900 x 8 from a student."
+    },
+    {
+      "ID": 2551,
+      "Speaker": "T",
+      "Turn": 26,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2552,
+      "Speaker": "T",
+      "Turn": 26,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks students to state the specific number model or equation they wrote."
+    },
+    {
+      "ID": 2553,
+      "Speaker": "T",
+      "Turn": 26,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher directly asks a student to share the written equation, requesting a precise mathematical expression."
+    },
+    {
+      "ID": 2555,
+      "Speaker": "T",
+      "Turn": 28,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher presses the student again to state the exact equation used."
+    },
+    {
+      "ID": 2557,
+      "Speaker": "T",
+      "Turn": 30,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2558,
+      "Speaker": "T",
+      "Turn": 30,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher reminds students of the requirement to include a letter for the unknown, emphasizing correct mathematical notation."
+    },
+    {
+      "ID": 2559,
+      "Speaker": "T",
+      "Turn": 30,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks which specific letter will represent the unknown, seeking precise mathematical representation."
+    },
+    {
+      "ID": 2561,
+      "Speaker": "T",
+      "Turn": 32,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher restates the student's equation, adjusting wording to model how it could be written."
+    },
+    {
+      "ID": 2562,
+      "Speaker": "T",
+      "Turn": 32,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher checks whether the student used the correct division symbol, focusing on mathematical precision."
+    },
+    {
+      "ID": 2564,
+      "Speaker": "T",
+      "Turn": 34,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2565,
+      "Speaker": "T",
+      "Turn": 34,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2566,
+      "Speaker": "T",
+      "Turn": 34,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "Teacher references Jonathan’s equation and asks if others used a different symbol, prompting students to connect their work to a peer’s idea."
+    }
+  ]
+}

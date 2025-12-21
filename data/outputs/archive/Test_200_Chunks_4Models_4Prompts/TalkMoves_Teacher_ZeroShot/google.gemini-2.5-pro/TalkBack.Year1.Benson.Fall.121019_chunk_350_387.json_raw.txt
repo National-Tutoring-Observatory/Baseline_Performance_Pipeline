@@ -1,0 +1,110 @@
+{
+  "records": [
+    {
+      "ID": 350,
+      "Turn": 173,
+      "Speaker": "T",
+      "Sentence": "nan",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 351,
+      "Turn": 173,
+      "Speaker": "T",
+      "Sentence": "I need to multiply that times the value of this digit right here which is",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students for a specific mathematical value ('the value of this digit')."
+    },
+    {
+      "ID": 353,
+      "Turn": 175,
+      "Speaker": "T",
+      "Sentence": "10 Im done here",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 354,
+      "Turn": 175,
+      "Speaker": "T",
+      "Sentence": "Now Im going to take this value of this digit which was what",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students for a specific mathematical value ('which was what')."
+    },
+    {
+      "ID": 356,
+      "Turn": 177,
+      "Speaker": "T",
+      "Sentence": "30 and I have to multiply it here whats the value of this digit",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students for a specific mathematical value ('whats the value of this digit')."
+    },
+    {
+      "ID": 358,
+      "Turn": 179,
+      "Speaker": "T",
+      "Sentence": "Seven Im done with Uh uh I need to take the value of this digit what was that",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students for a specific mathematical value ('what was that')."
+    },
+    {
+      "ID": 361,
+      "Turn": 182,
+      "Speaker": "T",
+      "Sentence": "Its worth 10",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 362,
+      "Turn": 182,
+      "Speaker": "T",
+      "Sentence": "I need to multiply here",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 363,
+      "Turn": 182,
+      "Speaker": "T",
+      "Sentence": "Whats this digit worth",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students for a specific mathematical value ('Whats this digit worth')."
+    },
+    {
+      "ID": 366,
+      "Turn": 185,
+      "Speaker": "T",
+      "Sentence": "I need to do this last one",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 367,
+      "Turn": 185,
+      "Speaker": "T",
+      "Sentence": "The value of this times this is",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to complete a mathematical statement with a specific value."
+    },
+    {
+      "ID": 369,
+      "Turn": 187,
+      "Speaker": "T",
+      "Sentence": "I can multiplytwodigitstimestwodigits",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 370,
+      "Turn": 187,
+      "Speaker": "T",
+      "Sentence": "Okay",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 371,
+      "Turn": 187,
+      

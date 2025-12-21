@@ -1,0 +1,123 @@
+{
+  "records": [
+    {
+      "ID": 22685,
+      "Turn": 103,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts for the precise mathematical definition of a term."
+    },
+    {
+      "ID": 22686,
+      "Turn": 103,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to explain the basis for their knowledge."
+    },
+    {
+      "ID": 22687,
+      "Turn": 103,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks a specific student to elaborate on their thinking."
+    },
+    {
+      "ID": 22688,
+      "Turn": 104,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22689,
+      "Turn": 105,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to provide a demonstration as a form of explanation."
+    },
+    {
+      "ID": 22690,
+      "Turn": 105,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher repeats the request for a demonstration as a form of explanation."
+    },
+    {
+      "ID": 22691,
+      "Turn": 105,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22692,
+      "Turn": 105,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to provide justification for their claim of equality."
+    },
+    {
+      "ID": 22693,
+      "Turn": 105,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher continues to press for justification, clarifying the previous question."
+    },
+    {
+      "ID": 22695,
+      "Turn": 107,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases the student's observation about the number line using the mathematical term 'equivalent'."
+    },
+    {
+      "ID": 22696,
+      "Turn": 107,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher clarifies the student's idea by rephrasing 'sits directly underneath' as 'the exact same amount of space'."
+    },
+    {
+      "ID": 22697,
+      "Turn": 107,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22698,
+      "Turn": 107,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22702,
+      "Turn": 110,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to provide a mathematical proof or demonstration for their idea."
+    },
+    {
+      "ID": 22703,
+      "Turn": 110,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher explicitly asks the student to share their mathematical reasoning."
+    },
+    {
+      "ID": 22705,
+      "Turn": 112,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's suggestion and reframes it as an alternative method, putting it into a complete thought."
+    },
+    {
+      "ID": 22706,
+      "Turn": 112,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 3038,
+      "Speaker": "T",
+      "Turn": 3038,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher paraphrases what was just done ('we just wrote it in reverse'), restating a prior idea in her own words."
+    },
+    {
+      "ID": 3039,
+      "Speaker": "T",
+      "Turn": 3039,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the mathematical statement the class produced, using her own wording to clarify it."
+    },
+    {
+      "ID": 3040,
+      "Speaker": "T",
+      "Turn": 3040,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3041,
+      "Speaker": "T",
+      "Turn": 3041,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks a student to identify the specific 'basic fact,' prompting a precise mathematical statement."
+    },
+    {
+      "ID": 3042,
+      "Speaker": "T",
+      "Turn": 3042,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3043,
+      "Speaker": "T",
+      "Turn": 3043,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3044,
+      "Speaker": "T",
+      "Turn": 3044,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Again prompts a student to state the precise basic multiplication fact."
+    },
+    {
+      "ID": 3046,
+      "Speaker": "T",
+      "Turn": 3046,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks students to supply the missing factor in a multiplication fact, seeking a precise numerical answer."
+    },
+    {
+      "ID": 3048,
+      "Speaker": "T",
+      "Turn": 3048,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3049,
+      "Speaker": "T",
+      "Turn": 3049,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3051,
+      "Speaker": "T",
+      "Turn": 3051,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3052,
+      "Speaker": "T",
+      "Turn": 3052,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Restates the multiplication relationship, echoing the earlier student/teacher exchange with slightly different wording."
+    },
+    {
+      "ID": 3053,
+      "Speaker": "T",
+      "Turn": 3053,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Directly asks for the exact number that completes the multiplication statement."
+    },
+    {
+      "ID": 3055,
+      "Speaker": "T",
+      "Turn": 3055,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Repeats the student's answer ('Four') and elaborates ('my missing link is four')."
+    },
+    {
+      "ID": 3056,
+      "Speaker": "T",
+      "Turn": 3056,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Checks the whole class’s understanding, ensuring that all students are following the repeated example."
+    },
+    {
+      "ID": 3058,
+      "Speaker": "T",
+      "Turn": 3058,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Selects and signals the next student ('Okay Fletcher'), orienting class attention to that student’s forthcoming contribution."
+    },
+    {
+      "ID": 3060,
+      "Speaker": "T",
+      "Turn": 3060,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks for a precise evaluation (whether the blocks are worth 50), prompting a correct numerical response."
+    },
+    {
+      "ID": 3061,
+      "Speaker": "T",
+      "Turn": 3061,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Again seeks confirmation of the exact numerical value, pressing for a correct answer."
+    },
+    {
+      "ID": 3064,
+      "Speaker": "T",
+      "Turn": 3064,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3066,
+      "Speaker": "T",
+      "Turn": 3066,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

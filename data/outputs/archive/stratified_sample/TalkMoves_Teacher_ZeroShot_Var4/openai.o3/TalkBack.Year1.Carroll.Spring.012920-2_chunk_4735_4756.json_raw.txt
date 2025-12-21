@@ -1,0 +1,95 @@
+{
+  "records": [
+    {
+      "ID": 4735,
+      "Speaker": "T",
+      "Turn": 50,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4736,
+      "Speaker": "T",
+      "Turn": 50,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for a specific mathematical quantity (“How much …?”), prompting students to supply a precise numerical answer."
+    },
+    {
+      "ID": 4737,
+      "Speaker": "T",
+      "Turn": 51,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "By stating that students need a number model and an answer, the teacher presses them to give explicit mathematical representations and a correct solution."
+    },
+    {
+      "ID": 4738,
+      "Speaker": "T",
+      "Turn": 51,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher directs students to discuss which operation to use, asking them to articulate and justify their choice."
+    },
+    {
+      "ID": 4739,
+      "Speaker": "T",
+      "Turn": 51,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks what operation to choose and which words give clues, explicitly requesting students’ reasoning and evidence from the problem statement."
+    },
+    {
+      "ID": 4748,
+      "Speaker": "T",
+      "Turn": 58,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4749,
+      "Speaker": "T",
+      "Turn": 58,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4750,
+      "Speaker": "T",
+      "Turn": 59,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "By asking “Which one?” the teacher presses students to state the specific mathematical operation they will use."
+    },
+    {
+      "ID": 4751,
+      "Speaker": "T",
+      "Turn": 59,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher offers the list of operations and asks which is appropriate, prompting students to choose the precise mathematical action."
+    },
+    {
+      "ID": 4753,
+      "Speaker": "T",
+      "Turn": 60,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4754,
+      "Speaker": "T",
+      "Turn": 60,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student’s one-word answer “Subtraction” exactly, mirroring the student’s contribution."
+    },
+    {
+      "ID": 4755,
+      "Speaker": "T",
+      "Turn": 60,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The open prompt “What do you think?” invites students to share and explain their ideas, soliciting their reasoning."
+    },
+    {
+      "ID": 4756,
+      "Speaker": "T",
+      "Turn": 60,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher echoes the operation “Addition,” restating the idea just offered by students."
+    }
+  ]
+}

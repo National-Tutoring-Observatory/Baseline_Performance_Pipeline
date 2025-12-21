@@ -1,0 +1,242 @@
+{
+  "records": [
+    {
+      "ID": 14650,
+      "Speaker": "T",
+      "Turn": 82,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 14652,
+      "Speaker": "T",
+      "Turn": 84,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 14653,
+      "Speaker": "T",
+      "Turn": 84,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Asks students to think about and explain how estimating first would help solve the problem, prompting them to articulate their reasoning."
+    },
+    {
+      "ID": 14654,
+      "Speaker": "T",
+      "Turn": 84,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 14655,
+      "Speaker": "T",
+      "Turn": 84,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Requests a thumbs-up from all students when they have an answer, ensuring whole-class engagement and monitoring readiness."
+    },
+    {
+      "ID": 14656,
+      "Speaker": "T",
+      "Turn": 84,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "Directs students to \"share with your partner,\" prompting them to discuss and consider each other’s thinking."
+    },
+    {
+      "ID": 14657,
+      "Speaker": "T",
+      "Turn": 85,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Checks whether specific students have participated, making sure all are involved in the discussion."
+    },
+    {
+      "ID": 14658,
+      "Speaker": "T",
+      "Turn": 85,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Uses a turn-taking routine (calling on “Red Robin”) to organize who will speak next, coordinating the group."
+    },
+    {
+      "ID": 14660,
+      "Speaker": "T",
+      "Turn": 87,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Selects a student (Sebastian) to take the floor, directing class attention to that speaker."
+    },
+    {
+      "ID": 14661,
+      "Speaker": "T",
+      "Turn": 87,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Asks Sebastian to explain how estimation would help, eliciting an explanation of reasoning."
+    },
+    {
+      "ID": 14663,
+      "Speaker": "T",
+      "Turn": 89,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Clarifies that the answer must address this particular problem, pushing students to be precise and specific."
+    },
+    {
+      "ID": 14664,
+      "Speaker": "T",
+      "Turn": 89,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Emphasizes the need for a specific estimate related to the given problem, urging students to refine their responses."
+    },
+    {
+      "ID": 14665,
+      "Speaker": "T",
+      "Turn": 89,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Asks students what they notice when comparing their estimate to the given answer, prompting analysis and justification."
+    },
+    {
+      "ID": 14666,
+      "Speaker": "T",
+      "Turn": 90,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Uses a countdown to re-focus the whole class and coordinate attention."
+    },
+    {
+      "ID": 14667,
+      "Speaker": "T",
+      "Turn": 90,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Calls on a specific student (Bailey) to speak, managing turn-taking for the group."
+    },
+    {
+      "ID": 14669,
+      "Speaker": "T",
+      "Turn": 92,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Asks the student to specify what was done wrong, prompting an explanation of the error."
+    },
+    {
+      "ID": 14670,
+      "Speaker": "T",
+      "Turn": 92,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Reminds the student to give an estimate, pushing for the appropriate mathematical response."
+    },
+    {
+      "ID": 14671,
+      "Speaker": "T",
+      "Turn": 92,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Directly asks for the specific numerical estimate, seeking a precise mathematical contribution."
+    },
+    {
+      "ID": 14672,
+      "Speaker": "T",
+      "Turn": 92,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Prompts students to decide which benchmark (0, 1/2, or 1) 1/3 is closest to, emphasizing exact mathematical language."
+    },
+    {
+      "ID": 14675,
+      "Speaker": "T",
+      "Turn": 94,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student’s one-word answer \"Half\" verbatim."
+    },
+    {
+      "ID": 14676,
+      "Speaker": "T",
+      "Turn": 94,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 14677,
+      "Speaker": "T",
+      "Turn": 94,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 14678,
+      "Speaker": "T",
+      "Turn": 94,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Invites the student to continue explaining, encouraging further elaboration of reasoning."
+    },
+    {
+      "ID": 14680,
+      "Speaker": "T",
+      "Turn": 96,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 14681,
+      "Speaker": "T",
+      "Turn": 96,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Asks whether the value would go over a whole, prompting students to reason about the size of the sum."
+    },
+    {
+      "ID": 14682,
+      "Speaker": "T",
+      "Turn": 96,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Continues to press students to determine if the answer is bigger than one, requesting justification."
+    },
+    {
+      "ID": 14684,
+      "Speaker": "T",
+      "Turn": 98,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Takes the student’s brief confirmation \"Yes\" and rephrases/extends it with a fuller mathematical explanation."
+    },
+    {
+      "ID": 14686,
+      "Speaker": "T",
+      "Turn": 100,
+      "TalkMove": "Restating",
+      "Reasoning": "Repeats the student’s answer \"No\" verbatim to acknowledge it."
+    },
+    {
+      "ID": 14687,
+      "Speaker": "T",
+      "Turn": 100,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 14688,
+      "Speaker": "T",
+      "Turn": 100,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 14689,
+      "Speaker": "T",
+      "Turn": 100,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 14690,
+      "Speaker": "T",
+      "Turn": 100,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 14691,
+      "Speaker": "T",
+      "Turn": 100,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 14692,
+      "Speaker": "T",
+      "Turn": 100,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

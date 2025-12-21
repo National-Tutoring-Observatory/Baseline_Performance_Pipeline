@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 29912,
+      "Speaker": "T",
+      "Turn": 29912,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 29913,
+      "Speaker": "T",
+      "Turn": 29913,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 29914,
+      "Speaker": "T",
+      "Turn": 29914,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 29915,
+      "Speaker": "T",
+      "Turn": 29915,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 29916,
+      "Speaker": "T",
+      "Turn": 29916,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 29917,
+      "Speaker": "T",
+      "Turn": 29917,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 29918,
+      "Speaker": "T",
+      "Turn": 29918,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 29919,
+      "Speaker": "T",
+      "Turn": 29919,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 29920,
+      "Speaker": "T",
+      "Turn": 29920,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 29921,
+      "Speaker": "T",
+      "Turn": 29921,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 29922,
+      "Speaker": "T",
+      "Turn": 29922,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 29923,
+      "Speaker": "T",
+      "Turn": 29923,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 29924,
+      "Speaker": "T",
+      "Turn": 29924,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks Hannah to explain how she divided the cars, prompting her to share her method."
+    },
+    {
+      "ID": 29925,
+      "Speaker": "T",
+      "Turn": 29925,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher requests an explanation of how the division was done, eliciting the student's reasoning."
+    },
+    {
+      "ID": 29927,
+      "Speaker": "T",
+      "Turn": 29927,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 29928,
+      "Speaker": "T",
+      "Turn": 29928,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to specify the exact starting value, asking for a precise mathematical detail."
+    },
+    {
+      "ID": 29931,
+      "Speaker": "T",
+      "Turn": 29931,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher cues the mathematical operator 'divided by,' prompting use of formal mathematical language."
+    },
+    {
+      "ID": 29933,
+      "Speaker": "T",
+      "Turn": 29933,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher restates the student’s contribution ('three') and adds justification, rephrasing the idea for the class."
+    },
+    {
+      "ID": 29934,
+      "Speaker": "T",
+      "Turn": 29934,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher summarizes the student’s approach in her own words to make the method explicit to the class."
+    },
+    {
+      "ID": 29935,
+      "Speaker": "T",
+      "Turn": 29935,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher reformulates the student’s idea as a mathematical expression ('16 divided by three')."
+    }
+  ]
+}

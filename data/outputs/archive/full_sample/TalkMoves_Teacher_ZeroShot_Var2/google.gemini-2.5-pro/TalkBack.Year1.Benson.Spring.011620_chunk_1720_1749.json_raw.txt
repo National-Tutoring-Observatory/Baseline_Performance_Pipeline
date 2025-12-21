@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 1720,
+      "Speaker": "T",
+      "Turn": 1720,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1721,
+      "Speaker": "T",
+      "Turn": 1721,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1722,
+      "Speaker": "T",
+      "Turn": 1722,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts a student to provide the next mathematical step in the problem-solving process."
+    },
+    {
+      "ID": 1724,
+      "Speaker": "T",
+      "Turn": 1724,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1725,
+      "Speaker": "T",
+      "Turn": 1725,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to identify the remaining mathematical components to be added."
+    },
+    {
+      "ID": 1727,
+      "Speaker": "T",
+      "Turn": 1727,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases a student's likely contribution into a complete sentence, clarifying the next step in the process."
+    },
+    {
+      "ID": 1728,
+      "Speaker": "T",
+      "Turn": 1728,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to consider the specific mathematical operation needed to solve the problem."
+    },
+    {
+      "ID": 1730,
+      "Speaker": "T",
+      "Turn": 1730,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the specific result of an addition problem, pressing for a correct mathematical answer."
+    },
+    {
+      "ID": 1732,
+      "Speaker": "T",
+      "Turn": 1732,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's correct answer word for word."
+    },
+    {
+      "ID": 1733,
+      "Speaker": "T",
+      "Turn": 1733,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher summarizes and attributes a problem-solving strategy to a student, rephrasing and validating their contribution."
+    },
+    {
+      "ID": 1734,
+      "Speaker": "T",
+      "Turn": 1734,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1736,
+      "Speaker": "T",
+      "Turn": 1736,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher poses a question to prompt students to consider the validity and implications of an alternative problem-solving strategy."
+    },
+    {
+      "ID": 1738,
+      "Speaker": "T",
+      "Turn": 1738,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a direct question to elicit a specific piece of mathematical information from the students."
+    },
+    {
+      "ID": 1740,
+      "Speaker": "T",
+      "Turn": 1740,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's answer and adds clarifying information, connecting the fraction to the concept of a whole."
+    },
+    {
+      "ID": 1741,
+      "Speaker": "T",
+      "Turn": 1741,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1742,
+      "Speaker": "T",
+      "Turn": 1742,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1743,
+      "Speaker": "T",
+      "Turn": 1743,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a question to elicit a specific piece of mathematical information, focusing on a part of the problem."
+    },
+    {
+      "ID": 1745,
+      "Speaker": "T",
+      "Turn": 1745,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students for the next specific number in a calculation."
+    },
+    {
+      "ID": 1747,
+      "Speaker": "T",
+      "Turn": 1747,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to evaluate the validity of a proposed calculation as a method for solving the problem."
+    },
+    {
+      "ID": 1749,
+      "Speaker": "T",
+      "Turn": 1749,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher directs the students' attention to a specific part of the problem to ensure the group is focused on the same step."
+    }
+  ]
+}

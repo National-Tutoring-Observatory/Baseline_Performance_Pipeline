@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 2882,
+      "Speaker": "T",
+      "Turn": 2882,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 2884,
+      "Speaker": "T",
+      "Turn": 2884,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to clarify their stance ('Are you saying yes...'), prompting them to explain or confirm their thinking behind the representation."
+    },
+    {
+      "ID": 2886,
+      "Speaker": "T",
+      "Turn": 2886,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts the student to reflect on the nature of the number ('Think about what is that'), encouraging deeper thinking about the concept."
+    },
+    {
+      "ID": 2887,
+      "Speaker": "T",
+      "Turn": 2887,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks the student to read the number aloud, which is a prompt for precise mathematical language/communication."
+    },
+    {
+      "ID": 2889,
+      "Speaker": "T",
+      "Turn": 2889,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's idea back to them ('Youre telling me 8/10 is the same thing as 80/100') to verify understanding and make it public."
+    },
+    {
+      "ID": 2890,
+      "Speaker": "T",
+      "Turn": 2890,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher asks the class or a student 'Do you agree', prompting them to react to the previous claim about the equivalence of the numbers."
+    },
+    {
+      "ID": 2892,
+      "Speaker": "T",
+      "Turn": 2892,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher asks for a show of agreement ('How many of you agree with that...'), prompting the whole class to evaluate the specific mathematical claim made."
+    },
+    {
+      "ID": 2893,
+      "Speaker": "T",
+      "Turn": 2893,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher sets up a logical implication ('Then I should assume...'), prompting students to consider if the reasoning holds for writing the fraction as a decimal."
+    },
+    {
+      "ID": 2894,
+      "Speaker": "T",
+      "Turn": 2894,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 2895,
+      "Speaker": "T",
+      "Turn": 2895,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for a specific mathematical contribution ('Did anyone do the fraction for...')."
+    },
+    {
+      "ID": 2896,
+      "Speaker": "T",
+      "Turn": 2896,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher calls on a specific student to share their answer ('what did you write'), prompting for the mathematical result."
+    },
+    {
+      "ID": 2898,
+      "Speaker": "T",
+      "Turn": 2898,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks 'Is there any other way to write that', which prompts students to connect different representations or think flexibly about the notation."
+    },
+    {
+      "ID": 2902,
+      "Speaker": "T",
+      "Turn": 2902,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 2903,
+      "Speaker": "T",
+      "Turn": 2903,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 2904,
+      "Speaker": "T",
+      "Turn": 2904,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 2905,
+      "Speaker": "T",
+      "Turn": 2905,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 2906,
+      "Speaker": "T",
+      "Turn": 2906,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 2907,
+      "Speaker": "T",
+      "Turn": 2907,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher is managing attention ('I am right here'), orienting students back to the instruction."
+    },
+    {
+      "ID": 2908,
+      "Speaker": "T",
+      "Turn": 2908,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher explicitly directs focus ('Your attention should be here'), ensuring the class is listening."
+    },
+    {
+      "ID": 2909,
+      "Speaker": "T",
+      "Turn": 2909,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher corrects behavior to maintain group focus ('Should not even be near Black')."
+    }
+  ]
+}

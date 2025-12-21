@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 792,
+      "Speaker": "T",
+      "Turn": 792,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the exact value of the expression, prompting a specific mathematical contribution."
+    },
+    {
+      "ID": 794,
+      "Speaker": "T",
+      "Turn": 794,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher restates the student’s idea and adds an equivalent naming ('or one'), adjusting the wording."
+    },
+    {
+      "ID": 795,
+      "Speaker": "T",
+      "Turn": 795,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 796,
+      "Speaker": "T",
+      "Turn": 796,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 797,
+      "Speaker": "T",
+      "Turn": 797,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 798,
+      "Speaker": "T",
+      "Turn": 798,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 799,
+      "Speaker": "T",
+      "Turn": 799,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher manages turn-taking and asks others to pause, orienting the class to a shared focus."
+    },
+    {
+      "ID": 800,
+      "Speaker": "T",
+      "Turn": 800,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 801,
+      "Speaker": "T",
+      "Turn": 801,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 802,
+      "Speaker": "T",
+      "Turn": 802,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 803,
+      "Speaker": "T",
+      "Turn": 803,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks the student to name the specific piece that is equivalent to the whole."
+    },
+    {
+      "ID": 805,
+      "Speaker": "T",
+      "Turn": 805,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts for a precise attribute (the color) of the piece."
+    },
+    {
+      "ID": 807,
+      "Speaker": "T",
+      "Turn": 807,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's answer ('orange') and adds an explanation connecting it to the whole."
+    },
+    {
+      "ID": 808,
+      "Speaker": "T",
+      "Turn": 808,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 809,
+      "Speaker": "T",
+      "Turn": 809,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 810,
+      "Speaker": "T",
+      "Turn": 810,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher designates the next speaker, orienting class attention to that student."
+    },
+    {
+      "ID": 812,
+      "Speaker": "T",
+      "Turn": 812,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's suggestion word-for-word."
+    },
+    {
+      "ID": 813,
+      "Speaker": "T",
+      "Turn": 813,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher invites testing the proposed idea to see if it works, prompting evidence-based justification."
+    },
+    {
+      "ID": 814,
+      "Speaker": "T",
+      "Turn": 814,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 815,
+      "Speaker": "T",
+      "Turn": 815,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher highlights a peer’s approach to orient the class to another student's idea."
+    }
+  ]
+}

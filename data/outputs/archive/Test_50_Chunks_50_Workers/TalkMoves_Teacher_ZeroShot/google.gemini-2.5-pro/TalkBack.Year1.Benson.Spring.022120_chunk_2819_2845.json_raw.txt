@@ -1,0 +1,108 @@
+{
+  "records": [
+    {
+      "ID": 2829,
+      "Turn": 1,
+      "Speaker": "T",
+      "Sentence": "Okay lets get started",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2830,
+      "Turn": 1,
+      "Speaker": "T",
+      "Sentence": "If you wrote a decimal for 210 raise your hand",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2831,
+      "Turn": 1,
+      "Speaker": "T",
+      "Sentence": "Ally what did you write",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2833,
+      "Turn": 3,
+      "Speaker": "T",
+      "Sentence": "Is it okay to write this",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks students to evaluate the correctness of a mathematical representation, prompting them to be precise."
+    },
+    {
+      "ID": 2835,
+      "Turn": 5,
+      "Speaker": "T",
+      "Sentence": "Is it okay to write this",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher continues to ask students to evaluate the correctness of different mathematical representations."
+    },
+    {
+      "ID": 2837,
+      "Turn": 7,
+      "Speaker": "T",
+      "Sentence": "Is it okay to write this",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher again asks students to evaluate the correctness of a mathematical representation."
+    },
+    {
+      "ID": 2839,
+      "Turn": 9,
+      "Speaker": "T",
+      "Sentence": "Yes as long as zeros keep going after it its okay",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2840,
+      "Turn": 9,
+      "Speaker": "T",
+      "Sentence": "Basically you would just be creating an equivalent fraction",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2841,
+      "Turn": 9,
+      "Speaker": "T",
+      "Sentence": "Were over here",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2842,
+      "Turn": 9,
+      "Speaker": "T",
+      "Sentence": "If you multiplied 210 times 1000 over 1000 you would have 2000 over 10000",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2843,
+      "Turn": 9,
+      "Speaker": "T",
+      "Sentence": "That would be represented with your zeros on the decimal",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2844,
+      "Turn": 9,
+      "Speaker": "T",
+      "Sentence": "All right if you did 710 as a decimal show me your hands",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2845,
+      "Turn": 9,
+      "Speaker": "T",
+      "Sentence": "Austin what did you write",
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

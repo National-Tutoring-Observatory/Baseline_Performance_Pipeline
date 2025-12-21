@@ -1,0 +1,179 @@
+{
+  "records": [
+    {
+      "ID": 659,
+      "Turn": 138,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 660,
+      "Turn": 138,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 661,
+      "Turn": 138,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 662,
+      "Turn": 139,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 663,
+      "Turn": 139,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 664,
+      "Turn": 139,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 665,
+      "Turn": 139,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 667,
+      "Turn": 140,
+      "Speaker": "T",
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's contribution ('The tenths') word for word."
+    },
+    {
+      "ID": 668,
+      "Turn": 140,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 670,
+      "Turn": 142,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 671,
+      "Turn": 142,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 673,
+      "Turn": 144,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks students for a specific mathematical quantity ('how many of them would we need')."
+    },
+    {
+      "ID": 674,
+      "Turn": 144,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 675,
+      "Turn": 144,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 676,
+      "Turn": 144,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 677,
+      "Turn": 144,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to make a specific mathematical comparison ('more or less')."
+    },
+    {
+      "ID": 679,
+      "Turn": 146,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks 'why' to prompt the student to explain their thinking behind their answer."
+    },
+    {
+      "ID": 680,
+      "Turn": 146,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher repeats the press for reasoning, directing it to a specific student and clarifying the question."
+    },
+    {
+      "ID": 682,
+      "Turn": 148,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's idea ('it's missing the orange') but rephrases it with more precise language ('theres some space missing underneath it would not be equal')."
+    },
+    {
+      "ID": 683,
+      "Turn": 148,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 684,
+      "Turn": 148,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks students to identify a specific mathematical quantity ('What would the whole be')."
+    },
+    {
+      "ID": 685,
+      "Turn": 148,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher rephrases the question, still pressing for a specific mathematical contribution."
+    },
+    {
+      "ID": 686,
+      "Turn": 148,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 687,
+      "Turn": 148,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 688,
+      "Turn": 148,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a specific question to prompt students to check their mathematical work."
+    }
+  ]
+}

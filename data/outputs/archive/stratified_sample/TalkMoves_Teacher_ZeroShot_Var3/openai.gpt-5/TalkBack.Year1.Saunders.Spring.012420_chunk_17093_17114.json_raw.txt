@@ -1,0 +1,116 @@
+{
+  "records": [
+    {
+      "ID": 17094,
+      "Speaker": "T",
+      "Turn": 107,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17095,
+      "Speaker": "T",
+      "Turn": 107,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the exact mathematical procedure to use, employing precise mathematical language."
+    },
+    {
+      "ID": 17096,
+      "Speaker": "T",
+      "Turn": 107,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17097,
+      "Speaker": "T",
+      "Turn": 108,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher directs the class to listen, promoting active listening."
+    },
+    {
+      "ID": 17100,
+      "Speaker": "T",
+      "Turn": 110,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for a specific contextual value (the year), prompting a precise mathematical contribution."
+    },
+    {
+      "ID": 17102,
+      "Speaker": "T",
+      "Turn": 112,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17103,
+      "Speaker": "T",
+      "Turn": 112,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to classify the trend using mathematical terms (increasing, decreasing, constant)."
+    },
+    {
+      "ID": 17105,
+      "Speaker": "T",
+      "Turn": 114,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's one-word answer verbatim."
+    },
+    {
+      "ID": 17106,
+      "Speaker": "T",
+      "Turn": 114,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher checks whether the trend continues, prompting a precise mathematical claim."
+    },
+    {
+      "ID": 17108,
+      "Speaker": "T",
+      "Turn": 116,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher echoes the student's “Yes” verbatim."
+    },
+    {
+      "ID": 17109,
+      "Speaker": "T",
+      "Turn": 116,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher paraphrases and extends students’ answers into a contextualized conclusion about the model."
+    },
+    {
+      "ID": 17110,
+      "Speaker": "T",
+      "Turn": 116,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to explain the challenge of moving from abstract math to a story context."
+    },
+    {
+      "ID": 17111,
+      "Speaker": "T",
+      "Turn": 116,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17112,
+      "Speaker": "T",
+      "Turn": 116,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17113,
+      "Speaker": "T",
+      "Turn": 116,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17114,
+      "Speaker": "T",
+      "Turn": 116,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

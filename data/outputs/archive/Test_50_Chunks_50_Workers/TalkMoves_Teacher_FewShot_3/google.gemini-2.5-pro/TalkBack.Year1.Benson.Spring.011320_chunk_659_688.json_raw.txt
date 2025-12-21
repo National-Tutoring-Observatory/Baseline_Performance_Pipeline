@@ -1,0 +1,204 @@
+{
+  "records": [
+    {
+      "ID": 659,
+      "Turn": 138,
+      "Speaker": "T",
+      "Sentence": "This is one of them that would be two of them that would be three of them",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 660,
+      "Turn": 138,
+      "Speaker": "T",
+      "Sentence": "Then its just basically asking you what piece is equal to that",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 661,
+      "Turn": 138,
+      "Speaker": "T",
+      "Sentence": "If you lay your halfcircle or your pink piece on there those are equal",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 662,
+      "Turn": 139,
+      "Speaker": "T",
+      "Sentence": "Heres your next question",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 663,
+      "Turn": 139,
+      "Speaker": "T",
+      "Sentence": "Take out your purple pieces",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 664,
+      "Turn": 139,
+      "Speaker": "T",
+      "Sentence": "Remember that theyre different from dark blue so make sure youre getting purple not dark blue",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 665,
+      "Turn": 139,
+      "Speaker": "T",
+      "Sentence": "We want this one",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 667,
+      "Turn": 140,
+      "Speaker": "T",
+      "Sentence": "The tenths",
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's contribution verbatim."
+    },
+    {
+      "ID": 668,
+      "Turn": 140,
+      "Speaker": "T",
+      "Sentence": "Take out your purple pieces",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 670,
+      "Turn": 142,
+      "Speaker": "T",
+      "Sentence": "Rob if you go over to I think its the first column second go down the stairs there are bags of fraction circle pieces you may borrow",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 671,
+      "Turn": 142,
+      "Speaker": "T",
+      "Sentence": "There should be four or five  Did everybody find their purple pieces",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher checks if all students have the necessary materials, ensuring the whole class is ready to proceed with the task together."
+    },
+    {
+      "ID": 673,
+      "Turn": 144,
+      "Speaker": "T",
+      "Sentence": "All right this is going to be onefourth of a new shape how many of them would we need to make the whole thing",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher poses a mathematical question to the class, prompting them to make a specific mathematical contribution (the number of pieces needed)."
+    },
+    {
+      "ID": 674,
+      "Turn": 144,
+      "Speaker": "T",
+      "Sentence": "Show me on your fingers",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 675,
+      "Turn": 144,
+      "Speaker": "T",
+      "Sentence": "That purple piece is one fourth four four four four four four four four four four four four three four four four four four four",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 676,
+      "Turn": 144,
+      "Speaker": "T",
+      "Sentence": "Okay one out of the four pieces it needs this is one of them two of them three of them four of them okay",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 677,
+      "Turn": 144,
+      "Speaker": "T",
+      "Sentence": "Is that more or less than what you just had with your light blue pieces",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a comparative question, prompting students to make a mathematical contribution by comparing the current fraction to a previous one."
+    },
+    {
+      "ID": 679,
+      "Turn": 146,
+      "Speaker": "T",
+      "Sentence": "Less why is it less",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "After a student provides an answer ('Less'), the teacher asks 'why,' explicitly prompting the student to explain their thinking."
+    },
+    {
+      "ID": 680,
+      "Turn": 146,
+      "Speaker": "T",
+      "Sentence": "Stephan why is this onefourth fraction less than this onethird fraction",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher directs the question to a specific student and reframes it using precise mathematical terms, pressing the student to explain the reasoning behind the comparison of two fractions."
+    },
+    {
+      "ID": 682,
+      "Turn": 148,
+      "Speaker": "T",
+      "Sentence": "Right if I were to lay this on top do you see right here theres some space missing underneath it would not be equal",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher takes the student's idea about a piece being 'missing' and rephrases it with more clarity, describing the action of laying pieces on top and observing the 'space missing underneath.'"
+    },
+    {
+      "ID": 683,
+      "Turn": 148,
+      "Speaker": "T",
+      "Sentence": "Theres another group missing so youre right Stephan that would be right",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 684,
+      "Turn": 148,
+      "Speaker": "T",
+      "Sentence": "What would the whole be",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a direct question to elicit a specific mathematical contribution from the students (identifying the whole)."
+    },
+    {
+      "ID": 685,
+      "Turn": 148,
+      "Speaker": "T",
+      "Sentence": "What would the whole be if I were looking at that would you put on top of that",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher rephrases the question, prompting students to identify the whole by relating it to the physical manipulatives."
+    },
+    {
+      "ID": 686,
+      "Turn": 148,
+      "Speaker": "T",
+      "Sentence": "Think about your different color pieces and leave them out there",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 687,
+      "Turn": 148,
+      "Speaker": "T",
+      "Sentence": "That works",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 688,
+      "Turn": 148,
+      "Speaker": "T",
+      "Sentence": "Does an orange piece work",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to test a specific piece, asking them to make a mathematical contribution about whether it fits the condition."
+    }
+  ]
+}

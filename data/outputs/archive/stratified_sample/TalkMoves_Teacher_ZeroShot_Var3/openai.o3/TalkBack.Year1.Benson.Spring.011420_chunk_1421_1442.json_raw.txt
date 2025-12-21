@@ -1,0 +1,116 @@
+{
+  "records": [
+    {
+      "ID": 1422,
+      "Speaker": "T",
+      "Turn": 189,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1423,
+      "Speaker": "T",
+      "Turn": 189,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks for the exact number of additional eighths needed, prompting a precise mathematical answer."
+    },
+    {
+      "ID": 1425,
+      "Speaker": "T",
+      "Turn": 191,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher restates the student's answer 'three' by counting 'one two three,' adding detail to clarify the idea."
+    },
+    {
+      "ID": 1426,
+      "Speaker": "T",
+      "Turn": 191,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1427,
+      "Speaker": "T",
+      "Turn": 191,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1428,
+      "Speaker": "T",
+      "Turn": 191,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1429,
+      "Speaker": "T",
+      "Turn": 191,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1430,
+      "Speaker": "T",
+      "Turn": 191,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1431,
+      "Speaker": "T",
+      "Turn": 191,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1432,
+      "Speaker": "T",
+      "Turn": 191,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks students to decide whether the distance is more or less than a mile, requesting a correct comparative judgment."
+    },
+    {
+      "ID": 1434,
+      "Speaker": "T",
+      "Turn": 193,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher asks Brandon how he solved the problem, soliciting an explanation of his thinking."
+    },
+    {
+      "ID": 1435,
+      "Speaker": "T",
+      "Turn": 193,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher probes further by asking if Brandon used a different method, encouraging him to articulate his reasoning."
+    },
+    {
+      "ID": 1437,
+      "Speaker": "T",
+      "Turn": 195,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1439,
+      "Speaker": "T",
+      "Turn": 197,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1440,
+      "Speaker": "T",
+      "Turn": 197,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1441,
+      "Speaker": "T",
+      "Turn": 197,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher asks the student to explain what was done to determine Ally's distance, prompting elaboration of the reasoning process."
+    }
+  ]
+}

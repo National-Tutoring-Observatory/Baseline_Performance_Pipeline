@@ -1,0 +1,132 @@
+{
+  "records": [
+    {
+      "ID": 1044,
+      "Speaker": "T",
+      "Turn": 1044
+    },
+    {
+      "ID": 1045,
+      "Speaker": "T",
+      "Turn": 1045
+    },
+    {
+      "ID": 1048,
+      "Speaker": "T",
+      "Turn": 1048
+    },
+    {
+      "ID": 1049,
+      "Speaker": "T",
+      "Turn": 1049
+    },
+    {
+      "ID": 1050,
+      "Speaker": "T",
+      "Turn": 1050,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Teacher asks a student to read the problem aloud so the whole class can hear and follow along."
+    },
+    {
+      "ID": 1053,
+      "Speaker": "T",
+      "Turn": 1053,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher prompts students to state precisely what needs to be determined in the problem."
+    },
+    {
+      "ID": 1054,
+      "Speaker": "T",
+      "Turn": 1054,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher again asks for the exact unknown quantity, seeking a precise mathematical statement."
+    },
+    {
+      "ID": 1056,
+      "Speaker": "T",
+      "Turn": 1056,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks students to list known information from the problem, focusing on factual details."
+    },
+    {
+      "ID": 1057,
+      "Speaker": "T",
+      "Turn": 1057,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher restates request for specific known quantities to ensure clarity and precision."
+    },
+    {
+      "ID": 1058,
+      "Speaker": "T",
+      "Turn": 1058
+    },
+    {
+      "ID": 1060,
+      "Speaker": "T",
+      "Turn": 1060,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher asks how to write a number sentence, prompting students to explain their solution approach."
+    },
+    {
+      "ID": 1062,
+      "Speaker": "T",
+      "Turn": 1062,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher seeks the exact number associated with Kennedy, requiring a specific factual answer."
+    },
+    {
+      "ID": 1064,
+      "Speaker": "T",
+      "Turn": 1064,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks for clarification about what the number 5 represents, aiming for precise interpretation."
+    },
+    {
+      "ID": 1065,
+      "Speaker": "T",
+      "Turn": 1065,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher requests the precise meaning of the number 7 in the context of the problem."
+    },
+    {
+      "ID": 1068,
+      "Speaker": "T",
+      "Turn": 1068,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher restates and slightly elaborates on the student’s idea to clarify that the number refers to 'times more beets.'"
+    },
+    {
+      "ID": 1069,
+      "Speaker": "T",
+      "Turn": 1069,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks students to specify what the total 35 stands for, focusing on precise interpretation."
+    },
+    {
+      "ID": 1071,
+      "Speaker": "T",
+      "Turn": 1071
+    },
+    {
+      "ID": 1072,
+      "Speaker": "T",
+      "Turn": 1072,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Teacher requests a student to read aloud so the class can collectively attend to the new problem."
+    },
+    {
+      "ID": 1075,
+      "Speaker": "T",
+      "Turn": 1075,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher prompts the student to articulate exactly what needs to be determined in the green problem."
+    },
+    {
+      "ID": 1077,
+      "Speaker": "T",
+      "Turn": 1077,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "After stating the target computation, the teacher asks 'how do you know that,' prompting the student to justify the answer."
+    }
+  ]
+}

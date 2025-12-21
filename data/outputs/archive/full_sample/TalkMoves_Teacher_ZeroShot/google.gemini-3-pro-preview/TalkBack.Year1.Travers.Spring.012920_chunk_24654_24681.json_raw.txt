@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 24654,
+      "Speaker": "T",
+      "Turn": 24654,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's action ('You counted this first row') but rephrases it slightly to clarify what was done."
+    },
+    {
+      "ID": 24655,
+      "Speaker": "T",
+      "Turn": 24655,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a specific question requiring a numerical answer ('How many points in that set of data was')."
+    },
+    {
+      "ID": 24657,
+      "Speaker": "T",
+      "Turn": 24657,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's answer ('11') verbatim."
+    },
+    {
+      "ID": 24660,
+      "Speaker": "T",
+      "Turn": 24660,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24661,
+      "Speaker": "T",
+      "Turn": 24661,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the number '11' again, confirming the student's contribution."
+    },
+    {
+      "ID": 24663,
+      "Speaker": "T",
+      "Turn": 24663,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24664,
+      "Speaker": "T",
+      "Turn": 24664,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24665,
+      "Speaker": "T",
+      "Turn": 24665,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks a student if they used a different method, prompting them to share their thinking or strategy."
+    },
+    {
+      "ID": 24669,
+      "Speaker": "T",
+      "Turn": 24669,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases the student's strategy ('You actually looked at the actual line box and used some strategies to count them') to clarify the method used."
+    },
+    {
+      "ID": 24670,
+      "Speaker": "T",
+      "Turn": 24670,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24671,
+      "Speaker": "T",
+      "Turn": 24671,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24672,
+      "Speaker": "T",
+      "Turn": 24672,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a specific mathematical question ('What is the measurement of the longest beetle')."
+    },
+    {
+      "ID": 24673,
+      "Speaker": "T",
+      "Turn": 24673,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher repeats the specific mathematical question."
+    },
+    {
+      "ID": 24674,
+      "Speaker": "T",
+      "Turn": 24674,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher directs students to talk to their partners ('Tell your partner'), ensuring everyone is engaged."
+    },
+    {
+      "ID": 24675,
+      "Speaker": "T",
+      "Turn": 24675,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24676,
+      "Speaker": "T",
+      "Turn": 24676,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24677,
+      "Speaker": "T",
+      "Turn": 24677,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24678,
+      "Speaker": "T",
+      "Turn": 24678,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts for the specific answer ('The measure of the longest beetle is')."
+    },
+    {
+      "ID": 24679,
+      "Speaker": "T",
+      "Turn": 24679,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher explicitly asks the class to state the answer ('Say it')."
+    },
+    {
+      "ID": 24681,
+      "Speaker": "T",
+      "Turn": 24681,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts for the correct unit of measurement ('Three and a half what')."
+    }
+  ]
+}

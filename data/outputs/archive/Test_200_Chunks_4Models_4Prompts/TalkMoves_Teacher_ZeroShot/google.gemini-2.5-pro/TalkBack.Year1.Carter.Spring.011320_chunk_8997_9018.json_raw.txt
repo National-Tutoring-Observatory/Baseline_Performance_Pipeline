@@ -1,0 +1,121 @@
+{
+  "records": [
+    {
+      "ID": 8997,
+      "Turn": 225,
+      "Speaker": "T",
+      "Sentence": "Do you remember that rainbow",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8998,
+      "Turn": 225,
+      "Speaker": "T",
+      "Sentence": "How you connect it together so that you know that you have both numbers in the pair",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to explain the process or thinking behind using a specific representation (the 'rainbow' method)."
+    },
+    {
+      "ID": 9000,
+      "Turn": 227,
+      "Speaker": "T",
+      "Sentence": "Share your factors with your shoulder partner",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher directs students to interact with each other, orienting them to their partner's work."
+    },
+    {
+      "ID": 9001,
+      "Turn": 227,
+      "Speaker": "T",
+      "Sentence": "Partner B goes first",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9002,
+      "Turn": 227,
+      "Speaker": "T",
+      "Sentence": "Ready go",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9003,
+      "Turn": 228,
+      "Speaker": "T",
+      "Sentence": "Is one times something equal 12",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to make a specific mathematical contribution by checking if a number is a factor."
+    },
+    {
+      "ID": 9004,
+      "Turn": 228,
+      "Speaker": "T",
+      "Sentence": "Yes so one should be on your list",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9005,
+      "Turn": 228,
+      "Speaker": "T",
+      "Sentence": "What is one times what",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student for a specific, correct number to complete a factor pair."
+    },
+    {
+      "ID": 9007,
+      "Turn": 230,
+      "Speaker": "T",
+      "Sentence": "One times what equals 12",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher repeats the prompt for a specific, correct number to complete the factor pair."
+    },
+    {
+      "ID": 9008,
+      "Turn": 230,
+      "Speaker": "T",
+      "Sentence": "Anything times one is the number itself so what matches up",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher provides a mathematical rule and asks the student to apply it, prompting them to make a logical connection."
+    },
+    {
+      "ID": 9010,
+      "Turn": 232,
+      "Speaker": "T",
+      "Sentence": "12 so put 12 down here that way youre doing two at the same time",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9011,
+      "Turn": 232,
+      "Speaker": "T",
+      "Sentence": "Two does two going to go in 12",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to make the next mathematical contribution in the process of finding factors."
+    },
+    {
+      "ID": 9013,
+      "Turn": 234,
+      "Speaker": "T",
+      "Sentence": "Yes two times what",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "After a student's confirmation, the teacher prompts for the specific number that completes the factor pair."
+    },
+    {
+      "ID": 9014,
+      "Turn": 234,
+      "Speaker": "T",
+      "Sentence": "Its an even number",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9015,
+      "Turn": 234,
+      "Speaker": "T",
+      "Sentence": "Two times",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher uses a verbal cue to continue pressing the student for the specific number to complete the

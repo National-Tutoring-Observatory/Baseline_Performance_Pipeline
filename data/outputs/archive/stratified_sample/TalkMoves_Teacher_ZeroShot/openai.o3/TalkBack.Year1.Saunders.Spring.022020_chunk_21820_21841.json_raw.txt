@@ -1,0 +1,68 @@
+{
+  "records": [
+    {
+      "ID": 21824,
+      "Speaker": "T",
+      "Turn": 76,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks Brittany for the precise first procedural step, prompting a specific mathematical contribution."
+    },
+    {
+      "ID": 21826,
+      "Speaker": "T",
+      "Turn": 78,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's phrase \"Isolate the\" almost verbatim."
+    },
+    {
+      "ID": 21827,
+      "Speaker": "T",
+      "Turn": 78,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher restates the student's idea (isolating the radical) and extends it to set up the next step."
+    },
+    {
+      "ID": 21829,
+      "Speaker": "T",
+      "Turn": 80,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's contribution (\"Get rid of the radical\") and elaborates by specifying how to do so."
+    },
+    {
+      "ID": 21831,
+      "Speaker": "T",
+      "Turn": 82,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher echoes the student's phrase \"A second power\" and adds the resulting expression, modifying the original wording."
+    },
+    {
+      "ID": 21835,
+      "Speaker": "T",
+      "Turn": 85
+    },
+    {
+      "ID": 21836,
+      "Speaker": "T",
+      "Turn": 85,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the exact value of the square root of 9, prompting a specific mathematical answer."
+    },
+    {
+      "ID": 21838,
+      "Speaker": "T",
+      "Turn": 87,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's answer \"Three\" verbatim to confirm it."
+    },
+    {
+      "ID": 21839,
+      "Speaker": "T",
+      "Turn": 87
+    },
+    {
+      "ID": 21840,
+      "Speaker": "T",
+      "Turn": 87
+    }
+  ]
+}

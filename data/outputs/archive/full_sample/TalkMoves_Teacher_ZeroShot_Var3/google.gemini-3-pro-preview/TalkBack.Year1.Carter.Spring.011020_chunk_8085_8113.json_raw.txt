@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 8085,
+      "Speaker": "T",
+      "Turn": 8085,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher asks a student to repeat what they said for another student ('Marcuss thinking'), which functions as a request for restating to ensure clarity."
+    },
+    {
+      "ID": 8086,
+      "Speaker": "T",
+      "Turn": 8086,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases the student's contribution ('I hear you saying that its easier'), verifying their understanding of the student's idea."
+    },
+    {
+      "ID": 8087,
+      "Speaker": "T",
+      "Turn": 8087,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher challenges the student's idea ('Im wondering if it is only easier or do you have to have...'), prompting them to justify the mathematical necessity of common denominators versus mere convenience."
+    },
+    {
+      "ID": 8088,
+      "Speaker": "T",
+      "Turn": 8088,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks 'What do you think', inviting students to share their thinking or stance on the previous question."
+    },
+    {
+      "ID": 8089,
+      "Speaker": "T",
+      "Turn": 8089,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher reiterates the conceptual question ('Does that just make it easier or do you have to have...'), pressing students to explain the underlying rule for adding/subtracting fractions."
+    },
+    {
+      "ID": 8090,
+      "Speaker": "T",
+      "Turn": 8090,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher directs students to discuss with a partner ('Talk with your face partner'), ensuring all students are engaged in the conversation."
+    },
+    {
+      "ID": 8091,
+      "Speaker": "T",
+      "Turn": 8091,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher directs the conceptual question to a specific student ('Hunter is it just easier or do you have to have...'), prompting for a justification of the mathematical rule."
+    },
+    {
+      "ID": 8094,
+      "Speaker": "T",
+      "Turn": 8094,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8095,
+      "Speaker": "T",
+      "Turn": 8095,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8096,
+      "Speaker": "T",
+      "Turn": 8096,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a specific question about the procedure ('Do you have to find a common denominator') and checks for vocabulary understanding ('review what common means')."
+    },
+    {
+      "ID": 8097,
+      "Speaker": "T",
+      "Turn": 8097,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher orients the class's attention to a shared visual aid ('Lets look at this slide')."
+    },
+    {
+      "ID": 8098,
+      "Speaker": "T",
+      "Turn": 8098,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher asks the class to perform a choral read ('read it with me'), keeping the group focused on the same content."
+    },
+    {
+      "ID": 8100,
+      "Speaker": "T",
+      "Turn": 8100,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8102,
+      "Speaker": "T",
+      "Turn": 8102,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8103,
+      "Speaker": "T",
+      "Turn": 8103,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8105,
+      "Speaker": "T",
+      "Turn": 8105,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8106,
+      "Speaker": "T",
+      "Turn": 8106,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8108,
+      "Speaker": "T",
+      "Turn": 8108,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8110,
+      "Speaker": "T",
+      "Turn": 8110,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to complete a definition ('that means that denominator has to be'), seeking a specific mathematical term or concept."
+    },
+    {
+      "ID": 8113,
+      "Speaker": "T",
+      "Turn": 8113,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats a student's contribution ('I like the way you keep going to equal') and asks for an alternative term ('another word would that will be'), validating and extending the student's language."
+    }
+  ]
+}

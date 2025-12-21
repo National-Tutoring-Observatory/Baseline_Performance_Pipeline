@@ -1,0 +1,256 @@
+{
+  "utterances": [
+    {
+      "ID": 1986,
+      "Turn": 61,
+      "Speaker": "S",
+      "Sentence": "Yes"
+    },
+    {
+      "ID": 1987,
+      "Turn": 62,
+      "Speaker": "T",
+      "Sentence": "Does it matter what order you multiply this numbers in"
+    },
+    {
+      "ID": 1988,
+      "Turn": 63,
+      "Speaker": "S",
+      "Sentence": "No"
+    },
+    {
+      "ID": 1989,
+      "Turn": 64,
+      "Speaker": "T",
+      "Sentence": "As long as youre doing the correct multiplication"
+    },
+    {
+      "ID": 1990,
+      "Turn": 64,
+      "Speaker": "T",
+      "Sentence": "Are we doing three performers x two hours"
+    },
+    {
+      "ID": 1991,
+      "Turn": 65,
+      "Speaker": "S",
+      "Sentence": "No"
+    },
+    {
+      "ID": 1992,
+      "Turn": 66,
+      "Speaker": "T",
+      "Sentence": "Would it work"
+    },
+    {
+      "ID": 1993,
+      "Turn": 66,
+      "Speaker": "T",
+      "Sentence": "Whats 3 x 2"
+    },
+    {
+      "ID": 1994,
+      "Turn": 67,
+      "Speaker": "S",
+      "Sentence": "Six"
+    },
+    {
+      "ID": 1995,
+      "Turn": 68,
+      "Speaker": "T",
+      "Sentence": "Whats 6 x 30"
+    },
+    {
+      "ID": 1996,
+      "Turn": 69,
+      "Speaker": "S",
+      "Sentence": "180"
+    },
+    {
+      "ID": 1997,
+      "Turn": 70,
+      "Speaker": "T",
+      "Sentence": "Oh"
+    },
+    {
+      "ID": 1998,
+      "Turn": 70,
+      "Speaker": "T",
+      "Sentence": "6 x 30"
+    },
+    {
+      "ID": 1999,
+      "Turn": 70,
+      "Speaker": "T",
+      "Sentence": "Whats 6 x 3"
+    },
+    {
+      "ID": 2000,
+      "Turn": 71,
+      "Speaker": "S",
+      "Sentence": "180"
+    },
+    {
+      "ID": 2001,
+      "Turn": 72,
+      "Speaker": "T",
+      "Sentence": "So it would work"
+    },
+    {
+      "ID": 2002,
+      "Turn": 73,
+      "Speaker": "T",
+      "Sentence": "Okay so that was for jugglers"
+    },
+    {
+      "ID": 2003,
+      "Turn": 73,
+      "Speaker": "T",
+      "Sentence": "Now we need to figure out for tap dancers"
+    },
+    {
+      "ID": 2004,
+      "Turn": 73,
+      "Speaker": "T",
+      "Sentence": "Someone give me Lee give me number model for tap dancers"
+    },
+    {
+      "ID": 2005,
+      "Turn": 73,
+      "Speaker": "S",
+      "Sentence": "33 x 4"
+    },
+    {
+      "ID": 2006,
+      "Turn": 74,
+      "Speaker": "T",
+      "Sentence": "Can you tell me why you did 33 x 2"
+    },
+    {
+      "ID": 2007,
+      "Turn": 75,
+      "Speaker": "S",
+      "Sentence": "I did for hours  the cost per performer"
+    },
+    {
+      "ID": 2008,
+      "Turn": 76,
+      "Speaker": "T",
+      "Sentence": "Oops you wrote the wrong thing"
+    },
+    {
+      "ID": 2009,
+      "Turn": 76,
+      "Speaker": "T",
+      "Sentence": "This is just the cost this is the hours"
+    },
+    {
+      "ID": 2010,
+      "Turn": 76,
+      "Speaker": "T",
+      "Sentence": "Okay what did you get when you did 33 x 2"
+    },
+    {
+      "ID": 2011,
+      "Turn": 77,
+      "Speaker": "S",
+      "Sentence": "I got 66"
+    },
+    {
+      "ID": 2012,
+      "Turn": 78,
+      "Speaker": "T",
+      "Sentence": "Okay"
+    },
+    {
+      "ID": 2013,
+      "Turn": 79,
+      "Speaker": "S",
+      "Sentence": "Then I did 66 x 6 for the numbers of performers"
+    },
+    {
+      "ID": 2014,
+      "Turn": 80,
+      "Speaker": "T",
+      "Sentence": "Okay these are six tap dancers"
+    },
+    {
+      "ID": 2015,
+      "Turn": 81,
+      "Speaker": "S",
+      "Sentence": "Then I got 397"
+    },
+    {
+      "ID": 2016,
+      "Turn": 82,
+      "Speaker": "T",
+      "Sentence": "Anyone get a different answer or a different way of getting to the answer"
+    },
+    {
+      "ID": 2017,
+      "Turn": 82,
+      "Speaker": "T",
+      "Sentence": "Ruth can you talk me through what Lee just did"
+    },
+    {
+      "ID": 2018,
+      "Turn": 82,
+      "Speaker": "T",
+      "Sentence": "Can you repeat what she"
+    },
+    {
+      "ID": 2019,
+      "Turn": 83,
+      "Speaker": "S",
+      "Sentence": "33 x 2 66"
+    },
+    {
+      "ID": 2020,
+      "Turn": 84,
+      "Speaker": "T",
+      "Sentence": "Why did she do 33 x 2"
+    },
+    {
+      "ID": 2021,
+      "Turn": 84,
+      "Speaker": "T",
+      "Sentence": "To try and find"
+    },
+    {
+      "ID": 2022,
+      "Turn": 85,
+      "Speaker": "S",
+      "Sentence": "33 an hour"
+    },
+    {
+      "ID": 2023,
+      "Turn": 86,
+      "Speaker": "T",
+      "Sentence": "Okay and why did she do that x 2"
+    },
+    {
+      "ID": 2024,
+      "Turn": 87,
+      "Speaker": "S",
+      "Sentence": "for two hours"
+    },
+    {
+      "ID": 2025,
+      "Turn": 88,
+      "Speaker": "T",
+      "Sentence": "They are going to be there for two hours"
+    },
+    {
+      "ID": 2026,
+      "Turn": 88,
+      "Speaker": "T",
+      "Sentence": "Then why did she take that and multiply x 6"
+    },
+    {
+      "ID": 2027,
+      "Turn": 89,
+      "Speaker": "S",
+      "Sentence": "Because there was"
+    }
+  ]
+}

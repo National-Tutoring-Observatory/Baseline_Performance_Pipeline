@@ -1,0 +1,156 @@
+{
+  "records": [
+    {
+      "ID": 17764,
+      "Turn": 235,
+      "Speaker": "T",
+      "Sentence": "I thought",
+      "TalkMove": null
+    },
+    {
+      "ID": 17765,
+      "Turn": 236,
+      "Speaker": "S",
+      "Sentence": "I tried to"
+    },
+    {
+      "ID": 17766,
+      "Turn": 237,
+      "Speaker": "S",
+      "Sentence": "Okay"
+    },
+    {
+      "ID": 17767,
+      "Turn": 237,
+      "Speaker": "S",
+      "Sentence": "I understand like"
+    },
+    {
+      "ID": 17768,
+      "Turn": 237,
+      "Speaker": "S",
+      "Sentence": "The only thing that I dont understand is I got  because he told me but how would you figure it out figure out the graph with only that"
+    },
+    {
+      "ID": 17769,
+      "Turn": 238,
+      "Speaker": "T",
+      "Sentence": "So thats  another degree",
+      "TalkMove": null
+    },
+    {
+      "ID": 17770,
+      "Turn": 238,
+      "Speaker": "T",
+      "Sentence": "That has three directions",
+      "TalkMove": null
+    },
+    {
+      "ID": 17771,
+      "Turn": 238,
+      "Speaker": "T",
+      "Sentence": "So looking at these we got three cubics",
+      "TalkMove": null
+    },
+    {
+      "ID": 17772,
+      "Turn": 238,
+      "Speaker": "T",
+      "Sentence": "Now whats happening right there",
+      "TalkMove": "Pressing for Accuracy"
+    },
+    {
+      "ID": 17773,
+      "Turn": 238,
+      "Speaker": "T",
+      "Sentence": "The Xintercept is",
+      "TalkMove": "Pressing for Accuracy"
+    },
+    {
+      "ID": 17774,
+      "Turn": 239,
+      "Speaker": "S",
+      "Sentence": "Three"
+    },
+    {
+      "ID": 17775,
+      "Turn": 240,
+      "Speaker": "T",
+      "Sentence": "The Yintercept is",
+      "TalkMove": "Pressing for Accuracy"
+    },
+    {
+      "ID": 17776,
+      "Turn": 241,
+      "Speaker": "S",
+      "Sentence": "Zero"
+    },
+    {
+      "ID": 17777,
+      "Turn": 242,
+      "Speaker": "T",
+      "Sentence": "How about over here",
+      "TalkMove": null
+    },
+    {
+      "ID": 17778,
+      "Turn": 242,
+      "Speaker": "T",
+      "Sentence": "What is the Yintercept",
+      "TalkMove": "Pressing for Accuracy"
+    },
+    {
+      "ID": 17779,
+      "Turn": 243,
+      "Speaker": "S",
+      "Sentence": "Zero"
+    },
+    {
+      "ID": 17780,
+      "Turn": 243,
+      "Speaker": "S",
+      "Sentence": "Negative one"
+    },
+    {
+      "ID": 17781,
+      "Turn": 244,
+      "Speaker": "T",
+      "Sentence": "Actually  two",
+      "TalkMove": null
+    },
+    {
+      "ID": 17782,
+      "Turn": 245,
+      "Speaker": "S",
+      "Sentence": "What"
+    },
+    {
+      "ID": 17783,
+      "Turn": 246,
+      "Speaker": "T",
+      "Sentence": "Right",
+      "TalkMove": null
+    },
+    {
+      "ID": 17784,
+      "Turn": 246,
+      "Speaker": "T",
+      "Sentence": "One two",
+      "TalkMove": null
+    },
+    {
+      "ID": 17785,
+      "Turn": 246,
+      "Speaker": "T",
+      "Sentence": "The Yintercept",
+      "TalkMove": null
+    },
+    {
+      "ID": 17786,
+      "Turn": 246,
+      "Speaker": "T",
+      "Sentence": "would have to be true when I look at that cubic that cubic and that cubic what makes those  different",
+      "TalkMove": "Pressing for Reasoning"
+    }
+  ]
+}

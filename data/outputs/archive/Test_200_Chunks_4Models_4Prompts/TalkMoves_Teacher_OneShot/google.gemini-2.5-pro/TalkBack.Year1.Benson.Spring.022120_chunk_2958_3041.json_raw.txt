@@ -1,0 +1,128 @@
+{
+  "records": [
+    {
+      "ID": 2958,
+      "Turn": 69,
+      "Speaker": "T",
+      "Sentence": "You knew the basic fact of 9 5 is 45",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2959,
+      "Turn": 69,
+      "Speaker": "T",
+      "Sentence": "You took g to equal 50",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2960,
+      "Turn": 69,
+      "Speaker": "T",
+      "Sentence": "Is that what Im understanding",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher summarizes a student's multi-step strategy and asks for confirmation, rephrasing their thinking to ensure understanding."
+    },
+    {
+      "ID": 2961,
+      "Turn": 70,
+      "Speaker": "S",
+      "Sentence": "Yes"
+    },
+    {
+      "ID": 2962,
+      "Turn": 71,
+      "Speaker": "T",
+      "Sentence": "Did anyone do it differently",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2963,
+      "Turn": 71,
+      "Speaker": "T",
+      "Sentence": "Anyone write a division problem",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2964,
+      "Turn": 71,
+      "Speaker": "T",
+      "Sentence": "Ally",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2965,
+      "Turn": 72,
+      "Speaker": "S",
+      "Sentence": "I did the house and I did 450 divided by 9 equals 50"
+    },
+    {
+      "ID": 2966,
+      "Turn": 73,
+      "Speaker": "T",
+      "Sentence": "All right",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2967,
+      "Turn": 73,
+      "Speaker": "T",
+      "Sentence": "Do you see that",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher directs the rest of the class to pay attention to the strategy a student has just shared."
+    },
+    {
+      "ID": 2968,
+      "Turn": 73,
+      "Speaker": "T",
+      "Sentence": "Not many people are familiar with that little symbol we call it the house",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2969,
+      "Turn": 73,
+      "Speaker": "T",
+      "Sentence": "I call it the house",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2970,
+      "Turn": 73,
+      "Speaker": "T",
+      "Sentence": "Its not really called house",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2971,
+      "Turn": 73,
+      "Speaker": "T",
+      "Sentence": "Its called the division symbol",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2972,
+      "Turn": 73,
+      "Speaker": "T",
+      "Sentence": "When my sister and I were growing up thats what we used",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2973,
+      "Turn": 73,
+      "Speaker": "T",
+      "Sentence": "That was it",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 297

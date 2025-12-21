@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 19050,
+      "Speaker": "T",
+      "Turn": 19050,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher calls for the class's attention to begin the discussion."
+    },
+    {
+      "ID": 19051,
+      "Speaker": "T",
+      "Turn": 19051,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher orients the students to the specific topic (exploration one) they will be discussing."
+    },
+    {
+      "ID": 19052,
+      "Speaker": "T",
+      "Turn": 19052,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19053,
+      "Speaker": "T",
+      "Turn": 19053,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19054,
+      "Speaker": "T",
+      "Turn": 19054,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19055,
+      "Speaker": "T",
+      "Turn": 19055,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a specific question requiring students to identify a mathematical property (modifying X or the function)."
+    },
+    {
+      "ID": 19057,
+      "Speaker": "T",
+      "Turn": 19057,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher continues to prompt for the answer to the previous question."
+    },
+    {
+      "ID": 19058,
+      "Speaker": "T",
+      "Turn": 19058,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher rephrases the question to elicit the specific mathematical action taken."
+    },
+    {
+      "ID": 19059,
+      "Speaker": "T",
+      "Turn": 19059,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks again what was modified, seeking a specific correct answer."
+    },
+    {
+      "ID": 19061,
+      "Speaker": "T",
+      "Turn": 19061,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the correct answer ('We modified X') that a student likely provided."
+    },
+    {
+      "ID": 19062,
+      "Speaker": "T",
+      "Turn": 19062,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19063,
+      "Speaker": "T",
+      "Turn": 19063,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19064,
+      "Speaker": "T",
+      "Turn": 19064,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks students to identify whether X or the whole function was modified in a new example."
+    },
+    {
+      "ID": 19066,
+      "Speaker": "T",
+      "Turn": 19066,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19067,
+      "Speaker": "T",
+      "Turn": 19067,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19068,
+      "Speaker": "T",
+      "Turn": 19068,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher confirms and repeats the conclusion ('We modified the whole function')."
+    },
+    {
+      "ID": 19069,
+      "Speaker": "T",
+      "Turn": 19069,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher directs attention to the next problem ('Then this guy')."
+    },
+    {
+      "ID": 19071,
+      "Speaker": "T",
+      "Turn": 19071,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats a student's suggestion ('Modify X you think') to verify or challenge it."
+    },
+    {
+      "ID": 19074,
+      "Speaker": "T",
+      "Turn": 19074,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19075,
+      "Speaker": "T",
+      "Turn": 19075,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

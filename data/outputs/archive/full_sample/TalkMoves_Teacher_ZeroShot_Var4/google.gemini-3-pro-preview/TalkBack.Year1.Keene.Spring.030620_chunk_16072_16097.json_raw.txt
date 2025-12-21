@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 16072,
+      "Speaker": "T",
+      "Turn": 16072,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16074,
+      "Speaker": "T",
+      "Turn": 16074,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16075,
+      "Speaker": "T",
+      "Turn": 16075,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16076,
+      "Speaker": "T",
+      "Turn": 16076,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a specific student to identify precise mathematical keywords (left, difference, remain) in the problem text."
+    },
+    {
+      "ID": 16078,
+      "Speaker": "T",
+      "Turn": 16078,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16080,
+      "Speaker": "T",
+      "Turn": 16080,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's answer ('No') word for word to confirm it."
+    },
+    {
+      "ID": 16081,
+      "Speaker": "T",
+      "Turn": 16081,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's negative response but adds specific mathematical language ('No subtraction keywords') to clarify the contribution."
+    },
+    {
+      "ID": 16082,
+      "Speaker": "T",
+      "Turn": 16082,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher orients the class's attention to a specific subgroup of students ('subtraction friends')."
+    },
+    {
+      "ID": 16083,
+      "Speaker": "T",
+      "Turn": 16083,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to explain and justify their thinking ('tell me why do you think its subtraction') in light of conflicting evidence."
+    },
+    {
+      "ID": 16086,
+      "Speaker": "T",
+      "Turn": 16086,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a closed question to check for understanding of the definition of subtraction ('taking something away')."
+    },
+    {
+      "ID": 16087,
+      "Speaker": "T",
+      "Turn": 16087,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16089,
+      "Speaker": "T",
+      "Turn": 16089,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's answer ('No') word for word."
+    },
+    {
+      "ID": 16090,
+      "Speaker": "T",
+      "Turn": 16090,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to look for specific textual evidence ('keywords') in the problem."
+    },
+    {
+      "ID": 16091,
+      "Speaker": "T",
+      "Turn": 16091,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher synthesizes the students' previous negative responses into a concluding mathematical statement ('So its not subtraction')."
+    },
+    {
+      "ID": 16092,
+      "Speaker": "T",
+      "Turn": 16092,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher summarizes the current state of the problem solving process to ensure the whole class understands the remaining options."
+    },
+    {
+      "ID": 16093,
+      "Speaker": "T",
+      "Turn": 16093,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16094,
+      "Speaker": "T",
+      "Turn": 16094,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16095,
+      "Speaker": "T",
+      "Turn": 16095,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16096,
+      "Speaker": "T",
+      "Turn": 16096,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16097,
+      "Speaker": "T",
+      "Turn": 16097,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

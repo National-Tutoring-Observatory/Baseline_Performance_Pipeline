@@ -1,0 +1,123 @@
+{
+  "records": [
+    {
+      "ID": 27937,
+      "Turn": 174,
+      "Speaker": "T",
+      "Sentence": "Now we need to multiply",
+      "TalkMove": null
+    },
+    {
+      "ID": 27938,
+      "Turn": 175,
+      "Speaker": "T",
+      "Sentence": "This is ones tens hundreds thousands places right here",
+      "TalkMove": null
+    },
+    {
+      "ID": 27939,
+      "Turn": 176,
+      "Speaker": "T",
+      "Sentence": "Are you doing multiplying",
+      "TalkMove": "Keeping Everyone Together"
+    },
+    {
+      "ID": 27940,
+      "Turn": 177,
+      "Speaker": "T",
+      "Sentence": "All the other places",
+      "TalkMove": null
+    },
+    {
+      "ID": 27941,
+      "Turn": 177,
+      "Speaker": "T",
+      "Sentence": "You are going to have a sevendigit number",
+      "TalkMove": null
+    },
+    {
+      "ID": 27943,
+      "Turn": 179,
+      "Speaker": "T",
+      "Sentence": "Seven digits",
+      "TalkMove": "Keeping Everyone Together"
+    },
+    {
+      "ID": 27944,
+      "Turn": 179,
+      "Speaker": "T",
+      "Sentence": "Nine in the thousands",
+      "TalkMove": null
+    },
+    {
+      "ID": 27947,
+      "Turn": 181,
+      "Speaker": "T",
+      "Sentence": "One in the hundredths",
+      "TalkMove": null
+    },
+    {
+      "ID": 27948,
+      "Turn": 181,
+      "Speaker": "T",
+      "Sentence": "Where is the hundredths",
+      "TalkMove": "Pressing for Accuracy"
+    },
+    {
+      "ID": 27949,
+      "Turn": 181,
+      "Speaker": "T",
+      "Sentence": "If thats your decimal where is the hundredths",
+      "TalkMove": "Pressing for Accuracy"
+    },
+    {
+      "ID": 27950,
+      "Turn": 182,
+      "Speaker": "T",
+      "Sentence": "What does that mean",
+      "TalkMove": "Pressing for Reasoning"
+    },
+    {
+      "ID": 27951,
+      "Turn": 183,
+      "Speaker": "T",
+      "Sentence": "Thats tens",
+      "TalkMove": null
+    },
+    {
+      "ID": 27952,
+      "Turn": 183,
+      "Speaker": "T",
+      "Sentence": "Here hundredths is right here",
+      "TalkMove": null
+    },
+    {
+      "ID": 27954,
+      "Turn": 185,
+      "Speaker": "T",
+      "Sentence": "Were in the tens not tenths tens so thats right here",
+      "TalkMove": "Revoicing"
+    },
+    {
+      "ID": 27956,
+      "Turn": 187,
+      "Speaker": "T",
+      "Sentence": "Eight in the thousandths which is way over here and 2s in all the other places",
+      "TalkMove": null
+    },
+    {
+      "ID": 27957,
+      "Turn": 187,
+      "Speaker": "T",
+      "Sentence": "In here",
+      "TalkMove": null
+    },
+    {
+      "ID": 27958,
+      "Turn": 187,
+      "Speaker": "T",
+      "Sentence": "920",
+      "TalkMove": null
+    }
+  ]
+}

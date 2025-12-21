@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 2438,
+      "Speaker": "T",
+      "Turn": 2438,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2456,
+      "Speaker": "T",
+      "Turn": 2456,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2457,
+      "Speaker": "T",
+      "Turn": 2457,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2464,
+      "Speaker": "T",
+      "Turn": 2464,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2465,
+      "Speaker": "T",
+      "Turn": 2465,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2468,
+      "Speaker": "T",
+      "Turn": 2468,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to explain the reasoning behind their choice of a number in their calculation."
+    },
+    {
+      "ID": 2471,
+      "Speaker": "T",
+      "Turn": 2471,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to clarify their language and use more precise mathematical terms or units."
+    },
+    {
+      "ID": 2473,
+      "Speaker": "T",
+      "Turn": 2473,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2475,
+      "Speaker": "T",
+      "Turn": 2475,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2476,
+      "Speaker": "T",
+      "Turn": 2476,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2477,
+      "Speaker": "T",
+      "Turn": 2477,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2478,
+      "Speaker": "T",
+      "Turn": 2478,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2479,
+      "Speaker": "T",
+      "Turn": 2479,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2481,
+      "Speaker": "T",
+      "Turn": 2481,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher prompts one student to acknowledge and thank another student for their explanation, orienting them to each other."
+    },
+    {
+      "ID": 2483,
+      "Speaker": "T",
+      "Turn": 2483,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2484,
+      "Speaker": "T",
+      "Turn": 2484,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2485,
+      "Speaker": "T",
+      "Turn": 2485,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to explain their process for solving the problem."
+    },
+    {
+      "ID": 2487,
+      "Speaker": "T",
+      "Turn": 2487,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to provide the source or justification for a specific number they used."
+    },
+    {
+      "ID": 2489,
+      "Speaker": "T",
+      "Turn": 2489,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher presses the student to be more specific about the source of their information, seeking a more complete explanation."
+    },
+    {
+      "ID": 2491,
+      "Speaker": "T",
+      "Turn": 2491,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases and clarifies the student's contribution about the source of the information and checks for confirmation."
+    }
+  ]
+}

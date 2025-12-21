@@ -1,0 +1,122 @@
+{
+  "records": [
+    {
+      "ID": 29374,
+      "Speaker": "T",
+      "Turn": 29374,
+      "TalkMove": "Restating",
+      "Reasoning": "Teacher repeats the student’s mathematical expression ('length times width') exactly as said."
+    },
+    {
+      "ID": 29376,
+      "Speaker": "T",
+      "Turn": 29376,
+      "TalkMove": "Restating",
+      "Reasoning": "Teacher continues to echo the student’s wording ('then times the height') without alteration."
+    },
+    {
+      "ID": 29378,
+      "Speaker": "T",
+      "Turn": 29378
+    },
+    {
+      "ID": 29379,
+      "Speaker": "T",
+      "Turn": 29379
+    },
+    {
+      "ID": 29380,
+      "Speaker": "T",
+      "Turn": 29380,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Asks the student to explain the process for finding the volume, prompting them to articulate their thinking."
+    },
+    {
+      "ID": 29382,
+      "Speaker": "T",
+      "Turn": 29382,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Queries whether the identified strategy always works, inviting students to justify or generalize their reasoning."
+    },
+    {
+      "ID": 29384,
+      "Speaker": "T",
+      "Turn": 29384
+    },
+    {
+      "ID": 29385,
+      "Speaker": "T",
+      "Turn": 29385,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Directs students’ attention to a common visual (‘that top picture’), ensuring shared focus."
+    },
+    {
+      "ID": 29387,
+      "Speaker": "T",
+      "Turn": 29387
+    },
+    {
+      "ID": 29388,
+      "Speaker": "T",
+      "Turn": 29388
+    },
+    {
+      "ID": 29389,
+      "Speaker": "T",
+      "Turn": 29389
+    },
+    {
+      "ID": 29390,
+      "Speaker": "T",
+      "Turn": 29390
+    },
+    {
+      "ID": 29391,
+      "Speaker": "T",
+      "Turn": 29391
+    },
+    {
+      "ID": 29392,
+      "Speaker": "T",
+      "Turn": 29392
+    },
+    {
+      "ID": 29393,
+      "Speaker": "T",
+      "Turn": 29393
+    },
+    {
+      "ID": 29394,
+      "Speaker": "T",
+      "Turn": 29394,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Summarizes prior strategies to orient the whole class to shared knowledge."
+    },
+    {
+      "ID": 29395,
+      "Speaker": "T",
+      "Turn": 29395,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Poses a question about applying a strategy to a new context, asking students to justify whether it will work."
+    },
+    {
+      "ID": 29396,
+      "Speaker": "T",
+      "Turn": 29396
+    },
+    {
+      "ID": 29397,
+      "Speaker": "T",
+      "Turn": 29397,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Repeats the reasoning-oriented question to prompt student explanation."
+    },
+    {
+      "ID": 29398,
+      "Speaker": "T",
+      "Turn": 29398,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Reminds students to engage with their partners, promoting active listening and collaborative discussion."
+    }
+  ]
+}

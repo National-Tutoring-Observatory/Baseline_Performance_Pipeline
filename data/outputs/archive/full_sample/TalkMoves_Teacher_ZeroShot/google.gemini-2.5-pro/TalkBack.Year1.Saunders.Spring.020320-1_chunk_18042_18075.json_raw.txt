@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 18042,
+      "Speaker": "T",
+      "Turn": 18042,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18043,
+      "Speaker": "T",
+      "Turn": 18043,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18045,
+      "Speaker": "T",
+      "Turn": 18045,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18046,
+      "Speaker": "T",
+      "Turn": 18046,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18048,
+      "Speaker": "T",
+      "Turn": 18048,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18049,
+      "Speaker": "T",
+      "Turn": 18049,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18051,
+      "Speaker": "T",
+      "Turn": 18051,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18052,
+      "Speaker": "T",
+      "Turn": 18052,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18053,
+      "Speaker": "T",
+      "Turn": 18053,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18054,
+      "Speaker": "T",
+      "Turn": 18054,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18055,
+      "Speaker": "T",
+      "Turn": 18055,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students for a specific, correct mathematical definition."
+    },
+    {
+      "ID": 18057,
+      "Speaker": "T",
+      "Turn": 18057,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats a likely student answer ('zero') but adds mathematical language ('Y = 0') to make it more precise."
+    },
+    {
+      "ID": 18058,
+      "Speaker": "T",
+      "Turn": 18058,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks 'why,' prompting students to explain the thinking behind a mathematical step."
+    },
+    {
+      "ID": 18060,
+      "Speaker": "T",
+      "Turn": 18060,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18061,
+      "Speaker": "T",
+      "Turn": 18061,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to provide a specific answer based on a mathematical rule."
+    },
+    {
+      "ID": 18062,
+      "Speaker": "T",
+      "Turn": 18062,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18064,
+      "Speaker": "T",
+      "Turn": 18064,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18066,
+      "Speaker": "T",
+      "Turn": 18066,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18073,
+      "Speaker": "T",
+      "Turn": 18073,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases a likely student contribution as a question to confirm understanding."
+    },
+    {
+      "ID": 18075,
+      "Speaker": "T",
+      "Turn": 18075,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats a student's idea ('no min or max') and adds more precise mathematical language ('point of inflection')."
+    }
+  ]
+}

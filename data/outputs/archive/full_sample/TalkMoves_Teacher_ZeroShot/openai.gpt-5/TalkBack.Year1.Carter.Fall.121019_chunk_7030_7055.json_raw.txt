@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 7030,
+      "Speaker": "T",
+      "Turn": 7030,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher echoes a student’s idea by restating that the answer follows the rule they wrote."
+    },
+    {
+      "ID": 7031,
+      "Speaker": "T",
+      "Turn": 7031,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher invites additional contributions or elaboration with an open prompt."
+    },
+    {
+      "ID": 7032,
+      "Speaker": "T",
+      "Turn": 7032,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 7034,
+      "Speaker": "T",
+      "Turn": 7034,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to use their rule and write the new coordinates, eliciting a mathematical contribution."
+    },
+    {
+      "ID": 7035,
+      "Speaker": "T",
+      "Turn": 7035,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 7038,
+      "Speaker": "T",
+      "Turn": 7038,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks what criteria would make an answer good/correct for the problems."
+    },
+    {
+      "ID": 7039,
+      "Speaker": "T",
+      "Turn": 7039,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 7041,
+      "Speaker": "T",
+      "Turn": 7041,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks a student to share their thinking."
+    },
+    {
+      "ID": 7042,
+      "Speaker": "T",
+      "Turn": 7042,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 7043,
+      "Speaker": "T",
+      "Turn": 7043,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts for additional ideas beyond the prior contribution."
+    },
+    {
+      "ID": 7044,
+      "Speaker": "T",
+      "Turn": 7044,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 7045,
+      "Speaker": "T",
+      "Turn": 7045,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks what must happen when plotting the given coordinates to ensure correctness."
+    },
+    {
+      "ID": 7047,
+      "Speaker": "T",
+      "Turn": 7047,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher restates the student’s idea about doing coordinates in order, adjusting the wording."
+    },
+    {
+      "ID": 7048,
+      "Speaker": "T",
+      "Turn": 7048,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher seeks additional actions needed to ensure the coordinates follow the stated rule."
+    },
+    {
+      "ID": 7049,
+      "Speaker": "T",
+      "Turn": 7049,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 7051,
+      "Speaker": "T",
+      "Turn": 7051,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 7052,
+      "Speaker": "T",
+      "Turn": 7052,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts for further elaboration with an open-ended request."
+    },
+    {
+      "ID": 7053,
+      "Speaker": "T",
+      "Turn": 7053,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks what additional features to look for when plotting the coordinates, focusing on criteria for correctness."
+    },
+    {
+      "ID": 7054,
+      "Speaker": "T",
+      "Turn": 7054,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 7055,
+      "Speaker": "T",
+      "Turn": 7055,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a student to state what to look for in plotting the coordinates, emphasizing correctness."
+    }
+  ]
+}

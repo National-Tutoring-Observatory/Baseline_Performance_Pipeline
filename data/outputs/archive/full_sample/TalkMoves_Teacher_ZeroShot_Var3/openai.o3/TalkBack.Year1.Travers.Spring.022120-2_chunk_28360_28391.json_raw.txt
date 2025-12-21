@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 28360,
+      "Speaker": "T",
+      "Turn": 28360,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher is rephrasing/clarifying a prior student contribution about the direction of an arrow."
+    },
+    {
+      "ID": 28361,
+      "Speaker": "T",
+      "Turn": 28361,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 28362,
+      "Speaker": "T",
+      "Turn": 28362,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks students to specify what a half-turn looks like, prompting a precise mathematical description."
+    },
+    {
+      "ID": 28363,
+      "Speaker": "T",
+      "Turn": 28363,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Requests clarification using correct mathematical terminology (clockwise vs. counterclockwise)."
+    },
+    {
+      "ID": 28365,
+      "Speaker": "T",
+      "Turn": 28365,
+      "TalkMove": "Restating",
+      "Reasoning": "Teacher repeats the student’s one-word answer (“Clockwise”) exactly."
+    },
+    {
+      "ID": 28366,
+      "Speaker": "T",
+      "Turn": 28366,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher restates and slightly elaborates the student’s idea about performing a half turn."
+    },
+    {
+      "ID": 28368,
+      "Speaker": "T",
+      "Turn": 28368,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 28369,
+      "Speaker": "T",
+      "Turn": 28369,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Begins to articulate what the result of the student’s described rotation would look like, reformulating their idea."
+    },
+    {
+      "ID": 28375,
+      "Speaker": "T",
+      "Turn": 28375,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Explains the student’s suggestion by restating and extending it to show the half-turn result."
+    },
+    {
+      "ID": 28377,
+      "Speaker": "T",
+      "Turn": 28377,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 28378,
+      "Speaker": "T",
+      "Turn": 28378,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks students to specify what the rotation would look like for part B, requesting a precise mathematical description."
+    },
+    {
+      "ID": 28379,
+      "Speaker": "T",
+      "Turn": 28379,
+      "TalkMove": "Restating",
+      "Reasoning": "Repeats the student’s contribution verbatim: “One fourth of a turn counterclockwise.”"
+    },
+    {
+      "ID": 28380,
+      "Speaker": "T",
+      "Turn": 28380,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 28381,
+      "Speaker": "T",
+      "Turn": 28381,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 28382,
+      "Speaker": "T",
+      "Turn": 28382,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 28383,
+      "Speaker": "T",
+      "Turn": 28383,
+      "TalkMove": "Restating",
+      "Reasoning": "Repeats the mathematical phrase “one fourth of a turn,” mirroring the student’s language."
+    },
+    {
+      "ID": 28384,
+      "Speaker": "T",
+      "Turn": 28384,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Invites Daniel to articulate his thinking, prompting him to explain his reasoning."
+    },
+    {
+      "ID": 28386,
+      "Speaker": "T",
+      "Turn": 28386,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Asks student to clarify what is meant by “a quarter of a half-turn,” soliciting deeper explanation."
+    },
+    {
+      "ID": 28389,
+      "Speaker": "T",
+      "Turn": 28389,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Restates and rephrases the student’s idea that half of a half is one quarter."
+    },
+    {
+      "ID": 28391,
+      "Speaker": "T",
+      "Turn": 28391,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Adds an equivalent mathematical statement, rephrasing the student’s idea as ‘one fourth times two is one half.’"
+    }
+  ]
+}

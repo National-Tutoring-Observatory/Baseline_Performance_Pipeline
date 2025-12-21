@@ -1,0 +1,156 @@
+{
+  "records": [
+    {
+      "ID": 23285,
+      "Turn": 48,
+      "Speaker": "T",
+      "Sentence": "Would you tell me your name",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23287,
+      "Turn": 50,
+      "Speaker": "T",
+      "Sentence": "Carson would you share with your classmates whats something youve heard from someone else in your Mix and Mingle",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher directs the student to 'share with your classmates,' which orients the student's contribution to the whole group rather than just the teacher."
+    },
+    {
+      "ID": 23289,
+      "Turn": 52,
+      "Speaker": "T",
+      "Sentence": "Love it",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23290,
+      "Turn": 52,
+      "Speaker": "T",
+      "Sentence": "Thanks for sharing",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23291,
+      "Turn": 52,
+      "Speaker": "T",
+      "Sentence": "All right",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23292,
+      "Turn": 52,
+      "Speaker": "T",
+      "Sentence": "Stand up if you are Actually lets do three claps for Carson for sharing something she got",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23293,
+      "Turn": 53,
+      "Speaker": "T",
+      "Sentence": "All right",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23294,
+      "Turn": 53,
+      "Speaker": "T",
+      "Sentence": "Please stand up if you are teammate number four",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23295,
+      "Turn": 54,
+      "Speaker": "T",
+      "Sentence": "Stay standing if youre at team one",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23296,
+      "Turn": 54,
+      "Speaker": "T",
+      "Sentence": "All right",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23297,
+      "Turn": 54,
+      "Speaker": "T",
+      "Sentence": "Fletcher tell us",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23298,
+      "Turn": 54,
+      "Speaker": "T",
+      "Sentence": "What did you hear from a classmate",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23299,
+      "Turn": 54,
+      "Speaker": "T",
+      "Sentence": "Tell them not me",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher explicitly instructs the student to address their classmates ('them') rather than the teacher, which orients the student to the group."
+    },
+    {
+      "ID": 23300,
+      "Turn": 54,
+      "Speaker": "T",
+      "Sentence": "Ive already been in fifth grade",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher provides a rationale for the previous instruction ('Tell them not me'), reinforcing the idea that students should be speaking to and for each other."
+    },
+    {
+      "ID": 23302,
+      "Turn": 56,
+      "Speaker": "T",
+      "Sentence": "Thanks for sharing Fletcher",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23303,
+      "Turn": 56,
+      "Speaker": "T",
+      "Sentence": "Give him three claps please",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23304,
+      "Turn": 57,
+      "Speaker": "T",
+      "Sentence": "We will do one more",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23305,
+      "Turn": 57,
+      "Speaker": "T",
+      "Sentence": "Stand up if you are teammate number one",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 23306,
+      "Turn": 57,
+      "Speaker": "T",
+      "Sentence": "I would like to hear from table five",
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

@@ -1,0 +1,277 @@
+{
+  "records": [
+    {
+      "ID": 28329,
+      "Turn": 47,
+      "Speaker": "T",
+      "Sentence": "Lily is it okay if I set this on your desk",
+      "TalkMove": null
+    },
+    {
+      "ID": 28331,
+      "Turn": 49,
+      "Speaker": "T",
+      "Sentence": "All right",
+      "TalkMove": null
+    },
+    {
+      "ID": 28332,
+      "Turn": 49,
+      "Speaker": "T",
+      "Sentence": "So friends we are starting on Number 11 and our goal on number 11 is to were going to go ahead and just read through some of these together and start solving",
+      "TalkMove": null
+    },
+    {
+      "ID": 28333,
+      "Turn": 49,
+      "Speaker": "T",
+      "Sentence": "Are you on Number 11",
+      "TalkMove": "Keeping Everyone Together"
+    },
+    {
+      "ID": 28334,
+      "Turn": 49,
+      "Speaker": "T",
+      "Sentence": "Okay",
+      "TalkMove": null
+    },
+    {
+      "ID": 28335,
+      "Turn": 49,
+      "Speaker": "T",
+      "Sentence": "Were all starting on Number 11 together",
+      "TalkMove": "Keeping Everyone Together"
+    },
+    {
+      "ID": 28336,
+      "Turn": 49,
+      "Speaker": "T",
+      "Sentence": "Okay",
+      "TalkMove": null
+    },
+    {
+      "ID": 28337,
+      "Turn": 49,
+      "Speaker": "T",
+      "Sentence": "So friends Number 11",
+      "TalkMove": null
+    },
+    {
+      "ID": 28338,
+      "Turn": 49,
+      "Speaker": "T",
+      "Sentence": "Hannah will you read it for us",
+      "TalkMove": null
+    },
+    {
+      "ID": 28341,
+      "Turn": 51,
+      "Speaker": "T",
+      "Sentence": "Okay",
+      "TalkMove": null
+    },
+    {
+      "ID": 28342,
+      "Turn": 51,
+      "Speaker": "T",
+      "Sentence": "What is this one asking us to do",
+      "TalkMove": "Pressing for Reasoning"
+    },
+    {
+      "ID": 28343,
+      "Turn": 51,
+      "Speaker": "T",
+      "Sentence": "What is Number 11 asking us for",
+      "TalkMove": "Pressing for Reasoning"
+    },
+    {
+      "ID": 28345,
+      "Turn": 53,
+      "Speaker": "T",
+      "Sentence": "Okay",
+      "TalkMove": null
+    },
+    {
+      "ID": 28346,
+      "Turn": 53,
+      "Speaker": "T",
+      "Sentence": "So what do we have",
+      "TalkMove": "Pressing for Reasoning"
+    },
+    {
+      "ID": 28348,
+      "Turn": 55,
+      "Speaker": "T",
+      "Sentence": "Okay",
+      "TalkMove": null
+    },
+    {
+      "ID": 28349,
+      "Turn": 55,
+      "Speaker": "T",
+      "Sentence": "So on Number 11A we have something like this right",
+      "TalkMove": null
+    },
+    {
+      "ID": 28350,
+      "Turn": 55,
+      "Speaker": "T",
+      "Sentence": "We need a halfturn clockwise",
+      "TalkMove": null
+    },
+    {
+      "ID": 28351,
+      "Turn": 55,
+      "Speaker": "T",
+      "Sentence": "What does that look like",
+      "TalkMove": "Pressing for Reasoning"
+    },
+    {
+      "ID": 28353,
+      "Turn": 57,
+      "Speaker": "T",
+      "Sentence": "So half a turn",
+      "TalkMove": null
+    },
+    {
+      "ID": 28355,
+      "Turn": 59,
+      "Speaker": "T",
+      "Sentence": "Stand up",
+      "TalkMove": null
+    },
+    {
+      "ID": 28357,
+      "Turn": 61,
+      "Speaker": "T",
+      "Sentence": "Right",
+      "TalkMove": null
+    },
+    {
+      "ID": 28358,
+      "Turn": 61,
+      "Speaker": "T",
+      "Sentence": "So if were standing and were facing the front right",
+      "TalkMove": "Revoicing"
+    },
+    {
+      "ID": 28360,
+      "Turn": 63,
+      "Speaker": "T",
+      "Sentence": "Like the arrow this way",
+      "TalkMove": "Revoicing"
+    },
+    {
+      "ID": 28361,
+      "Turn": 63,
+      "Speaker": "T",
+      "Sentence": "Okay",
+      "TalkMove": null
+    },
+    {
+      "ID": 28362,
+      "Turn": 63,
+      "Speaker": "T",
+      "Sentence": "What would a halfturn look like",
+      "TalkMove": "Pressing for Reasoning"
+    },
+    {
+      "ID": 28363,
+      "Turn": 63,
+      "Speaker": "T",
+      "Sentence": "Are we going clockwise or counterclockwise",
+      "TalkMove": "Pressing for Accuracy"
+    },
+    {
+      "ID": 28365,
+      "Turn": 65,
+      "Speaker": "T",
+      "Sentence": "Clockwise",
+      "TalkMove": "Restating"
+    },
+    {
+      "ID": 28366,
+      "Turn": 65,
+      "Speaker": "T",
+      "Sentence": "So we would go half turn",
+      "TalkMove": null
+    },
+    {
+      "ID": 28368,
+      "Turn": 67,
+      "Speaker": "T",
+      "Sentence": "Okay",
+      "TalkMove": null
+    },
+    {
+      "ID": 28369,
+      "Turn": 67,
+      "Speaker": "T",
+      "Sentence": "So it would look like",
+      "TalkMove": null
+    },
+    {
+      "ID": 28375,
+      "Turn": 69,
+      "Speaker": "T",
+      "Sentence": "So it was like this and a half turn would mean now its",
+      "TalkMove": "Revoicing"
+    },
+    {
+      "ID": 28377,
+      "Turn": 71,
+      "Speaker": "T",
+      "Sentence": "like that because it went all the way a halfway turn the same way the hands go on a clock",
+      "TalkMove": "Revoicing"
+    },
+    {
+      "ID": 28378,
+      "Turn": 71,
+      "Speaker": "T",
+      "Sentence": "So what would it look like on B",
+      "TalkMove": "Pressing for Reasoning"
+    },
+    {
+      "ID": 28379,
+      "Turn": 71,
+      "Speaker": "T",
+      "Sentence": "Onefourth of a turn counterclockwise",
+      "TalkMove": null
+    },
+    {
+      "ID": 28380,
+      "Turn": 71,
+      "Speaker": "T",
+      "Sentence": "Right",
+      "TalkMove": null
+    },
+    {
+      "ID": 28381,
+      "Turn": 71,
+      "Speaker": "T",
+      "Sentence": "So 11B starts like this",
+      "TalkMove": null
+    },
+    {
+      "ID": 28382,
+      "Turn": 71,
+      "Speaker": "T",
+      "Sentence": "Right",
+      "TalkMove": null
+    },
+    {
+      "ID": 28383,
+      "Turn": 71,
+      "Speaker": "T",
+      "Sentence": "Onefourth of a turn",
+      "TalkMove": null
+    },
+    {
+      "ID": 28384,
+      "Turn": 71,
+      "Speaker": "T",
+      "Sentence": "Daniel well tell us what youre thinking",
+      "TalkMove": "Pressing for Reasoning"
+    }
+  ]
+}

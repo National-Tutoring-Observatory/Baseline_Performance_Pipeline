@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 16144,
+      "Speaker": "T",
+      "Turn": 16144,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16145,
+      "Speaker": "T",
+      "Turn": 16145,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks a student to explain their reasoning for choosing a specific mathematical operation."
+    },
+    {
+      "ID": 16148,
+      "Speaker": "T",
+      "Turn": 16148,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students for a specific mathematical contribution, the formula for area."
+    },
+    {
+      "ID": 16150,
+      "Speaker": "T",
+      "Turn": 16150,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16151,
+      "Speaker": "T",
+      "Turn": 16151,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16152,
+      "Speaker": "T",
+      "Turn": 16152,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases a student's likely reasoning, connecting the term 'area' to the operation of multiplication."
+    },
+    {
+      "ID": 16153,
+      "Speaker": "T",
+      "Turn": 16153,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16154,
+      "Speaker": "T",
+      "Turn": 16154,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16155,
+      "Speaker": "T",
+      "Turn": 16155,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16156,
+      "Speaker": "T",
+      "Turn": 16156,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16157,
+      "Speaker": "T",
+      "Turn": 16157,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16158,
+      "Speaker": "T",
+      "Turn": 16158,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16159,
+      "Speaker": "T",
+      "Turn": 16159,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16160,
+      "Speaker": "T",
+      "Turn": 16160,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to explain their thinking behind choosing the operation of subtraction."
+    },
+    {
+      "ID": 16161,
+      "Speaker": "T",
+      "Turn": 16161,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16162,
+      "Speaker": "T",
+      "Turn": 16162,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16163,
+      "Speaker": "T",
+      "Turn": 16163,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts a specific student to share their thinking process."
+    },
+    {
+      "ID": 16165,
+      "Speaker": "T",
+      "Turn": 16165,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16166,
+      "Speaker": "T",
+      "Turn": 16166,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher directs the class's attention to a contribution being made by a specific student."
+    },
+    {
+      "ID": 16167,
+      "Speaker": "T",
+      "Turn": 16167,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats a student's idea in their own words, clarifying the student's point for the class."
+    }
+  ]
+}

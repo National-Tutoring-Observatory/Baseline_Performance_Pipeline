@@ -1,0 +1,95 @@
+{
+  "records": [
+    {
+      "ID": 28463,
+      "Speaker": "T",
+      "Turn": 110,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher tells the student to explain their thinking to peers, prompting them to articulate the reason behind their answer."
+    },
+    {
+      "ID": 28466,
+      "Speaker": "T",
+      "Turn": 113,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Asks the student 'Why,' directly requesting an explanation of their answer."
+    },
+    {
+      "ID": 28468,
+      "Speaker": "T",
+      "Turn": 115,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks 'How do you know,' prompting the student to justify their claim."
+    },
+    {
+      "ID": 28470,
+      "Speaker": "T",
+      "Turn": 117,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Repeats the prompt 'How do you know,' again seeking the student's reasoning."
+    },
+    {
+      "ID": 28473,
+      "Speaker": "T",
+      "Turn": 119,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher rephrases the student's idea about a right angle meeting at 90 degrees, clarifying and expanding on the student's statement."
+    },
+    {
+      "ID": 28475,
+      "Speaker": "T",
+      "Turn": 121,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 28476,
+      "Speaker": "T",
+      "Turn": 121,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 28477,
+      "Speaker": "T",
+      "Turn": 121,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 28478,
+      "Speaker": "T",
+      "Turn": 121,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher restates the group’s conclusion ('you guys say acute'), summarizing and slightly rephrasing what the students said."
+    },
+    {
+      "ID": 28480,
+      "Speaker": "T",
+      "Turn": 123,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "By stating the precise mathematical term 'Acute,' the teacher emphasizes correct vocabulary."
+    },
+    {
+      "ID": 28481,
+      "Speaker": "T",
+      "Turn": 124,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 28482,
+      "Speaker": "T",
+      "Turn": 124,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 28483,
+      "Speaker": "T",
+      "Turn": 124,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

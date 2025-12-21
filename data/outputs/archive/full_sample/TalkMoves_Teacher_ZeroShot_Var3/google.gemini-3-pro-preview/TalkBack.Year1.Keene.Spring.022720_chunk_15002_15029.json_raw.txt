@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 15002,
+      "Speaker": "T",
+      "Turn": 15002,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 15003,
+      "Speaker": "T",
+      "Turn": 15003,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 15004,
+      "Speaker": "T",
+      "Turn": 15004,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 15007,
+      "Speaker": "T",
+      "Turn": 15007,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 15008,
+      "Speaker": "T",
+      "Turn": 15008,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks a conceptual question ('is all multiplication doubling') that prompts students to evaluate a mathematical definition or property."
+    },
+    {
+      "ID": 15010,
+      "Speaker": "T",
+      "Turn": 15010,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 15011,
+      "Speaker": "T",
+      "Turn": 15011,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 15012,
+      "Speaker": "T",
+      "Turn": 15012,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a specific student to define a mathematical operation ('whats multiplying')."
+    },
+    {
+      "ID": 15014,
+      "Speaker": "T",
+      "Turn": 15014,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher restates the student's idea ('What youre saying then Reese is...') but adds more formal mathematical language ('multiplication is adding the same number over and over again')."
+    },
+    {
+      "ID": 15016,
+      "Speaker": "T",
+      "Turn": 15016,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's specific example ('five plus five...') to clarify the underlying concept of multiplication."
+    },
+    {
+      "ID": 15017,
+      "Speaker": "T",
+      "Turn": 15017,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher continues to refine the previous student contribution into a general rule ('When Im multiplying Im adding the same number however many times')."
+    },
+    {
+      "ID": 15018,
+      "Speaker": "T",
+      "Turn": 15018,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 15020,
+      "Speaker": "T",
+      "Turn": 15020,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a specific computational question ('how many times would I need to add five') to check understanding of the procedure."
+    },
+    {
+      "ID": 15022,
+      "Speaker": "T",
+      "Turn": 15022,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 15023,
+      "Speaker": "T",
+      "Turn": 15023,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher highlights a student's use of a discussion stem, orienting the class to how they should be listening and responding to one another."
+    },
+    {
+      "ID": 15024,
+      "Speaker": "T",
+      "Turn": 15024,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher explicitly praises the act of 'Adding on to Reese and rephrasing,' reinforcing the norms of listening and building on others' ideas."
+    },
+    {
+      "ID": 15025,
+      "Speaker": "T",
+      "Turn": 15025,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 15026,
+      "Speaker": "T",
+      "Turn": 15026,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 15028,
+      "Speaker": "T",
+      "Turn": 15028,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 15029,
+      "Speaker": "T",
+      "Turn": 15029,
+      "TalkMove": "None",
+      "Reasoning": null
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "records": [
+    {
+      "ID": 4035,
+      "Speaker": "T",
+      "Turn": 98,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4037,
+      "Speaker": "T",
+      "Turn": 100,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4038,
+      "Speaker": "T",
+      "Turn": 101,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4039,
+      "Speaker": "T",
+      "Turn": 101,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4040,
+      "Speaker": "T",
+      "Turn": 101,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4042,
+      "Speaker": "T",
+      "Turn": 102,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4043,
+      "Speaker": "T",
+      "Turn": 103,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4044,
+      "Speaker": "T",
+      "Turn": 103,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to use a specific mathematical term (place value)."
+    },
+    {
+      "ID": 4046,
+      "Speaker": "T",
+      "Turn": 104,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's one-word answer (\"Ones\") and rephrases it into a complete sentence, clarifying its meaning in context."
+    },
+    {
+      "ID": 4047,
+      "Speaker": "T",
+      "Turn": 104,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4049,
+      "Speaker": "T",
+      "Turn": 106,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4050,
+      "Speaker": "T",
+      "Turn": 106,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4051,
+      "Speaker": "T",
+      "Turn": 106,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4053,
+      "Speaker": "T",
+      "Turn": 108,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts a student to make a mathematical contribution by identifying the larger decimal."
+    },
+    {
+      "ID": 4054,
+      "Speaker": "T",
+      "Turn": 108,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher clarifies the question from the previous utterance, prompting a student to make a mathematical contribution."
+    }
+  ]
+}

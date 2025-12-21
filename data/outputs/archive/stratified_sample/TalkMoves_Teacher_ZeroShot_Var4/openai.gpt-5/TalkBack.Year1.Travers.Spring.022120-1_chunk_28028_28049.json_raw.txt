@@ -1,0 +1,130 @@
+{
+  "records": [
+    {
+      "ID": 28028,
+      "Speaker": "T",
+      "Turn": 221,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 28029,
+      "Speaker": "T",
+      "Turn": 221,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 28030,
+      "Speaker": "T",
+      "Turn": 221,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the specific quantity ('what'), prompting a precise mathematical answer."
+    },
+    {
+      "ID": 28032,
+      "Speaker": "T",
+      "Turn": 223,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 28033,
+      "Speaker": "T",
+      "Turn": 223,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks 'how many milligrams are there in a gram,' eliciting a specific numerical answer."
+    },
+    {
+      "ID": 28035,
+      "Speaker": "T",
+      "Turn": 225,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's answer '100000' verbatim."
+    },
+    {
+      "ID": 28036,
+      "Speaker": "T",
+      "Turn": 225,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 28037,
+      "Speaker": "T",
+      "Turn": 225,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 28038,
+      "Speaker": "T",
+      "Turn": 226,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 28040,
+      "Speaker": "T",
+      "Turn": 228,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 28041,
+      "Speaker": "T",
+      "Turn": 228,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 28042,
+      "Speaker": "T",
+      "Turn": 228,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 28043,
+      "Speaker": "T",
+      "Turn": 228,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 28045,
+      "Speaker": "T",
+      "Turn": 230,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 28046,
+      "Speaker": "T",
+      "Turn": 230,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks 'What do we know?', prompting students to articulate the known information and setup."
+    },
+    {
+      "ID": 28047,
+      "Speaker": "T",
+      "Turn": 230,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the number of milligrams in one gram, seeking a precise value."
+    },
+    {
+      "ID": 28048,
+      "Speaker": "T",
+      "Turn": 230,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 28049,
+      "Speaker": "T",
+      "Turn": 230,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

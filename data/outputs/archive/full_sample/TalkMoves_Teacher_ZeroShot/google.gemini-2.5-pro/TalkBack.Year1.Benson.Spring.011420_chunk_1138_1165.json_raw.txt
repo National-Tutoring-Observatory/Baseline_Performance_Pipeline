@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 1138,
+      "Speaker": "T",
+      "Turn": 1138,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1139,
+      "Speaker": "T",
+      "Turn": 1139,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1140,
+      "Speaker": "T",
+      "Turn": 1140,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1141,
+      "Speaker": "T",
+      "Turn": 1141,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1143,
+      "Speaker": "T",
+      "Turn": 1143,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher asks a student to repeat their contribution so the whole class can hear it, orienting the class to the student's idea."
+    },
+    {
+      "ID": 1145,
+      "Speaker": "T",
+      "Turn": 1145,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's answer and begins to add a justification ('because...'), rephrasing the student's contribution to clarify it for the class."
+    },
+    {
+      "ID": 1146,
+      "Speaker": "T",
+      "Turn": 1146,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher articulates the student's likely reasoning process, rephrasing their implicit thinking into an explicit statement."
+    },
+    {
+      "ID": 1147,
+      "Speaker": "T",
+      "Turn": 1147,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks for an alternative explanation for the problem, prompting other students to share their own reasoning."
+    },
+    {
+      "ID": 1148,
+      "Speaker": "T",
+      "Turn": 1148,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1151,
+      "Speaker": "T",
+      "Turn": 1151,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases and summarizes the student's explanation, clarifying their thinking process for the class."
+    },
+    {
+      "ID": 1152,
+      "Speaker": "T",
+      "Turn": 1152,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1153,
+      "Speaker": "T",
+      "Turn": 1153,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1154,
+      "Speaker": "T",
+      "Turn": 1154,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks a question about a core mathematical concept (the meaning of the denominator) to probe students' understanding and address a potential misconception."
+    },
+    {
+      "ID": 1155,
+      "Speaker": "T",
+      "Turn": 1155,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1157,
+      "Speaker": "T",
+      "Turn": 1157,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's idea and then rephrases it as a question to confirm their understanding of the student's contribution."
+    },
+    {
+      "ID": 1159,
+      "Speaker": "T",
+      "Turn": 1159,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher explicitly directs a student to 'add on to' or 'clarify' a previous student's contribution."
+    },
+    {
+      "ID": 1161,
+      "Speaker": "T",
+      "Turn": 1161,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases a student's contribution to make the mathematical definition of the denominator more precise for the class."
+    },
+    {
+      "ID": 1162,
+      "Speaker": "T",
+      "Turn": 1162,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1163,
+      "Speaker": "T",
+      "Turn": 1163,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1165,
+      "Speaker": "T",
+      "Turn": 1165,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks a targeted question that requires the student to apply the recently discussed definition of a denominator to the specific context of the problem, pressing them to reason about the validity of a potential answer."
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 22098,
+      "Speaker": "T",
+      "Turn": 22098,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22099,
+      "Speaker": "T",
+      "Turn": 22099,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22100,
+      "Speaker": "T",
+      "Turn": 22100,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22102,
+      "Speaker": "T",
+      "Turn": 22102,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22103,
+      "Speaker": "T",
+      "Turn": 22103,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts a student to be precise and careful with their mathematical language when describing a step."
+    },
+    {
+      "ID": 22104,
+      "Speaker": "T",
+      "Turn": 22104,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to articulate the plan for solving the problem."
+    },
+    {
+      "ID": 22105,
+      "Speaker": "T",
+      "Turn": 22105,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to state the overall objective, prompting them to think about the purpose of their actions."
+    },
+    {
+      "ID": 22106,
+      "Speaker": "T",
+      "Turn": 22106,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to identify the first step in their problem-solving process, connecting it to the new problem type."
+    },
+    {
+      "ID": 22108,
+      "Speaker": "T",
+      "Turn": 22108,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher offers an alternative way to represent a mathematical expression, thereby rephrasing a concept."
+    },
+    {
+      "ID": 22111,
+      "Speaker": "T",
+      "Turn": 22111,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22112,
+      "Speaker": "T",
+      "Turn": 22112,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22114,
+      "Speaker": "T",
+      "Turn": 22114,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's contribution word for word."
+    },
+    {
+      "ID": 22115,
+      "Speaker": "T",
+      "Turn": 22115,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher corrects a potential misconception and directs students toward the correct mathematical context for the problem."
+    },
+    {
+      "ID": 22116,
+      "Speaker": "T",
+      "Turn": 22116,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher explicitly provides the correct mathematical term that students should be using."
+    },
+    {
+      "ID": 22117,
+      "Speaker": "T",
+      "Turn": 22117,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher clarifies the definition of a key mathematical term to ensure students are using it accurately."
+    },
+    {
+      "ID": 22118,
+      "Speaker": "T",
+      "Turn": 22118,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases a student's idea ('isolate the exponent') to incorporate the clarified terminology and confirm the next step."
+    },
+    {
+      "ID": 22119,
+      "Speaker": "T",
+      "Turn": 22119,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts a student to state the correct first step in the procedure."
+    },
+    {
+      "ID": 22121,
+      "Speaker": "T",
+      "Turn": 22121,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher confirms a student's correct contribution and rephrases it using more complete mathematical language."
+    },
+    {
+      "ID": 22122,
+      "Speaker": "T",
+      "Turn": 22122,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the class to provide the specific, correct result of a calculation."
+    },
+    {
+      "ID": 22124,
+      "Speaker": "T",
+      "Turn": 22124,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's correct numerical answer."
+    }
+  ]
+}

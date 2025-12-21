@@ -1,0 +1,258 @@
+{
+  "records": [
+    {
+      "ID": 1561,
+      "Speaker": "S",
+      "Turn": 30
+    },
+    {
+      "ID": 1562,
+      "Speaker": "T",
+      "Turn": 31,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1563,
+      "Speaker": "T",
+      "Turn": 31,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1564,
+      "Speaker": "T",
+      "Turn": 31,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1565,
+      "Speaker": "T",
+      "Turn": 31,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1566,
+      "Speaker": "T",
+      "Turn": 31,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks Finn to share the exact number he wrote, prompting a specific mathematical contribution."
+    },
+    {
+      "ID": 1567,
+      "Speaker": "S",
+      "Turn": 32
+    },
+    {
+      "ID": 1568,
+      "Speaker": "T",
+      "Turn": 33,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1569,
+      "Speaker": "T",
+      "Turn": 33,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks for the precise count of cubes that represent 80 hundredths."
+    },
+    {
+      "ID": 1570,
+      "Speaker": "S",
+      "Turn": 34
+    },
+    {
+      "ID": 1571,
+      "Speaker": "T",
+      "Turn": 35,
+      "TalkMove": "Restating",
+      "Reasoning": "Teacher repeats the student’s answer verbatim: '80 of them'."
+    },
+    {
+      "ID": 1572,
+      "Speaker": "S",
+      "Turn": 36
+    },
+    {
+      "ID": 1573,
+      "Speaker": "T",
+      "Turn": 37,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher rephrases the student’s idea to check understanding: 'You are telling me I would have eight little cubes.'"
+    },
+    {
+      "ID": 1574,
+      "Speaker": "T",
+      "Turn": 37,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1575,
+      "Speaker": "T",
+      "Turn": 37,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1576,
+      "Speaker": "T",
+      "Turn": 38,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1577,
+      "Speaker": "T",
+      "Turn": 38,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1578,
+      "Speaker": "T",
+      "Turn": 38,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1579,
+      "Speaker": "T",
+      "Turn": 38,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1580,
+      "Speaker": "T",
+      "Turn": 38,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1581,
+      "Speaker": "T",
+      "Turn": 38,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1582,
+      "Speaker": "T",
+      "Turn": 38,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1583,
+      "Speaker": "T",
+      "Turn": 38,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1584,
+      "Speaker": "T",
+      "Turn": 38,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1585,
+      "Speaker": "T",
+      "Turn": 39,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1586,
+      "Speaker": "T",
+      "Turn": 39,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1587,
+      "Speaker": "T",
+      "Turn": 39,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks which students solved a specific problem, prompting them to state their numerical answer."
+    },
+    {
+      "ID": 1588,
+      "Speaker": "T",
+      "Turn": 39,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher asks Jude to 'tell me what to do,' requesting an explanation of the procedure."
+    },
+    {
+      "ID": 1589,
+      "Speaker": "S",
+      "Turn": 39
+    },
+    {
+      "ID": 1590,
+      "Speaker": "T",
+      "Turn": 40,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1591,
+      "Speaker": "T",
+      "Turn": 40,
+      "TalkMove": "Restating",
+      "Reasoning": "Teacher repeats the student’s number exactly: '026.'"
+    },
+    {
+      "ID": 1592,
+      "Speaker": "T",
+      "Turn": 40,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks another student to read the number as a decimal, focusing on correct mathematical language."
+    },
+    {
+      "ID": 1593,
+      "Speaker": "S",
+      "Turn": 41
+    },
+    {
+      "ID": 1594,
+      "Speaker": "T",
+      "Turn": 42,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher checks if the class agrees with the stated decimal, seeking confirmation."
+    },
+    {
+      "ID": 1595,
+      "Speaker": "T",
+      "Turn": 42,
+      "TalkMove": "Restating",
+      "Reasoning": "Teacher restates part of the student’s reading: 'Zero ones.'"
+    },
+    {
+      "ID": 1596,
+      "Speaker": "T",
+      "Turn": 42,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1597,
+      "Speaker": "T",
+      "Turn": 42,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1598,
+      "Speaker": "T",
+      "Turn": 42,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher prompts Tucker to read the number, focusing on correct verbal representation."
+    }
+  ]
+}

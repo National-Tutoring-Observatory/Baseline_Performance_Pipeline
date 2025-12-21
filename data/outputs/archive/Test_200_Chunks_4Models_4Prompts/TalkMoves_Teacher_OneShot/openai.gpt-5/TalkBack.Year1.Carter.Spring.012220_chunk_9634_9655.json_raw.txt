@@ -1,0 +1,130 @@
+{
+  "records": [
+    {
+      "ID": 9634,
+      "Speaker": "T",
+      "Turn": 64,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9636,
+      "Speaker": "T",
+      "Turn": 66,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9637,
+      "Speaker": "T",
+      "Turn": 67,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9638,
+      "Speaker": "T",
+      "Turn": 67,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9640,
+      "Speaker": "T",
+      "Turn": 68,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to compute 10 ÷ 5, eliciting a specific mathematical contribution."
+    },
+    {
+      "ID": 9642,
+      "Speaker": "T",
+      "Turn": 70,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student’s expression '10 ÷ 5' and adds 'is 2,' building on the student’s contribution."
+    },
+    {
+      "ID": 9643,
+      "Speaker": "T",
+      "Turn": 70,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9644,
+      "Speaker": "T",
+      "Turn": 70,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9645,
+      "Speaker": "T",
+      "Turn": 71,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9646,
+      "Speaker": "T",
+      "Turn": 71,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9647,
+      "Speaker": "T",
+      "Turn": 71,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks what value should go in a specific place in the table, prompting a precise mathematical answer."
+    },
+    {
+      "ID": 9648,
+      "Speaker": "T",
+      "Turn": 71,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks students to show the value, eliciting a concrete mathematical contribution."
+    },
+    {
+      "ID": 9649,
+      "Speaker": "T",
+      "Turn": 71,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9650,
+      "Speaker": "T",
+      "Turn": 71,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9651,
+      "Speaker": "T",
+      "Turn": 71,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks how students arrived at 'two,' prompting them to explain their thinking."
+    },
+    {
+      "ID": 9652,
+      "Speaker": "T",
+      "Turn": 71,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9654,
+      "Speaker": "T",
+      "Turn": 72,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks for the rationale behind choosing a fraction circle."
+    },
+    {
+      "ID": 9655,
+      "Speaker": "T",
+      "Turn": 72,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher connects the problem context (10 items and finding 1/5) to the chosen representation and asks why it fits."
+    }
+  ]
+}

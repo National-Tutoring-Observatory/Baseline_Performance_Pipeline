@@ -1,0 +1,184 @@
+{
+  "records": [
+    {
+      "ID": 27790,
+      "Turn": 107,
+      "Speaker": "S",
+      "Sentence": "200"
+    },
+    {
+      "ID": 27791,
+      "Turn": 108,
+      "Speaker": "T",
+      "Sentence": "Help me out",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 27792,
+      "Turn": 108,
+      "Speaker": "T",
+      "Sentence": "Were going to keep going three meters",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 27793,
+      "Turn": 109,
+      "Speaker": "S",
+      "Sentence": "300"
+    },
+    {
+      "ID": 27794,
+      "Turn": 110,
+      "Speaker": "T",
+      "Sentence": "Four meters",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 27795,
+      "Turn": 111,
+      "Speaker": "S",
+      "Sentence": "400"
+    },
+    {
+      "ID": 27796,
+      "Turn": 112,
+      "Speaker": "T",
+      "Sentence": "Five meters",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 27797,
+      "Turn": 113,
+      "Speaker": "S",
+      "Sentence": "500"
+    },
+    {
+      "ID": 27798,
+      "Turn": 114,
+      "Speaker": "T",
+      "Sentence": "What was the rule or pattern",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to articulate the mathematical rule or pattern they observed, prompting them to explain their thinking."
+    },
+    {
+      "ID": 27799,
+      "Turn": 114,
+      "Speaker": "T",
+      "Sentence": "Anyone willing to share",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 27800,
+      "Turn": 115,
+      "Speaker": "S",
+      "Sentence": "Times 102"
+    },
+    {
+      "ID": 27801,
+      "Turn": 116,
+      "Speaker": "T",
+      "Sentence": "Oh I saw a lot of kids write times 100",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 27802,
+      "Turn": 116,
+      "Speaker": "T",
+      "Sentence": "How did you know it was times 10 multiplied by time 102 tell us your thinking",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher explicitly asks the student to explain their thought process by saying 'tell us your thinking'."
+    },
+    {
+      "ID": 27803,
+      "Turn": 117,
+      "Speaker": "S",
+      "Sentence": "Because I saw that we are adding up"
+    },
+    {
+      "ID": 27804,
+      "Turn": 118,
+      "Speaker": "T",
+      "Sentence": "That means we would be shifting the decimal two places to the right making the product bigger",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher takes the student's vague reasoning ('adding up') and rephrases the mathematical concept in more precise terms ('shifting the decimal two places to the right')."
+    },
+    {
+      "ID": 27805,
+      "Turn": 118,
+      "Speaker": "T",
+      "Sentence": "Amazing math thinking",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 27806,
+      "Turn": 118,
+      "Speaker": "T",
+      "Sentence": "We shifted the decimal two places to the right",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 27807,
+      "Turn": 118,
+      "Speaker": "T",
+      "Sentence": "We are multiplying our rule is times 102",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 27808,
+      "Turn": 118,
+      "Speaker": "T",
+      "Sentence": "I love your hand signals is that showing you agree",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher checks for whole-class agreement using hand signals, orienting students to the group's collective understanding."
+    },
+    {
+      "ID": 27809,
+      "Turn": 118,
+      "Speaker": "T",
+      "Sentence": "Amazing math thinking",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 27810,
+      "Turn": 118,
+      "Speaker": "T",
+      "Sentence": "Friends that just gets us started with todays math thinking",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 27811,
+      "Turn": 118,
+      "Speaker": "T",
+      "Sentence": "Please put your pencils down",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 27812,
+      "Turn": 118,
+      "Speaker": "T",
+      "Sentence": "I see some of you are going so fast and I love that but you have a job on the rest of this page",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 27813,
+      "Turn": 118,
+      "Speaker": "T",
+      "Sentence": "You will be doing Ivy and scribe on problems 2 and 3",
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "records": [
+    {
+      "ID": 12972,
+      "Speaker": "T",
+      "Turn": 12972,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12973,
+      "Speaker": "T",
+      "Turn": 12973,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12974,
+      "Speaker": "T",
+      "Turn": 12974,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to identify where decimals appear, asking for a mathematical contribution focused on decimals."
+    },
+    {
+      "ID": 12975,
+      "Speaker": "T",
+      "Turn": 12975,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12976,
+      "Speaker": "T",
+      "Turn": 12976,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher refocuses students on the mathematical target (decimals), encouraging accurate use of mathematical language."
+    },
+    {
+      "ID": 12977,
+      "Speaker": "T",
+      "Turn": 12977,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher acknowledges a procedural action but redirects attention to the mathematical focus on decimals for accuracy."
+    },
+    {
+      "ID": 12978,
+      "Speaker": "T",
+      "Turn": 12978,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher orients students to each other by directing them to share with a partner, promoting active participation."
+    }
+  ]
+}

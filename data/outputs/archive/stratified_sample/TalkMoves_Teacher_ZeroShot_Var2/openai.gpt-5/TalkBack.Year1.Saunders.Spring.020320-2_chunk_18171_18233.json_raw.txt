@@ -1,0 +1,326 @@
+{
+  "records": [
+    {
+      "ID": 18171,
+      "Speaker": "T",
+      "Turn": 11,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher repeats the student’s ‘6’ to the class in a confirmatory way."
+    },
+    {
+      "ID": 18173,
+      "Speaker": "T",
+      "Turn": 13,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks what happens at x=1, prompting a specific mathematical description."
+    },
+    {
+      "ID": 18175,
+      "Speaker": "T",
+      "Turn": 15,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18176,
+      "Speaker": "T",
+      "Turn": 15,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Requests the degree of the polynomial, eliciting a precise mathematical value."
+    },
+    {
+      "ID": 18180,
+      "Speaker": "T",
+      "Turn": 19,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18184,
+      "Speaker": "T",
+      "Turn": 23,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Echoes the student’s ‘five’ and adds justification about the repeated root."
+    },
+    {
+      "ID": 18185,
+      "Speaker": "T",
+      "Turn": 23,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks whether the polynomial is positive or negative, seeking a correct classification."
+    },
+    {
+      "ID": 18188,
+      "Speaker": "T",
+      "Turn": 26,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18189,
+      "Speaker": "T",
+      "Turn": 26,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18190,
+      "Speaker": "T",
+      "Turn": 26,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18191,
+      "Speaker": "T",
+      "Turn": 27,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Prompts the student to speak louder so everyone can hear, orienting the class to the speaker."
+    },
+    {
+      "ID": 18193,
+      "Speaker": "T",
+      "Turn": 29,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18194,
+      "Speaker": "T",
+      "Turn": 29,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18195,
+      "Speaker": "T",
+      "Turn": 29,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18196,
+      "Speaker": "T",
+      "Turn": 30,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18197,
+      "Speaker": "T",
+      "Turn": 30,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18198,
+      "Speaker": "T",
+      "Turn": 30,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18199,
+      "Speaker": "T",
+      "Turn": 31,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18200,
+      "Speaker": "T",
+      "Turn": 31,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18201,
+      "Speaker": "T",
+      "Turn": 31,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks students to name the function family, eliciting correct mathematical terminology."
+    },
+    {
+      "ID": 18203,
+      "Speaker": "T",
+      "Turn": 32,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "Invites the class to evaluate a peer’s claim (that it is C) by checking whether any graph is a parabola."
+    },
+    {
+      "ID": 18205,
+      "Speaker": "T",
+      "Turn": 34,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks for the specific x-intercepts from graph C."
+    },
+    {
+      "ID": 18208,
+      "Speaker": "T",
+      "Turn": 37,
+      "TalkMove": "Restating",
+      "Reasoning": "Repeats the student’s answer ‘1 and 4’ verbatim."
+    },
+    {
+      "ID": 18209,
+      "Speaker": "T",
+      "Turn": 37,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Prompts what to do with the two numbers when writing the equation."
+    },
+    {
+      "ID": 18211,
+      "Speaker": "T",
+      "Turn": 39,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18212,
+      "Speaker": "T",
+      "Turn": 39,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18213,
+      "Speaker": "T",
+      "Turn": 39,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Directs students to converse with partners and make joint decisions, orienting them to each other."
+    },
+    {
+      "ID": 18214,
+      "Speaker": "T",
+      "Turn": 39,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Encourages continued partner conversations to keep collaborative focus."
+    },
+    {
+      "ID": 18215,
+      "Speaker": "T",
+      "Turn": 40,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18216,
+      "Speaker": "T",
+      "Turn": 40,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18218,
+      "Speaker": "T",
+      "Turn": 42,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18219,
+      "Speaker": "T",
+      "Turn": 42,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18220,
+      "Speaker": "T",
+      "Turn": 42,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18221,
+      "Speaker": "T",
+      "Turn": 42,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18222,
+      "Speaker": "T",
+      "Turn": 43,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18223,
+      "Speaker": "T",
+      "Turn": 43,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18224,
+      "Speaker": "T",
+      "Turn": 43,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18225,
+      "Speaker": "T",
+      "Turn": 43,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18226,
+      "Speaker": "T",
+      "Turn": 43,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18227,
+      "Speaker": "T",
+      "Turn": 43,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18228,
+      "Speaker": "T",
+      "Turn": 44,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18229,
+      "Speaker": "T",
+      "Turn": 44,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18230,
+      "Speaker": "T",
+      "Turn": 44,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18231,
+      "Speaker": "T",
+      "Turn": 44,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18232,
+      "Speaker": "T",
+      "Turn": 44,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 18233,
+      "Speaker": "T",
+      "Turn": 44,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

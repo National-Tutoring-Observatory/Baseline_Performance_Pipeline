@@ -1,0 +1,116 @@
+{
+  "records": [
+    {
+      "ID": 1044,
+      "Turn": 1,
+      "Speaker": "T",
+      "Sentence": "All right you ready",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1045,
+      "Turn": 1,
+      "Speaker": "T",
+      "Sentence": "Close up your journal for now",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1048,
+      "Turn": 3,
+      "Speaker": "T",
+      "Sentence": "All right problem",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1049,
+      "Turn": 3,
+      "Speaker": "T",
+      "Sentence": "The first problem the pink problem",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1050,
+      "Turn": 3,
+      "Speaker": "T",
+      "Sentence": "Julie will you read that out loud for me please",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1053,
+      "Turn": 5,
+      "Speaker": "T",
+      "Sentence": "What do we need to find out",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1054,
+      "Turn": 5,
+      "Speaker": "T",
+      "Sentence": "Leo what do we need to find out",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1056,
+      "Turn": 7,
+      "Speaker": "T",
+      "Sentence": "What do we know",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1057,
+      "Turn": 7,
+      "Speaker": "T",
+      "Sentence": "What pieces do we know",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1058,
+      "Turn": 7,
+      "Speaker": "T",
+      "Sentence": "Quinn",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1060,
+      "Turn": 9,
+      "Speaker": "T",
+      "Sentence": "How are we going to write a number sentence to show us how to solve that go ahead Kenzie",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to explain how to represent the problem with a number sentence, prompting for their thinking process."
+    },
+    {
+      "ID": 1062,
+      "Turn": 11,
+      "Speaker": "T",
+      "Sentence": "How many does Kennedy have",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1064,
+      "Turn": 13,
+      "Speaker": "T",
+      "Sentence": "So five represents whose beets",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to clarify the meaning of a number within the problem's context, pressing for a more precise mathematical contribution."
+    },
+    {
+      "ID": 1065,
+      "Turn": 15,
+      "Speaker": "T",
+      "Sentence": "Seven represents",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to clarify the meaning of a number within the problem's context, pressing for a more precise mathematical contribution."
+    }
+  ]
+}

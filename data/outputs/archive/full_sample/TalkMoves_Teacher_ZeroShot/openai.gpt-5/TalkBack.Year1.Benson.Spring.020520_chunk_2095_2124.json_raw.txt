@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 2095,
+      "Speaker": "T",
+      "Turn": 2095,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the specific three numbers to multiply, prompting a precise mathematical contribution."
+    },
+    {
+      "ID": 2096,
+      "Speaker": "T",
+      "Turn": 2096,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a named student to state which three numbers to multiply, eliciting a concrete mathematical response."
+    },
+    {
+      "ID": 2098,
+      "Speaker": "T",
+      "Turn": 2098,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2100,
+      "Speaker": "T",
+      "Turn": 2100,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks where the number came from, prompting the student to explain their thinking."
+    },
+    {
+      "ID": 2102,
+      "Speaker": "T",
+      "Turn": 2102,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher restates the student’s rationale, adding wording to clarify it."
+    },
+    {
+      "ID": 2103,
+      "Speaker": "T",
+      "Turn": 2103,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks what to multiply the total by, seeking a specific mathematical step."
+    },
+    {
+      "ID": 2105,
+      "Speaker": "T",
+      "Turn": 2105,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "By saying 'because,' the teacher prompts the student to justify why three is used."
+    },
+    {
+      "ID": 2107,
+      "Speaker": "T",
+      "Turn": 2107,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher articulates the reason for multiplying by three, echoing the student’s justification with clarified wording."
+    },
+    {
+      "ID": 2108,
+      "Speaker": "T",
+      "Turn": 2108,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2109,
+      "Speaker": "T",
+      "Turn": 2109,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher invites an alternative method, prompting a clear mathematical approach."
+    },
+    {
+      "ID": 2110,
+      "Speaker": "T",
+      "Turn": 2110,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher calls on a student to provide a different method, eliciting a specific mathematical contribution."
+    },
+    {
+      "ID": 2113,
+      "Speaker": "T",
+      "Turn": 2113,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2114,
+      "Speaker": "T",
+      "Turn": 2114,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks if there is another way, soliciting another explicit mathematical approach."
+    },
+    {
+      "ID": 2116,
+      "Speaker": "T",
+      "Turn": 2116,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher requests a 'third way,' prompting a concrete mathematical method."
+    },
+    {
+      "ID": 2118,
+      "Speaker": "T",
+      "Turn": 2118,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2119,
+      "Speaker": "T",
+      "Turn": 2119,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2120,
+      "Speaker": "T",
+      "Turn": 2120,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for an easier number to work with, eliciting a specific numerical choice."
+    },
+    {
+      "ID": 2122,
+      "Speaker": "T",
+      "Turn": 2122,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2123,
+      "Speaker": "T",
+      "Turn": 2123,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2124,
+      "Speaker": "T",
+      "Turn": 2124,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher requests the value of 20 × 4, prompting a precise computation."
+    }
+  ]
+}

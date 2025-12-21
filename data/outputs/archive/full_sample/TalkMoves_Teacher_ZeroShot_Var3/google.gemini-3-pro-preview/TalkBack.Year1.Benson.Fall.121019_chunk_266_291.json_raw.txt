@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 266,
+      "Speaker": "T",
+      "Turn": 266,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 267,
+      "Speaker": "T",
+      "Turn": 267,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 269,
+      "Speaker": "T",
+      "Turn": 269,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 271,
+      "Speaker": "T",
+      "Turn": 271,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher asks the whole class to signal (thumbs up) if they got a specific answer, checking for collective understanding and engagement."
+    },
+    {
+      "ID": 272,
+      "Speaker": "T",
+      "Turn": 272,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students who got the wrong answer to identify what was needed to make their work 'correct and accurate'."
+    },
+    {
+      "ID": 273,
+      "Speaker": "T",
+      "Turn": 273,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 274,
+      "Speaker": "T",
+      "Turn": 274,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 275,
+      "Speaker": "T",
+      "Turn": 275,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 276,
+      "Speaker": "T",
+      "Turn": 276,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 277,
+      "Speaker": "T",
+      "Turn": 277,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 278,
+      "Speaker": "T",
+      "Turn": 278,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 279,
+      "Speaker": "T",
+      "Turn": 279,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to compare the current problem to a previous one ('Whats different about our second number'), prompting them to analyze the structure of the numbers."
+    },
+    {
+      "ID": 280,
+      "Speaker": "T",
+      "Turn": 280,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 282,
+      "Speaker": "T",
+      "Turn": 282,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's idea (implied from context) that it is 'not just the multiple of 10', validating and clarifying the student's contribution."
+    },
+    {
+      "ID": 283,
+      "Speaker": "T",
+      "Turn": 283,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a specific question ('17 isnt a multiple of 10 is it') to confirm a mathematical fact."
+    },
+    {
+      "ID": 285,
+      "Speaker": "T",
+      "Turn": 285,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 286,
+      "Speaker": "T",
+      "Turn": 286,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 287,
+      "Speaker": "T",
+      "Turn": 287,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the specific place value of a digit ('The 3 in 34 is worth what')."
+    },
+    {
+      "ID": 289,
+      "Speaker": "T",
+      "Turn": 289,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the specific place value of a digit ('the 4 in 34 is worth what')."
+    },
+    {
+      "ID": 291,
+      "Speaker": "T",
+      "Turn": 291,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a specific student for the place value of a digit ('Zach what is the 1 in 17 worth')."
+    }
+  ]
+}

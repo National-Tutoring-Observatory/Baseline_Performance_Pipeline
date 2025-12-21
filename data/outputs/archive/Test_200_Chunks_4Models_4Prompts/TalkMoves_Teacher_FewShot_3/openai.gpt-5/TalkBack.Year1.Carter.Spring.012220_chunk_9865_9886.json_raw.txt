@@ -1,0 +1,116 @@
+{
+  "records": [
+    {
+      "ID": 9865,
+      "Turn": 122,
+      "Speaker": "T",
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 9866,
+      "Turn": 123,
+      "Speaker": "T",
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 9867,
+      "Turn": 123,
+      "Speaker": "T",
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 9868,
+      "Turn": 123,
+      "Speaker": "T",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Directs students’ attention to be active listeners and focus on the speaker."
+    },
+    {
+      "ID": 9871,
+      "Turn": 124,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks the student to explicitly count, prompting a concrete mathematical contribution."
+    },
+    {
+      "ID": 9872,
+      "Turn": 124,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Requests the student to show how the counting connects to the first diagram, eliciting explanation."
+    },
+    {
+      "ID": 9873,
+      "Turn": 124,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Pushes the student to demonstrate on the representation why the value is two."
+    },
+    {
+      "ID": 9874,
+      "Turn": 124,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Asks for justification: how they know the value is two."
+    },
+    {
+      "ID": 9879,
+      "Turn": 126,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Prompts for a mathematical representation (a number model) of the situation."
+    },
+    {
+      "ID": 9880,
+      "Turn": 126,
+      "Speaker": "T",
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 9881,
+      "Turn": 126,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Again requests a number model, prompting precise mathematical representation."
+    },
+    {
+      "ID": 9882,
+      "Turn": 126,
+      "Speaker": "T",
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 9883,
+      "Turn": 126,
+      "Speaker": "T",
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 9884,
+      "Turn": 127,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks for a number model that corresponds to the representations, prompting precise mathematical language."
+    },
+    {
+      "ID": 9885,
+      "Turn": 127,
+      "Speaker": "T",
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 9886,
+      "Turn": 127,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Offers a structured example of the number model and seeks confirmation, focusing on correct mathematical formulation."
+    }
+  ]
+}

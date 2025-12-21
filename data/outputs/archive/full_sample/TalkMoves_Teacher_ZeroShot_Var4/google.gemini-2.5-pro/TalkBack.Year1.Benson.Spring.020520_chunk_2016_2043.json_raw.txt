@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 2016,
+      "Speaker": "T",
+      "Turn": 2016,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2017,
+      "Speaker": "T",
+      "Turn": 2017,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher asks one student (Ruth) to explain what another student (Lee) did, prompting her to engage with her classmate's idea."
+    },
+    {
+      "ID": 2018,
+      "Speaker": "T",
+      "Turn": 2018,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher asks a student to repeat what another student said, which serves to ensure active listening."
+    },
+    {
+      "ID": 2020,
+      "Speaker": "T",
+      "Turn": 2020,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks 'Why' to prompt students to explain the thinking behind a specific mathematical step."
+    },
+    {
+      "ID": 2021,
+      "Speaker": "T",
+      "Turn": 2021,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2023,
+      "Speaker": "T",
+      "Turn": 2023,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks 'why' to have students justify the reason for a specific calculation."
+    },
+    {
+      "ID": 2025,
+      "Speaker": "T",
+      "Turn": 2025,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases a student's likely contribution to clarify the reasoning for the whole class."
+    },
+    {
+      "ID": 2026,
+      "Speaker": "T",
+      "Turn": 2026,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks 'why' to prompt students to explain the thinking behind the next mathematical step."
+    },
+    {
+      "ID": 2028,
+      "Speaker": "T",
+      "Turn": 2028,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases a student's likely contribution to clarify the reasoning for the whole class."
+    },
+    {
+      "ID": 2029,
+      "Speaker": "T",
+      "Turn": 2029,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to provide the next mathematical step in the problem-solving process."
+    },
+    {
+      "ID": 2030,
+      "Speaker": "T",
+      "Turn": 2030,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2031,
+      "Speaker": "T",
+      "Turn": 2031,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to make the next mathematical contribution needed to solve the problem."
+    },
+    {
+      "ID": 2032,
+      "Speaker": "T",
+      "Turn": 2032,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts a specific student to provide the next mathematical step."
+    },
+    {
+      "ID": 2034,
+      "Speaker": "T",
+      "Turn": 2034,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's one-word answer verbatim."
+    },
+    {
+      "ID": 2035,
+      "Speaker": "T",
+      "Turn": 2035,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2036,
+      "Speaker": "T",
+      "Turn": 2036,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2037,
+      "Speaker": "T",
+      "Turn": 2037,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "After dismissing a previous suggestion, the teacher re-asks for the correct mathematical step."
+    },
+    {
+      "ID": 2038,
+      "Speaker": "T",
+      "Turn": 2038,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts a specific student to make a mathematical contribution."
+    },
+    {
+      "ID": 2040,
+      "Speaker": "T",
+      "Turn": 2040,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to explain their thinking process for interpreting the phrase 'how much more'."
+    },
+    {
+      "ID": 2043,
+      "Speaker": "T",
+      "Turn": 2043,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher provides options to scaffold the question and elicit a specific mathematical contribution (the correct operation)."
+    }
+  ]
+}

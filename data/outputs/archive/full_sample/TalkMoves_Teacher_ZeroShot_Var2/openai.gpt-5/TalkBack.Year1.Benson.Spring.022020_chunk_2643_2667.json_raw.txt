@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 2643,
+      "Speaker": "T",
+      "Turn": 2643,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the factor pair for 24 with 8, prompting a specific mathematical contribution."
+    },
+    {
+      "ID": 2645,
+      "Speaker": "T",
+      "Turn": 2645,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2646,
+      "Speaker": "T",
+      "Turn": 2646,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher requests the other factor in the pair with 8, eliciting the correct value."
+    },
+    {
+      "ID": 2648,
+      "Speaker": "T",
+      "Turn": 2648,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2649,
+      "Speaker": "T",
+      "Turn": 2649,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher checks whether the number is 24 to ensure precise identification."
+    },
+    {
+      "ID": 2651,
+      "Speaker": "T",
+      "Turn": 2651,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks how to decide which factor should receive the zero, prompting explanation of the strategy."
+    },
+    {
+      "ID": 2652,
+      "Speaker": "T",
+      "Turn": 2652,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2653,
+      "Speaker": "T",
+      "Turn": 2653,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Directed to a student, the teacher asks for how to determine where to put the zero, seeking justification."
+    },
+    {
+      "ID": 2655,
+      "Speaker": "T",
+      "Turn": 2655,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2656,
+      "Speaker": "T",
+      "Turn": 2656,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher sets up 240 = 8 × ?, prompting students to supply the missing factor."
+    },
+    {
+      "ID": 2657,
+      "Speaker": "T",
+      "Turn": 2657,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2658,
+      "Speaker": "T",
+      "Turn": 2658,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks students to count how many zeros on one side, requesting a precise quantity."
+    },
+    {
+      "ID": 2660,
+      "Speaker": "T",
+      "Turn": 2660,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2661,
+      "Speaker": "T",
+      "Turn": 2661,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2662,
+      "Speaker": "T",
+      "Turn": 2662,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2663,
+      "Speaker": "T",
+      "Turn": 2663,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2664,
+      "Speaker": "T",
+      "Turn": 2664,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2665,
+      "Speaker": "T",
+      "Turn": 2665,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts recall of the multiplication fact 8 × ? = 24."
+    },
+    {
+      "ID": 2666,
+      "Speaker": "T",
+      "Turn": 2666,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2667,
+      "Speaker": "T",
+      "Turn": 2667,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "records": [
+    {
+      "ID": 12044,
+      "Speaker": "T",
+      "Turn": 88,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's word 'Multiply' exactly as said."
+    },
+    {
+      "ID": 12045,
+      "Speaker": "T",
+      "Turn": 88
+    },
+    {
+      "ID": 12047,
+      "Speaker": "T",
+      "Turn": 90
+    },
+    {
+      "ID": 12048,
+      "Speaker": "T",
+      "Turn": 90,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the correct term for the answer to a multiplication problem, eliciting precise mathematical language."
+    },
+    {
+      "ID": 12049,
+      "Speaker": "T",
+      "Turn": 90,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher prompts the whole class to say the term together to keep all students engaged and aligned."
+    },
+    {
+      "ID": 12051,
+      "Speaker": "T",
+      "Turn": 92,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to explain the algorithm in their own words, prompting them to share their thinking."
+    },
+    {
+      "ID": 12052,
+      "Speaker": "T",
+      "Turn": 92,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher orients students to collaborate with a partner, promoting active listening and participation."
+    },
+    {
+      "ID": 12053,
+      "Speaker": "T",
+      "Turn": 92,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher directs students to share with a partner, orienting them to each other."
+    },
+    {
+      "ID": 12054,
+      "Speaker": "T",
+      "Turn": 92,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher asks students to explain to a ‘shoulder partner,’ prompting peer-to-peer engagement."
+    },
+    {
+      "ID": 12055,
+      "Speaker": "T",
+      "Turn": 92,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher ensures turn-taking with partners, orienting students to each other’s explanations."
+    },
+    {
+      "ID": 12056,
+      "Speaker": "T",
+      "Turn": 92
+    },
+    {
+      "ID": 12057,
+      "Speaker": "T",
+      "Turn": 92
+    },
+    {
+      "ID": 12058,
+      "Speaker": "T",
+      "Turn": 93
+    },
+    {
+      "ID": 12059,
+      "Speaker": "T",
+      "Turn": 93,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts for the correct mathematical term ('factors'), eliciting precise vocabulary."
+    },
+    {
+      "ID": 12060,
+      "Speaker": "T",
+      "Turn": 93
+    },
+    {
+      "ID": 12061,
+      "Speaker": "T",
+      "Turn": 93
+    },
+    {
+      "ID": 12062,
+      "Speaker": "T",
+      "Turn": 93
+    },
+    {
+      "ID": 12063,
+      "Speaker": "T",
+      "Turn": 94
+    },
+    {
+      "ID": 12064,
+      "Speaker": "T",
+      "Turn": 95,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks for the method for multiplying fractions, prompting students to describe or explain the process."
+    }
+  ]
+}

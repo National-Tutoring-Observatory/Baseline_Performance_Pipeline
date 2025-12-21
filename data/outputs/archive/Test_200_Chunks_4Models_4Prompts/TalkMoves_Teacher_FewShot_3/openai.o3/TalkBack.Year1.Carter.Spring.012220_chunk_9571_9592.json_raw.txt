@@ -1,0 +1,57 @@
+{
+  "coded_utterances": [
+    {
+      "ID": 9571,
+      "TalkMove": "None"
+    },
+    {
+      "ID": 9572,
+      "TalkMove": "None"
+    },
+    {
+      "ID": 9573,
+      "TalkMove": "None"
+    },
+    {
+      "ID": 9575,
+      "TalkMove": "None"
+    },
+    {
+      "ID": 9576,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks what the exact exponential notation should be, eliciting a precise mathematical answer."
+    },
+    {
+      "ID": 9578,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher presents an alternative form and asks which is correct, focusing on the precise mathematical representation."
+    },
+    {
+      "ID": 9580,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher seeks confirmation of the reasoning (wanting one zero) behind choosing the exponent."
+    },
+    {
+      "ID": 9582,
+      "TalkMove": "None"
+    },
+    {
+      "ID": 9584,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher restates the student’s answer, embedding it in a confirming statement."
+    },
+    {
+      "ID": 9586,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher asks the student to explain why the solution is correct."
+    },
+    {
+      "ID": 9591,
+      "TalkMove": "None"
+    },
+    {
+      "ID": 9592,
+      "TalkMove": "None"
+    }
+  ]
+}

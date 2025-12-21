@@ -1,0 +1,39 @@
+{
+  "run_name": ["LoggingTest_PromptVariation"],
+  "sample_type": ["experiment_800"],
+  "input_directory": ["data/inputs/stratified_samples/experiment_representative_800_chunks"],
+  "output_directory": ["data/outputs/LoggingTest_PromptVariation"],
+  "models": ["anthropic.claude-4.5-sonnet", "openai.gpt-5"],
+  "prompts": ["TalkMoves_Teacher_ZeroShot", "TalkMoves_Teacher_FewShot_ALL"],
+  "total_tasks": [4],
+  "results": {
+    "FAILED": [4]
+  },
+  "start_time": ["2025-12-19 09:39:58.207154"],
+  "end_time": ["2025-12-19 09:40:11.657986"],
+  "elapsed_minutes": [0.2242],
+  "config": {
+    "sample_type": ["experiment_800"],
+    "sample_paths": {
+      "full_sample": ["data/inputs/FullSample_Chunks_WithID"],
+      "stratified_sample": ["data/inputs/stratified_samples/RepresentativeSample_Oversampled_Chunks"],
+      "experiment_800": ["data/inputs/stratified_samples/experiment_representative_800_chunks"]
+    },
+    "base_url": ["https://api.openrouter.ai/api"],
+    "run_name": ["LoggingTest_PromptVariation"],
+    "models": ["anthropic.claude-4.5-sonnet", "openai.gpt-5"],
+    "prompt_directory": ["prompts"],
+    "specific_prompts": ["TalkMoves_Teacher_ZeroShot.json", "TalkMoves_Teacher_FewShot_ALL.json"],
+    "parallel_workers": [2],
+    "temperature": [0],
+    "max_tokens": [16000],
+    "request_timeout": [300],
+    "test_mode": [true],
+    "test_start_offset": [0],
+    "test_subset_size": [1],
+    "auto_analyze": [false],
+    "output_directory": ["data/outputs"],
+    "verbose_logging": [true],
+    "log_file": ["logs/pipeline.log"]
+  }
+}

@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 4057,
+      "Speaker": "T",
+      "Turn": 4057,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4064,
+      "Speaker": "T",
+      "Turn": 4064,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4073,
+      "Speaker": "T",
+      "Turn": 4073,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4074,
+      "Speaker": "T",
+      "Turn": 4074,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4075,
+      "Speaker": "T",
+      "Turn": 4075,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher summarizes the class's general consensus and highlights a specific student's contrasting idea, orienting the whole group to this point of discussion."
+    },
+    {
+      "ID": 4076,
+      "Speaker": "T",
+      "Turn": 4076,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks a student \"how come you think,\" directly prompting them to explain their reasoning."
+    },
+    {
+      "ID": 4077,
+      "Speaker": "T",
+      "Turn": 4077,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks a student \"how come,\" directly prompting them to explain the reasoning behind their answer."
+    },
+    {
+      "ID": 4079,
+      "Speaker": "T",
+      "Turn": 4079,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher verbalizes a student's apparent change of position, clarifying their current stance for the class."
+    },
+    {
+      "ID": 4081,
+      "Speaker": "T",
+      "Turn": 4081,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher articulates a student's potential reasoning for them, putting their implicit thought process into words for the class to consider."
+    },
+    {
+      "ID": 4082,
+      "Speaker": "T",
+      "Turn": 4082,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4083,
+      "Speaker": "T",
+      "Turn": 4083,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4084,
+      "Speaker": "T",
+      "Turn": 4084,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4088,
+      "Speaker": "T",
+      "Turn": 4088,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4099,
+      "Speaker": "T",
+      "Turn": 4099,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4100,
+      "Speaker": "T",
+      "Turn": 4100,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4101,
+      "Speaker": "T",
+      "Turn": 4101,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4103,
+      "Speaker": "T",
+      "Turn": 4103,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to provide the correct mathematical representation (the direction of the inequality symbol)."
+    },
+    {
+      "ID": 4105,
+      "Speaker": "T",
+      "Turn": 4105,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the correct answer and adds a tag question (\"right?\") to confirm it with the class."
+    },
+    {
+      "ID": 4106,
+      "Speaker": "T",
+      "Turn": 4106,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks \"How do you know,\" directly prompting a student to explain their thinking and provide evidence for their answer."
+    },
+    {
+      "ID": 4107,
+      "Speaker": "T",
+      "Turn": 4107,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher articulates the mathematical reasoning for the student and asks for confirmation, essentially voicing the expected justification."
+    }
+  ]
+}

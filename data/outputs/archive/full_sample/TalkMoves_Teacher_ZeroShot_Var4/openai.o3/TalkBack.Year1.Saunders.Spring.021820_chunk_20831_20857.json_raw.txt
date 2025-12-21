@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 20831,
+      "Speaker": "T",
+      "Turn": 20831,
+      "TalkMove": "Restating",
+      "Reasoning": "Teacher repeats the student’s answer (“Negative four and 2B”) word-for-word."
+    },
+    {
+      "ID": 20833,
+      "Speaker": "T",
+      "Turn": 20833,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20835,
+      "Speaker": "T",
+      "Turn": 20835,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20836,
+      "Speaker": "T",
+      "Turn": 20836,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20837,
+      "Speaker": "T",
+      "Turn": 20837,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20838,
+      "Speaker": "T",
+      "Turn": 20838,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20839,
+      "Speaker": "T",
+      "Turn": 20839,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks which quantity to move first, eliciting a specific procedural choice."
+    },
+    {
+      "ID": 20841,
+      "Speaker": "T",
+      "Turn": 20841,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "After restating the student’s answer (“The four”), the teacher asks “and how do I do that?” prompting an explanation of the procedure."
+    },
+    {
+      "ID": 20843,
+      "Speaker": "T",
+      "Turn": 20843,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20844,
+      "Speaker": "T",
+      "Turn": 20844,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20845,
+      "Speaker": "T",
+      "Turn": 20845,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20846,
+      "Speaker": "T",
+      "Turn": 20846,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20849,
+      "Speaker": "T",
+      "Turn": 20849,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks for the exact value of an expression (“What does that equal?”)."
+    },
+    {
+      "ID": 20851,
+      "Speaker": "T",
+      "Turn": 20851,
+      "TalkMove": "Restating",
+      "Reasoning": "Teacher repeats the student’s response “X” exactly."
+    },
+    {
+      "ID": 20852,
+      "Speaker": "T",
+      "Turn": 20852,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20853,
+      "Speaker": "T",
+      "Turn": 20853,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20854,
+      "Speaker": "T",
+      "Turn": 20854,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20855,
+      "Speaker": "T",
+      "Turn": 20855,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20856,
+      "Speaker": "T",
+      "Turn": 20856,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20857,
+      "Speaker": "T",
+      "Turn": 20857,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks students to state the value of the fourth root, seeking a specific mathematical answer."
+    }
+  ]
+}

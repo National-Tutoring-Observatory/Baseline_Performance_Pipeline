@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 9648,
+      "Speaker": "T",
+      "Turn": 9648,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9649,
+      "Speaker": "T",
+      "Turn": 9649,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9650,
+      "Speaker": "T",
+      "Turn": 9650,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher paraphrases the students’ shown answer (“two”) to the class."
+    },
+    {
+      "ID": 9651,
+      "Speaker": "T",
+      "Turn": 9651,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Asks students to explain how they obtained the answer two."
+    },
+    {
+      "ID": 9652,
+      "Speaker": "T",
+      "Turn": 9652,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9654,
+      "Speaker": "T",
+      "Turn": 9654,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Prompts justification for choosing a fraction circle representation."
+    },
+    {
+      "ID": 9655,
+      "Speaker": "T",
+      "Turn": 9655,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Uses the problem context and asks why that representation fits, prompting justification."
+    },
+    {
+      "ID": 9656,
+      "Speaker": "T",
+      "Turn": 9656,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Continues to prompt for justification of the chosen representation."
+    },
+    {
+      "ID": 9657,
+      "Speaker": "T",
+      "Turn": 9657,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Signals confusion to elicit clarification of the student’s reasoning."
+    },
+    {
+      "ID": 9659,
+      "Speaker": "T",
+      "Turn": 9659,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9660,
+      "Speaker": "T",
+      "Turn": 9660,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Questions the necessity of a representation, prompting students to justify their strategy."
+    },
+    {
+      "ID": 9661,
+      "Speaker": "T",
+      "Turn": 9661,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9662,
+      "Speaker": "T",
+      "Turn": 9662,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Asks for a method to find one-fifth of given numbers, eliciting strategy explanation."
+    },
+    {
+      "ID": 9663,
+      "Speaker": "T",
+      "Turn": 9663,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Prompts students to explain how the rule works during partner talk."
+    },
+    {
+      "ID": 9664,
+      "Speaker": "T",
+      "Turn": 9664,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Requests a precise statement of the mathematical rule."
+    },
+    {
+      "ID": 9665,
+      "Speaker": "T",
+      "Turn": 9665,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Asks for an explanation of how the procedure works."
+    },
+    {
+      "ID": 9667,
+      "Speaker": "T",
+      "Turn": 9667,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Presses for precision about the number of groups and the unit (“of what”)."
+    },
+    {
+      "ID": 9669,
+      "Speaker": "T",
+      "Turn": 9669,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9670,
+      "Speaker": "T",
+      "Turn": 9670,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Encourages extending the idea to a general rule."
+    },
+    {
+      "ID": 9671,
+      "Speaker": "T",
+      "Turn": 9671,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

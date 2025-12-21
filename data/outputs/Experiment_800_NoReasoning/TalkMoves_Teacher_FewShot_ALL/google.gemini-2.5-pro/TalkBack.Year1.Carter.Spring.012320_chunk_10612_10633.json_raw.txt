@@ -1,0 +1,131 @@
+{
+  "records": [
+    {
+      "ID": 10612,
+      "Turn": 50,
+      "Speaker": "S"
+    },
+    {
+      "ID": 10613,
+      "Turn": 50,
+      "Speaker": "S"
+    },
+    {
+      "ID": 10614,
+      "Turn": 50,
+      "Speaker": "S"
+    },
+    {
+      "ID": 10615,
+      "Turn": 51,
+      "Speaker": "T",
+      "TalkMove": null
+    },
+    {
+      "ID": 10616,
+      "Turn": 51,
+      "Speaker": "T",
+      "TalkMove": null
+    },
+    {
+      "ID": 10617,
+      "Turn": 51,
+      "Speaker": "T",
+      "TalkMove": null
+    },
+    {
+      "ID": 10618,
+      "Turn": 51,
+      "Speaker": "T",
+      "TalkMove": null
+    },
+    {
+      "ID": 10619,
+      "Turn": 51,
+      "Speaker": "T",
+      "TalkMove": null
+    },
+    {
+      "ID": 10620,
+      "Turn": 51,
+      "Speaker": "T",
+      "TalkMove": null
+    },
+    {
+      "ID": 10621,
+      "Turn": 52,
+      "Speaker": "S"
+    },
+    {
+      "ID": 10622,
+      "Turn": 53,
+      "Speaker": "T",
+      "TalkMove": "Restating"
+    },
+    {
+      "ID": 10623,
+      "Turn": 53,
+      "Speaker": "T",
+      "TalkMove": "Keeping Everyone Together"
+    },
+    {
+      "ID": 10624,
+      "Turn": 53,
+      "Speaker": "T",
+      "TalkMove": "Keeping Everyone Together"
+    },
+    {
+      "ID": 10625,
+      "Turn": 53,
+      "Speaker": "T",
+      "TalkMove": null
+    },
+    {
+      "ID": 10626,
+      "Turn": 53,
+      "Speaker": "T",
+      "TalkMove": "Revoicing"
+    },
+    {
+      "ID": 10627,
+      "Turn": 53,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy"
+    },
+    {
+      "ID": 10628,
+      "Turn": 54,
+      "Speaker": "S"
+    },
+    {
+      "ID": 10629,
+      "Turn": 55,
+      "Speaker": "T",
+      "TalkMove": null
+    },
+    {
+      "ID": 10630,
+      "Turn": 55,
+      "Speaker": "T",
+      "TalkMove": "Revoicing"
+    },
+    {
+      "ID": 10631,
+      "Turn": 55,
+      "Speaker": "T",
+      "TalkMove": "Keeping Everyone Together"
+    },
+    {
+      "ID": 10632,
+      "Turn": 55,
+      "Speaker": "T",
+      "TalkMove": "Keeping Everyone Together"
+    },
+    {
+      "ID": 10633,
+      "Turn": 55,
+      "Speaker": "T",
+      "TalkMove": "Keeping Everyone Together"
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 26391,
+      "Speaker": "T",
+      "Turn": 26391,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26392,
+      "Speaker": "T",
+      "Turn": 26392,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for a specific numerical detail (number of hours), prompting students to provide an exact mathematical quantity."
+    },
+    {
+      "ID": 26394,
+      "Speaker": "T",
+      "Turn": 26394,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher requests the precise cost per performer, seeking an exact mathematical value."
+    },
+    {
+      "ID": 26396,
+      "Speaker": "T",
+      "Turn": 26396,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26397,
+      "Speaker": "T",
+      "Turn": 26397,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the numerical information (\"30 an hour for three people\"), restating a student’s contribution in the teacher’s own wording."
+    },
+    {
+      "ID": 26399,
+      "Speaker": "T",
+      "Turn": 26399,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher presses for the exact number of people involved, prompting a precise mathematical answer."
+    },
+    {
+      "ID": 26400,
+      "Speaker": "T",
+      "Turn": 26400,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher summarizes and restates the quantitative details (people, hours, and rate) to clarify the information just discussed."
+    },
+    {
+      "ID": 26401,
+      "Speaker": "T",
+      "Turn": 26401,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher orients the class to the shared task by stating what needs to be figured out, ensuring all students are focused on the same goal."
+    },
+    {
+      "ID": 26402,
+      "Speaker": "T",
+      "Turn": 26402,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26403,
+      "Speaker": "T",
+      "Turn": 26403,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26404,
+      "Speaker": "T",
+      "Turn": 26404,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher seeks a specific count of performers, prompting students to provide an exact number."
+    },
+    {
+      "ID": 26406,
+      "Speaker": "T",
+      "Turn": 26406,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "By indicating inability to hear, the teacher signals students to speak louder so everyone can listen, fostering shared attention."
+    },
+    {
+      "ID": 26408,
+      "Speaker": "T",
+      "Turn": 26408,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the exact number of hours, eliciting a precise quantitative response."
+    },
+    {
+      "ID": 26410,
+      "Speaker": "T",
+      "Turn": 26410,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher requests the hourly amount the tap dancers earn, prompting students to state a specific value."
+    },
+    {
+      "ID": 26412,
+      "Speaker": "T",
+      "Turn": 26412,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26413,
+      "Speaker": "T",
+      "Turn": 26413,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26414,
+      "Speaker": "T",
+      "Turn": 26414,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26415,
+      "Speaker": "T",
+      "Turn": 26415,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher directs students to discuss with partners what the problem is asking, prompting them to articulate and justify their understanding."
+    },
+    {
+      "ID": 26416,
+      "Speaker": "T",
+      "Turn": 26416,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26417,
+      "Speaker": "T",
+      "Turn": 26417,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher again asks students to articulate what the problem is asking, eliciting an explanation of their interpretation."
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 584,
+      "Speaker": "T",
+      "Turn": 584,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 585,
+      "Speaker": "T",
+      "Turn": 585,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to explain their process ('tell me what you did'), which prompts the student to share their thinking."
+    },
+    {
+      "ID": 587,
+      "Speaker": "T",
+      "Turn": 587,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher explicitly asks for justification ('Why did you do that'), prompting the student to explain the rationale behind their action."
+    },
+    {
+      "ID": 591,
+      "Speaker": "T",
+      "Turn": 591,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher is prompting for further mathematical contribution ('You have another one'), asking the student to provide more answers or examples."
+    },
+    {
+      "ID": 595,
+      "Speaker": "T",
+      "Turn": 595,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 596,
+      "Speaker": "T",
+      "Turn": 596,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to perform a specific mathematical operation ('reduce this down to a smaller fraction')."
+    },
+    {
+      "ID": 599,
+      "Speaker": "T",
+      "Turn": 599,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 600,
+      "Speaker": "T",
+      "Turn": 600,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 601,
+      "Speaker": "T",
+      "Turn": 601,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 602,
+      "Speaker": "T",
+      "Turn": 602,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 603,
+      "Speaker": "T",
+      "Turn": 603,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 604,
+      "Speaker": "T",
+      "Turn": 604,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 605,
+      "Speaker": "T",
+      "Turn": 605,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 606,
+      "Speaker": "T",
+      "Turn": 606,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 607,
+      "Speaker": "T",
+      "Turn": 607,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 608,
+      "Speaker": "T",
+      "Turn": 608,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher repeats the prompt for a specific mathematical calculation ('reduce that fraction down')."
+    },
+    {
+      "ID": 609,
+      "Speaker": "T",
+      "Turn": 609,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts for a mathematical contribution regarding equivalent fractions ('is there a smaller portion')."
+    },
+    {
+      "ID": 610,
+      "Speaker": "T",
+      "Turn": 610,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher calls on a specific student ('What do you think Sophie') to bring them into the conversation and ensure engagement."
+    },
+    {
+      "ID": 612,
+      "Speaker": "T",
+      "Turn": 612,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's answer ('6/10') verbatim."
+    },
+    {
+      "ID": 613,
+      "Speaker": "T",
+      "Turn": 613,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts the student to connect their answer to a specific concept ('Think of your place value...'), asking them to explain or justify the answer using that framework."
+    }
+  ]
+}

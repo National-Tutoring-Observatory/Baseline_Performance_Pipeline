@@ -1,0 +1,130 @@
+{
+  "records": [
+    {
+      "ID": 2538,
+      "Turn": 16,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2540,
+      "Turn": 18,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2541,
+      "Turn": 18,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2543,
+      "Turn": 20,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to reconsider their incorrect answer by focusing on a key component of the calculation (the number of zeros)."
+    },
+    {
+      "ID": 2545,
+      "Turn": 22,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's contribution ('Two') and adds 'so' to prompt the student to use that information to correct their initial answer."
+    },
+    {
+      "ID": 2547,
+      "Turn": 24,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2548,
+      "Turn": 24,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2549,
+      "Turn": 24,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2551,
+      "Turn": 26,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2552,
+      "Turn": 26,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for a specific mathematical representation ('number model' or 'equation'), pressing for a precise contribution."
+    },
+    {
+      "ID": 2553,
+      "Turn": 26,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2555,
+      "Turn": 28,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher redirects the student from giving the process to providing the specific mathematical format requested (the equation)."
+    },
+    {
+      "ID": 2557,
+      "Turn": 30,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2558,
+      "Turn": 30,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher points out that the student's equation is missing a required element (a variable), pressing for a more accurate mathematical statement."
+    },
+    {
+      "ID": 2559,
+      "Turn": 30,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Following up on the previous correction, the teacher prompts the student to supply the missing variable to complete the accurate equation."
+    },
+    {
+      "ID": 2561,
+      "Turn": 32,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's idea ('540 / 9') but reframes it as 'One way to write that was...' which validates the contribution while opening the floor for other methods."
+    },
+    {
+      "ID": 2562,
+      "Turn": 32,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a specific question about the mathematical notation used ('that division symbol') to check for precision in the student's written work."
+    },
+    {
+      "ID": 2564,
+      "Turn": 34,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "

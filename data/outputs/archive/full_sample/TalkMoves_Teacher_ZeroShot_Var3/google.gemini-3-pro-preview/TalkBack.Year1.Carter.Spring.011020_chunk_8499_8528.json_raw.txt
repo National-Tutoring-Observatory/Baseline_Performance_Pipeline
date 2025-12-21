@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 8499,
+      "Speaker": "T",
+      "Turn": 8499,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 8500,
+      "Speaker": "T",
+      "Turn": 8500,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 8501,
+      "Speaker": "T",
+      "Turn": 8501,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 8502,
+      "Speaker": "T",
+      "Turn": 8502,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 8505,
+      "Speaker": "T",
+      "Turn": 8505,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts students to think of a method or strategy ('one way you can do this'), which encourages explaining their process."
+    },
+    {
+      "ID": 8506,
+      "Speaker": "T",
+      "Turn": 8506,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to connect their thinking back to the 'learning intention,' prompting them to justify their approach based on the lesson's goals."
+    },
+    {
+      "ID": 8507,
+      "Speaker": "T",
+      "Turn": 8507,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 8509,
+      "Speaker": "T",
+      "Turn": 8509,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a specific student for a mathematical method ('one way to find a common denominator'), seeking a correct procedural answer."
+    },
+    {
+      "ID": 8510,
+      "Speaker": "T",
+      "Turn": 8510,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher notices students are disengaged ('checked out') and addresses the whole class to bring their attention back to the lesson."
+    },
+    {
+      "ID": 8511,
+      "Speaker": "T",
+      "Turn": 8511,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher continues to address the class's behavior and readiness, ensuring everyone is focused on the math rather than snack time."
+    },
+    {
+      "ID": 8512,
+      "Speaker": "T",
+      "Turn": 8512,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 8514,
+      "Speaker": "T",
+      "Turn": 8514,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 8515,
+      "Speaker": "T",
+      "Turn": 8515,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a student to recall a specific strategy practiced earlier ('What did we practice... to help us find a common denominator'), seeking accurate recall of the method."
+    },
+    {
+      "ID": 8517,
+      "Speaker": "T",
+      "Turn": 8517,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to continue or clarify their answer ('Which is'), seeking the specific mathematical term or step."
+    },
+    {
+      "ID": 8519,
+      "Speaker": "T",
+      "Turn": 8519,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 8520,
+      "Speaker": "T",
+      "Turn": 8520,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a specific question ('Multiply what') to get the student to identify the correct mathematical component (the denominator/numerator)."
+    },
+    {
+      "ID": 8522,
+      "Speaker": "T",
+      "Turn": 8522,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's likely answer ('The numerator') but frames it as a question or check, though in this context it functions as revoicing/verifying the student's contribution."
+    },
+    {
+      "ID": 8524,
+      "Speaker": "T",
+      "Turn": 8524,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts for the next part of the mathematical rule ('By'), expecting the student to complete the sentence accurately."
+    },
+    {
+      "ID": 8526,
+      "Speaker": "T",
+      "Turn": 8526,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's answer ('The same number') to confirm and amplify the correct mathematical idea."
+    },
+    {
+      "ID": 8528,
+      "Speaker": "T",
+      "Turn": 8528,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases the student's contribution into a general rule ('whatever you do to the top you do to the bottom'), adding clarity to the student's idea."
+    }
+  ]
+}

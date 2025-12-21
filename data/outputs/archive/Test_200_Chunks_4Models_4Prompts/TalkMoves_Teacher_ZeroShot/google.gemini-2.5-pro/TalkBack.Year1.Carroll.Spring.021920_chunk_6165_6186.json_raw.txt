@@ -1,0 +1,74 @@
+{
+  "records": [
+    {
+      "ID": 6165,
+      "Turn": 27,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 6167,
+      "Turn": 29,
+      "Speaker": "T",
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats part of the student's contribution verbatim to highlight it for discussion."
+    },
+    {
+      "ID": 6169,
+      "Turn": 31,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 6171,
+      "Turn": 33,
+      "Speaker": "T",
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's phrase \"how many more\" verbatim, focusing the class's attention on this specific contribution."
+    },
+    {
+      "ID": 6177,
+      "Turn": 36,
+      "Speaker": "T",
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's phrase again to refocus the discussion on the mathematical idea after a brief interruption."
+    },
+    {
+      "ID": 6178,
+      "Turn": 36,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 6180,
+      "Turn": 38,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 6183,
+      "Turn": 40,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 6185,
+      "Turn": 42,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 6186,
+      "Turn": 42,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to make a mathematical contribution by asking them to share what their team discussed."
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "coded_utterances": [
+    {
+      "ID": 11695,
+      "TalkMove": "None",
+      "Reasoning": ""
+    },
+    {
+      "ID": 11696,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher asks students to decide whether they should fold in half, prompting them to consider and justify the correct procedure."
+    },
+    {
+      "ID": 11698,
+      "TalkMove": "Restating",
+      "Reasoning": "Teacher repeats the student’s answer \"No\" exactly, echoing the student’s response."
+    },
+    {
+      "ID": 11699,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher asks for an explanation of why they should not fold in half, seeking the amount eaten to justify the decision."
+    },
+    {
+      "ID": 11701,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher requests the precise number of parts needed, prompting students for an exact mathematical answer."
+    },
+    {
+      "ID": 11702,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "By saying \"Show me,\" the teacher asks students to demonstrate their thinking and provide evidence for how to fold."
+    },
+    {
+      "ID": 11703,
+      "TalkMove": "None",
+      "Reasoning": ""
+    },
+    {
+      "ID": 11704,
+      "TalkMove": "None",
+      "Reasoning": ""
+    },
+    {
+      "ID": 11705,
+      "TalkMove": "None",
+      "Reasoning": ""
+    },
+    {
+      "ID": 11706,
+      "TalkMove": "None",
+      "Reasoning": ""
+    },
+    {
+      "ID": 11707,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Teacher asks for a show of hands to see who has three equal parts, engaging the whole class as listeners and participants."
+    },
+    {
+      "ID": 11708,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Teacher surveys the class to see who is ready to shade, involving all students in monitoring their understanding."
+    },
+    {
+      "ID": 11709,
+      "TalkMove": "None",
+      "Reasoning": ""
+    },
+    {
+      "ID": 11710,
+      "TalkMove": "None",
+      "Reasoning": ""
+    },
+    {
+      "ID": 11711,
+      "TalkMove": "None",
+      "Reasoning": ""
+    },
+    {
+      "ID": 11712,
+      "TalkMove": "None",
+      "Reasoning": ""
+    },
+    {
+      "ID": 11713,
+      "TalkMove": "None",
+      "Reasoning": ""
+    },
+    {
+      "ID": 11714,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Teacher asks who has a matching drawing, prompting all students to check and respond collectively."
+    },
+    {
+      "ID": 11715,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher asks if the drawing represents half of the pizza, seeking justification about the correctness of the representation."
+    },
+    {
+      "ID": 11716,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher queries exactly how many parts should be shaded, prompting students to specify the accurate action."
+    }
+  ]
+}

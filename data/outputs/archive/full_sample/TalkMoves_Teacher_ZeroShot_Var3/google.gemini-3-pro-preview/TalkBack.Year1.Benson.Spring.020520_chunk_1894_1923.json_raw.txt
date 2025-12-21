@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 1894,
+      "Speaker": "T",
+      "Turn": 1894,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 1895,
+      "Speaker": "T",
+      "Turn": 1895,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a student to provide the correct mathematical notation for 'five tenths'."
+    },
+    {
+      "ID": 1897,
+      "Speaker": "T",
+      "Turn": 1897,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 1898,
+      "Speaker": "T",
+      "Turn": 1898,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts a student to provide the correct mathematical notation for 'nine tenths'."
+    },
+    {
+      "ID": 1900,
+      "Speaker": "T",
+      "Turn": 1900,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts a student to provide the correct mathematical notation for 'seven tenths'."
+    },
+    {
+      "ID": 1902,
+      "Speaker": "T",
+      "Turn": 1902,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher is checking for the presence of specific mathematical components (decimals) in the student's answer."
+    },
+    {
+      "ID": 1904,
+      "Speaker": "T",
+      "Turn": 1904,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to evaluate the correctness of a specific representation."
+    },
+    {
+      "ID": 1905,
+      "Speaker": "T",
+      "Turn": 1905,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to evaluate if a specific notation (070) is acceptable or correct."
+    },
+    {
+      "ID": 1907,
+      "Speaker": "T",
+      "Turn": 1907,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a student to provide the written mathematical form for '23 hundredths'."
+    },
+    {
+      "ID": 1909,
+      "Speaker": "T",
+      "Turn": 1909,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 1910,
+      "Speaker": "T",
+      "Turn": 1910,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts for the mathematical representation of 'three hundredths'."
+    },
+    {
+      "ID": 1911,
+      "Speaker": "T",
+      "Turn": 1911,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a specific student to share their answer."
+    },
+    {
+      "ID": 1913,
+      "Speaker": "T",
+      "Turn": 1913,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the class to consider a specific incorrect or alternative answer (03) to see if anyone made that error or agrees with it."
+    },
+    {
+      "ID": 1914,
+      "Speaker": "T",
+      "Turn": 1914,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher starts a hypothetical scenario ('if we wrote 0') to prompt thinking about the consequences of that notation."
+    },
+    {
+      "ID": 1916,
+      "Speaker": "T",
+      "Turn": 1916,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 1918,
+      "Speaker": "T",
+      "Turn": 1918,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher clarifies and repeats the student's intent ('you were saying Conrad was right')."
+    },
+    {
+      "ID": 1919,
+      "Speaker": "T",
+      "Turn": 1919,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher states the next problem ('79 hundredths') implying a request for the answer."
+    },
+    {
+      "ID": 1920,
+      "Speaker": "T",
+      "Turn": 1920,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a student to provide their written answer."
+    },
+    {
+      "ID": 1922,
+      "Speaker": "T",
+      "Turn": 1922,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 1923,
+      "Speaker": "T",
+      "Turn": 1923,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a student to provide the written answer for 'one and 19 hundredths'."
+    }
+  ]
+}

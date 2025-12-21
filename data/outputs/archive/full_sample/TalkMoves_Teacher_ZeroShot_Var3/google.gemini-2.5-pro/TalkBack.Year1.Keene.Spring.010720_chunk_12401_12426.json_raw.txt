@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 12401,
+      "Speaker": "T",
+      "Turn": 12401,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12402,
+      "Speaker": "T",
+      "Turn": 12402,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to explain the thinking behind a specific action in the problem."
+    },
+    {
+      "ID": 12403,
+      "Speaker": "T",
+      "Turn": 12403,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12404,
+      "Speaker": "T",
+      "Turn": 12404,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12405,
+      "Speaker": "T",
+      "Turn": 12405,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12406,
+      "Speaker": "T",
+      "Turn": 12406,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12407,
+      "Speaker": "T",
+      "Turn": 12407,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12408,
+      "Speaker": "T",
+      "Turn": 12408,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks a specific student to explain the reasoning behind an action."
+    },
+    {
+      "ID": 12410,
+      "Speaker": "T",
+      "Turn": 12410,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher provides a sentence starter to prompt a student to provide their reasoning."
+    },
+    {
+      "ID": 12412,
+      "Speaker": "T",
+      "Turn": 12412,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases a student's contribution into a clear mathematical statement, clarifying the meaning of 'one half'."
+    },
+    {
+      "ID": 12413,
+      "Speaker": "T",
+      "Turn": 12413,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher asks students to repeat a key idea to ensure everyone is listening and on the same page."
+    },
+    {
+      "ID": 12414,
+      "Speaker": "T",
+      "Turn": 12414,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12416,
+      "Speaker": "T",
+      "Turn": 12416,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts a student to provide the final numerical answer to the problem."
+    },
+    {
+      "ID": 12418,
+      "Speaker": "T",
+      "Turn": 12418,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12419,
+      "Speaker": "T",
+      "Turn": 12419,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12420,
+      "Speaker": "T",
+      "Turn": 12420,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12422,
+      "Speaker": "T",
+      "Turn": 12422,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher explicitly prompts a student to engage in active listening, orienting them to the ongoing discussion."
+    },
+    {
+      "ID": 12423,
+      "Speaker": "T",
+      "Turn": 12423,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12425,
+      "Speaker": "T",
+      "Turn": 12425,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats what a student previously said to bring it back into the conversation."
+    },
+    {
+      "ID": 12426,
+      "Speaker": "T",
+      "Turn": 12426,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to elaborate on how they arrived at their answer, prompting them to share their thinking process."
+    }
+  ]
+}

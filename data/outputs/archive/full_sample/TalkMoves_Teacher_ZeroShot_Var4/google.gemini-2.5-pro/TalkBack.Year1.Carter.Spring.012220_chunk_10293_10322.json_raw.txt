@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 10293,
+      "Speaker": "T",
+      "Turn": 10293,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10294,
+      "Speaker": "T",
+      "Turn": 10294,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10295,
+      "Speaker": "T",
+      "Turn": 10295,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10298,
+      "Speaker": "T",
+      "Turn": 10298,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10301,
+      "Speaker": "T",
+      "Turn": 10301,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10302,
+      "Speaker": "T",
+      "Turn": 10302,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10303,
+      "Speaker": "T",
+      "Turn": 10303,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10304,
+      "Speaker": "T",
+      "Turn": 10304,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher takes the student's implied answer ('five') and rephrases it in the context of the problem ('five is 1/4') before asking a follow-up question."
+    },
+    {
+      "ID": 10306,
+      "Speaker": "T",
+      "Turn": 10306,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10308,
+      "Speaker": "T",
+      "Turn": 10308,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10309,
+      "Speaker": "T",
+      "Turn": 10309,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10311,
+      "Speaker": "T",
+      "Turn": 10311,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10312,
+      "Speaker": "T",
+      "Turn": 10312,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10314,
+      "Speaker": "T",
+      "Turn": 10314,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10315,
+      "Speaker": "T",
+      "Turn": 10315,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher explicitly asks the student to explain their thought process."
+    },
+    {
+      "ID": 10316,
+      "Speaker": "T",
+      "Turn": 10316,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10318,
+      "Speaker": "T",
+      "Turn": 10318,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10319,
+      "Speaker": "T",
+      "Turn": 10319,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts the student to continue their line of reasoning and explain the next step in their calculation."
+    },
+    {
+      "ID": 10321,
+      "Speaker": "T",
+      "Turn": 10321,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's answer ('12') and adds a piece of reasoning ('because you have fourths')."
+    },
+    {
+      "ID": 10322,
+      "Speaker": "T",
+      "Turn": 10322,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

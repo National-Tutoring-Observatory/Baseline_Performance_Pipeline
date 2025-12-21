@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 16662,
+      "Speaker": "T",
+      "Turn": 16662,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher is orienting the students to the task at hand, ensuring they are ready to listen and take notes."
+    },
+    {
+      "ID": 16664,
+      "Speaker": "T",
+      "Turn": 16664,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16665,
+      "Speaker": "T",
+      "Turn": 16665,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16667,
+      "Speaker": "T",
+      "Turn": 16667,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16668,
+      "Speaker": "T",
+      "Turn": 16668,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16669,
+      "Speaker": "T",
+      "Turn": 16669,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher uses a directive ('So lets start with this one') to focus the whole class's attention on a specific problem."
+    },
+    {
+      "ID": 16670,
+      "Speaker": "T",
+      "Turn": 16670,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a specific question ('whats my B value') that requires a precise mathematical answer based on the equation."
+    },
+    {
+      "ID": 16673,
+      "Speaker": "T",
+      "Turn": 16673,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's answer ('Three') to confirm it before elaborating."
+    },
+    {
+      "ID": 16674,
+      "Speaker": "T",
+      "Turn": 16674,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16675,
+      "Speaker": "T",
+      "Turn": 16675,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16676,
+      "Speaker": "T",
+      "Turn": 16676,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher uses a fill-in-the-blank prompt ('Ten is called a') to push students to recall specific mathematical vocabulary."
+    },
+    {
+      "ID": 16678,
+      "Speaker": "T",
+      "Turn": 16678,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher acknowledges a student's answer ('It is the yintercept') but implies there is another specific term they are looking for in the next turn."
+    },
+    {
+      "ID": 16679,
+      "Speaker": "T",
+      "Turn": 16679,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher validates previous answers but presses for a specific vocabulary term ('constant') by providing context clues ('quadratic term... linear term...')."
+    },
+    {
+      "ID": 16680,
+      "Speaker": "T",
+      "Turn": 16680,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's correct answer ('Yes') to confirm accuracy."
+    },
+    {
+      "ID": 16681,
+      "Speaker": "T",
+      "Turn": 16681,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16682,
+      "Speaker": "T",
+      "Turn": 16682,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16683,
+      "Speaker": "T",
+      "Turn": 16683,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16684,
+      "Speaker": "T",
+      "Turn": 16684,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the correct vocabulary term ('Its called the constant') to reinforce the concept."
+    },
+    {
+      "ID": 16685,
+      "Speaker": "T",
+      "Turn": 16685,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a specific question ('What is C in this case') prompting students to identify a specific value from the equation."
+    },
+    {
+      "ID": 16687,
+      "Speaker": "T",
+      "Turn": 16687,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's answer ('Ten') to confirm correctness."
+    }
+  ]
+}

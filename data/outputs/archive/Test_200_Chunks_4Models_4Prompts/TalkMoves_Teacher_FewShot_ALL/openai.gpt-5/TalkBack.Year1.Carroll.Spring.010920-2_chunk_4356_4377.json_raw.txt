@@ -1,0 +1,46 @@
+{
+  "records": [
+    {
+      "ID": 4357,
+      "Speaker": "T",
+      "Turn": 80,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks students to determine which quantity is larger, prompting a mathematical decision."
+    },
+    {
+      "ID": 4359,
+      "Speaker": "T",
+      "Turn": 82,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4360,
+      "Speaker": "T",
+      "Turn": 82,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher orients the class to Leah as the next speaker, encouraging attention to a peer's contribution."
+    },
+    {
+      "ID": 4362,
+      "Speaker": "T",
+      "Turn": 84,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4376,
+      "Speaker": "T",
+      "Turn": 96,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4377,
+      "Speaker": "T",
+      "Turn": 96,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

@@ -1,0 +1,312 @@
+{
+  "records": [
+    {
+      "ID": 22122,
+      "Turn": 231,
+      "Speaker": "T",
+      "Sentence": "On the left side we get an",
+      "TalkMove": "Pressing for Accuracy"
+    },
+    {
+      "ID": 22124,
+      "Turn": 233,
+      "Speaker": "T",
+      "Sentence": "eight",
+      "TalkMove": "Restating"
+    },
+    {
+      "ID": 22125,
+      "Turn": 233,
+      "Speaker": "T",
+      "Sentence": "Now what do we do Cordelia",
+      "TalkMove": "Pressing for Accuracy"
+    },
+    {
+      "ID": 22127,
+      "Turn": 235,
+      "Speaker": "T",
+      "Sentence": "The flippy thingy",
+      "TalkMove": "Restating"
+    },
+    {
+      "ID": 22129,
+      "Turn": 237,
+      "Speaker": "T",
+      "Sentence": "What are we going to flip",
+      "TalkMove": "Pressing for Accuracy"
+    },
+    {
+      "ID": 22131,
+      "Turn": 239,
+      "Speaker": "T",
+      "Sentence": "The three fourth",
+      "TalkMove": "Restating"
+    },
+    {
+      "ID": 22132,
+      "Turn": 239,
+      "Speaker": "T",
+      "Sentence": "What do we call that when we flip it",
+      "TalkMove": "Pressing for Accuracy"
+    },
+    {
+      "ID": 22135,
+      "Turn": 242,
+      "Speaker": "T",
+      "Sentence": "Reciprocal",
+      "TalkMove": "Restating"
+    },
+    {
+      "ID": 22137,
+      "Turn": 244,
+      "Speaker": "T",
+      "Sentence": "We have four thirds and we got to do that as well",
+      "TalkMove": null
+    },
+    {
+      "ID": 22138,
+      "Turn": 244,
+      "Speaker": "T",
+      "Sentence": "Because three fourth times fourthirds equals",
+      "TalkMove": "Pressing for Accuracy"
+    },
+    {
+      "ID": 22140,
+      "Turn": 246,
+      "Speaker": "T",
+      "Sentence": "Now we have to take eight and raise it to the fourthirds power",
+      "TalkMove": null
+    },
+    {
+      "ID": 22141,
+      "Turn": 246,
+      "Speaker": "T",
+      "Sentence": "Lets imagine this is a test question and you dont have a calculator",
+      "TalkMove": null
+    },
+    {
+      "ID": 22142,
+      "Turn": 246,
+      "Speaker": "T",
+      "Sentence": "How do you want to think about eight to the fourthirds power",
+      "TalkMove": "Pressing for Reasoning"
+    },
+    {
+      "ID": 22145,
+      "Turn": 249,
+      "Speaker": "T",
+      "Sentence": "Heres where weve got to make sure we understand which one of those numbers goes where",
+      "TalkMove": null
+    },
+    {
+      "ID": 22146,
+      "Turn": 249,
+      "Speaker": "T",
+      "Sentence": "If you remember that if we said the square root of four is the same thing as four to the one half that helps us remember that the index is the denominator",
+      "TalkMove": null
+    },
+    {
+      "ID": 22147,
+      "Turn": 249,
+      "Speaker": "T",
+      "Sentence": "I dont know if we could think index has a D in it and its a denominator",
+      "TalkMove": null
+    },
+    {
+      "ID": 22148,
+      "Turn": 249,
+      "Speaker": "T",
+      "Sentence": "Figure out some way of remembering that",
+      "TalkMove": null
+    },
+    {
+      "ID": 22149,
+      "Turn": 249,
+      "Speaker": "T",
+      "Sentence": "Obviously it was easier to find the cube root of eight first than it would have been to do the other way around",
+      "TalkMove": null
+    },
+    {
+      "ID": 22150,
+      "Turn": 250,
+      "Speaker": "T",
+      "Sentence": "We could have said we wanted to find eight to the fourth and then take the cube root of that but I really dont want to multiply eight times eight times eight times eight",
+      "TalkMove": null
+    },
+    {
+      "ID": 22151,
+      "Turn": 250,
+      "Speaker": "T",
+      "Sentence": "There is a route thats going to simplify that",
+      "TalkMove": null
+    },
+    {
+      "ID": 22152,
+      "Turn": 250,
+      "Speaker": "T",
+      "Sentence": "Okay",
+      "TalkMove": null
+    },
+    {
+      "ID": 22153,
+      "Turn": 250,
+      "Speaker": "T",
+      "Sentence": "Last step here Jared",
+      "TalkMove": "Pressing for Accuracy"
+    },
+    {
+      "ID": 22155,
+      "Turn": 251,
+      "Speaker": "T",
+      "Sentence": "Divide by two",
+      "TalkMove": "Restating"
+    },
+    {
+      "ID": 22156,
+      "Turn": 251,
+      "Speaker": "T",
+      "Sentence": "X is going to equal",
+      "TalkMove": "Pressing for Accuracy"
+    },
+    {
+      "ID": 22158,
+      "Turn": 253,
+      "Speaker": "T",
+      "Sentence": "Yes we check our answer",
+      "TalkMove": null
+    },
+    {
+      "ID": 22159,
+      "Turn": 253,
+      "Speaker": "T",
+      "Sentence": "Plug eight in",
+      "TalkMove": null
+    },
+    {
+      "ID": 22160,
+      "Turn": 253,
+      "Speaker": "T",
+      "Sentence": "Turns out it works",
+      "TalkMove": null
+    },
+    {
+      "ID": 22161,
+      "Turn": 253,
+      "Speaker": "T",
+      "Sentence": "We have our solution",
+      "TalkMove": null
+    },
+    {
+      "ID": 22164,
+      "Turn": 256,
+      "Speaker": "T",
+      "Sentence": "Yes",
+      "TalkMove": "Keeping Everyone Together"
+    },
+    {
+      "ID": 22166,
+      "Turn": 258,
+      "Speaker": "T",
+      "Sentence": "Right because whatever we do to one side we got to do to the other and we do it to everything",
+      "TalkMove": null
+    },
+    {
+      "ID": 22167,
+      "Turn": 258,
+      "Speaker": "T",
+      "Sentence": "Another example",
+      "TalkMove": null
+    },
+    {
+      "ID": 22168,
+      "Turn": 258,
+      "Speaker": "T",
+      "Sentence": "Whats our first step Brittany",
+      "TalkMove": "Pressing for Accuracy"
+    },
+    {
+      "ID": 22170,
+      "Turn": 260,
+      "Speaker": "T",
+      "Sentence": "It is isolated",
+      "TalkMove": "Restating"
+    },
+    {
+      "ID": 22171,
+      "Turn": 260,
+      "Speaker": "T",
+      "Sentence": "What is isolated",
+      "TalkMove": "Pressing for Accuracy"
+    },
+    {
+      "ID": 22173,
+      "Turn": 262,
+      "Speaker": "T",
+      "Sentence": "Nice good good",
+      "TalkMove": null
+    },
+    {
+      "ID": 22174,
+      "Turn": 262,
+      "Speaker": "T",
+      "Sentence": "What are we going to raise both sides to",
+      "TalkMove": "Pressing for Accuracy"
+    },
+    {
+      "ID": 22176,
+      "Turn": 264,
+      "Speaker": "T",
+      "Sentence": "Two over one",
+      "TalkMove": "Restating"
+    },
+    {
+      "ID": 22177,
+      "Turn": 264,
+      "Speaker": "T",
+      "Sentence": "Two over one just is",
+      "TalkMove": "Pressing for Accuracy"
+    },
+    {
+      "ID": 22179,
+      "Turn": 266,
+      "Speaker": "T",
+      "Sentence": "Were just going to square both sides",
+      "TalkMove": "Revoicing"
+    },
+    {
+      "ID": 22181,
+      "Turn": 268,
+      "Speaker": "T",
+      "Sentence": "Typically you see if theres parentheses that use brackets but more parentheses is fine",
+      "TalkMove": null
+    },
+    {
+      "ID": 22183,
+      "Turn": 270,
+      "Speaker": "T",
+      "Sentence": "Yes thats fine",
+      "TalkMove": null
+    },
+    {
+      "ID": 22184,
+      "Turn": 270,
+      "Speaker": "T",
+      "Sentence": "We end up with x plus 30 equals x squared",
+      "TalkMove": null
+    },
+    {
+      "ID": 22185,
+      "Turn": 270,
+      "Speaker": "T",
+      "Sentence": "Joel what are you going to do if I got a quadratic a constant and a linear term",
+      "TalkMove": "Pressing for Accuracy"
+    },
+    {
+      "ID": 22187,
+      "Turn": 272,
+      "Speaker": "T",
+      "Sentence": "Subtract the x over okay",
+      "TalkMove": "Revoicing"
+    }
+  ]
+}

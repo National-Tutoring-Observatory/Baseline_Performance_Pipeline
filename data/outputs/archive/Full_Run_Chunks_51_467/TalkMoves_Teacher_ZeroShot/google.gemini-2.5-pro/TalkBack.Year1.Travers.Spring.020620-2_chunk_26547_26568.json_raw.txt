@@ -1,0 +1,140 @@
+{
+  "records": [
+    {
+      "ID": 26547,
+      "Turn": 174,
+      "Speaker": "T",
+      "Sentence": "Friends I need your help",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26548,
+      "Turn": 174,
+      "Speaker": "T",
+      "Sentence": "How many performers",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26550,
+      "Turn": 176,
+      "Speaker": "T",
+      "Sentence": "How many hours",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26552,
+      "Turn": 178,
+      "Speaker": "T",
+      "Sentence": "How much money",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26554,
+      "Turn": 180,
+      "Speaker": "T",
+      "Sentence": "Thirty per hour",
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's contribution verbatim."
+    },
+    {
+      "ID": 26555,
+      "Turn": 180,
+      "Speaker": "T",
+      "Sentence": "Okay",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26556,
+      "Turn": 180,
+      "Speaker": "T",
+      "Sentence": "That looks like this",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26557,
+      "Turn": 180,
+      "Speaker": "T",
+      "Sentence": "Three times two times what",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to contribute the correct number to complete the mathematical expression."
+    },
+    {
+      "ID": 26558,
+      "Turn": 180,
+      "Speaker": "T",
+      "Sentence": "3000",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26559,
+      "Turn": 180,
+      "Speaker": "T",
+      "Sentence": "Wow",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26560,
+      "Turn": 180,
+      "Speaker": "T",
+      "Sentence": "Equals",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26561,
+      "Turn": 180,
+      "Speaker": "T",
+      "Sentence": "Remember we need that letter",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to use a variable, which is a specific mathematical notation, in their equation."
+    },
+    {
+      "ID": 26562,
+      "Turn": 180,
+      "Speaker": "T",
+      "Sentence": "The D represents what",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to define the variable 'D', pressing for a precise mathematical definition or label."
+    },
+    {
+      "ID": 26565,
+      "Turn": 183,
+      "Speaker": "T",
+      "Sentence": "Dollars in units",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the students' idea of 'dollars' but refines the language by adding 'in units' to make it more precise."
+    },
+    {
+      "ID": 26566,
+      "Turn": 183,
+      "Speaker": "T",
+      "Sentence": "Okay",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26567,
+      "Turn": 183,
+      "Speaker": "T",
+      "Sentence": "So check my success criteria so far fourth graders",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26568,
+      "Turn": 183,
+      "Speaker": "T",
+      "Sentence": "So far do I have a single that means one number model with parenthesis",
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

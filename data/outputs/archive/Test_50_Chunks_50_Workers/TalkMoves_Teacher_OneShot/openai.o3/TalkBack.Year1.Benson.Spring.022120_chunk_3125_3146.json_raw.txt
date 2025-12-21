@@ -1,0 +1,116 @@
+{
+  "records": [
+    {
+      "ID": 3125,
+      "Speaker": "T",
+      "Turn": 136,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks the student to clarify exactly which prior work the student is referring to."
+    },
+    {
+      "ID": 3127,
+      "Speaker": "T",
+      "Turn": 138,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Teacher reminds the class of a specific earlier problem to orient everyone to the shared context."
+    },
+    {
+      "ID": 3129,
+      "Speaker": "T",
+      "Turn": 140,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Teacher identifies the new diagram just drawn so all students know which representation is under discussion."
+    },
+    {
+      "ID": 3130,
+      "Speaker": "T",
+      "Turn": 140,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks the student to restate their question clearly, seeking precise understanding."
+    },
+    {
+      "ID": 3132,
+      "Speaker": "T",
+      "Turn": 142,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3133,
+      "Speaker": "T",
+      "Turn": 143,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Teacher directs collective attention to the problem representation."
+    },
+    {
+      "ID": 3134,
+      "Speaker": "T",
+      "Turn": 143,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3135,
+      "Speaker": "T",
+      "Turn": 143,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher checks if the student's question is specifically about dividing 200 by 50, clarifying the mathematical detail."
+    },
+    {
+      "ID": 3138,
+      "Speaker": "T",
+      "Turn": 145,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher asks the student to explain why they chose 100, prompting for justification."
+    },
+    {
+      "ID": 3140,
+      "Speaker": "T",
+      "Turn": 147,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3141,
+      "Speaker": "T",
+      "Turn": 148,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3142,
+      "Speaker": "T",
+      "Turn": 148,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3143,
+      "Speaker": "T",
+      "Turn": 148,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Teacher recalls prior instruction about quotients to maintain a shared understanding."
+    },
+    {
+      "ID": 3144,
+      "Speaker": "T",
+      "Turn": 148,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3145,
+      "Speaker": "T",
+      "Turn": 148,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3146,
+      "Speaker": "T",
+      "Turn": 148,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

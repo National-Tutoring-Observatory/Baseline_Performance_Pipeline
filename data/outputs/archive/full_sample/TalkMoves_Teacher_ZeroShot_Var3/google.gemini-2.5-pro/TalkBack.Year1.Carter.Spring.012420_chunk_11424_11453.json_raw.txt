@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 11424,
+      "Speaker": "T",
+      "Turn": 11424,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 11425,
+      "Speaker": "T",
+      "Turn": 11425,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher instructs a student to explain their process as they are doing it, which is a direct prompt for reasoning."
+    },
+    {
+      "ID": 11426,
+      "Speaker": "T",
+      "Turn": 11426,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "This is a follow-up question reinforcing the expectation for the student to explain their process."
+    },
+    {
+      "ID": 11431,
+      "Speaker": "T",
+      "Turn": 11431,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 11432,
+      "Speaker": "T",
+      "Turn": 11432,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to explain the meaning or purpose of a calculation within the context of the problem, prompting them to connect their action to a concept."
+    },
+    {
+      "ID": 11433,
+      "Speaker": "T",
+      "Turn": 11433,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher directs all students to engage in a partner discussion, ensuring broad participation and orientation to the task."
+    },
+    {
+      "ID": 11434,
+      "Speaker": "T",
+      "Turn": 11434,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the class to explain the conceptual purpose behind a specific step in another student's procedure."
+    },
+    {
+      "ID": 11435,
+      "Speaker": "T",
+      "Turn": 11435,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher repeats the question from the previous turn, emphasizing the need for students to explain the purpose of a calculation."
+    },
+    {
+      "ID": 11436,
+      "Speaker": "T",
+      "Turn": 11436,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 11438,
+      "Speaker": "T",
+      "Turn": 11438,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher explicitly asks 'why' a student performed a specific mathematical operation, directly prompting for justification."
+    },
+    {
+      "ID": 11441,
+      "Speaker": "T",
+      "Turn": 11441,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to provide a method for checking the reasonableness of their answer, prompting them to think about justification strategies."
+    },
+    {
+      "ID": 11442,
+      "Speaker": "T",
+      "Turn": 11442,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher simplifies and repeats the previous question, continuing to press students for a method of justification."
+    },
+    {
+      "ID": 11443,
+      "Speaker": "T",
+      "Turn": 11443,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 11444,
+      "Speaker": "T",
+      "Turn": 11444,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 11445,
+      "Speaker": "T",
+      "Turn": 11445,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 11446,
+      "Speaker": "T",
+      "Turn": 11446,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to explain how they could verify their answer, prompting them to articulate their reasoning for its correctness."
+    },
+    {
+      "ID": 11447,
+      "Speaker": "T",
+      "Turn": 11447,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 11448,
+      "Speaker": "T",
+      "Turn": 11448,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 11452,
+      "Speaker": "T",
+      "Turn": 11452,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher likely reframes a student's idea into a more formal mathematical principle and asks for confirmation."
+    },
+    {
+      "ID": 11453,
+      "Speaker": "T",
+      "Turn": 11453,
+      "TalkMove": "None",
+      "Reasoning": null
+    }
+  ]
+}

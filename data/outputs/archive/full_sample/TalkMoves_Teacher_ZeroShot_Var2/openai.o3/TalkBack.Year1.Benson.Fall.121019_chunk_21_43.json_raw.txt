@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 21,
+      "Speaker": "T",
+      "Turn": 21,
+      "TalkMove": "Restating",
+      "Reasoning": "Teacher repeats the student’s phrase \"You’re comparing\" nearly word-for-word to signal understanding."
+    },
+    {
+      "ID": 23,
+      "Speaker": "T",
+      "Turn": 23,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 24,
+      "Speaker": "T",
+      "Turn": 24,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 25,
+      "Speaker": "T",
+      "Turn": 25,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "By asking the student to repeat (“You said what”), the teacher ensures the contribution is audible/clear for the whole class."
+    },
+    {
+      "ID": 26,
+      "Speaker": "T",
+      "Turn": 26,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher rephrases the student’s idea, adding clarification (“It’s just picking out different areas”)."
+    },
+    {
+      "ID": 27,
+      "Speaker": "T",
+      "Turn": 27,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 29,
+      "Speaker": "T",
+      "Turn": 29,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 30,
+      "Speaker": "T",
+      "Turn": 30,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 31,
+      "Speaker": "T",
+      "Turn": 31,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 32,
+      "Speaker": "T",
+      "Turn": 32,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 33,
+      "Speaker": "T",
+      "Turn": 33,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 34,
+      "Speaker": "T",
+      "Turn": 34,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 35,
+      "Speaker": "T",
+      "Turn": 35,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 36,
+      "Speaker": "T",
+      "Turn": 36,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 37,
+      "Speaker": "T",
+      "Turn": 37,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 38,
+      "Speaker": "T",
+      "Turn": 38,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 39,
+      "Speaker": "T",
+      "Turn": 39,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Teacher asks which students worked on the pink problems, orienting classmates to each other’s work."
+    },
+    {
+      "ID": 40,
+      "Speaker": "T",
+      "Turn": 40,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 41,
+      "Speaker": "T",
+      "Turn": 41,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "By stating the multiplication expression \"4 times 50,\" the teacher prompts students to supply or confirm the exact product."
+    },
+    {
+      "ID": 43,
+      "Speaker": "T",
+      "Turn": 43,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Similarly, presenting \"30 times 7\" invites students to compute or verify the precise answer."
+    }
+  ]
+}

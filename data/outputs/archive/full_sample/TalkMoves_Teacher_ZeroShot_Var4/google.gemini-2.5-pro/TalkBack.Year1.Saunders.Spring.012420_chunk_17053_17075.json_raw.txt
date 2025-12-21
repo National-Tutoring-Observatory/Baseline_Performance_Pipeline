@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 17053,
+      "Speaker": "T",
+      "Turn": 17053,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17054,
+      "Speaker": "T",
+      "Turn": 17054,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks students to provide a specific mathematical term (minimum or maximum)."
+    },
+    {
+      "ID": 17056,
+      "Speaker": "T",
+      "Turn": 17056,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's contribution of 'minimum value' word for word."
+    },
+    {
+      "ID": 17057,
+      "Speaker": "T",
+      "Turn": 17057,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts a student to explain the meaning of a mathematical concept within the context of the problem."
+    },
+    {
+      "ID": 17058,
+      "Speaker": "T",
+      "Turn": 17058,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher rephrases the prompt, asking a student to interpret their answer and explain their thinking."
+    },
+    {
+      "ID": 17059,
+      "Speaker": "T",
+      "Turn": 17059,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17060,
+      "Speaker": "T",
+      "Turn": 17060,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17061,
+      "Speaker": "T",
+      "Turn": 17061,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats a student's idea about the 'lowest profit' while adding clarifying language ('in that year')."
+    },
+    {
+      "ID": 17062,
+      "Speaker": "T",
+      "Turn": 17062,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher adds clarifying information to the student's contribution about the minimum value."
+    },
+    {
+      "ID": 17063,
+      "Speaker": "T",
+      "Turn": 17063,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats and adds to the student's idea by specifying the two components of the minimum value."
+    },
+    {
+      "ID": 17064,
+      "Speaker": "T",
+      "Turn": 17064,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to make a specific mathematical contribution by identifying the correct axis."
+    },
+    {
+      "ID": 17065,
+      "Speaker": "T",
+      "Turn": 17065,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to make a specific mathematical contribution by choosing between two options."
+    },
+    {
+      "ID": 17067,
+      "Speaker": "T",
+      "Turn": 17067,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's contribution ('the X') and puts it into a full sentence."
+    },
+    {
+      "ID": 17068,
+      "Speaker": "T",
+      "Turn": 17068,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts students to explain the process for finding the x-value of the minimum."
+    },
+    {
+      "ID": 17069,
+      "Speaker": "T",
+      "Turn": 17069,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17070,
+      "Speaker": "T",
+      "Turn": 17070,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17071,
+      "Speaker": "T",
+      "Turn": 17071,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats a student's idea about the quadratic formula while adding more precise mathematical language and connecting it to the problem."
+    },
+    {
+      "ID": 17073,
+      "Speaker": "T",
+      "Turn": 17073,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's contribution ('Plug it in') word for word."
+    },
+    {
+      "ID": 17074,
+      "Speaker": "T",
+      "Turn": 17074,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17075,
+      "Speaker": "T",
+      "Turn": 17075,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

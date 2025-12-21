@@ -1,0 +1,25 @@
+{
+  "records": [
+    {
+      "ID": 6477,
+      "Speaker": "T",
+      "Turn": 1,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 6478,
+      "Speaker": "T",
+      "Turn": 1,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher directs the class to focus and think about a specific question, orienting all students to the shared task."
+    },
+    {
+      "ID": 6479,
+      "Speaker": "T",
+      "Turn": 1,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "By presenting a peer’s question about whether a different placement of a quadrilateral affects correctness, the teacher invites students to consider and explain the reasoning behind the answer."
+    }
+  ]
+}

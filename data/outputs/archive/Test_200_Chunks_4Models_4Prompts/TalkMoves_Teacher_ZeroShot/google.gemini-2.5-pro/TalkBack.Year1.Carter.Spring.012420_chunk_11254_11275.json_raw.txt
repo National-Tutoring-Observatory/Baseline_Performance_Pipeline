@@ -1,0 +1,156 @@
+{
+  "records": [
+    {
+      "ID": 11254,
+      "Turn": 83,
+      "Speaker": "T",
+      "Sentence": "Start",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11255,
+      "Turn": 83,
+      "Speaker": "T",
+      "Sentence": "Now we are on the next lesson",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11256,
+      "Turn": 83,
+      "Speaker": "T",
+      "Sentence": "Lets read the learning intention",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11257,
+      "Turn": 84,
+      "Speaker": "T",
+      "Sentence": "So how is this lesson different than what we were just doing",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to explain the difference between the previous lesson and the current one, prompting them to share their thinking."
+    },
+    {
+      "ID": 11258,
+      "Turn": 84,
+      "Speaker": "T",
+      "Sentence": "Sorry Im choking on my own spit",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11259,
+      "Turn": 84,
+      "Speaker": "T",
+      "Sentence": "Thank you",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11260,
+      "Turn": 84,
+      "Speaker": "T",
+      "Sentence": "You can laugh",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11261,
+      "Turn": 84,
+      "Speaker": "T",
+      "Sentence": "It is funny",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11262,
+      "Turn": 84,
+      "Speaker": "T",
+      "Sentence": "Do",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11264,
+      "Turn": 86,
+      "Speaker": "T",
+      "Sentence": "So talk with your page partner",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11265,
+      "Turn": 86,
+      "Speaker": "T",
+      "Sentence": "Whats different about what were going to start now than what we were just doing",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher repeats the question asking students to explain the difference between the lessons, prompting them to provide reasoning."
+    },
+    {
+      "ID": 11266,
+      "Turn": 86,
+      "Speaker": "T",
+      "Sentence": "Ready",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11267,
+      "Turn": 86,
+      "Speaker": "T",
+      "Sentence": "Go",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11268,
+      "Turn": 87,
+      "Speaker": "T",
+      "Sentence": "How is this different Gabriella",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher directs a question to a specific student, asking her to explain her thinking about the difference between the lessons."
+    },
+    {
+      "ID": 11270,
+      "Turn": 89,
+      "Speaker": "T",
+      "Sentence": "Thats what weve been doing but what are we going to be doing now",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher points out an inaccuracy in the student's response and prompts for a more precise description of the new topic."
+    },
+    {
+      "ID": 11271,
+      "Turn": 89,
+      "Speaker": "T",
+      "Sentence": "Go to the last line of the learning intention",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11273,
+      "Turn": 91,
+      "Speaker": "T",
+      "Sentence": "Yes so now youre multiplying fractions by fractions",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's idea ('Finding fractions of fractions') but rephrases it using more formal mathematical language ('multiplying fractions by fractions')."
+    },
+    {
+      "ID": 11274,
+      "Turn": 91,
+      "Speaker": "T",
+      "Sentence": "How many of you said that",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher polls the class to see who else had the same idea, orienting all students to the contribution that was just made."
+    },
+    {
+      "ID": 11275,
+      "Turn": 91,
+      "Speaker": "T",
+      "Sentence": "Yes thats what were doing",
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

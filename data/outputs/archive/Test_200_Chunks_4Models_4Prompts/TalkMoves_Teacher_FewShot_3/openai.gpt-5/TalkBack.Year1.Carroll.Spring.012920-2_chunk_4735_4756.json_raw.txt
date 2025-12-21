@@ -1,0 +1,95 @@
+{
+  "records": [
+    {
+      "ID": 4735,
+      "Turn": 50,
+      "Speaker": "T",
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 4736,
+      "Turn": 50,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks students to provide the numerical amount of spinach."
+    },
+    {
+      "ID": 4737,
+      "Turn": 51,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Prompts for a number model and an answer, pushing for a specific mathematical contribution."
+    },
+    {
+      "ID": 4738,
+      "Turn": 51,
+      "Speaker": "T",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Directs students to talk with shoulder partners, orienting them to each other and active listening."
+    },
+    {
+      "ID": 4739,
+      "Turn": 51,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Asks students to choose an operation and justify it using clue words from the problem."
+    },
+    {
+      "ID": 4748,
+      "Turn": 58,
+      "Speaker": "T",
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 4749,
+      "Turn": 58,
+      "Speaker": "T",
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 4750,
+      "Turn": 59,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Solicits which operation to use, requesting a specific mathematical choice."
+    },
+    {
+      "ID": 4751,
+      "Turn": 59,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Prompts selection among operations using explicit mathematical language."
+    },
+    {
+      "ID": 4753,
+      "Turn": 60,
+      "Speaker": "T",
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 4754,
+      "Turn": 60,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "Repeats a student's suggestion (“Do subtraction”) by restating it as “Subtraction,” refining the wording."
+    },
+    {
+      "ID": 4755,
+      "Turn": 60,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Invites students to share and explain their thinking."
+    },
+    {
+      "ID": 4756,
+      "Turn": 60,
+      "Speaker": "T",
+      "TalkMove": "None",
+      "Reasoning": null
+    }
+  ]
+}

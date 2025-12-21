@@ -1,0 +1,25 @@
+{
+  "records": [
+    {
+      "ID": 5389,
+      "Speaker": "T",
+      "Turn": 5389,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher asks a student to repeat their utterance, ensuring the rest of the class can hear or process the contribution."
+    },
+    {
+      "ID": 5398,
+      "Speaker": "T",
+      "Turn": 5398,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a specific student to recall and state the correct first step in the plotting procedure."
+    },
+    {
+      "ID": 5417,
+      "Speaker": "T",
+      "Turn": 5417,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to determine if the resulting shape will be identical to a previous one, seeking a correct mathematical judgment."
+    }
+  ]
+}

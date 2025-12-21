@@ -1,0 +1,123 @@
+{
+  "records": [
+    {
+      "ID": 8878,
+      "Speaker": "T",
+      "Turn": 186,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks for a correct mathematical fact—whether 2 is a factor of 6—prompting a precise answer."
+    },
+    {
+      "ID": 8880,
+      "Speaker": "T",
+      "Turn": 188,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Restates the student’s “Yes” and adds an explanatory phrase to clarify the idea."
+    },
+    {
+      "ID": 8881,
+      "Speaker": "T",
+      "Turn": 188,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Paraphrases and elaborates on the idea that 2 is a factor, adding detail to the student’s initial response."
+    },
+    {
+      "ID": 8882,
+      "Speaker": "T",
+      "Turn": 188,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Continues to restate and expand the notion that 2 or 3 are factors, reformulating the idea for clarity."
+    },
+    {
+      "ID": 8883,
+      "Speaker": "T",
+      "Turn": 188,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher summarizes the rule and tags it with “right?” to prompt students to confirm its correctness."
+    },
+    {
+      "ID": 8885,
+      "Speaker": "T",
+      "Turn": 190,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8886,
+      "Speaker": "T",
+      "Turn": 190,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8887,
+      "Speaker": "T",
+      "Turn": 190,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8888,
+      "Speaker": "T",
+      "Turn": 190,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Asks students to explain how they know factors help find a common denominator, eliciting justification."
+    },
+    {
+      "ID": 8889,
+      "Speaker": "T",
+      "Turn": 190,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8891,
+      "Speaker": "T",
+      "Turn": 191,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Echoes and slightly rephrases the student’s statement about using factors, aligning it with the discussion."
+    },
+    {
+      "ID": 8892,
+      "Speaker": "T",
+      "Turn": 191,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Requests a specific number that has 6 and 8 as factors, seeking a precise mathematical answer."
+    },
+    {
+      "ID": 8894,
+      "Speaker": "T",
+      "Turn": 192,
+      "TalkMove": "Restating",
+      "Reasoning": "Repeats part of the student’s phrase ('Least common') verbatim to highlight it."
+    },
+    {
+      "ID": 8896,
+      "Speaker": "T",
+      "Turn": 194,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8897,
+      "Speaker": "T",
+      "Turn": 194,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8898,
+      "Speaker": "T",
+      "Turn": 194,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8899,
+      "Speaker": "T",
+      "Turn": 194,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

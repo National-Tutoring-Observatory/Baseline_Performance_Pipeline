@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 517,
+      "Speaker": "T",
+      "Turn": 517,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 518,
+      "Speaker": "T",
+      "Turn": 518,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 519,
+      "Speaker": "T",
+      "Turn": 519,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 520,
+      "Speaker": "T",
+      "Turn": 520,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 521,
+      "Speaker": "T",
+      "Turn": 521,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher summarizes and reformulates the student's mathematical process ('times 2 here and times 4 here') to verify and clarify the method used."
+    },
+    {
+      "ID": 522,
+      "Speaker": "T",
+      "Turn": 522,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 523,
+      "Speaker": "T",
+      "Turn": 523,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks if anyone obtained a specific mathematical result (8/10), prompting for a mathematical contribution."
+    },
+    {
+      "ID": 524,
+      "Speaker": "T",
+      "Turn": 524,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 526,
+      "Speaker": "T",
+      "Turn": 526,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 529,
+      "Speaker": "T",
+      "Turn": 529,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 531,
+      "Speaker": "T",
+      "Turn": 531,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to explain the process ('tell me how you got that') used to arrive at the answer 16/20."
+    },
+    {
+      "ID": 535,
+      "Speaker": "T",
+      "Turn": 535,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher explicitly prompts the student to explain their work."
+    },
+    {
+      "ID": 537,
+      "Speaker": "T",
+      "Turn": 537,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 538,
+      "Speaker": "T",
+      "Turn": 538,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher checks if a student arrived at a specific mathematical answer (6/8)."
+    },
+    {
+      "ID": 541,
+      "Speaker": "T",
+      "Turn": 541,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts the student to provide an explanation for their answer."
+    },
+    {
+      "ID": 543,
+      "Speaker": "T",
+      "Turn": 543,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks the student to identify a specific mathematical term or concept associated with using the multiplication chart."
+    },
+    {
+      "ID": 545,
+      "Speaker": "T",
+      "Turn": 545,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to supply a specific mathematical vocabulary word to complete the sentence."
+    },
+    {
+      "ID": 547,
+      "Speaker": "T",
+      "Turn": 547,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 548,
+      "Speaker": "T",
+      "Turn": 548,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks the students to recall and state the correct mathematical terminology."
+    },
+    {
+      "ID": 549,
+      "Speaker": "T",
+      "Turn": 549,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

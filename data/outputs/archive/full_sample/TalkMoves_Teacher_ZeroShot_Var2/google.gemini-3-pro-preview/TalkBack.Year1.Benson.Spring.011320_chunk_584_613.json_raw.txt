@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 584,
+      "Speaker": "T",
+      "Turn": 584,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 585,
+      "Speaker": "T",
+      "Turn": 585,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to explain the steps or process they used to solve the problem."
+    },
+    {
+      "ID": 587,
+      "Speaker": "T",
+      "Turn": 587,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to provide a justification for the specific action they took."
+    },
+    {
+      "ID": 591,
+      "Speaker": "T",
+      "Turn": 591,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to provide another mathematical example or answer."
+    },
+    {
+      "ID": 595,
+      "Speaker": "T",
+      "Turn": 595,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 596,
+      "Speaker": "T",
+      "Turn": 596,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks the class to provide the specific mathematical result of reducing the fraction."
+    },
+    {
+      "ID": 599,
+      "Speaker": "T",
+      "Turn": 599,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 600,
+      "Speaker": "T",
+      "Turn": 600,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 601,
+      "Speaker": "T",
+      "Turn": 601,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 602,
+      "Speaker": "T",
+      "Turn": 602,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 603,
+      "Speaker": "T",
+      "Turn": 603,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 604,
+      "Speaker": "T",
+      "Turn": 604,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 605,
+      "Speaker": "T",
+      "Turn": 605,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 606,
+      "Speaker": "T",
+      "Turn": 606,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 607,
+      "Speaker": "T",
+      "Turn": 607,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 608,
+      "Speaker": "T",
+      "Turn": 608,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher repeats the prompt for students to provide the reduced fraction."
+    },
+    {
+      "ID": 609,
+      "Speaker": "T",
+      "Turn": 609,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to calculate or identify a smaller equivalent portion."
+    },
+    {
+      "ID": 610,
+      "Speaker": "T",
+      "Turn": 610,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher calls on a specific student to provide the mathematical answer."
+    },
+    {
+      "ID": 612,
+      "Speaker": "T",
+      "Turn": 612,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the number or fraction that the student likely provided."
+    },
+    {
+      "ID": 613,
+      "Speaker": "T",
+      "Turn": 613,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to use specific mathematical concepts (place value) to determine the correct answer."
+    }
+  ]
+}

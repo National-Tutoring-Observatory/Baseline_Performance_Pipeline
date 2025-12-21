@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 7519,
+      "Speaker": "T",
+      "Turn": 7519,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 7520,
+      "Speaker": "T",
+      "Turn": 7520,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to explain how they know the problem involves decimals, prompting for justification."
+    },
+    {
+      "ID": 7521,
+      "Speaker": "T",
+      "Turn": 7521,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher repeats the request for evidence regarding how they know it is in decimal form."
+    },
+    {
+      "ID": 7522,
+      "Speaker": "T",
+      "Turn": 7522,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 7524,
+      "Speaker": "T",
+      "Turn": 7524,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to locate specific evidence ('Where was it talking about decimals')."
+    },
+    {
+      "ID": 7525,
+      "Speaker": "T",
+      "Turn": 7525,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts the student to point out the evidence ('Where do you see that')."
+    },
+    {
+      "ID": 7527,
+      "Speaker": "T",
+      "Turn": 7527,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts the student to recall the source or context where decimals were discussed."
+    },
+    {
+      "ID": 7529,
+      "Speaker": "T",
+      "Turn": 7529,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's answer ('In the learning intention') to confirm it."
+    },
+    {
+      "ID": 7530,
+      "Speaker": "T",
+      "Turn": 7530,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 7531,
+      "Speaker": "T",
+      "Turn": 7531,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's idea about the learning intention and adds detail about what it says."
+    },
+    {
+      "ID": 7532,
+      "Speaker": "T",
+      "Turn": 7532,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 7533,
+      "Speaker": "T",
+      "Turn": 7533,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks for additional evidence or indicators that the problem is in decimal form."
+    },
+    {
+      "ID": 7535,
+      "Speaker": "T",
+      "Turn": 7535,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher invites other students to support their classmate ('Somebody help her out')."
+    },
+    {
+      "ID": 7536,
+      "Speaker": "T",
+      "Turn": 7536,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks for further justification or evidence beyond the initial answer."
+    },
+    {
+      "ID": 7537,
+      "Speaker": "T",
+      "Turn": 7537,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 7538,
+      "Speaker": "T",
+      "Turn": 7538,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 7540,
+      "Speaker": "T",
+      "Turn": 7540,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts the student to explain their thinking further ('You want to elaborate')."
+    },
+    {
+      "ID": 7543,
+      "Speaker": "T",
+      "Turn": 7543,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 7544,
+      "Speaker": "T",
+      "Turn": 7544,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for a specific mathematical value ('What is that whole square equal')."
+    },
+    {
+      "ID": 7545,
+      "Speaker": "T",
+      "Turn": 7545,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to demonstrate the answer, likely via a hand signal."
+    }
+  ]
+}

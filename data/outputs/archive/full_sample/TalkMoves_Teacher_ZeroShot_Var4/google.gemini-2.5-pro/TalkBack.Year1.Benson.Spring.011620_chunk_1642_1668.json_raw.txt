@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 1642,
+      "Speaker": "T",
+      "Turn": 1642,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks a student to explain the process they used to arrive at an answer."
+    },
+    {
+      "ID": 1644,
+      "Speaker": "T",
+      "Turn": 1644,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks 'why' to prompt the student to justify their mathematical operation."
+    },
+    {
+      "ID": 1645,
+      "Speaker": "T",
+      "Turn": 1645,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to elaborate on their thinking."
+    },
+    {
+      "ID": 1648,
+      "Speaker": "T",
+      "Turn": 1648,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher specifically asks the student to explain the origin of a number in their calculation, pressing for the thinking behind it."
+    },
+    {
+      "ID": 1649,
+      "Speaker": "T",
+      "Turn": 1649,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher points out a mathematical error (adding denominators) to guide the student toward a more accurate contribution."
+    },
+    {
+      "ID": 1650,
+      "Speaker": "T",
+      "Turn": 1650,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to use the correct mathematical term ('fourths') for the context."
+    },
+    {
+      "ID": 1651,
+      "Speaker": "T",
+      "Turn": 1651,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to elaborate on their thinking."
+    },
+    {
+      "ID": 1653,
+      "Speaker": "T",
+      "Turn": 1653,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1654,
+      "Speaker": "T",
+      "Turn": 1654,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a question to elicit a specific piece of mathematical knowledge needed to solve the problem."
+    },
+    {
+      "ID": 1655,
+      "Speaker": "T",
+      "Turn": 1655,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a follow-up question that requires a specific, correct mathematical answer."
+    },
+    {
+      "ID": 1657,
+      "Speaker": "T",
+      "Turn": 1657,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's one-word answer verbatim."
+    },
+    {
+      "ID": 1658,
+      "Speaker": "T",
+      "Turn": 1658,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1659,
+      "Speaker": "T",
+      "Turn": 1659,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1660,
+      "Speaker": "T",
+      "Turn": 1660,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1661,
+      "Speaker": "T",
+      "Turn": 1661,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats a student's idea (getting eight) but adds mathematical language ('four-fourths plus another four-fourths') to clarify the reasoning."
+    },
+    {
+      "ID": 1662,
+      "Speaker": "T",
+      "Turn": 1662,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a question that requires students to make a correct mathematical assessment of the problem's status."
+    },
+    {
+      "ID": 1664,
+      "Speaker": "T",
+      "Turn": 1664,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the essence of an implied student contribution ('We have another')."
+    },
+    {
+      "ID": 1665,
+      "Speaker": "T",
+      "Turn": 1665,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a question that prompts students for a specific, correct numerical answer."
+    },
+    {
+      "ID": 1666,
+      "Speaker": "T",
+      "Turn": 1666,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1668,
+      "Speaker": "T",
+      "Turn": 1668,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 1546,
+      "Speaker": "T",
+      "Turn": 1546,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1547,
+      "Speaker": "T",
+      "Turn": 1547,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1548,
+      "Speaker": "T",
+      "Turn": 1548,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1549,
+      "Speaker": "T",
+      "Turn": 1549,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1550,
+      "Speaker": "T",
+      "Turn": 1550,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts the student to explain their process ('tell me what you did'), asking for the thinking behind the work rather than just the answer."
+    },
+    {
+      "ID": 1552,
+      "Speaker": "T",
+      "Turn": 1552,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's implied answer ('Zero ones') and adds an alternative phrasing ('or zero whole ones') to clarify the terminology."
+    },
+    {
+      "ID": 1553,
+      "Speaker": "T",
+      "Turn": 1553,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a specific mathematical question ('Are there any tenths...') to prompt a correct mathematical contribution."
+    },
+    {
+      "ID": 1554,
+      "Speaker": "T",
+      "Turn": 1554,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1555,
+      "Speaker": "T",
+      "Turn": 1555,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a specific calculation question ('How many longs do we have...') to elicit a precise mathematical answer."
+    },
+    {
+      "ID": 1556,
+      "Speaker": "T",
+      "Turn": 1556,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1557,
+      "Speaker": "T",
+      "Turn": 1557,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1558,
+      "Speaker": "T",
+      "Turn": 1558,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1559,
+      "Speaker": "T",
+      "Turn": 1559,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1560,
+      "Speaker": "T",
+      "Turn": 1560,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a student for the correct mathematical representation ('what should I have')."
+    },
+    {
+      "ID": 1562,
+      "Speaker": "T",
+      "Turn": 1562,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1563,
+      "Speaker": "T",
+      "Turn": 1563,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's answer and adds an alternative phrasing ('or zero and nine hundredths') to expand on the terminology."
+    },
+    {
+      "ID": 1564,
+      "Speaker": "T",
+      "Turn": 1564,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1565,
+      "Speaker": "T",
+      "Turn": 1565,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1566,
+      "Speaker": "T",
+      "Turn": 1566,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks the student to state exactly what they wrote, prompting for the specific mathematical output/answer."
+    },
+    {
+      "ID": 1568,
+      "Speaker": "T",
+      "Turn": 1568,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

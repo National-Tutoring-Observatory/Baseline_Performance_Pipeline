@@ -1,0 +1,123 @@
+{
+  "records": [
+    {
+      "ID": 12384,
+      "Turn": 3,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12385,
+      "Turn": 3,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12387,
+      "Turn": 5,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts a student to provide a specific mathematical value."
+    },
+    {
+      "ID": 12389,
+      "Turn": 7,
+      "Speaker": "T",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher repeats a question to the whole class to ensure everyone is focused on the same point."
+    },
+    {
+      "ID": 12390,
+      "Turn": 7,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12391,
+      "Turn": 7,
+      "Speaker": "T",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher repeats the question to the whole class to maintain a shared focus."
+    },
+    {
+      "ID": 12392,
+      "Turn": 7,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12393,
+      "Turn": 7,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher rephrases the question to prompt for a specific mathematical value."
+    },
+    {
+      "ID": 12395,
+      "Turn": 9,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12396,
+      "Turn": 9,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12397,
+      "Turn": 9,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12399,
+      "Turn": 11,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's idea ('Put the six in two groups') but changes the wording ('You need six exits')."
+    },
+    {
+      "ID": 12401,
+      "Turn": 13,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12402,
+      "Turn": 13,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to explain the 'why' behind another student's action."
+    },
+    {
+      "ID": 12403,
+      "Turn": 13,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12404,
+      "Turn": 13,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12405,
+      "Turn": 13,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

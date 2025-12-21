@@ -1,0 +1,39 @@
+{
+  "records": [
+    {
+      "ID": 5550,
+      "Speaker": "T",
+      "Turn": 5550,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5557,
+      "Speaker": "T",
+      "Turn": 5557,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks \"What is that\" to prompt the student to specify or clarify the mathematical object or idea being referenced."
+    },
+    {
+      "ID": 5563,
+      "Speaker": "T",
+      "Turn": 5563,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher restates the student’s implied meaning in her own words, clarifying that the situation means the student is ahead."
+    },
+    {
+      "ID": 5566,
+      "Speaker": "T",
+      "Turn": 5566,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5567,
+      "Speaker": "T",
+      "Turn": 5567,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

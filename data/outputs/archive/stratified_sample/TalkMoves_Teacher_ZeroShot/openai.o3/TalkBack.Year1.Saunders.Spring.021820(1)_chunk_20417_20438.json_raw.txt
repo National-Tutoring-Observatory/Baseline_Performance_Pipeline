@@ -1,0 +1,102 @@
+{
+  "records": [
+    {
+      "ID": 20417,
+      "Speaker": "T",
+      "Turn": 37,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20418,
+      "Speaker": "T",
+      "Turn": 38,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Asks students how to use a specific part of the work, prompting them to explain their thinking."
+    },
+    {
+      "ID": 20420,
+      "Speaker": "T",
+      "Turn": 40,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Requests the exact mathematical fact about any number raised to the zero power."
+    },
+    {
+      "ID": 20422,
+      "Speaker": "T",
+      "Turn": 42,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20424,
+      "Speaker": "T",
+      "Turn": 44,
+      "TalkMove": "Restating",
+      "Reasoning": "Repeats the student’s corrected answer 'one' verbatim."
+    },
+    {
+      "ID": 20425,
+      "Speaker": "T",
+      "Turn": 44,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20429,
+      "Speaker": "T",
+      "Turn": 47,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20431,
+      "Speaker": "T",
+      "Turn": 49,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20432,
+      "Speaker": "T",
+      "Turn": 49,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Asks students to explain how to rewrite an expression using a property, eliciting their reasoning."
+    },
+    {
+      "ID": 20434,
+      "Speaker": "T",
+      "Turn": 51,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Questions whether 1024 is a multiple of four, prompting a precise mathematical check."
+    },
+    {
+      "ID": 20435,
+      "Speaker": "T",
+      "Turn": 51,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks students to determine the specific factor ('four times what'), focusing on correct computation."
+    },
+    {
+      "ID": 20436,
+      "Speaker": "T",
+      "Turn": 52,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Requests students to simplify an expression and identify the root, prompting them to articulate the reasoning process."
+    },
+    {
+      "ID": 20437,
+      "Speaker": "T",
+      "Turn": 53,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20438,
+      "Speaker": "T",
+      "Turn": 53,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

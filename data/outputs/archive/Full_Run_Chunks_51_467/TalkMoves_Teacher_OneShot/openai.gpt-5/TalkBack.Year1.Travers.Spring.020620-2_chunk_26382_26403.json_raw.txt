@@ -1,0 +1,123 @@
+{
+  "records": [
+    {
+      "ID": 26382,
+      "Speaker": "T",
+      "Turn": 107,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26383,
+      "Speaker": "T",
+      "Turn": 107,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26384,
+      "Speaker": "T",
+      "Turn": 108,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26385,
+      "Speaker": "T",
+      "Turn": 108,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks, 'What does all this mean,' prompting students to interpret and explain the information."
+    },
+    {
+      "ID": 26386,
+      "Speaker": "T",
+      "Turn": 108,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks for the exact number of people juggling, seeking a precise mathematical value."
+    },
+    {
+      "ID": 26388,
+      "Speaker": "T",
+      "Turn": 110,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Encourages participation from all students with 'I want to hear all of your voices,' orienting the class to engage."
+    },
+    {
+      "ID": 26389,
+      "Speaker": "T",
+      "Turn": 110,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Requests the specific number of jugglers."
+    },
+    {
+      "ID": 26391,
+      "Speaker": "T",
+      "Turn": 112,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26392,
+      "Speaker": "T",
+      "Turn": 112,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks for the exact number of hours the jugglers perform."
+    },
+    {
+      "ID": 26394,
+      "Speaker": "T",
+      "Turn": 114,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Seeks a specific cost per performer, prompting a precise numerical contribution."
+    },
+    {
+      "ID": 26396,
+      "Speaker": "T",
+      "Turn": 116,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26397,
+      "Speaker": "T",
+      "Turn": 116,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Builds on the student's '30 an hour' by rephrasing and adding 'for three people' to clarify the idea."
+    },
+    {
+      "ID": 26399,
+      "Speaker": "T",
+      "Turn": 118,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks 'for how many people?' to elicit the specific quantity involved."
+    },
+    {
+      "ID": 26400,
+      "Speaker": "T",
+      "Turn": 118,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Summarizes and clarifies the scenario using students’ contributions: three people, two hours, $30 per person per hour."
+    },
+    {
+      "ID": 26401,
+      "Speaker": "T",
+      "Turn": 118,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26402,
+      "Speaker": "T",
+      "Turn": 118,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26403,
+      "Speaker": "T",
+      "Turn": 118,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

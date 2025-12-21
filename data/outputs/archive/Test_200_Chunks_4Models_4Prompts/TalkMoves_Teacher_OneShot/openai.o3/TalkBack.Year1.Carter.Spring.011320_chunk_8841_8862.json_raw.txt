@@ -1,0 +1,102 @@
+{
+  "records": [
+    {
+      "ID": 8841,
+      "Speaker": "T",
+      "Turn": 169,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Teacher orients the class to focus on Missy’s idea and cues Ema to share, signaling that everyone should attend to the forthcoming explanation."
+    },
+    {
+      "ID": 8844,
+      "Speaker": "T",
+      "Turn": 171,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher asks the student to elaborate on how she knew 3 was a factor of 36, explicitly requesting additional explanation."
+    },
+    {
+      "ID": 8846,
+      "Speaker": "T",
+      "Turn": 173,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8847,
+      "Speaker": "T",
+      "Turn": 173,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8850,
+      "Speaker": "T",
+      "Turn": 175,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher restates/clarifies the student’s interpretation and seeks confirmation: “Is that what you’re saying?”"
+    },
+    {
+      "ID": 8852,
+      "Speaker": "T",
+      "Turn": 177,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher summarizes the student’s idea with new wording—“Kind of like partial products”—adding a mathematical term to the student’s explanation."
+    },
+    {
+      "ID": 8854,
+      "Speaker": "T",
+      "Turn": 179,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8855,
+      "Speaker": "T",
+      "Turn": 179,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8856,
+      "Speaker": "T",
+      "Turn": 179,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8857,
+      "Speaker": "T",
+      "Turn": 179,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8858,
+      "Speaker": "T",
+      "Turn": 179,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8859,
+      "Speaker": "T",
+      "Turn": 179,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8861,
+      "Speaker": "T",
+      "Turn": 181,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 8862,
+      "Speaker": "T",
+      "Turn": 181,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher asks students to connect the concept of factors to finding common denominators, prompting them to explain the underlying reasoning."
+    }
+  ]
+}

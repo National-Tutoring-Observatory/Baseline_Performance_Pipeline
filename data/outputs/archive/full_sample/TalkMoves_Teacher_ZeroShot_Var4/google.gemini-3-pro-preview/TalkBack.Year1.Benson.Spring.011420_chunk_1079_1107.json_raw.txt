@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 1079,
+      "Speaker": "T",
+      "Turn": 1079,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher summarizes and rephrases the student's explanation about using clue words to determine the operation."
+    },
+    {
+      "ID": 1080,
+      "Speaker": "T",
+      "Turn": 1080,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher broadcasts a student's contribution (Mason's idea) to the rest of the class to orient them to the proposed strategy."
+    },
+    {
+      "ID": 1081,
+      "Speaker": "T",
+      "Turn": 1081,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks a student to connect a specific number (20) to its representation in the context of the problem."
+    },
+    {
+      "ID": 1083,
+      "Speaker": "T",
+      "Turn": 1083,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts the student to evaluate the relevance of context (ownership vs. size), pushing for justification of what is mathematically important."
+    },
+    {
+      "ID": 1085,
+      "Speaker": "T",
+      "Turn": 1085,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1086,
+      "Speaker": "T",
+      "Turn": 1086,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1087,
+      "Speaker": "T",
+      "Turn": 1087,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for a specific fact/number from the problem statement."
+    },
+    {
+      "ID": 1089,
+      "Speaker": "T",
+      "Turn": 1089,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's answer ('the smaller one') and adds precise information ('which is 20 feet')."
+    },
+    {
+      "ID": 1090,
+      "Speaker": "T",
+      "Turn": 1090,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1092,
+      "Speaker": "T",
+      "Turn": 1092,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1093,
+      "Speaker": "T",
+      "Turn": 1093,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1094,
+      "Speaker": "T",
+      "Turn": 1094,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1095,
+      "Speaker": "T",
+      "Turn": 1095,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1096,
+      "Speaker": "T",
+      "Turn": 1096,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 1097,
+      "Speaker": "T",
+      "Turn": 1097,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the class for the specific numerical answer to the calculation."
+    },
+    {
+      "ID": 1099,
+      "Speaker": "T",
+      "Turn": 1099,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's answer ('600') word for word."
+    },
+    {
+      "ID": 1100,
+      "Speaker": "T",
+      "Turn": 1100,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to connect the numerical answer (600) to the context of the problem."
+    },
+    {
+      "ID": 1102,
+      "Speaker": "T",
+      "Turn": 1102,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to use more precise language or units."
+    },
+    {
+      "ID": 1105,
+      "Speaker": "T",
+      "Turn": 1105,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's previous contribution ('you said the ball of string') to hold it up for inspection."
+    },
+    {
+      "ID": 1107,
+      "Speaker": "T",
+      "Turn": 1107,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's phrase ('600 ball of string') verbatim."
+    }
+  ]
+}

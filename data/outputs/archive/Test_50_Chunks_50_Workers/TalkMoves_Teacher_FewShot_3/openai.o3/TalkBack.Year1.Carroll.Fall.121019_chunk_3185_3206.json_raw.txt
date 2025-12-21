@@ -1,0 +1,53 @@
+{
+  "records": [
+    {
+      "ID": 3195,
+      "Speaker": "T",
+      "Turn": 1,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3197,
+      "Speaker": "T",
+      "Turn": 3,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3199,
+      "Speaker": "T",
+      "Turn": 5,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 3200,
+      "Speaker": "T",
+      "Turn": 5,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher directs the class’s attention to a specific part of the task (“the first one … square A”), orienting all students to the same focal point."
+    },
+    {
+      "ID": 3201,
+      "Speaker": "T",
+      "Turn": 5,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "By asking “What does it represent?” the teacher prompts students to explain the meaning of the square, eliciting their reasoning about the representation."
+    },
+    {
+      "ID": 3204,
+      "Speaker": "T",
+      "Turn": 8,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "After an interruption, the teacher re-orients students back to the same part of the task (“The first one”), ensuring collective focus."
+    },
+    {
+      "ID": 3205,
+      "Speaker": "T",
+      "Turn": 9,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

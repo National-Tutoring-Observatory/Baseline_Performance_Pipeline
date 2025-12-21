@@ -1,0 +1,137 @@
+{
+  "records": [
+    {
+      "ID": 4862,
+      "Speaker": "T",
+      "Turn": 114,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4863,
+      "Speaker": "T",
+      "Turn": 114,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4864,
+      "Speaker": "T",
+      "Turn": 114,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4865,
+      "Speaker": "T",
+      "Turn": 114,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4866,
+      "Speaker": "T",
+      "Turn": 114,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4867,
+      "Speaker": "T",
+      "Turn": 114,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher restates Lydia’s question for the class, repeating the student’s idea in her own words."
+    },
+    {
+      "ID": 4868,
+      "Speaker": "T",
+      "Turn": 114,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4869,
+      "Speaker": "T",
+      "Turn": 114,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4870,
+      "Speaker": "T",
+      "Turn": 114,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4872,
+      "Speaker": "T",
+      "Turn": 116,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4873,
+      "Speaker": "T",
+      "Turn": 116,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student’s exact words \"A little bit.\""
+    },
+    {
+      "ID": 4874,
+      "Speaker": "T",
+      "Turn": 116,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4875,
+      "Speaker": "T",
+      "Turn": 116,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a specific factual question—what the denominator will be—prompting students to supply the precise mathematical detail."
+    },
+    {
+      "ID": 4877,
+      "Speaker": "T",
+      "Turn": 118,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student’s answer \"Twelve\" and adds clarification about why the denominator is not added, thus revoicing with elaboration."
+    },
+    {
+      "ID": 4878,
+      "Speaker": "T",
+      "Turn": 118,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4879,
+      "Speaker": "T",
+      "Turn": 118,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "By stating \"So 8  9 is\" and pausing, the teacher prompts students to supply the exact numerical sum, seeking a precise answer."
+    },
+    {
+      "ID": 4881,
+      "Speaker": "T",
+      "Turn": 120,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher echoes the student’s answer \"Seventeen\" exactly."
+    },
+    {
+      "ID": 4882,
+      "Speaker": "T",
+      "Turn": 120,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4883,
+      "Speaker": "T",
+      "Turn": 120,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks \"12s tells me what?\" prompting students to explain the meaning of the denominator, thus seeking their reasoning."
+    }
+  ]
+}

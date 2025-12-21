@@ -1,0 +1,95 @@
+{
+  "records": [
+    {
+      "ID": 4300,
+      "Speaker": "T",
+      "Turn": 46,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4309,
+      "Speaker": "T",
+      "Turn": 55,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4310,
+      "Speaker": "T",
+      "Turn": 55,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher prompts the class to focus on a shared representation (“Let’s look at this”), orienting everyone’s attention."
+    },
+    {
+      "ID": 4311,
+      "Speaker": "T",
+      "Turn": 55,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4312,
+      "Speaker": "T",
+      "Turn": 55,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4313,
+      "Speaker": "T",
+      "Turn": 55,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks students to determine which representation has more, prompting a mathematically accurate comparison."
+    },
+    {
+      "ID": 4314,
+      "Speaker": "T",
+      "Turn": 55,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4315,
+      "Speaker": "T",
+      "Turn": 55,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher checks that students can see/track the idea (“Do you see it?”), prompting active attention."
+    },
+    {
+      "ID": 4316,
+      "Speaker": "T",
+      "Turn": 55,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4317,
+      "Speaker": "T",
+      "Turn": 55,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 4318,
+      "Speaker": "T",
+      "Turn": 55,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher paraphrases a student’s strategy (“you look at the first number”), rephrasing the student’s idea for the class."
+    },
+    {
+      "ID": 4319,
+      "Speaker": "T",
+      "Turn": 55,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks “Which one’s bigger?” prompting students to make a precise comparative judgment."
+    },
+    {
+      "ID": 4320,
+      "Speaker": "T",
+      "Turn": 55,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "By specifying the options (“the three or the two”), the teacher presses students to select the correct mathematical comparison."
+    }
+  ]
+}

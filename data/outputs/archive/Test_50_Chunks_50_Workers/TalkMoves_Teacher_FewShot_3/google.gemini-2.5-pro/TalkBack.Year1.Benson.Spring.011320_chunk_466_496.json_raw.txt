@@ -1,0 +1,188 @@
+{
+  "records": [
+    {
+      "ID": 467,
+      "Turn": 44,
+      "Speaker": "T",
+      "Sentence": "There you go",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 468,
+      "Turn": 44,
+      "Speaker": "T",
+      "Sentence": "What did he multiply 4 by to get 12",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to identify the specific multiplier used in the mathematical procedure."
+    },
+    {
+      "ID": 469,
+      "Turn": 44,
+      "Speaker": "T",
+      "Sentence": "Also",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 471,
+      "Turn": 46,
+      "Speaker": "T",
+      "Sentence": "Also 3",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 472,
+      "Turn": 46,
+      "Speaker": "T",
+      "Sentence": "Remember that when youre making an equivalent fraction if youre multiplying the top number and the bottom number by the same thing",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 473,
+      "Turn": 46,
+      "Speaker": "T",
+      "Sentence": "So 3 on the bottom 3 on the top",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 474,
+      "Turn": 46,
+      "Speaker": "T",
+      "Sentence": "Youre going to get an equivalent fraction",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 475,
+      "Turn": 46,
+      "Speaker": "T",
+      "Sentence": "Who did 23 as theirs",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 476,
+      "Turn": 46,
+      "Speaker": "T",
+      "Sentence": "The pink problem",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 477,
+      "Turn": 46,
+      "Speaker": "T",
+      "Sentence": "Bryce whatd you end up doing",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks a student to share their method for solving the problem."
+    },
+    {
+      "ID": 479,
+      "Turn": 48,
+      "Speaker": "T",
+      "Sentence": "You did multiples",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases the student's incomplete description of their strategy by applying the specific mathematical term 'multiples'."
+    },
+    {
+      "ID": 480,
+      "Turn": 48,
+      "Speaker": "T",
+      "Sentence": "So you did multiples of 2",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher clarifies the student's strategy by specifying that they used multiples of a particular number."
+    },
+    {
+      "ID": 482,
+      "Turn": 50,
+      "Speaker": "T",
+      "Sentence": "So when you started listing your multiples you need 2 4 6",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher articulates the specific steps of the student's 'multiples' strategy, making the student's thinking process explicit."
+    },
+    {
+      "ID": 484,
+      "Turn": 52,
+      "Speaker": "T",
+      "Sentence": "Okay",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 485,
+      "Turn": 52,
+      "Speaker": "T",
+      "Sentence": "Ryder can you tell me how that makes sense to you",
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher asks a student to make sense of and comment on a classmate's strategy."
+    },
+    {
+      "ID": 486,
+      "Turn": 52,
+      "Speaker": "T",
+      "Sentence": "Why did Bryce do multiples",
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher explicitly asks a student to explain the reasoning behind a classmate's contribution."
+    },
+    {
+      "ID": 489,
+      "Turn": 54,
+      "Speaker": "T",
+      "Sentence": "Okay",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 490,
+      "Turn": 54,
+      "Speaker": "T",
+      "Sentence": "Any other suggestions on how that could work",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the class for alternative strategies or suggestions, prompting them to share their thinking."
+    },
+    {
+      "ID": 491,
+      "Turn": 54,
+      "Speaker": "T",
+      "Sentence": "Who did 410",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 492,
+      "Turn": 54,
+      "Speaker": "T",
+      "Sentence": "Its a green one",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 493,
+      "Turn": 54,
+      "Speaker": "T",
+      "Sentence": "Taylor whatd you get as equivalent",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a student to provide their specific answer, which is a mathematical contribution."
+    },
+    {
+      "ID": 495,
+      "Turn": 56,
+      "Speaker": "T",
+      "Sentence": "Okay",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 496,
+      "Turn": 56,
+      "Speaker": "T",
+      "Sentence": "Did you do another one",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to provide another mathematical contribution."
+    }
+  ]
+}

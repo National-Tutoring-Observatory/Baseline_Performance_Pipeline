@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 2322,
+      "Speaker": "T",
+      "Turn": 2322,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher asks Lillian to explain how her estimate differs, prompting her to articulate her thinking."
+    },
+    {
+      "ID": 2324,
+      "Speaker": "T",
+      "Turn": 2324,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student’s estimate exactly: “5 x 8.”"
+    },
+    {
+      "ID": 2325,
+      "Speaker": "T",
+      "Turn": 2325,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Asks the student to explain the origin of the number five, eliciting justification."
+    },
+    {
+      "ID": 2327,
+      "Speaker": "T",
+      "Turn": 2327,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Paraphrases the student’s strategy, adding the idea of a “friendlier number.”"
+    },
+    {
+      "ID": 2329,
+      "Speaker": "T",
+      "Turn": 2329,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Restates and slightly rephrases the student’s rounding choice, clarifying it for the class."
+    },
+    {
+      "ID": 2331,
+      "Speaker": "T",
+      "Turn": 2331,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Summarizes the student’s next computational step (“Then did that × 18”), rephrasing their idea."
+    },
+    {
+      "ID": 2333,
+      "Speaker": "T",
+      "Turn": 2333,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2334,
+      "Speaker": "T",
+      "Turn": 2334,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Prompts students to calculate 600 + 240 and check if the result is similar, focusing on correct computation."
+    },
+    {
+      "ID": 2336,
+      "Speaker": "T",
+      "Turn": 2336,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2337,
+      "Speaker": "T",
+      "Turn": 2337,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2338,
+      "Speaker": "T",
+      "Turn": 2338,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2339,
+      "Speaker": "T",
+      "Turn": 2339,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Invites Jasper to share if he used a different approach, seeking his reasoning."
+    },
+    {
+      "ID": 2340,
+      "Speaker": "T",
+      "Turn": 2340,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2341,
+      "Speaker": "T",
+      "Turn": 2341,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Asks whether Jasper merely changed the order, prompting him to clarify his thinking."
+    },
+    {
+      "ID": 2342,
+      "Speaker": "T",
+      "Turn": 2342,
+      "TalkMove": "Restating",
+      "Reasoning": "Echoes the student’s response “Three estimates” verbatim."
+    },
+    {
+      "ID": 2344,
+      "Speaker": "T",
+      "Turn": 2344,
+      "TalkMove": "Restating",
+      "Reasoning": "Repeats the student’s conclusion that they got ‘something similar,’ mirroring the wording."
+    },
+    {
+      "ID": 2346,
+      "Speaker": "T",
+      "Turn": 2346,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2347,
+      "Speaker": "T",
+      "Turn": 2347,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2349,
+      "Speaker": "T",
+      "Turn": 2349,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2350,
+      "Speaker": "T",
+      "Turn": 2350,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

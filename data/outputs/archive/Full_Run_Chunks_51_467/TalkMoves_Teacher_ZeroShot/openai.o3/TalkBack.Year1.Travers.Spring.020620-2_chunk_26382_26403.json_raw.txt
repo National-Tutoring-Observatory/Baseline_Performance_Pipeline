@@ -1,0 +1,123 @@
+{
+  "records": [
+    {
+      "ID": 26382,
+      "Speaker": "T",
+      "Turn": 107,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26383,
+      "Speaker": "T",
+      "Turn": 107,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26384,
+      "Speaker": "T",
+      "Turn": 108,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher prompts the whole class to focus and engage in the upcoming discussion."
+    },
+    {
+      "ID": 26385,
+      "Speaker": "T",
+      "Turn": 108,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to interpret the meaning of the information, seeking their explanatory thinking."
+    },
+    {
+      "ID": 26386,
+      "Speaker": "T",
+      "Turn": 108,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher requests a specific factual detail (number of jugglers) from the problem context."
+    },
+    {
+      "ID": 26388,
+      "Speaker": "T",
+      "Turn": 110,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher encourages participation from all students, orienting the class toward collective engagement."
+    },
+    {
+      "ID": 26389,
+      "Speaker": "T",
+      "Turn": 110,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Again asks for the exact number of jugglers, prompting a precise mathematical detail."
+    },
+    {
+      "ID": 26391,
+      "Speaker": "T",
+      "Turn": 112,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26392,
+      "Speaker": "T",
+      "Turn": 112,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Requests the exact number of hours, a specific factual detail."
+    },
+    {
+      "ID": 26394,
+      "Speaker": "T",
+      "Turn": 114,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Seeks the precise cost per performer, focusing on an exact numerical value."
+    },
+    {
+      "ID": 26396,
+      "Speaker": "T",
+      "Turn": 116,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26397,
+      "Speaker": "T",
+      "Turn": 116,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher restates the student’s answer and extends it by adding context (for three people)."
+    },
+    {
+      "ID": 26399,
+      "Speaker": "T",
+      "Turn": 118,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks students to specify for how many people, prompting an exact detail."
+    },
+    {
+      "ID": 26400,
+      "Speaker": "T",
+      "Turn": 118,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher summarizes and clarifies the quantitative details provided, rephrasing the information."
+    },
+    {
+      "ID": 26401,
+      "Speaker": "T",
+      "Turn": 118,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26402,
+      "Speaker": "T",
+      "Turn": 118,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 26403,
+      "Speaker": "T",
+      "Turn": 118,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

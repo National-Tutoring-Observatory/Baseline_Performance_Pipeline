@@ -1,0 +1,60 @@
+{
+  "records": [
+    {
+      "ID": 12359,
+      "Speaker": "T",
+      "Turn": 12359,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher asks if anyone wants to add to what has been said, prompting students to build on or react to previous contributions."
+    },
+    {
+      "ID": 12360,
+      "Speaker": "T",
+      "Turn": 12360,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12361,
+      "Speaker": "T",
+      "Turn": 12361,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12367,
+      "Speaker": "T",
+      "Turn": 12367,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "Similar to the previous move, the teacher is soliciting further contributions or additions to the ongoing discussion."
+    },
+    {
+      "ID": 12368,
+      "Speaker": "T",
+      "Turn": 12368,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12369,
+      "Speaker": "T",
+      "Turn": 12369,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's idea (Jessie's) but elaborates on it by explaining *why* it was important ('knowing what it is you're splitting is so important'), adding mathematical significance to the student's contribution."
+    },
+    {
+      "ID": 12373,
+      "Speaker": "T",
+      "Turn": 12373,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12374,
+      "Speaker": "T",
+      "Turn": 12374,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a specific question prompting students to provide a correct mathematical representation ('What number mile would we have')."
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 2856,
+      "Speaker": "T",
+      "Turn": 2856,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2857,
+      "Speaker": "T",
+      "Turn": 2857,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2858,
+      "Speaker": "T",
+      "Turn": 2858,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2859,
+      "Speaker": "T",
+      "Turn": 2859,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2860,
+      "Speaker": "T",
+      "Turn": 2860,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks students what decimal representation should be written for 80/100, prompting a precise mathematical answer."
+    },
+    {
+      "ID": 2861,
+      "Speaker": "T",
+      "Turn": 2861,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2862,
+      "Speaker": "T",
+      "Turn": 2862,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Repeated prompt for the exact decimal students should write."
+    },
+    {
+      "ID": 2863,
+      "Speaker": "T",
+      "Turn": 2863,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2864,
+      "Speaker": "T",
+      "Turn": 2864,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2865,
+      "Speaker": "T",
+      "Turn": 2865,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks an individual student for the exact thing they wrote, seeking the precise mathematical statement."
+    },
+    {
+      "ID": 2867,
+      "Speaker": "T",
+      "Turn": 2867,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2868,
+      "Speaker": "T",
+      "Turn": 2868,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks students to identify/read a specific written word correctly."
+    },
+    {
+      "ID": 2870,
+      "Speaker": "T",
+      "Turn": 2870,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2871,
+      "Speaker": "T",
+      "Turn": 2871,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2872,
+      "Speaker": "T",
+      "Turn": 2872,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks if the written form can be ‘left like that,’ probing whether it is an acceptable accurate notation."
+    },
+    {
+      "ID": 2875,
+      "Speaker": "T",
+      "Turn": 2875,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher asks students to justify why the notation is acceptable, explicitly seeking reasoning behind the answer."
+    },
+    {
+      "ID": 2876,
+      "Speaker": "T",
+      "Turn": 2876,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Further request for explanation of why writing 0.8 for 80/100 is valid."
+    },
+    {
+      "ID": 2877,
+      "Speaker": "T",
+      "Turn": 2877,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Directs a student (Tom) to explain the justification for the notation, pressing for reasoning."
+    },
+    {
+      "ID": 2879,
+      "Speaker": "T",
+      "Turn": 2879,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher asks the student to re-explain in a different way, prompting elaboration of reasoning."
+    },
+    {
+      "ID": 2880,
+      "Speaker": "T",
+      "Turn": 2880,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "By stating lack of understanding, teacher implicitly requests further clarification of the student's reasoning."
+    }
+  ]
+}

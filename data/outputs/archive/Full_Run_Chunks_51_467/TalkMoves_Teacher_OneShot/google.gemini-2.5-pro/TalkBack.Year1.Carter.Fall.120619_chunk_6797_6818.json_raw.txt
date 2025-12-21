@@ -1,0 +1,102 @@
+{
+  "records": [
+    {
+      "ID": 6797,
+      "Turn": 68,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 6798,
+      "Turn": 68,
+      "Speaker": "T",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher prompts the class to work together to help a specific student."
+    },
+    {
+      "ID": 6799,
+      "Turn": 68,
+      "Speaker": "T",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher continues to prompt the class to formulate a question to help a peer."
+    },
+    {
+      "ID": 6800,
+      "Turn": 68,
+      "Speaker": "T",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher directs a student to select a classmate to provide help, orienting students to each other."
+    },
+    {
+      "ID": 6803,
+      "Turn": 71,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks a student to share their thought process."
+    },
+    {
+      "ID": 6804,
+      "Turn": 71,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher repeats the prompt for a student to explain their thinking."
+    },
+    {
+      "ID": 6806,
+      "Turn": 73,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 6807,
+      "Turn": 73,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 6808,
+      "Turn": 73,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 6809,
+      "Turn": 73,
+      "Speaker": "T",
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher prompts a student to engage with classmates who have a different perspective."
+    },
+    {
+      "ID": 6813,
+      "Turn": 77,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 6814,
+      "Turn": 77,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's idea and juxtaposes it with a previously established fact, adding structure to highlight a potential contradiction."
+    },
+    {
+      "ID": 6815,
+      "Turn": 77,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Following a revoicing, the teacher asks the student to evaluate the logic of their own statement."
+    },
+    {
+      "ID": 6817,
+      "Turn": 79,
+      "Speaker": "T",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher directs one student to repeat a question for another student, orienting them to help each other."
+    }
+  ]
+}

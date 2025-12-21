@@ -1,0 +1,146 @@
+[
+  {
+    "records": [
+      {
+        "ID": 21738,
+        "Speaker": "T",
+        "Turn": 21738,
+        "TalkMove": null,
+        "Reasoning": null
+      },
+      {
+        "ID": 21739,
+        "Speaker": "T",
+        "Turn": 21739,
+        "TalkMove": null,
+        "Reasoning": null
+      },
+      {
+        "ID": 21740,
+        "Speaker": "T",
+        "Turn": 21740,
+        "TalkMove": "Revoicing",
+        "Reasoning": "The teacher repeats the student's likely idea of adding one but adds the mathematically precise phrase 'to both sides of the equation'."
+      },
+      {
+        "ID": 21741,
+        "Speaker": "T",
+        "Turn": 21741,
+        "TalkMove": null,
+        "Reasoning": null
+      },
+      {
+        "ID": 21743,
+        "Speaker": "T",
+        "Turn": 21743,
+        "TalkMove": "Revoicing",
+        "Reasoning": "The teacher rephrases the student's likely contribution into the formal mathematical step, 'Isolate the radical'."
+      },
+      {
+        "ID": 21744,
+        "Speaker": "T",
+        "Turn": 21744,
+        "TalkMove": "Pressing for Reasoning",
+        "Reasoning": "The teacher prompts students to connect a procedural step with the overall goal, asking them to reason about the outcome of their action."
+      },
+      {
+        "ID": 21747,
+        "Speaker": "T",
+        "Turn": 21747,
+        "TalkMove": null,
+        "Reasoning": null
+      },
+      {
+        "ID": 21748,
+        "Speaker": "T",
+        "Turn": 21748,
+        "TalkMove": null,
+        "Reasoning": null
+      },
+      {
+        "ID": 21749,
+        "Speaker": "T",
+        "Turn": 21749,
+        "TalkMove": null,
+        "Reasoning": null
+      },
+      {
+        "ID": 21751,
+        "Speaker": "T",
+        "Turn": 21751,
+        "TalkMove": "Revoicing",
+        "Reasoning": "The teacher repeats the student's idea but adds the precise language 'each side,' clarifying the mathematical operation."
+      },
+      {
+        "ID": 21752,
+        "Speaker": "T",
+        "Turn": 21752,
+        "TalkMove": "Restating",
+        "Reasoning": "The teacher repeats the student's contribution to confirm the next step for the class."
+      },
+      {
+        "ID": 21753,
+        "Speaker": "T",
+        "Turn": 21753,
+        "TalkMove": null,
+        "Reasoning": null
+      },
+      {
+        "ID": 21755,
+        "Speaker": "T",
+        "Turn": 21755,
+        "TalkMove": "Restating",
+        "Reasoning": "The teacher repeats the student's correct answer to the calculation before asking a follow-up question."
+      },
+      {
+        "ID": 21756,
+        "Speaker": "T",
+        "Turn": 21756,
+        "TalkMove": null,
+        "Reasoning": null
+      },
+      {
+        "ID": 21757,
+        "Speaker": "T",
+        "Turn": 21757,
+        "TalkMove": null,
+        "Reasoning": null
+      },
+      {
+        "ID": 21758,
+        "Speaker": "T",
+        "Turn": 21758,
+        "TalkMove": null,
+        "Reasoning": null
+      },
+      {
+        "ID": 21760,
+        "Speaker": "T",
+        "Turn": 21760,
+        "TalkMove": null,
+        "Reasoning": null
+      },
+      {
+        "ID": 21762,
+        "Speaker": "T",
+        "Turn": 21762,
+        "TalkMove": "Pressing for Reasoning",
+        "Reasoning": "The teacher asks the student to explain the thinking behind their choice of which step to perform first, prompting for justification."
+      },
+      {
+        "ID": 21764,
+        "Speaker": "T",
+        "Turn": 21764,
+        "TalkMove": null,
+        "Reasoning": null
+      },
+      {
+        "ID": 21766,
+        "Speaker": "T",
+        "Turn": 21766,
+        "TalkMove": null,
+        "Reasoning": null
+      }
+    ]
+  }
+]

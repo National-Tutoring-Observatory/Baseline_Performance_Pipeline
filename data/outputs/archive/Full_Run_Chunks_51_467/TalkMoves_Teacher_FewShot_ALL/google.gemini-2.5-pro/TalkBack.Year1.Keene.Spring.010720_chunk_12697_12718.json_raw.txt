@@ -1,0 +1,130 @@
+{
+  "records": [
+    {
+      "ID": 12697,
+      "Turn": 97,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12698,
+      "Turn": 97,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12699,
+      "Turn": 97,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher explicitly asks a student to explain their thinking."
+    },
+    {
+      "ID": 12700,
+      "Turn": 97,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks 'why' to prompt the student to provide the reasoning behind their answer."
+    },
+    {
+      "ID": 12702,
+      "Turn": 98,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12703,
+      "Turn": 98,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12704,
+      "Turn": 98,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks 'why' to prompt the student for the reasoning behind their answer."
+    },
+    {
+      "ID": 12706,
+      "Turn": 100,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher takes the student's idea ('there is no decimal') and rephrases it as a question to the class, changing the wording."
+    },
+    {
+      "ID": 12708,
+      "Turn": 102,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12709,
+      "Turn": 102,
+      "Speaker": "T",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's idea about the lack of a decimal point, but rephrases it to explain its implication."
+    },
+    {
+      "ID": 12710,
+      "Turn": 102,
+      "Speaker": "T",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to recall a specific mathematical definition."
+    },
+    {
+      "ID": 12711,
+      "Turn": 102,
+      "Speaker": "T",
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher explicitly asks students to remember and connect to what a specific classmate (Bailey) said earlier."
+    },
+    {
+      "ID": 12712,
+      "Turn": 102,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12713,
+      "Turn": 103,
+      "Speaker": "T",
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher redirects the conversation back to a previous student's (Bailey's) contribution."
+    },
+    {
+      "ID": 12714,
+      "Turn": 103,
+      "Speaker": "T",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 12716,
+      "Turn": 105,
+      "Speaker": "T",
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher connects the current speaker's idea to a previous contribution from another student (Josie)."
+    },
+    {
+      "ID": 12717,
+      "Turn": 105,
+      "Speaker": "T",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher reminds the entire class of a shared experience from earlier in the lesson to refocus their collective attention."
+    },
+    {
+      "ID": 12718,
+      "Turn": 105,
+      "Speaker": "T",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher instructs students to talk with their neighbors, a move designed to ensure all students are engaged and participating in the task."
+    }
+  ]
+}

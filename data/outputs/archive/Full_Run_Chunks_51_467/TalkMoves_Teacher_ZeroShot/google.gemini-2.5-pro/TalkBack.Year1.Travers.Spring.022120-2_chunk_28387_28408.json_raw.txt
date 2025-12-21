@@ -1,0 +1,102 @@
+{
+  "records": [
+    {
+      "ID": 28389,
+      "Speaker": "T",
+      "Turn": 75,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases the student's idea of 'erase half of that [half turn]' into the more mathematical statement 'half of half is one quarter'."
+    },
+    {
+      "ID": 28391,
+      "Speaker": "T",
+      "Turn": 77,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases the established idea into an equivalent mathematical form ('one-fourth times two is one-half') to further clarify the student's contribution."
+    },
+    {
+      "ID": 28393,
+      "Speaker": "T",
+      "Turn": 79,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to apply the mathematical concept to the specific problem and describe the precise outcome ('would be what?')."
+    },
+    {
+      "ID": 28396,
+      "Speaker": "T",
+      "Turn": 81,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher verbalizes the student's non-verbal contribution ('Like that'), clarifying the new orientation of the arrow for the class."
+    },
+    {
+      "ID": 28398,
+      "Speaker": "T",
+      "Turn": 83,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases the student's idea about the arrow's final position into a complete, clear statement for the class to consider."
+    },
+    {
+      "ID": 28399,
+      "Speaker": "T",
+      "Turn": 83,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher checks with the student to confirm that the rephrasing of their idea is accurate, which is a key component of the revoicing move."
+    },
+    {
+      "ID": 28400,
+      "Speaker": "T",
+      "Turn": 83,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the key phrase 'A quarter of a turn' to emphasize the core idea being discussed and confirmed."
+    },
+    {
+      "ID": 28401,
+      "Speaker": "T",
+      "Turn": 83,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher explicitly asks the rest of the class to state their agreement or disagreement with the idea presented by a classmate."
+    },
+    {
+      "ID": 28403,
+      "Speaker": "T",
+      "Turn": 85,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 28404,
+      "Speaker": "T",
+      "Turn": 85,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 28405,
+      "Speaker": "T",
+      "Turn": 85,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 28406,
+      "Speaker": "T",
+      "Turn": 85,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 28407,
+      "Speaker": "T",
+      "Turn": 85,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 28408,
+      "Speaker": "T",
+      "Turn": 85,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

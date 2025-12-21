@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 19478,
+      "Speaker": "T",
+      "Turn": 19478,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Requests the exact wording of the example’s title—a specific, correct piece of information."
+    },
+    {
+      "ID": 19479,
+      "Speaker": "T",
+      "Turn": 19479,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19481,
+      "Speaker": "T",
+      "Turn": 19481,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks a student to read the function exactly, prompting precise mathematical language."
+    },
+    {
+      "ID": 19483,
+      "Speaker": "T",
+      "Turn": 19483,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19484,
+      "Speaker": "T",
+      "Turn": 19484,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Seeks clarification of which specific item, prompting the student to be precise."
+    },
+    {
+      "ID": 19485,
+      "Speaker": "T",
+      "Turn": 19485,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19487,
+      "Speaker": "T",
+      "Turn": 19487,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19489,
+      "Speaker": "T",
+      "Turn": 19489,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19490,
+      "Speaker": "T",
+      "Turn": 19490,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks for the exact x-intercepts, a specific mathematical fact."
+    },
+    {
+      "ID": 19492,
+      "Speaker": "T",
+      "Turn": 19492,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Requests an explanation of what occurs at x = 2, prompting conceptual reasoning."
+    },
+    {
+      "ID": 19493,
+      "Speaker": "T",
+      "Turn": 19493,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Repeats the request for explanation about the point x = 2, continuing to elicit reasoning."
+    },
+    {
+      "ID": 19495,
+      "Speaker": "T",
+      "Turn": 19495,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher restates and elaborates on the student’s idea that the graph changes from decreasing to increasing."
+    },
+    {
+      "ID": 19496,
+      "Speaker": "T",
+      "Turn": 19496,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Invites another student to add further explanation, asking for additional reasoning."
+    },
+    {
+      "ID": 19497,
+      "Speaker": "T",
+      "Turn": 19497,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Again prompts students to explain the graph’s behavior at x = 2."
+    },
+    {
+      "ID": 19499,
+      "Speaker": "T",
+      "Turn": 19499,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher echoes (or models) the idea that the graph ‘will get thinner,’ rephrasing the contribution."
+    },
+    {
+      "ID": 19500,
+      "Speaker": "T",
+      "Turn": 19500,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 19502,
+      "Speaker": "T",
+      "Turn": 19502,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Restates the idea that the point is a local minimum and turning point, adding clarification."
+    },
+    {
+      "ID": 19503,
+      "Speaker": "T",
+      "Turn": 19503,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Asks students to articulate additional properties they have discussed, seeking further explanation."
+    },
+    {
+      "ID": 19504,
+      "Speaker": "T",
+      "Turn": 19504,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Prompts students to explain how they previously described the situation, eliciting reasoning."
+    },
+    {
+      "ID": 19506,
+      "Speaker": "T",
+      "Turn": 19506,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Summarizes and puts into words the class’s earlier description (‘bouncing,’ ‘multiplicity’), rephrasing their idea."
+    }
+  ]
+}

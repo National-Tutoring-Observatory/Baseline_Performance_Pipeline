@@ -1,0 +1,74 @@
+{
+  "records": [
+    {
+      "ID": 21824,
+      "Speaker": "T",
+      "Turn": 76,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks Brittany to state the first procedural step, eliciting a specific mathematical action."
+    },
+    {
+      "ID": 21826,
+      "Speaker": "T",
+      "Turn": 78,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Repeats the student’s answer \"Isolate the thing,\" truncating it to \"Isolate the…,\" showing understanding while slightly rephrasing."
+    },
+    {
+      "ID": 21827,
+      "Speaker": "T",
+      "Turn": 78,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "After confirming step one, asks students to supply the next procedural step."
+    },
+    {
+      "ID": 21829,
+      "Speaker": "T",
+      "Turn": 80,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Restates the student’s phrase \"Get rid of the radical\" and elaborates by specifying how to do it."
+    },
+    {
+      "ID": 21831,
+      "Speaker": "T",
+      "Turn": 82,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Repeats the student’s answer \"A second power\" and extends it by stating the resulting equation."
+    },
+    {
+      "ID": 21835,
+      "Speaker": "T",
+      "Turn": 85,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21836,
+      "Speaker": "T",
+      "Turn": 85,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Requests the exact numerical value of √9, prompting a precise mathematical answer."
+    },
+    {
+      "ID": 21838,
+      "Speaker": "T",
+      "Turn": 87,
+      "TalkMove": "Restating",
+      "Reasoning": "Echoes the student’s response \"Three\" word for word."
+    },
+    {
+      "ID": 21839,
+      "Speaker": "T",
+      "Turn": 87,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 21840,
+      "Speaker": "T",
+      "Turn": 87,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

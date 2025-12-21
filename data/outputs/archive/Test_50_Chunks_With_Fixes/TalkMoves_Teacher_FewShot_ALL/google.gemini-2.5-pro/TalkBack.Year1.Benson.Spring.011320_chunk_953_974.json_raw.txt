@@ -1,0 +1,132 @@
+[
+  {
+    "records": [
+      {
+        "ID": 953,
+        "Speaker": "T",
+        "Turn": 266,
+        "TalkMove": null,
+        "Reasoning": null
+      },
+      {
+        "ID": 954,
+        "Speaker": "T",
+        "Turn": 266,
+        "TalkMove": null,
+        "Reasoning": null
+      },
+      {
+        "ID": 955,
+        "Speaker": "T",
+        "Turn": 266,
+        "TalkMove": null,
+        "Reasoning": null
+      },
+      {
+        "ID": 957,
+        "Speaker": "T",
+        "Turn": 268,
+        "TalkMove": "Pressing for Accuracy",
+        "Reasoning": "The teacher builds on the student's answer by asking for a more specific mathematical detail."
+      },
+      {
+        "ID": 959,
+        "Speaker": "T",
+        "Turn": 270,
+        "TalkMove": "Restating",
+        "Reasoning": "The teacher repeats the student's answer verbatim."
+      },
+      {
+        "ID": 960,
+        "Speaker": "T",
+        "Turn": 270,
+        "TalkMove": "Revoicing",
+        "Reasoning": "The teacher rephrases the students' contributions into a complete mathematical sentence, clarifying the underlying concept."
+      },
+      {
+        "ID": 961,
+        "Speaker": "T",
+        "Turn": 270,
+        "TalkMove": null,
+        "Reasoning": null
+      },
+      {
+        "ID": 962,
+        "Speaker": "T",
+        "Turn": 270,
+        "TalkMove": "Pressing for Reasoning",
+        "Reasoning": "The teacher asks students to explain the process ('talk to me about what I have to do') to solve the problem."
+      },
+      {
+        "ID": 963,
+        "Speaker": "T",
+        "Turn": 270,
+        "TalkMove": "Pressing for Reasoning",
+        "Reasoning": "The teacher asks a specific student to explain their method ('what did you do'), prompting them to share their reasoning."
+      },
+      {
+        "ID": 965,
+        "Speaker": "T",
+        "Turn": 272,
+        "TalkMove": "Revoicing",
+        "Reasoning": "The teacher attempts to clarify a student's confusing contribution by rephrasing it as a question."
+      },
+      {
+        "ID": 966,
+        "Speaker": "T",
+        "Turn": 272,
+        "TalkMove": "Revoicing",
+        "Reasoning": "The teacher interprets and articulates the student's strategy ('Maddox is saying...') for the rest of the class."
+      },
+      {
+        "ID": 967,
+        "Speaker": "T",
+        "Turn": 272,
+        "TalkMove": "Pressing for Accuracy",
+        "Reasoning": "The teacher prompts students for a specific piece of information needed to carry out the proposed strategy."
+      },
+      {
+        "ID": 968,
+        "Speaker": "T",
+        "Turn": 272,
+        "TalkMove": "Pressing for Accuracy",
+        "Reasoning": "The teacher continues to prompt for a specific mathematical contribution by offering another possibility."
+      },
+      {
+        "ID": 969,
+        "Speaker": "T",
+        "Turn": 272,
+        "TalkMove": "Pressing for Accuracy",
+        "Reasoning": "The teacher continues to prompt for a specific mathematical contribution by offering another possibility."
+      },
+      {
+        "ID": 970,
+        "Speaker": "T",
+        "Turn": 272,
+        "TalkMove": "Pressing for Accuracy",
+        "Reasoning": "The teacher asks a direct question to elicit the specific piece that fits, pressing for a mathematical contribution."
+      },
+      {
+        "ID": 971,
+        "Speaker": "T",
+        "Turn": 272,
+        "TalkMove": null,
+        "Reasoning": null
+      },
+      {
+        "ID": 973,
+        "Speaker": "T",
+        "Turn": 274,
+        "TalkMove": "Restating",
+        "Reasoning": "The teacher repeats the student's answer ('Purple') to confirm it."
+      },
+      {
+        "ID": 974,
+        "Speaker": "T",
+        "Turn": 274,
+        "TalkMove": "Revoicing",
+        "Reasoning": "The teacher rephrases the student's one-word answer into a complete mathematical statement that connects it to the problem context."
+      }
+    ]
+  }
+]

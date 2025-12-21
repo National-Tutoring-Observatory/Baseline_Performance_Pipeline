@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 6899,
+      "Speaker": "T",
+      "Turn": 6899,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 6900,
+      "Speaker": "T",
+      "Turn": 6900,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 6901,
+      "Speaker": "T",
+      "Turn": 6901,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher is asking for a student to volunteer to \"explain their thinking,\" which is a direct prompt for reasoning."
+    },
+    {
+      "ID": 6902,
+      "Speaker": "T",
+      "Turn": 6902,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 6903,
+      "Speaker": "T",
+      "Turn": 6903,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 6904,
+      "Speaker": "T",
+      "Turn": 6904,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 6905,
+      "Speaker": "T",
+      "Turn": 6905,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 6906,
+      "Speaker": "T",
+      "Turn": 6906,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 6907,
+      "Speaker": "T",
+      "Turn": 6907,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 6908,
+      "Speaker": "T",
+      "Turn": 6908,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 6909,
+      "Speaker": "T",
+      "Turn": 6909,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher is directing the class to pay attention to the student who is presenting and to focus on his thinking process."
+    },
+    {
+      "ID": 6913,
+      "Speaker": "T",
+      "Turn": 6913,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher uses the word \"Because\" as a prompt to elicit an explanation or justification from a student."
+    },
+    {
+      "ID": 6915,
+      "Speaker": "T",
+      "Turn": 6915,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks a student to explain \"why\" she disagrees, directly prompting for her reasoning."
+    },
+    {
+      "ID": 6918,
+      "Speaker": "T",
+      "Turn": 6918,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 6919,
+      "Speaker": "T",
+      "Turn": 6919,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher instructs a student to select a classmate who disagrees and have them respond, directly facilitating student-to-student interaction about their ideas."
+    },
+    {
+      "ID": 6922,
+      "Speaker": "T",
+      "Turn": 6922,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to refer back to the original prompt as a form of evidence to support their explanation."
+    },
+    {
+      "ID": 6923,
+      "Speaker": "T",
+      "Turn": 6923,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 6926,
+      "Speaker": "T",
+      "Turn": 6926,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks students to describe the correct mathematical representation (\"what should the picture look like\"), prompting for a precise contribution."
+    },
+    {
+      "ID": 6927,
+      "Speaker": "T",
+      "Turn": 6927,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to identify the \"keywords\" in the problem, focusing their attention on using precise mathematical language."
+    },
+    {
+      "ID": 6928,
+      "Speaker": "T",
+      "Turn": 6928,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher directs the entire class (\"Everybody look and see\") to engage in the same task of identifying keywords in the text."
+    }
+  ]
+}

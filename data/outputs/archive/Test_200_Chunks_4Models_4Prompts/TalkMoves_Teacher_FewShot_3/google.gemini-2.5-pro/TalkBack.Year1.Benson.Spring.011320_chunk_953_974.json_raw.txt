@@ -1,0 +1,59 @@
+[
+  {
+    "ID": 953,
+    "Turn": 266,
+    "Speaker": "T",
+    "Sentence": "Put it on the table by you there",
+    "TalkMove": "None",
+    "Reasoning": null
+  },
+  {
+    "ID": 954,
+    "Turn": 266,
+    "Speaker": "T",
+    "Sentence": "Put it on the table by you",
+    "TalkMove": "None",
+    "Reasoning": null
+  },
+  {
+    "ID": 955,
+    "Turn": 266,
+    "Speaker": "T",
+    "Sentence": "Thank you for your quick transitions looking at number one when yellow piece was half of our shape so how many would it take to make the whole thing",
+    "TalkMove": "Pressing for Accuracy",
+    "Reasoning": "The teacher prompts students for a specific mathematical contribution (a number) based on the definition of 'half'."
+  },
+  {
+    "ID": 957,
+    "Turn": 268,
+    "Speaker": "T",
+    "Sentence": "Two of them if I put two of them together what color does that equal",
+    "TalkMove": "Pressing for Accuracy",
+    "Reasoning": "The teacher prompts students to make a specific mathematical contribution by connecting the number of pieces to a color representation."
+  },
+  {
+    "ID": 959,
+    "Turn": 270,
+    "Speaker": "T",
+    "Sentence": "One pink",
+    "TalkMove": "Restating",
+    "Reasoning": "The teacher repeats the student's contribution."
+  },
+  {
+    "ID": 960,
+    "Turn": 270,
+    "Speaker": "T",
+    "Sentence": "I just did half of it plus another half equaled to two halves or one whole pink okay",
+    "TalkMove": "Revoicing",
+    "Reasoning": "The teacher repeats the student's idea ('one pink') but adds mathematical language and explanation ('half plus another half equaled to two halves')."
+  },
+  {
+    "ID": 961,
+    "Turn": 270,
+    "Speaker": "T",
+    "Sentence": "They always give you the easy one first dont they",
+    "TalkMove": "None",
+    "Reasoning": null
+  },
+  {
+    "ID":

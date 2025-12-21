@@ -1,0 +1,26 @@
+[
+  {
+    "ID": 0,
+    "Turn": 1,
+    "Speaker": "T",
+    "Sentence": "Okay so can you guys see",
+    "TalkMove": "None",
+    "Reasoning": null
+  },
+  {
+    "ID": 2,
+    "Turn": 3,
+    "Speaker": "T",
+    "Sentence": "Yes your learning intention is you can multiply twodigit numbers by twodigit numbers",
+    "TalkMove": "None",
+    "Reasoning": null
+  },
+  {
+    "ID": 3,
+    "Turn": 3,
+    "Speaker": "T",
+    "Sentence": "Were building up our skills two digits by two digits and were going to use partial product strategy",
+    "TalkMove": "None",
+    "Reasoning": null
+  }
+]

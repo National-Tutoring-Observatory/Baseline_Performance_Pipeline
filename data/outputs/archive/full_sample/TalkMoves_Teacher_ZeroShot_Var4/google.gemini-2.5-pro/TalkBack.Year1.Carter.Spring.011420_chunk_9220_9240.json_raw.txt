@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 9220,
+      "Speaker": "T",
+      "Turn": 9220,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher summarizes a student's contribution, rephrasing their idea for the class."
+    },
+    {
+      "ID": 9221,
+      "Speaker": "T",
+      "Turn": 9221,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher continues to summarize and highlight key parts of the student's explanation."
+    },
+    {
+      "ID": 9222,
+      "Speaker": "T",
+      "Turn": 9222,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9223,
+      "Speaker": "T",
+      "Turn": 9223,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to explain the meaning of a vague phrase they have been using."
+    },
+    {
+      "ID": 9224,
+      "Speaker": "T",
+      "Turn": 9224,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9225,
+      "Speaker": "T",
+      "Turn": 9225,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9226,
+      "Speaker": "T",
+      "Turn": 9226,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9227,
+      "Speaker": "T",
+      "Turn": 9227,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9228,
+      "Speaker": "T",
+      "Turn": 9228,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts students to explain the connection between a game and the current mathematical topic."
+    },
+    {
+      "ID": 9229,
+      "Speaker": "T",
+      "Turn": 9229,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to identify the specific mathematical vocabulary word related to the game."
+    },
+    {
+      "ID": 9230,
+      "Speaker": "T",
+      "Turn": 9230,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9231,
+      "Speaker": "T",
+      "Turn": 9231,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9232,
+      "Speaker": "T",
+      "Turn": 9232,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9233,
+      "Speaker": "T",
+      "Turn": 9233,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9234,
+      "Speaker": "T",
+      "Turn": 9234,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9235,
+      "Speaker": "T",
+      "Turn": 9235,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9236,
+      "Speaker": "T",
+      "Turn": 9236,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher repeats the prompt for students to provide a specific mathematical vocabulary word."
+    },
+    {
+      "ID": 9237,
+      "Speaker": "T",
+      "Turn": 9237,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9238,
+      "Speaker": "T",
+      "Turn": 9238,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9240,
+      "Speaker": "T",
+      "Turn": 9240,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

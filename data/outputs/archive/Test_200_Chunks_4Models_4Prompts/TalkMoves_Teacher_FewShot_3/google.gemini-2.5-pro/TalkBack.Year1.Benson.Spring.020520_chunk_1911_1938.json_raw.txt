@@ -1,0 +1,146 @@
+[
+  {
+    "ID": 1911,
+    "Turn": 14,
+    "Speaker": "T",
+    "Sentence": "Conrad what did you get",
+    "TalkMove": "None",
+    "Reasoning": null
+  },
+  {
+    "ID": 1913,
+    "Turn": 16,
+    "Speaker": "T",
+    "Sentence": "Anyone write 03 for that",
+    "TalkMove": "None",
+    "Reasoning": null
+  },
+  {
+    "ID": 1914,
+    "Turn": 16,
+    "Speaker": "T",
+    "Sentence": "Darwin if we wrote 0",
+    "TalkMove": "None",
+    "Reasoning": null
+  },
+  {
+    "ID": 1916,
+    "Turn": 18,
+    "Speaker": "T",
+    "Sentence": "What",
+    "TalkMove": "None",
+    "Reasoning": null
+  },
+  {
+    "ID": 1918,
+    "Turn": 20,
+    "Speaker": "T",
+    "Sentence": "Oh that you were saying Conrad was right",
+    "TalkMove": "Revoicing",
+    "Reasoning": "The teacher rephrases the student's statement ('I meant Conrad is right') to confirm understanding."
+  },
+  {
+    "ID": 1919,
+    "Turn": 20,
+    "Speaker": "T",
+    "Sentence": "79 hundredths",
+    "TalkMove": "None",
+    "Reasoning": null
+  },
+  {
+    "ID": 1920,
+    "Turn": 20,
+    "Speaker": "T",
+    "Sentence": "Ruth what did you write",
+    "TalkMove": "None",
+    "Reasoning": null
+  },
+  {
+    "ID": 1922,
+    "Turn": 22,
+    "Speaker": "T",
+    "Sentence": "Thank you for saying the word and with your decimal because thats what it is",
+    "TalkMove": "None",
+    "Reasoning": null
+  },
+  {
+    "ID": 1923,
+    "Turn": 22,
+    "Speaker": "T",
+    "Sentence": "Alright quick maths of one and 19 hundredths Charlie what did you write",
+    "TalkMove": "None",
+    "Reasoning": null
+  },
+  {
+    "ID": 1925,
+    "Turn": 24,
+    "Speaker": "T",
+    "Sentence": "You wrote nine hundredths",
+    "TalkMove": "Restating",
+    "Reasoning": "The teacher repeats a portion of the student's answer verbatim to highlight it."
+  },
+  {
+    "ID": 1927,
+    "Turn": 26,
+    "Speaker": "T",
+    "Sentence": "0 19 is that what you wrote",
+    "TalkMove": "Pressing for Accuracy",
+    "Reasoning": "The teacher prompts the student to clarify their unclear answer by proposing a specific mathematical representation and asking for confirmation."
+  },
+  {
+    "ID": 1929,
+    "Turn": 28,
+    "Speaker": "T",
+    "Sentence": "Without the what",
+    "TalkMove": "None",
+    "Reasoning": null
+  },
+  {
+    "ID": 1931,
+    "Turn": 30,
+    "Speaker": "T",
+    "Sentence": "Without this one",
+    "TalkMove": "Restating",
+    "Reasoning": "The teacher repeats the student's word ('one') to confirm which digit they are referring to."
+  },
+  {
+    "ID": 1933,
+    "Turn": 32,
+    "Speaker": "T",
+    "Sentence": "You wrote 109",
+    "TalkMove": "Revoicing",
+    "Reasoning": "The teacher synthesizes the student's fragmented responses into a single, coherent representation of their answer for clarification."
+  },
+  {
+    "ID": 1934,
+    "Turn": 32,
+    "Speaker": "T",
+    "Sentence": "How can we fix this",
+    "TalkMove": "Pressing for Accuracy",
+    "Reasoning": "After an error has been identified, the teacher prompts students to provide a correct mathematical contribution."
+  },
+  {
+    "ID": 1935,
+    "Turn": 32,
+    "Speaker": "T",
+    "Sentence": "Daxton",
+    "TalkMove": "None",
+    "Reasoning": null
+  },
+  {
+    "ID": 1937,
+    "Turn": 34,
+    "Speaker": "T",
+    "Sentence": "Okay do you see where your mistake was",
+    "TalkMove": "Pressing for Reasoning",
+    "Reasoning": "The teacher prompts the student to reflect on and explain their own thinking process to identify an error."
+  },
+  {
+    "ID": 1938,
+    "Turn": 34,
+    "Speaker": "T",
+    "Sentence": "Alright eight and two tenths",
+    "TalkMove": "None",
+    "Reasoning": null
+  }
+]

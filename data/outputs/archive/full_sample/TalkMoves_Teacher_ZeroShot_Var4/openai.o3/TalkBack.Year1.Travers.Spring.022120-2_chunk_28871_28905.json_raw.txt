@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 28871,
+      "Speaker": "T",
+      "Turn": 28871,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 28874,
+      "Speaker": "T",
+      "Turn": 28874,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks students to specify the exact location of the line of symmetry on shape C, prompting a precise mathematical answer."
+    },
+    {
+      "ID": 28875,
+      "Speaker": "T",
+      "Turn": 28875,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 28877,
+      "Speaker": "T",
+      "Turn": 28877,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher asks students to explain why the shape is not a square, eliciting their justification."
+    },
+    {
+      "ID": 28879,
+      "Speaker": "T",
+      "Turn": 28879,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher checks for a specific geometric property—whether the shape has four right angles."
+    },
+    {
+      "ID": 28881,
+      "Speaker": "T",
+      "Turn": 28881,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher restates the student’s idea about the absence of four right angles while adding that the shape still has four sides."
+    },
+    {
+      "ID": 28883,
+      "Speaker": "T",
+      "Turn": 28883,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher asks students to predict the result of folding the shape, prompting them to reason about symmetry."
+    },
+    {
+      "ID": 28886,
+      "Speaker": "T",
+      "Turn": 28886,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 28888,
+      "Speaker": "T",
+      "Turn": 28888,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 28889,
+      "Speaker": "T",
+      "Turn": 28889,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks if the shape can be folded at a specific place, seeking confirmation of a correct line of symmetry."
+    },
+    {
+      "ID": 28891,
+      "Speaker": "T",
+      "Turn": 28891,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher checks whether the two halves would coincide exactly, probing for an accurate description of symmetry."
+    },
+    {
+      "ID": 28893,
+      "Speaker": "T",
+      "Turn": 28893,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 28894,
+      "Speaker": "T",
+      "Turn": 28894,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks students to identify additional lines of symmetry, requesting a further precise mathematical contribution."
+    },
+    {
+      "ID": 28895,
+      "Speaker": "T",
+      "Turn": 28895,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 28897,
+      "Speaker": "T",
+      "Turn": 28897,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher points to another potential line and asks about its validity as a line of symmetry."
+    },
+    {
+      "ID": 28899,
+      "Speaker": "T",
+      "Turn": 28899,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher continues to probe for any remaining lines of symmetry, seeking exhaustive and accurate identification."
+    },
+    {
+      "ID": 28901,
+      "Speaker": "T",
+      "Turn": 28901,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 28903,
+      "Speaker": "T",
+      "Turn": 28903,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 28904,
+      "Speaker": "T",
+      "Turn": 28904,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 28905,
+      "Speaker": "T",
+      "Turn": 28905,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

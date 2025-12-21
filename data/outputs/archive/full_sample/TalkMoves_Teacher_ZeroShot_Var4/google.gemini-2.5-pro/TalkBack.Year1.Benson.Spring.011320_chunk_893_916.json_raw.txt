@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 893,
+      "Speaker": "T",
+      "Turn": 893,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks students for a specific mathematical quantity needed to complete the whole."
+    },
+    {
+      "ID": 895,
+      "Speaker": "T",
+      "Turn": 895,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases a likely student response ('one') into a confirmatory question for the class."
+    },
+    {
+      "ID": 896,
+      "Speaker": "T",
+      "Turn": 896,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts students to provide the mathematical reasoning for their previous answer by asking for the sum."
+    },
+    {
+      "ID": 898,
+      "Speaker": "T",
+      "Turn": 898,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's correct answer verbatim."
+    },
+    {
+      "ID": 899,
+      "Speaker": "T",
+      "Turn": 899,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 900,
+      "Speaker": "T",
+      "Turn": 900,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks students to identify the specific colored piece that corresponds to the mathematical whole."
+    },
+    {
+      "ID": 901,
+      "Speaker": "T",
+      "Turn": 901,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 902,
+      "Speaker": "T",
+      "Turn": 902,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 903,
+      "Speaker": "T",
+      "Turn": 903,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher repeats the question, pressing students to identify the correct colored piece."
+    },
+    {
+      "ID": 904,
+      "Speaker": "T",
+      "Turn": 904,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 905,
+      "Speaker": "T",
+      "Turn": 905,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 906,
+      "Speaker": "T",
+      "Turn": 906,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 907,
+      "Speaker": "T",
+      "Turn": 907,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 908,
+      "Speaker": "T",
+      "Turn": 908,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 909,
+      "Speaker": "T",
+      "Turn": 909,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a specific student to share their answer."
+    },
+    {
+      "ID": 911,
+      "Speaker": "T",
+      "Turn": 911,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats a student's answer ('yellow') and adds on an instruction for the rest of the class to verify it."
+    },
+    {
+      "ID": 913,
+      "Speaker": "T",
+      "Turn": 913,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher summarizes the class's finding by rephrasing the mathematical equivalence in terms of the manipulative pieces."
+    },
+    {
+      "ID": 914,
+      "Speaker": "T",
+      "Turn": 914,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 915,
+      "Speaker": "T",
+      "Turn": 915,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 916,
+      "Speaker": "T",
+      "Turn": 916,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

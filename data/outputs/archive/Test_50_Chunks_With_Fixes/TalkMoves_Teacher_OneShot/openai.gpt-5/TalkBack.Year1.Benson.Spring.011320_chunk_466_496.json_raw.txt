@@ -1,0 +1,165 @@
+{
+  "records": [
+    {
+      "ID": 467,
+      "Speaker": "T",
+      "Turn": 44,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 468,
+      "Speaker": "T",
+      "Turn": 44,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the specific factor used to get from 4 to 12, prompting a precise mathematical detail."
+    },
+    {
+      "ID": 469,
+      "Speaker": "T",
+      "Turn": 44,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 471,
+      "Speaker": "T",
+      "Turn": 46,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 472,
+      "Speaker": "T",
+      "Turn": 46,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 473,
+      "Speaker": "T",
+      "Turn": 46,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 474,
+      "Speaker": "T",
+      "Turn": 46,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 475,
+      "Speaker": "T",
+      "Turn": 46,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 476,
+      "Speaker": "T",
+      "Turn": 46,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 477,
+      "Speaker": "T",
+      "Turn": 46,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks Bryce to describe what he did, prompting explanation of his method."
+    },
+    {
+      "ID": 479,
+      "Speaker": "T",
+      "Turn": 48,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher restates the student's strategy in their own words, confirming it as using multiples."
+    },
+    {
+      "ID": 480,
+      "Speaker": "T",
+      "Turn": 48,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher adds specificity to the student's idea by clarifying it was multiples of 2."
+    },
+    {
+      "ID": 482,
+      "Speaker": "T",
+      "Turn": 50,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher summarizes the student's approach by articulating the specific multiples listed (2, 4, 6)."
+    },
+    {
+      "ID": 484,
+      "Speaker": "T",
+      "Turn": 52,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 485,
+      "Speaker": "T",
+      "Turn": 52,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts Ryder to explain how the approach makes sense, eliciting justification."
+    },
+    {
+      "ID": 486,
+      "Speaker": "T",
+      "Turn": 52,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher asks about Bryce’s choice, prompting a student to interpret and respond to a peer’s idea."
+    },
+    {
+      "ID": 489,
+      "Speaker": "T",
+      "Turn": 54,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 490,
+      "Speaker": "T",
+      "Turn": 54,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher invites others to add suggestions about the discussed method, prompting reactions to the current idea."
+    },
+    {
+      "ID": 491,
+      "Speaker": "T",
+      "Turn": 54,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 492,
+      "Speaker": "T",
+      "Turn": 54,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 493,
+      "Speaker": "T",
+      "Turn": 54,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the equivalent fraction the student found, eliciting a specific mathematical result."
+    },
+    {
+      "ID": 495,
+      "Speaker": "T",
+      "Turn": 56,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 496,
+      "Speaker": "T",
+      "Turn": 56,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to provide another equivalent, eliciting an additional mathematical contribution."
+    }
+  ]
+}

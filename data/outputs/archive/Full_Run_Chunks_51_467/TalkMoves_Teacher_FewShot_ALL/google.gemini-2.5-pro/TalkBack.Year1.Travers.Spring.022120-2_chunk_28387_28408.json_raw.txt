@@ -1,0 +1,102 @@
+{
+  "records": [
+    {
+      "ID": 28389,
+      "Speaker": "T",
+      "Turn": 75,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases the student's idea of taking 'half of' a half turn into a more formal mathematical statement."
+    },
+    {
+      "ID": 28391,
+      "Speaker": "T",
+      "Turn": 77,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher offers an alternative mathematical phrasing for the idea that was just confirmed, further clarifying the student's contribution."
+    },
+    {
+      "ID": 28393,
+      "Speaker": "T",
+      "Turn": 79,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to apply the established idea of a 'one quarter turn' to the specific problem and state the precise outcome."
+    },
+    {
+      "ID": 28396,
+      "Speaker": "T",
+      "Turn": 81,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher verbalizes the student's non-verbal or minimal response ('Like that') to make the idea public and clear."
+    },
+    {
+      "ID": 28398,
+      "Speaker": "T",
+      "Turn": 83,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's confirmed idea in a full, clear sentence to summarize the proposed solution."
+    },
+    {
+      "ID": 28399,
+      "Speaker": "T",
+      "Turn": 83,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher explicitly checks if their rephrasing of the student's idea is correct, which is a component of the revoicing move."
+    },
+    {
+      "ID": 28400,
+      "Speaker": "T",
+      "Turn": 83,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the key phrase from the discussion for emphasis."
+    },
+    {
+      "ID": 28401,
+      "Speaker": "T",
+      "Turn": 83,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher asks the rest of the class to evaluate the idea that has been developed with the student."
+    },
+    {
+      "ID": 28403,
+      "Speaker": "T",
+      "Turn": 85,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 28404,
+      "Speaker": "T",
+      "Turn": 85,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 28405,
+      "Speaker": "T",
+      "Turn": 85,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 28406,
+      "Speaker": "T",
+      "Turn": 85,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 28407,
+      "Speaker": "T",
+      "Turn": 85,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 28408,
+      "Speaker": "T",
+      "Turn": 85,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

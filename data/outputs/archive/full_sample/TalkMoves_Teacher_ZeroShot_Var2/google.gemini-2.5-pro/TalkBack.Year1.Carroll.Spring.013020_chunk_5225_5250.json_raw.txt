@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 5225,
+      "Speaker": "T",
+      "Turn": 5225,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for a specific mathematical term."
+    },
+    {
+      "ID": 5226,
+      "Speaker": "T",
+      "Turn": 5226,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for a specific mathematical convention."
+    },
+    {
+      "ID": 5228,
+      "Speaker": "T",
+      "Turn": 5228,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5230,
+      "Speaker": "T",
+      "Turn": 5230,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases a student's description of the origin."
+    },
+    {
+      "ID": 5231,
+      "Speaker": "T",
+      "Turn": 5231,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the correct term for the first coordinate in a pair."
+    },
+    {
+      "ID": 5232,
+      "Speaker": "T",
+      "Turn": 5232,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher provides options to prompt for the correct mathematical term."
+    },
+    {
+      "ID": 5234,
+      "Speaker": "T",
+      "Turn": 5234,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's one-word answer verbatim."
+    },
+    {
+      "ID": 5235,
+      "Speaker": "T",
+      "Turn": 5235,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's idea while adding words to make it a more complete mathematical statement."
+    },
+    {
+      "ID": 5236,
+      "Speaker": "T",
+      "Turn": 5236,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher applies the established rule about the x-coordinate to the problem, rephrasing the task instructions."
+    },
+    {
+      "ID": 5237,
+      "Speaker": "T",
+      "Turn": 5237,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the definition of a mathematical term."
+    },
+    {
+      "ID": 5238,
+      "Speaker": "T",
+      "Turn": 5238,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher rephrases the question asking for a definition."
+    },
+    {
+      "ID": 5240,
+      "Speaker": "T",
+      "Turn": 5240,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's contribution word for word."
+    },
+    {
+      "ID": 5241,
+      "Speaker": "T",
+      "Turn": 5241,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher takes the student's idea and adds context and precision related to the problem."
+    },
+    {
+      "ID": 5242,
+      "Speaker": "T",
+      "Turn": 5242,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's contribution for emphasis."
+    },
+    {
+      "ID": 5245,
+      "Speaker": "T",
+      "Turn": 5245,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher confirms a student's idea and adds a clarifying statement."
+    },
+    {
+      "ID": 5246,
+      "Speaker": "T",
+      "Turn": 5246,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases the previous statement using more precise mathematical language (y-axis)."
+    },
+    {
+      "ID": 5247,
+      "Speaker": "T",
+      "Turn": 5247,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5248,
+      "Speaker": "T",
+      "Turn": 5248,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5249,
+      "Speaker": "T",
+      "Turn": 5249,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5250,
+      "Speaker": "T",
+      "Turn": 5250,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

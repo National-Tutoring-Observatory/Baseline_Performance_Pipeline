@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 764,
+      "Speaker": "T",
+      "Turn": 764,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 765,
+      "Speaker": "T",
+      "Turn": 765,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 767,
+      "Speaker": "T",
+      "Turn": 767,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Teacher directs the entire class to focus on the same problem (‘everyone look at number two’)."
+    },
+    {
+      "ID": 768,
+      "Speaker": "T",
+      "Turn": 768,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks for the specific manipulative piece needed, prompting a precise mathematical contribution."
+    },
+    {
+      "ID": 770,
+      "Speaker": "T",
+      "Turn": 770,
+      "TalkMove": "Restating",
+      "Reasoning": "Teacher echoes the student’s response exactly (‘A light green’)."
+    },
+    {
+      "ID": 771,
+      "Speaker": "T",
+      "Turn": 771,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 772,
+      "Speaker": "T",
+      "Turn": 772,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 773,
+      "Speaker": "T",
+      "Turn": 773,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks for the value of the whole when one‐fourth is known, seeking a correct mathematical answer."
+    },
+    {
+      "ID": 774,
+      "Speaker": "T",
+      "Turn": 774,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher prompts student to use the denominator to explain how many parts make the whole."
+    },
+    {
+      "ID": 776,
+      "Speaker": "T",
+      "Turn": 776,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 778,
+      "Speaker": "T",
+      "Turn": 778,
+      "TalkMove": "Restating",
+      "Reasoning": "Teacher repeats the quantity (‘Four of them’), echoing the student’s answer."
+    },
+    {
+      "ID": 779,
+      "Speaker": "T",
+      "Turn": 779,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks for the exact number of light green pieces needed, soliciting a precise answer."
+    },
+    {
+      "ID": 781,
+      "Speaker": "T",
+      "Turn": 781,
+      "TalkMove": "Restating",
+      "Reasoning": "Teacher repeats the numerical answer (‘Four’) just given by the student."
+    },
+    {
+      "ID": 782,
+      "Speaker": "T",
+      "Turn": 782,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher asks student to articulate what was just demonstrated, eliciting explanation."
+    },
+    {
+      "ID": 783,
+      "Speaker": "T",
+      "Turn": 783,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher probes for what was added together after identifying one fourth, prompting the student to connect ideas."
+    },
+    {
+      "ID": 785,
+      "Speaker": "T",
+      "Turn": 785,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 786,
+      "Speaker": "T",
+      "Turn": 786,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks students to identify the value represented (‘This is what three fourths?’), requesting the correct term."
+    },
+    {
+      "ID": 787,
+      "Speaker": "T",
+      "Turn": 787,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher seeks the exact value of the final piece with ‘What’s this one worth?’"
+    },
+    {
+      "ID": 789,
+      "Speaker": "T",
+      "Turn": 789,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The incomplete prompt ‘One fourth plus’ requires students to supply the precise next amount."
+    },
+    {
+      "ID": 791,
+      "Speaker": "T",
+      "Turn": 791,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher asks students to evaluate if the constructed pieces make a whole, prompting justification."
+    }
+  ]
+}

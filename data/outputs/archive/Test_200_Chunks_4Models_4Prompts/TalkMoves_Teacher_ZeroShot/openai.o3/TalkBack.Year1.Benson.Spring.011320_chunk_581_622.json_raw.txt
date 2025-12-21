@@ -1,0 +1,172 @@
+{
+  "records": [
+    {
+      "ID": 581,
+      "Speaker": "T",
+      "Turn": 102
+    },
+    {
+      "ID": 582,
+      "Speaker": "T",
+      "Turn": 102,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks whether anyone at the middle table \"did any math,\" prompting them to offer a mathematical contribution."
+    },
+    {
+      "ID": 584,
+      "Speaker": "T",
+      "Turn": 104,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "By noting \"I haven’t heard from you,\" the teacher encourages participation from a student who has not yet contributed, orienting the class toward including everyone."
+    },
+    {
+      "ID": 585,
+      "Speaker": "T",
+      "Turn": 104,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Invites Caleb to explain his work by saying \"tell me what you did,\" seeking the thinking behind his solution."
+    },
+    {
+      "ID": 587,
+      "Speaker": "T",
+      "Turn": 106,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Asks \"Why did you do that?\" prompting the student to justify the steps taken."
+    },
+    {
+      "ID": 591,
+      "Speaker": "T",
+      "Turn": 108,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Queries whether the student has another numerical example, soliciting an additional mathematical result."
+    },
+    {
+      "ID": 595,
+      "Speaker": "T",
+      "Turn": 110
+    },
+    {
+      "ID": 596,
+      "Speaker": "T",
+      "Turn": 110,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks if anyone reduced the fraction to a smaller one, requesting a specific mathematical outcome."
+    },
+    {
+      "ID": 599,
+      "Speaker": "T",
+      "Turn": 112
+    },
+    {
+      "ID": 600,
+      "Speaker": "T",
+      "Turn": 112
+    },
+    {
+      "ID": 601,
+      "Speaker": "T",
+      "Turn": 112
+    },
+    {
+      "ID": 602,
+      "Speaker": "T",
+      "Turn": 113
+    },
+    {
+      "ID": 603,
+      "Speaker": "T",
+      "Turn": 113
+    },
+    {
+      "ID": 604,
+      "Speaker": "T",
+      "Turn": 114
+    },
+    {
+      "ID": 605,
+      "Speaker": "T",
+      "Turn": 115
+    },
+    {
+      "ID": 606,
+      "Speaker": "T",
+      "Turn": 115
+    },
+    {
+      "ID": 607,
+      "Speaker": "T",
+      "Turn": 115
+    },
+    {
+      "ID": 608,
+      "Speaker": "T",
+      "Turn": 115,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Repeats the request for someone to provide a reduced form of the fraction, seeking a precise mathematical answer."
+    },
+    {
+      "ID": 609,
+      "Speaker": "T",
+      "Turn": 115,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Poses a scenario (6/100) and asks if there is a smaller equivalent, encouraging students to reason about fraction reduction."
+    },
+    {
+      "ID": 610,
+      "Speaker": "T",
+      "Turn": 116,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Directly invites Sophie’s thinking with \"What do you think,\" prompting her to articulate her reasoning."
+    },
+    {
+      "ID": 612,
+      "Speaker": "T",
+      "Turn": 117,
+      "TalkMove": "Restating",
+      "Reasoning": "Teacher repeats the student’s proposed fraction \"6/10\" verbatim."
+    },
+    {
+      "ID": 613,
+      "Speaker": "T",
+      "Turn": 117,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Encourages students to use place-value understanding, prompting them to think through and justify the fraction reduction."
+    },
+    {
+      "ID": 614,
+      "Speaker": "T",
+      "Turn": 117,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks for the exact number of tenths corresponding to 60/100, eliciting a specific numerical answer."
+    },
+    {
+      "ID": 616,
+      "Speaker": "T",
+      "Turn": 119,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher rephrases the student’s answer \"Six\" as \"Six of them,\" restating with slight modification."
+    },
+    {
+      "ID": 617,
+      "Speaker": "T",
+      "Turn": 119
+    },
+    {
+      "ID": 618,
+      "Speaker": "T",
+      "Turn": 119
+    },
+    {
+      "ID": 619,
+      "Speaker": "T",
+      "Turn": 119
+    },
+    {
+      "ID": 621,
+      "Speaker": "T",
+      "Turn": 121,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The brief question \"What\" signals the student to state their mathematical idea explicitly."
+    }
+  ]
+}

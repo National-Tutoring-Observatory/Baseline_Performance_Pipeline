@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 9110,
+      "Speaker": "T",
+      "Turn": 9110,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9111,
+      "Speaker": "T",
+      "Turn": 9111,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9112,
+      "Speaker": "T",
+      "Turn": 9112,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9113,
+      "Speaker": "T",
+      "Turn": 9113,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks a student to explain the utility or application of a mathematical concept ('one use for equivalent fractions'), which prompts for conceptual understanding beyond just calculation."
+    },
+    {
+      "ID": 9118,
+      "Speaker": "T",
+      "Turn": 9118,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9119,
+      "Speaker": "T",
+      "Turn": 9119,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9120,
+      "Speaker": "T",
+      "Turn": 9120,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9121,
+      "Speaker": "T",
+      "Turn": 9121,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks for an alternative use or application of the concept, pushing students to think about the 'why' or 'how' beyond the standard algorithm."
+    },
+    {
+      "ID": 9122,
+      "Speaker": "T",
+      "Turn": 9122,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher specifically asks a student for an idea regarding the use of the concept, prompting for explanation or justification of utility."
+    },
+    {
+      "ID": 9124,
+      "Speaker": "T",
+      "Turn": 9124,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks 'Why would we want to do that', which is a direct prompt for justification and explanation of the student's previous idea."
+    },
+    {
+      "ID": 9125,
+      "Speaker": "T",
+      "Turn": 9125,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9126,
+      "Speaker": "T",
+      "Turn": 9126,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher repeats the question 'why would you want to do that', continuing to press the student to justify the utility of their idea."
+    },
+    {
+      "ID": 9128,
+      "Speaker": "T",
+      "Turn": 9128,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9129,
+      "Speaker": "T",
+      "Turn": 9129,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher summarizes what the student has done ('Youve come up with different equivalent fractions'), rephrasing the student's contribution."
+    },
+    {
+      "ID": 9130,
+      "Speaker": "T",
+      "Turn": 9130,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the class for a 'different way' or use, prompting for further conceptual connections or alternative explanations."
+    },
+    {
+      "ID": 9131,
+      "Speaker": "T",
+      "Turn": 9131,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher solicits 'a different idea', encouraging students to share their thinking or alternative perspectives."
+    },
+    {
+      "ID": 9132,
+      "Speaker": "T",
+      "Turn": 9132,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9133,
+      "Speaker": "T",
+      "Turn": 9133,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher repeats the core question asking for the 'use' of the concept, prompting students to connect the math to a purpose or reason."
+    },
+    {
+      "ID": 9134,
+      "Speaker": "T",
+      "Turn": 9134,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher calls on a specific student (ALexis) to share, orienting the class to listen to that student's contribution."
+    },
+    {
+      "ID": 9137,
+      "Speaker": "T",
+      "Turn": 9137,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats and refines the student's idea ('More comprehensible easy to use'), validating and clarifying the contribution."
+    }
+  ]
+}

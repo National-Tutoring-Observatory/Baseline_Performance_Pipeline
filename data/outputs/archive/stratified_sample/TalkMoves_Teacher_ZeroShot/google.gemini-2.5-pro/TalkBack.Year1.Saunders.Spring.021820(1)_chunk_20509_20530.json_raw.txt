@@ -1,0 +1,116 @@
+{
+  "records": [
+    {
+      "ID": 20509,
+      "Turn": 76,
+      "Speaker": "T",
+      "Sentence": "Your house",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20511,
+      "Turn": 78,
+      "Speaker": "T",
+      "Sentence": "Yes",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20512,
+      "Turn": 78,
+      "Speaker": "T",
+      "Sentence": "How did you come here",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20513,
+      "Turn": 79,
+      "Speaker": "T",
+      "Sentence": "All right were going to be on page 201",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20515,
+      "Turn": 81,
+      "Speaker": "T",
+      "Sentence": "Textbook",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20516,
+      "Turn": 81,
+      "Speaker": "T",
+      "Sentence": "Textbook 201",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20517,
+      "Turn": 82,
+      "Speaker": "T",
+      "Sentence": "All right page 201",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20518,
+      "Turn": 83,
+      "Speaker": "T",
+      "Sentence": "All right lets get those phones put away gentlemen",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20524,
+      "Turn": 88,
+      "Speaker": "T",
+      "Sentence": "All right so I want to walk you through several examples here",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20525,
+      "Turn": 88,
+      "Speaker": "T",
+      "Sentence": "In this first one the recommendation is to factor out any perfect cube",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20526,
+      "Turn": 88,
+      "Speaker": "T",
+      "Sentence": "Now we havent worked with perfect cubes very much so we kind of have to start thinking about that",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20527,
+      "Turn": 88,
+      "Speaker": "T",
+      "Sentence": "What would 23 be",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to make a specific mathematical contribution by asking for the value of 2 cubed."
+    },
+    {
+      "ID": 20529,
+      "Turn": 90,
+      "Speaker": "T",
+      "Sentence": "Eight",
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's answer 'Eight' verbatim to confirm and amplify it for the class."
+    },
+    {
+      "ID": 20530,
+      "Turn": 90,
+      "Speaker": "T",
+      "Sentence": "33",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to make another specific mathematical contribution by asking for the value of 3 cubed."
+    }
+  ]
+}

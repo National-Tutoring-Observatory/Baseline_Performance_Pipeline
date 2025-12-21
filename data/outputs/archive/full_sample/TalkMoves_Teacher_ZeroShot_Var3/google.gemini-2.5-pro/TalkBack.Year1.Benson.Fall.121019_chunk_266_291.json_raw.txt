@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 266,
+      "Speaker": "T",
+      "Turn": 266,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 267,
+      "Speaker": "T",
+      "Turn": 267,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 269,
+      "Speaker": "T",
+      "Turn": 269,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 271,
+      "Speaker": "T",
+      "Turn": 271,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 272,
+      "Speaker": "T",
+      "Turn": 272,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students who made an error to identify what they needed to do to make their work \"correct and accurate.\""
+    },
+    {
+      "ID": 273,
+      "Speaker": "T",
+      "Turn": 273,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 274,
+      "Speaker": "T",
+      "Turn": 274,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 275,
+      "Speaker": "T",
+      "Turn": 275,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 276,
+      "Speaker": "T",
+      "Turn": 276,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 277,
+      "Speaker": "T",
+      "Turn": 277,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 278,
+      "Speaker": "T",
+      "Turn": 278,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 279,
+      "Speaker": "T",
+      "Turn": 279,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to compare two problems and explain the difference, prompting them to reason about the numbers involved."
+    },
+    {
+      "ID": 280,
+      "Speaker": "T",
+      "Turn": 280,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 282,
+      "Speaker": "T",
+      "Turn": 282,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's idea (that 17 is not a 'ten' number) and rephrases it using more precise mathematical language, \"multiple of 10.\""
+    },
+    {
+      "ID": 283,
+      "Speaker": "T",
+      "Turn": 283,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 285,
+      "Speaker": "T",
+      "Turn": 285,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 286,
+      "Speaker": "T",
+      "Turn": 286,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 287,
+      "Speaker": "T",
+      "Turn": 287,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a direct question about place value, prompting the student for a specific and correct mathematical fact."
+    },
+    {
+      "ID": 289,
+      "Speaker": "T",
+      "Turn": 289,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a direct question about place value, prompting the student for a specific and correct mathematical fact."
+    },
+    {
+      "ID": 291,
+      "Speaker": "T",
+      "Turn": 291,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a specific student a direct question about place value, prompting for a correct mathematical contribution."
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 22125,
+      "Speaker": "T",
+      "Turn": 22125,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22127,
+      "Speaker": "T",
+      "Turn": 22127,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's informal phrase \"the flippy thingy\" verbatim."
+    },
+    {
+      "ID": 22129,
+      "Speaker": "T",
+      "Turn": 22129,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to be more specific about what \"the flippy thingy\" refers to, pushing for a more precise mathematical contribution."
+    },
+    {
+      "ID": 22131,
+      "Speaker": "T",
+      "Turn": 22131,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's contribution \"The three fourth\" verbatim."
+    },
+    {
+      "ID": 22132,
+      "Speaker": "T",
+      "Turn": 22132,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student for the specific mathematical term for \"flipping\" a fraction."
+    },
+    {
+      "ID": 22135,
+      "Speaker": "T",
+      "Turn": 22135,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the mathematical term \"reciprocal,\" likely provided by a student."
+    },
+    {
+      "ID": 22137,
+      "Speaker": "T",
+      "Turn": 22137,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22138,
+      "Speaker": "T",
+      "Turn": 22138,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22140,
+      "Speaker": "T",
+      "Turn": 22140,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22141,
+      "Speaker": "T",
+      "Turn": 22141,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22142,
+      "Speaker": "T",
+      "Turn": 22142,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to share their strategy or thought process for solving the problem."
+    },
+    {
+      "ID": 22145,
+      "Speaker": "T",
+      "Turn": 22145,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22146,
+      "Speaker": "T",
+      "Turn": 22146,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22147,
+      "Speaker": "T",
+      "Turn": 22147,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22148,
+      "Speaker": "T",
+      "Turn": 22148,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22149,
+      "Speaker": "T",
+      "Turn": 22149,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases a student's likely procedural explanation into a statement about the strategic efficiency of their method, adding interpretation."
+    },
+    {
+      "ID": 22150,
+      "Speaker": "T",
+      "Turn": 22150,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22151,
+      "Speaker": "T",
+      "Turn": 22151,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22152,
+      "Speaker": "T",
+      "Turn": 22152,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22153,
+      "Speaker": "T",
+      "Turn": 22153,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

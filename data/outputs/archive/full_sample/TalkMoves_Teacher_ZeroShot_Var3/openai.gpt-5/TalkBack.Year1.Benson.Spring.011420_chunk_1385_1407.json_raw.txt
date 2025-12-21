@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 1385,
+      "Speaker": "T",
+      "Turn": 1385,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 1386,
+      "Speaker": "T",
+      "Turn": 1386,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 1387,
+      "Speaker": "T",
+      "Turn": 1387,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 1388,
+      "Speaker": "T",
+      "Turn": 1388,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 1389,
+      "Speaker": "T",
+      "Turn": 1389,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 1391,
+      "Speaker": "T",
+      "Turn": 1391,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher checks whether all students obtained the answer, orienting the whole class together."
+    },
+    {
+      "ID": 1393,
+      "Speaker": "T",
+      "Turn": 1393,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 1394,
+      "Speaker": "T",
+      "Turn": 1394,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 1395,
+      "Speaker": "T",
+      "Turn": 1395,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher restates the class’s prior conclusion that one mile is the whole, rephrasing it for the group."
+    },
+    {
+      "ID": 1396,
+      "Speaker": "T",
+      "Turn": 1396,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 1397,
+      "Speaker": "T",
+      "Turn": 1397,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks what each mile should be split into, prompting a precise mathematical description."
+    },
+    {
+      "ID": 1398,
+      "Speaker": "T",
+      "Turn": 1398,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to name the fraction for the partition."
+    },
+    {
+      "ID": 1399,
+      "Speaker": "T",
+      "Turn": 1399,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the exact number of parts, pressing for a precise quantity."
+    },
+    {
+      "ID": 1400,
+      "Speaker": "T",
+      "Turn": 1400,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 1401,
+      "Speaker": "T",
+      "Turn": 1401,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a student to specify how many parts to cut the miles into, prompting precise mathematical language."
+    },
+    {
+      "ID": 1402,
+      "Speaker": "T",
+      "Turn": 1402,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher reiterates the need for an exact count of equal parts."
+    },
+    {
+      "ID": 1404,
+      "Speaker": "T",
+      "Turn": 1404,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student’s answer “eight” verbatim."
+    },
+    {
+      "ID": 1405,
+      "Speaker": "T",
+      "Turn": 1405,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 1406,
+      "Speaker": "T",
+      "Turn": 1406,
+      "TalkMove": "None",
+      "Reasoning": null
+    },
+    {
+      "ID": 1407,
+      "Speaker": "T",
+      "Turn": 1407,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks for justification of why eight equal parts are appropriate."
+    }
+  ]
+}

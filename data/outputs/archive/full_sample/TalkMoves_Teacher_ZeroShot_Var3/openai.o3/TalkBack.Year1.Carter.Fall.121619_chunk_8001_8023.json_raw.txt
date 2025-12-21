@@ -1,0 +1,126 @@
+{
+  "records": [
+    {
+      "ID": 8001,
+      "Speaker": "T",
+      "Turn": 8001
+    },
+    {
+      "ID": 8002,
+      "Speaker": "T",
+      "Turn": 8002
+    },
+    {
+      "ID": 8003,
+      "Speaker": "T",
+      "Turn": 8003
+    },
+    {
+      "ID": 8004,
+      "Speaker": "T",
+      "Turn": 8004,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher asks students to identify an effective strategy and implicitly justify why it works for them."
+    },
+    {
+      "ID": 8005,
+      "Speaker": "T",
+      "Turn": 8005,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher again prompts students to name and discuss the effective strategies they used, requesting explanation."
+    },
+    {
+      "ID": 8006,
+      "Speaker": "T",
+      "Turn": 8006,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Teacher directs students to discuss with their shoulder partner, orienting everyone to shared participation."
+    },
+    {
+      "ID": 8007,
+      "Speaker": "T",
+      "Turn": 8007,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Teacher manages turn-taking ('B goes first'), ensuring equitable participation in partner talk."
+    },
+    {
+      "ID": 8008,
+      "Speaker": "T",
+      "Turn": 8008,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The cue 'Ready go' synchronizes the start of partner discussion so the whole class proceeds together."
+    },
+    {
+      "ID": 8009,
+      "Speaker": "T",
+      "Turn": 8009
+    },
+    {
+      "ID": 8010,
+      "Speaker": "T",
+      "Turn": 8010
+    },
+    {
+      "ID": 8011,
+      "Speaker": "T",
+      "Turn": 8011,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Calling on a specific student ('Go Quinn') assigns the floor and keeps the class oriented to the next speaker."
+    },
+    {
+      "ID": 8012,
+      "Speaker": "T",
+      "Turn": 8012,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Prompting a student to answer keeps the discussion moving and maintains collective focus."
+    },
+    {
+      "ID": 8015,
+      "Speaker": "T",
+      "Turn": 8015,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher asks Brody to explain his choice ('why are you using that'), requesting the reasoning behind the decision."
+    },
+    {
+      "ID": 8017,
+      "Speaker": "T",
+      "Turn": 8017,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher restates a student’s point in her own words, emphasizing that lack of understanding can make a strategy slower."
+    },
+    {
+      "ID": 8018,
+      "Speaker": "T",
+      "Turn": 8018,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Teacher seeks whole-class agreement, aligning everyone around the idea that efficiency varies by person."
+    },
+    {
+      "ID": 8019,
+      "Speaker": "T",
+      "Turn": 8019
+    },
+    {
+      "ID": 8020,
+      "Speaker": "T",
+      "Turn": 8020
+    },
+    {
+      "ID": 8021,
+      "Speaker": "T",
+      "Turn": 8021
+    },
+    {
+      "ID": 8022,
+      "Speaker": "T",
+      "Turn": 8022,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher invites students to reflect on how well they meet the success criteria, prompting them to articulate their understanding."
+    },
+    {
+      "ID": 8023,
+      "Speaker": "T",
+      "Turn": 8023
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 764,
+      "Speaker": "T",
+      "Turn": 764,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 765,
+      "Speaker": "T",
+      "Turn": 765,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 767,
+      "Speaker": "T",
+      "Turn": 767,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher orients the class to focus on the same problem: 'everyone look at number two.'"
+    },
+    {
+      "ID": 768,
+      "Speaker": "T",
+      "Turn": 768,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks for the specific piece needed, prompting a precise mathematical identification."
+    },
+    {
+      "ID": 770,
+      "Speaker": "T",
+      "Turn": 770,
+      "TalkMove": "Restating",
+      "Reasoning": "Repeats the student’s response ('a light green') verbatim."
+    },
+    {
+      "ID": 771,
+      "Speaker": "T",
+      "Turn": 771,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 772,
+      "Speaker": "T",
+      "Turn": 772,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Prompts the student to state the problem text accurately ('what does number two say')."
+    },
+    {
+      "ID": 773,
+      "Speaker": "T",
+      "Turn": 773,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks for the correct identification of the whole given 1/4 as the part."
+    },
+    {
+      "ID": 774,
+      "Speaker": "T",
+      "Turn": 774,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Presses for the exact number of parts needed to make the whole."
+    },
+    {
+      "ID": 776,
+      "Speaker": "T",
+      "Turn": 776,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 778,
+      "Speaker": "T",
+      "Turn": 778,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Echoes the student’s answer and clarifies it as 'Four of them,' adding wording."
+    },
+    {
+      "ID": 779,
+      "Speaker": "T",
+      "Turn": 779,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks for the specific number of pieces to take out."
+    },
+    {
+      "ID": 781,
+      "Speaker": "T",
+      "Turn": 781,
+      "TalkMove": "Restating",
+      "Reasoning": "Repeats the numerical answer ('Four') just given by a student."
+    },
+    {
+      "ID": 782,
+      "Speaker": "T",
+      "Turn": 782,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Invites the student to articulate what the representation shows."
+    },
+    {
+      "ID": 783,
+      "Speaker": "T",
+      "Turn": 783,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks students to identify exactly what was added together."
+    },
+    {
+      "ID": 785,
+      "Speaker": "T",
+      "Turn": 785,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 786,
+      "Speaker": "T",
+      "Turn": 786,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Prompts students to name the fraction represented (three fourths)."
+    },
+    {
+      "ID": 787,
+      "Speaker": "T",
+      "Turn": 787,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Asks for the value of the specific piece."
+    },
+    {
+      "ID": 789,
+      "Speaker": "T",
+      "Turn": 789,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Elicits the next addend to complete the expression (one fourth plus ...)."
+    },
+    {
+      "ID": 791,
+      "Speaker": "T",
+      "Turn": 791,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Checks whether the constructed pieces make a whole."
+    }
+  ]
+}

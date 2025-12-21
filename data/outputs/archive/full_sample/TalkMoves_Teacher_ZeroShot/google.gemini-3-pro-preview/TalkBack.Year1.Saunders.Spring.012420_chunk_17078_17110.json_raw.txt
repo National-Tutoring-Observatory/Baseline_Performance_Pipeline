@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 17078,
+      "Speaker": "T",
+      "Turn": 17078,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a specific question requiring students to identify a precise point in time based on the condition of equal profit."
+    },
+    {
+      "ID": 17081,
+      "Speaker": "T",
+      "Turn": 17081,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats a student's answer ('2008') word for word."
+    },
+    {
+      "ID": 17083,
+      "Speaker": "T",
+      "Turn": 17083,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher acknowledges and repeats another student's identical answer."
+    },
+    {
+      "ID": 17084,
+      "Speaker": "T",
+      "Turn": 17084,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the class consensus ('We're thinking 2008') and adds on the mathematical interpretation that this represents a horizontal line."
+    },
+    {
+      "ID": 17085,
+      "Speaker": "T",
+      "Turn": 17085,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17086,
+      "Speaker": "T",
+      "Turn": 17086,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17088,
+      "Speaker": "T",
+      "Turn": 17088,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for a specific data point ('When did I make the least')."
+    },
+    {
+      "ID": 17090,
+      "Speaker": "T",
+      "Turn": 17090,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17091,
+      "Speaker": "T",
+      "Turn": 17091,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17092,
+      "Speaker": "T",
+      "Turn": 17092,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher uses a sentence completion prompt to elicit the specific calculated year from the students."
+    },
+    {
+      "ID": 17095,
+      "Speaker": "T",
+      "Turn": 17095,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17096,
+      "Speaker": "T",
+      "Turn": 17096,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17097,
+      "Speaker": "T",
+      "Turn": 17097,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17100,
+      "Speaker": "T",
+      "Turn": 17100,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a factual question to orient the problem in the current context."
+    },
+    {
+      "ID": 17103,
+      "Speaker": "T",
+      "Turn": 17103,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks students to identify the specific behavior of the function (increasing, decreasing, or constant)."
+    },
+    {
+      "ID": 17105,
+      "Speaker": "T",
+      "Turn": 17105,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the correct answer ('Increasing') provided by a student."
+    },
+    {
+      "ID": 17106,
+      "Speaker": "T",
+      "Turn": 17106,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks a yes/no question about the ongoing behavior of the function."
+    },
+    {
+      "ID": 17108,
+      "Speaker": "T",
+      "Turn": 17108,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats/confirms a student's affirmative response."
+    },
+    {
+      "ID": 17109,
+      "Speaker": "T",
+      "Turn": 17109,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 17110,
+      "Speaker": "T",
+      "Turn": 17110,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks students to reflect on the difficulty of connecting the abstract math to the story context, prompting them to share their thinking."
+    }
+  ]
+}

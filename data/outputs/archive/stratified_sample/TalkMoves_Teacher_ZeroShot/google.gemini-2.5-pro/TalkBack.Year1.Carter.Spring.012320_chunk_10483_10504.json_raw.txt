@@ -1,0 +1,124 @@
+{
+  "records": [
+    {
+      "ID": 10483,
+      "Turn": 8,
+      "Speaker": "T",
+      "Sentence": "Were done",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10484,
+      "Turn": 8,
+      "Speaker": "T",
+      "Sentence": "Lets go to another one",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10485,
+      "Turn": 8,
+      "Speaker": "T",
+      "Sentence": "Round 715 to the nearest tenth",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10486,
+      "Turn": 8,
+      "Speaker": "T",
+      "Sentence": "And flash",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10487,
+      "Turn": 8,
+      "Speaker": "T",
+      "Sentence": "Okay everybody say this",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10489,
+      "Turn": 10,
+      "Speaker": "T",
+      "Sentence": "Why is it 72",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to explain the thinking behind their answer."
+    },
+    {
+      "ID": 10490,
+      "Turn": 10,
+      "Speaker": "T",
+      "Sentence": "Hudson",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10493,
+      "Turn": 12,
+      "Speaker": "T",
+      "Sentence": "What five or more What place value are you talking about",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to use more precise mathematical language by asking for the specific place value."
+    },
+    {
+      "ID": 10494,
+      "Turn": 12,
+      "Speaker": "T",
+      "Sentence": "You got to start real sequential",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10495,
+      "Turn": 12,
+      "Speaker": "T",
+      "Sentence": "What place value do I look at",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher rephrases the prompt for the student to be more specific about the mathematical procedure."
+    },
+    {
+      "ID": 10497,
+      "Turn": 14,
+      "Speaker": "T",
+      "Sentence": "Why do you have to round up if its a five",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to explain the mathematical rule they are applying."
+    },
+    {
+      "ID": 10500,
+      "Turn": 16,
+      "Speaker": "T",
+      "Sentence": "Why does five or more raises forward",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher again asks the student to provide the reasoning behind the 'five or more' rounding rule."
+    },
+    {
+      "ID": 10501,
+      "Turn": 17,
+      "Speaker": "T",
+      "Sentence": "So anything coupling in between you round up to the next place value",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases the student's idea about the rounding rule into a more generalized statement."
+    },
+    {
+      "ID": 10503,
+      "Turn": 19,
+      "Speaker": "T",
+      "Sentence": "Thank you",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 10504,
+      "Turn": 19,
+      "Speaker": "T",
+      "Sentence": "Much more specific way to go Hudson",
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

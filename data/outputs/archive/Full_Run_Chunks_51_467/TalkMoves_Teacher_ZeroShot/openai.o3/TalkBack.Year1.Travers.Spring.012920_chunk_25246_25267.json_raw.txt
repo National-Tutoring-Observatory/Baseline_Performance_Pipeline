@@ -1,0 +1,102 @@
+{
+  "records": [
+    {
+      "ID": 25247,
+      "Speaker": "T",
+      "Turn": 429,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher prompts students to determine the exact count, soliciting a specific numerical answer."
+    },
+    {
+      "ID": 25249,
+      "Speaker": "T",
+      "Turn": 431,
+      "TalkMove": "Revoicing",
+      "Reasoning": "Teacher restates the student's count, adding detail (‘students in our class … centimeters’) to clarify and formalize the contribution."
+    },
+    {
+      "ID": 25251,
+      "Speaker": "T",
+      "Turn": 433,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks whether any measurements of a specific size exist, requesting precise information."
+    },
+    {
+      "ID": 25253,
+      "Speaker": "T",
+      "Turn": 435,
+      "TalkMove": "Restating",
+      "Reasoning": "Teacher repeats the student’s answer ‘one’ almost verbatim to confirm it for the class."
+    },
+    {
+      "ID": 25254,
+      "Speaker": "T",
+      "Turn": 436,
+      "TalkMove": "Restating",
+      "Reasoning": "Teacher again echoes the student’s response ‘just one,’ reinforcing the information."
+    },
+    {
+      "ID": 25255,
+      "Speaker": "T",
+      "Turn": 436
+    },
+    {
+      "ID": 25256,
+      "Speaker": "T",
+      "Turn": 436
+    },
+    {
+      "ID": 25257,
+      "Speaker": "T",
+      "Turn": 436
+    },
+    {
+      "ID": 25258,
+      "Speaker": "T",
+      "Turn": 436,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher inquires about the presence of a specific measurement (‘51’), seeking a precise count."
+    },
+    {
+      "ID": 25259,
+      "Speaker": "T",
+      "Turn": 437
+    },
+    {
+      "ID": 25260,
+      "Speaker": "T",
+      "Turn": 437
+    },
+    {
+      "ID": 25262,
+      "Speaker": "T",
+      "Turn": 439,
+      "TalkMove": "Restating",
+      "Reasoning": "Teacher repeats the student’s contribution ‘two,’ confirming it for the class."
+    },
+    {
+      "ID": 25264,
+      "Speaker": "T",
+      "Turn": 441,
+      "TalkMove": "Restating",
+      "Reasoning": "Teacher reiterates the quantity ‘two,’ echoing the prior statement."
+    },
+    {
+      "ID": 25265,
+      "Speaker": "T",
+      "Turn": 442,
+      "TalkMove": "Restating",
+      "Reasoning": "Another immediate repetition of the number ‘two’ to keep the information salient."
+    },
+    {
+      "ID": 25266,
+      "Speaker": "T",
+      "Turn": 442
+    },
+    {
+      "ID": 25267,
+      "Speaker": "T",
+      "Turn": 442
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 22801,
+      "Speaker": "T",
+      "Turn": 22801,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22802,
+      "Speaker": "T",
+      "Turn": 22802,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22804,
+      "Speaker": "T",
+      "Turn": 22804,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22805,
+      "Speaker": "T",
+      "Turn": 22805,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22806,
+      "Speaker": "T",
+      "Turn": 22806,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22807,
+      "Speaker": "T",
+      "Turn": 22807,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks a student to explain their method by asking 'How would you do it'."
+    },
+    {
+      "ID": 22808,
+      "Speaker": "T",
+      "Turn": 22808,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22809,
+      "Speaker": "T",
+      "Turn": 22809,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts the student to explain the next step in their thinking process."
+    },
+    {
+      "ID": 22810,
+      "Speaker": "T",
+      "Turn": 22810,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student for a specific mathematical contribution (the number to multiply by)."
+    },
+    {
+      "ID": 22811,
+      "Speaker": "T",
+      "Turn": 22811,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher directs one student to show another, orienting them to each other to ensure shared understanding."
+    },
+    {
+      "ID": 22812,
+      "Speaker": "T",
+      "Turn": 22812,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22813,
+      "Speaker": "T",
+      "Turn": 22813,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22815,
+      "Speaker": "T",
+      "Turn": 22815,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher repeats the student's likely contribution ('times 4/4') and adds a mathematical clarification ('which equals one')."
+    },
+    {
+      "ID": 22816,
+      "Speaker": "T",
+      "Turn": 22816,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students for a specific mathematical result."
+    },
+    {
+      "ID": 22817,
+      "Speaker": "T",
+      "Turn": 22817,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's answer ('Four twelves') word for word."
+    },
+    {
+      "ID": 22818,
+      "Speaker": "T",
+      "Turn": 22818,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22819,
+      "Speaker": "T",
+      "Turn": 22819,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the students for a specific mathematical answer."
+    },
+    {
+      "ID": 22821,
+      "Speaker": "T",
+      "Turn": 22821,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22822,
+      "Speaker": "T",
+      "Turn": 22822,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 22823,
+      "Speaker": "T",
+      "Turn": 22823,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

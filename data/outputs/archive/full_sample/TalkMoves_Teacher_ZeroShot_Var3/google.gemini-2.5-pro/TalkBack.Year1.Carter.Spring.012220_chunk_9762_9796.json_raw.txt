@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 9762,
+      "Speaker": "T",
+      "Turn": 9762,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9764,
+      "Speaker": "T",
+      "Turn": 9764,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to explain the process or thinking behind how something works."
+    },
+    {
+      "ID": 9765,
+      "Speaker": "T",
+      "Turn": 9765,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9767,
+      "Speaker": "T",
+      "Turn": 9767,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9769,
+      "Speaker": "T",
+      "Turn": 9769,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9771,
+      "Speaker": "T",
+      "Turn": 9771,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher directly asks the student to provide a reason for their answer."
+    },
+    {
+      "ID": 9773,
+      "Speaker": "T",
+      "Turn": 9773,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases the student's calculation and confirms the result, making the student's thinking more explicit."
+    },
+    {
+      "ID": 9774,
+      "Speaker": "T",
+      "Turn": 9774,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9776,
+      "Speaker": "T",
+      "Turn": 9776,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9777,
+      "Speaker": "T",
+      "Turn": 9777,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9778,
+      "Speaker": "T",
+      "Turn": 9778,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9779,
+      "Speaker": "T",
+      "Turn": 9779,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9780,
+      "Speaker": "T",
+      "Turn": 9780,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9781,
+      "Speaker": "T",
+      "Turn": 9781,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks an open-ended question prompting students to share their mathematical observations and thinking."
+    },
+    {
+      "ID": 9782,
+      "Speaker": "T",
+      "Turn": 9782,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts students to explain the relationship between two mathematical representations, asking them to connect ideas."
+    },
+    {
+      "ID": 9783,
+      "Speaker": "T",
+      "Turn": 9783,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9790,
+      "Speaker": "T",
+      "Turn": 9790,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks for the justification behind using a specific mathematical operation."
+    },
+    {
+      "ID": 9792,
+      "Speaker": "T",
+      "Turn": 9792,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 9795,
+      "Speaker": "T",
+      "Turn": 9795,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's key phrase \"three times as much\" verbatim to highlight it for the class."
+    },
+    {
+      "ID": 9796,
+      "Speaker": "T",
+      "Turn": 9796,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

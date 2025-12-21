@@ -1,0 +1,102 @@
+{
+  "records": [
+    {
+      "ID": 20417,
+      "Speaker": "T",
+      "Turn": 37,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20418,
+      "Speaker": "T",
+      "Turn": 38,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks how to use a portion of a representation/property, prompting students to explain their approach."
+    },
+    {
+      "ID": 20420,
+      "Speaker": "T",
+      "Turn": 40,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts students to state the mathematical rule for a zero exponent."
+    },
+    {
+      "ID": 20422,
+      "Speaker": "T",
+      "Turn": 42,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20424,
+      "Speaker": "T",
+      "Turn": 44,
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's answer ('one') to reflect it back to the class."
+    },
+    {
+      "ID": 20425,
+      "Speaker": "T",
+      "Turn": 44,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20429,
+      "Speaker": "T",
+      "Turn": 47,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks students to specify the correct starting value (98 or 96)."
+    },
+    {
+      "ID": 20431,
+      "Speaker": "T",
+      "Turn": 49,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20432,
+      "Speaker": "T",
+      "Turn": 49,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks how to rewrite an expression using a property, eliciting explanation of the transformation."
+    },
+    {
+      "ID": 20434,
+      "Speaker": "T",
+      "Turn": 51,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts classification of 1024 as a multiple of 4, seeking a precise mathematical statement."
+    },
+    {
+      "ID": 20435,
+      "Speaker": "T",
+      "Turn": 51,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the specific factorization (four times what), prompting a correct numerical contribution."
+    },
+    {
+      "ID": 20436,
+      "Speaker": "T",
+      "Turn": 52,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the simplified result and the correct root, prompting precise mathematical language."
+    },
+    {
+      "ID": 20437,
+      "Speaker": "T",
+      "Turn": 53,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 20438,
+      "Speaker": "T",
+      "Turn": 53,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

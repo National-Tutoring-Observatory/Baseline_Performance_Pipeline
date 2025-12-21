@@ -1,0 +1,39 @@
+[
+  {
+    "ID": 9379,
+    "Turn": 94,
+    "Speaker": "T",
+    "Sentence": "Then we have there two fractions",
+    "TalkMove": "None",
+    "Reasoning": null
+  },
+  {
+    "ID": 9380,
+    "Turn": 94,
+    "Speaker": "T",
+    "Sentence": "Why does this strategy work",
+    "TalkMove": "Pressing for Reasoning",
+    "Reasoning": "The teacher asks students to explain why a mathematical strategy is effective."
+  },
+  {
+    "ID": 9381,
+    "Turn": 94,
+    "Speaker": "T",
+    "Sentence": "factors and multiples",
+    "TalkMove": "Pressing for Accuracy",
+    "Reasoning": "The teacher prompts students to use specific mathematical vocabulary."
+  },
+  {
+    "ID": 9384,
+    "Turn": 96,
+    "Speaker": "T",
+    "Sentence": "Use the word factors and multiples you know that theyre both",
+    "TalkMove": "Pressing for Accuracy",
+    "Reasoning": "The teacher explicitly directs a student to use specific mathematical vocabulary ('factors and multiples')."
+  },
+  {
+    "ID": 9386,
+    "Turn": 98,
+    "Speaker": "T",
+    "Sentence": "There you go",
+    

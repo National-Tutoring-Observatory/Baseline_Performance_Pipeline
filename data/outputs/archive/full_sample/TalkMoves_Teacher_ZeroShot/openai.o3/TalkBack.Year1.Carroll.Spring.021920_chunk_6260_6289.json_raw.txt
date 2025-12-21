@@ -1,0 +1,118 @@
+{
+  "records": [
+    {
+      "ID": 6260,
+      "Speaker": "T",
+      "Turn": 6260
+    },
+    {
+      "ID": 6261,
+      "Speaker": "T",
+      "Turn": 6261
+    },
+    {
+      "ID": 6262,
+      "Speaker": "T",
+      "Turn": 6262
+    },
+    {
+      "ID": 6263,
+      "Speaker": "T",
+      "Turn": 6263
+    },
+    {
+      "ID": 6265,
+      "Speaker": "T",
+      "Turn": 6265
+    },
+    {
+      "ID": 6267,
+      "Speaker": "T",
+      "Turn": 6267
+    },
+    {
+      "ID": 6269,
+      "Speaker": "T",
+      "Turn": 6269
+    },
+    {
+      "ID": 6271,
+      "Speaker": "T",
+      "Turn": 6271
+    },
+    {
+      "ID": 6272,
+      "Speaker": "T",
+      "Turn": 6272
+    },
+    {
+      "ID": 6274,
+      "Speaker": "T",
+      "Turn": 6274
+    },
+    {
+      "ID": 6275,
+      "Speaker": "T",
+      "Turn": 6275,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher asks whether anyone used another strategy, inviting students to share and explain their mathematical approach."
+    },
+    {
+      "ID": 6276,
+      "Speaker": "T",
+      "Turn": 6276
+    },
+    {
+      "ID": 6278,
+      "Speaker": "T",
+      "Turn": 6278,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher directly asks a student if they used another strategy, prompting the student to discuss their thinking."
+    },
+    {
+      "ID": 6280,
+      "Speaker": "T",
+      "Turn": 6280,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Teacher follows up with, 'What was it?' explicitly requesting the student to state the strategy they used."
+    },
+    {
+      "ID": 6281,
+      "Speaker": "T",
+      "Turn": 6281,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "By instructing the student to 'just tell us the strategy,' the teacher is refining the request for an explanation of the student’s approach."
+    },
+    {
+      "ID": 6284,
+      "Speaker": "T",
+      "Turn": 6284
+    },
+    {
+      "ID": 6285,
+      "Speaker": "T",
+      "Turn": 6285
+    },
+    {
+      "ID": 6286,
+      "Speaker": "T",
+      "Turn": 6286,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The prompt 'Show me' asks the student to demonstrate their method, eliciting evidence of their reasoning."
+    },
+    {
+      "ID": 6288,
+      "Speaker": "T",
+      "Turn": 6288,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher checks which specific algorithm was used ('long division/traditional division'), pressing for precise mathematical terminology."
+    },
+    {
+      "ID": 6289,
+      "Speaker": "T",
+      "Turn": 6289,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "Teacher asks if the method was 'partial quotients,' again seeking accurate identification of the mathematical procedure."
+    }
+  ]
+}

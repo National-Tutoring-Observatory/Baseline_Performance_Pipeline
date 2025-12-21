@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 2261,
+      "Speaker": "T",
+      "Turn": 2261,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to perform a specific mathematical operation (subtraction)."
+    },
+    {
+      "ID": 2263,
+      "Speaker": "T",
+      "Turn": 2263,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks a question that prompts the student to explain the logic or validity of their proposed operation."
+    },
+    {
+      "ID": 2265,
+      "Speaker": "T",
+      "Turn": 2265,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2266,
+      "Speaker": "T",
+      "Turn": 2266,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to use correct mathematical notation (dollar sign)."
+    },
+    {
+      "ID": 2267,
+      "Speaker": "T",
+      "Turn": 2267,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2268,
+      "Speaker": "T",
+      "Turn": 2268,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher reinforces the need for correct units and notation."
+    },
+    {
+      "ID": 2269,
+      "Speaker": "T",
+      "Turn": 2269,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2270,
+      "Speaker": "T",
+      "Turn": 2270,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2271,
+      "Speaker": "T",
+      "Turn": 2271,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2272,
+      "Speaker": "T",
+      "Turn": 2272,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher explicitly directs students to listen carefully to their classmates' explanations."
+    },
+    {
+      "ID": 2273,
+      "Speaker": "T",
+      "Turn": 2273,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher sets the expectation for students to explain the 'why' behind their choice of numbers."
+    },
+    {
+      "ID": 2274,
+      "Speaker": "T",
+      "Turn": 2274,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks for a justification of the specific calculation used (13 x 3)."
+    },
+    {
+      "ID": 2275,
+      "Speaker": "T",
+      "Turn": 2275,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2276,
+      "Speaker": "T",
+      "Turn": 2276,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2277,
+      "Speaker": "T",
+      "Turn": 2277,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2279,
+      "Speaker": "T",
+      "Turn": 2279,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2281,
+      "Speaker": "T",
+      "Turn": 2281,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts the student to explain their process ('talk us through how you solved it')."
+    },
+    {
+      "ID": 2283,
+      "Speaker": "T",
+      "Turn": 2283,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2285,
+      "Speaker": "T",
+      "Turn": 2285,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 2286,
+      "Speaker": "T",
+      "Turn": 2286,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks the student to clarify the specific units/context (burritos or sandwiches)."
+    }
+  ]
+}

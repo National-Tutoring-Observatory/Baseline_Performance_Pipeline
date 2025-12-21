@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "ID": 11424,
+      "Speaker": "T",
+      "Turn": 11424,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11425,
+      "Speaker": "T",
+      "Turn": 11425,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to explain their thinking process while performing the action."
+    },
+    {
+      "ID": 11426,
+      "Speaker": "T",
+      "Turn": 11426,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "This is a continuation of the previous turn, prompting the student to explain."
+    },
+    {
+      "ID": 11431,
+      "Speaker": "T",
+      "Turn": 11431,
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher asks for the specific result of a calculation (dividing twelve by five)."
+    },
+    {
+      "ID": 11432,
+      "Speaker": "T",
+      "Turn": 11432,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks the student to identify the conceptual meaning behind the calculation ('what part of the fraction')."
+    },
+    {
+      "ID": 11433,
+      "Speaker": "T",
+      "Turn": 11433,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher directs students to talk with their partners, orienting them to each other."
+    },
+    {
+      "ID": 11434,
+      "Speaker": "T",
+      "Turn": 11434,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher asks the class to interpret what a specific student ('he') was finding with his calculation."
+    },
+    {
+      "ID": 11435,
+      "Speaker": "T",
+      "Turn": 11435,
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher repeats the question asking the class to interpret the student's strategy."
+    },
+    {
+      "ID": 11436,
+      "Speaker": "T",
+      "Turn": 11436,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Calling on a student to share out ensures the class is following the discussion."
+    },
+    {
+      "ID": 11438,
+      "Speaker": "T",
+      "Turn": 11438,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks for the justification behind the next step in the calculation ('why did you multiply')."
+    },
+    {
+      "ID": 11441,
+      "Speaker": "T",
+      "Turn": 11441,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks for a strategy to verify reasonableness, prompting meta-cognitive thinking."
+    },
+    {
+      "ID": 11442,
+      "Speaker": "T",
+      "Turn": 11442,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks 'How do you check', prompting for a method or explanation."
+    },
+    {
+      "ID": 11443,
+      "Speaker": "T",
+      "Turn": 11443,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 11444,
+      "Speaker": "T",
+      "Turn": 11444,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher directs attention to the product to prompt thinking about its properties/validity."
+    },
+    {
+      "ID": 11445,
+      "Speaker": "T",
+      "Turn": 11445,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "Repetition of the prompt to think about the product."
+    },
+    {
+      "ID": 11446,
+      "Speaker": "T",
+      "Turn": 11446,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher asks for the logic or evidence ('How would you know') regarding the correctness of the answer."
+    },
+    {
+      "ID": 11447,
+      "Speaker": "T",
+      "Turn": 11447,
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher pushes for an alternative method or reasoning beyond simple estimation."
+    },
+    {
+      "ID": 11448,
+      "Speaker": "T",
+      "Turn": 11448,
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "Calling on a specific student to answer the question."
+    },
+    {
+      "ID": 11452,
+      "Speaker": "T",
+      "Turn": 11452,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher rephrases the student's idea (implied from context) about the product being less than the factors to clarify the mathematical principle."
+    },
+    {
+      "ID": 11453,
+      "Speaker": "T",
+      "Turn": 11453,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

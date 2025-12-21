@@ -1,0 +1,148 @@
+{
+  "records": [
+    {
+      "ID": 5057,
+      "Turn": 203,
+      "Speaker": "T",
+      "Sentence": "Okay",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5058,
+      "Turn": 203,
+      "Speaker": "T",
+      "Sentence": "Im going to ask for more and were going to put more than just that",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5059,
+      "Turn": 203,
+      "Speaker": "T",
+      "Sentence": "You have something to add",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher prompts a student to add more to the current explanation, which elicits further reasoning."
+    },
+    {
+      "ID": 5063,
+      "Turn": 205,
+      "Speaker": "T",
+      "Sentence": "Thats what Robert said",
+      "TalkMove": "Getting Students to Relate to Another’s Ideas",
+      "Reasoning": "The teacher explicitly connects the current student's contribution to what a previous student (Robert) had said."
+    },
+    {
+      "ID": 5064,
+      "Turn": 205,
+      "Speaker": "T",
+      "Sentence": "I want more",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher explicitly states a need for more information, pushing students to extend their explanation beyond what has already been said."
+    },
+    {
+      "ID": 5065,
+      "Turn": 205,
+      "Speaker": "T",
+      "Sentence": "Okay whats your explanation",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher directly asks a student to provide their explanation, prompting them to share their reasoning."
+    },
+    {
+      "ID": 5066,
+      "Turn": 205,
+      "Speaker": "T",
+      "Sentence": "Okay",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5067,
+      "Turn": 205,
+      "Speaker": "T",
+      "Sentence": "Listening",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher uses this word to signal to the class that they should be actively listening to the student who is about to speak."
+    },
+    {
+      "ID": 5068,
+      "Turn": 205,
+      "Speaker": "T",
+      "Sentence": "Do you need your pencil sharpened",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5070,
+      "Turn": 207,
+      "Speaker": "T",
+      "Sentence": "Okay",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5071,
+      "Turn": 207,
+      "Speaker": "T",
+      "Sentence": "Whats your answer",
+      "TalkMove": "Pressing for Reasoning",
+      "Reasoning": "The teacher is prompting a student to share their answer, which in this context is an explanation of their thinking."
+    },
+    {
+      "ID": 5072,
+      "Turn": 208,
+      "Speaker": "T",
+      "Sentence": "Okay",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5073,
+      "Turn": 208,
+      "Speaker": "T",
+      "Sentence": "So it sounds like were understanding that we dont subtract the denominator",
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher summarizes and rephrases the key idea contributed by students, framing it as a shared understanding."
+    },
+    {
+      "ID": 5074,
+      "Turn": 208,
+      "Speaker": "T",
+      "Sentence": "What did the two groups over here say",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher directs the question to other groups in the class to ensure they are participating in the discussion and orienting the class to their ideas."
+    },
+    {
+      "ID": 5075,
+      "Turn": 208,
+      "Speaker": "T",
+      "Sentence": "Okay",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5076,
+      "Turn": 208,
+      "Speaker": "T",
+      "Sentence": "You dont have an answer",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5077,
+      "Turn": 208,
+      "Speaker": "T",
+      "Sentence": "Ladies",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 5078,
+      "Turn": 208,
+      "Speaker": "T",
+      "Sentence": "We are listening",
+      "TalkMove": "Keeping Everyone Together",
+      "Reasoning": "The teacher explicitly instructs the class to be active listeners, a key component of this talk move."
+    }
+  ]
+}

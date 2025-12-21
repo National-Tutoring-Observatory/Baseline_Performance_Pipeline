@@ -1,0 +1,148 @@
+{
+  "records": [
+    {
+      "ID": 28028,
+      "Turn": 221,
+      "Speaker": "T",
+      "Sentence": "Milli is a prefix that means 1000",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 28029,
+      "Turn": 221,
+      "Speaker": "T",
+      "Sentence": "Centi is the prefix that means 100",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 28030,
+      "Turn": 221,
+      "Speaker": "T",
+      "Sentence": "Milligram there must be what",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "The teacher prompts the student to provide a specific mathematical value based on the definition of a prefix."
+    },
+    {
+      "ID": 28032,
+      "Turn": 223,
+      "Speaker": "T",
+      "Sentence": "There are 1000",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 28033,
+      "Turn": 223,
+      "Speaker": "T",
+      "Sentence": "If milli means thousand how many milligrams are there in a gram",
+      "TalkMove": "Pressing for Accuracy",
+      "Reasoning": "After an incorrect student response, the teacher re-phrases the question to prompt for a correct mathematical fact."
+    },
+    {
+      "ID": 28035,
+      "Turn": 225,
+      "Speaker": "T",
+      "Sentence": "100000",
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats the student's incorrect answer verbatim."
+    },
+    {
+      "ID": 28036,
+      "Turn": 225,
+      "Speaker": "T",
+      "Sentence": "Okay",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 28037,
+      "Turn": 225,
+      "Speaker": "T",
+      "Sentence": "When youre done with number four please do a quick hand raise and Miss Vance and I will give you your next steps",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 28038,
+      "Turn": 226,
+      "Speaker": "T",
+      "Sentence": "Im going to start from 1 gram to 1000 milligrams",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 28040,
+      "Turn": 228,
+      "Speaker": "T",
+      "Sentence": "Okay",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 28041,
+      "Turn": 228,
+      "Speaker": "T",
+      "Sentence": "Thats what we know",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 28042,
+      "Turn": 228,
+      "Speaker": "T",
+      "Sentence": "We know that were converting milligrams to grams",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 28043,
+      "Turn": 228,
+      "Speaker": "T",
+      "Sentence": "Write down milligrams grams",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 28045,
+      "Turn": 230,
+      "Speaker": "T",
+      "Sentence": "Yes",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 28046,
+      "Turn": 230,
+      "Speaker": "T",
+      "Sentence": "What do we know",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 28047,
+      "Turn": 230,
+      "Speaker": "T",
+      "Sentence": "We know its milligrams to grams and how many milligrams are in one gram",
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 28048,
+      "Turn": 230,
+      "Speaker": "T",
+      "Sentence": "100000",
+      "TalkMove": "Restating",
+      "Reasoning": "The teacher repeats a student's previous incorrect answer while modeling the problem-solving process."
+    },
+    {
+      "ID": 28049,
+      "Turn": 230,
+      "Speaker": "T",
+      "Sentence": "You need to know that",
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}

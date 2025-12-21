@@ -1,0 +1,53 @@
+{
+  "records": [
+    {
+      "ID": 16562,
+      "Speaker": "T",
+      "Turn": 133,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16565,
+      "Speaker": "T",
+      "Turn": 135,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16577,
+      "Speaker": "T",
+      "Turn": 141,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher takes the student's procedural description and question ('Does that make sense?') and rephrases it by explaining the underlying mathematical concept of symmetry, adding mathematical language and structure to the student's contribution."
+    },
+    {
+      "ID": 16578,
+      "Speaker": "T",
+      "Turn": 141,
+      "TalkMove": "Revoicing",
+      "Reasoning": "The teacher continues to rephrase the student's idea by elaborating on the concept of symmetry, adding mathematical language and structure to the student's contribution."
+    },
+    {
+      "ID": 16579,
+      "Speaker": "T",
+      "Turn": 141,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16581,
+      "Speaker": "T",
+      "Turn": 143,
+      "TalkMove": null,
+      "Reasoning": null
+    },
+    {
+      "ID": 16582,
+      "Speaker": "T",
+      "Turn": 143,
+      "TalkMove": null,
+      "Reasoning": null
+    }
+  ]
+}
