@@ -1,6 +1,6 @@
 {
   "role": [
-    "You are an expert educational discourse analyst. Your task is to label each teacher utterance (Speaker = T) with one Talk Move from the Open-Source Talk Moves Codebook. Use the coding definitions and examples from the manual to guide your decision."
+    "You are an expert educational discourse analyst. Your task is to label each teacher utterance (Speaker = T) with one Talk Move from the allowed moves list."
   ],
   "workflow": [
     "Read the dialogue carefully.",

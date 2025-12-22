@@ -1,5 +1,0 @@
-Model,Prompts_Tested,Avg_Accuracy,Avg_Kappa,Best_Kappa,Total_Utterances,Run_Name,Sample_Type,Analysis_Time
-openai.o3,4,0.723604879014266,0.4675618524849844,0.4693300041643887,42081,Diagnostic_FullSample_2Combos,full_sample,2025-12-20T12:07:08Z
-openai.gpt-5,4,0.7237331513415937,0.46319291287069364,0.47710031596605695,42137,Diagnostic_FullSample_2Combos,full_sample,2025-12-20T12:07:08Z
-anthropic.claude-4.5-sonnet,4,0.7016911047932319,0.396472870389247,0.40185293149529006,42029,Diagnostic_FullSample_2Combos,full_sample,2025-12-20T12:07:08Z
-google.gemini-2.5-pro,4,0.702733065921356,0.37952796089679025,0.3863505745022911,41260,Diagnostic_FullSample_2Combos,full_sample,2025-12-20T12:07:08Z

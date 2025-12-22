@@ -1,5 +1,0 @@
-Prompt,Total_Files,Empty_Files,Truncated_Files,Parse_Fail_Files,Success_Files,Utterances_Returned,Expected_Utterances,Utterances_Returned_Pct,Files_Returned_Pct
-TalkMoves_Teacher_FewShot_3,5942,0,1,0,5941,115960,116040,99.9,100
-TalkMoves_Teacher_FewShot_ALL,5936,0,36,0,5900,115164,116040,99.2,99.4
-TalkMoves_Teacher_OneShot,5936,0,42,0,5894,115000,116040,99.1,99.3
-TalkMoves_Teacher_ZeroShot,5935,0,7,0,5928,115480,116040,99.5,99.9

@@ -5,6 +5,7 @@
 # Data directories
 # data/outputs/archive/
 # data/outputs/*
+**/archive/
 documentation/
 # !data/outputs/.gitkeep
 # !data/outputs/full_sample/

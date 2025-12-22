@@ -73,7 +73,7 @@ agg_data$CodeLabel <- factor(agg_data$CodeLabel, levels = c(
 all_data$CodeLabel <- factor(all_data$CodeLabel, levels = levels(agg_data$CodeLabel))
 
 # Position object for jittering
-pos <- position_jitterdodge(jitter.width = 0.2, dodge.width = 0.8)
+pos <- position_jitterdodge(jitter.width = 0.6, dodge.width = 0.8)
 
 # Plotting with increased font sizes
 p <- ggplot() +
@@ -105,10 +105,11 @@ p <- ggplot() +
         alpha = 0.7
     ) +
     # Reference Lines
-    geom_hline(yintercept = 0.4, linetype = "dashed", color = "#999999", alpha = 0.5) +
-    geom_hline(yintercept = 0.6, linetype = "dashed", color = "#999999", alpha = 0.5) +
-    annotate("text", x = 0.5, y = 0.41, label = "Moderate (>=0.40)", hjust = 0, vjust = 0, size = 4, color = "#666666") +
-    annotate("text", x = 0.5, y = 0.61, label = "Substantial (>=0.60)", hjust = 0, vjust = 0, size = 4, color = "#666666") +
+    # Reference Lines
+    # geom_hline(yintercept = 0.4, linetype = "dashed", color = "#999999", alpha = 0.5) +
+    # geom_hline(yintercept = 0.6, linetype = "dashed", color = "#999999", alpha = 0.5) +
+    # annotate("text", x = 0.5, y = 0.41, label = "Moderate (>=0.40)", hjust = 0, vjust = 0, size = 4, color = "#666666") +
+    # annotate("text", x = 0.5, y = 0.61, label = "Substantial (>=0.60)", hjust = 0, vjust = 0, size = 4, color = "#666666") +
     # Scales
     scale_fill_manual(values = c(
         "ZeroShot" = "#D55E00",
@@ -140,22 +141,22 @@ p <- ggplot() +
         shape = "Model",
         color = "Prompt Strategy"
     ) +
-    theme_minimal(base_size = 16, base_family = "serif") +
+    theme_minimal(base_size = 20, base_family = "serif") +
     theme(
         legend.position = "top",
         legend.box = "vertical",
         legend.box.just = "left",
-        axis.text.x = element_text(angle = 45, hjust = 1, size = 14),
-        axis.text.y = element_text(size = 14),
-        axis.title = element_text(size = 16, face = "bold"),
-        legend.text = element_text(size = 14),
-        legend.title = element_text(size = 14, face = "bold"),
+        axis.text.x = element_text(angle = 45, hjust = 1, size = 18),
+        axis.text.y = element_text(size = 18),
+        axis.title = element_text(size = 20, face = "bold"),
+        legend.text = element_text(size = 16),
+        legend.title = element_text(size = 16, face = "bold"),
         panel.grid.major.x = element_blank(),
         panel.grid.minor.x = element_blank(),
-        plot.title = element_text(hjust = 0.5, face = "bold", size = 18),
-        plot.subtitle = element_text(hjust = 0.5, color = "#666666", size = 14)
+        plot.title = element_text(hjust = 0.5, face = "bold", size = 24),
+        plot.subtitle = element_text(hjust = 0.5, color = "#666666", size = 18)
     ) +
-    coord_cartesian(ylim = c(0, 0.8))
+    coord_cartesian(ylim = c(0, 1))
 
 # Save
 ggsave(
