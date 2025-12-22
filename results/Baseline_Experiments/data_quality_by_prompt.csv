@@ -1,0 +1,5 @@
+Prompt,Total_Files,Empty_Files,Truncated_Files,Parse_Fail_Files,Success_Files,Utterances_Returned,Expected_Utterances,Utterances_Returned_Pct,Files_Returned_Pct
+TalkMoves_Teacher_FewShot_3,2764,0,5,0,2759,62473,63210,98.8,99.8
+TalkMoves_Teacher_FewShot_ALL,2639,0,5,0,2634,60265,63210,95.3,99.8
+TalkMoves_Teacher_OneShot,2800,0,12,0,2788,63372,63210,100.3,99.6
+TalkMoves_Teacher_ZeroShot,2796,0,1,0,2795,63011,63210,99.7,100

@@ -1,0 +1,169 @@
+Prompt,Model,Code,Kappa_SE,Kappa_CI_Lower,Kappa_CI_Upper
+TalkMoves_Teacher_FewShot_3,anthropic.claude-4.5-opus,None,0.008176304348059849,0.6111880755100264,0.6433786350304752
+TalkMoves_Teacher_FewShot_3,anthropic.claude-4.5-opus,Keeping Everyone Together,0.013616323185740443,0.23425426135522723,0.28814979277247066
+TalkMoves_Teacher_FewShot_3,anthropic.claude-4.5-opus,Getting Students to Relate to Another's Ideas,0.03168470082911836,0.5356698708600257,0.6572390600641826
+TalkMoves_Teacher_FewShot_3,anthropic.claude-4.5-opus,Restating,0.028743580113534627,0.6079603121899843,0.7230982615895981
+TalkMoves_Teacher_FewShot_3,anthropic.claude-4.5-opus,Revoicing,0.023914045525384654,0.3372249855067115,0.42742014814473955
+TalkMoves_Teacher_FewShot_3,anthropic.claude-4.5-opus,Pressing for Accuracy,0.011249970911333626,0.6494563100683026,0.6924646480551466
+TalkMoves_Teacher_FewShot_3,anthropic.claude-4.5-opus,Pressing for Reasoning,0.024409712910339793,0.3315121058027097,0.42900018803683015
+TalkMoves_Teacher_FewShot_3,anthropic.claude-4.5-sonnet,None,0.008539379943053788,0.5577193110410967,0.5907325932050631
+TalkMoves_Teacher_FewShot_3,anthropic.claude-4.5-sonnet,Keeping Everyone Together,0.013476956336909478,0.18188062507327438,0.2354157705296437
+TalkMoves_Teacher_FewShot_3,anthropic.claude-4.5-sonnet,Getting Students to Relate to Another's Ideas,0.03765700679139962,0.4349738075120643,0.5868401197374191
+TalkMoves_Teacher_FewShot_3,anthropic.claude-4.5-sonnet,Restating,0.029108645327973446,0.5141807462388175,0.6305878129181223
+TalkMoves_Teacher_FewShot_3,anthropic.claude-4.5-sonnet,Revoicing,0.022099584451502584,0.26065395446170486,0.35204654214007863
+TalkMoves_Teacher_FewShot_3,anthropic.claude-4.5-sonnet,Pressing for Accuracy,0.011173002864309752,0.6122710380326664,0.656234736538907
+TalkMoves_Teacher_FewShot_3,anthropic.claude-4.5-sonnet,Pressing for Reasoning,0.02456057651316569,0.30861685616948853,0.4053737023794387
+TalkMoves_Teacher_FewShot_3,google.gemini-2.5-pro,None,0.008564581189029074,0.5724516830471089,0.6076792122177298
+TalkMoves_Teacher_FewShot_3,google.gemini-2.5-pro,Keeping Everyone Together,0.012914112525260502,0.1801786255546935,0.23274073640190515
+TalkMoves_Teacher_FewShot_3,google.gemini-2.5-pro,Getting Students to Relate to Another's Ideas,0.03550162982232399,0.48591021564682074,0.6264568444590175
+TalkMoves_Teacher_FewShot_3,google.gemini-2.5-pro,Restating,0.029102871480662512,0.5926684171605263,0.7065870724140156
+TalkMoves_Teacher_FewShot_3,google.gemini-2.5-pro,Revoicing,0.0227454682183776,0.30535760892511915,0.3971215482319674
+TalkMoves_Teacher_FewShot_3,google.gemini-2.5-pro,Pressing for Accuracy,0.01151661643974368,0.6025092949280701,0.6467366020751544
+TalkMoves_Teacher_FewShot_3,google.gemini-2.5-pro,Pressing for Reasoning,0.022085169998276002,0.26132352427035044,0.34857101309522254
+TalkMoves_Teacher_FewShot_3,google.gemini-3-pro-preview,None,0.008526520700639095,0.5878587861980864,0.6226381271305826
+TalkMoves_Teacher_FewShot_3,google.gemini-3-pro-preview,Keeping Everyone Together,0.013774876086895755,0.23364894148015808,0.28693062923342166
+TalkMoves_Teacher_FewShot_3,google.gemini-3-pro-preview,Getting Students to Relate to Another's Ideas,0.03470115841919057,0.472064899706284,0.6046303536936789
+TalkMoves_Teacher_FewShot_3,google.gemini-3-pro-preview,Restating,0.030808427369862595,0.5890729568186005,0.7069469490453575
+TalkMoves_Teacher_FewShot_3,google.gemini-3-pro-preview,Revoicing,0.02665902271895156,0.3394154658683859,0.4440876983385132
+TalkMoves_Teacher_FewShot_3,google.gemini-3-pro-preview,Pressing for Accuracy,0.01146332922618892,0.6313716480857247,0.6761683585890205
+TalkMoves_Teacher_FewShot_3,google.gemini-3-pro-preview,Pressing for Reasoning,0.02628031876042035,0.3309805479301039,0.43727143943434865
+TalkMoves_Teacher_FewShot_3,openai.gpt-5,None,0.008401298830315613,0.5826743665118522,0.6151431982438618
+TalkMoves_Teacher_FewShot_3,openai.gpt-5,Keeping Everyone Together,0.01356348267687591,0.19062976976181203,0.24516104681576284
+TalkMoves_Teacher_FewShot_3,openai.gpt-5,Getting Students to Relate to Another's Ideas,0.032262787272733615,0.5407213691489035,0.6665054219398817
+TalkMoves_Teacher_FewShot_3,openai.gpt-5,Restating,0.028092940445767475,0.6771199531610191,0.7888916382471319
+TalkMoves_Teacher_FewShot_3,openai.gpt-5,Revoicing,0.021908966728758802,0.35131153181310687,0.434009388451198
+TalkMoves_Teacher_FewShot_3,openai.gpt-5,Pressing for Accuracy,0.01148075255191433,0.5995457506824181,0.6453279467799734
+TalkMoves_Teacher_FewShot_3,openai.gpt-5,Pressing for Reasoning,0.0210889356615029,0.27083733571128854,0.35707756042477323
+TalkMoves_Teacher_FewShot_3,openai.o3,None,0.008059312986029429,0.5690825092294922,0.6007800481493248
+TalkMoves_Teacher_FewShot_3,openai.o3,Keeping Everyone Together,0.013046616294703092,0.2530688464016954,0.3053780620966197
+TalkMoves_Teacher_FewShot_3,openai.o3,Getting Students to Relate to Another's Ideas,0.031797010302515694,0.49864658545129525,0.6204975362832097
+TalkMoves_Teacher_FewShot_3,openai.o3,Restating,0.03182035062908329,0.5116253114945294,0.6334941448725195
+TalkMoves_Teacher_FewShot_3,openai.o3,Revoicing,0.023556811080735172,0.31268347282673054,0.40341676949073857
+TalkMoves_Teacher_FewShot_3,openai.o3,Pressing for Accuracy,0.012523692393023917,0.5211296040755354,0.5697621212795206
+TalkMoves_Teacher_FewShot_3,openai.o3,Pressing for Reasoning,0.0183240684805876,0.213234293682144,0.28551248410343477
+TalkMoves_Teacher_FewShot_ALL,anthropic.claude-4.5-opus,None,0.008362148972204133,0.6474133528152454,0.6801136365680122
+TalkMoves_Teacher_FewShot_ALL,anthropic.claude-4.5-opus,Keeping Everyone Together,0.013828773512712543,0.44631811234151153,0.50028582424617285
+TalkMoves_Teacher_FewShot_ALL,anthropic.claude-4.5-opus,Getting Students to Relate to Another's Ideas,0.034153272603344685,0.6152311256570103,0.7442695468667708
+TalkMoves_Teacher_FewShot_ALL,anthropic.claude-4.5-opus,Restating,0.031837480543971806,0.6479947232147586,0.7746682913347345
+TalkMoves_Teacher_FewShot_ALL,anthropic.claude-4.5-opus,Revoicing,0.023376520038027978,0.2641203739518936,0.3576708322216028
+TalkMoves_Teacher_FewShot_ALL,anthropic.claude-4.5-opus,Pressing for Accuracy,0.012489972914814688,0.6240016380993937,0.671628930438094
+TalkMoves_Teacher_FewShot_ALL,anthropic.claude-4.5-opus,Pressing for Reasoning,0.027017287484940884,0.3170861361032168,0.4247645837689726
+TalkMoves_Teacher_FewShot_ALL,anthropic.claude-4.5-sonnet,None,0.008203662789139345,0.577535582610349,0.610114688415998
+TalkMoves_Teacher_FewShot_ALL,anthropic.claude-4.5-sonnet,Keeping Everyone Together,0.012397456657858135,0.36708431052705204,0.41683601123455943
+TalkMoves_Teacher_FewShot_ALL,anthropic.claude-4.5-sonnet,Getting Students to Relate to Another's Ideas,0.03575109136041525,0.4404042779326557,0.5843717486910269
+TalkMoves_Teacher_FewShot_ALL,anthropic.claude-4.5-sonnet,Restating,0.029138268392874884,0.5434848254624498,0.6599622977209527
+TalkMoves_Teacher_FewShot_ALL,anthropic.claude-4.5-sonnet,Revoicing,0.01893206385037975,0.23772938374143962,0.3144115353859994
+TalkMoves_Teacher_FewShot_ALL,anthropic.claude-4.5-sonnet,Pressing for Accuracy,0.011550293566146253,0.602561276332614,0.6487699415701533
+TalkMoves_Teacher_FewShot_ALL,anthropic.claude-4.5-sonnet,Pressing for Reasoning,0.02602581752599644,0.33997679492954647,0.44162712511135843
+TalkMoves_Teacher_FewShot_ALL,google.gemini-2.5-pro,None,0.007857449029950333,0.6287460159003968,0.6597802246049224
+TalkMoves_Teacher_FewShot_ALL,google.gemini-2.5-pro,Keeping Everyone Together,0.012568206295117998,0.3995065594527864,0.448429624765885
+TalkMoves_Teacher_FewShot_ALL,google.gemini-2.5-pro,Getting Students to Relate to Another's Ideas,0.03348141901596562,0.5412144559037507,0.6697013857975394
+TalkMoves_Teacher_FewShot_ALL,google.gemini-2.5-pro,Restating,0.03025801126244728,0.5847070329255531,0.7031298788829696
+TalkMoves_Teacher_FewShot_ALL,google.gemini-2.5-pro,Revoicing,0.02306430401040315,0.32759931974442286,0.4203029070210753
+TalkMoves_Teacher_FewShot_ALL,google.gemini-2.5-pro,Pressing for Accuracy,0.011239800023080834,0.6361265554577717,0.6790680733335708
+TalkMoves_Teacher_FewShot_ALL,google.gemini-2.5-pro,Pressing for Reasoning,0.02639176962436739,0.34485532828663684,0.44439279829691464
+TalkMoves_Teacher_FewShot_ALL,google.gemini-3-pro-preview,None,0.008205637776356661,0.5776373993338514,0.6101706181836642
+TalkMoves_Teacher_FewShot_ALL,google.gemini-3-pro-preview,Keeping Everyone Together,0.012482120412643585,0.35184025116102985,0.3994722683379673
+TalkMoves_Teacher_FewShot_ALL,google.gemini-3-pro-preview,Getting Students to Relate to Another's Ideas,0.03462428363052787,0.5389791468948132,0.6771192638229185
+TalkMoves_Teacher_FewShot_ALL,google.gemini-3-pro-preview,Restating,0.03256807830858281,0.5651821307964854,0.6919882950492937
+TalkMoves_Teacher_FewShot_ALL,google.gemini-3-pro-preview,Revoicing,0.027061417731685303,0.3392997752258725,0.44697156174725683
+TalkMoves_Teacher_FewShot_ALL,google.gemini-3-pro-preview,Pressing for Accuracy,0.012108329802553221,0.6340670823192858,0.6809262374442018
+TalkMoves_Teacher_FewShot_ALL,google.gemini-3-pro-preview,Pressing for Reasoning,0.029027850837187015,0.3482132988697913,0.4631866014392627
+TalkMoves_Teacher_FewShot_ALL,openai.gpt-5,None,0.007935409502323533,0.5163431424845343,0.5481627781273858
+TalkMoves_Teacher_FewShot_ALL,openai.gpt-5,Keeping Everyone Together,0.010898586955263384,0.3021725047405321,0.34502697491793594
+TalkMoves_Teacher_FewShot_ALL,openai.gpt-5,Getting Students to Relate to Another's Ideas,0.029325737747544448,0.5785961495061605,0.6934868996856488
+TalkMoves_Teacher_FewShot_ALL,openai.gpt-5,Restating,0.028982202396152887,0.6597368732914948,0.7690974990895223
+TalkMoves_Teacher_FewShot_ALL,openai.gpt-5,Revoicing,0.02418471859117064,0.3443356713986526,0.43794620650067395
+TalkMoves_Teacher_FewShot_ALL,openai.gpt-5,Pressing for Accuracy,0.010735980009731059,0.6263721453500365,0.668598669204705
+TalkMoves_Teacher_FewShot_ALL,openai.gpt-5,Pressing for Reasoning,0.02566543068623794,0.3356294379294513,0.4356663982221566
+TalkMoves_Teacher_FewShot_ALL,openai.o3,None,0.0078088668759919745,0.4941031855765973,0.5242101624728143
+TalkMoves_Teacher_FewShot_ALL,openai.o3,Keeping Everyone Together,0.010770194035003249,0.2849066628900882,0.32791693019043067
+TalkMoves_Teacher_FewShot_ALL,openai.o3,Getting Students to Relate to Another's Ideas,0.03206553433747211,0.5576256100593903,0.683087969997776
+TalkMoves_Teacher_FewShot_ALL,openai.o3,Restating,0.03036813808106434,0.5050192842041084,0.6247966961453167
+TalkMoves_Teacher_FewShot_ALL,openai.o3,Revoicing,0.0246244962334971,0.2912417794389079,0.3876453523617764
+TalkMoves_Teacher_FewShot_ALL,openai.o3,Pressing for Accuracy,0.012012717775463543,0.5560524901754518,0.6025352643458407
+TalkMoves_Teacher_FewShot_ALL,openai.o3,Pressing for Reasoning,0.019588596817654683,0.23106352412079634,0.3093499878827395
+TalkMoves_Teacher_OneShot,anthropic.claude-4.5-opus,None,0.008592418463836255,0.5688925022420775,0.6026893854306762
+TalkMoves_Teacher_OneShot,anthropic.claude-4.5-opus,Keeping Everyone Together,0.010987466664868861,0.08956933166214302,0.13144889966336276
+TalkMoves_Teacher_OneShot,anthropic.claude-4.5-opus,Getting Students to Relate to Another's Ideas,0.029497323235474507,0.59007910881399706,0.7032949868743695
+TalkMoves_Teacher_OneShot,anthropic.claude-4.5-opus,Restating,0.028291096725175085,0.609448878380048,0.7238108708289224
+TalkMoves_Teacher_OneShot,anthropic.claude-4.5-opus,Revoicing,0.02289255028608377,0.3058541486071854,0.3960589731936764
+TalkMoves_Teacher_OneShot,anthropic.claude-4.5-opus,Pressing for Accuracy,0.012047556809982422,0.6027069045193806,0.6490658352417453
+TalkMoves_Teacher_OneShot,anthropic.claude-4.5-opus,Pressing for Reasoning,0.022472217473531085,0.27654681358876965,0.3652049371940391
+TalkMoves_Teacher_OneShot,anthropic.claude-4.5-sonnet,None,0.008981051509363546,0.528814180613437,0.5648951253200105
+TalkMoves_Teacher_OneShot,anthropic.claude-4.5-sonnet,Keeping Everyone Together,0.010220944729003907,0.047415053709703434,0.08733738712339711
+TalkMoves_Teacher_OneShot,anthropic.claude-4.5-sonnet,Getting Students to Relate to Another's Ideas,0.036126398736344545,0.4525225750118983,0.5962290471589999
+TalkMoves_Teacher_OneShot,anthropic.claude-4.5-sonnet,Restating,0.028185730153214638,0.5157447448064905,0.6248915351610358
+TalkMoves_Teacher_OneShot,anthropic.claude-4.5-sonnet,Revoicing,0.0233624447795807,0.2545288357737968,0.3480525498380901
+TalkMoves_Teacher_OneShot,anthropic.claude-4.5-sonnet,Pressing for Accuracy,0.012285047988245602,0.5234854683127591,0.5729931144133222
+TalkMoves_Teacher_OneShot,anthropic.claude-4.5-sonnet,Pressing for Reasoning,0.021792937774660178,0.2532917617920966,0.34050169651570616
+TalkMoves_Teacher_OneShot,google.gemini-2.5-pro,None,0.009007204479159424,0.5505043073443017,0.5857825788644018
+TalkMoves_Teacher_OneShot,google.gemini-2.5-pro,Keeping Everyone Together,0.010256739549077607,0.05319512569978695,0.09390514343542516
+TalkMoves_Teacher_OneShot,google.gemini-2.5-pro,Getting Students to Relate to Another's Ideas,0.03987780261939662,0.453938790455577,0.613968236619804
+TalkMoves_Teacher_OneShot,google.gemini-2.5-pro,Restating,0.030703493840776683,0.5480285703400123,0.6704691907739981
+TalkMoves_Teacher_OneShot,google.gemini-2.5-pro,Revoicing,0.025464654836664543,0.31142177787697656,0.4137671284443399
+TalkMoves_Teacher_OneShot,google.gemini-2.5-pro,Pressing for Accuracy,0.013310298331393283,0.5357871713941242,0.586592041553827
+TalkMoves_Teacher_OneShot,google.gemini-2.5-pro,Pressing for Reasoning,0.01841522031483321,0.21428920484304187,0.2848568046215499
+TalkMoves_Teacher_OneShot,google.gemini-3-pro-preview,None,0.008200611313470958,0.5698867319945335,0.6031603217231721
+TalkMoves_Teacher_OneShot,google.gemini-3-pro-preview,Keeping Everyone Together,0.01142293532941844,0.08875163055362774,0.1333131178609368
+TalkMoves_Teacher_OneShot,google.gemini-3-pro-preview,Getting Students to Relate to Another's Ideas,0.03338539783277188,0.4984608018894871,0.6304162103872581
+TalkMoves_Teacher_OneShot,google.gemini-3-pro-preview,Restating,0.030369210466041765,0.5329633911238594,0.653833300157958
+TalkMoves_Teacher_OneShot,google.gemini-3-pro-preview,Revoicing,0.026302510895120933,0.2707203805524337,0.37041636360787933
+TalkMoves_Teacher_OneShot,google.gemini-3-pro-preview,Pressing for Accuracy,0.011738911134683954,0.5908922440689032,0.6362466224029993
+TalkMoves_Teacher_OneShot,google.gemini-3-pro-preview,Pressing for Reasoning,0.021507675928070614,0.252974199120674,0.3364388260006455
+TalkMoves_Teacher_OneShot,openai.gpt-5,None,0.008652289133768068,0.5767775252168278,0.6102544127428384
+TalkMoves_Teacher_OneShot,openai.gpt-5,Keeping Everyone Together,0.010069477697831852,0.04931143740840248,0.08868091965299371
+TalkMoves_Teacher_OneShot,openai.gpt-5,Getting Students to Relate to Another's Ideas,0.030885750255447555,0.545019208812129,0.6662939630796804
+TalkMoves_Teacher_OneShot,openai.gpt-5,Restating,0.030188285800915357,0.6296890649220637,0.7514321364328705
+TalkMoves_Teacher_OneShot,openai.gpt-5,Revoicing,0.023974521216795008,0.34186519010910066,0.4372073005756218
+TalkMoves_Teacher_OneShot,openai.gpt-5,Pressing for Accuracy,0.011826684543939085,0.5807134471397327,0.6264920443004611
+TalkMoves_Teacher_OneShot,openai.gpt-5,Pressing for Reasoning,0.02102008831170641,0.2567041980527781,0.33767220301336087
+TalkMoves_Teacher_OneShot,openai.o3,None,0.008324751904586284,0.5823366994324292,0.6155603861805387
+TalkMoves_Teacher_OneShot,openai.o3,Keeping Everyone Together,0.012801128602639397,0.1538519234907004,0.20498833538950245
+TalkMoves_Teacher_OneShot,openai.o3,Getting Students to Relate to Another's Ideas,0.03207797497865998,0.519064498580351,0.6427921438713967
+TalkMoves_Teacher_OneShot,openai.o3,Restating,0.031998189496506374,0.5327425570157588,0.6589399115279594
+TalkMoves_Teacher_OneShot,openai.o3,Revoicing,0.02520555343287537,0.2855201940408981,0.3835304666360043
+TalkMoves_Teacher_OneShot,openai.o3,Pressing for Accuracy,0.012726556418198441,0.5284364899284388,0.5779220819985207
+TalkMoves_Teacher_OneShot,openai.o3,Pressing for Reasoning,0.017998656199790238,0.20508861624630226,0.27512078576818155
+TalkMoves_Teacher_ZeroShot,anthropic.claude-4.5-opus,None,0.008501298112949017,0.5683228565682396,0.6015115697475025
+TalkMoves_Teacher_ZeroShot,anthropic.claude-4.5-opus,Keeping Everyone Together,0.011981817366339732,0.10282751644786159,0.1486994548235379
+TalkMoves_Teacher_ZeroShot,anthropic.claude-4.5-opus,Getting Students to Relate to Another's Ideas,0.030774154333593345,0.5224939443525197,0.6424214702845313
+TalkMoves_Teacher_ZeroShot,anthropic.claude-4.5-opus,Restating,0.029381607638336086,0.578840010090136,0.6922584256947245
+TalkMoves_Teacher_ZeroShot,anthropic.claude-4.5-opus,Revoicing,0.022528279294771934,0.2860127394742084,0.37614405509987864
+TalkMoves_Teacher_ZeroShot,anthropic.claude-4.5-opus,Pressing for Accuracy,0.012165554487505904,0.5928717018949122,0.6408665693383758
+TalkMoves_Teacher_ZeroShot,anthropic.claude-4.5-opus,Pressing for Reasoning,0.023585736498083477,0.27007711068529555,0.36404927760066186
+TalkMoves_Teacher_ZeroShot,anthropic.claude-4.5-sonnet,None,0.008908302009071065,0.5006618090090552,0.5353631417389428
+TalkMoves_Teacher_ZeroShot,anthropic.claude-4.5-sonnet,Keeping Everyone Together,0.010707196694452855,0.054673761494173904,0.09659328269770202
+TalkMoves_Teacher_ZeroShot,anthropic.claude-4.5-sonnet,Getting Students to Relate to Another's Ideas,0.035046973816610295,0.4377928032064265,0.5762075891240259
+TalkMoves_Teacher_ZeroShot,anthropic.claude-4.5-sonnet,Restating,0.02961490923640312,0.48913809400108965,0.6074878619310291
+TalkMoves_Teacher_ZeroShot,anthropic.claude-4.5-sonnet,Revoicing,0.023380740681572965,0.26680580604360543,0.3608574336547822
+TalkMoves_Teacher_ZeroShot,anthropic.claude-4.5-sonnet,Pressing for Accuracy,0.013298489915497513,0.43503756373196945,0.48508678462384747
+TalkMoves_Teacher_ZeroShot,anthropic.claude-4.5-sonnet,Pressing for Reasoning,0.01939134289182685,0.22267912578446294,0.2998687375104553
+TalkMoves_Teacher_ZeroShot,google.gemini-2.5-pro,None,0.009345679902563625,0.46586898757458917,0.5034960116215982
+TalkMoves_Teacher_ZeroShot,google.gemini-2.5-pro,Keeping Everyone Together,0.010658714897016384,0.050445959491515195,0.09360112594682791
+TalkMoves_Teacher_ZeroShot,google.gemini-2.5-pro,Getting Students to Relate to Another's Ideas,0.03383056432296056,0.45501387196730303,0.5855425827938843
+TalkMoves_Teacher_ZeroShot,google.gemini-2.5-pro,Restating,0.029973272131951716,0.5770933539478947,0.6946911542690306
+TalkMoves_Teacher_ZeroShot,google.gemini-2.5-pro,Revoicing,0.0245353974428511,0.2928502500763043,0.39039902135069254
+TalkMoves_Teacher_ZeroShot,google.gemini-2.5-pro,Pressing for Accuracy,0.014289473094218741,0.40228044162535115,0.4581125459475296
+TalkMoves_Teacher_ZeroShot,google.gemini-2.5-pro,Pressing for Reasoning,0.020279791295875572,0.23004724045197758,0.30872250343263175
+TalkMoves_Teacher_ZeroShot,google.gemini-3-pro-preview,None,0.008444488479806661,0.5621583737599049,0.594877065608529
+TalkMoves_Teacher_ZeroShot,google.gemini-3-pro-preview,Keeping Everyone Together,0.012955012782490843,0.13968628943777953,0.19172797466158248
+TalkMoves_Teacher_ZeroShot,google.gemini-3-pro-preview,Getting Students to Relate to Another's Ideas,0.03498976036970203,0.467763602021683,0.607297883564206
+TalkMoves_Teacher_ZeroShot,google.gemini-3-pro-preview,Restating,0.029433187733166263,0.5606221851457813,0.6750017501584583
+TalkMoves_Teacher_ZeroShot,google.gemini-3-pro-preview,Revoicing,0.025203142603598735,0.3109271923072583,0.4070799081354576
+TalkMoves_Teacher_ZeroShot,google.gemini-3-pro-preview,Pressing for Accuracy,0.012519478990264293,0.5598627468249282,0.6098264790192124
+TalkMoves_Teacher_ZeroShot,google.gemini-3-pro-preview,Pressing for Reasoning,0.02092306446140421,0.24793150399872027,0.3331990262492615
+TalkMoves_Teacher_ZeroShot,openai.gpt-5,None,0.008369154611419608,0.5625512835320995,0.5960325223704478
+TalkMoves_Teacher_ZeroShot,openai.gpt-5,Keeping Everyone Together,0.011672862047365489,0.08551325587289743,0.13065003375734036
+TalkMoves_Teacher_ZeroShot,openai.gpt-5,Getting Students to Relate to Another's Ideas,0.03302032854455072,0.5315911307090095,0.6628264830642883
+TalkMoves_Teacher_ZeroShot,openai.gpt-5,Restating,0.029829029886451353,0.6390776516217396,0.7527895816671181
+TalkMoves_Teacher_ZeroShot,openai.gpt-5,Revoicing,0.024047190680424973,0.3445578561245517,0.43736269579428194
+TalkMoves_Teacher_ZeroShot,openai.gpt-5,Pressing for Accuracy,0.011335514084944797,0.567407639454958,0.6124269341059867
+TalkMoves_Teacher_ZeroShot,openai.gpt-5,Pressing for Reasoning,0.020961464808657567,0.23998275892182225,0.3227273899742149
+TalkMoves_Teacher_ZeroShot,openai.o3,None,0.0084089777879994,0.5598441527689422,0.5936814715430813
+TalkMoves_Teacher_ZeroShot,openai.o3,Keeping Everyone Together,0.012948099554187626,0.19350851391975255,0.24376186012315765
+TalkMoves_Teacher_ZeroShot,openai.o3,Getting Students to Relate to Another's Ideas,0.03171881062025683,0.4860942129956928,0.6086009216574063
+TalkMoves_Teacher_ZeroShot,openai.o3,Restating,0.030097859936325487,0.5652218496788625,0.6825719196999265
+TalkMoves_Teacher_ZeroShot,openai.o3,Revoicing,0.024595126258780946,0.3094909375908454,0.40489670983936915
+TalkMoves_Teacher_ZeroShot,openai.o3,Pressing for Accuracy,0.012247422056231451,0.5131945215840712,0.5614626943560411
+TalkMoves_Teacher_ZeroShot,openai.o3,Pressing for Reasoning,0.01893819395771758,0.20652339457048138,0.28285242344388944

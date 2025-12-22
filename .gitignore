@@ -19,6 +19,7 @@ results/*
 !results/.gitkeep
 !results/full_sample/
 !results/stratified_sample/
+!results/Baseline_Experiments/
 
 # Logs
 logs/*

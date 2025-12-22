@@ -1,0 +1,7 @@
+Model,Total_Files,Empty_Files,Truncated_Files,Parse_Fail_Files,Success_Files,Utterances_Returned,Expected_Utterances,Utterances_Returned_Pct,Files_Returned_Pct
+anthropic.claude-4.5-opus,1765,0,2,0,1763,40064,42140,95.1,99.9
+anthropic.claude-4.5-sonnet,1867,0,0,0,1867,42195,42140,100.1,100
+google.gemini-2.5-pro,1868,0,18,0,1850,43141,42140,102.4,99
+google.gemini-3-pro-preview,1763,0,3,0,1760,39437,42140,93.6,99.8
+openai.gpt-5,1868,0,0,0,1868,42140,42140,100,100
+openai.o3,1868,0,0,0,1868,42144,42140,100,100
