@@ -42,9 +42,10 @@ heatmap <- function(d, title, show_y = TRUE, base = 20) {
         mutate(Pct = 100 * n / max(sum(n), 1)) %>%
         ungroup() %>%
         mutate(Label = ifelse(Pct >= 1.5, sprintf("%.0f%%", Pct), ""),
-               # y runs bottom-up, so None ends on top and the diagonal rises left to right
+               # None on top (y runs bottom-up) and first on x, so None->None is top-left
+               # and the diagonal runs top-left to bottom-right
                Truth = factor(paper_short[Truth], levels = paper_short[pred_order]),
-               Pred = factor(paper_short[Pred], levels = paper_short[pred_order]))
+               Pred = factor(paper_short[Pred], levels = rev(paper_short[pred_order])))
     ggplot(cm, aes(Pred, Truth, fill = Pct)) +
         geom_tile(color = "white", linewidth = 0.8) +
         geom_text(aes(label = Label), size = base * 0.3, color = "black") +
