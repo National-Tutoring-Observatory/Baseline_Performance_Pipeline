@@ -80,7 +80,60 @@ metric_vector <- function(cm) {
     )
 }
 
+# ------------------------------------------------------------ utterance-level bootstrap
+# Matches the paper (scripts/functions/bootstrap_ci.r, compute_pairwise_pvalues.r):
+# resample utterances with replacement, R = 1,000, percentile CIs, paired tests on the
+# utterances both arms returned, p = 2 x share of differences on the other side of 0.
+
+#' One-hot confusion rows: n x 49 (column index matches confusion_vec ordering)
+utterance_cms <- function(truth, pred) {
+    idx <- match(truth, move_levels) + (match(pred, move_levels) - 1) * 7
+    m <- matrix(0, nrow = length(idx), ncol = 49)
+    m[cbind(seq_along(idx), idx)] <- 1
+    m
+}
+
+#' R x n multinomial weights: how often each of n utterances is drawn in each replicate
+utterance_weights <- function(n, R = 1000, seed = so_seed) {
+    set.seed(seed)
+    t(rmultinom(R, n, rep(1 / n, n)))
+}
+
+#' Bootstrap replicate metrics (R x metrics) for one set of utterances
+boot_utterances <- function(truth, pred, R = 1000, seed = so_seed) {
+    boot_metrics(utterance_cms(truth, pred), utterance_weights(length(truth), R, seed))
+}
+
+#' Paired bootstrap of metric differences (a - b) on utterances aligned by row
+boot_paired <- function(truth, pred_a, pred_b, metric, R = 1000, seed = so_seed) {
+    W <- utterance_weights(length(truth), R, seed)
+    a <- boot_metrics(utterance_cms(truth, pred_a), W)[, metric]
+    b <- boot_metrics(utterance_cms(truth, pred_b), W)[, metric]
+    a - b
+}
+
+#' Two-sided bootstrap p-value as in compute_pairwise_pvalues.r
+paper_p_value <- function(diffs, observed) {
+    diffs <- diffs[!is.na(diffs)]
+    if (length(diffs) == 0 || is.na(observed)) return(NA_real_)
+    p <- if (observed > 0) 2 * mean(diffs <= 0) else 2 * mean(diffs >= 0)
+    min(p, 1)
+}
+
+# ------------------------------------------------------------ figures
+
+#' Save a ggplot as PNG and JPEG on a white background (transparent PNGs are
+#' unreadable in dark-mode viewers)
+save_fig <- function(path_no_ext, plot, width, height, dpi = 200) {
+    for (ext in c("png", "jpg")) {
+        ggplot2::ggsave(paste0(path_no_ext, ".", ext), plot, width = width, height = height,
+                        dpi = dpi, bg = "white")
+    }
+}
+
 # ------------------------------------------------------------ clustered bootstrap
+# Not used for reported results (the paper's utterance-level bootstrap is kept for
+# consistency); retained for the clustering sensitivity check.
 
 #' Bootstrap weight matrix: R x T counts of how often each transcript is drawn.
 #' Shared across all models/prompts so comparisons are paired.

@@ -6,15 +6,15 @@
 #
 # Outputs (results/SystemOne/):
 #   calibration_summary.csv     per prompt: ECE (equal-width, equal-mass + realized bins),
-#                               smooth ECE, Brier, AUROC(conf -> correct), with clustered CIs
+#                               smooth ECE, Brier, AUROC(conf -> correct), with bootstrap CIs
 #   calibration_per_code.csv    one-vs-rest ECE / Brier / AUROC per code
 #   reliability_bins.csv        reliability-diagram data
 #   confidence_by_outcome.csv   confidence quantiles for correct vs. wrong, per true code
 #   risk_coverage.csv           accuracy when keeping the top x% most confident labels,
 #                               Jev vs. LLM consensus (k of 6 agreeing) as a confidence proxy
 #   universal_failures_confidence.csv
-#   figures/reliability_jev.png, figures/error_rate_by_confidence.png,
-#   figures/risk_coverage.png, figures/reliability_per_code.png
+#   figures/reliability_jev, error_rate_by_confidence (each as .png and .jpg),
+#   figures/risk_coverage, reliability_per_code (each as .png and .jpg)
 #
 # Usage: Rscript scripts/system_one/probability_vs_errors.r
 
@@ -39,9 +39,8 @@ jev <- ev %>%
 P <- as.matrix(jev[, p_cols])
 colnames(P) <- move_levels
 jev$Conf <- P[cbind(seq_len(nrow(P)), match(jev$Pred, move_levels))]
-W <- cluster_weights(ev$Transcript, R = R_BOOT)
 
-# ------------------------------------------------------------ summary with clustered CIs
+# ------------------------------------------------------------ summary with bootstrap CIs
 calib_stats <- function(d) {
     Pd <- as.matrix(d[, p_cols])
     colnames(Pd) <- move_levels
@@ -60,19 +59,23 @@ calib_stats <- function(d) {
     )
 }
 
-# Clustered bootstrap: resample transcripts by expanding rows by their weights
-boot_calib <- function(d, metrics = c("ece_equal_width", "smooth_ece", "brier", "auroc_conf_correct"), R = 200) {
-    tx <- colnames(W)
-    idx_by_tx <- split(seq_len(nrow(d)), factor(d$Transcript, levels = tx))
+# Utterance-level bootstrap (as in the paper), percentile CIs
+boot_calib <- function(d, R = R_BOOT) {
+    Pd <- as.matrix(d[, p_cols])
+    colnames(Pd) <- move_levels
+    set.seed(so_seed)
     reps <- t(sapply(seq_len(R), function(r) {
-        rows <- unlist(rep(idx_by_tx, W[r, ]), use.names = FALSE)
-        calib_stats(d[rows, ])[metrics]
+        i <- sample.int(nrow(d), replace = TRUE)
+        c(ece_equal_width = ece(d$Conf[i], d$Correct[i], bins_equal_width(d$Conf[i])),
+          smooth_ece = smooth_ece(d$Conf[i], d$Correct[i]),
+          brier = brier_multiclass(Pd[i, ], d$Truth[i]),
+          auroc_conf_correct = auroc(d$Conf[i], d$Correct[i]))
     }))
     apply(reps, 2, quantile, c(0.025, 0.975))
 }
 
 groups <- jev %>% distinct(Label, Prompt, Model)
-message("Calibration summary for ", nrow(groups), " Jev runs (CIs: R = 200 transcript resamples)")
+message("Calibration summary for ", nrow(groups), " Jev runs (CIs: R = ", R_BOOT, " utterance resamples)")
 summary_tbl <- bind_rows(lapply(seq_len(nrow(groups)), function(i) {
     d <- jev %>% filter(Label == groups$Label[i])
     s <- calib_stats(d)
@@ -129,7 +132,7 @@ g_rel <- ggplot(rel %>% filter(Label %in% main_labels, Binning == "Equal width (
          subtitle = "Top-label confidence; 15 equal-width bins; bars = 95% Jeffreys intervals",
          x = "Jev confidence in its chosen label", y = "Share correct") +
     theme_minimal(base_size = 10)
-ggsave(file.path(fig_dir, "reliability_jev.png"), g_rel, width = 13, height = 3.9, dpi = 200)
+save_fig(file.path(fig_dir, "reliability_jev"), g_rel, width = 13, height = 3.9)
 
 # ------------------------------------------------------------ confidence by outcome
 by_outcome <- jev %>%
@@ -155,7 +158,7 @@ g_err <- ggplot(err_bins, aes(Bin, fill = Outcome)) +
     labs(title = "Jev 1.14 outcomes by confidence (evaluation set)", x = "Confidence in chosen label", y = "Utterances", fill = NULL) +
     theme_minimal(base_size = 10) +
     theme(axis.text.x = element_text(angle = 60, hjust = 1, size = 7), legend.position = "bottom")
-ggsave(file.path(fig_dir, "error_rate_by_confidence.png"), g_err, width = 13, height = 4.6, dpi = 200)
+save_fig(file.path(fig_dir, "error_rate_by_confidence"), g_err, width = 13, height = 4.6)
 
 # ------------------------------------------------------------ per-code reliability (one-vs-rest)
 pc_rel <- jev %>%
@@ -178,7 +181,7 @@ g_pc <- ggplot(pc_rel, aes(mean_conf, accuracy, color = Prompt)) +
     labs(title = "Per-code reliability (one-vs-rest), Jev 1.14", x = "Jev probability for the code", y = "Share where humans gave that code") +
     theme_minimal(base_size = 10) +
     theme(legend.position = "bottom")
-ggsave(file.path(fig_dir, "reliability_per_code.png"), g_pc, width = 15, height = 3.8, dpi = 200)
+save_fig(file.path(fig_dir, "reliability_per_code"), g_pc, width = 15, height = 3.8)
 
 # ------------------------------------------------------------ risk-coverage vs. LLM consensus
 llm_cons <- ev %>%
@@ -218,7 +221,7 @@ g_rc <- ggplot(risk_cov, aes(Coverage, Accuracy_Kept, color = Source)) +
          x = "Coverage (share of utterances kept)", y = "Accuracy of kept labels", color = NULL) +
     theme_minimal(base_size = 10) +
     theme(legend.position = "bottom")
-ggsave(file.path(fig_dir, "risk_coverage.png"), g_rc, width = 13, height = 4.2, dpi = 200)
+save_fig(file.path(fig_dir, "risk_coverage"), g_rc, width = 13, height = 4.2)
 
 # ------------------------------------------------------------ universal failures
 uf <- read_csv("results/Analysis/universal_failures.csv", show_col_types = FALSE) %>%

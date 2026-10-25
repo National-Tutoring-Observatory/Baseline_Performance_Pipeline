@@ -63,4 +63,8 @@ Fixed on 2026-10-25, before any full run. Changes after this commit are listed a
 - **Cost and latency:** input tokens, `usage.cost`, median and p95 latency per condition, and cost per correct label.
 
 ## Changes after commit
-(none)
+- **2026-10-25: bootstrap unit and missing predictions now match the paper.** Decided by the PI for consistency with the paper, before any reported System One result was finalized.
+  - **Bootstrap:** all CIs and paired tests use the paper's utterance-level bootstrap, replacing transcript-clustered resampling (R = 1,000, percentile CIs, p = 2 × the share of bootstrap differences on the opposite side of 0, capped at 1).
+  - **Missing predictions:** each model is scored on the utterances it returned, as in `analyze_results.r`, and coverage is reported. Paired tests use the utterances both arms returned. This replaces the earlier "missing counts as None" rule.
+  - **Folds:** the grouped CV folds for fitted steps (temperature, thresholds, decomposition LR) are unchanged.
+  - **Sensitivity check:** a transcript-clustered re-test of the paper's prompt comparisons is kept in `paper_prompt_tests_reclustered.csv`.
