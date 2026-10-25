@@ -1,0 +1,39 @@
+# System One replication (Jev vs. Von). Read by scripts/system_one/run_system_one.py.
+
+chunk_dir: "data/inputs/stratified_samples/representative_800_chunks"
+prompt_dir: "prompts/TalkMoves_NoReasoningRequested"
+ground_truth_file: "data/inputs/ground_truth/ground_truth_TalkMoves.csv"
+splits_file: "results/SystemOne/splits.json"
+output_base: "data/outputs/SystemOne_Jev_Von"
+
+jev:
+  # One-line route switch: openrouter | typesafe | swytchcode
+  route: "openrouter"
+  routes:
+    openrouter: {base_url: "https://openrouter.ai/api/v1/systemone", key_env: "OPENROUTER_API_KEY"}
+    typesafe:   {base_url: "https://api.typesafe.ai/v1/systemone", key_env: "TYPESAFE_API_KEY"}
+    swytchcode: {base_url: null, key_env: null, monthly_limit: 10000, stop_at: 9000}  # not wired up; hung in testing
+  model: "typesafe/jev-1.14-20261014"
+  model_dir: "typesafe.jev-1.14-20261014"
+  concurrency: 8
+  max_retries: 6
+  backoff_base_s: 1.0
+  timeout_s: 120
+  # Questions per request before a chunk is split. Jev's documented limit is not published;
+  # 93 (the largest chunk) is verified in test mode.
+  max_questions_per_request: 100
+  long_context_flag_bytes: 32000
+
+von:
+  device: "mps"            # never silently fall back to CPU
+  hf_repo: "wfzyx/von"     # was wfzyx/von-1.0 (renamed); archived 2026-10-19, final weights = 1.2
+  hf_sha: "3a34cbdfaa1e90f2a9eb6b3bfc5ac5c92a18cb01"
+  model_dir: "wfzyx.von-1.2"
+
+request:
+  # chunk: full chunk dialogue as state, one question per teacher utterance (spec default)
+  # target_only: state is the target sentence alone (diagnostic; Von collapses with context)
+  state_mode: "chunk"
+  # Few-shot example placement: state | question (chosen by the dev-set pilot)
+  example_placement: "state"
+  none_description: "No talk move: off-topic, evaluative, administrative, or student-directed talk."
