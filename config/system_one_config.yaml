@@ -34,6 +34,7 @@ request:
   # chunk: full chunk dialogue as state, one question per teacher utterance (spec default)
   # target_only: state is the target sentence alone (diagnostic; Von collapses with context)
   state_mode: "chunk"
-  # Few-shot example placement: state | question (chosen by the dev-set pilot)
-  example_placement: "state"
+  # Few-shot example placement: state | question. Chosen by the dev-set pilot
+  # (results/SystemOne/dev_pilot.md): question, mean dev kappa 0.449 vs 0.435.
+  example_placement: "question"
   none_description: "No talk move: off-topic, evaluative, administrative, or student-directed talk."
