@@ -1,0 +1,57 @@
+Prompt,Truth,Outcome,n,conf_q25,conf_median,conf_q75,share_conf_ge_0.9
+ZeroShot,Getting Students to Relate to Another's Ideas,Correct,83,0.66,0.81,0.93,0.3132530120481928
+ZeroShot,Getting Students to Relate to Another's Ideas,Wrong,61,0.51,0.58,0.7,0.11475409836065574
+ZeroShot,Keeping Everyone Together,Correct,118,0.5025,0.5650000000000001,0.67,0.00847457627118644
+ZeroShot,Keeping Everyone Together,Wrong,1160,0.51,0.64,0.79,0.10258620689655172
+ZeroShot,None,Correct,4688,0.68,0.86,0.96,0.42448805460750855
+ZeroShot,None,Wrong,1484,0.44,0.5599999999999999,0.6925000000000001,0.0646900269541779
+ZeroShot,Pressing for Accuracy,Correct,706,0.62,0.78,0.89,0.23512747875354106
+ZeroShot,Pressing for Accuracy,Wrong,522,0.53,0.665,0.85,0.20689655172413793
+ZeroShot,Pressing for Reasoning,Correct,108,0.9775,0.995,1,0.8703703703703703
+ZeroShot,Pressing for Reasoning,Wrong,2,0.53,0.55,0.5700000000000001,0
+ZeroShot,Restating,Correct,100,0.92,0.97,0.98,0.79
+ZeroShot,Restating,Wrong,14,0.64,0.78,0.9675,0.42857142857142855
+ZeroShot,Revoicing,Correct,116,0.62,0.79,0.9025000000000001,0.27586206896551724
+ZeroShot,Revoicing,Wrong,108,0.49,0.605,0.7925,0.1111111111111111
+OneShot,Getting Students to Relate to Another's Ideas,Correct,89,0.7,0.86,0.96,0.43820224719101125
+OneShot,Getting Students to Relate to Another's Ideas,Wrong,55,0.5,0.6,0.77,0.14545454545454545
+OneShot,Keeping Everyone Together,Correct,92,0.4575,0.55,0.63,0.07608695652173914
+OneShot,Keeping Everyone Together,Wrong,1186,0.56,0.73,0.87,0.21500843170320405
+OneShot,None,Correct,5003,0.75,0.92,0.98,0.5530681591045373
+OneShot,None,Wrong,1169,0.46,0.58,0.73,0.08126603934987169
+OneShot,Pressing for Accuracy,Correct,827,0.68,0.87,0.95,0.44135429262394194
+OneShot,Pressing for Accuracy,Wrong,401,0.51,0.64,0.86,0.22942643391521197
+OneShot,Pressing for Reasoning,Correct,106,0.97,0.99,1,0.8490566037735849
+OneShot,Pressing for Reasoning,Wrong,4,0.485,0.5700000000000001,0.6175,0
+OneShot,Restating,Correct,98,0.94,0.98,0.99,0.8367346938775511
+OneShot,Restating,Wrong,16,0.62,0.77,0.9624999999999999,0.375
+OneShot,Revoicing,Correct,112,0.64,0.79,0.9025000000000001,0.25892857142857145
+OneShot,Revoicing,Wrong,112,0.5375000000000001,0.675,0.8,0.14285714285714285
+FewShot_3,Getting Students to Relate to Another's Ideas,Correct,86,0.73,0.86,0.96,0.4186046511627907
+FewShot_3,Getting Students to Relate to Another's Ideas,Wrong,58,0.4725,0.59,0.7575000000000001,0.13793103448275862
+FewShot_3,Keeping Everyone Together,Correct,186,0.5,0.58,0.7,0.010752688172043012
+FewShot_3,Keeping Everyone Together,Wrong,1092,0.54,0.67,0.81,0.13095238095238096
+FewShot_3,None,Correct,4858,0.7,0.87,0.96,0.43124742692466034
+FewShot_3,None,Wrong,1314,0.46,0.56,0.7,0.0715372907153729
+FewShot_3,Pressing for Accuracy,Correct,878,0.72,0.9,0.97,0.5079726651480638
+FewShot_3,Pressing for Accuracy,Wrong,350,0.52,0.66,0.8775000000000001,0.2257142857142857
+FewShot_3,Pressing for Reasoning,Correct,106,0.96,0.99,1,0.839622641509434
+FewShot_3,Pressing for Reasoning,Wrong,4,0.47,0.595,0.7149999999999999,0
+FewShot_3,Restating,Correct,99,0.96,0.98,0.99,0.8585858585858586
+FewShot_3,Restating,Wrong,15,0.635,0.83,0.9450000000000001,0.3333333333333333
+FewShot_3,Revoicing,Correct,116,0.6375,0.775,0.9025000000000001,0.2672413793103448
+FewShot_3,Revoicing,Wrong,108,0.52,0.66,0.8025000000000001,0.16666666666666666
+FewShot_ALL,Getting Students to Relate to Another's Ideas,Correct,92,0.7475,0.91,0.96,0.532608695652174
+FewShot_ALL,Getting Students to Relate to Another's Ideas,Wrong,52,0.5075000000000001,0.63,0.7825,0.11538461538461539
+FewShot_ALL,Keeping Everyone Together,Correct,664,0.59,0.71,0.8,0.0963855421686747
+FewShot_ALL,Keeping Everyone Together,Wrong,614,0.51,0.65,0.81,0.16123778501628663
+FewShot_ALL,None,Correct,4254,0.65,0.81,0.94,0.3537846732487071
+FewShot_ALL,None,Wrong,1918,0.46,0.57,0.72,0.06934306569343066
+FewShot_ALL,Pressing for Accuracy,Correct,889,0.71,0.88,0.96,0.46794150731158607
+FewShot_ALL,Pressing for Accuracy,Wrong,339,0.53,0.71,0.9,0.26253687315634217
+FewShot_ALL,Pressing for Reasoning,Correct,104,0.95,0.99,1,0.8269230769230769
+FewShot_ALL,Pressing for Reasoning,Wrong,6,0.6024999999999999,0.685,0.7675000000000001,0
+FewShot_ALL,Restating,Correct,100,0.9275,0.97,0.99,0.81
+FewShot_ALL,Restating,Wrong,14,0.7049999999999998,0.735,0.9249999999999999,0.2857142857142857
+FewShot_ALL,Revoicing,Correct,121,0.61,0.76,0.91,0.2892561983471074
+FewShot_ALL,Revoicing,Wrong,103,0.525,0.63,0.77,0.14563106796116504
