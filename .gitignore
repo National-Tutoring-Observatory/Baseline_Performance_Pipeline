@@ -20,6 +20,7 @@ results/*
 !results/full_sample/
 !results/stratified_sample/
 !results/Baseline_Experiments/
+!results/SystemOne/
 
 # Logs
 logs/*
@@ -61,3 +62,5 @@ ENV/
 # Large files
 *.rds
 *.RDS
+
+.swytchcode/workspace.json
