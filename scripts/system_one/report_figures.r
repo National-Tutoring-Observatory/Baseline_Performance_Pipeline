@@ -39,4 +39,40 @@ g <- ggplot(o, aes(kappa, Label, color = Is_Jev)) +
     theme(panel.grid.minor = element_blank(), panel.grid.major.y = element_blank(),
           strip.text = element_text(face = "bold"), plot.title = element_text(face = "bold"))
 save_fig(file.path(fig_dir, "overall_kappa"), g, width = 12, height = 4)
-message("Saved ", file.path(fig_dir, "overall_kappa"))
+
+# ------------------------------------------------------------ per-code reliability grid
+# One-vs-rest: for each code, Jev's probability for that code vs. the share of
+# utterances humans gave that code (15 equal-width bins), per prompt condition.
+prompts <- c("ZeroShot", "OneShot", "FewShot_3", "FewShot_ALL")
+code_order <- c(move_levels[-1], "None")
+jev <- read_csv(file.path(so_results_dir, "eval_predictions.csv"), show_col_types = FALSE) %>%
+    filter(Model == "typesafe.jev-1.14-20261014", !Missing)
+pc_rel <- jev %>%
+    select(Prompt, Truth, all_of(paste0("p_", move_levels))) %>%
+    pivot_longer(starts_with("p_"), names_to = "Code", values_to = "p") %>%
+    mutate(Code = sub("^p_", "", Code), y = Truth == Code) %>%
+    group_by(Prompt, Code) %>%
+    group_modify(~ reliability_table(.x$p, .x$y, bins_equal_width(.x$p))) %>%
+    ungroup() %>%
+    mutate(Code = factor(Code, levels = code_order), Prompt = factor(Prompt, levels = prompts))
+write_csv(pc_rel, file.path(so_results_dir, "reliability_per_code_bins.csv"))
+
+g_pc <- ggplot(pc_rel, aes(mean_conf, accuracy, color = Prompt)) +
+    geom_abline(linetype = "dashed", color = "grey60") +
+    geom_line(linewidth = 0.6, alpha = 0.85) +
+    geom_point(aes(size = n), alpha = 0.85) +
+    scale_size_area(max_size = 3.5, guide = "none") +
+    scale_color_brewer(palette = "Dark2", name = "Prompt condition") +
+    scale_x_continuous(breaks = c(0, 0.5, 1), labels = c("0", "0.5", "1")) +
+    scale_y_continuous(breaks = c(0, 0.5, 1), labels = c("0", "0.5", "1")) +
+    coord_equal(xlim = c(0, 1), ylim = c(0, 1)) +
+    facet_wrap(~Code, ncol = 4, labeller = label_wrap_gen(width = 26)) +
+    labs(title = "Per-code reliability of Jev 1.14 (one move vs. all others)",
+         subtitle = "Dashed line = perfect calibration; above it Jev under-predicts the code, below it over-predicts. Point size = utterances per bin.",
+         x = "Jev probability for the code", y = "Share where humans gave that code") +
+    theme_minimal(base_size = 11) +
+    theme(strip.text = element_text(face = "bold", size = 10), panel.grid.minor = element_blank(),
+          plot.title = element_text(face = "bold"), panel.spacing = unit(1, "lines"),
+          legend.position = "inside", legend.position.inside = c(0.875, 0.25))
+save_fig(file.path(fig_dir, "reliability_per_code"), g_pc, width = 11, height = 6.6)
+message("Saved report figures to ", fig_dir)

@@ -14,7 +14,7 @@
 #                               Jev vs. LLM consensus (k of 6 agreeing) as a confidence proxy
 #   universal_failures_confidence.csv
 #   figures/reliability_jev, error_rate_by_confidence (each as .png and .jpg),
-#   figures/risk_coverage, reliability_per_code (each as .png and .jpg)
+#   figures/risk_coverage (.png and .jpg)
 #
 # Usage: Rscript scripts/system_one/probability_vs_errors.r
 
@@ -160,28 +160,7 @@ g_err <- ggplot(err_bins, aes(Bin, fill = Outcome)) +
     theme(axis.text.x = element_text(angle = 60, hjust = 1, size = 7), legend.position = "bottom")
 save_fig(file.path(fig_dir, "error_rate_by_confidence"), g_err, width = 13, height = 4.6)
 
-# ------------------------------------------------------------ per-code reliability (one-vs-rest)
-pc_rel <- jev %>%
-    filter(Label %in% main_labels) %>%
-    select(Prompt, Truth, all_of(p_cols)) %>%
-    pivot_longer(all_of(p_cols), names_to = "Code", values_to = "p") %>%
-    mutate(Code = sub("^p_", "", Code), y = Truth == Code) %>%
-    group_by(Prompt, Code) %>%
-    group_modify(~ reliability_table(.x$p, .x$y, bins_equal_width(.x$p))) %>%
-    ungroup() %>%
-    mutate(Code = factor(move_short[Code], levels = move_short), Prompt = factor(Prompt, levels = prompts))
-g_pc <- ggplot(pc_rel, aes(mean_conf, accuracy, color = Prompt)) +
-    geom_abline(linetype = "dashed", color = "grey60") +
-    geom_point(aes(size = n), alpha = 0.7) +
-    geom_line(alpha = 0.7) +
-    scale_size_area(max_size = 4, guide = "none") +
-    scale_color_brewer(palette = "Dark2") +
-    coord_equal(xlim = c(0, 1), ylim = c(0, 1)) +
-    facet_wrap(~Code, nrow = 1) +
-    labs(title = "Per-code reliability (one-vs-rest), Jev 1.14", x = "Jev probability for the code", y = "Share where humans gave that code") +
-    theme_minimal(base_size = 10) +
-    theme(legend.position = "bottom")
-save_fig(file.path(fig_dir, "reliability_per_code"), g_pc, width = 15, height = 3.8)
+# Per-code reliability figure: scripts/system_one/report_figures.r
 
 # ------------------------------------------------------------ risk-coverage vs. LLM consensus
 llm_cons <- ev %>%
