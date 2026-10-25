@@ -90,7 +90,8 @@ def build_requests(chunk_name, prompt_name, condition, variant):
             s["move_examples"] = examples
         if target is not None:
             s["target_id"] = target["ID"]
-        s["dialogue"] = [{k: u[k] for k in ("ID", "Turn", "Speaker", "Sentence")} for u in utts]
+        # One input utterance (ID 15761) has no Turn; send it as null rather than editing inputs.
+        s["dialogue"] = [{k: u.get(k) for k in ("ID", "Turn", "Speaker", "Sentence")} for u in utts]
         return json.dumps(s, ensure_ascii=False)
 
     def choice_q(u):
@@ -253,7 +254,7 @@ def run_chunk(chunk, prompt_name, model, out_dir, condition, variant):
                 json.dump({"n_rows": len(rows), "n_requests": len(reqs)}, f)
             return f"{len(rows)} nouls / {len(reqs)} req"
         append_csv(os.path.join(out_dir, "probabilities.csv"), PROB_COLS, rows)
-        records = [{"ID": u["ID"], "Speaker": "T", "Turn": u["Turn"],
+        records = [{"ID": u["ID"], "Speaker": "T", "Turn": u.get("Turn"),
                     "TalkMove": None if answers[str(u["ID"])] == "None" else answers[str(u["ID"])]}
                    for u in utts if u["Speaker"] == "T"]
         with open(done_path, "w") as f:
