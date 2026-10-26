@@ -24,6 +24,20 @@ jev:
   max_questions_per_request: 100
   long_context_flag_bytes: 32000
 
+kev:
+  # Local Kev server from github.com/jaredpalmer/kev (commit 2074cc4), started with
+  #   uv run --extra serve python -m kev.serve --run jaredpalmer/kev-0.8b@v1.0 --port 8008
+  # Same /v1/systemone API as Jev; MLX backend on Apple Silicon.
+  route: "local"
+  routes:
+    local: {base_url: "http://127.0.0.1:8008/v1/systemone", key_env: null}
+  model: "kev-latest"
+  model_dir: "jaredpalmer.kev-0.8b-v1.0"
+  concurrency: 1
+  max_retries: 3
+  backoff_base_s: 1.0
+  timeout_s: 600
+
 von:
   device: "mps"            # never silently fall back to CPU
   hf_repo: "wfzyx/von"     # was wfzyx/von-1.0 (renamed); archived 2026-10-19, final weights = 1.2

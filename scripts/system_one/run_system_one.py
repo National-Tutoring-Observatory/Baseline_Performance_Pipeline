@@ -138,12 +138,13 @@ def build_requests(chunk_name, prompt_name, condition, variant):
 
 # ---------------------------------------------------------------- callers
 
-def jev_call(state, questions):
-    jc = CFG["jev"]
+def http_call(model, state, questions):
+    """POST /v1/systemone for any TypeSafe-compatible server (Jev hosted, Kev local)."""
+    jc = CFG[model]
     route = jc["routes"][jc["route"]]
     if not route.get("base_url"):
-        raise RuntimeError(f"Jev route '{jc['route']}' is not wired up")
-    key = os.environ.get(route["key_env"]) or dotenv(route["key_env"])
+        raise RuntimeError(f"{model} route '{jc['route']}' is not wired up")
+    key = (os.environ.get(route["key_env"]) or dotenv(route["key_env"])) if route.get("key_env") else "local"
     body = json.dumps({"model": jc["model"], "state": state, "questions": questions}).encode()
     for attempt in range(jc["max_retries"] + 1):
         req = urllib.request.Request(route["base_url"], data=body, method="POST",
@@ -212,7 +213,7 @@ def run_chunk(chunk, prompt_name, model, out_dir, condition, variant):
     if os.path.exists(done_path):
         return "skipped"
     reqs, utts = build_requests(chunk, prompt_name, condition, variant)
-    call = jev_call if model == "jev" else von_call
+    call = von_call if model == "von" else (lambda st, qs: http_call(model, st, qs))
     answers, rows, logs = {}, [], []
     for state, questions, part, decode in reqs:
         if not questions:
@@ -224,7 +225,7 @@ def run_chunk(chunk, prompt_name, model, out_dir, condition, variant):
         logs.append({"chunk": chunk, "prompt": prompt_name, "condition": condition, "variant": variant, "part": part,
                      "timestamp": ts, "latency_ms": latency, "retries": retries, "state_bytes": state_bytes,
                      "long_context": state_bytes > CFG["jev"]["long_context_flag_bytes"],
-                     "request": {"model": CFG["jev"]["model"] if model == "jev" else None, "state": state, "questions": questions},
+                     "request": {"model": CFG[model].get("model"), "state": state, "questions": questions},
                      "response": resp})
         missing = set(questions) - set(resp["answers"])
         if missing:
@@ -290,7 +291,7 @@ def select_chunks(spec):
 
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument("--model", choices=["jev", "von"], required=True)
+    ap.add_argument("--model", choices=["jev", "kev", "von"], required=True)
     ap.add_argument("--jev-model", default=None, help="override the pinned Jev model id")
     ap.add_argument("--condition", default="A", choices=["A", "B"])
     ap.add_argument("--variant", default="base", choices=["base", "shuffle", "letters"])
@@ -318,7 +319,7 @@ def main():
     os.makedirs(out_dir, exist_ok=True)
 
     chunks = select_chunks(args.chunks)
-    workers = CFG["jev"]["concurrency"] if args.model == "jev" else 1
+    workers = CFG[args.model].get("concurrency", 1)
     t0, errors = time.time(), 0
     with cf.ThreadPoolExecutor(workers) as ex:
         futs = {ex.submit(run_chunk, c, args.prompt, args.model, out_dir, args.condition, args.variant): c for c in chunks}
