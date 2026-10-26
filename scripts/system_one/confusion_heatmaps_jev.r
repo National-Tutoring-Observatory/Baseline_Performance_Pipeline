@@ -77,4 +77,25 @@ combined <- wrap_plots(panels, nrow = 1, guides = "collect") +
     plot_annotation(title = "Jev 1.14 confusion matrices (evaluation set)",
                     theme = theme(plot.title = element_text(face = "bold", hjust = 0.5, size = 18)))
 save_fig(file.path(fig_dir, "confusion_jev"), combined, width = 22, height = 6.5)
+
+# Best LLM run vs. best Jev run (both FewShot_ALL), on the utterances both returned
+best_llm <- "anthropic.claude-4.5-opus"
+all_ev <- read_csv(file.path(so_results_dir, "eval_predictions.csv"), show_col_types = FALSE) %>%
+    filter(!Missing, Prompt == "FewShot_ALL", Model %in% c(best_llm, jev_main))
+shared <- all_ev %>% count(ID) %>% filter(n == 2) %>% pull(ID)
+pair <- all_ev %>% filter(ID %in% shared)
+kap <- function(m) {
+    d <- pair %>% filter(Model == m)
+    metrics_from_cm(matrix(confusion_vec(d$Truth, d$Pred), 7, 7))$kappa
+}
+side <- heatmap(pair %>% filter(Model == best_llm), sprintf("Claude 4.5 Opus (κ = %.2f)", kap(best_llm)), base = 16) +
+    heatmap(pair %>% filter(Model == jev_main), sprintf("Jev 1.14 (κ = %.2f)", kap(jev_main)), show_y = FALSE, base = 16) +
+    plot_layout(guides = "collect") +
+    plot_annotation(
+        title = "Best LLM run vs. best Jev run (FewShot_ALL)",
+        subtitle = sprintf("Same %s evaluation utterances (those Opus returned). Cells are %% of each human-label row; the diagonal is correct.",
+                           format(length(shared), big.mark = ",")),
+        theme = theme(plot.title = element_text(face = "bold", hjust = 0.5, size = 20),
+                      plot.subtitle = element_text(hjust = 0.5, size = 13, color = "grey30")))
+save_fig(file.path(fig_dir, "confusion_opus_vs_jev"), side, width = 17, height = 8.6)
 message("Saved confusion heatmaps to ", fig_dir)
